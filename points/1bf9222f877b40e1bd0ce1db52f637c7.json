@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 4047.81,
+        "bid_time": "2015-09-09T13:45:33.511620+03:00",
+        "bidder": "e4e12ad5b29143f2a4332d4f9ab22c03",
+        "time": "2015-09-09T10:47:00.031066+00:00"
+      },
+      "turn_3": {
+        "bidder": "5ec0c3145ad84737849aabf698128d87",
+        "time": "2015-09-09T10:49:00.041146+00:00"
+      },
+      "turn_1": {
+        "bidder": "845dba3a529341de9c78bf3542f69b1a",
+        "time": "2015-09-09T10:45:00.026983+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3600.0,
+        "bid_time": "2015-09-09T13:54:16.828341+03:00",
+        "bidder": "5ec0c3145ad84737849aabf698128d87",
+        "time": "2015-09-09T10:55:00.024813+00:00"
+      },
+      "turn_3": {
+        "bidder": "e4e12ad5b29143f2a4332d4f9ab22c03",
+        "time": "2015-09-09T10:57:00.030893+00:00"
+      },
+      "turn_1": {
+        "bidder": "845dba3a529341de9c78bf3542f69b1a",
+        "time": "2015-09-09T10:53:00.026293+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e4e12ad5b29143f2a4332d4f9ab22c03",
+        "time": "2015-09-09T10:39:00.044535+00:00"
+      },
+      "turn_3": {
+        "bidder": "5ec0c3145ad84737849aabf698128d87",
+        "time": "2015-09-09T10:41:00.016893+00:00"
+      },
+      "turn_1": {
+        "bidder": "845dba3a529341de9c78bf3542f69b1a",
+        "time": "2015-09-09T10:37:00.032725+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "845dba3a529341de9c78bf3542f69b1a",
+          "amount": 4449.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-08T17:29:21.347375+03:00"
+        },
+        {
+          "bidder": "e4e12ad5b29143f2a4332d4f9ab22c03",
+          "amount": 4047.81,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": ""
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-09-09T13:45:33.511620+03:00"
+        },
+        {
+          "bidder": "5ec0c3145ad84737849aabf698128d87",
+          "amount": 3600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952834842",
+                "name": "Товариство з обмеженою відповідальністю \"Юрія-Фарм\"",
+                "email": "kuchugurak@uf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30109129",
+                "legalName": "Товариство з обмеженою відповідальністю \"Юрія-Фарм\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Юрія-Фарм\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул Миколи Амосова буд.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-09T13:54:16.828341+03:00"
+        }
+      ],
+      "time": "2015-09-09T10:57:03.267754+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T17:29:21.347375+03:00",
+          "amount": 4449.0,
+          "bidder": "845dba3a529341de9c78bf3542f69b1a"
+        },
+        {
+          "date": "2015-09-08T10:34:29.885293+03:00",
+          "amount": 4237.2,
+          "bidder": "e4e12ad5b29143f2a4332d4f9ab22c03"
+        },
+        {
+          "date": "2015-09-04T13:12:04.793431+03:00",
+          "amount": 4167.0,
+          "bidder": "5ec0c3145ad84737849aabf698128d87"
+        }
+      ],
+      "time": "2015-09-09T10:30:00.004926+00:00"
+    }
+  },
+  "id": "1bf9222f877b40e1bd0ce1db52f637c7",
+  "tenderId": "UA-2015-09-01-000060"
+}

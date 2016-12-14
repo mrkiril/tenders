@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bd696c7a66b34dd0a9d5e10ed6a8b459",
+        "time": "2015-11-10T11:22:55.008795+00:00"
+      },
+      "turn_3": {
+        "bidder": "07585f63e00840cfb9e6098289bde220",
+        "time": "2015-11-10T11:24:55.009274+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c281c1557634b9cb87d5aa17f645e4b",
+        "time": "2015-11-10T11:20:55.010026+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bd696c7a66b34dd0a9d5e10ed6a8b459",
+        "time": "2015-11-10T11:30:55.009337+00:00"
+      },
+      "turn_3": {
+        "bidder": "07585f63e00840cfb9e6098289bde220",
+        "time": "2015-11-10T11:32:55.008862+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c281c1557634b9cb87d5aa17f645e4b",
+        "time": "2015-11-10T11:28:55.010989+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bd696c7a66b34dd0a9d5e10ed6a8b459",
+        "time": "2015-11-10T11:14:55.009256+00:00"
+      },
+      "turn_3": {
+        "bidder": "07585f63e00840cfb9e6098289bde220",
+        "time": "2015-11-10T11:16:55.008682+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c281c1557634b9cb87d5aa17f645e4b",
+        "time": "2015-11-10T11:12:55.022595+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9c281c1557634b9cb87d5aa17f645e4b",
+          "amount": 19389.02,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mercury.net.ua",
+                "telephone": "+380445070719",
+                "name": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\"",
+                "email": "n.kurochkina@mercury.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39320758",
+                "legalName": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04112, м. Київ, вул. Олени Теліги, буд. 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T09:57:38.210478+02:00"
+        },
+        {
+          "bidder": "bd696c7a66b34dd0a9d5e10ed6a8b459",
+          "amount": 19012.93,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrposhta.com/www/upost_vinnica.nsf",
+                "telephone": "+380674075718",
+                "name": "ДП \"Вінницька дирекція УДППЗ \"Укрпошта\"\"",
+                "email": "fedorova-sv@ukrposhta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20116650",
+                "legalName": "ДП \"Вінницька дирекція УДППЗ \"Укрпошта\"\""
+              },
+              "name": "ДП \"Вінницька дирекція УДППЗ \"Укрпошта\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21050",
+                "region": "ВИННИЦКАЯ ОБЛ.",
+                "streetAddress": "Соборна 59",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-11-06T09:44:38.415525+02:00"
+        },
+        {
+          "bidder": "07585f63e00840cfb9e6098289bde220",
+          "amount": 18788.75,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T15:53:35.552437+02:00"
+        }
+      ],
+      "time": "2015-11-10T11:33:02.569167+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T09:57:38.210478+02:00",
+          "amount": 19389.02,
+          "bidder": "9c281c1557634b9cb87d5aa17f645e4b"
+        },
+        {
+          "date": "2015-11-06T09:44:38.415525+02:00",
+          "amount": 19012.93,
+          "bidder": "bd696c7a66b34dd0a9d5e10ed6a8b459"
+        },
+        {
+          "date": "2015-11-06T15:53:35.552437+02:00",
+          "amount": 18788.75,
+          "bidder": "07585f63e00840cfb9e6098289bde220"
+        }
+      ],
+      "time": "2015-11-10T11:05:55.005010+00:00"
+    }
+  },
+  "id": "101e6d5c372c491291a2dc6b08120977",
+  "tenderId": "UA-2015-10-29-000076"
+}

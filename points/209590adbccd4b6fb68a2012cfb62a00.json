@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2800.0,
+        "bid_time": "2015-10-16T15:48:36.481332+03:00",
+        "bidder": "facf57dbdb1f4389a2573ad154aec079",
+        "time": "2015-10-16T12:50:30.011952+00:00"
+      },
+      "turn_3": {
+        "bidder": "e718266db73045a5be6c9d401db10c9b",
+        "time": "2015-10-16T12:52:30.009722+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2350363eb9a44069d6cd90faa2cdeba",
+        "time": "2015-10-16T12:48:30.009702+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e718266db73045a5be6c9d401db10c9b",
+        "time": "2015-10-16T12:58:30.010154+00:00"
+      },
+      "turn_3": {
+        "bidder": "facf57dbdb1f4389a2573ad154aec079",
+        "time": "2015-10-16T13:00:30.009445+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2350363eb9a44069d6cd90faa2cdeba",
+        "time": "2015-10-16T12:56:30.009273+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "facf57dbdb1f4389a2573ad154aec079",
+        "time": "2015-10-16T12:42:30.011936+00:00"
+      },
+      "turn_3": {
+        "bidder": "e718266db73045a5be6c9d401db10c9b",
+        "time": "2015-10-16T12:44:30.010783+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2350363eb9a44069d6cd90faa2cdeba",
+        "time": "2015-10-16T12:40:30.010984+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b2350363eb9a44069d6cd90faa2cdeba",
+          "amount": 3200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444140803",
+                "name": "Приватне підприємство\"КОР-АЛ\"",
+                "email": "natalonka1960@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34292957",
+                "legalName": "Приватне підприємство\"КОР-АЛ\""
+              },
+              "name": "Приватне підприємство\"КОР-АЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04213 м.Київ.вул.Прирічна буд.37 кв.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T09:46:56.307478+03:00"
+        },
+        {
+          "bidder": "e718266db73045a5be6c9d401db10c9b",
+          "amount": 2980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675495148",
+                "name": "Общество сограниченой ответственностью  Денрос",
+                "email": "hrc@denros.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32346869",
+                "legalName": "Общество сограниченой ответственностью  Денрос"
+              },
+              "name": "Общество сограниченой ответственностью  Денрос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, г. Киев, ул. Марко Вовчок, 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T11:55:46.243801+03:00"
+        },
+        {
+          "bidder": "facf57dbdb1f4389a2573ad154aec079",
+          "amount": 2800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-16T15:48:36.481332+03:00"
+        }
+      ],
+      "time": "2015-10-16T13:01:04.291422+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T09:46:56.307478+03:00",
+          "amount": 3200.0,
+          "bidder": "b2350363eb9a44069d6cd90faa2cdeba"
+        },
+        {
+          "date": "2015-10-14T18:56:59.649710+03:00",
+          "amount": 3079.2,
+          "bidder": "facf57dbdb1f4389a2573ad154aec079"
+        },
+        {
+          "date": "2015-10-15T11:55:46.243801+03:00",
+          "amount": 2980.0,
+          "bidder": "e718266db73045a5be6c9d401db10c9b"
+        }
+      ],
+      "time": "2015-10-16T12:33:30.002366+00:00"
+    }
+  },
+  "id": "209590adbccd4b6fb68a2012cfb62a00",
+  "tenderId": "UA-2015-10-08-000191"
+}

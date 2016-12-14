@@ -1,0 +1,259 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 16070.0,
+        "bid_time": "2015-11-02T13:38:43.374317+02:00",
+        "bidder": "62212cfa692d4256a6221cc782b79baf",
+        "time": "2015-11-02T11:39:54.013817+00:00"
+      },
+      "turn_5": {
+        "amount": 15892.0,
+        "bid_time": "2015-11-02T13:41:25.257187+02:00",
+        "bidder": "7af76e856e3b43d2a9848f729c94039e",
+        "time": "2015-11-02T11:41:54.009923+00:00"
+      },
+      "turn_2": {
+        "amount": 17400.0,
+        "bid_time": "2015-11-02T13:35:12.091648+02:00",
+        "bidder": "98ebf485c75a483ca23034fb6b3a65a4",
+        "time": "2015-11-02T11:35:54.010170+00:00"
+      },
+      "turn_3": {
+        "bidder": "f3c0bebfd9f549eaa6d51b0fdc493850",
+        "time": "2015-11-02T11:37:54.007546+00:00"
+      },
+      "turn_1": {
+        "bidder": "224fd931c8f148abb58bf8eccdf523ab",
+        "time": "2015-11-02T11:33:54.011673+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 15489.0,
+        "bid_time": "2015-11-02T13:51:31.890156+02:00",
+        "bidder": "62212cfa692d4256a6221cc782b79baf",
+        "time": "2015-11-02T11:51:54.010459+00:00"
+      },
+      "turn_5": {
+        "bidder": "7af76e856e3b43d2a9848f729c94039e",
+        "time": "2015-11-02T11:53:54.011762+00:00"
+      },
+      "turn_2": {
+        "amount": 16300.0,
+        "bid_time": "2015-11-02T13:46:07.000054+02:00",
+        "bidder": "98ebf485c75a483ca23034fb6b3a65a4",
+        "time": "2015-11-02T11:47:54.009917+00:00"
+      },
+      "turn_3": {
+        "amount": 15500.0,
+        "bid_time": "2015-11-02T13:48:11.623273+02:00",
+        "bidder": "f3c0bebfd9f549eaa6d51b0fdc493850",
+        "time": "2015-11-02T11:49:54.010094+00:00"
+      },
+      "turn_1": {
+        "bidder": "224fd931c8f148abb58bf8eccdf523ab",
+        "time": "2015-11-02T11:45:54.011877+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "62212cfa692d4256a6221cc782b79baf",
+        "time": "2015-11-02T11:27:54.010231+00:00"
+      },
+      "turn_5": {
+        "bidder": "7af76e856e3b43d2a9848f729c94039e",
+        "time": "2015-11-02T11:29:54.007053+00:00"
+      },
+      "turn_2": {
+        "bidder": "224fd931c8f148abb58bf8eccdf523ab",
+        "time": "2015-11-02T11:23:54.010268+00:00"
+      },
+      "turn_3": {
+        "bidder": "f3c0bebfd9f549eaa6d51b0fdc493850",
+        "time": "2015-11-02T11:25:54.008288+00:00"
+      },
+      "turn_1": {
+        "amount": 17900.0,
+        "bid_time": "2015-11-02T13:20:26.207588+02:00",
+        "bidder": "98ebf485c75a483ca23034fb6b3a65a4",
+        "time": "2015-11-02T11:21:54.012353+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "224fd931c8f148abb58bf8eccdf523ab",
+          "amount": 18435.96,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503812505, +380445070719, +380445070720",
+                "name": "Наталия Курочкина",
+                "email": "n.kurochkina@mercury.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39320758",
+                "legalName": "ТОВ \"Меркурій Експрес\""
+              },
+              "name": "ТОВ \"Меркурій Експрес\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04112",
+                "region": "Киевская",
+                "streetAddress": "вул .Олени Теліги, буд. 4",
+                "locality": "Украина"
+              }
+            }
+          ],
+          "time": "2015-10-30T11:30:40.145891+02:00"
+        },
+        {
+          "bidder": "98ebf485c75a483ca23034fb6b3a65a4",
+          "amount": 16300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mercury.net.ua",
+                "telephone": "+380445070719",
+                "name": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\"",
+                "email": "n.kurochkina@mercury.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39320758",
+                "legalName": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Меркурій Експрес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04112, м. Київ, вул. Олени Теліги, буд. 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T13:46:07.000054+02:00"
+        },
+        {
+          "bidder": "7af76e856e3b43d2a9848f729c94039e",
+          "amount": 15892.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445361175",
+                "name": "Марія",
+                "email": "podpiska1@prescentr.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ПресЦентр Київ\"",
+                "id": "34809613",
+                "uri": "http://www.prescentr.kiev.ua/"
+              },
+              "name": "ТОВ \"ПресЦентр Київ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03150",
+                "region": "Киевская",
+                "streetAddress": "м. Київ",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T13:41:25.257187+02:00"
+        },
+        {
+          "bidder": "f3c0bebfd9f549eaa6d51b0fdc493850",
+          "amount": 15500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://periodik.com.ua",
+                "faxNumber": "+380445853165",
+                "telephone": "+380980062899",
+                "name": "Козій Наталія Вікторівна",
+                "email": "alex@periodik.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23700220"
+              },
+              "name": "ТОВ \"Фірма\"Періодика\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "01042, м. Київ, бул. Дружби Народів, 9",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T13:48:11.623273+02:00"
+        },
+        {
+          "bidder": "62212cfa692d4256a6221cc782b79baf",
+          "amount": 15489.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-02T13:51:31.890156+02:00"
+        }
+      ],
+      "time": "2015-11-02T11:53:56.761132+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T11:30:40.145891+02:00",
+          "amount": 18435.96,
+          "bidder": "224fd931c8f148abb58bf8eccdf523ab"
+        },
+        {
+          "date": "2015-10-30T11:33:12.698227+02:00",
+          "amount": 18435.96,
+          "bidder": "98ebf485c75a483ca23034fb6b3a65a4"
+        },
+        {
+          "date": "2015-10-29T16:34:28.986644+02:00",
+          "amount": 16850.36,
+          "bidder": "f3c0bebfd9f549eaa6d51b0fdc493850"
+        },
+        {
+          "date": "2015-10-29T18:45:27.489284+02:00",
+          "amount": 16570.0,
+          "bidder": "62212cfa692d4256a6221cc782b79baf"
+        },
+        {
+          "date": "2015-10-29T14:16:29.404212+02:00",
+          "amount": 16392.3,
+          "bidder": "7af76e856e3b43d2a9848f729c94039e"
+        }
+      ],
+      "time": "2015-11-02T11:14:54.004255+00:00"
+    }
+  },
+  "id": "683ff6de16314447be0307158bbdb015",
+  "tenderId": "UA-2015-10-22-000298"
+}

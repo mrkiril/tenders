@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6d2aebecd0de4706a6cdff623736863b",
+        "time": "2015-10-26T10:20:59.009345+00:00"
+      },
+      "turn_1": {
+        "bidder": "96b7b7197df64202991ccc95d8add6e7",
+        "time": "2015-10-26T10:18:59.006885+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6d2aebecd0de4706a6cdff623736863b",
+        "time": "2015-10-26T10:26:59.008569+00:00"
+      },
+      "turn_1": {
+        "amount": 238700.0,
+        "bid_time": "2015-10-26T12:23:11.464414+02:00",
+        "bidder": "96b7b7197df64202991ccc95d8add6e7",
+        "time": "2015-10-26T10:24:59.012819+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "96b7b7197df64202991ccc95d8add6e7",
+        "time": "2015-10-26T10:14:59.007600+00:00"
+      },
+      "turn_1": {
+        "amount": 238800.0,
+        "bid_time": "2015-10-26T12:11:19.474731+02:00",
+        "bidder": "6d2aebecd0de4706a6cdff623736863b",
+        "time": "2015-10-26T10:12:59.007277+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6d2aebecd0de4706a6cdff623736863b",
+          "amount": 238800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0322472112",
+                "telephone": "0322472112",
+                "name": "Вайда Ольга Богданівна",
+                "email": "delta-west@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37528078",
+                "legalName": "Товариство з обмеженою відповідальністю \"Технічний центр \"Дельта-Захід\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Технічний центр \"Дельта-Захід\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79000",
+                "region": "Львівська",
+                "streetAddress": "Коперника, 16/17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T12:11:19.474731+02:00"
+        },
+        {
+          "bidder": "96b7b7197df64202991ccc95d8add6e7",
+          "amount": 238700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bscenter.com.ua",
+                "faxNumber": "032-232-90-32",
+                "telephone": "032-243-08-48",
+                "name": "Мариняк Андрій Петрович",
+                "email": "bsc@bscenter.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33618403",
+                "legalName": "Приватне підприємство \"Центр Безпеки Бізнесу\""
+              },
+              "name": "Приватне підприємство \"Центр Безпеки Бізнесу\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79037",
+                "region": "Львівська",
+                "streetAddress": "Б. Хмельницького, 200",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T12:23:11.464414+02:00"
+        }
+      ],
+      "time": "2015-10-26T10:27:04.348691+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T14:15:47.746369+03:00",
+          "amount": 240000.0,
+          "bidder": "6d2aebecd0de4706a6cdff623736863b"
+        },
+        {
+          "date": "2015-10-22T11:49:27.961462+03:00",
+          "amount": 239900.0,
+          "bidder": "96b7b7197df64202991ccc95d8add6e7"
+        }
+      ],
+      "time": "2015-10-26T10:05:59.002739+00:00"
+    }
+  },
+  "id": "31db904d5af74ea0aa7e4619ce86d1c7",
+  "tenderId": "UA-2015-10-16-000242"
+}

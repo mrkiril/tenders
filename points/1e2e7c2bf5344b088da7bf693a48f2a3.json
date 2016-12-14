@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 11100.0,
+        "bid_time": "2015-08-21T11:13:48.896470+03:00",
+        "bidder": "bfee5a73a3d945188ebbc2139bcf1a2b",
+        "time": "2015-08-21T08:15:00.219953+00:00"
+      },
+      "turn_1": {
+        "amount": 11110.0,
+        "bid_time": "2015-08-21T11:11:22.548082+03:00",
+        "bidder": "08c7d5362aa74b7e9251f108272053ca",
+        "time": "2015-08-21T08:13:00.078898+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 10500.0,
+        "bid_time": "2015-08-21T11:19:18.760897+03:00",
+        "bidder": "bfee5a73a3d945188ebbc2139bcf1a2b",
+        "time": "2015-08-21T08:21:00.106138+00:00"
+      },
+      "turn_1": {
+        "amount": 10590.0,
+        "bid_time": "2015-08-21T11:18:08.724562+03:00",
+        "bidder": "08c7d5362aa74b7e9251f108272053ca",
+        "time": "2015-08-21T08:19:00.145889+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 11600.0,
+        "bid_time": "2015-08-21T11:08:37.736794+03:00",
+        "bidder": "bfee5a73a3d945188ebbc2139bcf1a2b",
+        "time": "2015-08-21T08:09:00.047733+00:00"
+      },
+      "turn_1": {
+        "amount": 12410.0,
+        "bid_time": "2015-08-21T11:05:24.691641+03:00",
+        "bidder": "08c7d5362aa74b7e9251f108272053ca",
+        "time": "2015-08-21T08:07:00.189976+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "08c7d5362aa74b7e9251f108272053ca",
+          "amount": 10590.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-08-21T11:18:08.724562+03:00"
+        },
+        {
+          "bidder": "bfee5a73a3d945188ebbc2139bcf1a2b",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.znakiua.ua/",
+                "faxNumber": "+380444139961",
+                "telephone": "+380443316366",
+                "name": "Бичкова Наталія Юріївна",
+                "email": "manager20@znakiua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37332960"
+              },
+              "name": "ТОВ Знаки УА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "пр.Свободи,2в,32",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-21T11:19:18.760897+03:00"
+        }
+      ],
+      "time": "2015-08-21T08:21:09.127161+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T15:34:01.773834+03:00",
+          "amount": 13700.0,
+          "bidder": "08c7d5362aa74b7e9251f108272053ca"
+        },
+        {
+          "date": "2015-08-20T12:45:25.059940+03:00",
+          "amount": 12900.0,
+          "bidder": "bfee5a73a3d945188ebbc2139bcf1a2b"
+        }
+      ],
+      "time": "2015-08-21T08:00:00.001911+00:00"
+    }
+  },
+  "id": "1e2e7c2bf5344b088da7bf693a48f2a3",
+  "tenderId": "UA-2015-08-14-000062"
+}

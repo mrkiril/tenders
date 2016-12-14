@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 18450.0,
+        "bid_time": "2015-09-09T11:15:56.127546+03:00",
+        "bidder": "e517af9450c840e8812cafaddcc3425b",
+        "time": "2015-09-09T08:17:00.118130+00:00"
+      },
+      "turn_3": {
+        "bidder": "937e82ef3ad8420296be119d4ac8e908",
+        "time": "2015-09-09T08:19:00.114698+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e56900103bf4ae893728ee58e55ac13",
+        "time": "2015-09-09T08:15:00.155741+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e517af9450c840e8812cafaddcc3425b",
+        "time": "2015-09-09T08:25:00.039585+00:00"
+      },
+      "turn_3": {
+        "bidder": "937e82ef3ad8420296be119d4ac8e908",
+        "time": "2015-09-09T08:27:00.073903+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e56900103bf4ae893728ee58e55ac13",
+        "time": "2015-09-09T08:23:00.063464+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 18500.0,
+        "bid_time": "2015-09-09T11:08:45.156617+03:00",
+        "bidder": "e517af9450c840e8812cafaddcc3425b",
+        "time": "2015-09-09T08:09:00.140000+00:00"
+      },
+      "turn_3": {
+        "bidder": "937e82ef3ad8420296be119d4ac8e908",
+        "time": "2015-09-09T08:11:00.142168+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e56900103bf4ae893728ee58e55ac13",
+        "time": "2015-09-09T08:07:00.112344+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2e56900103bf4ae893728ee58e55ac13",
+          "amount": 18890.75,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671274886",
+                "name": "Владимир Колосан",
+                "email": "kolosan@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32938047",
+                "legalName": "ТОВ \"\"КВОРУМ-НАФТА\"\""
+              },
+              "name": "ТОВ \"\"КВОРУМ-НАФТА\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54003",
+                "region": "Николаевская",
+                "streetAddress": "",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-09-03T13:49:42.219669+03:00"
+        },
+        {
+          "bidder": "e517af9450c840e8812cafaddcc3425b",
+          "amount": 18450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800957494569",
+                "name": "ТОВ ТОПАЗ",
+                "email": "yki4121975@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32778704",
+                "legalName": "ТОВ ТОПАЗ"
+              },
+              "name": "ТОВ ТОПАЗ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40030,м.Суми,вул.1-ша Зализнична,1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-09T11:15:56.127546+03:00"
+        },
+        {
+          "bidder": "937e82ef3ad8420296be119d4ac8e908",
+          "amount": 18300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T09:43:48.186395+03:00"
+        }
+      ],
+      "time": "2015-09-09T08:27:07.142020+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T13:49:42.219669+03:00",
+          "amount": 18890.75,
+          "bidder": "2e56900103bf4ae893728ee58e55ac13"
+        },
+        {
+          "date": "2015-09-07T16:45:49.002625+03:00",
+          "amount": 18600.0,
+          "bidder": "e517af9450c840e8812cafaddcc3425b"
+        },
+        {
+          "date": "2015-09-07T09:43:48.186395+03:00",
+          "amount": 18300.0,
+          "bidder": "937e82ef3ad8420296be119d4ac8e908"
+        }
+      ],
+      "time": "2015-09-09T08:00:00.018623+00:00"
+    }
+  },
+  "id": "15aee0b28fbe40b9b187a78bd7c7ef34",
+  "tenderId": "UA-2015-08-26-000013"
+}

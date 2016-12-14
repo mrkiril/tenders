@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4d116d29c6b748f1bc6e6f27c662f067",
+        "time": "2015-11-30T09:27:47.009606+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f7039207eb8400dabe4866a14d92148",
+        "time": "2015-11-30T09:25:47.010802+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4d116d29c6b748f1bc6e6f27c662f067",
+        "time": "2015-11-30T09:33:47.007810+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f7039207eb8400dabe4866a14d92148",
+        "time": "2015-11-30T09:31:47.008354+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3f7039207eb8400dabe4866a14d92148",
+        "time": "2015-11-30T09:21:47.009181+00:00"
+      },
+      "turn_1": {
+        "amount": 13840.0,
+        "bid_time": "2015-11-30T11:19:42.764292+02:00",
+        "bidder": "4d116d29c6b748f1bc6e6f27c662f067",
+        "time": "2015-11-30T09:19:47.013464+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f7039207eb8400dabe4866a14d92148",
+          "amount": 13971.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380678408428",
+                "name": "Вера",
+                "email": "rodnik123@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1834707884",
+                "legalName": "ФОП Сіра Віра Харлампіївна"
+              },
+              "name": "ФОП Сіра Віра Харлампіївна",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-26T13:10:51.091526+02:00"
+        },
+        {
+          "bidder": "4d116d29c6b748f1bc6e6f27c662f067",
+          "amount": 13840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380969250576",
+                "name": "Александр",
+                "email": "sasha-2016@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3149920876",
+                "legalName": "ФО-П Погрібний Олександр Іванович"
+              },
+              "name": "ФО-П Погрібний Олександр Іванович",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T11:19:42.764292+02:00"
+        }
+      ],
+      "time": "2015-11-30T09:33:48.613727+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T21:56:50.733731+02:00",
+          "amount": 13980.0,
+          "bidder": "4d116d29c6b748f1bc6e6f27c662f067"
+        },
+        {
+          "date": "2015-11-26T13:10:51.091526+02:00",
+          "amount": 13971.0,
+          "bidder": "3f7039207eb8400dabe4866a14d92148"
+        }
+      ],
+      "time": "2015-11-30T09:12:47.007826+00:00"
+    }
+  },
+  "id": "3962a7e3762c49af996fa60268af0709",
+  "tenderId": "UA-2015-11-24-000064"
+}

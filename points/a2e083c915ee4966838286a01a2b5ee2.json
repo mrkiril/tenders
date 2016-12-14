@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cab07d3daca64a06836b4fb7ecdb31e9",
+        "time": "2015-12-11T10:18:50.010285+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fd61f9063e2493ca2bb3ed94743d3a8",
+        "time": "2015-12-11T10:16:50.010424+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cab07d3daca64a06836b4fb7ecdb31e9",
+        "time": "2015-12-11T10:24:50.009843+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fd61f9063e2493ca2bb3ed94743d3a8",
+        "time": "2015-12-11T10:22:50.012433+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cab07d3daca64a06836b4fb7ecdb31e9",
+        "time": "2015-12-11T10:12:50.011166+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fd61f9063e2493ca2bb3ed94743d3a8",
+        "time": "2015-12-11T10:10:50.010801+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2fd61f9063e2493ca2bb3ed94743d3a8",
+          "amount": 3200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "sergius3011@gmail.com",
+                "name": "Коммунальное предприятие Николаевская областная типография"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "02467676",
+                "legalName": "Коммунальное предприятие Николаевская областная типография"
+              },
+              "name": "Коммунальное предприятие Николаевская областная типография",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "Парижской коммуны, 3",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-10T10:52:33.349679+02:00"
+        },
+        {
+          "bidder": "cab07d3daca64a06836b4fb7ecdb31e9",
+          "amount": 3051.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T15:14:21.823280+02:00"
+        }
+      ],
+      "time": "2015-12-11T10:24:51.726423+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T10:52:33.349679+02:00",
+          "amount": 3200.0,
+          "bidder": "2fd61f9063e2493ca2bb3ed94743d3a8"
+        },
+        {
+          "date": "2015-12-10T15:14:21.823280+02:00",
+          "amount": 3051.0,
+          "bidder": "cab07d3daca64a06836b4fb7ecdb31e9"
+        }
+      ],
+      "time": "2015-12-11T10:03:50.005605+00:00"
+    }
+  },
+  "id": "a2e083c915ee4966838286a01a2b5ee2",
+  "tenderId": "UA-2015-11-30-000141-b"
+}

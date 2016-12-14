@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "282feef3331f4f5baa6db601dfc500bf",
+        "time": "2015-12-15T09:29:53.008705+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c8e426a4b3a4dab93e52ffe9faac045",
+        "time": "2015-12-15T09:27:53.008748+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "282feef3331f4f5baa6db601dfc500bf",
+        "time": "2015-12-15T09:35:53.013611+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c8e426a4b3a4dab93e52ffe9faac045",
+        "time": "2015-12-15T09:33:53.007952+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "282feef3331f4f5baa6db601dfc500bf",
+        "time": "2015-12-15T09:23:53.010055+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c8e426a4b3a4dab93e52ffe9faac045",
+        "time": "2015-12-15T09:21:53.009517+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3c8e426a4b3a4dab93e52ffe9faac045",
+          "amount": 500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0445447093",
+                "telephone": "0443536379",
+                "name": "Сакур Адьона Ігорівна",
+                "email": "texnoprint_np@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2335106222",
+                "legalName": "ФОП Меньшикова Юлія Олександрівна"
+              },
+              "name": "ФОП Меньшикова Юлія Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02156",
+                "region": "Київська",
+                "streetAddress": "вул.Мілютенко буд.7а кв.89",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T10:54:41.448837+02:00"
+        },
+        {
+          "bidder": "282feef3331f4f5baa6db601dfc500bf",
+          "amount": 480.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sprint-seervice.com.ua",
+                "telephone": "+380957251125",
+                "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+                "email": "andrey@bc.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36866846",
+                "legalName": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Почайнинська, 28, літ.Б, м.Київ, 04070",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T09:51:32.256623+02:00"
+        }
+      ],
+      "time": "2015-12-15T09:35:54.752731+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T10:54:41.448837+02:00",
+          "amount": 500.0,
+          "bidder": "3c8e426a4b3a4dab93e52ffe9faac045"
+        },
+        {
+          "date": "2015-12-11T09:51:32.256623+02:00",
+          "amount": 480.0,
+          "bidder": "282feef3331f4f5baa6db601dfc500bf"
+        }
+      ],
+      "time": "2015-12-15T09:14:53.004855+00:00"
+    }
+  },
+  "id": "64cc037b254e4e859163dc001b36c7ad",
+  "tenderId": "UA-2015-12-10-000050-a"
+}

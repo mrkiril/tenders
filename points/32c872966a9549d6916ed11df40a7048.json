@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dae5854c866b49a6b3efc256c159ae89",
+        "time": "2015-10-15T09:52:49.009366+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf9f70eeafb94d2985698af19ce1d247",
+        "time": "2015-10-15T09:50:49.012999+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dae5854c866b49a6b3efc256c159ae89",
+        "time": "2015-10-15T09:58:49.009844+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf9f70eeafb94d2985698af19ce1d247",
+        "time": "2015-10-15T09:56:49.010304+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dae5854c866b49a6b3efc256c159ae89",
+        "time": "2015-10-15T09:46:49.010213+00:00"
+      },
+      "turn_1": {
+        "amount": 62250.0,
+        "bid_time": "2015-10-15T12:43:20.283356+03:00",
+        "bidder": "cf9f70eeafb94d2985698af19ce1d247",
+        "time": "2015-10-15T09:44:49.010028+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cf9f70eeafb94d2985698af19ce1d247",
+          "amount": 62250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577001262, +380504021641",
+                "name": "Комир Елена",
+                "email": "ltdsouz@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33412020",
+                "legalName": "ТОВ \"ТД Фірма Союз Лтд\""
+              },
+              "name": "ТОВ \"ТД Фірма Союз Лтд\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61177",
+                "region": "Харьковская",
+                "streetAddress": "г. Харьков, ул. Залютинская 8",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-15T12:43:20.283356+03:00"
+        },
+        {
+          "bidder": "dae5854c866b49a6b3efc256c159ae89",
+          "amount": 41765.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955354321, +380963051956",
+                "name": "Вадим Перец",
+                "email": "perets.pirena@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37747885",
+                "legalName": "ТОВ \"Пирена\""
+              },
+              "name": "ТОВ \"Пирена\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "23222",
+                "region": "Виницкая",
+                "streetAddress": "Украина, Винницкая обл., Винницкий р-он., с. Якушинци, Комплекс зданий и сооружений АСО  ",
+                "locality": "с.Якушинци"
+              }
+            }
+          ],
+          "time": "2015-10-08T15:42:11.325747+03:00"
+        }
+      ],
+      "time": "2015-10-15T09:58:52.190108+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T16:26:00.633227+03:00",
+          "amount": 63750.0,
+          "bidder": "cf9f70eeafb94d2985698af19ce1d247"
+        },
+        {
+          "date": "2015-10-08T15:42:11.325747+03:00",
+          "amount": 41765.0,
+          "bidder": "dae5854c866b49a6b3efc256c159ae89"
+        }
+      ],
+      "time": "2015-10-15T09:37:49.003611+00:00"
+    }
+  },
+  "id": "32c872966a9549d6916ed11df40a7048",
+  "tenderId": "UA-2015-10-02-000203"
+}

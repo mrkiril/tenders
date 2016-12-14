@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 593560.0,
+        "bid_time": "2015-10-29T11:53:26.936662+02:00",
+        "bidder": "b1776821cee0429e8e8c4a635a3076df",
+        "time": "2015-10-29T09:54:26.014134+00:00"
+      },
+      "turn_3": {
+        "amount": 592200.0,
+        "bid_time": "2015-10-29T11:55:51.646033+02:00",
+        "bidder": "8e7dc0dc72924ca68a020acab73ba532",
+        "time": "2015-10-29T09:56:26.015331+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd650c5c48dc411c9eebe16e740b69cc",
+        "time": "2015-10-29T09:52:26.006899+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 588560.0,
+        "bid_time": "2015-10-29T12:01:42.044111+02:00",
+        "bidder": "b1776821cee0429e8e8c4a635a3076df",
+        "time": "2015-10-29T10:02:26.010770+00:00"
+      },
+      "turn_3": {
+        "bidder": "8e7dc0dc72924ca68a020acab73ba532",
+        "time": "2015-10-29T10:04:26.010018+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd650c5c48dc411c9eebe16e740b69cc",
+        "time": "2015-10-29T10:00:26.015160+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b1776821cee0429e8e8c4a635a3076df",
+        "time": "2015-10-29T09:46:26.006866+00:00"
+      },
+      "turn_3": {
+        "bidder": "8e7dc0dc72924ca68a020acab73ba532",
+        "time": "2015-10-29T09:48:26.007078+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd650c5c48dc411c9eebe16e740b69cc",
+        "time": "2015-10-29T09:44:26.006601+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bd650c5c48dc411c9eebe16e740b69cc",
+          "amount": 598800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-262-44-66",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "potato@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T09:21:48.294694+02:00"
+        },
+        {
+          "bidder": "8e7dc0dc72924ca68a020acab73ba532",
+          "amount": 592200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T11:55:51.646033+02:00"
+        },
+        {
+          "bidder": "b1776821cee0429e8e8c4a635a3076df",
+          "amount": 588560.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380562347131",
+                "telephone": "+380562316006",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-29T12:01:42.044111+02:00"
+        }
+      ],
+      "time": "2015-10-29T10:04:28.415923+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T09:21:48.294694+02:00",
+          "amount": 598800.0,
+          "bidder": "bd650c5c48dc411c9eebe16e740b69cc"
+        },
+        {
+          "date": "2015-10-28T11:21:36.648370+02:00",
+          "amount": 598560.0,
+          "bidder": "b1776821cee0429e8e8c4a635a3076df"
+        },
+        {
+          "date": "2015-10-28T10:05:28.192602+02:00",
+          "amount": 597600.0,
+          "bidder": "8e7dc0dc72924ca68a020acab73ba532"
+        }
+      ],
+      "time": "2015-10-29T09:37:26.002558+00:00"
+    }
+  },
+  "id": "164fbd3d000e456cbac8d5b5c9b9ca00",
+  "tenderId": "UA-2015-10-21-000028"
+}

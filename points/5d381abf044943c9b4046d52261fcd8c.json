@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 800.0,
+        "bid_time": "2015-12-01T14:22:15.606940+02:00",
+        "bidder": "a129889e234e41b0a7c1887b68d1cd58",
+        "time": "2015-12-01T12:24:01.010059+00:00"
+      },
+      "turn_3": {
+        "amount": 799.0,
+        "bid_time": "2015-12-01T14:24:21.043389+02:00",
+        "bidder": "fbb0a57b34fd465687d50236966626cf",
+        "time": "2015-12-01T12:26:01.008325+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1622daa2aa3415ab402616c2cd6079d",
+        "time": "2015-12-01T12:22:01.007955+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 700.0,
+        "bid_time": "2015-12-01T14:30:41.312368+02:00",
+        "bidder": "a129889e234e41b0a7c1887b68d1cd58",
+        "time": "2015-12-01T12:32:01.009764+00:00"
+      },
+      "turn_3": {
+        "amount": 699.0,
+        "bid_time": "2015-12-01T14:32:12.850735+02:00",
+        "bidder": "fbb0a57b34fd465687d50236966626cf",
+        "time": "2015-12-01T12:34:01.009322+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1622daa2aa3415ab402616c2cd6079d",
+        "time": "2015-12-01T12:30:01.008919+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a129889e234e41b0a7c1887b68d1cd58",
+        "time": "2015-12-01T12:16:01.008086+00:00"
+      },
+      "turn_3": {
+        "bidder": "fbb0a57b34fd465687d50236966626cf",
+        "time": "2015-12-01T12:18:01.008043+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1622daa2aa3415ab402616c2cd6079d",
+        "time": "2015-12-01T12:14:01.008578+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b1622daa2aa3415ab402616c2cd6079d",
+          "amount": 1100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380635698080",
+                "name": "Мамоніка Михайло Луіндула",
+                "email": "nomerodun77@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39406709"
+              },
+              "name": "ТОВ АВТОГАРАНТСВІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Сагайдачного, буд. 29 літ А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T11:53:46.102907+02:00"
+        },
+        {
+          "bidder": "a129889e234e41b0a7c1887b68d1cd58",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443446776",
+                "name": "Шевчук Михайло Петрович",
+                "email": "7MADMAX77@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40029122"
+              },
+              "name": "ТОВ СОЛЮШИН АТОЛС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська область",
+                "streetAddress": "вул. Васильківська 14",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:30:41.312368+02:00"
+        },
+        {
+          "bidder": "fbb0a57b34fd465687d50236966626cf",
+          "amount": 699.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:32:12.850735+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:34:02.212678+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T11:53:46.102907+02:00",
+          "amount": 1100.0,
+          "bidder": "b1622daa2aa3415ab402616c2cd6079d"
+        },
+        {
+          "date": "2015-11-30T12:25:31.508144+02:00",
+          "amount": 1022.0,
+          "bidder": "a129889e234e41b0a7c1887b68d1cd58"
+        },
+        {
+          "date": "2015-11-28T12:08:56.882005+02:00",
+          "amount": 923.64,
+          "bidder": "fbb0a57b34fd465687d50236966626cf"
+        }
+      ],
+      "time": "2015-12-01T12:07:01.004149+00:00"
+    }
+  },
+  "id": "5d381abf044943c9b4046d52261fcd8c",
+  "tenderId": "UA-2015-11-20-000064"
+}

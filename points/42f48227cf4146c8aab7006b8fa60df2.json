@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 228306.0,
+        "bid_time": "2015-06-11T11:43:25.338231+03:00",
+        "bidder": "eee71797b32f4230987766fb21aa1280",
+        "time": "2015-06-11T08:45:00.234537+00:00"
+      },
+      "turn_1": {
+        "amount": 228800.0,
+        "bid_time": "2015-06-11T11:41:22.980589+03:00",
+        "bidder": "6fd2c898a84546e8ab6df3c78934b224",
+        "time": "2015-06-11T08:43:00.162047+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "eee71797b32f4230987766fb21aa1280",
+        "time": "2015-06-11T08:51:00.047490+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fd2c898a84546e8ab6df3c78934b224",
+        "time": "2015-06-11T08:49:00.110191+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 229506.0,
+        "bid_time": "2015-06-11T11:37:16.346203+03:00",
+        "bidder": "eee71797b32f4230987766fb21aa1280",
+        "time": "2015-06-11T08:39:00.122831+00:00"
+      },
+      "turn_1": {
+        "amount": 230000.0,
+        "bid_time": "2015-06-11T11:35:55.632514+03:00",
+        "bidder": "6fd2c898a84546e8ab6df3c78934b224",
+        "time": "2015-06-11T08:37:00.094089+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6fd2c898a84546e8ab6df3c78934b224",
+          "amount": 228800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632988397",
+                "name": "Артур Нагапетян",
+                "email": "energostroytrade@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39041903",
+                "legalName": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»"
+              },
+              "name": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65104",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул. Академіка Вільямса, будинок 86",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-11T11:41:22.980589+03:00"
+        },
+        {
+          "bidder": "eee71797b32f4230987766fb21aa1280",
+          "amount": 228306.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://azov-arsenal.com.ua/",
+                "faxNumber": "0629411560",
+                "telephone": "0629410816",
+                "name": "ПП \"Азов-Арсенал\"",
+                "email": "alexey.dyachenko@azov-arsenal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32320793",
+                "legalName": "ПП \"Азов-Арсенал\""
+              },
+              "name": "ПП \"Азов-Арсенал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87539",
+                "region": "Донецька",
+                "streetAddress": "пр. Металургів, 97",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-06-11T11:43:25.338231+03:00"
+        }
+      ],
+      "time": "2015-06-11T08:51:03.228953+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-10T12:04:54.103661+03:00",
+          "amount": 234315.6,
+          "bidder": "6fd2c898a84546e8ab6df3c78934b224"
+        },
+        {
+          "date": "2015-06-08T14:46:44.253265+03:00",
+          "amount": 230706.0,
+          "bidder": "eee71797b32f4230987766fb21aa1280"
+        }
+      ],
+      "time": "2015-06-11T08:30:00.009129+00:00"
+    }
+  },
+  "id": "42f48227cf4146c8aab7006b8fa60df2",
+  "tenderId": "UA-2015-06-02-000010"
+}

@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ff8029c5b3b14cb4aab2ed3c9b946fe1",
+        "time": "2015-10-02T10:22:23.008743+00:00"
+      },
+      "turn_1": {
+        "bidder": "798dafe0ae294cafb53d244a83eb2ac6",
+        "time": "2015-10-02T10:20:23.011199+00:00"
+      }
+    },
+    "round_3": {
+      "turn_1": {
+        "bidder": "798dafe0ae294cafb53d244a83eb2ac6",
+        "time": "2015-10-02T10:28:23.011098+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ff8029c5b3b14cb4aab2ed3c9b946fe1",
+        "time": "2015-10-02T10:16:23.006541+00:00"
+      },
+      "turn_1": {
+        "bidder": "798dafe0ae294cafb53d244a83eb2ac6",
+        "time": "2015-10-02T10:14:23.008743+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "798dafe0ae294cafb53d244a83eb2ac6",
+          "amount": 830.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380987313355",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\"",
+                "email": "elena@xion.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38538569",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080, М. КИЇВ, ВУЛ. фРУНЗЕ,40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T16:11:20.825028+03:00"
+        },
+        {
+          "bidder": "ff8029c5b3b14cb4aab2ed3c9b946fe1",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://hacenter.com.ua/",
+                "faxNumber": "0443844127",
+                "telephone": "0443629370",
+                "name": "Курта Павлович Олексій",
+                "email": "office@hacenter.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38374797",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02100",
+                "region": "Київська",
+                "streetAddress": "Бориспільська, 9 корпус 8, кімната 203",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T17:23:17.008188+03:00"
+        }
+      ],
+      "time": "2015-10-02T10:28:25.267743+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T16:11:20.825028+03:00",
+          "amount": 830.0,
+          "bidder": "798dafe0ae294cafb53d244a83eb2ac6"
+        },
+        {
+          "date": "2015-09-30T17:23:17.008188+03:00",
+          "amount": 700.0,
+          "bidder": "ff8029c5b3b14cb4aab2ed3c9b946fe1"
+        }
+      ],
+      "time": "2015-10-02T10:07:23.004832+00:00"
+    }
+  },
+  "id": "1a582168874c49a480730605c9c3bc17",
+  "tenderId": "UA-2015-09-18-000045"
+}

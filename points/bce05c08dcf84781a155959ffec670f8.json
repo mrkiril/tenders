@@ -1,0 +1,199 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "c3f16bfb6a3f45aab80f15b4d511fd42",
+        "time": "2015-11-02T11:34:31.007753+00:00"
+      },
+      "turn_2": {
+        "bidder": "210e6465927a4cbfb5a7e41bfa345479",
+        "time": "2015-11-02T11:30:31.011367+00:00"
+      },
+      "turn_3": {
+        "bidder": "5c77cefbbb8f464c92a30950ee3b458c",
+        "time": "2015-11-02T11:32:31.011871+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd2989a943da480fa46cfdb6c653e69f",
+        "time": "2015-11-02T11:28:31.010275+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "c3f16bfb6a3f45aab80f15b4d511fd42",
+        "time": "2015-11-02T11:44:31.009783+00:00"
+      },
+      "turn_2": {
+        "bidder": "210e6465927a4cbfb5a7e41bfa345479",
+        "time": "2015-11-02T11:40:31.008842+00:00"
+      },
+      "turn_3": {
+        "bidder": "5c77cefbbb8f464c92a30950ee3b458c",
+        "time": "2015-11-02T11:42:31.010737+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd2989a943da480fa46cfdb6c653e69f",
+        "time": "2015-11-02T11:38:31.009606+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "5c77cefbbb8f464c92a30950ee3b458c",
+        "time": "2015-11-02T11:24:31.015526+00:00"
+      },
+      "turn_2": {
+        "bidder": "210e6465927a4cbfb5a7e41bfa345479",
+        "time": "2015-11-02T11:20:31.008904+00:00"
+      },
+      "turn_3": {
+        "amount": 1130.0,
+        "bid_time": "2015-11-02T13:21:49.864369+02:00",
+        "bidder": "c3f16bfb6a3f45aab80f15b4d511fd42",
+        "time": "2015-11-02T11:22:31.011218+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd2989a943da480fa46cfdb6c653e69f",
+        "time": "2015-11-02T11:18:31.009275+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fd2989a943da480fa46cfdb6c653e69f",
+          "amount": 1790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632893966",
+                "name": "Якунькін Сергій Павлович",
+                "email": "scottfree@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2266519111"
+              },
+              "name": "ФОП Якунькін Сергій Павлович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02071",
+                "region": "Київська область",
+                "streetAddress": "ул.Тростянецька 7",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-28T10:04:19.582630+02:00"
+        },
+        {
+          "bidder": "210e6465927a4cbfb5a7e41bfa345479",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0562525182, 0970542673",
+                "name": "Ірина Руснак ",
+                "email": "miedsiervis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25009966",
+                "legalName": "ППФ \"Медсервіс\""
+              },
+              "name": "ППФ \"Медсервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49064, м. Дніпропетровськ, вул. Революційна, 28/11"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:49:55.155866+02:00"
+        },
+        {
+          "bidder": "5c77cefbbb8f464c92a30950ee3b458c",
+          "amount": 1169.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567913566",
+                "telephone": "+380676351670",
+                "name": "Холодова Олена Вікторівна",
+                "email": "tavolgaplus@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30540001"
+              },
+              "name": "ТОВ Таволга",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Весніна, 84",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-30T12:08:52.106634+02:00"
+        },
+        {
+          "bidder": "c3f16bfb6a3f45aab80f15b4d511fd42",
+          "amount": 1130.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avan.uaprom.net/",
+                "faxNumber": "0445013023",
+                "telephone": "0445013023",
+                "name": "Сторожук Ярослав Олегович",
+                "email": "yaroslav@avan.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36577810",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АВАН-МЕДИКА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АВАН-МЕДИКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08133",
+                "region": "Київська",
+                "streetAddress": "Балукова, 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T13:21:49.864369+02:00"
+        }
+      ],
+      "time": "2015-11-02T11:44:33.015598+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T10:04:19.582630+02:00",
+          "amount": 1790.0,
+          "bidder": "fd2989a943da480fa46cfdb6c653e69f"
+        },
+        {
+          "date": "2015-10-29T13:49:55.155866+02:00",
+          "amount": 1300.0,
+          "bidder": "210e6465927a4cbfb5a7e41bfa345479"
+        },
+        {
+          "date": "2015-10-29T13:26:03.882112+02:00",
+          "amount": 1250.0,
+          "bidder": "c3f16bfb6a3f45aab80f15b4d511fd42"
+        },
+        {
+          "date": "2015-10-30T12:08:52.106634+02:00",
+          "amount": 1169.0,
+          "bidder": "5c77cefbbb8f464c92a30950ee3b458c"
+        }
+      ],
+      "time": "2015-11-02T11:11:31.004568+00:00"
+    }
+  },
+  "id": "bce05c08dcf84781a155959ffec670f8",
+  "tenderId": "UA-2015-10-22-000062"
+}

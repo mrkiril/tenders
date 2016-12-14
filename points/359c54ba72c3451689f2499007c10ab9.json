@@ -1,0 +1,197 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "8ccc95dacc874a9b87d7ccb3a0f42fbb",
+        "time": "2015-12-08T13:56:55.007780+00:00"
+      },
+      "turn_2": {
+        "bidder": "41537afa18634d78af129e145b946f69",
+        "time": "2015-12-08T13:52:55.006205+00:00"
+      },
+      "turn_3": {
+        "bidder": "469349edb2e04da8a93570471bf68185",
+        "time": "2015-12-08T13:54:55.006800+00:00"
+      },
+      "turn_1": {
+        "bidder": "e79b2bd191b943f394e5c5511858468d",
+        "time": "2015-12-08T13:50:55.025815+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "8ccc95dacc874a9b87d7ccb3a0f42fbb",
+        "time": "2015-12-08T14:06:55.016976+00:00"
+      },
+      "turn_2": {
+        "bidder": "41537afa18634d78af129e145b946f69",
+        "time": "2015-12-08T14:02:55.007583+00:00"
+      },
+      "turn_3": {
+        "bidder": "469349edb2e04da8a93570471bf68185",
+        "time": "2015-12-08T14:04:55.018159+00:00"
+      },
+      "turn_1": {
+        "bidder": "e79b2bd191b943f394e5c5511858468d",
+        "time": "2015-12-08T14:00:55.006219+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "8ccc95dacc874a9b87d7ccb3a0f42fbb",
+        "time": "2015-12-08T13:46:55.007080+00:00"
+      },
+      "turn_2": {
+        "bidder": "41537afa18634d78af129e145b946f69",
+        "time": "2015-12-08T13:42:55.007019+00:00"
+      },
+      "turn_3": {
+        "bidder": "469349edb2e04da8a93570471bf68185",
+        "time": "2015-12-08T13:44:55.007856+00:00"
+      },
+      "turn_1": {
+        "bidder": "e79b2bd191b943f394e5c5511858468d",
+        "time": "2015-12-08T13:40:55.008437+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e79b2bd191b943f394e5c5511858468d",
+          "amount": 875.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380939042647, +380563715831",
+                "name": "Ольга Федик",
+                "email": "dommed11@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37707638",
+                "legalName": "ТОВ \"ДОММЕД\""
+              },
+              "name": "ТОВ \"ДОММЕД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52001",
+                "region": "Днепропетровская",
+                "streetAddress": " вул. Поштова, буд. 30",
+                "locality": "Подгороднее"
+              }
+            }
+          ],
+          "time": "2015-12-07T15:27:39.289767+02:00"
+        },
+        {
+          "bidder": "41537afa18634d78af129e145b946f69",
+          "amount": 780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567913566",
+                "telephone": "+380676351670",
+                "name": "Холодова Олена Вікторівна",
+                "email": "tavolgaplus@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30540001"
+              },
+              "name": "ТОВ Таволга",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Весніна, 84",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-07T14:51:49.124642+02:00"
+        },
+        {
+          "bidder": "469349edb2e04da8a93570471bf68185",
+          "amount": 750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970542673",
+                "name": "Чернишова Галина Іванівна",
+                "email": "gich1122@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1759701761"
+              },
+              "name": "ФОП Чернишова Галина Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Яшина",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:34:35.117783+02:00"
+        },
+        {
+          "bidder": "8ccc95dacc874a9b87d7ccb3a0f42fbb",
+          "amount": 599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T15:16:32.728994+02:00"
+        }
+      ],
+      "time": "2015-12-08T14:06:59.684738+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T15:27:39.289767+02:00",
+          "amount": 875.0,
+          "bidder": "e79b2bd191b943f394e5c5511858468d"
+        },
+        {
+          "date": "2015-12-07T14:51:49.124642+02:00",
+          "amount": 780.0,
+          "bidder": "41537afa18634d78af129e145b946f69"
+        },
+        {
+          "date": "2015-12-04T15:34:35.117783+02:00",
+          "amount": 750.0,
+          "bidder": "469349edb2e04da8a93570471bf68185"
+        },
+        {
+          "date": "2015-12-07T15:16:32.728994+02:00",
+          "amount": 599.0,
+          "bidder": "8ccc95dacc874a9b87d7ccb3a0f42fbb"
+        }
+      ],
+      "time": "2015-12-08T13:33:55.003445+00:00"
+    }
+  },
+  "id": "359c54ba72c3451689f2499007c10ab9",
+  "tenderId": "UA-2015-11-24-000009"
+}

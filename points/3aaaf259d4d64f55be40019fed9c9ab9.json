@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fc17cd7b2a46432fb740e809868b7214",
+        "time": "2015-11-18T10:15:28.011617+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2fa48c048974aadba3d3dfcd2367e88",
+        "time": "2015-11-18T10:13:28.009524+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fc17cd7b2a46432fb740e809868b7214",
+        "time": "2015-11-18T10:21:28.009890+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2fa48c048974aadba3d3dfcd2367e88",
+        "time": "2015-11-18T10:19:28.009293+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fc17cd7b2a46432fb740e809868b7214",
+        "time": "2015-11-18T10:09:28.010013+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2fa48c048974aadba3d3dfcd2367e88",
+        "time": "2015-11-18T10:07:28.016967+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c2fa48c048974aadba3d3dfcd2367e88",
+          "amount": 16500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380617698912",
+                "name": "Товариство з Обмеженою Відповідальністю \"НІК ЕНЕРГО\"",
+                "email": "nik-energo@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39385333",
+                "legalName": "Товариство з Обмеженою Відповідальністю \"НІК ЕНЕРГО\""
+              },
+              "name": "Товариство з Обмеженою Відповідальністю \"НІК ЕНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Запоріжжя вул,Радгоспна 57б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-16T10:44:18.615708+02:00"
+        },
+        {
+          "bidder": "fc17cd7b2a46432fb740e809868b7214",
+          "amount": 16500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-15T03:09:07.056273+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:21:34.652931+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-15T03:09:07.056273+02:00",
+          "amount": 16500.0,
+          "bidder": "fc17cd7b2a46432fb740e809868b7214"
+        },
+        {
+          "date": "2015-11-16T10:44:18.615708+02:00",
+          "amount": 16500.0,
+          "bidder": "c2fa48c048974aadba3d3dfcd2367e88"
+        }
+      ],
+      "time": "2015-11-18T10:00:28.006103+00:00"
+    }
+  },
+  "id": "3aaaf259d4d64f55be40019fed9c9ab9",
+  "tenderId": "UA-2015-11-10-000139-a"
+}

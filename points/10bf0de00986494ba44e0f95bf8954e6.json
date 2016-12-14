@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c1904cc2dea243e1aedae4f933951be7",
+        "time": "2015-08-06T09:17:00.045509+00:00"
+      },
+      "turn_3": {
+        "bidder": "78b2fa40c1b14678bf493b18c176eb99",
+        "time": "2015-08-06T09:19:00.043838+00:00"
+      },
+      "turn_1": {
+        "amount": 359000.0,
+        "bid_time": "2015-08-06T12:13:20.745413+03:00",
+        "bidder": "1cc28a246f0b402daaae0df928d3baf2",
+        "time": "2015-08-06T09:15:00.050687+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 340000.0,
+        "bid_time": "2015-08-06T12:23:15.674073+03:00",
+        "bidder": "78b2fa40c1b14678bf493b18c176eb99",
+        "time": "2015-08-06T09:25:00.014408+00:00"
+      },
+      "turn_3": {
+        "amount": 338980.0,
+        "bid_time": "2015-08-06T12:25:28.604195+03:00",
+        "bidder": "1cc28a246f0b402daaae0df928d3baf2",
+        "time": "2015-08-06T09:27:00.016589+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1904cc2dea243e1aedae4f933951be7",
+        "time": "2015-08-06T09:23:00.013792+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c1904cc2dea243e1aedae4f933951be7",
+        "time": "2015-08-06T09:09:00.030352+00:00"
+      },
+      "turn_3": {
+        "bidder": "78b2fa40c1b14678bf493b18c176eb99",
+        "time": "2015-08-06T09:11:00.060199+00:00"
+      },
+      "turn_1": {
+        "bidder": "1cc28a246f0b402daaae0df928d3baf2",
+        "time": "2015-08-06T09:07:00.023768+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c1904cc2dea243e1aedae4f933951be7",
+          "amount": 383892.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-05T12:49:18.667735+03:00"
+        },
+        {
+          "bidder": "78b2fa40c1b14678bf493b18c176eb99",
+          "amount": 340000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://olmax.kiev.ua/",
+                "telephone": "0976788899",
+                "name": "Оксана Шевина ",
+                "email": "os@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998",
+                "legalName": "Олмакс Системс"
+              },
+              "name": "Олмакс Системс",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "г. Киев ул. Рыбальская 2 оф 106"
+              }
+            }
+          ],
+          "time": "2015-08-06T12:23:15.674073+03:00"
+        },
+        {
+          "bidder": "1cc28a246f0b402daaae0df928d3baf2",
+          "amount": 338980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-06T12:25:28.604195+03:00"
+        }
+      ],
+      "time": "2015-08-06T09:27:01.369896+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T12:49:18.667735+03:00",
+          "amount": 383892.6,
+          "bidder": "c1904cc2dea243e1aedae4f933951be7"
+        },
+        {
+          "date": "2015-08-05T13:00:06.623995+03:00",
+          "amount": 383892.6,
+          "bidder": "1cc28a246f0b402daaae0df928d3baf2"
+        },
+        {
+          "date": "2015-08-05T13:11:48.806048+03:00",
+          "amount": 370000.0,
+          "bidder": "78b2fa40c1b14678bf493b18c176eb99"
+        }
+      ],
+      "time": "2015-08-06T09:00:00.005894+00:00"
+    }
+  },
+  "id": "10bf0de00986494ba44e0f95bf8954e6",
+  "tenderId": "UA-2015-07-23-000083"
+}

@@ -1,0 +1,260 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 1270000.0,
+        "bid_time": "2015-09-25T11:53:55.792370+03:00",
+        "bidder": "d00b43f5daf8438891270e0be6fad2c5",
+        "time": "2015-09-25T08:55:00.059946+00:00"
+      },
+      "turn_5": {
+        "bidder": "11dde77b297f46a69dd7494cf7f7b1b3",
+        "time": "2015-09-25T08:57:00.088494+00:00"
+      },
+      "turn_2": {
+        "bidder": "06392d90998044eea0183c9db7afbdfb",
+        "time": "2015-09-25T08:51:00.094091+00:00"
+      },
+      "turn_3": {
+        "amount": 1335000.0,
+        "bid_time": "2015-09-25T11:51:39.467156+03:00",
+        "bidder": "693bb61ef4504e6bad7c2374f64d2a7e",
+        "time": "2015-09-25T08:53:00.067887+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f2bface4be84456879902e5c86b0efc",
+        "time": "2015-09-25T08:49:00.068567+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 1030000.0,
+        "bid_time": "2015-09-25T12:06:40.987442+03:00",
+        "bidder": "d00b43f5daf8438891270e0be6fad2c5",
+        "time": "2015-09-25T09:07:00.037542+00:00"
+      },
+      "turn_5": {
+        "amount": 960000.0,
+        "bid_time": "2015-09-25T12:08:18.834617+03:00",
+        "bidder": "11dde77b297f46a69dd7494cf7f7b1b3",
+        "time": "2015-09-25T09:09:00.107176+00:00"
+      },
+      "turn_2": {
+        "bidder": "06392d90998044eea0183c9db7afbdfb",
+        "time": "2015-09-25T09:03:00.075700+00:00"
+      },
+      "turn_3": {
+        "amount": 1330000.0,
+        "bid_time": "2015-09-25T12:03:10.617733+03:00",
+        "bidder": "693bb61ef4504e6bad7c2374f64d2a7e",
+        "time": "2015-09-25T09:05:00.097904+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f2bface4be84456879902e5c86b0efc",
+        "time": "2015-09-25T09:01:00.021347+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 1291000.0,
+        "bid_time": "2015-09-25T11:42:15.366446+03:00",
+        "bidder": "d00b43f5daf8438891270e0be6fad2c5",
+        "time": "2015-09-25T08:43:00.077782+00:00"
+      },
+      "turn_5": {
+        "bidder": "11dde77b297f46a69dd7494cf7f7b1b3",
+        "time": "2015-09-25T08:45:00.240248+00:00"
+      },
+      "turn_2": {
+        "bidder": "06392d90998044eea0183c9db7afbdfb",
+        "time": "2015-09-25T08:39:00.377412+00:00"
+      },
+      "turn_3": {
+        "amount": 1430000.0,
+        "bid_time": "2015-09-25T11:39:21.956408+03:00",
+        "bidder": "693bb61ef4504e6bad7c2374f64d2a7e",
+        "time": "2015-09-25T08:41:00.099145+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f2bface4be84456879902e5c86b0efc",
+        "time": "2015-09-25T08:37:00.162565+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f2bface4be84456879902e5c86b0efc",
+          "amount": 1440000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.avantis.biz.ua",
+                "telephone": "+380503807547",
+                "name": "ТОВ \"ВТФ Авантис\"",
+                "email": "vovabas@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33128480",
+                "legalName": "ТОВ \"ВТФ Авантис\""
+              },
+              "name": "ТОВ \"ВТФ Авантис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Житомир вул. Чехова,1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T12:21:22.034424+03:00"
+        },
+        {
+          "bidder": "06392d90998044eea0183c9db7afbdfb",
+          "amount": 1440000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://stankin.uaprom.net",
+                "telephone": "+380503316934",
+                "name": "ООО \"Станкин\"",
+                "email": "virudov@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24099109",
+                "legalName": "ООО \"Станкин\""
+              },
+              "name": "ООО \"Станкин\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Софії Петрівської, буд. 10 літера «Б»,        м. Київ, 03057;",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T13:17:23.772368+03:00"
+        },
+        {
+          "bidder": "693bb61ef4504e6bad7c2374f64d2a7e",
+          "amount": 1330000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.akma.com",
+                "telephone": "+380567943240",
+                "name": "Частное предприятие производственно-коммерческая фирма \"АКМА\"",
+                "email": "admin@akma.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20278565",
+                "legalName": "Частное предприятие производственно-коммерческая фирма \"АКМА\""
+              },
+              "name": "Частное предприятие производственно-коммерческая фирма \"АКМА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49033, г. Днепропетровск, ул. Героев Сталинграда, 139-К",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T12:03:10.617733+03:00"
+        },
+        {
+          "bidder": "d00b43f5daf8438891270e0be6fad2c5",
+          "amount": 1030000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://energoport.org",
+                "telephone": "+380567983632",
+                "name": "Товариство з обмеженою відповідальністю \"Енергопорт\"",
+                "email": "energotrade@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37005528",
+                "legalName": "Товариство з обмеженою відповідальністю \"Енергопорт\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Енергопорт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000 м.Дніпропетровськ, пр. Кірова 25",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T12:06:40.987442+03:00"
+        },
+        {
+          "bidder": "11dde77b297f46a69dd7494cf7f7b1b3",
+          "amount": 960000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380412420732",
+                "telephone": "+380503135512",
+                "name": "Медведюк Олександр Володимирович",
+                "email": "alex.grandavto@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31945137"
+              },
+              "name": "ТОВ ВКФ Гранд-Авто",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "10031",
+                "region": "Житомирська область",
+                "streetAddress": "вул.Ватутіна, 13",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-09-25T12:08:18.834617+03:00"
+        }
+      ],
+      "time": "2015-09-25T09:09:04.617091+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T13:17:23.772368+03:00",
+          "amount": 1440000.0,
+          "bidder": "06392d90998044eea0183c9db7afbdfb"
+        },
+        {
+          "date": "2015-09-24T12:21:22.034424+03:00",
+          "amount": 1440000.0,
+          "bidder": "3f2bface4be84456879902e5c86b0efc"
+        },
+        {
+          "date": "2015-09-24T13:26:41.749263+03:00",
+          "amount": 1435000.0,
+          "bidder": "693bb61ef4504e6bad7c2374f64d2a7e"
+        },
+        {
+          "date": "2015-09-24T14:02:30.403692+03:00",
+          "amount": 1296000.0,
+          "bidder": "d00b43f5daf8438891270e0be6fad2c5"
+        },
+        {
+          "date": "2015-09-24T14:19:08.028130+03:00",
+          "amount": 1152000.0,
+          "bidder": "11dde77b297f46a69dd7494cf7f7b1b3"
+        }
+      ],
+      "time": "2015-09-25T08:30:00.034645+00:00"
+    }
+  },
+  "id": "f9bc7bc22d144cbdbb0d36fce2116448",
+  "tenderId": "UA-2015-09-14-000006"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0c43b27c7d6d486a84b401b235512bf0",
+        "time": "2015-10-01T11:51:08.008104+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b64d01100f947e8b6faa63442320231",
+        "time": "2015-10-01T11:49:08.007842+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0c43b27c7d6d486a84b401b235512bf0",
+        "time": "2015-10-01T11:57:08.007265+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b64d01100f947e8b6faa63442320231",
+        "time": "2015-10-01T11:55:08.009111+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0c43b27c7d6d486a84b401b235512bf0",
+        "time": "2015-10-01T11:45:08.007441+00:00"
+      },
+      "turn_1": {
+        "amount": 963000.0,
+        "bid_time": "2015-10-01T14:43:01.371168+03:00",
+        "bidder": "7b64d01100f947e8b6faa63442320231",
+        "time": "2015-10-01T11:43:08.007662+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7b64d01100f947e8b6faa63442320231",
+          "amount": 963000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kontaktenergo.com.ua",
+                "faxNumber": "+380577546875",
+                "telephone": "+380577546874",
+                "name": "Лошкарьов Сергій Миколайович",
+                "email": "Loshkaryov.s@kontaktenergo.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34014744"
+              },
+              "name": "ТОВ КОНТАКТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61070",
+                "region": "Харківська область",
+                "streetAddress": "вул. Академіка Проскури, буд. 1, оф. 205",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-10-01T14:43:01.371168+03:00"
+        },
+        {
+          "bidder": "0c43b27c7d6d486a84b401b235512bf0",
+          "amount": 244758.58,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675531817, +380444983830",
+                "name": "Анна Афонина",
+                "email": "a.afonina@e-vatra.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39115503",
+                "legalName": "ТОВ \"ЮГСВЕТ\""
+              },
+              "name": "ТОВ \"ЮГСВЕТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "73000",
+                "region": "",
+                "streetAddress": "ул. Горького 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T10:27:01.812866+03:00"
+        }
+      ],
+      "time": "2015-10-01T11:57:13.527011+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T21:10:30.982812+03:00",
+          "amount": 1070038.8,
+          "bidder": "7b64d01100f947e8b6faa63442320231"
+        },
+        {
+          "date": "2015-10-01T10:27:01.812866+03:00",
+          "amount": 244758.58,
+          "bidder": "0c43b27c7d6d486a84b401b235512bf0"
+        }
+      ],
+      "time": "2015-10-01T11:36:08.002883+00:00"
+    }
+  },
+  "id": "f6f1541f565e4aebae7b8771b6131b49",
+  "tenderId": "UA-2015-09-16-000214"
+}

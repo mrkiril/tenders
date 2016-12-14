@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "56a3a1a59c554c968c37cf3e99dd6b5c",
+        "time": "2015-12-10T12:59:15.008345+00:00"
+      },
+      "turn_1": {
+        "bidder": "f344adfd00ad4dbda8eb343103521fbe",
+        "time": "2015-12-10T12:57:15.008248+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "56a3a1a59c554c968c37cf3e99dd6b5c",
+        "time": "2015-12-10T13:05:15.007708+00:00"
+      },
+      "turn_1": {
+        "bidder": "f344adfd00ad4dbda8eb343103521fbe",
+        "time": "2015-12-10T13:03:15.008419+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "56a3a1a59c554c968c37cf3e99dd6b5c",
+        "time": "2015-12-10T12:53:15.008740+00:00"
+      },
+      "turn_1": {
+        "bidder": "f344adfd00ad4dbda8eb343103521fbe",
+        "time": "2015-12-10T12:51:15.008764+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f344adfd00ad4dbda8eb343103521fbe",
+          "amount": 5709.63,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443326404, +380502820273, +380973799220",
+                "name": "Зореслава Игнатенко",
+                "email": "zignatenko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ФАРМЛіДЕР\"",
+                "id": "38193051",
+                "uri": "http://pharmlider.uaprom.net/"
+              },
+              "name": "ТОВ \"ФАРМЛіДЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02140",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, проспект М.Бажана, 16, кв.144",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-08T09:57:51.811159+02:00"
+        },
+        {
+          "bidder": "56a3a1a59c554c968c37cf3e99dd6b5c",
+          "amount": 5352.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-246-05-77",
+                "name": "Баргілевич Наталія Іванівна",
+                "email": "bargilevi4n@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2559913949",
+                "legalName": "ФО-П \"Баргілевич Наталія Іванівна\""
+              },
+              "name": "ФО-П \"Баргілевич Наталія Іванівна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 72, кв. 178",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T18:08:16.996867+02:00"
+        }
+      ],
+      "time": "2015-12-10T13:05:40.240554+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T09:57:51.811159+02:00",
+          "amount": 5709.63,
+          "bidder": "f344adfd00ad4dbda8eb343103521fbe"
+        },
+        {
+          "date": "2015-12-08T18:08:16.996867+02:00",
+          "amount": 5352.0,
+          "bidder": "56a3a1a59c554c968c37cf3e99dd6b5c"
+        }
+      ],
+      "time": "2015-12-10T12:44:15.003854+00:00"
+    }
+  },
+  "id": "009085f13c904c0fbdbf66969f94381e",
+  "tenderId": "UA-2015-12-04-000061-b"
+}

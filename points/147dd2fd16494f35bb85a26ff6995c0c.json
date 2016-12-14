@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e8e3cbbb17344f17a9a0968a508e7790",
+        "time": "2015-11-23T09:49:33.008593+00:00"
+      },
+      "turn_1": {
+        "bidder": "7e4e42fc96364045ae49e2a704a3abb2",
+        "time": "2015-11-23T09:47:33.009082+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e8e3cbbb17344f17a9a0968a508e7790",
+        "time": "2015-11-23T09:55:33.020131+00:00"
+      },
+      "turn_1": {
+        "amount": 990.0,
+        "bid_time": "2015-11-23T11:51:52.969530+02:00",
+        "bidder": "7e4e42fc96364045ae49e2a704a3abb2",
+        "time": "2015-11-23T09:53:33.010184+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7e4e42fc96364045ae49e2a704a3abb2",
+        "time": "2015-11-23T09:43:33.010051+00:00"
+      },
+      "turn_1": {
+        "amount": 1048.0,
+        "bid_time": "2015-11-23T11:41:01.296405+02:00",
+        "bidder": "e8e3cbbb17344f17a9a0968a508e7790",
+        "time": "2015-11-23T09:41:33.014255+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e8e3cbbb17344f17a9a0968a508e7790",
+          "amount": 1048.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990136560",
+                "name": "Дмитрий Гладилин",
+                "email": "olgar.09@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2402810598",
+                "legalName": "ФОП \"Гарист О.В.\""
+              },
+              "name": "ФОП \"Гарист О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49055",
+                "region": "Днепропетровская",
+                "streetAddress": "УЛ героев сталинграда 26",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:41:01.296405+02:00"
+        },
+        {
+          "bidder": "7e4e42fc96364045ae49e2a704a3abb2",
+          "amount": 990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675933355, +380676180066",
+                "name": "Богдан Белоус",
+                "email": "vn@nagrada.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3018710555",
+                "legalName": "ФОП \"ФОП Білоус БК\""
+              },
+              "name": "ФОП \"ФОП Білоус БК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69000",
+                "region": "Запорожская",
+                "streetAddress": "",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:51:52.969530+02:00"
+        }
+      ],
+      "time": "2015-11-23T09:55:34.430745+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-21T10:32:43.660605+02:00",
+          "amount": 1199.0,
+          "bidder": "e8e3cbbb17344f17a9a0968a508e7790"
+        },
+        {
+          "date": "2015-11-20T12:28:55.691278+02:00",
+          "amount": 1050.0,
+          "bidder": "7e4e42fc96364045ae49e2a704a3abb2"
+        }
+      ],
+      "time": "2015-11-23T09:34:33.005739+00:00"
+    }
+  },
+  "id": "147dd2fd16494f35bb85a26ff6995c0c",
+  "tenderId": "UA-2015-11-17-000188"
+}

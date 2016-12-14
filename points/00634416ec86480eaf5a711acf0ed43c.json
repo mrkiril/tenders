@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "64f78cad654f48709cc03cd08c885f7a",
+        "time": "2015-11-05T10:18:22.010031+00:00"
+      },
+      "turn_1": {
+        "bidder": "5af9b42768684e2f9095336a8ae2ad0c",
+        "time": "2015-11-05T10:16:22.009283+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "64f78cad654f48709cc03cd08c885f7a",
+        "time": "2015-11-05T10:24:22.008323+00:00"
+      },
+      "turn_1": {
+        "bidder": "5af9b42768684e2f9095336a8ae2ad0c",
+        "time": "2015-11-05T10:22:22.010478+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "64f78cad654f48709cc03cd08c885f7a",
+        "time": "2015-11-05T10:12:22.008928+00:00"
+      },
+      "turn_1": {
+        "bidder": "5af9b42768684e2f9095336a8ae2ad0c",
+        "time": "2015-11-05T10:10:22.010489+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5af9b42768684e2f9095336a8ae2ad0c",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-31T18:44:55.014071+02:00"
+        },
+        {
+          "bidder": "64f78cad654f48709cc03cd08c885f7a",
+          "amount": 11995.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532667662",
+                "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+                "email": "svitlo-energo@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35360095",
+                "legalName": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\""
+              },
+              "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36034, г.Полтава, ул. Великотырновская,39д,кв.140",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T23:59:33.653986+02:00"
+        }
+      ],
+      "time": "2015-11-05T10:24:22.877871+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-31T18:44:55.014071+02:00",
+          "amount": 12000.0,
+          "bidder": "5af9b42768684e2f9095336a8ae2ad0c"
+        },
+        {
+          "date": "2015-11-03T23:59:33.653986+02:00",
+          "amount": 11995.0,
+          "bidder": "64f78cad654f48709cc03cd08c885f7a"
+        }
+      ],
+      "time": "2015-11-05T10:03:22.003418+00:00"
+    }
+  },
+  "id": "00634416ec86480eaf5a711acf0ed43c",
+  "tenderId": "UA-2015-10-23-000086"
+}

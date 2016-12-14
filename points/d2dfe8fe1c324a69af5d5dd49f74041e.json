@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "825aa0393f3a4e14b510dbdf049c92ff",
+        "time": "2015-09-09T08:15:00.165323+00:00"
+      },
+      "turn_1": {
+        "bidder": "db8330673e274e52847fc3d344d47607",
+        "time": "2015-09-09T08:13:00.124465+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "825aa0393f3a4e14b510dbdf049c92ff",
+        "time": "2015-09-09T08:21:00.035192+00:00"
+      },
+      "turn_1": {
+        "bidder": "db8330673e274e52847fc3d344d47607",
+        "time": "2015-09-09T08:19:00.134832+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "db8330673e274e52847fc3d344d47607",
+        "time": "2015-09-09T08:09:00.156726+00:00"
+      },
+      "turn_1": {
+        "amount": 37900.0,
+        "bid_time": "2015-09-09T11:06:02.416228+03:00",
+        "bidder": "825aa0393f3a4e14b510dbdf049c92ff",
+        "time": "2015-09-09T08:07:00.044495+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "db8330673e274e52847fc3d344d47607",
+          "amount": 37990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T12:10:53.271150+03:00"
+        },
+        {
+          "bidder": "825aa0393f3a4e14b510dbdf049c92ff",
+          "amount": 37900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380507087978, +380679008976",
+                "name": "Олег Юрченко",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-09T11:06:02.416228+03:00"
+        }
+      ],
+      "time": "2015-09-09T08:21:11.457614+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T17:57:01.752728+03:00",
+          "amount": 40444.0,
+          "bidder": "825aa0393f3a4e14b510dbdf049c92ff"
+        },
+        {
+          "date": "2015-09-08T12:10:53.271150+03:00",
+          "amount": 37990.0,
+          "bidder": "db8330673e274e52847fc3d344d47607"
+        }
+      ],
+      "time": "2015-09-09T08:00:00.003985+00:00"
+    }
+  },
+  "id": "d2dfe8fe1c324a69af5d5dd49f74041e",
+  "tenderId": "UA-2015-09-01-000101"
+}

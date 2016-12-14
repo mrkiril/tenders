@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5cbd3b02ac7045c887dc07126bf96ffe",
+        "time": "2015-11-03T12:15:09.006739+00:00"
+      },
+      "turn_1": {
+        "bidder": "bef8c9089cd34d2da5f57105834d0bfb",
+        "time": "2015-11-03T12:13:09.008119+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5cbd3b02ac7045c887dc07126bf96ffe",
+        "time": "2015-11-03T12:21:09.006822+00:00"
+      },
+      "turn_1": {
+        "bidder": "bef8c9089cd34d2da5f57105834d0bfb",
+        "time": "2015-11-03T12:19:09.009599+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5cbd3b02ac7045c887dc07126bf96ffe",
+        "time": "2015-11-03T12:09:09.008585+00:00"
+      },
+      "turn_1": {
+        "bidder": "bef8c9089cd34d2da5f57105834d0bfb",
+        "time": "2015-11-03T12:07:09.007888+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bef8c9089cd34d2da5f57105834d0bfb",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-31T16:27:46.779346+02:00"
+        },
+        {
+          "bidder": "5cbd3b02ac7045c887dc07126bf96ffe",
+          "amount": 3900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-29T17:53:07.392367+02:00"
+        }
+      ],
+      "time": "2015-11-03T12:21:12.060256+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-31T16:27:46.779346+02:00",
+          "amount": 4500.0,
+          "bidder": "bef8c9089cd34d2da5f57105834d0bfb"
+        },
+        {
+          "date": "2015-10-29T17:53:07.392367+02:00",
+          "amount": 3900.0,
+          "bidder": "5cbd3b02ac7045c887dc07126bf96ffe"
+        }
+      ],
+      "time": "2015-11-03T12:00:09.003512+00:00"
+    }
+  },
+  "id": "8c8cf5593f294792b5e654e6df149f1e",
+  "tenderId": "UA-2015-10-27-000080"
+}

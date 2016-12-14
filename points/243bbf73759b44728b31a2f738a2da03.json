@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e075c3fdda574cde943632f4b756f30c",
+        "time": "2015-12-02T11:47:26.008429+00:00"
+      },
+      "turn_1": {
+        "amount": 3665.0,
+        "bid_time": "2015-12-02T13:43:35.663939+02:00",
+        "bidder": "66ae4c82c61e4081ae66c0293b243e5b",
+        "time": "2015-12-02T11:45:26.009663+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "66ae4c82c61e4081ae66c0293b243e5b",
+        "time": "2015-12-02T11:53:26.007984+00:00"
+      },
+      "turn_1": {
+        "bidder": "e075c3fdda574cde943632f4b756f30c",
+        "time": "2015-12-02T11:51:26.007172+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e075c3fdda574cde943632f4b756f30c",
+        "time": "2015-12-02T11:41:26.007089+00:00"
+      },
+      "turn_1": {
+        "bidder": "66ae4c82c61e4081ae66c0293b243e5b",
+        "time": "2015-12-02T11:39:26.009223+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e075c3fdda574cde943632f4b756f30c",
+          "amount": 3715.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0962273077",
+                "name": " Валентина Корейба ",
+                "email": "vk335@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "02466317",
+                "legalName": ""
+              },
+              "name": "КП Малинська районна друкарня",
+              "address": {
+                "countryName": "Украина",
+                "region": "Житомирская область",
+                "streetAddress": "Малин, вул Кримського, 7"
+              }
+            }
+          ],
+          "time": "2015-11-30T08:47:49.761916+02:00"
+        },
+        {
+          "bidder": "66ae4c82c61e4081ae66c0293b243e5b",
+          "amount": 3665.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380456051449, +380967291620",
+                "name": "Сергій Міцінский",
+                "email": "sm_kray@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39871817",
+                "legalName": "ТОВ \"ЛІТО ДРУК\""
+              },
+              "name": "ТОВ \"ЛІТО ДРУК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "09800",
+                "region": "Киевская",
+                "streetAddress": "вул. Комсомольська,6",
+                "locality": "Тетіїв"
+              }
+            }
+          ],
+          "time": "2015-12-02T13:43:35.663939+02:00"
+        }
+      ],
+      "time": "2015-12-02T11:53:27.887283+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T08:47:49.761916+02:00",
+          "amount": 3715.0,
+          "bidder": "e075c3fdda574cde943632f4b756f30c"
+        },
+        {
+          "date": "2015-12-01T11:37:48.599743+02:00",
+          "amount": 3715.0,
+          "bidder": "66ae4c82c61e4081ae66c0293b243e5b"
+        }
+      ],
+      "time": "2015-12-02T11:32:26.004823+00:00"
+    }
+  },
+  "id": "243bbf73759b44728b31a2f738a2da03",
+  "tenderId": "UA-2015-11-26-000072"
+}

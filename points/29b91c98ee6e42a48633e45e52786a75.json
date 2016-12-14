@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1251.9,
+        "bid_time": "2015-12-04T11:56:54.675854+02:00",
+        "bidder": "d2daeab9a775478bb2cff27b20f6d4dc",
+        "time": "2015-12-04T09:58:22.011196+00:00"
+      },
+      "turn_1": {
+        "amount": 1260.0,
+        "bid_time": "2015-12-04T11:54:35.303895+02:00",
+        "bidder": "8bd9b9dbb6714cb2949548372fe0fa63",
+        "time": "2015-12-04T09:56:22.012892+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1236.9,
+        "bid_time": "2015-12-04T12:03:59.117245+02:00",
+        "bidder": "d2daeab9a775478bb2cff27b20f6d4dc",
+        "time": "2015-12-04T10:04:22.010725+00:00"
+      },
+      "turn_1": {
+        "amount": 1240.0,
+        "bid_time": "2015-12-04T12:00:40.076976+02:00",
+        "bidder": "8bd9b9dbb6714cb2949548372fe0fa63",
+        "time": "2015-12-04T10:02:22.012785+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1280.0,
+        "bid_time": "2015-12-04T11:51:01.798677+02:00",
+        "bidder": "d2daeab9a775478bb2cff27b20f6d4dc",
+        "time": "2015-12-04T09:52:22.014405+00:00"
+      },
+      "turn_1": {
+        "amount": 1300.0,
+        "bid_time": "2015-12-04T11:49:22.514132+02:00",
+        "bidder": "8bd9b9dbb6714cb2949548372fe0fa63",
+        "time": "2015-12-04T09:50:22.011674+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8bd9b9dbb6714cb2949548372fe0fa63",
+          "amount": 1240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:00:40.076976+02:00"
+        },
+        {
+          "bidder": "d2daeab9a775478bb2cff27b20f6d4dc",
+          "amount": 1236.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673283655",
+                "name": "Наталия Власюк",
+                "email": "n.vlasyuk@womed.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38639339",
+                "legalName": "ТОВ \"Вест-Ост Медикал\""
+              },
+              "name": "ТОВ \"Вест-Ост Медикал\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "бульвар Лепсе, 6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:03:59.117245+02:00"
+        }
+      ],
+      "time": "2015-12-04T10:04:23.108072+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T17:50:26.142697+02:00",
+          "amount": 1380.0,
+          "bidder": "8bd9b9dbb6714cb2949548372fe0fa63"
+        },
+        {
+          "date": "2015-12-02T15:54:11.946014+02:00",
+          "amount": 1305.4,
+          "bidder": "d2daeab9a775478bb2cff27b20f6d4dc"
+        }
+      ],
+      "time": "2015-12-04T09:43:22.004616+00:00"
+    }
+  },
+  "id": "29b91c98ee6e42a48633e45e52786a75",
+  "tenderId": "UA-2015-12-01-000077-a"
+}

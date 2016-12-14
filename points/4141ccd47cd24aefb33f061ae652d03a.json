@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8571dd19ef994a62812fb376e16b8b5a",
+        "time": "2015-11-26T11:45:24.010352+00:00"
+      },
+      "turn_1": {
+        "bidder": "6878b75963254ef7a062e49f80fd6a73",
+        "time": "2015-11-26T11:43:24.010282+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8571dd19ef994a62812fb376e16b8b5a",
+        "time": "2015-11-26T11:51:24.010194+00:00"
+      },
+      "turn_1": {
+        "bidder": "6878b75963254ef7a062e49f80fd6a73",
+        "time": "2015-11-26T11:49:24.009574+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8571dd19ef994a62812fb376e16b8b5a",
+        "time": "2015-11-26T11:39:24.009634+00:00"
+      },
+      "turn_1": {
+        "bidder": "6878b75963254ef7a062e49f80fd6a73",
+        "time": "2015-11-26T11:37:24.010288+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6878b75963254ef7a062e49f80fd6a73",
+          "amount": 7400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aeq.su",
+                "faxNumber": "+380617070959",
+                "telephone": "+380679979779",
+                "name": "Титаренко Роман Валентинович",
+                "email": "4585999@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23850511"
+              },
+              "name": "ТОВ Екватор",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69120",
+                "region": "Запорізька область",
+                "streetAddress": "вул. Авраменка, 6",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-11-25T12:06:26.777198+02:00"
+        },
+        {
+          "bidder": "8571dd19ef994a62812fb376e16b8b5a",
+          "amount": 6988.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sportmir.dp.ua",
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-25T22:09:25.520007+02:00"
+        }
+      ],
+      "time": "2015-11-26T11:51:25.592004+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T12:06:26.777198+02:00",
+          "amount": 7400.0,
+          "bidder": "6878b75963254ef7a062e49f80fd6a73"
+        },
+        {
+          "date": "2015-11-25T22:09:25.520007+02:00",
+          "amount": 6988.0,
+          "bidder": "8571dd19ef994a62812fb376e16b8b5a"
+        }
+      ],
+      "time": "2015-11-26T11:30:24.005517+00:00"
+    }
+  },
+  "id": "4141ccd47cd24aefb33f061ae652d03a",
+  "tenderId": "UA-2015-11-23-000096-a"
+}

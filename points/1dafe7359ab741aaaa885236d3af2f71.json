@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0c2fa84cb5af489aa9ce847b0a50d422",
+        "time": "2015-10-07T12:24:45.016568+00:00"
+      },
+      "turn_3": {
+        "bidder": "e511650e9af84b32a47fd633a1f078bc",
+        "time": "2015-10-07T12:26:45.006551+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d5d2d71c6bc4aa0a54862c928daee86",
+        "time": "2015-10-07T12:22:45.007105+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0c2fa84cb5af489aa9ce847b0a50d422",
+        "time": "2015-10-07T12:32:45.007410+00:00"
+      },
+      "turn_3": {
+        "bidder": "e511650e9af84b32a47fd633a1f078bc",
+        "time": "2015-10-07T12:34:45.007697+00:00"
+      },
+      "turn_1": {
+        "amount": 40946.0,
+        "bid_time": "2015-10-07T15:30:43.500562+03:00",
+        "bidder": "2d5d2d71c6bc4aa0a54862c928daee86",
+        "time": "2015-10-07T12:30:45.011904+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2d5d2d71c6bc4aa0a54862c928daee86",
+        "time": "2015-10-07T12:16:45.008961+00:00"
+      },
+      "turn_3": {
+        "bidder": "e511650e9af84b32a47fd633a1f078bc",
+        "time": "2015-10-07T12:18:45.008858+00:00"
+      },
+      "turn_1": {
+        "amount": 41900.0,
+        "bid_time": "2015-10-07T15:13:04.214757+03:00",
+        "bidder": "0c2fa84cb5af489aa9ce847b0a50d422",
+        "time": "2015-10-07T12:14:45.010046+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0c2fa84cb5af489aa9ce847b0a50d422",
+          "amount": 41900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503828879",
+                "name": "Евген Артюх",
+                "email": "artyuh090177@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2813310592",
+                "legalName": "ФОП \"Артюх Е О\""
+              },
+              "name": "ФОП \"Артюх Е О\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "14033",
+                "region": "",
+                "streetAddress": "Героев Чорнобиля 3 кв 90",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T15:13:04.214757+03:00"
+        },
+        {
+          "bidder": "2d5d2d71c6bc4aa0a54862c928daee86",
+          "amount": 40946.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676565178",
+                "name": "Людмила Володимирівна Лінькова",
+                "email": "prodcentr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33201020",
+                "legalName": "ТОВ \"Продцентр-плюс\""
+              },
+              "name": "ТОВ \"Продцентр-плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "11500",
+                "region": "",
+                "streetAddress": " вул Коротуна 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T15:30:43.500562+03:00"
+        },
+        {
+          "bidder": "e511650e9af84b32a47fd633a1f078bc",
+          "amount": 30420.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445002086",
+                "telephone": "+380442292408",
+                "name": "Олійник Олександр Петрович",
+                "email": "0672348985@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38390363"
+              },
+              "name": "ТОВ Стартрейдінг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська область",
+                "streetAddress": "вул. Лаврська 9 корпус 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-01T15:09:59.464540+03:00"
+        }
+      ],
+      "time": "2015-10-07T12:34:49.131270+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T11:58:22.068950+03:00",
+          "amount": 45000.0,
+          "bidder": "0c2fa84cb5af489aa9ce847b0a50d422"
+        },
+        {
+          "date": "2015-10-01T12:07:16.459887+03:00",
+          "amount": 41946.0,
+          "bidder": "2d5d2d71c6bc4aa0a54862c928daee86"
+        },
+        {
+          "date": "2015-10-01T15:09:59.464540+03:00",
+          "amount": 30420.0,
+          "bidder": "e511650e9af84b32a47fd633a1f078bc"
+        }
+      ],
+      "time": "2015-10-07T12:07:45.003794+00:00"
+    }
+  },
+  "id": "1dafe7359ab741aaaa885236d3af2f71",
+  "tenderId": "UA-2015-09-23-000195"
+}

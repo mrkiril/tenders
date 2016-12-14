@@ -1,0 +1,201 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "40a8bb874c83471bb32309374cb0a5aa",
+        "time": "2015-12-07T13:03:48.009095+00:00"
+      },
+      "turn_2": {
+        "bidder": "23e6335be10b4712b07fa3f8793ec20e",
+        "time": "2015-12-07T12:59:48.009075+00:00"
+      },
+      "turn_3": {
+        "bidder": "f89e9825de184600be43976f42b25936",
+        "time": "2015-12-07T13:01:48.013815+00:00"
+      },
+      "turn_1": {
+        "bidder": "58073954eed747d1bf53d9fa8f505469",
+        "time": "2015-12-07T12:57:48.007730+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "40a8bb874c83471bb32309374cb0a5aa",
+        "time": "2015-12-07T13:13:48.008516+00:00"
+      },
+      "turn_2": {
+        "bidder": "23e6335be10b4712b07fa3f8793ec20e",
+        "time": "2015-12-07T13:09:48.127753+00:00"
+      },
+      "turn_3": {
+        "bidder": "f89e9825de184600be43976f42b25936",
+        "time": "2015-12-07T13:11:48.008136+00:00"
+      },
+      "turn_1": {
+        "bidder": "58073954eed747d1bf53d9fa8f505469",
+        "time": "2015-12-07T13:07:48.007720+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "40a8bb874c83471bb32309374cb0a5aa",
+        "time": "2015-12-07T12:53:48.064997+00:00"
+      },
+      "turn_2": {
+        "bidder": "23e6335be10b4712b07fa3f8793ec20e",
+        "time": "2015-12-07T12:49:48.009841+00:00"
+      },
+      "turn_3": {
+        "bidder": "f89e9825de184600be43976f42b25936",
+        "time": "2015-12-07T12:51:48.009394+00:00"
+      },
+      "turn_1": {
+        "bidder": "58073954eed747d1bf53d9fa8f505469",
+        "time": "2015-12-07T12:47:48.009107+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "58073954eed747d1bf53d9fa8f505469",
+          "amount": 52998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380631947227",
+                "name": "ООО \"ВИЛ ГРУП ПЛЮС\"",
+                "email": "vilgrup@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39465628",
+                "legalName": "ООО \"ВИЛ ГРУП ПЛЮС\""
+              },
+              "name": "ООО \"ВИЛ ГРУП ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49050, Днепропетровск, пр. Гагарина, 115, корпус 2, офис 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T11:22:27.259882+02:00"
+        },
+        {
+          "bidder": "23e6335be10b4712b07fa3f8793ec20e",
+          "amount": 42000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-04T09:09:50.928344+02:00"
+        },
+        {
+          "bidder": "f89e9825de184600be43976f42b25936",
+          "amount": 19992.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alsoft.kiev.ua/",
+                "faxNumber": "+380444517745",
+                "telephone": "+380444517745",
+                "name": "Трофимчук Олександр Володимирович",
+                "email": "office@alsoft.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32487839"
+              },
+              "name": "ТОВ \"АлСофт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська область",
+                "streetAddress": "вулиця Ялтинська, будинок 5-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T16:49:23.563374+02:00"
+        },
+        {
+          "bidder": "40a8bb874c83471bb32309374cb0a5aa",
+          "amount": 14640.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T17:12:53.739961+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:13:50.330358+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T11:22:27.259882+02:00",
+          "amount": 52998.0,
+          "bidder": "58073954eed747d1bf53d9fa8f505469"
+        },
+        {
+          "date": "2015-12-04T09:09:50.928344+02:00",
+          "amount": 42000.0,
+          "bidder": "23e6335be10b4712b07fa3f8793ec20e"
+        },
+        {
+          "date": "2015-12-01T16:49:23.563374+02:00",
+          "amount": 19992.0,
+          "bidder": "f89e9825de184600be43976f42b25936"
+        },
+        {
+          "date": "2015-12-03T17:12:53.739961+02:00",
+          "amount": 14640.0,
+          "bidder": "40a8bb874c83471bb32309374cb0a5aa"
+        }
+      ],
+      "time": "2015-12-07T12:40:48.004503+00:00"
+    }
+  },
+  "id": "6030091347a442798af3be3896ca8c13",
+  "tenderId": "UA-2015-11-25-000107-a"
+}

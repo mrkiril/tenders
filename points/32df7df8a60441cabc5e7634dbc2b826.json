@@ -1,0 +1,217 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 89199.0,
+        "bid_time": "2015-11-06T16:02:37.719292+02:00",
+        "bidder": "71a9167432f0446b978a885598f0ca3e",
+        "time": "2015-11-06T14:04:20.008819+00:00"
+      },
+      "turn_2": {
+        "amount": 90000.0,
+        "bid_time": "2015-11-06T15:59:50.719100+02:00",
+        "bidder": "8bb217e882a240f99e737398b788c212",
+        "time": "2015-11-06T14:00:20.018694+00:00"
+      },
+      "turn_3": {
+        "amount": 89200.0,
+        "bid_time": "2015-11-06T16:01:20.970632+02:00",
+        "bidder": "b192c13b60a24402b7e81eaba50dd024",
+        "time": "2015-11-06T14:02:20.009125+00:00"
+      },
+      "turn_1": {
+        "bidder": "c388781fe2b44fbeb66c06ce707ba5ff",
+        "time": "2015-11-06T13:58:20.009419+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 86999.0,
+        "bid_time": "2015-11-06T16:12:59.594314+02:00",
+        "bidder": "71a9167432f0446b978a885598f0ca3e",
+        "time": "2015-11-06T14:14:20.019245+00:00"
+      },
+      "turn_2": {
+        "amount": 89000.0,
+        "bid_time": "2015-11-06T16:08:42.228227+02:00",
+        "bidder": "8bb217e882a240f99e737398b788c212",
+        "time": "2015-11-06T14:10:20.008337+00:00"
+      },
+      "turn_3": {
+        "amount": 87000.0,
+        "bid_time": "2015-11-06T16:11:49.825946+02:00",
+        "bidder": "b192c13b60a24402b7e81eaba50dd024",
+        "time": "2015-11-06T14:12:20.009233+00:00"
+      },
+      "turn_1": {
+        "bidder": "c388781fe2b44fbeb66c06ce707ba5ff",
+        "time": "2015-11-06T14:08:20.008749+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "8bb217e882a240f99e737398b788c212",
+        "time": "2015-11-06T13:54:20.011157+00:00"
+      },
+      "turn_2": {
+        "amount": 91925.0,
+        "bid_time": "2015-11-06T15:48:37.671342+02:00",
+        "bidder": "b192c13b60a24402b7e81eaba50dd024",
+        "time": "2015-11-06T13:50:20.022338+00:00"
+      },
+      "turn_3": {
+        "amount": 91920.0,
+        "bid_time": "2015-11-06T15:50:54.437888+02:00",
+        "bidder": "71a9167432f0446b978a885598f0ca3e",
+        "time": "2015-11-06T13:52:20.011970+00:00"
+      },
+      "turn_1": {
+        "bidder": "c388781fe2b44fbeb66c06ce707ba5ff",
+        "time": "2015-11-06T13:48:20.010111+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c388781fe2b44fbeb66c06ce707ba5ff",
+          "amount": 150969.97,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.buduchnist.com.ua",
+                "faxNumber": "+380322444451",
+                "telephone": "+380322444451",
+                "name": "Білик Зоряна Петрівна",
+                "email": "top@buduchnist.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36742493"
+              },
+              "name": "ТОВ Будучність ЛТД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "82441",
+                "region": "Львівська область",
+                "streetAddress": "с. Верчани, вул. Незалежності, 35",
+                "locality": "Стрийський район"
+              }
+            }
+          ],
+          "time": "2015-11-04T09:21:37.790776+02:00"
+        },
+        {
+          "bidder": "8bb217e882a240f99e737398b788c212",
+          "amount": 89000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tedex.com.ua",
+                "faxNumber": "+380322951063",
+                "telephone": "+380322951063",
+                "name": "Лукашов Олександр Вікторович",
+                "email": "aleksandr.lukashov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39812175"
+              },
+              "name": "ТОВ Тедекс Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79040",
+                "region": "Львівська область",
+                "streetAddress": "в.Городоцька 355",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-11-06T16:08:42.228227+02:00"
+        },
+        {
+          "bidder": "b192c13b60a24402b7e81eaba50dd024",
+          "amount": 87000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3803222534205",
+                "name": "ПП \"Універсальні Технології\"",
+                "email": "unitech@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32408563",
+                "legalName": "ПП \"Універсальні Технології\""
+              },
+              "name": "ПП \"Універсальні Технології\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "79013, Львівська область, м Львів, вул.Японська 10/7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T16:11:49.825946+02:00"
+        },
+        {
+          "bidder": "71a9167432f0446b978a885598f0ca3e",
+          "amount": 86999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.midland.kiev.ua",
+                "faxNumber": "+380445313963",
+                "telephone": "+380444646098",
+                "name": "Адам Ганна Володимирівна",
+                "email": "andrey.emelianenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36602642"
+              },
+              "name": "ПП Мідланд Ойл",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02192",
+                "region": "Київська область",
+                "streetAddress": "вул. Генерала Жмаченка 4, кв.284",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-06T16:12:59.594314+02:00"
+        }
+      ],
+      "time": "2015-11-06T14:14:51.655050+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T09:21:37.790776+02:00",
+          "amount": 150969.97,
+          "bidder": "c388781fe2b44fbeb66c06ce707ba5ff"
+        },
+        {
+          "date": "2015-11-04T17:27:06.015353+02:00",
+          "amount": 148512.0,
+          "bidder": "b192c13b60a24402b7e81eaba50dd024"
+        },
+        {
+          "date": "2015-11-05T10:36:23.998990+02:00",
+          "amount": 110031.0,
+          "bidder": "71a9167432f0446b978a885598f0ca3e"
+        },
+        {
+          "date": "2015-11-05T13:54:04.004525+02:00",
+          "amount": 91925.48,
+          "bidder": "8bb217e882a240f99e737398b788c212"
+        }
+      ],
+      "time": "2015-11-06T13:41:20.002645+00:00"
+    }
+  },
+  "id": "32df7df8a60441cabc5e7634dbc2b826",
+  "tenderId": "UA-2015-10-26-000262"
+}

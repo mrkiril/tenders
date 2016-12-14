@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a939fd5961814cd0886e8b8b1b8db2a9",
+        "time": "2015-12-17T09:48:10.012846+00:00"
+      },
+      "turn_1": {
+        "amount": 324866.0,
+        "bid_time": "2015-12-17T11:45:49.960743+02:00",
+        "bidder": "3831ac84c7ac4c83be08fcf3c01779ab",
+        "time": "2015-12-17T09:46:10.010737+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3831ac84c7ac4c83be08fcf3c01779ab",
+        "time": "2015-12-17T09:54:10.008318+00:00"
+      },
+      "turn_1": {
+        "bidder": "a939fd5961814cd0886e8b8b1b8db2a9",
+        "time": "2015-12-17T09:52:10.011403+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a939fd5961814cd0886e8b8b1b8db2a9",
+        "time": "2015-12-17T09:42:10.010613+00:00"
+      },
+      "turn_1": {
+        "bidder": "3831ac84c7ac4c83be08fcf3c01779ab",
+        "time": "2015-12-17T09:40:10.010339+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a939fd5961814cd0886e8b8b1b8db2a9",
+          "amount": 333000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445380081, +380672351466",
+                "name": "Валентин Герасимович",
+                "email": "valentin.gerasimovich@itintegrator.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31091208",
+                "legalName": "ТОВ \"ІТ-Інтегратор\""
+              },
+              "name": "ТОВ \"ІТ-Інтегратор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04080",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-16T10:35:42.314868+02:00"
+        },
+        {
+          "bidder": "3831ac84c7ac4c83be08fcf3c01779ab",
+          "amount": 324866.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380953088126",
+                "name": "Николай Звягольский",
+                "email": "nik@isa.pl.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34612093",
+                "legalName": "ТОВ \"Індустріальні системи автоматизації\""
+              },
+              "name": "ТОВ \"Індустріальні системи автоматизації\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36002",
+                "region": "Полтавская",
+                "streetAddress": "ул. Луценка, 27",
+                "locality": "Украина"
+              }
+            }
+          ],
+          "time": "2015-12-17T11:45:49.960743+02:00"
+        }
+      ],
+      "time": "2015-12-17T09:54:12.101196+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T18:58:18.148626+02:00",
+          "amount": 334866.0,
+          "bidder": "3831ac84c7ac4c83be08fcf3c01779ab"
+        },
+        {
+          "date": "2015-12-16T10:35:42.314868+02:00",
+          "amount": 333000.0,
+          "bidder": "a939fd5961814cd0886e8b8b1b8db2a9"
+        }
+      ],
+      "time": "2015-12-17T09:33:10.004100+00:00"
+    }
+  },
+  "id": "287fa33696e649d094e3016823382665",
+  "tenderId": "UA-2015-12-02-000150"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "858f662ed7f5410294b2454d42a2239c",
+        "time": "2015-10-15T08:48:46.007343+00:00"
+      },
+      "turn_1": {
+        "bidder": "522eeb63f29a4d24b6f5a1a05ecbc95a",
+        "time": "2015-10-15T08:46:46.010315+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "858f662ed7f5410294b2454d42a2239c",
+        "time": "2015-10-15T08:54:46.008979+00:00"
+      },
+      "turn_1": {
+        "bidder": "522eeb63f29a4d24b6f5a1a05ecbc95a",
+        "time": "2015-10-15T08:52:46.007165+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "858f662ed7f5410294b2454d42a2239c",
+        "time": "2015-10-15T08:42:46.012643+00:00"
+      },
+      "turn_1": {
+        "bidder": "522eeb63f29a4d24b6f5a1a05ecbc95a",
+        "time": "2015-10-15T08:40:46.007303+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "522eeb63f29a4d24b6f5a1a05ecbc95a",
+          "amount": 100000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-12T10:05:38.537474+03:00"
+        },
+        {
+          "bidder": "858f662ed7f5410294b2454d42a2239c",
+          "amount": 98000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-09T14:45:39.226022+03:00"
+        }
+      ],
+      "time": "2015-10-15T08:54:48.289137+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-12T10:05:38.537474+03:00",
+          "amount": 100000.0,
+          "bidder": "522eeb63f29a4d24b6f5a1a05ecbc95a"
+        },
+        {
+          "date": "2015-10-09T14:45:39.226022+03:00",
+          "amount": 98000.0,
+          "bidder": "858f662ed7f5410294b2454d42a2239c"
+        }
+      ],
+      "time": "2015-10-15T08:33:46.003886+00:00"
+    }
+  },
+  "id": "7a37cf17c136465ba961a1f26e95c047",
+  "tenderId": "UA-2015-10-07-000224"
+}

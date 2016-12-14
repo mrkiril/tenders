@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 57330.0,
+        "bid_time": "2015-10-29T11:53:57.850231+02:00",
+        "bidder": "2a1d5c64d24849ea88d2b724fc491203",
+        "time": "2015-10-29T09:54:43.010936+00:00"
+      },
+      "turn_3": {
+        "amount": 56700.0,
+        "bid_time": "2015-10-29T11:55:19.501799+02:00",
+        "bidder": "5dcc128d8eda47d69078badacd6b26ec",
+        "time": "2015-10-29T09:56:43.010187+00:00"
+      },
+      "turn_1": {
+        "bidder": "115ae4acc9e74fb598b65ebfbb0186d3",
+        "time": "2015-10-29T09:52:43.008657+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 54950.0,
+        "bid_time": "2015-10-29T12:01:05.978904+02:00",
+        "bidder": "2a1d5c64d24849ea88d2b724fc491203",
+        "time": "2015-10-29T10:02:43.007931+00:00"
+      },
+      "turn_3": {
+        "amount": 54700.0,
+        "bid_time": "2015-10-29T12:03:32.699955+02:00",
+        "bidder": "5dcc128d8eda47d69078badacd6b26ec",
+        "time": "2015-10-29T10:04:43.008691+00:00"
+      },
+      "turn_1": {
+        "bidder": "115ae4acc9e74fb598b65ebfbb0186d3",
+        "time": "2015-10-29T10:00:43.008406+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "115ae4acc9e74fb598b65ebfbb0186d3",
+        "time": "2015-10-29T09:46:43.008410+00:00"
+      },
+      "turn_3": {
+        "bidder": "2a1d5c64d24849ea88d2b724fc491203",
+        "time": "2015-10-29T09:48:43.012454+00:00"
+      },
+      "turn_1": {
+        "amount": 57400.0,
+        "bid_time": "2015-10-29T11:43:04.206763+02:00",
+        "bidder": "5dcc128d8eda47d69078badacd6b26ec",
+        "time": "2015-10-29T09:44:43.012824+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "115ae4acc9e74fb598b65ebfbb0186d3",
+          "amount": 63000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676486582",
+                "name": "Зинаида Литвин",
+                "email": "lytvynzinaida@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2104519761",
+                "legalName": "ФОП \"Дюльгер Галина Вячеславовна\""
+              },
+              "name": "ФОП \"Дюльгер Галина Вячеславовна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65008",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-25T18:22:36.669293+02:00"
+        },
+        {
+          "bidder": "2a1d5c64d24849ea88d2b724fc491203",
+          "amount": 54950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T12:01:05.978904+02:00"
+        },
+        {
+          "bidder": "5dcc128d8eda47d69078badacd6b26ec",
+          "amount": 54700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.caman.ua/",
+                "telephone": "0674445986",
+                "name": "Олег  Потиенко ",
+                "email": "oleg@caman.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25197481",
+                "legalName": "ЧПП \"Каман\""
+              },
+              "name": "ЧПП \"Каман\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Бровары 07400 ул.Димитрова 24"
+              }
+            }
+          ],
+          "time": "2015-10-29T12:03:32.699955+02:00"
+        }
+      ],
+      "time": "2015-10-29T10:04:45.837644+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T15:26:14.673260+02:00",
+          "amount": 69300.0,
+          "bidder": "5dcc128d8eda47d69078badacd6b26ec"
+        },
+        {
+          "date": "2015-10-25T18:22:36.669293+02:00",
+          "amount": 63000.0,
+          "bidder": "115ae4acc9e74fb598b65ebfbb0186d3"
+        },
+        {
+          "date": "2015-10-28T11:46:46.193286+02:00",
+          "amount": 58296.0,
+          "bidder": "2a1d5c64d24849ea88d2b724fc491203"
+        }
+      ],
+      "time": "2015-10-29T09:37:43.004538+00:00"
+    }
+  },
+  "id": "22b8afab385d4421be3f5dc1ebaa53d0",
+  "tenderId": "UA-2015-10-20-000099"
+}

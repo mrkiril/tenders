@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "15ad39048e894de696d725d6c21d4cd5",
+        "time": "2015-11-23T10:21:55.009218+00:00"
+      },
+      "turn_1": {
+        "bidder": "e2e0a3c45af74a5dbfa65d4db90ac018",
+        "time": "2015-11-23T10:19:55.014357+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "15ad39048e894de696d725d6c21d4cd5",
+        "time": "2015-11-23T10:27:55.011805+00:00"
+      },
+      "turn_1": {
+        "bidder": "e2e0a3c45af74a5dbfa65d4db90ac018",
+        "time": "2015-11-23T10:25:55.009115+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "15ad39048e894de696d725d6c21d4cd5",
+        "time": "2015-11-23T10:15:55.010959+00:00"
+      },
+      "turn_1": {
+        "bidder": "e2e0a3c45af74a5dbfa65d4db90ac018",
+        "time": "2015-11-23T10:13:55.010718+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e2e0a3c45af74a5dbfa65d4db90ac018",
+          "amount": 20978.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "info@bvdc.com.ua",
+                "name": "Сосновский Андрій Олександрович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3323615275",
+                "legalName": "ФОП Сосновский Андрій Олександрович"
+              },
+              "name": "ФОП Сосновский Андрій Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09332",
+                "region": "Київська",
+                "streetAddress": "провулок 9-го травня буд 11",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T20:56:04.945911+02:00"
+        },
+        {
+          "bidder": "15ad39048e894de696d725d6c21d4cd5",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443324106, +380443329368, +380662959511",
+                "name": "Юлия Викторовна",
+                "email": "slte@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35121178",
+                "legalName": "ПП \"Торговый дом Анвар\""
+              },
+              "name": "ПП \"Торговый дом Анвар\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03148",
+                "region": "Киевская",
+                "streetAddress": "03148. Киев просп леся курбаса 9 в, кв 111",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-19T16:38:35.044028+02:00"
+        }
+      ],
+      "time": "2015-11-23T10:27:55.914607+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T20:56:04.945911+02:00",
+          "amount": 20978.0,
+          "bidder": "e2e0a3c45af74a5dbfa65d4db90ac018"
+        },
+        {
+          "date": "2015-11-19T16:38:35.044028+02:00",
+          "amount": 20000.0,
+          "bidder": "15ad39048e894de696d725d6c21d4cd5"
+        }
+      ],
+      "time": "2015-11-23T10:06:55.004841+00:00"
+    }
+  },
+  "id": "8d8ea8836d514fdab1af58cd830cb438",
+  "tenderId": "UA-2015-11-17-000201-b"
+}

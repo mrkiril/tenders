@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b84ab13728134427b86d5e4dcf9e1223",
+        "time": "2015-11-24T09:59:56.008279+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6a6d7a62a674b7c98203f912bbd59c4",
+        "time": "2015-11-24T09:57:56.008926+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b84ab13728134427b86d5e4dcf9e1223",
+        "time": "2015-11-24T10:05:56.007582+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6a6d7a62a674b7c98203f912bbd59c4",
+        "time": "2015-11-24T10:03:56.006467+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b84ab13728134427b86d5e4dcf9e1223",
+        "time": "2015-11-24T09:53:56.008223+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6a6d7a62a674b7c98203f912bbd59c4",
+        "time": "2015-11-24T09:51:56.008623+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a6a6d7a62a674b7c98203f912bbd59c4",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://royalmetal.com.ua",
+                "telephone": "+380677355175",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\"",
+                "email": "info@royalmetal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39578450",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02218, м. Київ, вул. Райдужна, буд. 41, кв. 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T10:25:17.950387+02:00"
+        },
+        {
+          "bidder": "b84ab13728134427b86d5e4dcf9e1223",
+          "amount": 9396.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "3792139",
+                "telephone": "0678544477",
+                "name": "Новиков Юрий Петрович",
+                "email": "0678544477@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37566899",
+                "legalName": "ТОВ \"Компанія Металбуд\""
+              },
+              "name": "ТОВ \"Компанія Металбуд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська",
+                "streetAddress": "ул. Ивана Кудри 38",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T12:19:08.551293+02:00"
+        }
+      ],
+      "time": "2015-11-24T10:05:56.968210+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T10:25:17.950387+02:00",
+          "amount": 9500.0,
+          "bidder": "a6a6d7a62a674b7c98203f912bbd59c4"
+        },
+        {
+          "date": "2015-11-23T12:19:08.551293+02:00",
+          "amount": 9396.0,
+          "bidder": "b84ab13728134427b86d5e4dcf9e1223"
+        }
+      ],
+      "time": "2015-11-24T09:44:56.004632+00:00"
+    }
+  },
+  "id": "36abcb82f7be45a28fd593eb7266e62e",
+  "tenderId": "UA-2015-11-13-000089-b"
+}

@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7351c0c10d7d4dc7a29b8e9de6db42fa",
+        "time": "2015-08-27T09:47:00.014131+00:00"
+      },
+      "turn_3": {
+        "bidder": "953efdeb767b4831a93e84f7bc822f8c",
+        "time": "2015-08-27T09:49:00.019807+00:00"
+      },
+      "turn_1": {
+        "bidder": "3650deb37ae744a8b8189b76ed516f04",
+        "time": "2015-08-27T09:45:00.025331+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7351c0c10d7d4dc7a29b8e9de6db42fa",
+        "time": "2015-08-27T09:55:00.018765+00:00"
+      },
+      "turn_3": {
+        "bidder": "953efdeb767b4831a93e84f7bc822f8c",
+        "time": "2015-08-27T09:57:00.015628+00:00"
+      },
+      "turn_1": {
+        "bidder": "3650deb37ae744a8b8189b76ed516f04",
+        "time": "2015-08-27T09:53:00.013524+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3650deb37ae744a8b8189b76ed516f04",
+        "time": "2015-08-27T09:39:00.044538+00:00"
+      },
+      "turn_3": {
+        "bidder": "7351c0c10d7d4dc7a29b8e9de6db42fa",
+        "time": "2015-08-27T09:41:00.017448+00:00"
+      },
+      "turn_1": {
+        "amount": 116532.0,
+        "bid_time": "2015-08-27T12:35:22.116938+03:00",
+        "bidder": "953efdeb767b4831a93e84f7bc822f8c",
+        "time": "2015-08-27T09:37:00.077954+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3650deb37ae744a8b8189b76ed516f04",
+          "amount": 170714.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-26T15:13:03.659289+03:00"
+        },
+        {
+          "bidder": "7351c0c10d7d4dc7a29b8e9de6db42fa",
+          "amount": 119200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://speczakaz-chf.zakupka.com",
+                "telephone": "+380577176789",
+                "name": "Приватна Фірма СПЕЦЗАКАЗ",
+                "email": "spetszakaz@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31064181",
+                "legalName": "Приватна Фірма СПЕЦЗАКАЗ"
+              },
+              "name": "Приватна Фірма СПЕЦЗАКАЗ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Харків проспект 50 річчя ВЛКСМ б.68 к.3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-25T13:29:07.555726+03:00"
+        },
+        {
+          "bidder": "953efdeb767b4831a93e84f7bc822f8c",
+          "amount": 116532.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kvazar.com.ua",
+                "telephone": "+380445017920",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СПІЛЬНЕ ВИРОБНИЧЕ ПІДПРИЄМСТВО «КВАЗАР»",
+                "email": "tender@kvazar.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36177373",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СПІЛЬНЕ ВИРОБНИЧЕ ПІДПРИЄМСТВО «КВАЗАР»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СПІЛЬНЕ ВИРОБНИЧЕ ПІДПРИЄМСТВО «КВАЗАР»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 03045, м. Київ, вул. Набережно-Корчуватська, дом № 136-Л.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T12:35:22.116938+03:00"
+        }
+      ],
+      "time": "2015-08-27T09:57:01.050892+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-25T08:38:05.214823+03:00",
+          "amount": 199200.0,
+          "bidder": "953efdeb767b4831a93e84f7bc822f8c"
+        },
+        {
+          "date": "2015-08-26T15:13:03.659289+03:00",
+          "amount": 170714.4,
+          "bidder": "3650deb37ae744a8b8189b76ed516f04"
+        },
+        {
+          "date": "2015-08-25T13:29:07.555726+03:00",
+          "amount": 119200.0,
+          "bidder": "7351c0c10d7d4dc7a29b8e9de6db42fa"
+        }
+      ],
+      "time": "2015-08-27T09:30:00.011913+00:00"
+    }
+  },
+  "id": "4f7fa3e9ab1e40c38c4c769f97133900",
+  "tenderId": "UA-2015-08-18-000001"
+}

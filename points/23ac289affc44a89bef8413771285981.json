@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cd1fe22686284afab17565b5c47e875f",
+        "time": "2015-12-15T12:21:09.009715+00:00"
+      },
+      "turn_1": {
+        "bidder": "f672b4dde960466794935d798bea4b30",
+        "time": "2015-12-15T12:19:09.009250+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cd1fe22686284afab17565b5c47e875f",
+        "time": "2015-12-15T12:27:09.012261+00:00"
+      },
+      "turn_1": {
+        "bidder": "f672b4dde960466794935d798bea4b30",
+        "time": "2015-12-15T12:25:09.008868+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cd1fe22686284afab17565b5c47e875f",
+        "time": "2015-12-15T12:15:09.006375+00:00"
+      },
+      "turn_1": {
+        "bidder": "f672b4dde960466794935d798bea4b30",
+        "time": "2015-12-15T12:13:09.011710+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f672b4dde960466794935d798bea4b30",
+          "amount": 16495.05,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:47:58.467794+02:00"
+        },
+        {
+          "bidder": "cd1fe22686284afab17565b5c47e875f",
+          "amount": 15500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672381783",
+                "name": "Журавель Євген Валерійович",
+                "email": "evgenzuravel@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3189918412"
+              },
+              "name": "ФОП Журавель Євген Валерійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська область",
+                "streetAddress": "вул.Драгоманова 3А кв.82",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T15:58:30.106100+02:00"
+        }
+      ],
+      "time": "2015-12-15T12:27:10.646051+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T12:47:58.467794+02:00",
+          "amount": 16495.05,
+          "bidder": "f672b4dde960466794935d798bea4b30"
+        },
+        {
+          "date": "2015-12-11T15:58:30.106100+02:00",
+          "amount": 15500.0,
+          "bidder": "cd1fe22686284afab17565b5c47e875f"
+        }
+      ],
+      "time": "2015-12-15T12:06:09.004270+00:00"
+    }
+  },
+  "id": "23ac289affc44a89bef8413771285981",
+  "tenderId": "UA-2015-12-09-000083-a"
+}

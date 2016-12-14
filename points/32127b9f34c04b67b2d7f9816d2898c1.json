@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a6814decea0f43ad98258eaf3221730d",
+        "time": "2015-12-17T12:50:14.008387+00:00"
+      },
+      "turn_3": {
+        "bidder": "19e147202b344552960ee33a0d6ab903",
+        "time": "2015-12-17T12:52:14.008550+00:00"
+      },
+      "turn_1": {
+        "amount": 969.0,
+        "bid_time": "2015-12-17T14:46:51.880623+02:00",
+        "bidder": "80ed3550bc6a4c48aef2bba716de837b",
+        "time": "2015-12-17T12:48:14.010823+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "80ed3550bc6a4c48aef2bba716de837b",
+        "time": "2015-12-17T12:58:14.009753+00:00"
+      },
+      "turn_3": {
+        "bidder": "19e147202b344552960ee33a0d6ab903",
+        "time": "2015-12-17T13:00:14.008570+00:00"
+      },
+      "turn_1": {
+        "amount": 960.0,
+        "bid_time": "2015-12-17T14:55:42.716271+02:00",
+        "bidder": "a6814decea0f43ad98258eaf3221730d",
+        "time": "2015-12-17T12:56:14.011307+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a6814decea0f43ad98258eaf3221730d",
+        "time": "2015-12-17T12:42:14.008464+00:00"
+      },
+      "turn_3": {
+        "bidder": "19e147202b344552960ee33a0d6ab903",
+        "time": "2015-12-17T12:44:14.017271+00:00"
+      },
+      "turn_1": {
+        "bidder": "80ed3550bc6a4c48aef2bba716de837b",
+        "time": "2015-12-17T12:40:14.009767+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "80ed3550bc6a4c48aef2bba716de837b",
+          "amount": 969.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:46:51.880623+02:00"
+        },
+        {
+          "bidder": "a6814decea0f43ad98258eaf3221730d",
+          "amount": 960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677003533",
+                "name": "Андрей Кухта",
+                "email": "andriypapirservis@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37302187",
+                "legalName": "ТОВ \"ПАПІР СЕРВІС\""
+              },
+              "name": "ТОВ \"ПАПІР СЕРВІС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "33013",
+                "region": "Ровенская",
+                "streetAddress": "м. Рівне, вул. Бахарєва, 23",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:55:42.716271+02:00"
+        },
+        {
+          "bidder": "19e147202b344552960ee33a0d6ab903",
+          "amount": 65.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380362432308",
+                "name": "Пучко Олександр Петрович",
+                "email": "invagrup@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32038522"
+              },
+              "name": "Рівне - інвагруп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "33027",
+                "region": "Рівненська область",
+                "streetAddress": "Д.Галицького 19 каб 111",
+                "locality": "Рівне"
+              }
+            }
+          ],
+          "time": "2015-12-16T11:28:40.484092+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:00:27.185550+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T17:02:43.760553+02:00",
+          "amount": 999.0,
+          "bidder": "80ed3550bc6a4c48aef2bba716de837b"
+        },
+        {
+          "date": "2015-12-14T17:04:52.950230+02:00",
+          "amount": 990.0,
+          "bidder": "a6814decea0f43ad98258eaf3221730d"
+        },
+        {
+          "date": "2015-12-16T11:28:40.484092+02:00",
+          "amount": 65.0,
+          "bidder": "19e147202b344552960ee33a0d6ab903"
+        }
+      ],
+      "time": "2015-12-17T12:33:14.003074+00:00"
+    }
+  },
+  "id": "32127b9f34c04b67b2d7f9816d2898c1",
+  "tenderId": "UA-2015-12-11-000066-b"
+}

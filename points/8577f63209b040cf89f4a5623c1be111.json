@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "eac7a2adc41d44bea7681fcc5d7df72b",
+        "time": "2015-10-13T09:18:53.006248+00:00"
+      },
+      "turn_1": {
+        "bidder": "d68e366d00fc4d81be9e17917b4ec85b",
+        "time": "2015-10-13T09:16:53.006162+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "eac7a2adc41d44bea7681fcc5d7df72b",
+        "time": "2015-10-13T09:24:53.183667+00:00"
+      },
+      "turn_1": {
+        "bidder": "d68e366d00fc4d81be9e17917b4ec85b",
+        "time": "2015-10-13T09:22:53.009641+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "eac7a2adc41d44bea7681fcc5d7df72b",
+        "time": "2015-10-13T09:12:53.008196+00:00"
+      },
+      "turn_1": {
+        "bidder": "d68e366d00fc4d81be9e17917b4ec85b",
+        "time": "2015-10-13T09:10:53.013122+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d68e366d00fc4d81be9e17917b4ec85b",
+          "amount": 360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-11T03:12:11.505831+03:00"
+        },
+        {
+          "bidder": "eac7a2adc41d44bea7681fcc5d7df72b",
+          "amount": 329.52,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-12T15:11:24.253939+03:00"
+        }
+      ],
+      "time": "2015-10-13T09:24:55.431401+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-11T03:12:11.505831+03:00",
+          "amount": 360.0,
+          "bidder": "d68e366d00fc4d81be9e17917b4ec85b"
+        },
+        {
+          "date": "2015-10-12T15:11:24.253939+03:00",
+          "amount": 329.52,
+          "bidder": "eac7a2adc41d44bea7681fcc5d7df72b"
+        }
+      ],
+      "time": "2015-10-13T09:03:53.003192+00:00"
+    }
+  },
+  "id": "8577f63209b040cf89f4a5623c1be111",
+  "tenderId": "UA-2015-10-08-000017"
+}

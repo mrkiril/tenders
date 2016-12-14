@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "71e4681a1ae44be1831522caae0fb191",
+        "time": "2015-11-23T11:19:41.008552+00:00"
+      },
+      "turn_3": {
+        "bidder": "7b5df6fe1ea640319908bff28376a098",
+        "time": "2015-11-23T11:21:41.008488+00:00"
+      },
+      "turn_1": {
+        "bidder": "acbb8d1bedb240d5854e5fc86aa87dc9",
+        "time": "2015-11-23T11:17:41.008686+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "71e4681a1ae44be1831522caae0fb191",
+        "time": "2015-11-23T11:27:41.008459+00:00"
+      },
+      "turn_3": {
+        "bidder": "7b5df6fe1ea640319908bff28376a098",
+        "time": "2015-11-23T11:29:41.008716+00:00"
+      },
+      "turn_1": {
+        "bidder": "acbb8d1bedb240d5854e5fc86aa87dc9",
+        "time": "2015-11-23T11:25:41.024986+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 770320.0,
+        "bid_time": "2015-11-23T13:10:53.322087+02:00",
+        "bidder": "71e4681a1ae44be1831522caae0fb191",
+        "time": "2015-11-23T11:11:41.011075+00:00"
+      },
+      "turn_3": {
+        "bidder": "acbb8d1bedb240d5854e5fc86aa87dc9",
+        "time": "2015-11-23T11:13:41.009288+00:00"
+      },
+      "turn_1": {
+        "amount": 650000.0,
+        "bid_time": "2015-11-23T13:09:31.301752+02:00",
+        "bidder": "7b5df6fe1ea640319908bff28376a098",
+        "time": "2015-11-23T11:09:41.010353+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "acbb8d1bedb240d5854e5fc86aa87dc9",
+          "amount": 780438.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380999186076",
+                "name": "Анжелика Мотренко",
+                "email": "motrenko@sales.irbis.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3155919001",
+                "legalName": "ТОВ \"ТД ИРБИС\""
+              },
+              "name": "ТОВ \"ТД ИРБИС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61001",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-20T10:03:10.416777+02:00"
+        },
+        {
+          "bidder": "71e4681a1ae44be1831522caae0fb191",
+          "amount": 770320.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bg-ua.com",
+                "telephone": "+380675695014",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПІДШИПНИК ГРУП\"",
+                "email": "gdp@spz.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33265524",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПІДШИПНИК ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ПІДШИПНИК ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ВУЛ. ХАРКІВСЬКА, БУД. 2 А, М. КРИВИЙ РІГ, ДНІПРОПЕТРОВСЬКА ОБЛ., 50074",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T13:10:53.322087+02:00"
+        },
+        {
+          "bidder": "7b5df6fe1ea640319908bff28376a098",
+          "amount": 650000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503660020",
+                "name": "Роман Фролов",
+                "email": "don@zppod.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34975392",
+                "legalName": "ТОВ \"Запоріжпідшипник\""
+              },
+              "name": "ТОВ \"Запоріжпідшипник\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69068",
+                "region": "Запорожская",
+                "streetAddress": "вул. Червона, буд. 1-а",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-11-23T13:09:31.301752+02:00"
+        }
+      ],
+      "time": "2015-11-23T11:29:43.650470+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T09:06:27.469234+02:00",
+          "amount": 786156.0,
+          "bidder": "7b5df6fe1ea640319908bff28376a098"
+        },
+        {
+          "date": "2015-11-16T12:46:31.591547+02:00",
+          "amount": 786120.0,
+          "bidder": "71e4681a1ae44be1831522caae0fb191"
+        },
+        {
+          "date": "2015-11-20T10:03:10.416777+02:00",
+          "amount": 780438.6,
+          "bidder": "acbb8d1bedb240d5854e5fc86aa87dc9"
+        }
+      ],
+      "time": "2015-11-23T11:02:41.004999+00:00"
+    }
+  },
+  "id": "2ba17a56b26e4c53abcbbeed6191dbd0",
+  "tenderId": "UA-2015-11-09-000031"
+}

@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "88cb457b210d46ecbc82a7b2103749f8",
+        "time": "2015-12-11T13:54:11.009233+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6446fe406454494adb7d79c8ea6fd34",
+        "time": "2015-12-11T13:52:11.007240+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 78000.0,
+        "bid_time": "2015-12-11T15:58:38.944444+02:00",
+        "bidder": "88cb457b210d46ecbc82a7b2103749f8",
+        "time": "2015-12-11T14:00:11.008116+00:00"
+      },
+      "turn_1": {
+        "amount": 78499.0,
+        "bid_time": "2015-12-11T15:57:23.052765+02:00",
+        "bidder": "b6446fe406454494adb7d79c8ea6fd34",
+        "time": "2015-12-11T13:58:11.009338+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 78500.0,
+        "bid_time": "2015-12-11T15:46:33.488161+02:00",
+        "bidder": "88cb457b210d46ecbc82a7b2103749f8",
+        "time": "2015-12-11T13:48:11.008854+00:00"
+      },
+      "turn_1": {
+        "amount": 80494.0,
+        "bid_time": "2015-12-11T15:45:58.569929+02:00",
+        "bidder": "b6446fe406454494adb7d79c8ea6fd34",
+        "time": "2015-12-11T13:46:11.010489+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6446fe406454494adb7d79c8ea6fd34",
+          "amount": 78499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lismash.in.ua/",
+                "telephone": "+380504301880",
+                "name": "ТОВ \"Лісмаш\"",
+                "email": "lismash04@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32052971",
+                "legalName": "ТОВ \"Лісмаш\""
+              },
+              "name": "ТОВ \"Лісмаш\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Ген. Чупринки, буд.87/3а, м.Львів, 79044",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T15:57:23.052765+02:00"
+        },
+        {
+          "bidder": "88cb457b210d46ecbc82a7b2103749f8",
+          "amount": 78000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T15:58:38.944444+02:00"
+        }
+      ],
+      "time": "2015-12-11T14:00:39.401385+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T12:31:28.850260+02:00",
+          "amount": 80994.0,
+          "bidder": "b6446fe406454494adb7d79c8ea6fd34"
+        },
+        {
+          "date": "2015-12-09T18:36:49.874118+02:00",
+          "amount": 79000.0,
+          "bidder": "88cb457b210d46ecbc82a7b2103749f8"
+        }
+      ],
+      "time": "2015-12-11T13:39:11.003429+00:00"
+    }
+  },
+  "id": "2d51736b39c5496b80dc76d24d83e294",
+  "tenderId": "UA-2015-12-07-000130-b"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3d6e04ed1a1b47efb659ec143c270610",
+        "time": "2015-10-13T10:57:41.006760+00:00"
+      },
+      "turn_1": {
+        "bidder": "79eb9ebbdf5c47c492a1ae36d79b2b88",
+        "time": "2015-10-13T10:55:41.007067+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3d6e04ed1a1b47efb659ec143c270610",
+        "time": "2015-10-13T11:03:41.007381+00:00"
+      },
+      "turn_1": {
+        "bidder": "79eb9ebbdf5c47c492a1ae36d79b2b88",
+        "time": "2015-10-13T11:01:41.007333+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3d6e04ed1a1b47efb659ec143c270610",
+        "time": "2015-10-13T10:51:41.007812+00:00"
+      },
+      "turn_1": {
+        "bidder": "79eb9ebbdf5c47c492a1ae36d79b2b88",
+        "time": "2015-10-13T10:49:41.012892+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "79eb9ebbdf5c47c492a1ae36d79b2b88",
+          "amount": 23700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443834288",
+                "name": "Виктория",
+                "email": "info3a.agency@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"3 А ЭДЖЕНСИ\"",
+                "id": "39497335",
+                "uri": "http://3-a.agency"
+              },
+              "name": "ТОВ \"3 А ЭДЖЕНСИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03022",
+                "region": "Киевская",
+                "streetAddress": "Васильковская 34",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-08T11:46:55.765972+03:00"
+        },
+        {
+          "bidder": "3d6e04ed1a1b47efb659ec143c270610",
+          "amount": 22500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679719191",
+                "name": "Середа Віталій Вікторович",
+                "email": "rentsport@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36865748"
+              },
+              "name": "ТОВ Українська торгово-інвестиційна компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Почайнинська, 28-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-08T09:45:36.917120+03:00"
+        }
+      ],
+      "time": "2015-10-13T11:03:43.491888+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T11:46:55.765972+03:00",
+          "amount": 23700.0,
+          "bidder": "79eb9ebbdf5c47c492a1ae36d79b2b88"
+        },
+        {
+          "date": "2015-10-08T09:45:36.917120+03:00",
+          "amount": 22500.0,
+          "bidder": "3d6e04ed1a1b47efb659ec143c270610"
+        }
+      ],
+      "time": "2015-10-13T10:42:41.003898+00:00"
+    }
+  },
+  "id": "0896a65227b24a08941618e09c0e48ed",
+  "tenderId": "UA-2015-10-05-000193"
+}

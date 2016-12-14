@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ca894deee31a4a55a7e46000769d9f77",
+        "time": "2015-11-04T12:27:23.007393+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc7d1670ae8f42a483bcbcf68313b532",
+        "time": "2015-11-04T12:29:23.007706+00:00"
+      },
+      "turn_1": {
+        "bidder": "867f31afc0cb4ecb872423696b333fa2",
+        "time": "2015-11-04T12:25:23.011426+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ca894deee31a4a55a7e46000769d9f77",
+        "time": "2015-11-04T12:35:23.007415+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc7d1670ae8f42a483bcbcf68313b532",
+        "time": "2015-11-04T12:37:23.007699+00:00"
+      },
+      "turn_1": {
+        "bidder": "867f31afc0cb4ecb872423696b333fa2",
+        "time": "2015-11-04T12:33:23.008218+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "867f31afc0cb4ecb872423696b333fa2",
+        "time": "2015-11-04T12:19:23.007710+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc7d1670ae8f42a483bcbcf68313b532",
+        "time": "2015-11-04T12:21:23.013327+00:00"
+      },
+      "turn_1": {
+        "amount": 25999.0,
+        "bid_time": "2015-11-04T14:15:42.716012+02:00",
+        "bidder": "ca894deee31a4a55a7e46000769d9f77",
+        "time": "2015-11-04T12:17:23.009670+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "867f31afc0cb4ecb872423696b333fa2",
+          "amount": 26000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380660025838",
+                "name": "Осадчий Денис Петрович",
+                "email": "zakaznoy@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3031900739"
+              },
+              "name": "ФОП Осадчий",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09700",
+                "region": "Київська область",
+                "streetAddress": "Карла Маркса 10/3",
+                "locality": "Богуслав"
+              }
+            }
+          ],
+          "time": "2015-11-02T20:23:06.166537+02:00"
+        },
+        {
+          "bidder": "ca894deee31a4a55a7e46000769d9f77",
+          "amount": 25999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667750372",
+                "name": "Якимов Юрій Володимирович",
+                "email": "skywardtrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39678892"
+              },
+              "name": "ТОВ \"СКАЙВОРД ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б. 9, к. 91",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T14:15:42.716012+02:00"
+        },
+        {
+          "bidder": "bc7d1670ae8f42a483bcbcf68313b532",
+          "amount": 23978.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T11:49:28.401367+02:00"
+        }
+      ],
+      "time": "2015-11-04T12:37:33.287094+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T00:00:11.434483+02:00",
+          "amount": 26477.0,
+          "bidder": "ca894deee31a4a55a7e46000769d9f77"
+        },
+        {
+          "date": "2015-11-02T20:23:06.166537+02:00",
+          "amount": 26000.0,
+          "bidder": "867f31afc0cb4ecb872423696b333fa2"
+        },
+        {
+          "date": "2015-11-02T11:49:28.401367+02:00",
+          "amount": 23978.0,
+          "bidder": "bc7d1670ae8f42a483bcbcf68313b532"
+        }
+      ],
+      "time": "2015-11-04T12:10:23.001902+00:00"
+    }
+  },
+  "id": "6b09d14c3fcc4f3ba624ad174afdaa06",
+  "tenderId": "UA-2015-10-23-000097"
+}

@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 14990.0,
+        "bid_time": "2015-12-14T12:58:42.592580+02:00",
+        "bidder": "68bc53f19c664cb6b70d624bf3765f14",
+        "time": "2015-12-14T11:00:27.036618+00:00"
+      },
+      "turn_3": {
+        "amount": 14980.0,
+        "bid_time": "2015-12-14T13:01:13.494536+02:00",
+        "bidder": "7abe40011ccd4ad787ae7eea95f0cc58",
+        "time": "2015-12-14T11:02:27.019507+00:00"
+      },
+      "turn_1": {
+        "amount": 15300.0,
+        "bid_time": "2015-12-14T12:56:36.493359+02:00",
+        "bidder": "580c3d3081f04d898c7c75030fdbf3c2",
+        "time": "2015-12-14T10:58:27.010715+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 14750.0,
+        "bid_time": "2015-12-14T13:07:00.869998+02:00",
+        "bidder": "68bc53f19c664cb6b70d624bf3765f14",
+        "time": "2015-12-14T11:08:27.007668+00:00"
+      },
+      "turn_3": {
+        "amount": 14740.0,
+        "bid_time": "2015-12-14T13:09:29.547630+02:00",
+        "bidder": "7abe40011ccd4ad787ae7eea95f0cc58",
+        "time": "2015-12-14T11:10:27.009002+00:00"
+      },
+      "turn_1": {
+        "amount": 14800.0,
+        "bid_time": "2015-12-14T13:04:34.391867+02:00",
+        "bidder": "580c3d3081f04d898c7c75030fdbf3c2",
+        "time": "2015-12-14T11:06:27.010036+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "580c3d3081f04d898c7c75030fdbf3c2",
+        "time": "2015-12-14T10:52:27.011548+00:00"
+      },
+      "turn_3": {
+        "amount": 15340.0,
+        "bid_time": "2015-12-14T12:52:58.235781+02:00",
+        "bidder": "7abe40011ccd4ad787ae7eea95f0cc58",
+        "time": "2015-12-14T10:54:27.011087+00:00"
+      },
+      "turn_1": {
+        "amount": 15350.0,
+        "bid_time": "2015-12-14T12:48:50.213587+02:00",
+        "bidder": "68bc53f19c664cb6b70d624bf3765f14",
+        "time": "2015-12-14T10:50:27.012222+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "580c3d3081f04d898c7c75030fdbf3c2",
+          "amount": 14800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380682302021",
+                "name": "Вашкевич Зоряна Романівна",
+                "email": "obmennik_disk@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3004115742"
+              },
+              "name": "ФОП Вашкевич Зоряна Романівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "33018",
+                "region": "Рівненська область",
+                "streetAddress": "вул. Й.Драганчука, будинок 9, кв. 29",
+                "locality": "Рівне"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:04:34.391867+02:00"
+        },
+        {
+          "bidder": "68bc53f19c664cb6b70d624bf3765f14",
+          "amount": 14750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380978689001",
+                "name": "Сергій",
+                "email": "chabanov13@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3047916956",
+                "legalName": "ФОП Чабанов С.О"
+              },
+              "name": "ФОП Чабанов С.О",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T13:07:00.869998+02:00"
+        },
+        {
+          "bidder": "7abe40011ccd4ad787ae7eea95f0cc58",
+          "amount": 14740.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961577205",
+                "name": "Олександр Коновалов",
+                "email": "konovalov2007@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172108378",
+                "legalName": "ФОП \"ПП Коновалов С.В.\""
+              },
+              "name": "ФОП \"ПП Коновалов С.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "35100",
+                "region": "Ровенская",
+                "streetAddress": "смт. Млинів вул Рівненська 9\\32",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:09:29.547630+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:10:33.396407+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T18:00:05.129327+02:00",
+          "amount": 15750.0,
+          "bidder": "68bc53f19c664cb6b70d624bf3765f14"
+        },
+        {
+          "date": "2015-12-11T09:34:44.393586+02:00",
+          "amount": 15500.0,
+          "bidder": "580c3d3081f04d898c7c75030fdbf3c2"
+        },
+        {
+          "date": "2015-12-10T14:58:09.041209+02:00",
+          "amount": 15444.0,
+          "bidder": "7abe40011ccd4ad787ae7eea95f0cc58"
+        }
+      ],
+      "time": "2015-12-14T10:43:27.003542+00:00"
+    }
+  },
+  "id": "205fea57b94949c8adc37b338fd4fe77",
+  "tenderId": "UA-2015-12-01-000103-a"
+}

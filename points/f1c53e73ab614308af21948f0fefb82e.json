@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4d3bb217b869414483741b40d3e16b5b",
+        "time": "2015-07-27T08:45:00.050713+00:00"
+      },
+      "turn_1": {
+        "bidder": "80a2293bea04455b92f08d6ef43d0193",
+        "time": "2015-07-27T08:43:00.035883+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4d3bb217b869414483741b40d3e16b5b",
+        "time": "2015-07-27T08:51:00.053891+00:00"
+      },
+      "turn_1": {
+        "bidder": "80a2293bea04455b92f08d6ef43d0193",
+        "time": "2015-07-27T08:49:00.045033+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4d3bb217b869414483741b40d3e16b5b",
+        "time": "2015-07-27T08:39:00.057427+00:00"
+      },
+      "turn_1": {
+        "bidder": "80a2293bea04455b92f08d6ef43d0193",
+        "time": "2015-07-27T08:37:00.043268+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "80a2293bea04455b92f08d6ef43d0193",
+          "amount": 4992.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://yugtorg.com",
+                "telephone": "+380500014083",
+                "name": "ТОВ ТК «ЮГТОРГ»",
+                "email": "y@yugtorg.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39332061",
+                "legalName": "ТОВ ТК «ЮГТОРГ»"
+              },
+              "name": "ТОВ ТК «ЮГТОРГ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "провулок Зарічний, 8 с. Нова Іванівка  Арцизький р-н Одеська обл. 68430",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-24T10:41:58.564769+03:00"
+        },
+        {
+          "bidder": "4d3bb217b869414483741b40d3e16b5b",
+          "amount": 4950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503000859",
+                "name": "ТОВ ЕнергоМашІмпорт",
+                "email": "anatoli_donchik@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31798515",
+                "legalName": "ТОВ ЕнергоМашІмпорт"
+              },
+              "name": "ТОВ ЕнергоМашІмпорт",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Конєва,б.21 м.Харків 61126",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-24T17:45:55.893957+03:00"
+        }
+      ],
+      "time": "2015-07-27T08:51:04.639727+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-24T10:41:58.564769+03:00",
+          "amount": 4992.0,
+          "bidder": "80a2293bea04455b92f08d6ef43d0193"
+        },
+        {
+          "date": "2015-07-24T17:45:55.893957+03:00",
+          "amount": 4950.0,
+          "bidder": "4d3bb217b869414483741b40d3e16b5b"
+        }
+      ],
+      "time": "2015-07-27T08:30:00.016055+00:00"
+    }
+  },
+  "id": "f1c53e73ab614308af21948f0fefb82e",
+  "tenderId": "UA-2015-07-23-000087"
+}

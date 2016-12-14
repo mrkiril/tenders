@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c1c742f55c52405a870db2cbdf8192b9",
+        "time": "2015-12-14T10:24:23.008206+00:00"
+      },
+      "turn_3": {
+        "bidder": "7773d2fa7abe4bf7abf3257ff65fdade",
+        "time": "2015-12-14T10:26:23.008612+00:00"
+      },
+      "turn_1": {
+        "amount": 1305.0,
+        "bid_time": "2015-12-14T12:21:10.568363+02:00",
+        "bidder": "702b163e2e854a999fddd68c0a80c9a5",
+        "time": "2015-12-14T10:22:23.009577+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7773d2fa7abe4bf7abf3257ff65fdade",
+        "time": "2015-12-14T10:32:23.007837+00:00"
+      },
+      "turn_3": {
+        "bidder": "702b163e2e854a999fddd68c0a80c9a5",
+        "time": "2015-12-14T10:34:23.082185+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1c742f55c52405a870db2cbdf8192b9",
+        "time": "2015-12-14T10:30:23.008994+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1919.0,
+        "bid_time": "2015-12-14T12:14:45.099631+02:00",
+        "bidder": "c1c742f55c52405a870db2cbdf8192b9",
+        "time": "2015-12-14T10:16:23.010118+00:00"
+      },
+      "turn_3": {
+        "amount": 1860.0,
+        "bid_time": "2015-12-14T12:17:17.381011+02:00",
+        "bidder": "7773d2fa7abe4bf7abf3257ff65fdade",
+        "time": "2015-12-14T10:18:23.007872+00:00"
+      },
+      "turn_1": {
+        "bidder": "702b163e2e854a999fddd68c0a80c9a5",
+        "time": "2015-12-14T10:14:23.008800+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c1c742f55c52405a870db2cbdf8192b9",
+          "amount": 1919.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:14:45.099631+02:00"
+        },
+        {
+          "bidder": "7773d2fa7abe4bf7abf3257ff65fdade",
+          "amount": 1860.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380937365762",
+                "name": "Фізична особа-підприємець",
+                "email": "suchovaas@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2941707188",
+                "legalName": "Фізична особа-підприємець"
+              },
+              "name": "Фізична особа-підприємець",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01014, м. Київ, вул. К. Білокур, 10/15, кв. 28-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T12:17:17.381011+02:00"
+        },
+        {
+          "bidder": "702b163e2e854a999fddd68c0a80c9a5",
+          "amount": 1305.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380967250486",
+                "name": "Володимир Бойчук",
+                "email": "svitlana1995@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2280316835",
+                "legalName": "ФОП \"Бойчук   Володимир  Антонович \""
+              },
+              "name": "ФОП \"Бойчук   Володимир  Антонович \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "46016",
+                "region": "Тернопольская",
+                "streetAddress": "бульвар  Д.Вишневецького ,буд.4,кв.56",
+                "locality": "Тернопіль"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:21:10.568363+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:34:25.482153+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T00:21:50.003298+02:00",
+          "amount": 2000.0,
+          "bidder": "702b163e2e854a999fddd68c0a80c9a5"
+        },
+        {
+          "date": "2015-12-11T16:29:15.501694+02:00",
+          "amount": 1989.0,
+          "bidder": "c1c742f55c52405a870db2cbdf8192b9"
+        },
+        {
+          "date": "2015-12-10T16:01:28.524029+02:00",
+          "amount": 1920.0,
+          "bidder": "7773d2fa7abe4bf7abf3257ff65fdade"
+        }
+      ],
+      "time": "2015-12-14T10:07:23.004539+00:00"
+    }
+  },
+  "id": "03b6a48e387342b9a2ef4c2c113f84fd",
+  "tenderId": "UA-2015-12-04-000222"
+}

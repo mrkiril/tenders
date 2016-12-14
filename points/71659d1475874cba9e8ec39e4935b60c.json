@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "af78eeec0cbe43f583f51d30988892d8",
+        "time": "2015-10-30T11:55:30.006512+00:00"
+      },
+      "turn_1": {
+        "bidder": "e203e73e11f04cdc92765e3f1cbd5b3b",
+        "time": "2015-10-30T11:53:30.006822+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "af78eeec0cbe43f583f51d30988892d8",
+        "time": "2015-10-30T12:01:30.006779+00:00"
+      },
+      "turn_1": {
+        "bidder": "e203e73e11f04cdc92765e3f1cbd5b3b",
+        "time": "2015-10-30T11:59:30.007161+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "af78eeec0cbe43f583f51d30988892d8",
+        "time": "2015-10-30T11:49:30.011805+00:00"
+      },
+      "turn_1": {
+        "bidder": "e203e73e11f04cdc92765e3f1cbd5b3b",
+        "time": "2015-10-30T11:47:30.007598+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e203e73e11f04cdc92765e3f1cbd5b3b",
+          "amount": 19988.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380506844202, +380504945030, +380552443531",
+                "name": "александр Анатольевич",
+                "email": "five2001@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32125672",
+                "legalName": "ПП \"савітал\""
+              },
+              "name": "ПП \"савітал\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "73000",
+                "region": "Херсонская",
+                "streetAddress": "пр-т. 200 річя Херсона 10, кв. 136",
+                "locality": "Херсон"
+              }
+            }
+          ],
+          "time": "2015-10-27T10:43:29.980917+02:00"
+        },
+        {
+          "bidder": "af78eeec0cbe43f583f51d30988892d8",
+          "amount": 19799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-29T01:26:10.870761+02:00"
+        }
+      ],
+      "time": "2015-10-30T12:01:31.938023+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T10:43:29.980917+02:00",
+          "amount": 19988.32,
+          "bidder": "e203e73e11f04cdc92765e3f1cbd5b3b"
+        },
+        {
+          "date": "2015-10-29T01:26:10.870761+02:00",
+          "amount": 19799.0,
+          "bidder": "af78eeec0cbe43f583f51d30988892d8"
+        }
+      ],
+      "time": "2015-10-30T11:40:30.003631+00:00"
+    }
+  },
+  "id": "71659d1475874cba9e8ec39e4935b60c",
+  "tenderId": "UA-2015-10-19-000201"
+}

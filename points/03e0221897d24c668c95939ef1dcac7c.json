@@ -1,0 +1,215 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "80f30d7b680c4f4a9a367b2cd506c5cd",
+        "time": "2015-09-14T08:53:00.041071+00:00"
+      },
+      "turn_2": {
+        "amount": 597540.0,
+        "bid_time": "2015-09-14T11:48:50.652708+03:00",
+        "bidder": "333f1a9359794b61b74493253274e89a",
+        "time": "2015-09-14T08:49:00.110725+00:00"
+      },
+      "turn_3": {
+        "amount": 481620.0,
+        "bid_time": "2015-09-14T11:49:08.483034+03:00",
+        "bidder": "f17457bfebd94cefa81208ef30c1f77c",
+        "time": "2015-09-14T08:51:00.153443+00:00"
+      },
+      "turn_1": {
+        "amount": 557620.0,
+        "bid_time": "2015-09-14T11:46:23.576456+03:00",
+        "bidder": "e16d55c7d89b4a33bca62fa9d188cd05",
+        "time": "2015-09-14T08:47:00.036788+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "80f30d7b680c4f4a9a367b2cd506c5cd",
+        "time": "2015-09-14T09:03:00.021371+00:00"
+      },
+      "turn_2": {
+        "amount": 518880.0,
+        "bid_time": "2015-09-14T11:58:13.853518+03:00",
+        "bidder": "e16d55c7d89b4a33bca62fa9d188cd05",
+        "time": "2015-09-14T08:59:00.041182+00:00"
+      },
+      "turn_3": {
+        "bidder": "f17457bfebd94cefa81208ef30c1f77c",
+        "time": "2015-09-14T09:01:00.017263+00:00"
+      },
+      "turn_1": {
+        "amount": 552000.0,
+        "bid_time": "2015-09-14T11:55:50.664106+03:00",
+        "bidder": "333f1a9359794b61b74493253274e89a",
+        "time": "2015-09-14T08:57:00.033454+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "80f30d7b680c4f4a9a367b2cd506c5cd",
+        "time": "2015-09-14T08:43:00.141310+00:00"
+      },
+      "turn_2": {
+        "amount": 603405.0,
+        "bid_time": "2015-09-14T11:38:48.635819+03:00",
+        "bidder": "333f1a9359794b61b74493253274e89a",
+        "time": "2015-09-14T08:39:00.235152+00:00"
+      },
+      "turn_3": {
+        "amount": 553955.0,
+        "bid_time": "2015-09-14T11:39:17.777578+03:00",
+        "bidder": "f17457bfebd94cefa81208ef30c1f77c",
+        "time": "2015-09-14T08:41:00.160959+00:00"
+      },
+      "turn_1": {
+        "amount": 611685.0,
+        "bid_time": "2015-09-14T11:36:15.874990+03:00",
+        "bidder": "e16d55c7d89b4a33bca62fa9d188cd05",
+        "time": "2015-09-14T08:37:00.183574+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "333f1a9359794b61b74493253274e89a",
+          "amount": 552000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445923770",
+                "name": "Андрій, Богдан",
+                "email": "utmc.office@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39284872",
+                "legalName": "ТОВ \"УКРАЇНСЬКА ТРАНСПОРТНО-МАШИНОБУДІВЕЛЬНА КОМПАНІЯ\""
+              },
+              "name": "ТОВ \"УКРАЇНСЬКА ТРАНСПОРТНО-МАШИНОБУДІВЕЛЬНА КОМПАНІЯ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Зоологічна, 4а, оф.139",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-14T11:55:50.664106+03:00"
+        },
+        {
+          "bidder": "e16d55c7d89b4a33bca62fa9d188cd05",
+          "amount": 518880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573921236",
+                "name": "ООО \"ПАСС\"",
+                "email": "khpass@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34389511",
+                "legalName": "ООО \"ПАСС\""
+              },
+              "name": "ООО \"ПАСС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61176, г. Харьков, ул. Корчагинцев 56,44",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T11:58:13.853518+03:00"
+        },
+        {
+          "bidder": "f17457bfebd94cefa81208ef30c1f77c",
+          "amount": 481620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://cryogen.com.ua",
+                "telephone": "+380503822004",
+                "name": "ООО Фирма \"Криогенсервис\"",
+                "email": "si@cryogen.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21543199",
+                "legalName": "ООО Фирма \"Криогенсервис\""
+              },
+              "name": "ООО Фирма \"Криогенсервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "с. Петрівське, Києво-Святошинський р-н. вул. Київська, 29-К",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T11:49:08.483034+03:00"
+        },
+        {
+          "bidder": "80f30d7b680c4f4a9a367b2cd506c5cd",
+          "amount": 471500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676732426",
+                "name": "ТзОВ \"Укртехгаз ЛХЗ\"",
+                "email": "vasiliev@ukrtehgaz.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35721095",
+                "legalName": "ТзОВ \"Укртехгаз ЛХЗ\""
+              },
+              "name": "ТзОВ \"Укртехгаз ЛХЗ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "79070  м. Львів, вул. Бережанська,6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T09:39:39.943544+03:00"
+        }
+      ],
+      "time": "2015-09-14T09:03:11.043222+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T09:39:55.857488+03:00",
+          "amount": 621000.0,
+          "bidder": "e16d55c7d89b4a33bca62fa9d188cd05"
+        },
+        {
+          "date": "2015-09-14T09:44:40.992010+03:00",
+          "amount": 606510.0,
+          "bidder": "333f1a9359794b61b74493253274e89a"
+        },
+        {
+          "date": "2015-09-11T17:07:02.336551+03:00",
+          "amount": 557060.0,
+          "bidder": "f17457bfebd94cefa81208ef30c1f77c"
+        },
+        {
+          "date": "2015-09-14T09:39:39.943544+03:00",
+          "amount": 471500.0,
+          "bidder": "80f30d7b680c4f4a9a367b2cd506c5cd"
+        }
+      ],
+      "time": "2015-09-14T08:30:00.003936+00:00"
+    }
+  },
+  "id": "03e0221897d24c668c95939ef1dcac7c",
+  "tenderId": "UA-2015-09-09-000033"
+}

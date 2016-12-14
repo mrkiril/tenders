@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ef4b8982d9fa483ab3357818a005daa6",
+        "time": "2015-10-29T09:45:05.012292+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2d5c32e0b0d44f498b8fc7075912fae",
+        "time": "2015-10-29T09:43:05.006295+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ef4b8982d9fa483ab3357818a005daa6",
+        "time": "2015-10-29T09:51:05.007519+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2d5c32e0b0d44f498b8fc7075912fae",
+        "time": "2015-10-29T09:49:05.008045+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ef4b8982d9fa483ab3357818a005daa6",
+        "time": "2015-10-29T09:39:05.006142+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2d5c32e0b0d44f498b8fc7075912fae",
+        "time": "2015-10-29T09:37:05.007430+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a2d5c32e0b0d44f498b8fc7075912fae",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445370138",
+                "name": "ООО \"Ойл Груп ЛТД\"",
+                "email": "tender@oilgroup.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31485605",
+                "legalName": "ООО \"Ойл Груп ЛТД\""
+              },
+              "name": "ООО \"Ойл Груп ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02160, г. Киев, ул. Фанерная, 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T14:30:55.759502+02:00"
+        },
+        {
+          "bidder": "ef4b8982d9fa483ab3357818a005daa6",
+          "amount": 1630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502987253",
+                "name": "ООО \"Промішленные масла-Восток\"",
+                "email": "Parshyn.OY@ioi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38025126",
+                "legalName": "ООО \"Промішленные масла-Восток\""
+              },
+              "name": "ООО \"Промішленные масла-Восток\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69013 Запорізька обл., м. Запоріжжя, Шевченківський район, \r\nвул. Стартова, буд. 3-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T13:16:47.009153+02:00"
+        }
+      ],
+      "time": "2015-10-29T09:51:08.238623+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T14:30:55.759502+02:00",
+          "amount": 1800.0,
+          "bidder": "a2d5c32e0b0d44f498b8fc7075912fae"
+        },
+        {
+          "date": "2015-10-27T13:16:47.009153+02:00",
+          "amount": 1630.0,
+          "bidder": "ef4b8982d9fa483ab3357818a005daa6"
+        }
+      ],
+      "time": "2015-10-29T09:30:05.002643+00:00"
+    }
+  },
+  "id": "e5f7dfd4a9084bab90f132bc7361567d",
+  "tenderId": "UA-2015-10-23-000305"
+}

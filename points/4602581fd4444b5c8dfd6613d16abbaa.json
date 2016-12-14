@@ -1,0 +1,213 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 76815.0,
+        "bid_time": "2015-08-21T11:21:55.911258+03:00",
+        "bidder": "2138c471949b4e2dbb83c5a2d4a0afc4",
+        "time": "2015-08-21T08:23:00.054042+00:00"
+      },
+      "turn_2": {
+        "bidder": "2be27f98f65245a3b8c9681050956790",
+        "time": "2015-08-21T08:19:00.092740+00:00"
+      },
+      "turn_3": {
+        "amount": 76500.0,
+        "bid_time": "2015-08-21T11:20:12.025096+03:00",
+        "bidder": "a711d0c9ae744f2ea01868f1ca0c2cb2",
+        "time": "2015-08-21T08:21:00.119178+00:00"
+      },
+      "turn_1": {
+        "bidder": "703b6f78409a46e88f0e8fd86fae16cf",
+        "time": "2015-08-21T08:17:00.038727+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 74000.0,
+        "bid_time": "2015-08-21T11:32:29.193934+03:00",
+        "bidder": "a711d0c9ae744f2ea01868f1ca0c2cb2",
+        "time": "2015-08-21T08:33:00.041158+00:00"
+      },
+      "turn_2": {
+        "bidder": "2be27f98f65245a3b8c9681050956790",
+        "time": "2015-08-21T08:29:00.036585+00:00"
+      },
+      "turn_3": {
+        "amount": 74115.0,
+        "bid_time": "2015-08-21T11:30:30.465221+03:00",
+        "bidder": "2138c471949b4e2dbb83c5a2d4a0afc4",
+        "time": "2015-08-21T08:31:00.035480+00:00"
+      },
+      "turn_1": {
+        "bidder": "703b6f78409a46e88f0e8fd86fae16cf",
+        "time": "2015-08-21T08:27:00.076746+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "2be27f98f65245a3b8c9681050956790",
+        "time": "2015-08-21T08:13:00.093263+00:00"
+      },
+      "turn_2": {
+        "amount": 77015.0,
+        "bid_time": "2015-08-21T11:07:22.135198+03:00",
+        "bidder": "2138c471949b4e2dbb83c5a2d4a0afc4",
+        "time": "2015-08-21T08:09:00.098539+00:00"
+      },
+      "turn_3": {
+        "bidder": "703b6f78409a46e88f0e8fd86fae16cf",
+        "time": "2015-08-21T08:11:00.085156+00:00"
+      },
+      "turn_1": {
+        "amount": 77500.0,
+        "bid_time": "2015-08-21T11:05:42.109513+03:00",
+        "bidder": "a711d0c9ae744f2ea01868f1ca0c2cb2",
+        "time": "2015-08-21T08:07:00.104080+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "703b6f78409a46e88f0e8fd86fae16cf",
+          "amount": 81030.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577603044, +380661734855, +380675852629",
+                "name": "Виталий Александрович",
+                "email": "mkus@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ООО «МФ Украинский Стандарт»",
+                "id": "36623809",
+                "uri": "http://ukrstandart.uaprom.net"
+              },
+              "name": "ООО «МФ Украинский Стандарт»",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61085",
+                "region": "Харьковская",
+                "streetAddress": "Харьков, ул. Ак. Проскуры, 1",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-08-18T13:03:37.708264+03:00"
+        },
+        {
+          "bidder": "2be27f98f65245a3b8c9681050956790",
+          "amount": 79343.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380512581329",
+                "telephone": "+380675101733",
+                "name": "Ніколаєнко Наталя Володимирівна",
+                "email": "niknataly@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2971101344"
+              },
+              "name": "ФОП Покатило Ганна Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54015",
+                "region": "Миколаївська область",
+                "streetAddress": "М.Миколаїв, вул.Нікольська,будинок4, корпусА, кв.19",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-08-20T10:24:00.581234+03:00"
+        },
+        {
+          "bidder": "2138c471949b4e2dbb83c5a2d4a0afc4",
+          "amount": 74115.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kunica.com",
+                "telephone": "+380676320993",
+                "name": "ООО ТПГ КУНИЦА",
+                "email": "igor_sv@kunica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19143992",
+                "legalName": "ООО ТПГ КУНИЦА"
+              },
+              "name": "ООО ТПГ КУНИЦА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. шевченко. 37",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-21T11:30:30.465221+03:00"
+        },
+        {
+          "bidder": "a711d0c9ae744f2ea01868f1ca0c2cb2",
+          "amount": 74000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.korsar-mebel.com.ua",
+                "telephone": "+380674681683",
+                "name": "ТОВ \"Корсар\"",
+                "email": "aleksei@korsar-mebel.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25283803",
+                "legalName": "ТОВ \"Корсар\""
+              },
+              "name": "ТОВ \"Корсар\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04071",
+                "region": "",
+                "streetAddress": "Нижній Вал, 7-9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-21T11:32:29.193934+03:00"
+        }
+      ],
+      "time": "2015-08-21T08:33:05.746429+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T11:15:32.766169+03:00",
+          "amount": 83220.0,
+          "bidder": "a711d0c9ae744f2ea01868f1ca0c2cb2"
+        },
+        {
+          "date": "2015-08-19T14:10:18.100314+03:00",
+          "amount": 82125.0,
+          "bidder": "2138c471949b4e2dbb83c5a2d4a0afc4"
+        },
+        {
+          "date": "2015-08-18T13:03:37.708264+03:00",
+          "amount": 81030.0,
+          "bidder": "703b6f78409a46e88f0e8fd86fae16cf"
+        },
+        {
+          "date": "2015-08-20T10:24:00.581234+03:00",
+          "amount": 79343.7,
+          "bidder": "2be27f98f65245a3b8c9681050956790"
+        }
+      ],
+      "time": "2015-08-21T08:00:00.061372+00:00"
+    }
+  },
+  "id": "4602581fd4444b5c8dfd6613d16abbaa",
+  "tenderId": "UA-2015-08-17-000051"
+}

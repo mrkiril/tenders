@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6ccbd990e4284f1a81382b0512e8c64e",
+        "time": "2015-12-14T10:23:10.007943+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f9c6045bcaf4cac9f35ae47f0d9854c",
+        "time": "2015-12-14T10:25:10.008831+00:00"
+      },
+      "turn_1": {
+        "bidder": "c49746e5b018410d9ddd39c9b4307567",
+        "time": "2015-12-14T10:21:10.010467+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6ccbd990e4284f1a81382b0512e8c64e",
+        "time": "2015-12-14T10:31:10.008109+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f9c6045bcaf4cac9f35ae47f0d9854c",
+        "time": "2015-12-14T10:33:10.007824+00:00"
+      },
+      "turn_1": {
+        "bidder": "c49746e5b018410d9ddd39c9b4307567",
+        "time": "2015-12-14T10:29:10.008528+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6ccbd990e4284f1a81382b0512e8c64e",
+        "time": "2015-12-14T10:15:10.009961+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f9c6045bcaf4cac9f35ae47f0d9854c",
+        "time": "2015-12-14T10:17:10.008320+00:00"
+      },
+      "turn_1": {
+        "bidder": "c49746e5b018410d9ddd39c9b4307567",
+        "time": "2015-12-14T10:13:10.009118+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c49746e5b018410d9ddd39c9b4307567",
+          "amount": 172473.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vetal.com.ua",
+                "telephone": "+380442399016",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІРМА \"ВЕТАЛ\"",
+                "email": "oksana@vetal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33540589",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІРМА \"ВЕТАЛ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ФІРМА \"ВЕТАЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03087, м.Київ, ВУЛ. ВОЛИНСЬКА, будинок 3, квартира 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T11:45:20.191619+02:00"
+        },
+        {
+          "bidder": "6ccbd990e4284f1a81382b0512e8c64e",
+          "amount": 170000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442875008",
+                "telephone": "+380982742424",
+                "name": "Башук Віктор Олегович",
+                "email": "viktor.bashuk@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39607690"
+              },
+              "name": "ТОВ ВІТТОРІО ТРЕЙДІНГ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02156",
+                "region": "Київська область",
+                "streetAddress": "вул. Кіото 13, 117",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:14:00.953810+02:00"
+        },
+        {
+          "bidder": "7f9c6045bcaf4cac9f35ae47f0d9854c",
+          "amount": 160800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://metromediaprint.ua",
+                "telephone": "+380672355883",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕТРО МЕДІА ПРІНТ\"",
+                "email": "uniko66@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36251184",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕТРО МЕДІА ПРІНТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"МЕТРО МЕДІА ПРІНТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02094, м.Київ, ВУЛИЦЯ ЧЕРВОНОГВАРДІЙСЬКА, будинок 27-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T19:11:09.080420+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:33:10.816217+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T11:45:20.191619+02:00",
+          "amount": 172473.2,
+          "bidder": "c49746e5b018410d9ddd39c9b4307567"
+        },
+        {
+          "date": "2015-12-11T13:14:00.953810+02:00",
+          "amount": 170000.0,
+          "bidder": "6ccbd990e4284f1a81382b0512e8c64e"
+        },
+        {
+          "date": "2015-12-10T19:11:09.080420+02:00",
+          "amount": 160800.0,
+          "bidder": "7f9c6045bcaf4cac9f35ae47f0d9854c"
+        }
+      ],
+      "time": "2015-12-14T10:06:10.004774+00:00"
+    }
+  },
+  "id": "3317de0688404077b7dccbb35737d2dc",
+  "tenderId": "UA-2015-12-09-000065-a"
+}

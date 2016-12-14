@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 14998.0,
+        "bid_time": "2015-09-25T14:13:47.485683+03:00",
+        "bidder": "41311cb69f4b41bcb6d285ab40fb98b2",
+        "time": "2015-09-25T11:15:19.014204+00:00"
+      },
+      "turn_1": {
+        "amount": 14999.0,
+        "bid_time": "2015-09-25T14:11:39.649627+03:00",
+        "bidder": "f32aefe1c1134d14aac5fcfe8db8c384",
+        "time": "2015-09-25T11:13:19.009451+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 14199.0,
+        "bid_time": "2015-09-25T14:19:55.805900+03:00",
+        "bidder": "41311cb69f4b41bcb6d285ab40fb98b2",
+        "time": "2015-09-25T11:21:19.006308+00:00"
+      },
+      "turn_1": {
+        "amount": 14200.0,
+        "bid_time": "2015-09-25T14:18:23.563254+03:00",
+        "bidder": "f32aefe1c1134d14aac5fcfe8db8c384",
+        "time": "2015-09-25T11:19:19.010359+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 15749.0,
+        "bid_time": "2015-09-25T14:08:01.609906+03:00",
+        "bidder": "41311cb69f4b41bcb6d285ab40fb98b2",
+        "time": "2015-09-25T11:09:19.010746+00:00"
+      },
+      "turn_1": {
+        "amount": 15750.0,
+        "bid_time": "2015-09-25T14:06:26.757185+03:00",
+        "bidder": "f32aefe1c1134d14aac5fcfe8db8c384",
+        "time": "2015-09-25T11:07:19.012045+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f32aefe1c1134d14aac5fcfe8db8c384",
+          "amount": 14200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674104592",
+                "name": "Євтушенко Олексій Володимирович",
+                "email": "iakunkin@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3029623372"
+              },
+              "name": "ФОП Евтушенко Олексій Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02091",
+                "region": "Київська область",
+                "streetAddress": "м.Київ,вулиця Тростянецька,будинок 6,квартира 384",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-25T14:18:23.563254+03:00"
+        },
+        {
+          "bidder": "41311cb69f4b41bcb6d285ab40fb98b2",
+          "amount": 14199.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vershinadent.com.ua",
+                "faxNumber": "+380444676907",
+                "telephone": "+380444676907",
+                "name": "Галицький Іван Іванович",
+                "email": "tender.vershina@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37264346"
+              },
+              "name": "ТОВ ВЕРШИНА  ДЕНТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01103",
+                "region": "Київська область",
+                "streetAddress": "вул. Підвисоцького , 10/10, офіс61",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-25T14:19:55.805900+03:00"
+        }
+      ],
+      "time": "2015-09-25T11:21:21.466987+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T11:40:48.950080+03:00",
+          "amount": 16248.0,
+          "bidder": "f32aefe1c1134d14aac5fcfe8db8c384"
+        },
+        {
+          "date": "2015-09-24T12:29:03.211826+03:00",
+          "amount": 16224.56,
+          "bidder": "41311cb69f4b41bcb6d285ab40fb98b2"
+        }
+      ],
+      "time": "2015-09-25T11:00:19.003298+00:00"
+    }
+  },
+  "id": "4139518765a642bb800c2f056431dc40",
+  "tenderId": "UA-2015-09-21-000078"
+}

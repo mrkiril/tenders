@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "37c3e57917cf41abbd7eb16b36704301",
+        "time": "2015-12-07T10:17:02.008284+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ebb14d138c34607bd59b9cc32c53c01",
+        "time": "2015-12-07T10:15:02.027419+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "37c3e57917cf41abbd7eb16b36704301",
+        "time": "2015-12-07T10:23:02.007135+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ebb14d138c34607bd59b9cc32c53c01",
+        "time": "2015-12-07T10:21:02.008228+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4ebb14d138c34607bd59b9cc32c53c01",
+        "time": "2015-12-07T10:11:02.008572+00:00"
+      },
+      "turn_1": {
+        "amount": 93200.0,
+        "bid_time": "2015-12-07T12:07:26.080311+02:00",
+        "bidder": "37c3e57917cf41abbd7eb16b36704301",
+        "time": "2015-12-07T10:09:02.010576+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ebb14d138c34607bd59b9cc32c53c01",
+          "amount": 94045.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.smartsynergy.com.ua",
+                "telephone": "+380443000127",
+                "name": "ТОВ \"Смарт Сінерджи\"",
+                "email": "irina.yatsenko@smartsynergy.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38997621",
+                "legalName": "ТОВ \"Смарт Сінерджи\""
+              },
+              "name": "ТОВ \"Смарт Сінерджи\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "04080, м. Київ, вул. Межигірська, 78",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T10:39:14.475455+02:00"
+        },
+        {
+          "bidder": "37c3e57917cf41abbd7eb16b36704301",
+          "amount": 93200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0443695776",
+                "telephone": "0939052842",
+                "name": "Олексеенко Олег Викторович",
+                "email": "o.olekseenko@ivk-service.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37500822",
+                "legalName": "ООО \"ИВК Сервис\""
+              },
+              "name": "ООО \"ИВК Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська",
+                "streetAddress": "вул. Новаторів, 22-А, кв.202",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:07:26.080311+02:00"
+        }
+      ],
+      "time": "2015-12-07T10:23:03.177560+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T14:26:57.212168+02:00",
+          "amount": 94128.0,
+          "bidder": "37c3e57917cf41abbd7eb16b36704301"
+        },
+        {
+          "date": "2015-12-04T10:39:14.475455+02:00",
+          "amount": 94045.68,
+          "bidder": "4ebb14d138c34607bd59b9cc32c53c01"
+        }
+      ],
+      "time": "2015-12-07T10:02:02.003943+00:00"
+    }
+  },
+  "id": "05129073ef0f4439896244db3690f12e",
+  "tenderId": "UA-2015-12-01-000193-a"
+}

@@ -1,0 +1,212 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 2540.0,
+        "bid_time": "2015-11-17T12:55:24.663400+02:00",
+        "bidder": "d74bffef59f445a5bf0f2f151eccf3a5",
+        "time": "2015-11-17T10:55:34.009549+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ff170ac50e2438f937649bfc80bcfbe",
+        "time": "2015-11-17T10:51:34.007868+00:00"
+      },
+      "turn_3": {
+        "amount": 2550.0,
+        "bid_time": "2015-11-17T12:52:17.668198+02:00",
+        "bidder": "15631e9da8cf43e281c110f4527d1079",
+        "time": "2015-11-17T10:53:34.009250+00:00"
+      },
+      "turn_1": {
+        "bidder": "338b76ecc72d47b08ed7348c585b059a",
+        "time": "2015-11-17T10:49:34.024875+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 2250.0,
+        "bid_time": "2015-11-17T13:05:24.974393+02:00",
+        "bidder": "d74bffef59f445a5bf0f2f151eccf3a5",
+        "time": "2015-11-17T11:05:34.007939+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ff170ac50e2438f937649bfc80bcfbe",
+        "time": "2015-11-17T11:01:34.007490+00:00"
+      },
+      "turn_3": {
+        "amount": 2300.0,
+        "bid_time": "2015-11-17T13:01:41.998584+02:00",
+        "bidder": "15631e9da8cf43e281c110f4527d1079",
+        "time": "2015-11-17T11:03:34.007874+00:00"
+      },
+      "turn_1": {
+        "bidder": "338b76ecc72d47b08ed7348c585b059a",
+        "time": "2015-11-17T10:59:34.007152+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "15631e9da8cf43e281c110f4527d1079",
+        "time": "2015-11-17T10:45:34.031028+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ff170ac50e2438f937649bfc80bcfbe",
+        "time": "2015-11-17T10:41:34.008798+00:00"
+      },
+      "turn_3": {
+        "amount": 2619.0,
+        "bid_time": "2015-11-17T12:43:30.530236+02:00",
+        "bidder": "d74bffef59f445a5bf0f2f151eccf3a5",
+        "time": "2015-11-17T10:43:34.010165+00:00"
+      },
+      "turn_1": {
+        "bidder": "338b76ecc72d47b08ed7348c585b059a",
+        "time": "2015-11-17T10:39:34.008931+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "338b76ecc72d47b08ed7348c585b059a",
+          "amount": 3240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrservice.biz",
+                "telephone": "+380674302151",
+                "name": "ФОП Лук'ян Михайло Федорович",
+                "email": "znopp@ukrservice.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2604312359",
+                "legalName": "ФОП Лук'ян Михайло Федорович"
+              },
+              "name": "ФОП Лук'ян Михайло Федорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ВИННИЦКАЯ ОБЛ.",
+                "streetAddress": "Украина, 21022, г. Винница, ул. Тарногродского, 44-а",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-11-13T16:25:34.707124+02:00"
+        },
+        {
+          "bidder": "4ff170ac50e2438f937649bfc80bcfbe",
+          "amount": 3174.98,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:33:16.181529+02:00"
+        },
+        {
+          "bidder": "15631e9da8cf43e281c110f4527d1079",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ito.kiev.ua",
+                "faxNumber": "+380456390607",
+                "telephone": "+380501769575",
+                "name": "Шустенко Павло Сергійович",
+                "email": "p.shustenko@ito.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23577475"
+              },
+              "name": "ТОВ ІТО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03037",
+                "region": "Київська область",
+                "streetAddress": "пр-т Червонозоряний, 4-Г",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-17T13:01:41.998584+02:00"
+        },
+        {
+          "bidder": "d74bffef59f445a5bf0f2f151eccf3a5",
+          "amount": 2250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://etna-trade.com.ua",
+                "telephone": "+380674053200",
+                "name": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\"",
+                "email": "blohin@etna-trade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37469620",
+                "legalName": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04107, м. Київ, вул. Печенізька, 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T13:05:24.974393+02:00"
+        }
+      ],
+      "time": "2015-11-17T11:05:52.700240+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T16:25:34.707124+02:00",
+          "amount": 3240.0,
+          "bidder": "338b76ecc72d47b08ed7348c585b059a"
+        },
+        {
+          "date": "2015-11-16T15:33:16.181529+02:00",
+          "amount": 3174.98,
+          "bidder": "4ff170ac50e2438f937649bfc80bcfbe"
+        },
+        {
+          "date": "2015-11-16T15:51:43.741808+02:00",
+          "amount": 2756.95,
+          "bidder": "d74bffef59f445a5bf0f2f151eccf3a5"
+        },
+        {
+          "date": "2015-11-16T11:33:57.536530+02:00",
+          "amount": 2688.0,
+          "bidder": "15631e9da8cf43e281c110f4527d1079"
+        }
+      ],
+      "time": "2015-11-17T10:32:34.003720+00:00"
+    }
+  },
+  "id": "3a7d699dd4c24e739432f94f3f788831",
+  "tenderId": "UA-2015-11-11-000005"
+}

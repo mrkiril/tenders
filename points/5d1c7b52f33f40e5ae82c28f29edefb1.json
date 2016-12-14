@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "86bc02800ed4430aaf547a7c1a9843cf",
+        "time": "2015-09-30T10:27:01.007081+00:00"
+      },
+      "turn_1": {
+        "bidder": "0906096564654382aabc441264db46f9",
+        "time": "2015-09-30T10:25:01.008285+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "86bc02800ed4430aaf547a7c1a9843cf",
+        "time": "2015-09-30T10:33:01.006397+00:00"
+      },
+      "turn_1": {
+        "bidder": "0906096564654382aabc441264db46f9",
+        "time": "2015-09-30T10:31:01.014422+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "86bc02800ed4430aaf547a7c1a9843cf",
+        "time": "2015-09-30T10:21:01.007846+00:00"
+      },
+      "turn_1": {
+        "bidder": "0906096564654382aabc441264db46f9",
+        "time": "2015-09-30T10:19:01.008106+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0906096564654382aabc441264db46f9",
+          "amount": 3700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380965851119",
+                "name": "Olga Ельгерт",
+                "email": "maia64@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38799431",
+                "legalName": "ТОВ \"М Строй Інвест плюс\""
+              },
+              "name": "ТОВ \"М Строй Інвест плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04073",
+                "region": "",
+                "streetAddress": "Куренівська 21, оф 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T21:15:01.825504+03:00"
+        },
+        {
+          "bidder": "86bc02800ed4430aaf547a7c1a9843cf",
+          "amount": 3678.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T21:20:04.972415+03:00"
+        }
+      ],
+      "time": "2015-09-30T10:33:02.539541+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T21:15:01.825504+03:00",
+          "amount": 3700.0,
+          "bidder": "0906096564654382aabc441264db46f9"
+        },
+        {
+          "date": "2015-09-29T21:20:04.972415+03:00",
+          "amount": 3678.0,
+          "bidder": "86bc02800ed4430aaf547a7c1a9843cf"
+        }
+      ],
+      "time": "2015-09-30T10:12:01.004242+00:00"
+    }
+  },
+  "id": "5d1c7b52f33f40e5ae82c28f29edefb1",
+  "tenderId": "UA-2015-09-18-000042"
+}

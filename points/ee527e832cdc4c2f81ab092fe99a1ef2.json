@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3101fe3a3ba34814b5f302a53802a72e",
+        "time": "2015-07-29T09:15:00.025605+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddb700d4f19441f1b46faa6555027a45",
+        "time": "2015-07-29T09:13:00.062738+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3101fe3a3ba34814b5f302a53802a72e",
+        "time": "2015-07-29T09:21:00.033219+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddb700d4f19441f1b46faa6555027a45",
+        "time": "2015-07-29T09:19:00.041813+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ddb700d4f19441f1b46faa6555027a45",
+        "time": "2015-07-29T09:09:00.033097+00:00"
+      },
+      "turn_1": {
+        "amount": 850000.0,
+        "bid_time": "2015-07-29T12:05:41.352257+03:00",
+        "bidder": "3101fe3a3ba34814b5f302a53802a72e",
+        "time": "2015-07-29T09:07:00.052866+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ddb700d4f19441f1b46faa6555027a45",
+          "amount": 871318.94,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0684008485",
+                "name": "Василенко Ігор Володимирович",
+                "email": "dnepr1@trade-empire.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35935562",
+                "legalName": "ТОВ \"Імперія Торгівлі\""
+              },
+              "name": "ТОВ \"Імперія Торгівлі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "Караваєва, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-28T17:03:32.502100+03:00"
+        },
+        {
+          "bidder": "3101fe3a3ba34814b5f302a53802a72e",
+          "amount": 850000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.pris.com.ua",
+                "faxNumber": "+380487295093",
+                "telephone": "+380487295092",
+                "name": "Амеліна Катерина Олегівна",
+                "email": "amelina@pris.org.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36155826"
+              },
+              "name": "ТОВ \"Компанія ПРІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65012",
+                "region": "Одеська область",
+                "streetAddress": "пр. Мукачівський, буд. 6/5, оф.1",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-07-29T12:05:41.352257+03:00"
+        }
+      ],
+      "time": "2015-07-29T09:21:06.462363+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-28T16:43:38.775279+03:00",
+          "amount": 920315.0,
+          "bidder": "3101fe3a3ba34814b5f302a53802a72e"
+        },
+        {
+          "date": "2015-07-28T17:03:32.502100+03:00",
+          "amount": 871318.94,
+          "bidder": "ddb700d4f19441f1b46faa6555027a45"
+        }
+      ],
+      "time": "2015-07-29T09:00:00.015935+00:00"
+    }
+  },
+  "id": "ee527e832cdc4c2f81ab092fe99a1ef2",
+  "tenderId": "UA-2015-07-20-000010"
+}

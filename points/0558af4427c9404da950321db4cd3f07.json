@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2b8121b5f3114c26a8e7ae3ebc546efe",
+        "time": "2015-10-06T11:58:02.011098+00:00"
+      },
+      "turn_1": {
+        "bidder": "5901e45e59c64602bded0ab1183269c8",
+        "time": "2015-10-06T11:56:02.015604+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2b8121b5f3114c26a8e7ae3ebc546efe",
+        "time": "2015-10-06T12:04:02.009305+00:00"
+      },
+      "turn_1": {
+        "bidder": "5901e45e59c64602bded0ab1183269c8",
+        "time": "2015-10-06T12:02:02.015471+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5901e45e59c64602bded0ab1183269c8",
+        "time": "2015-10-06T11:52:02.011871+00:00"
+      },
+      "turn_1": {
+        "amount": 12890.0,
+        "bid_time": "2015-10-06T14:48:19.175162+03:00",
+        "bidder": "2b8121b5f3114c26a8e7ae3ebc546efe",
+        "time": "2015-10-06T11:50:02.009525+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5901e45e59c64602bded0ab1183269c8",
+          "amount": 12900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dostavka-restoran.com.ua/",
+                "telephone": "380963401046",
+                "name": "Писанка Алла Васильевна",
+                "email": "allla176@mal.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38900417",
+                "legalName": "ТОВ Рестсервис Плюс"
+              },
+              "name": "ТОВ Рестсервис Плюс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Виборзська, буд.99",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T12:38:26.190570+03:00"
+        },
+        {
+          "bidder": "2b8121b5f3114c26a8e7ae3ebc546efe",
+          "amount": 12890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-06T14:48:19.175162+03:00"
+        }
+      ],
+      "time": "2015-10-06T12:04:03.617781+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T16:49:35.444723+03:00",
+          "amount": 13880.0,
+          "bidder": "2b8121b5f3114c26a8e7ae3ebc546efe"
+        },
+        {
+          "date": "2015-09-29T12:38:26.190570+03:00",
+          "amount": 12900.0,
+          "bidder": "5901e45e59c64602bded0ab1183269c8"
+        }
+      ],
+      "time": "2015-10-06T11:43:02.003783+00:00"
+    }
+  },
+  "id": "0558af4427c9404da950321db4cd3f07",
+  "tenderId": "UA-2015-09-23-000310"
+}

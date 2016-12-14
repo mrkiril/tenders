@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c7b9a304050445baa027abc0ea76cb5f",
+        "time": "2015-08-20T09:17:00.029062+00:00"
+      },
+      "turn_3": {
+        "bidder": "342bbc3ed5764d31847562ed7f07f127",
+        "time": "2015-08-20T09:19:00.022328+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e4152816f14d369f2343e1dd977ebc",
+        "time": "2015-08-20T09:15:00.060773+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c7b9a304050445baa027abc0ea76cb5f",
+        "time": "2015-08-20T09:25:00.035409+00:00"
+      },
+      "turn_3": {
+        "bidder": "342bbc3ed5764d31847562ed7f07f127",
+        "time": "2015-08-20T09:27:00.053979+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e4152816f14d369f2343e1dd977ebc",
+        "time": "2015-08-20T09:23:00.023727+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 9500.0,
+        "bid_time": "2015-08-20T12:07:10.956738+03:00",
+        "bidder": "c7b9a304050445baa027abc0ea76cb5f",
+        "time": "2015-08-20T09:09:00.046219+00:00"
+      },
+      "turn_3": {
+        "bidder": "342bbc3ed5764d31847562ed7f07f127",
+        "time": "2015-08-20T09:11:00.036325+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e4152816f14d369f2343e1dd977ebc",
+        "time": "2015-08-20T09:07:00.033449+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33e4152816f14d369f2343e1dd977ebc",
+          "amount": 9998.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-19T11:56:24.762465+03:00"
+        },
+        {
+          "bidder": "c7b9a304050445baa027abc0ea76cb5f",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T12:07:10.956738+03:00"
+        },
+        {
+          "bidder": "342bbc3ed5764d31847562ed7f07f127",
+          "amount": 8313.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.oniko.ua",
+                "telephone": "+380445022446",
+                "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+                "email": "oleksandr.tkalych@oniko.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19242964",
+                "legalName": "Малое частное торгово-промышленное предприятие \"ОНИКО\""
+              },
+              "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070, г. Киев, ул. Волошская, 55/57",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-19T10:05:31.025708+03:00"
+        }
+      ],
+      "time": "2015-08-20T09:27:04.057035+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T11:56:24.762465+03:00",
+          "amount": 9998.8,
+          "bidder": "33e4152816f14d369f2343e1dd977ebc"
+        },
+        {
+          "date": "2015-08-14T14:55:54.699622+03:00",
+          "amount": 9750.0,
+          "bidder": "c7b9a304050445baa027abc0ea76cb5f"
+        },
+        {
+          "date": "2015-08-19T10:05:31.025708+03:00",
+          "amount": 8313.48,
+          "bidder": "342bbc3ed5764d31847562ed7f07f127"
+        }
+      ],
+      "time": "2015-08-20T09:00:00.011861+00:00"
+    }
+  },
+  "id": "5d02996a0fd44f5bb0e202fd087edfbd",
+  "tenderId": "UA-2015-08-11-000049"
+}

@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "37b393295f244884bbd78cfb84de083f",
+        "time": "2015-10-21T09:47:50.008549+00:00"
+      },
+      "turn_1": {
+        "amount": 730.0,
+        "bid_time": "2015-10-21T12:44:19.353079+03:00",
+        "bidder": "43e47d1a7abe437dbc8948f7fdec0985",
+        "time": "2015-10-21T09:45:50.013343+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "37b393295f244884bbd78cfb84de083f",
+        "time": "2015-10-21T09:53:50.007656+00:00"
+      },
+      "turn_1": {
+        "amount": 689.0,
+        "bid_time": "2015-10-21T12:50:01.779367+03:00",
+        "bidder": "43e47d1a7abe437dbc8948f7fdec0985",
+        "time": "2015-10-21T09:51:50.008559+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "37b393295f244884bbd78cfb84de083f",
+        "time": "2015-10-21T09:41:50.007161+00:00"
+      },
+      "turn_1": {
+        "amount": 750.0,
+        "bid_time": "2015-10-21T12:38:07.897887+03:00",
+        "bidder": "43e47d1a7abe437dbc8948f7fdec0985",
+        "time": "2015-10-21T09:39:50.008993+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "37b393295f244884bbd78cfb84de083f",
+          "amount": 690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445016410",
+                "name": "Предприятие \"Атена\" КГОИ",
+                "email": "0956510838@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32303610",
+                "legalName": "Предприятие \"Атена\" КГОИ"
+              },
+              "name": "Предприятие \"Атена\" КГОИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03127 м.Київ пр-т 40-річчя Жовтня120 корп. 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T17:09:57.372541+03:00"
+        },
+        {
+          "bidder": "43e47d1a7abe437dbc8948f7fdec0985",
+          "amount": 689.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380988379397",
+                "name": "Александр Малиновский",
+                "email": "mail.alextrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Малиновський Олександр Леонідович\"",
+                "id": "3256706236",
+                "uri": "http://www.alex-trade.com.ua"
+              },
+              "name": "ФОП \"Малиновський Олександр Леонідович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21050",
+                "region": "Виницкая",
+                "streetAddress": "ул. Стеценка, 75-А, оф. №52",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-10-21T12:50:01.779367+03:00"
+        }
+      ],
+      "time": "2015-10-21T09:53:51.157709+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T15:16:56.074296+03:00",
+          "amount": 770.0,
+          "bidder": "43e47d1a7abe437dbc8948f7fdec0985"
+        },
+        {
+          "date": "2015-10-19T17:09:57.372541+03:00",
+          "amount": 690.0,
+          "bidder": "37b393295f244884bbd78cfb84de083f"
+        }
+      ],
+      "time": "2015-10-21T09:32:50.004418+00:00"
+    }
+  },
+  "id": "34f7c73e798d4c4096ed7fb865fed0d6",
+  "tenderId": "UA-2015-10-08-000110"
+}

@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 160559.0,
+        "bid_time": "2015-11-19T13:58:10.138636+02:00",
+        "bidder": "2a80bbfafea74c879b2e9a72beca82cf",
+        "time": "2015-11-19T11:59:26.010892+00:00"
+      },
+      "turn_1": {
+        "amount": 160560.0,
+        "bid_time": "2015-11-19T13:57:01.097065+02:00",
+        "bidder": "c254d9dba8bf499fa9dc73639e45ed6a",
+        "time": "2015-11-19T11:57:26.027505+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 154619.0,
+        "bid_time": "2015-11-19T14:04:14.557513+02:00",
+        "bidder": "2a80bbfafea74c879b2e9a72beca82cf",
+        "time": "2015-11-19T12:05:26.011324+00:00"
+      },
+      "turn_1": {
+        "amount": 154620.0,
+        "bid_time": "2015-11-19T14:03:24.648195+02:00",
+        "bidder": "c254d9dba8bf499fa9dc73639e45ed6a",
+        "time": "2015-11-19T12:03:26.010839+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c254d9dba8bf499fa9dc73639e45ed6a",
+        "time": "2015-11-19T11:53:26.009985+00:00"
+      },
+      "turn_1": {
+        "amount": 166499.0,
+        "bid_time": "2015-11-19T13:51:01.054399+02:00",
+        "bidder": "2a80bbfafea74c879b2e9a72beca82cf",
+        "time": "2015-11-19T11:51:26.013208+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c254d9dba8bf499fa9dc73639e45ed6a",
+          "amount": 154620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957915970, +380444645885",
+                "name": "Оксана Овчаренко",
+                "email": "director@levtam.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"ЛЕВТАМ\"",
+                "id": "33083749",
+                "uri": "http://levtam.in.ua/"
+              },
+              "name": "ПП \"ЛЕВТАМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07353",
+                "region": "Киевская",
+                "streetAddress": "вул. Дубрівська, 27,   ",
+                "locality": "с. Старі Петрівці"
+              }
+            }
+          ],
+          "time": "2015-11-19T14:03:24.648195+02:00"
+        },
+        {
+          "bidder": "2a80bbfafea74c879b2e9a72beca82cf",
+          "amount": 154619.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0442920707",
+                "telephone": "0442920707",
+                "name": "Шарко Андрій Вікторович",
+                "email": "alfatorgkiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39728471",
+                "legalName": "Товариство з обмеженою відповідальністю Альфа Торг Сервіс"
+              },
+              "name": "Товариство з обмеженою відповідальністю Альфа Торг Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "Вулиця Попудренка 52,офіс 705-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T14:04:14.557513+02:00"
+        }
+      ],
+      "time": "2015-11-19T12:05:37.148194+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T09:54:50.216614+02:00",
+          "amount": 198000.0,
+          "bidder": "2a80bbfafea74c879b2e9a72beca82cf"
+        },
+        {
+          "date": "2015-11-17T11:36:47.931188+02:00",
+          "amount": 166500.0,
+          "bidder": "c254d9dba8bf499fa9dc73639e45ed6a"
+        }
+      ],
+      "time": "2015-11-19T11:44:26.003905+00:00"
+    }
+  },
+  "id": "075198dace704082a79f0e9cd1508ee0",
+  "tenderId": "UA-2015-11-13-000100-b"
+}

@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2420.0,
+        "bid_time": "2015-12-17T14:57:35.555947+02:00",
+        "bidder": "e1ac3c53f01d46a7810cf913634ef2da",
+        "time": "2015-12-17T12:58:27.009019+00:00"
+      },
+      "turn_3": {
+        "amount": 2348.0,
+        "bid_time": "2015-12-17T14:59:29.660875+02:00",
+        "bidder": "1197c7d9f57f4580bf5ea95acaa60111",
+        "time": "2015-12-17T13:00:27.009074+00:00"
+      },
+      "turn_1": {
+        "bidder": "df32d4eb22544fb1a8227aa53b1e7fcf",
+        "time": "2015-12-17T12:56:27.008801+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2340.0,
+        "bid_time": "2015-12-17T15:06:08.552337+02:00",
+        "bidder": "e1ac3c53f01d46a7810cf913634ef2da",
+        "time": "2015-12-17T13:06:27.008097+00:00"
+      },
+      "turn_3": {
+        "amount": 2268.0,
+        "bid_time": "2015-12-17T15:07:15.841649+02:00",
+        "bidder": "1197c7d9f57f4580bf5ea95acaa60111",
+        "time": "2015-12-17T13:08:27.008655+00:00"
+      },
+      "turn_1": {
+        "bidder": "df32d4eb22544fb1a8227aa53b1e7fcf",
+        "time": "2015-12-17T13:04:27.007562+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e1ac3c53f01d46a7810cf913634ef2da",
+        "time": "2015-12-17T12:50:27.020908+00:00"
+      },
+      "turn_3": {
+        "bidder": "1197c7d9f57f4580bf5ea95acaa60111",
+        "time": "2015-12-17T12:52:27.008959+00:00"
+      },
+      "turn_1": {
+        "bidder": "df32d4eb22544fb1a8227aa53b1e7fcf",
+        "time": "2015-12-17T12:48:27.008782+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "df32d4eb22544fb1a8227aa53b1e7fcf",
+          "amount": 2583.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-15T22:49:35.704064+02:00"
+        },
+        {
+          "bidder": "e1ac3c53f01d46a7810cf913634ef2da",
+          "amount": 2340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:06:08.552337+02:00"
+        },
+        {
+          "bidder": "1197c7d9f57f4580bf5ea95acaa60111",
+          "amount": 2268.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:07:15.841649+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:08:28.412409+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T22:49:35.704064+02:00",
+          "amount": 2583.0,
+          "bidder": "df32d4eb22544fb1a8227aa53b1e7fcf"
+        },
+        {
+          "date": "2015-12-15T22:25:07.912801+02:00",
+          "amount": 2540.0,
+          "bidder": "e1ac3c53f01d46a7810cf913634ef2da"
+        },
+        {
+          "date": "2015-12-15T15:48:39.370750+02:00",
+          "amount": 2426.1,
+          "bidder": "1197c7d9f57f4580bf5ea95acaa60111"
+        }
+      ],
+      "time": "2015-12-17T12:41:27.002308+00:00"
+    }
+  },
+  "id": "29df9eb13cef46e09268f0c0284ee9b9",
+  "tenderId": "UA-2015-12-09-000046-a"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a1c50a663d5d4b6c87955a08501677e9",
+        "time": "2015-11-18T09:27:53.008720+00:00"
+      },
+      "turn_1": {
+        "bidder": "1013b3d2931c485fa6aea2d3c41e9491",
+        "time": "2015-11-18T09:25:53.009147+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a1c50a663d5d4b6c87955a08501677e9",
+        "time": "2015-11-18T09:33:53.008098+00:00"
+      },
+      "turn_1": {
+        "bidder": "1013b3d2931c485fa6aea2d3c41e9491",
+        "time": "2015-11-18T09:31:53.007437+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1013b3d2931c485fa6aea2d3c41e9491",
+        "time": "2015-11-18T09:21:53.008265+00:00"
+      },
+      "turn_1": {
+        "amount": 545.0,
+        "bid_time": "2015-11-18T11:18:37.100090+02:00",
+        "bidder": "a1c50a663d5d4b6c87955a08501677e9",
+        "time": "2015-11-18T09:19:53.008931+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1013b3d2931c485fa6aea2d3c41e9491",
+          "amount": 546.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-17T08:58:10.281306+02:00"
+        },
+        {
+          "bidder": "a1c50a663d5d4b6c87955a08501677e9",
+          "amount": 545.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-18T11:18:37.100090+02:00"
+        }
+      ],
+      "time": "2015-11-18T09:33:54.671871+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T11:35:43.893888+02:00",
+          "amount": 582.0,
+          "bidder": "a1c50a663d5d4b6c87955a08501677e9"
+        },
+        {
+          "date": "2015-11-17T08:58:10.281306+02:00",
+          "amount": 546.0,
+          "bidder": "1013b3d2931c485fa6aea2d3c41e9491"
+        }
+      ],
+      "time": "2015-11-18T09:12:53.004220+00:00"
+    }
+  },
+  "id": "58c246bf8d2c47c5b959e12ada40ae2c",
+  "tenderId": "UA-2015-11-12-000017"
+}

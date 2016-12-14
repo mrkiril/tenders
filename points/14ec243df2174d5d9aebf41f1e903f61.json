@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a26c2be5edee4102ad7053073ed72532",
+        "time": "2015-06-08T08:15:00.144268+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded6d1f80e764df680a6bff84f63bf8b",
+        "time": "2015-06-08T08:13:00.115334+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a26c2be5edee4102ad7053073ed72532",
+        "time": "2015-06-08T08:21:00.084824+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded6d1f80e764df680a6bff84f63bf8b",
+        "time": "2015-06-08T08:19:00.145018+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a26c2be5edee4102ad7053073ed72532",
+        "time": "2015-06-08T08:09:00.071512+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded6d1f80e764df680a6bff84f63bf8b",
+        "time": "2015-06-08T08:07:00.244491+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ded6d1f80e764df680a6bff84f63bf8b",
+          "amount": 11157.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676290704",
+                "name": "Александр Дианов",
+                "email": "oleksandr.dianov@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2832510898",
+                "legalName": "ФОП \"Фізична особа підприємець Діанов Олександр Валерійович\""
+              },
+              "name": "ФОП \"Фізична особа підприємець Діанов Олександр Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87515",
+                "region": "Донецкая",
+                "streetAddress": "пр.Ленина д.42 кв 17",
+                "locality": "Мариуполь"
+              }
+            }
+          ],
+          "time": "2015-06-04T10:17:20.436546+03:00"
+        },
+        {
+          "bidder": "a26c2be5edee4102ad7053073ed72532",
+          "amount": 11142.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977847841",
+                "name": "Андрей Дьяконов",
+                "email": "ledy.solg@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2457309693",
+                "legalName": "ФОП \"Фізична особа підприємець  Дьяконов Андрій Петрович\""
+              },
+              "name": "ФОП \"Фізична особа підприємець  Дьяконов Андрій Петрович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87505",
+                "region": "Донецкая",
+                "streetAddress": "ул.Гугеля, буд 12, кв.10",
+                "locality": "Мариуполь"
+              }
+            }
+          ],
+          "time": "2015-06-04T09:29:04.108188+03:00"
+        }
+      ],
+      "time": "2015-06-08T08:21:04.034252+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-04T10:17:20.436546+03:00",
+          "amount": 11157.0,
+          "bidder": "ded6d1f80e764df680a6bff84f63bf8b"
+        },
+        {
+          "date": "2015-06-04T09:29:04.108188+03:00",
+          "amount": 11142.0,
+          "bidder": "a26c2be5edee4102ad7053073ed72532"
+        }
+      ],
+      "time": "2015-06-08T08:00:00.022009+00:00"
+    }
+  },
+  "id": "14ec243df2174d5d9aebf41f1e903f61",
+  "tenderId": "UA-2015-05-28-000055"
+}

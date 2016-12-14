@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "867ff8e1645a48669f4340b1433ae3f8",
+        "time": "2015-09-10T11:45:00.048312+00:00"
+      },
+      "turn_1": {
+        "bidder": "29a48fe0ecba440494e410f44d1545b5",
+        "time": "2015-09-10T11:43:00.024333+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "867ff8e1645a48669f4340b1433ae3f8",
+        "time": "2015-09-10T11:51:00.014814+00:00"
+      },
+      "turn_1": {
+        "bidder": "29a48fe0ecba440494e410f44d1545b5",
+        "time": "2015-09-10T11:49:00.014429+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "867ff8e1645a48669f4340b1433ae3f8",
+        "time": "2015-09-10T11:39:00.018624+00:00"
+      },
+      "turn_1": {
+        "bidder": "29a48fe0ecba440494e410f44d1545b5",
+        "time": "2015-09-10T11:37:00.028512+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "29a48fe0ecba440494e410f44d1545b5",
+          "amount": 12250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://artoil.agronovator.ua",
+                "telephone": "+380676983888",
+                "name": "ТОВ \"АРТ ОЙЛ\"",
+                "email": "trader77@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39132801",
+                "legalName": "ТОВ \"АРТ ОЙЛ\""
+              },
+              "name": "ТОВ \"АРТ ОЙЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, Україна, місто Київ, бульвар Лесі Українки, буд. 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T15:50:35.141587+03:00"
+        },
+        {
+          "bidder": "867ff8e1645a48669f4340b1433ae3f8",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380660025838",
+                "name": "Осадчий Денис Петрович",
+                "email": "zakaznoy@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3031900739"
+              },
+              "name": "ФОП Осадчий",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09700",
+                "region": "Київська область",
+                "streetAddress": "Карла Маркса 10/3",
+                "locality": "Богуслав"
+              }
+            }
+          ],
+          "time": "2015-09-08T13:06:09.641124+03:00"
+        }
+      ],
+      "time": "2015-09-10T11:51:02.403511+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T15:50:35.141587+03:00",
+          "amount": 12250.0,
+          "bidder": "29a48fe0ecba440494e410f44d1545b5"
+        },
+        {
+          "date": "2015-09-08T13:06:09.641124+03:00",
+          "amount": 12000.0,
+          "bidder": "867ff8e1645a48669f4340b1433ae3f8"
+        }
+      ],
+      "time": "2015-09-10T11:30:00.004969+00:00"
+    }
+  },
+  "id": "647b7a650ca84090b5af7a80cdeb3dce",
+  "tenderId": "UA-2015-09-03-000032"
+}

@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1035.0,
+        "bid_time": "2015-11-16T11:19:59.177188+02:00",
+        "bidder": "d856fb8f060f4a13a3aa5ffdcfe5c502",
+        "time": "2015-11-16T09:20:28.030477+00:00"
+      },
+      "turn_3": {
+        "amount": 1034.0,
+        "bid_time": "2015-11-16T11:20:49.436448+02:00",
+        "bidder": "067c3dbd9fff4ae899810d3df5dddacf",
+        "time": "2015-11-16T09:22:28.008629+00:00"
+      },
+      "turn_1": {
+        "amount": 1120.0,
+        "bid_time": "2015-11-16T11:16:45.151609+02:00",
+        "bidder": "cf09d91d698b41a29fd52d8542182117",
+        "time": "2015-11-16T09:18:28.009667+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1020.0,
+        "bid_time": "2015-11-16T11:27:42.379710+02:00",
+        "bidder": "d856fb8f060f4a13a3aa5ffdcfe5c502",
+        "time": "2015-11-16T09:28:28.007518+00:00"
+      },
+      "turn_3": {
+        "amount": 1019.0,
+        "bid_time": "2015-11-16T11:28:46.551692+02:00",
+        "bidder": "067c3dbd9fff4ae899810d3df5dddacf",
+        "time": "2015-11-16T09:30:28.010543+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf09d91d698b41a29fd52d8542182117",
+        "time": "2015-11-16T09:26:28.009709+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cf09d91d698b41a29fd52d8542182117",
+        "time": "2015-11-16T09:12:28.010628+00:00"
+      },
+      "turn_3": {
+        "bidder": "067c3dbd9fff4ae899810d3df5dddacf",
+        "time": "2015-11-16T09:14:28.007807+00:00"
+      },
+      "turn_1": {
+        "amount": 1140.0,
+        "bid_time": "2015-11-16T11:09:44.309296+02:00",
+        "bidder": "d856fb8f060f4a13a3aa5ffdcfe5c502",
+        "time": "2015-11-16T09:10:28.011652+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cf09d91d698b41a29fd52d8542182117",
+          "amount": 1120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444905190",
+                "name": "Андрій Варшавський",
+                "email": "warsawsky@t-s.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20575435",
+                "legalName": "ТОВ \"Тріал-систем\""
+              },
+              "name": "ТОВ \"Тріал-систем\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03035",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-16T11:16:45.151609+02:00"
+        },
+        {
+          "bidder": "d856fb8f060f4a13a3aa5ffdcfe5c502",
+          "amount": 1020.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://express-papir.com.ua",
+                "faxNumber": "5007078",
+                "telephone": "5007078",
+                "name": "Колядко Андрій Михайлович",
+                "email": "express-papir_tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36057863",
+                "legalName": "Товариство з обмеженою відповідальністю\"Експрес Папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"Експрес Папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "Драгоманова 42А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T11:27:42.379710+02:00"
+        },
+        {
+          "bidder": "067c3dbd9fff4ae899810d3df5dddacf",
+          "amount": 1019.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T11:28:46.551692+02:00"
+        }
+      ],
+      "time": "2015-11-16T09:30:35.395157+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T10:12:36.533196+02:00",
+          "amount": 1171.44,
+          "bidder": "d856fb8f060f4a13a3aa5ffdcfe5c502"
+        },
+        {
+          "date": "2015-11-13T15:57:40.243148+02:00",
+          "amount": 1147.72,
+          "bidder": "cf09d91d698b41a29fd52d8542182117"
+        },
+        {
+          "date": "2015-11-13T17:33:43.013278+02:00",
+          "amount": 1047.38,
+          "bidder": "067c3dbd9fff4ae899810d3df5dddacf"
+        }
+      ],
+      "time": "2015-11-16T09:03:28.003932+00:00"
+    }
+  },
+  "id": "28aecb9e27fa4fe7862e5d422f843c67",
+  "tenderId": "UA-2015-11-05-000246"
+}

@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "70663bcd51ae41efb2811683473c15e8",
+        "time": "2015-11-17T09:25:42.008802+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9d7d1e79a4a45918b49931650a1fc18",
+        "time": "2015-11-17T09:27:42.008638+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7dcc833be9341079798fd4c931c1941",
+        "time": "2015-11-17T09:23:42.009458+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "70663bcd51ae41efb2811683473c15e8",
+        "time": "2015-11-17T09:33:42.007526+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9d7d1e79a4a45918b49931650a1fc18",
+        "time": "2015-11-17T09:35:42.060025+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7dcc833be9341079798fd4c931c1941",
+        "time": "2015-11-17T09:31:42.011951+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "70663bcd51ae41efb2811683473c15e8",
+        "time": "2015-11-17T09:17:42.033968+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9d7d1e79a4a45918b49931650a1fc18",
+        "time": "2015-11-17T09:19:42.011564+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7dcc833be9341079798fd4c931c1941",
+        "time": "2015-11-17T09:15:42.010181+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a7dcc833be9341079798fd4c931c1941",
+          "amount": 14600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675177705",
+                "name": "Виталий Терещенко",
+                "email": "amazon.ca.ukr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37758457",
+                "legalName": "ТОВ \"Форса-Украина\""
+              },
+              "name": "ТОВ \"Форса-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "вул. Лучева, 19",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:33:10.449042+02:00"
+        },
+        {
+          "bidder": "70663bcd51ae41efb2811683473c15e8",
+          "amount": 14600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509139331",
+                "name": "Игорь Никула",
+                "email": "nikulai@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2712017910",
+                "legalName": "ФОП Никула И. Н."
+              },
+              "name": "ФОП Никула И. Н.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02068",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-16T10:33:10.488049+02:00"
+        },
+        {
+          "bidder": "d9d7d1e79a4a45918b49931650a1fc18",
+          "amount": 13385.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-16T11:48:15.479083+02:00"
+        }
+      ],
+      "time": "2015-11-17T09:35:46.370283+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T10:33:10.488049+02:00",
+          "amount": 14600.0,
+          "bidder": "70663bcd51ae41efb2811683473c15e8"
+        },
+        {
+          "date": "2015-11-16T13:33:10.449042+02:00",
+          "amount": 14600.0,
+          "bidder": "a7dcc833be9341079798fd4c931c1941"
+        },
+        {
+          "date": "2015-11-16T11:48:15.479083+02:00",
+          "amount": 13385.2,
+          "bidder": "d9d7d1e79a4a45918b49931650a1fc18"
+        }
+      ],
+      "time": "2015-11-17T09:08:42.004823+00:00"
+    }
+  },
+  "id": "6c4e3e95d8024bbc84f03eee7b934f68",
+  "tenderId": "UA-2015-11-11-000144"
+}

@@ -1,0 +1,220 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 77800.0,
+        "bid_time": "2015-11-11T12:02:27.132689+02:00",
+        "bidder": "e19d72207a314f1198468bae07fbba9f",
+        "time": "2015-11-11T10:04:04.008049+00:00"
+      },
+      "turn_2": {
+        "amount": 86000.0,
+        "bid_time": "2015-11-11T11:58:28.344751+02:00",
+        "bidder": "f9dda993d7b747fe821362651f96bab5",
+        "time": "2015-11-11T10:00:04.009105+00:00"
+      },
+      "turn_3": {
+        "amount": 85990.0,
+        "bid_time": "2015-11-11T12:00:43.885594+02:00",
+        "bidder": "adcd1f203e8b448eb6770c53ba201e74",
+        "time": "2015-11-11T10:02:04.033574+00:00"
+      },
+      "turn_1": {
+        "amount": 77844.0,
+        "bid_time": "2015-11-11T11:56:34.434625+02:00",
+        "bidder": "bee82660d57a455488db83fd44b456ba",
+        "time": "2015-11-11T09:58:04.010140+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 62950.0,
+        "bid_time": "2015-11-11T12:13:46.077361+02:00",
+        "bidder": "e19d72207a314f1198468bae07fbba9f",
+        "time": "2015-11-11T10:14:04.009431+00:00"
+      },
+      "turn_2": {
+        "bidder": "adcd1f203e8b448eb6770c53ba201e74",
+        "time": "2015-11-11T10:10:04.007186+00:00"
+      },
+      "turn_3": {
+        "amount": 63840.0,
+        "bid_time": "2015-11-11T12:11:18.588955+02:00",
+        "bidder": "bee82660d57a455488db83fd44b456ba",
+        "time": "2015-11-11T10:12:04.023848+00:00"
+      },
+      "turn_1": {
+        "amount": 76500.0,
+        "bid_time": "2015-11-11T12:06:17.381583+02:00",
+        "bidder": "f9dda993d7b747fe821362651f96bab5",
+        "time": "2015-11-11T10:08:04.014412+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "e19d72207a314f1198468bae07fbba9f",
+        "time": "2015-11-11T09:54:04.012302+00:00"
+      },
+      "turn_2": {
+        "amount": 89350.0,
+        "bid_time": "2015-11-11T11:48:27.014859+02:00",
+        "bidder": "f9dda993d7b747fe821362651f96bab5",
+        "time": "2015-11-11T09:50:04.008519+00:00"
+      },
+      "turn_3": {
+        "amount": 89300.0,
+        "bid_time": "2015-11-11T11:50:21.478042+02:00",
+        "bidder": "adcd1f203e8b448eb6770c53ba201e74",
+        "time": "2015-11-11T09:52:04.008043+00:00"
+      },
+      "turn_1": {
+        "amount": 89544.0,
+        "bid_time": "2015-11-11T11:47:13.907698+02:00",
+        "bidder": "bee82660d57a455488db83fd44b456ba",
+        "time": "2015-11-11T09:48:04.015641+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "adcd1f203e8b448eb6770c53ba201e74",
+          "amount": 85990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380443777849",
+                "telephone": "+380443777849",
+                "name": "Базилевич Юрій Анатолійович",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988"
+              },
+              "name": "ТОВ ПРИВАТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська область",
+                "streetAddress": "пр-т Оболонський, 18",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T12:00:43.885594+02:00"
+        },
+        {
+          "bidder": "f9dda993d7b747fe821362651f96bab5",
+          "amount": 76500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677802124",
+                "name": "Виктория",
+                "email": "btzp@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23358904",
+                "legalName": "ООО ПТП \"Быттехзапчасть\""
+              },
+              "name": "ООО ПТП \"Быттехзапчасть\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-11T12:06:17.381583+02:00"
+        },
+        {
+          "bidder": "bee82660d57a455488db83fd44b456ba",
+          "amount": 63840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-570-42-28",
+                "telephone": "044-384-02-06",
+                "name": "Кобиляцька Марина Володимирівна",
+                "email": "kobylyatska@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39787715",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВІМАКС РІТЕЙЛ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВІМАКС РІТЕЙЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03042",
+                "region": "Київська",
+                "streetAddress": "Красилівська, буд. 8/4, оф.2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T12:11:18.588955+02:00"
+        },
+        {
+          "bidder": "e19d72207a314f1198468bae07fbba9f",
+          "amount": 62950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674667298",
+                "name": "Анатолій Якімечко",
+                "email": "yakimechko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТОВ \"Аероконд І.К.\"\"",
+                "id": "38687995",
+                "uri": "http://www.aerocondik.kiev.ua"
+              },
+              "name": "ТОВ \"ТОВ \"Аероконд І.К.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04136",
+                "region": "Киевская",
+                "streetAddress": "вул. Стеценка,3 оф.3.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T12:13:46.077361+02:00"
+        }
+      ],
+      "time": "2015-11-11T10:14:34.070227+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T17:43:10.126616+02:00",
+          "amount": 99544.32,
+          "bidder": "bee82660d57a455488db83fd44b456ba"
+        },
+        {
+          "date": "2015-11-09T16:18:24.134190+02:00",
+          "amount": 96891.6,
+          "bidder": "f9dda993d7b747fe821362651f96bab5"
+        },
+        {
+          "date": "2015-11-09T10:45:21.416980+02:00",
+          "amount": 92113.56,
+          "bidder": "adcd1f203e8b448eb6770c53ba201e74"
+        },
+        {
+          "date": "2015-11-10T11:16:39.744576+02:00",
+          "amount": 79898.4,
+          "bidder": "e19d72207a314f1198468bae07fbba9f"
+        }
+      ],
+      "time": "2015-11-11T09:41:04.003097+00:00"
+    }
+  },
+  "id": "1e1f430e20db4b67a1ac4c9afe8e670e",
+  "tenderId": "UA-2015-11-03-000455"
+}

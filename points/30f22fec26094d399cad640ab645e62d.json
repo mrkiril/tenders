@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d4f07f9f670f45f5bfebe81590e79c79",
+        "time": "2015-03-23T10:15:00.054658+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5fe8e6cc6434ee188a465173e7cc079",
+        "time": "2015-03-23T10:13:00.039980+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d4f07f9f670f45f5bfebe81590e79c79",
+        "time": "2015-03-23T10:21:00.100171+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5fe8e6cc6434ee188a465173e7cc079",
+        "time": "2015-03-23T10:19:00.097040+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d4f07f9f670f45f5bfebe81590e79c79",
+        "time": "2015-03-23T10:09:00.108516+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5fe8e6cc6434ee188a465173e7cc079",
+        "time": "2015-03-23T10:07:00.086563+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b5fe8e6cc6434ee188a465173e7cc079",
+          "amount": 423000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445372694",
+                "name": "Общество з ограниченой ответственностю \"Ванго-Украина\"",
+                "email": "vango2011@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35922134",
+                "legalName": "Общество з ограниченой ответственностю \"Ванго-Украина\""
+              },
+              "name": "Общество з ограниченой ответственностю \"Ванго-Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01010, г.Киев, ул.И.Мазепы,3 Б, оф.197",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-20T16:15:00.532352+02:00"
+        },
+        {
+          "bidder": "d4f07f9f670f45f5bfebe81590e79c79",
+          "amount": 420000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380630447672",
+                "name": "Сергій Кульбака",
+                "email": "iso_ltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35920687",
+                "legalName": "ТОВ \"ІСО\""
+              },
+              "name": "ТОВ \"ІСО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01023",
+                "region": "Киевская",
+                "streetAddress": "Киіїв, Червоноармійська, буд. 139, оф.345",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-20T17:16:13.044945+02:00"
+        }
+      ],
+      "time": "2015-03-23T10:21:02.424253+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-20T16:15:00.532352+02:00",
+          "amount": 423000.0,
+          "bidder": "b5fe8e6cc6434ee188a465173e7cc079"
+        },
+        {
+          "date": "2015-03-20T17:16:13.044945+02:00",
+          "amount": 420000.0,
+          "bidder": "d4f07f9f670f45f5bfebe81590e79c79"
+        }
+      ],
+      "time": "2015-03-23T10:00:00.007063+00:00"
+    }
+  },
+  "id": "30f22fec26094d399cad640ab645e62d",
+  "tenderId": "UA-2015-03-10-000011"
+}

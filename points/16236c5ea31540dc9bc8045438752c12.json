@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5900000.0,
+        "bid_time": "2015-03-26T11:14:08.685172+02:00",
+        "bidder": "63baa5b8e0604c08b5cdf0c71aa34372",
+        "time": "2015-03-26T09:15:00.353321+00:00"
+      },
+      "turn_1": {
+        "amount": 6500000.0,
+        "bid_time": "2015-03-26T11:11:41.748930+02:00",
+        "bidder": "32f116a9707f40578b01f5bf6d688f0c",
+        "time": "2015-03-26T09:13:00.067358+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 5500000.0,
+        "bid_time": "2015-03-26T11:19:52.268564+02:00",
+        "bidder": "63baa5b8e0604c08b5cdf0c71aa34372",
+        "time": "2015-03-26T09:21:00.037803+00:00"
+      },
+      "turn_1": {
+        "amount": 5800000.0,
+        "bid_time": "2015-03-26T11:17:34.489159+02:00",
+        "bidder": "32f116a9707f40578b01f5bf6d688f0c",
+        "time": "2015-03-26T09:19:00.118649+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6700000.0,
+        "bid_time": "2015-03-26T11:07:54.646935+02:00",
+        "bidder": "63baa5b8e0604c08b5cdf0c71aa34372",
+        "time": "2015-03-26T09:09:00.116631+00:00"
+      },
+      "turn_1": {
+        "amount": 6800000.0,
+        "bid_time": "2015-03-26T11:05:43.056940+02:00",
+        "bidder": "32f116a9707f40578b01f5bf6d688f0c",
+        "time": "2015-03-26T09:07:00.132717+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "32f116a9707f40578b01f5bf6d688f0c",
+          "amount": 5800000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0675949094",
+                "name": "ФОП  Iваненко Володимир Анатолійович",
+                "email": "center@kharkov.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2524620952",
+                "legalName": "ФОП  Iваненко Володимир Анатолійович"
+              },
+              "name": "ФОП  Iваненко Володимир Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61100",
+                "region": "Харківська",
+                "streetAddress": "вул. Слинько 5, корп. 3, кв. 96",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-03-26T11:17:34.489159+02:00"
+        },
+        {
+          "bidder": "63baa5b8e0604c08b5cdf0c71aa34372",
+          "amount": 5500000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+37126415158",
+                "name": "Ivars Lejs",
+                "email": "ivars@artago.lv"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "LV40103621",
+                "legalName": "OOO Artago"
+              },
+              "name": "OOO Artago",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "5001",
+                "region": "Киевская",
+                "streetAddress": "Ogre,Ikskiles str. 4-1:LV5001 Latvia",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-26T11:19:52.268564+02:00"
+        }
+      ],
+      "time": "2015-03-26T09:21:02.554472+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-24T10:29:24.700026+02:00",
+          "amount": 7800000.0,
+          "bidder": "32f116a9707f40578b01f5bf6d688f0c"
+        },
+        {
+          "date": "2015-03-24T18:15:29.652307+02:00",
+          "amount": 7000000.0,
+          "bidder": "63baa5b8e0604c08b5cdf0c71aa34372"
+        }
+      ],
+      "time": "2015-03-26T09:00:00.009978+00:00"
+    }
+  },
+  "id": "16236c5ea31540dc9bc8045438752c12",
+  "tenderId": "UA-2015-03-16-000003"
+}

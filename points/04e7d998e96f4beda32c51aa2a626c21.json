@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0f6a20261dd64a88bc4fd7585b3a2beb",
+        "time": "2015-09-14T09:15:00.059169+00:00"
+      },
+      "turn_1": {
+        "bidder": "031370fb9e8c4dd79741b585c9f333ba",
+        "time": "2015-09-14T09:13:00.030722+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0f6a20261dd64a88bc4fd7585b3a2beb",
+        "time": "2015-09-14T09:21:00.040797+00:00"
+      },
+      "turn_1": {
+        "amount": 10050.0,
+        "bid_time": "2015-09-14T12:18:48.798414+03:00",
+        "bidder": "031370fb9e8c4dd79741b585c9f333ba",
+        "time": "2015-09-14T09:19:00.036294+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0f6a20261dd64a88bc4fd7585b3a2beb",
+        "time": "2015-09-14T09:09:00.050041+00:00"
+      },
+      "turn_1": {
+        "bidder": "031370fb9e8c4dd79741b585c9f333ba",
+        "time": "2015-09-14T09:07:00.018577+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f6a20261dd64a88bc4fd7585b3a2beb",
+          "amount": 10150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380980131244, +380965851190",
+                "name": "Андрей Черков",
+                "email": "spectorg@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3378512032",
+                "legalName": "ФОП \"Цимбал Ігор Анатолійович\""
+              },
+              "name": "ФОП \"Цимбал Ігор Анатолійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "50049",
+                "region": "Днепропетровская",
+                "streetAddress": "50007,м.Кривий Ріг, вул.Волгоградська 1Д, оф 408",
+                "locality": "Кривой Рог"
+              }
+            }
+          ],
+          "time": "2015-09-10T12:06:56.306488+03:00"
+        },
+        {
+          "bidder": "031370fb9e8c4dd79741b585c9f333ba",
+          "amount": 10050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955256388",
+                "name": "Дмитро Алєнін",
+                "email": "ad_company@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3523113559",
+                "legalName": "ФОП \"Алєнін Дмитро Володимирович\""
+              },
+              "name": "ФОП \"Алєнін Дмитро Володимирович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61175",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-14T12:18:48.798414+03:00"
+        }
+      ],
+      "time": "2015-09-14T09:21:04.804353+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T12:06:56.306488+03:00",
+          "amount": 10150.0,
+          "bidder": "0f6a20261dd64a88bc4fd7585b3a2beb"
+        },
+        {
+          "date": "2015-09-11T15:41:41.048144+03:00",
+          "amount": 10150.0,
+          "bidder": "031370fb9e8c4dd79741b585c9f333ba"
+        }
+      ],
+      "time": "2015-09-14T09:00:00.002022+00:00"
+    }
+  },
+  "id": "04e7d998e96f4beda32c51aa2a626c21",
+  "tenderId": "UA-2015-09-04-000143"
+}

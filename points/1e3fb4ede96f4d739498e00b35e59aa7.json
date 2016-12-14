@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0493de9567c844e7a2674eff6a02b057",
+        "time": "2015-09-09T08:17:00.034432+00:00"
+      },
+      "turn_3": {
+        "bidder": "47eab5eadb9d45a59392870a677d561e",
+        "time": "2015-09-09T08:19:00.116566+00:00"
+      },
+      "turn_1": {
+        "amount": 7000.0,
+        "bid_time": "2015-09-09T11:13:12.391280+03:00",
+        "bidder": "6b2d2341368b4e77aee190e9ca123c1a",
+        "time": "2015-09-09T08:15:00.069059+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 6300.0,
+        "bid_time": "2015-09-09T11:23:36.779724+03:00",
+        "bidder": "6b2d2341368b4e77aee190e9ca123c1a",
+        "time": "2015-09-09T08:25:00.038960+00:00"
+      },
+      "turn_3": {
+        "amount": 6100.0,
+        "bid_time": "2015-09-09T11:25:13.540139+03:00",
+        "bidder": "47eab5eadb9d45a59392870a677d561e",
+        "time": "2015-09-09T08:27:00.038702+00:00"
+      },
+      "turn_1": {
+        "bidder": "0493de9567c844e7a2674eff6a02b057",
+        "time": "2015-09-09T08:23:00.051419+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0493de9567c844e7a2674eff6a02b057",
+        "time": "2015-09-09T08:09:00.049110+00:00"
+      },
+      "turn_3": {
+        "amount": 6920.0,
+        "bid_time": "2015-09-09T11:09:30.011604+03:00",
+        "bidder": "47eab5eadb9d45a59392870a677d561e",
+        "time": "2015-09-09T08:11:00.070560+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b2d2341368b4e77aee190e9ca123c1a",
+        "time": "2015-09-09T08:07:00.134789+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0493de9567c844e7a2674eff6a02b057",
+          "amount": 7900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.zeus.ua",
+                "telephone": "+380674515811",
+                "name": "иство з обмеженою відповідальністю «ЗЕВС»",
+                "email": "marinagsh@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25483198",
+                "legalName": "иство з обмеженою відповідальністю «ЗЕВС»"
+              },
+              "name": "иство з обмеженою відповідальністю «ЗЕВС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69083, Україна, м. Запоріжжя, вул. Східна, буд. № 9,\r\n\r\n02002, Україна, м.Київ, вул. Луначарського, 4, оф.14/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T15:38:29.915355+03:00"
+        },
+        {
+          "bidder": "6b2d2341368b4e77aee190e9ca123c1a",
+          "amount": 6300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-09T11:23:36.779724+03:00"
+        },
+        {
+          "bidder": "47eab5eadb9d45a59392870a677d561e",
+          "amount": 6100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://listech.ua/",
+                "telephone": "+380952075392",
+                "name": "ООО ЛИС Текнолоджи",
+                "email": "a.chebunin@listech.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37721364",
+                "legalName": "ООО ЛИС Текнолоджи"
+              },
+              "name": "ООО ЛИС Текнолоджи",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04176, г. Киев, ул. Электриков, д.26, корпус 87",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-09T11:25:13.540139+03:00"
+        }
+      ],
+      "time": "2015-09-09T08:27:04.742438+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T08:35:15.101738+03:00",
+          "amount": 7980.0,
+          "bidder": "6b2d2341368b4e77aee190e9ca123c1a"
+        },
+        {
+          "date": "2015-09-08T15:38:29.915355+03:00",
+          "amount": 7900.0,
+          "bidder": "0493de9567c844e7a2674eff6a02b057"
+        },
+        {
+          "date": "2015-09-08T14:21:54.134848+03:00",
+          "amount": 7000.0,
+          "bidder": "47eab5eadb9d45a59392870a677d561e"
+        }
+      ],
+      "time": "2015-09-09T08:00:00.073998+00:00"
+    }
+  },
+  "id": "1e3fb4ede96f4d739498e00b35e59aa7",
+  "tenderId": "UA-2015-09-01-000090"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d44c33b0cac34868ac3da3969be4b6b1",
+        "time": "2015-10-27T12:18:14.008665+00:00"
+      },
+      "turn_1": {
+        "bidder": "635abd3c9f3a4a10bae837af3278688a",
+        "time": "2015-10-27T12:16:14.010229+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d44c33b0cac34868ac3da3969be4b6b1",
+        "time": "2015-10-27T12:24:14.008433+00:00"
+      },
+      "turn_1": {
+        "bidder": "635abd3c9f3a4a10bae837af3278688a",
+        "time": "2015-10-27T12:22:14.011770+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d44c33b0cac34868ac3da3969be4b6b1",
+        "time": "2015-10-27T12:12:14.017366+00:00"
+      },
+      "turn_1": {
+        "bidder": "635abd3c9f3a4a10bae837af3278688a",
+        "time": "2015-10-27T12:10:14.023339+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "635abd3c9f3a4a10bae837af3278688a",
+          "amount": 21000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T14:12:38.131622+03:00"
+        },
+        {
+          "bidder": "d44c33b0cac34868ac3da3969be4b6b1",
+          "amount": 19242.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T11:03:59.457313+02:00"
+        }
+      ],
+      "time": "2015-10-27T12:24:16.277367+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T14:12:38.131622+03:00",
+          "amount": 21000.0,
+          "bidder": "635abd3c9f3a4a10bae837af3278688a"
+        },
+        {
+          "date": "2015-10-26T11:03:59.457313+02:00",
+          "amount": 19242.0,
+          "bidder": "d44c33b0cac34868ac3da3969be4b6b1"
+        }
+      ],
+      "time": "2015-10-27T12:03:14.002415+00:00"
+    }
+  },
+  "id": "3e84880ade414788bf9c55ea9e835d47",
+  "tenderId": "UA-2015-10-20-000153"
+}

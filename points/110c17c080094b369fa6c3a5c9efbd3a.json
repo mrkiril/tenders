@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 26613.43,
+        "bid_time": "2015-12-09T13:22:07.417546+02:00",
+        "bidder": "f0d0d6e1cc66453097102b1d9d37c1fc",
+        "time": "2015-12-09T11:23:02.020433+00:00"
+      },
+      "turn_1": {
+        "amount": 27470.0,
+        "bid_time": "2015-12-09T13:19:43.962439+02:00",
+        "bidder": "52d324346769493dbc57ae7ba5a9bd8f",
+        "time": "2015-12-09T11:21:02.010642+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 25851.71,
+        "bid_time": "2015-12-09T13:27:42.635990+02:00",
+        "bidder": "f0d0d6e1cc66453097102b1d9d37c1fc",
+        "time": "2015-12-09T11:29:02.010127+00:00"
+      },
+      "turn_1": {
+        "amount": 26300.0,
+        "bid_time": "2015-12-09T13:25:11.869843+02:00",
+        "bidder": "52d324346769493dbc57ae7ba5a9bd8f",
+        "time": "2015-12-09T11:27:02.011641+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f0d0d6e1cc66453097102b1d9d37c1fc",
+        "time": "2015-12-09T11:17:02.011921+00:00"
+      },
+      "turn_1": {
+        "amount": 28643.0,
+        "bid_time": "2015-12-09T13:13:26.726897+02:00",
+        "bidder": "52d324346769493dbc57ae7ba5a9bd8f",
+        "time": "2015-12-09T11:15:02.011891+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "52d324346769493dbc57ae7ba5a9bd8f",
+          "amount": 26300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://paniapteka.ua",
+                "telephone": "+380443915081",
+                "name": "ТОВ ПАНІ АПТЕКА",
+                "email": "proglyada.oksana@paniapteka.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32920616",
+                "legalName": "ТОВ ПАНІ АПТЕКА"
+              },
+              "name": "ТОВ ПАНІ АПТЕКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08128, Київська область, Києво-Святошинський район, с. Мила, вул. Комарова, 23Л",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T13:25:11.869843+02:00"
+        },
+        {
+          "bidder": "f0d0d6e1cc66453097102b1d9d37c1fc",
+          "amount": 25851.71,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": "БаДМ-Б"
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:27:42.635990+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:29:03.720848+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T12:52:20.828446+02:00",
+          "amount": 28793.57,
+          "bidder": "52d324346769493dbc57ae7ba5a9bd8f"
+        },
+        {
+          "date": "2015-12-07T09:34:57.218994+02:00",
+          "amount": 27622.64,
+          "bidder": "f0d0d6e1cc66453097102b1d9d37c1fc"
+        }
+      ],
+      "time": "2015-12-09T11:08:02.004780+00:00"
+    }
+  },
+  "id": "110c17c080094b369fa6c3a5c9efbd3a",
+  "tenderId": "UA-2015-12-01-000085-b"
+}

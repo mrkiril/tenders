@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b8cb257f77ba4e0b80dd24694d4a594e",
+        "time": "2015-12-17T13:21:55.008901+00:00"
+      },
+      "turn_3": {
+        "bidder": "80bdeb931ef04ea4bb4468722283c981",
+        "time": "2015-12-17T13:23:55.010420+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb015c97acdd408da6711960e60af2ae",
+        "time": "2015-12-17T13:19:55.009768+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b8cb257f77ba4e0b80dd24694d4a594e",
+        "time": "2015-12-17T13:29:55.008694+00:00"
+      },
+      "turn_3": {
+        "bidder": "80bdeb931ef04ea4bb4468722283c981",
+        "time": "2015-12-17T13:31:55.008586+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb015c97acdd408da6711960e60af2ae",
+        "time": "2015-12-17T13:27:55.008540+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 9780.0,
+        "bid_time": "2015-12-17T15:12:17.502432+02:00",
+        "bidder": "80bdeb931ef04ea4bb4468722283c981",
+        "time": "2015-12-17T13:13:55.011812+00:00"
+      },
+      "turn_3": {
+        "bidder": "b8cb257f77ba4e0b80dd24694d4a594e",
+        "time": "2015-12-17T13:15:55.009112+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb015c97acdd408da6711960e60af2ae",
+        "time": "2015-12-17T13:11:55.012629+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eb015c97acdd408da6711960e60af2ae",
+          "amount": 12678.26,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T22:43:41.248551+02:00"
+        },
+        {
+          "bidder": "b8cb257f77ba4e0b80dd24694d4a594e",
+          "amount": 9790.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380999646401",
+                "name": "Юрий",
+                "email": "opt1@hydromax.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21870366",
+                "legalName": "Адитон ООО"
+              },
+              "name": "Адитон ООО",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T17:41:21.661338+02:00"
+        },
+        {
+          "bidder": "80bdeb931ef04ea4bb4468722283c981",
+          "amount": 9780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:12:17.502432+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:31:56.520665+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T22:43:41.248551+02:00",
+          "amount": 12678.26,
+          "bidder": "eb015c97acdd408da6711960e60af2ae"
+        },
+        {
+          "date": "2015-12-13T20:53:52.212544+02:00",
+          "amount": 12500.0,
+          "bidder": "80bdeb931ef04ea4bb4468722283c981"
+        },
+        {
+          "date": "2015-12-10T17:41:21.661338+02:00",
+          "amount": 9790.48,
+          "bidder": "b8cb257f77ba4e0b80dd24694d4a594e"
+        }
+      ],
+      "time": "2015-12-17T13:04:55.003917+00:00"
+    }
+  },
+  "id": "694a127cadd041eab66603c1aecdf323",
+  "tenderId": "UA-2015-12-08-000002-a"
+}

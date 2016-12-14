@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c11d3b621b4f41e392bfffc554682297",
+        "time": "2015-11-02T10:19:57.008362+00:00"
+      },
+      "turn_1": {
+        "bidder": "11f139c93ba64e6394364e0dbdeec21b",
+        "time": "2015-11-02T10:17:57.007694+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c11d3b621b4f41e392bfffc554682297",
+        "time": "2015-11-02T10:25:57.006950+00:00"
+      },
+      "turn_1": {
+        "bidder": "11f139c93ba64e6394364e0dbdeec21b",
+        "time": "2015-11-02T10:23:57.007892+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c11d3b621b4f41e392bfffc554682297",
+        "time": "2015-11-02T10:13:57.011594+00:00"
+      },
+      "turn_1": {
+        "bidder": "11f139c93ba64e6394364e0dbdeec21b",
+        "time": "2015-11-02T10:11:57.009993+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "11f139c93ba64e6394364e0dbdeec21b",
+          "amount": 15406.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.arti.com.ua",
+                "telephone": "+380577575156",
+                "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\"",
+                "email": "dozenkooi@arti.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25185087",
+                "legalName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\""
+              },
+              "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61001, г. Харьков,  ул. Плехановская, д.16-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T17:28:04.080661+02:00"
+        },
+        {
+          "bidder": "c11d3b621b4f41e392bfffc554682297",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T15:35:54.475086+02:00"
+        }
+      ],
+      "time": "2015-11-02T10:26:01.588313+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T17:28:04.080661+02:00",
+          "amount": 15406.0,
+          "bidder": "11f139c93ba64e6394364e0dbdeec21b"
+        },
+        {
+          "date": "2015-10-29T15:35:54.475086+02:00",
+          "amount": 15000.0,
+          "bidder": "c11d3b621b4f41e392bfffc554682297"
+        }
+      ],
+      "time": "2015-11-02T10:04:57.002193+00:00"
+    }
+  },
+  "id": "3cf44859894743628aff5c80bf056389",
+  "tenderId": "UA-2015-10-26-000278"
+}

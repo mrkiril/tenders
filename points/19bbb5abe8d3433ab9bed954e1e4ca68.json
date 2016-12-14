@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "815d3a8b47644b3fa3fd1f35ffa9da06",
+        "time": "2015-12-16T10:52:41.008745+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee92f5f96bab49769b24fa1fa61123a5",
+        "time": "2015-12-16T10:50:41.007013+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "815d3a8b47644b3fa3fd1f35ffa9da06",
+        "time": "2015-12-16T10:58:41.011989+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee92f5f96bab49769b24fa1fa61123a5",
+        "time": "2015-12-16T10:56:41.008656+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "815d3a8b47644b3fa3fd1f35ffa9da06",
+        "time": "2015-12-16T10:46:41.014718+00:00"
+      },
+      "turn_1": {
+        "amount": 870.0,
+        "bid_time": "2015-12-16T12:44:13.956821+02:00",
+        "bidder": "ee92f5f96bab49769b24fa1fa61123a5",
+        "time": "2015-12-16T10:44:41.009984+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ee92f5f96bab49769b24fa1fa61123a5",
+          "amount": 870.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673283644",
+                "name": "Людмила Давыдова",
+                "email": "davydova@womed.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38639339",
+                "legalName": "ТОВ \"Вест-Ост Медикал\""
+              },
+              "name": "ТОВ \"Вест-Ост Медикал\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "бульвар Лепсе, 6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-16T12:44:13.956821+02:00"
+        },
+        {
+          "bidder": "815d3a8b47644b3fa3fd1f35ffa9da06",
+          "amount": 430.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:03:00.905797+02:00"
+        }
+      ],
+      "time": "2015-12-16T10:58:41.801623+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T17:02:34.072562+02:00",
+          "amount": 930.0,
+          "bidder": "ee92f5f96bab49769b24fa1fa61123a5"
+        },
+        {
+          "date": "2015-12-15T12:03:00.905797+02:00",
+          "amount": 430.0,
+          "bidder": "815d3a8b47644b3fa3fd1f35ffa9da06"
+        }
+      ],
+      "time": "2015-12-16T10:37:41.004073+00:00"
+    }
+  },
+  "id": "19bbb5abe8d3433ab9bed954e1e4ca68",
+  "tenderId": "UA-2015-12-10-000196-a"
+}

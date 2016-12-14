@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ced7e26351ab46a39df648a73b660be6",
+        "time": "2015-10-20T09:56:42.008314+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e1d5956747e4cb3b2e97d3d3376284c",
+        "time": "2015-10-20T09:54:42.011309+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ced7e26351ab46a39df648a73b660be6",
+        "time": "2015-10-20T10:02:42.008159+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e1d5956747e4cb3b2e97d3d3376284c",
+        "time": "2015-10-20T10:00:42.010409+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3e1d5956747e4cb3b2e97d3d3376284c",
+        "time": "2015-10-20T09:50:42.007011+00:00"
+      },
+      "turn_1": {
+        "amount": 3900.0,
+        "bid_time": "2015-10-20T12:48:34.748667+03:00",
+        "bidder": "ced7e26351ab46a39df648a73b660be6",
+        "time": "2015-10-20T09:48:42.011149+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3e1d5956747e4cb3b2e97d3d3376284c",
+          "amount": 3996.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "tender@ami.ua",
+                "name": "Сиденко Владимирович Сергей"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32427895",
+                "legalName": "Товариство з обмеженою відповідальністю \"АМІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АМІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська",
+                "streetAddress": "Волоська/ Іллінська, 6/14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T11:50:46.166941+03:00"
+        },
+        {
+          "bidder": "ced7e26351ab46a39df648a73b660be6",
+          "amount": 3900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nika.vin.ua/",
+                "faxNumber": "0432554188",
+                "telephone": "0504611387",
+                "name": "Мудраченко Віктор Григорович",
+                "email": "mvic@vinnitsa.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13304598",
+                "legalName": "ТОВ НІКА"
+              },
+              "name": "ТОВ НІКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21009",
+                "region": "Вінницька",
+                "streetAddress": "Київська 14Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T12:48:34.748667+03:00"
+        }
+      ],
+      "time": "2015-10-20T10:02:59.305338+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T10:04:17.378325+03:00",
+          "amount": 4320.0,
+          "bidder": "ced7e26351ab46a39df648a73b660be6"
+        },
+        {
+          "date": "2015-10-16T11:50:46.166941+03:00",
+          "amount": 3996.2,
+          "bidder": "3e1d5956747e4cb3b2e97d3d3376284c"
+        }
+      ],
+      "time": "2015-10-20T09:41:42.003396+00:00"
+    }
+  },
+  "id": "24c0fd3c75db47ceaac964b1020acffc",
+  "tenderId": "UA-2015-10-08-000167"
+}

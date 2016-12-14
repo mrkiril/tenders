@@ -1,0 +1,305 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "b91f0144cdea47f4ab7da0b9ea647bda",
+        "time": "2015-11-19T11:03:55.008523+00:00"
+      },
+      "turn_4": {
+        "amount": 121900.0,
+        "bid_time": "2015-11-19T12:59:27.638109+02:00",
+        "bidder": "27b7f9a950264266a99a84c6507204f2",
+        "time": "2015-11-19T10:59:55.040768+00:00"
+      },
+      "turn_5": {
+        "bidder": "2b76a8d4fec9432b85e9bb89ca638c8b",
+        "time": "2015-11-19T11:01:55.011435+00:00"
+      },
+      "turn_2": {
+        "amount": 132000.0,
+        "bid_time": "2015-11-19T12:54:42.903542+02:00",
+        "bidder": "1fd217d60805439ab6e4ff80b5b3d2e8",
+        "time": "2015-11-19T10:55:55.017622+00:00"
+      },
+      "turn_3": {
+        "bidder": "93f63d7737e64c31a485341aec5d2b24",
+        "time": "2015-11-19T10:57:55.010345+00:00"
+      },
+      "turn_1": {
+        "amount": 122000.0,
+        "bid_time": "2015-11-19T12:53:43.119005+02:00",
+        "bidder": "88d8917508ef431e8bef8bd37233a2d3",
+        "time": "2015-11-19T10:53:55.015451+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "b91f0144cdea47f4ab7da0b9ea647bda",
+        "time": "2015-11-19T11:17:55.008586+00:00"
+      },
+      "turn_4": {
+        "bidder": "27b7f9a950264266a99a84c6507204f2",
+        "time": "2015-11-19T11:13:55.008510+00:00"
+      },
+      "turn_5": {
+        "bidder": "2b76a8d4fec9432b85e9bb89ca638c8b",
+        "time": "2015-11-19T11:15:55.007994+00:00"
+      },
+      "turn_2": {
+        "bidder": "93f63d7737e64c31a485341aec5d2b24",
+        "time": "2015-11-19T11:09:55.008278+00:00"
+      },
+      "turn_3": {
+        "bidder": "88d8917508ef431e8bef8bd37233a2d3",
+        "time": "2015-11-19T11:11:55.007884+00:00"
+      },
+      "turn_1": {
+        "amount": 129000.0,
+        "bid_time": "2015-11-19T13:07:43.212727+02:00",
+        "bidder": "1fd217d60805439ab6e4ff80b5b3d2e8",
+        "time": "2015-11-19T11:07:55.010696+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "b91f0144cdea47f4ab7da0b9ea647bda",
+        "time": "2015-11-19T10:49:55.011411+00:00"
+      },
+      "turn_4": {
+        "bidder": "93f63d7737e64c31a485341aec5d2b24",
+        "time": "2015-11-19T10:45:55.012801+00:00"
+      },
+      "turn_5": {
+        "bidder": "2b76a8d4fec9432b85e9bb89ca638c8b",
+        "time": "2015-11-19T10:47:55.015577+00:00"
+      },
+      "turn_2": {
+        "amount": 136000.0,
+        "bid_time": "2015-11-19T12:40:37.888096+02:00",
+        "bidder": "88d8917508ef431e8bef8bd37233a2d3",
+        "time": "2015-11-19T10:41:55.011090+00:00"
+      },
+      "turn_3": {
+        "amount": 128000.0,
+        "bid_time": "2015-11-19T12:43:20.772348+02:00",
+        "bidder": "27b7f9a950264266a99a84c6507204f2",
+        "time": "2015-11-19T10:43:55.013065+00:00"
+      },
+      "turn_1": {
+        "amount": 134000.0,
+        "bid_time": "2015-11-19T12:38:34.561278+02:00",
+        "bidder": "1fd217d60805439ab6e4ff80b5b3d2e8",
+        "time": "2015-11-19T10:39:55.015294+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1fd217d60805439ab6e4ff80b5b3d2e8",
+          "amount": 129000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380636188564",
+                "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+                "email": "elena.musienko@it-solutions.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38239436",
+                "legalName": "ТОВ \"АЙТІ-СОЛЮШНС\""
+              },
+              "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01004, м. Київ, \r\n\r\nвул. Крутий Узвіз, буд. 6/2А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-19T13:07:43.212727+02:00"
+        },
+        {
+          "bidder": "93f63d7737e64c31a485341aec5d2b24",
+          "amount": 128250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505606669",
+                "name": "Богдан Копыл",
+                "email": "bohdan.kopyl@megatech.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32382708",
+                "legalName": "ТОВ \"Мега Текнолоджи Груп\""
+              },
+              "name": "ТОВ \"Мега Текнолоджи Груп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01042",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Патриса Лумумбы 3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:33:53.142350+02:00"
+        },
+        {
+          "bidder": "88d8917508ef431e8bef8bd37233a2d3",
+          "amount": 122000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sedna.ua",
+                "telephone": "+380632200194",
+                "name": "Товариство з Обмеженою Відповідальністю  \"СЕДНА Н\"",
+                "email": "wat@sedna.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38438326",
+                "legalName": "Товариство з Обмеженою Відповідальністю  \"СЕДНА Н\""
+              },
+              "name": "Товариство з Обмеженою Відповідальністю  \"СЕДНА Н\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65113, м. Одеса, пр-т. Академіка Глушка , 11-И",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-19T12:53:43.119005+02:00"
+        },
+        {
+          "bidder": "27b7f9a950264266a99a84c6507204f2",
+          "amount": 121900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://iadmin.com.ua/",
+                "telephone": "0503847438",
+                "name": "Ребров Сергеевич Роман",
+                "email": "aleksandr@ns-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2893301199",
+                "legalName": "Фізична особа-підприємець Ребров Роман Сергійович"
+              },
+              "name": "Фізична особа-підприємець Ребров Роман Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "71504",
+                "region": "Запорізька",
+                "streetAddress": "вул. Воїнів-інтернаціоналістів, буд. 40, кв. 39",
+                "locality": "Енергодар"
+              }
+            }
+          ],
+          "time": "2015-11-19T12:59:27.638109+02:00"
+        },
+        {
+          "bidder": "2b76a8d4fec9432b85e9bb89ca638c8b",
+          "amount": 115000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://google.com",
+                "faxNumber": "0674648985",
+                "telephone": "0674648985",
+                "name": "Чмир Юрий Сергеевич",
+                "email": "solov@ns-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2358205299",
+                "legalName": "Фізична особа-підприємець  Чмир Юрій Сергійович"
+              },
+              "name": "Фізична особа-підприємець  Чмир Юрій Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03057",
+                "region": "Київська",
+                "streetAddress": "Металістів, 11-А, кв. 41,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-17T13:03:32.135485+02:00"
+        },
+        {
+          "bidder": "b91f0144cdea47f4ab7da0b9ea647bda",
+          "amount": 22850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.comtrade.com.ua/",
+                "telephone": "0442392656",
+                "name": "Галіневський Ян Андрійович",
+                "email": "yan@comtrade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37140538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІВІ ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІВІ ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "вул. Червоноткацька , 42б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T17:46:06.588019+02:00"
+        }
+      ],
+      "time": "2015-11-19T11:17:58.528158+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T16:53:32.437051+02:00",
+          "amount": 137940.0,
+          "bidder": "1fd217d60805439ab6e4ff80b5b3d2e8"
+        },
+        {
+          "date": "2015-11-18T17:31:44.189679+02:00",
+          "amount": 137839.1,
+          "bidder": "88d8917508ef431e8bef8bd37233a2d3"
+        },
+        {
+          "date": "2015-11-17T13:05:20.783748+02:00",
+          "amount": 135000.0,
+          "bidder": "27b7f9a950264266a99a84c6507204f2"
+        },
+        {
+          "date": "2015-11-17T12:33:53.142350+02:00",
+          "amount": 128250.0,
+          "bidder": "93f63d7737e64c31a485341aec5d2b24"
+        },
+        {
+          "date": "2015-11-17T13:03:32.135485+02:00",
+          "amount": 115000.0,
+          "bidder": "2b76a8d4fec9432b85e9bb89ca638c8b"
+        },
+        {
+          "date": "2015-11-18T17:46:06.588019+02:00",
+          "amount": 22850.0,
+          "bidder": "b91f0144cdea47f4ab7da0b9ea647bda"
+        }
+      ],
+      "time": "2015-11-19T10:32:55.003539+00:00"
+    }
+  },
+  "id": "11c5f726631c4c27b12911add437c3a6",
+  "tenderId": "UA-2015-11-12-000029-b"
+}

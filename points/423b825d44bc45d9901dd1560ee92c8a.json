@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 13395.0,
+        "bid_time": "2015-07-02T12:45:21.662081+03:00",
+        "bidder": "1bae197721a54b0c9c09b6b5a7b5d9b9",
+        "time": "2015-07-02T09:47:00.026904+00:00"
+      },
+      "turn_3": {
+        "bidder": "e004a7b55d9e4d7784d8a176fbf70fec",
+        "time": "2015-07-02T09:49:00.094231+00:00"
+      },
+      "turn_1": {
+        "bidder": "adf4b0a2164c409f8df5ea28d24cdc47",
+        "time": "2015-07-02T09:45:00.211127+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e004a7b55d9e4d7784d8a176fbf70fec",
+        "time": "2015-07-02T09:55:00.067209+00:00"
+      },
+      "turn_3": {
+        "bidder": "1bae197721a54b0c9c09b6b5a7b5d9b9",
+        "time": "2015-07-02T09:57:00.031214+00:00"
+      },
+      "turn_1": {
+        "bidder": "adf4b0a2164c409f8df5ea28d24cdc47",
+        "time": "2015-07-02T09:53:00.081202+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 13695.0,
+        "bid_time": "2015-07-02T12:37:29.048587+03:00",
+        "bidder": "1bae197721a54b0c9c09b6b5a7b5d9b9",
+        "time": "2015-07-02T09:39:00.045566+00:00"
+      },
+      "turn_3": {
+        "amount": 13580.0,
+        "bid_time": "2015-07-02T12:40:01.046898+03:00",
+        "bidder": "e004a7b55d9e4d7784d8a176fbf70fec",
+        "time": "2015-07-02T09:41:00.073917+00:00"
+      },
+      "turn_1": {
+        "bidder": "adf4b0a2164c409f8df5ea28d24cdc47",
+        "time": "2015-07-02T09:37:00.039774+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "adf4b0a2164c409f8df5ea28d24cdc47",
+          "amount": 14400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://assortiment.kiev.ua",
+                "faxNumber": "5285766",
+                "telephone": "3384380",
+                "name": "Свистильник Юрий Анатольевич",
+                "email": "uas@assortiment.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33739247",
+                "legalName": "ООО \"Торговый Дом \"Ассортимент\""
+              },
+              "name": "ООО \"Торговый Дом \"Ассортимент\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02232",
+                "region": "Київська",
+                "streetAddress": "ул. Бальзака, 54а, кв. 155",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-30T11:00:40.489183+03:00"
+        },
+        {
+          "bidder": "e004a7b55d9e4d7784d8a176fbf70fec",
+          "amount": 13580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T12:40:01.046898+03:00"
+        },
+        {
+          "bidder": "1bae197721a54b0c9c09b6b5a7b5d9b9",
+          "amount": 13395.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.infotrade.com.ua/",
+                "faxNumber": "044201-15-19",
+                "telephone": "044357-23-23",
+                "name": "Товариство з обмеженою відповідальністю \"Інфотрейд\"",
+                "email": "info@infotrade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30969602",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інфотрейд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інфотрейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул.Межигірська,82А,корп.Б,оф.306",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T12:45:21.662081+03:00"
+        }
+      ],
+      "time": "2015-07-02T09:57:02.164223+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-30T11:00:40.489183+03:00",
+          "amount": 14400.0,
+          "bidder": "adf4b0a2164c409f8df5ea28d24cdc47"
+        },
+        {
+          "date": "2015-07-01T17:27:00.649484+03:00",
+          "amount": 13995.0,
+          "bidder": "1bae197721a54b0c9c09b6b5a7b5d9b9"
+        },
+        {
+          "date": "2015-07-01T17:33:19.352465+03:00",
+          "amount": 13880.4,
+          "bidder": "e004a7b55d9e4d7784d8a176fbf70fec"
+        }
+      ],
+      "time": "2015-07-02T09:30:00.004832+00:00"
+    }
+  },
+  "id": "423b825d44bc45d9901dd1560ee92c8a",
+  "tenderId": "UA-2015-06-26-000029"
+}

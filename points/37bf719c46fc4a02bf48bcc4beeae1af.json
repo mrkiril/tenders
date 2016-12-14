@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "74a8c6e6b1bd481ba138dbd143bc59cf",
+        "time": "2015-11-10T11:59:59.009778+00:00"
+      },
+      "turn_3": {
+        "amount": 3452.0,
+        "bid_time": "2015-11-10T14:01:49.684885+02:00",
+        "bidder": "f56d04a31a964158b8cdea55f1221daa",
+        "time": "2015-11-10T12:01:59.008580+00:00"
+      },
+      "turn_1": {
+        "amount": 3565.0,
+        "bid_time": "2015-11-10T13:57:05.838497+02:00",
+        "bidder": "ba414347b5c841b5a4086bf8e393cfc4",
+        "time": "2015-11-10T11:57:59.008886+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ba414347b5c841b5a4086bf8e393cfc4",
+        "time": "2015-11-10T12:07:59.007998+00:00"
+      },
+      "turn_3": {
+        "bidder": "f56d04a31a964158b8cdea55f1221daa",
+        "time": "2015-11-10T12:09:59.007178+00:00"
+      },
+      "turn_1": {
+        "bidder": "74a8c6e6b1bd481ba138dbd143bc59cf",
+        "time": "2015-11-10T12:05:59.009011+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3567.0,
+        "bid_time": "2015-11-10T13:50:47.154570+02:00",
+        "bidder": "74a8c6e6b1bd481ba138dbd143bc59cf",
+        "time": "2015-11-10T11:51:59.010956+00:00"
+      },
+      "turn_3": {
+        "amount": 3525.0,
+        "bid_time": "2015-11-10T13:52:39.640319+02:00",
+        "bidder": "f56d04a31a964158b8cdea55f1221daa",
+        "time": "2015-11-10T11:53:59.011213+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba414347b5c841b5a4086bf8e393cfc4",
+        "time": "2015-11-10T11:49:59.007923+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "74a8c6e6b1bd481ba138dbd143bc59cf",
+          "amount": 3567.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0562-340798",
+                "name": "Загорулько Ігор Валерійович",
+                "email": "igzagor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2779907291",
+                "legalName": "ФОП Загорулько Ігор Валерійович"
+              },
+              "name": "ФОП Загорулько Ігор Валерійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "вул. Кленова, 1, кв. 60",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-10T13:50:47.154570+02:00"
+        },
+        {
+          "bidder": "ba414347b5c841b5a4086bf8e393cfc4",
+          "amount": 3565.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-10T13:57:05.838497+02:00"
+        },
+        {
+          "bidder": "f56d04a31a964158b8cdea55f1221daa",
+          "amount": 3452.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "URA Олейников",
+                "email": "sin725@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34806111",
+                "legalName": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "пр Визволителів буд. 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-10T14:01:49.684885+02:00"
+        }
+      ],
+      "time": "2015-11-10T12:10:03.542617+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T06:16:02.248762+02:00",
+          "amount": 3649.0,
+          "bidder": "ba414347b5c841b5a4086bf8e393cfc4"
+        },
+        {
+          "date": "2015-11-05T17:34:41.231112+02:00",
+          "amount": 3640.0,
+          "bidder": "74a8c6e6b1bd481ba138dbd143bc59cf"
+        },
+        {
+          "date": "2015-11-04T21:26:28.210160+02:00",
+          "amount": 3598.0,
+          "bidder": "f56d04a31a964158b8cdea55f1221daa"
+        }
+      ],
+      "time": "2015-11-10T11:42:59.003266+00:00"
+    }
+  },
+  "id": "37bf719c46fc4a02bf48bcc4beeae1af",
+  "tenderId": "UA-2015-10-30-000237"
+}

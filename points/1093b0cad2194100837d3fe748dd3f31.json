@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8486b48cd83740edab997848d754be0a",
+        "time": "2015-10-26T13:50:00.010078+00:00"
+      },
+      "turn_3": {
+        "bidder": "9173dc4c527245e9b0e63aa5fa4147cd",
+        "time": "2015-10-26T13:52:00.008260+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d0367567a924fb1b89325c3be28dd48",
+        "time": "2015-10-26T13:48:00.009594+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 600.0,
+        "bid_time": "2015-10-26T15:56:08.163945+02:00",
+        "bidder": "8486b48cd83740edab997848d754be0a",
+        "time": "2015-10-26T13:58:00.011259+00:00"
+      },
+      "turn_3": {
+        "amount": 720.0,
+        "bid_time": "2015-10-26T15:58:38.557200+02:00",
+        "bidder": "9173dc4c527245e9b0e63aa5fa4147cd",
+        "time": "2015-10-26T14:00:00.009687+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d0367567a924fb1b89325c3be28dd48",
+        "time": "2015-10-26T13:56:00.011663+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 760.0,
+        "bid_time": "2015-10-26T15:40:25.320568+02:00",
+        "bidder": "8486b48cd83740edab997848d754be0a",
+        "time": "2015-10-26T13:42:00.018330+00:00"
+      },
+      "turn_3": {
+        "amount": 740.0,
+        "bid_time": "2015-10-26T15:42:52.355948+02:00",
+        "bidder": "9173dc4c527245e9b0e63aa5fa4147cd",
+        "time": "2015-10-26T13:44:00.008518+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d0367567a924fb1b89325c3be28dd48",
+        "time": "2015-10-26T13:40:00.017282+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8d0367567a924fb1b89325c3be28dd48",
+          "amount": 980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-23T13:36:42.713056+03:00"
+        },
+        {
+          "bidder": "9173dc4c527245e9b0e63aa5fa4147cd",
+          "amount": 720.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3080504454236",
+                "name": "ООО \"ТД \"Техно-Синтез\"",
+                "email": "office@sintez-oil.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38364904",
+                "legalName": "ООО \"ТД \"Техно-Синтез\""
+              },
+              "name": "ООО \"ТД \"Техно-Синтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Подлесная 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T15:58:38.557200+02:00"
+        },
+        {
+          "bidder": "8486b48cd83740edab997848d754be0a",
+          "amount": 600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503803596, +380445911003",
+                "name": "Юрий Лысенко",
+                "email": "lysenko76@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО ОилТрейдБатери\"",
+                "id": "39302697",
+                "uri": "http://oiltreydbateri.prom.ua"
+              },
+              "name": "ТОВ \"ООО ОилТрейдБатери\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Транспортная,1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-26T15:56:08.163945+02:00"
+        }
+      ],
+      "time": "2015-10-26T14:00:42.259244+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T13:36:42.713056+03:00",
+          "amount": 980.0,
+          "bidder": "8d0367567a924fb1b89325c3be28dd48"
+        },
+        {
+          "date": "2015-10-22T16:26:12.801431+03:00",
+          "amount": 950.0,
+          "bidder": "8486b48cd83740edab997848d754be0a"
+        },
+        {
+          "date": "2015-10-23T15:41:32.323864+03:00",
+          "amount": 800.0,
+          "bidder": "9173dc4c527245e9b0e63aa5fa4147cd"
+        }
+      ],
+      "time": "2015-10-26T13:33:00.004177+00:00"
+    }
+  },
+  "id": "1093b0cad2194100837d3fe748dd3f31",
+  "tenderId": "UA-2015-10-21-000075"
+}

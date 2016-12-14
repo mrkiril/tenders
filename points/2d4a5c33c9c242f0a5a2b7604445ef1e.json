@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "799a1f057cc04d49ab6c6da0881d8ecd",
+        "time": "2015-10-26T10:26:31.008352+00:00"
+      },
+      "turn_1": {
+        "bidder": "30da8346c06f4fe4a0484397e060a6a6",
+        "time": "2015-10-26T10:24:31.007297+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "799a1f057cc04d49ab6c6da0881d8ecd",
+        "time": "2015-10-26T10:32:31.008121+00:00"
+      },
+      "turn_1": {
+        "bidder": "30da8346c06f4fe4a0484397e060a6a6",
+        "time": "2015-10-26T10:30:31.008101+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "799a1f057cc04d49ab6c6da0881d8ecd",
+        "time": "2015-10-26T10:20:31.007911+00:00"
+      },
+      "turn_1": {
+        "bidder": "30da8346c06f4fe4a0484397e060a6a6",
+        "time": "2015-10-26T10:18:31.008147+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30da8346c06f4fe4a0484397e060a6a6",
+          "amount": 4700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380512374682",
+                "name": "Божкова Ганна Федорівна",
+                "email": "bozhkov23@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2139002144"
+              },
+              "name": "ФОП Божкова Ганна Федорівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська область",
+                "streetAddress": "Фалєєвська 1 кв 15",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-10-20T16:07:12.919283+03:00"
+        },
+        {
+          "bidder": "799a1f057cc04d49ab6c6da0881d8ecd",
+          "amount": 4525.38,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-21T18:05:11.598479+03:00"
+        }
+      ],
+      "time": "2015-10-26T10:32:34.128639+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T16:07:12.919283+03:00",
+          "amount": 4700.0,
+          "bidder": "30da8346c06f4fe4a0484397e060a6a6"
+        },
+        {
+          "date": "2015-10-21T18:05:11.598479+03:00",
+          "amount": 4525.38,
+          "bidder": "799a1f057cc04d49ab6c6da0881d8ecd"
+        }
+      ],
+      "time": "2015-10-26T10:11:31.004106+00:00"
+    }
+  },
+  "id": "2d4a5c33c9c242f0a5a2b7604445ef1e",
+  "tenderId": "UA-2015-10-15-000070"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "32544c5e19984c61a4cc9a8331ac0d75",
+        "time": "2015-11-18T11:20:41.009560+00:00"
+      },
+      "turn_1": {
+        "bidder": "4347d1f12ad7403ab2a73e13bb3d5312",
+        "time": "2015-11-18T11:18:41.008529+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "32544c5e19984c61a4cc9a8331ac0d75",
+        "time": "2015-11-18T11:26:41.008218+00:00"
+      },
+      "turn_1": {
+        "bidder": "4347d1f12ad7403ab2a73e13bb3d5312",
+        "time": "2015-11-18T11:24:41.007855+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "32544c5e19984c61a4cc9a8331ac0d75",
+        "time": "2015-11-18T11:14:41.031237+00:00"
+      },
+      "turn_1": {
+        "bidder": "4347d1f12ad7403ab2a73e13bb3d5312",
+        "time": "2015-11-18T11:12:41.008504+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4347d1f12ad7403ab2a73e13bb3d5312",
+          "amount": 47568.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-17T09:47:11.931671+02:00"
+        },
+        {
+          "bidder": "32544c5e19984c61a4cc9a8331ac0d75",
+          "amount": 18516.67,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675762431",
+                "name": "Ольга",
+                "email": "odessa@come-for.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33337750",
+                "legalName": "ТОВ \"КОМ-ФОР\""
+              },
+              "name": "ТОВ \"КОМ-ФОР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T11:00:53.493899+02:00"
+        }
+      ],
+      "time": "2015-11-18T11:26:46.751979+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T09:47:11.931671+02:00",
+          "amount": 47568.0,
+          "bidder": "4347d1f12ad7403ab2a73e13bb3d5312"
+        },
+        {
+          "date": "2015-11-17T11:00:53.493899+02:00",
+          "amount": 18516.67,
+          "bidder": "32544c5e19984c61a4cc9a8331ac0d75"
+        }
+      ],
+      "time": "2015-11-18T11:05:41.004868+00:00"
+    }
+  },
+  "id": "3f190590dd6e43a08a6958bc4522f9c6",
+  "tenderId": "UA-2015-11-06-000043-a"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bf3fd3581c894f6f81e10edc2a6f0c19",
+        "time": "2015-08-25T08:45:00.187189+00:00"
+      },
+      "turn_1": {
+        "bidder": "24592d411172464b91f7f61b951e10cd",
+        "time": "2015-08-25T08:43:00.023208+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bf3fd3581c894f6f81e10edc2a6f0c19",
+        "time": "2015-08-25T08:51:00.047011+00:00"
+      },
+      "turn_1": {
+        "bidder": "24592d411172464b91f7f61b951e10cd",
+        "time": "2015-08-25T08:49:00.046375+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bf3fd3581c894f6f81e10edc2a6f0c19",
+        "time": "2015-08-25T08:39:00.050702+00:00"
+      },
+      "turn_1": {
+        "bidder": "24592d411172464b91f7f61b951e10cd",
+        "time": "2015-08-25T08:37:00.106422+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "24592d411172464b91f7f61b951e10cd",
+          "amount": 4770.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800567969044",
+                "name": "Общество с Ограниченною Ответственностью \"КОНСТАНТА\"",
+                "email": "DIMUSYKA@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31951140",
+                "legalName": "Общество с Ограниченною Ответственностью \"КОНСТАНТА\""
+              },
+              "name": "Общество с Ограниченною Ответственностью \"КОНСТАНТА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49054, Дніпропетровська обл., \r\nм. Дніпропетровськ, пр.-т Кірова, буд.46",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T11:50:18.086617+03:00"
+        },
+        {
+          "bidder": "bf3fd3581c894f6f81e10edc2a6f0c19",
+          "amount": 2390.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tehnovam.com.ua",
+                "telephone": "+380983586816",
+                "name": "ЧПШвайко",
+                "email": "sergei-tmt@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2750412976",
+                "legalName": "ЧПШвайко"
+              },
+              "name": "ЧПШвайко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Узвіз Калинівський, 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T08:50:52.395312+03:00"
+        }
+      ],
+      "time": "2015-08-25T08:51:07.844329+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T11:50:18.086617+03:00",
+          "amount": 4770.0,
+          "bidder": "24592d411172464b91f7f61b951e10cd"
+        },
+        {
+          "date": "2015-08-20T08:50:52.395312+03:00",
+          "amount": 2390.0,
+          "bidder": "bf3fd3581c894f6f81e10edc2a6f0c19"
+        }
+      ],
+      "time": "2015-08-25T08:30:00.008036+00:00"
+    }
+  },
+  "id": "72de6ccfe2564e1cb2087953de7ead56",
+  "tenderId": "UA-2015-08-17-000083"
+}

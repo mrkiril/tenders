@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9ed2f25068f248a1a3a63bcbf0b28ab3",
+        "time": "2015-08-21T09:45:00.025389+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bfb14c110d742e1b5c5d8a27d33d9ef",
+        "time": "2015-08-21T09:43:00.023547+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1450.0,
+        "bid_time": "2015-08-21T12:50:43.255904+03:00",
+        "bidder": "9ed2f25068f248a1a3a63bcbf0b28ab3",
+        "time": "2015-08-21T09:51:00.018177+00:00"
+      },
+      "turn_1": {
+        "amount": 1455.0,
+        "bid_time": "2015-08-21T12:47:09.826467+03:00",
+        "bidder": "2bfb14c110d742e1b5c5d8a27d33d9ef",
+        "time": "2015-08-21T09:49:00.021211+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9ed2f25068f248a1a3a63bcbf0b28ab3",
+        "time": "2015-08-21T09:39:00.020105+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bfb14c110d742e1b5c5d8a27d33d9ef",
+        "time": "2015-08-21T09:37:00.016101+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2bfb14c110d742e1b5c5d8a27d33d9ef",
+          "amount": 1455.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444072086",
+                "name": "Приватне підприємство \"Промбудсервіс\"",
+                "email": "Prombudservis2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32739953",
+                "legalName": "Приватне підприємство \"Промбудсервіс\""
+              },
+              "name": "Приватне підприємство \"Промбудсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08150,Київська область,Києво-Святошинський район,м.Боярка,вул.Крилова,буд.4-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-21T12:47:09.826467+03:00"
+        },
+        {
+          "bidder": "9ed2f25068f248a1a3a63bcbf0b28ab3",
+          "amount": 1450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-21T12:50:43.255904+03:00"
+        }
+      ],
+      "time": "2015-08-21T09:51:01.311562+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T15:41:49.697611+03:00",
+          "amount": 2400.0,
+          "bidder": "2bfb14c110d742e1b5c5d8a27d33d9ef"
+        },
+        {
+          "date": "2015-08-19T15:41:42.797190+03:00",
+          "amount": 1600.0,
+          "bidder": "9ed2f25068f248a1a3a63bcbf0b28ab3"
+        }
+      ],
+      "time": "2015-08-21T09:30:00.001702+00:00"
+    }
+  },
+  "id": "1c866d3dea87476c877d494a9a08217d",
+  "tenderId": "UA-2015-08-17-000036"
+}

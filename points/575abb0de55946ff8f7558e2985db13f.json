@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "11e3b1d394c14cf689ca3bcd843c8a7e",
+        "time": "2015-11-24T12:19:33.021435+00:00"
+      },
+      "turn_1": {
+        "amount": 1800.0,
+        "bid_time": "2015-11-24T14:16:04.524020+02:00",
+        "bidder": "5faa0f1eeebf4c53a9bea05e0c33be6e",
+        "time": "2015-11-24T12:17:33.008824+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5faa0f1eeebf4c53a9bea05e0c33be6e",
+        "time": "2015-11-24T12:25:33.014654+00:00"
+      },
+      "turn_1": {
+        "bidder": "11e3b1d394c14cf689ca3bcd843c8a7e",
+        "time": "2015-11-24T12:23:33.008048+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2190.0,
+        "bid_time": "2015-11-24T14:12:00.207780+02:00",
+        "bidder": "11e3b1d394c14cf689ca3bcd843c8a7e",
+        "time": "2015-11-24T12:13:33.009094+00:00"
+      },
+      "turn_1": {
+        "amount": 2200.0,
+        "bid_time": "2015-11-24T14:10:08.606223+02:00",
+        "bidder": "5faa0f1eeebf4c53a9bea05e0c33be6e",
+        "time": "2015-11-24T12:11:33.010107+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "11e3b1d394c14cf689ca3bcd843c8a7e",
+          "amount": 2190.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0674413319",
+                "telephone": "0678330589",
+                "name": "Кучерук Світлана Петрівна",
+                "email": "3836853@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38637792",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖЄВРОБУД\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖЄВРОБУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "вулиця Магнітогорська, 1-І",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T14:12:00.207780+02:00"
+        },
+        {
+          "bidder": "5faa0f1eeebf4c53a9bea05e0c33be6e",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0445304381",
+                "telephone": "0445304381",
+                "name": "Коломієць Олександр Михайлович",
+                "email": "avrora_term@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34840889",
+                "legalName": "Товариство з обмеженою відповідальністю \"Аврора Терм\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Аврора Терм\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02232",
+                "region": "Київська",
+                "streetAddress": "Закревського, 75/2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T14:16:04.524020+02:00"
+        }
+      ],
+      "time": "2015-11-24T12:25:35.194378+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-20T14:55:00.154442+02:00",
+          "amount": 2560.0,
+          "bidder": "5faa0f1eeebf4c53a9bea05e0c33be6e"
+        },
+        {
+          "date": "2015-11-23T12:33:02.892481+02:00",
+          "amount": 2294.42,
+          "bidder": "11e3b1d394c14cf689ca3bcd843c8a7e"
+        }
+      ],
+      "time": "2015-11-24T12:04:33.003997+00:00"
+    }
+  },
+  "id": "575abb0de55946ff8f7558e2985db13f",
+  "tenderId": "UA-2015-11-17-000147-b"
+}

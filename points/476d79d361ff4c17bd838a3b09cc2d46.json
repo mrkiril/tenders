@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f527b852b2fe4d5abe78f18f00a38e4d",
+        "time": "2015-10-09T09:45:27.008416+00:00"
+      },
+      "turn_1": {
+        "bidder": "8fde437841344f4782e5cf1c3c9b2876",
+        "time": "2015-10-09T09:43:27.008030+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 29800.0,
+        "bid_time": "2015-10-09T12:50:30.359732+03:00",
+        "bidder": "f527b852b2fe4d5abe78f18f00a38e4d",
+        "time": "2015-10-09T09:51:27.009589+00:00"
+      },
+      "turn_1": {
+        "amount": 38730.0,
+        "bid_time": "2015-10-09T12:47:41.477294+03:00",
+        "bidder": "8fde437841344f4782e5cf1c3c9b2876",
+        "time": "2015-10-09T09:49:27.009327+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 29900.0,
+        "bid_time": "2015-10-09T12:38:59.923854+03:00",
+        "bidder": "f527b852b2fe4d5abe78f18f00a38e4d",
+        "time": "2015-10-09T09:39:27.009268+00:00"
+      },
+      "turn_1": {
+        "bidder": "8fde437841344f4782e5cf1c3c9b2876",
+        "time": "2015-10-09T09:37:27.009849+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8fde437841344f4782e5cf1c3c9b2876",
+          "amount": 38730.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675381010",
+                "name": "Богдан",
+                "email": "mirokon.com.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ЧП \"ЗОРЯ СОЮЗ\"",
+                "id": "39329965",
+                "uri": "http://mir-okon.in.ua"
+              },
+              "name": "ЧП \"ЗОРЯ СОЮЗ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "",
+                "streetAddress": "ул. Рабочая 152",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T12:47:41.477294+03:00"
+        },
+        {
+          "bidder": "f527b852b2fe4d5abe78f18f00a38e4d",
+          "amount": 29800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vindek.net",
+                "telephone": "+380442214710",
+                "name": "Соколов Віталій Юрійович",
+                "email": "vindekua@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2806805811"
+              },
+              "name": "ФОП Соколов Віталій Юрійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09100",
+                "region": "Київська область",
+                "streetAddress": "вул. Гайок, буд. 237, кв. 42",
+                "locality": "місто Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-10-09T12:50:30.359732+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:51:32.210430+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T16:54:39.703779+03:00",
+          "amount": 41120.0,
+          "bidder": "8fde437841344f4782e5cf1c3c9b2876"
+        },
+        {
+          "date": "2015-10-02T22:17:39.265269+03:00",
+          "amount": 30000.0,
+          "bidder": "f527b852b2fe4d5abe78f18f00a38e4d"
+        }
+      ],
+      "time": "2015-10-09T09:30:27.004866+00:00"
+    }
+  },
+  "id": "476d79d361ff4c17bd838a3b09cc2d46",
+  "tenderId": "UA-2015-09-29-000214"
+}

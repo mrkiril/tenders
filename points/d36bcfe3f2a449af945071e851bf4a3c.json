@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c0c3ac8cc61b46ed9b11c66a320c6416",
+        "time": "2015-10-23T12:00:02.008305+00:00"
+      },
+      "turn_3": {
+        "bidder": "6fb86c20c94346f6a1801edb0ed41623",
+        "time": "2015-10-23T12:02:02.007552+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1b711469f154bedb70be45b0fbdecaf",
+        "time": "2015-10-23T11:58:02.008064+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c0c3ac8cc61b46ed9b11c66a320c6416",
+        "time": "2015-10-23T12:08:02.009477+00:00"
+      },
+      "turn_3": {
+        "bidder": "6fb86c20c94346f6a1801edb0ed41623",
+        "time": "2015-10-23T12:10:02.007775+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1b711469f154bedb70be45b0fbdecaf",
+        "time": "2015-10-23T12:06:02.006902+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d1b711469f154bedb70be45b0fbdecaf",
+        "time": "2015-10-23T11:52:02.215234+00:00"
+      },
+      "turn_3": {
+        "bidder": "c0c3ac8cc61b46ed9b11c66a320c6416",
+        "time": "2015-10-23T11:54:02.007706+00:00"
+      },
+      "turn_1": {
+        "amount": 9942.0,
+        "bid_time": "2015-10-23T14:49:32.177368+03:00",
+        "bidder": "6fb86c20c94346f6a1801edb0ed41623",
+        "time": "2015-10-23T11:50:02.010207+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d1b711469f154bedb70be45b0fbdecaf",
+          "amount": 9989.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-22T13:16:44.977270+03:00"
+        },
+        {
+          "bidder": "c0c3ac8cc61b46ed9b11c66a320c6416",
+          "amount": 9943.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-21T16:25:14.857377+03:00"
+        },
+        {
+          "bidder": "6fb86c20c94346f6a1801edb0ed41623",
+          "amount": 9942.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-23T14:49:32.177368+03:00"
+        }
+      ],
+      "time": "2015-10-23T12:10:25.767773+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T12:07:50.595191+03:00",
+          "amount": 10000.0,
+          "bidder": "6fb86c20c94346f6a1801edb0ed41623"
+        },
+        {
+          "date": "2015-10-22T13:16:44.977270+03:00",
+          "amount": 9989.0,
+          "bidder": "d1b711469f154bedb70be45b0fbdecaf"
+        },
+        {
+          "date": "2015-10-21T16:25:14.857377+03:00",
+          "amount": 9943.0,
+          "bidder": "c0c3ac8cc61b46ed9b11c66a320c6416"
+        }
+      ],
+      "time": "2015-10-23T11:43:02.003487+00:00"
+    }
+  },
+  "id": "d36bcfe3f2a449af945071e851bf4a3c",
+  "tenderId": "UA-2015-10-16-000176"
+}

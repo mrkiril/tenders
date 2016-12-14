@@ -1,0 +1,216 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 849.0,
+        "bid_time": "2015-09-14T12:22:22.102865+03:00",
+        "bidder": "1463578aedef444fb13d7cf770e01a2f",
+        "time": "2015-09-14T09:23:00.047843+00:00"
+      },
+      "turn_2": {
+        "bidder": "ccccbfc0f2974be6ab4ffccb2d370fad",
+        "time": "2015-09-14T09:19:00.056404+00:00"
+      },
+      "turn_3": {
+        "amount": 850.0,
+        "bid_time": "2015-09-14T12:19:09.187527+03:00",
+        "bidder": "0d2434258b124ff9bc58afff962e4f2d",
+        "time": "2015-09-14T09:21:00.057867+00:00"
+      },
+      "turn_1": {
+        "bidder": "50a4d74377014d30847be08fce9f8498",
+        "time": "2015-09-14T09:17:00.040663+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 749.0,
+        "bid_time": "2015-09-14T12:32:13.950080+03:00",
+        "bidder": "1463578aedef444fb13d7cf770e01a2f",
+        "time": "2015-09-14T09:33:00.019461+00:00"
+      },
+      "turn_2": {
+        "bidder": "ccccbfc0f2974be6ab4ffccb2d370fad",
+        "time": "2015-09-14T09:29:00.034527+00:00"
+      },
+      "turn_3": {
+        "amount": 750.0,
+        "bid_time": "2015-09-14T12:29:12.007103+03:00",
+        "bidder": "0d2434258b124ff9bc58afff962e4f2d",
+        "time": "2015-09-14T09:31:00.036422+00:00"
+      },
+      "turn_1": {
+        "amount": 840.0,
+        "bid_time": "2015-09-14T12:25:40.942501+03:00",
+        "bidder": "50a4d74377014d30847be08fce9f8498",
+        "time": "2015-09-14T09:27:00.015350+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 946.0,
+        "bid_time": "2015-09-14T12:11:48.518585+03:00",
+        "bidder": "1463578aedef444fb13d7cf770e01a2f",
+        "time": "2015-09-14T09:13:00.066768+00:00"
+      },
+      "turn_2": {
+        "bidder": "ccccbfc0f2974be6ab4ffccb2d370fad",
+        "time": "2015-09-14T09:09:00.041115+00:00"
+      },
+      "turn_3": {
+        "amount": 950.0,
+        "bid_time": "2015-09-14T12:09:10.236661+03:00",
+        "bidder": "0d2434258b124ff9bc58afff962e4f2d",
+        "time": "2015-09-14T09:11:00.071948+00:00"
+      },
+      "turn_1": {
+        "bidder": "50a4d74377014d30847be08fce9f8498",
+        "time": "2015-09-14T09:07:00.070116+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ccccbfc0f2974be6ab4ffccb2d370fad",
+          "amount": 1100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "telephone": "237-96-21",
+                "name": "БОГДАН ТАТЬЯНА АЛЕКСАНДРОВНА",
+                "email": "788@UA.FM"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2599520305",
+                "legalName": "ФОП БОГДАН ТЕТЯНА ОЛЕКСАНДРІВНА"
+              },
+              "name": "ФОП БОГДАН ТЕТЯНА ОЛЕКСАНДРІВНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01103",
+                "region": "Київська",
+                "streetAddress": "УЛ. КИКВИДЗЕ",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T12:42:12.300305+03:00"
+        },
+        {
+          "bidder": "50a4d74377014d30847be08fce9f8498",
+          "amount": 840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442754976",
+                "telephone": "+380674490771",
+                "name": "Бондар Андрій Васильович",
+                "email": "ponaua@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33304149"
+              },
+              "name": "ТОВ ПОНА-УКРАЇНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська область",
+                "streetAddress": "вул. Полкова, б. 55, кв. 133",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-14T12:25:40.942501+03:00"
+        },
+        {
+          "bidder": "0d2434258b124ff9bc58afff962e4f2d",
+          "amount": 750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tdpres.com.ua",
+                "faxNumber": "5201336",
+                "telephone": "5201336",
+                "name": "Проскурка Наталія Костянтинівна",
+                "email": "tdpres@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37415491",
+                "legalName": "ТОВ \"Торговий дім \"Прес К\""
+              },
+              "name": "ТОВ \"Торговий дім \"Прес К\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03035",
+                "region": "Київська",
+                "streetAddress": "вул.Механізаторів,2 оф.408",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T12:29:12.007103+03:00"
+        },
+        {
+          "bidder": "1463578aedef444fb13d7cf770e01a2f",
+          "amount": 749.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-14T12:32:13.950080+03:00"
+        }
+      ],
+      "time": "2015-09-14T09:33:02.537653+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T12:42:12.300305+03:00",
+          "amount": 1100.0,
+          "bidder": "ccccbfc0f2974be6ab4ffccb2d370fad"
+        },
+        {
+          "date": "2015-09-12T18:06:35.894089+03:00",
+          "amount": 1100.0,
+          "bidder": "50a4d74377014d30847be08fce9f8498"
+        },
+        {
+          "date": "2015-09-11T11:29:07.089516+03:00",
+          "amount": 1050.0,
+          "bidder": "0d2434258b124ff9bc58afff962e4f2d"
+        },
+        {
+          "date": "2015-09-14T00:50:24.877365+03:00",
+          "amount": 962.4,
+          "bidder": "1463578aedef444fb13d7cf770e01a2f"
+        }
+      ],
+      "time": "2015-09-14T09:00:00.002943+00:00"
+    }
+  },
+  "id": "1c2b5e9098f741888a1c542d908b145d",
+  "tenderId": "UA-2015-09-08-000129"
+}

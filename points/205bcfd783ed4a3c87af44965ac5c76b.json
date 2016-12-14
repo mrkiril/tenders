@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "336971c4ec2d41609c896d36d6b1a2b1",
+        "time": "2015-12-01T10:25:07.008705+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b328aa8d704544bd4dfb2c4b1c875d",
+        "time": "2015-12-01T10:23:07.008692+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "336971c4ec2d41609c896d36d6b1a2b1",
+        "time": "2015-12-01T10:31:07.008818+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b328aa8d704544bd4dfb2c4b1c875d",
+        "time": "2015-12-01T10:29:07.013344+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "336971c4ec2d41609c896d36d6b1a2b1",
+        "time": "2015-12-01T10:19:07.009652+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b328aa8d704544bd4dfb2c4b1c875d",
+        "time": "2015-12-01T10:17:07.007889+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "71b328aa8d704544bd4dfb2c4b1c875d",
+          "amount": 1404.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sinteco.kiev.ua/",
+                "telephone": "0444833570",
+                "name": "Антон Манченко ",
+                "email": "kev@sinteco.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ НВФ Сінтеко"
+              },
+              "name": "ТОВ НВФ Сінтеко",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "04119, м. Київ, вул. Дегтярівська, 25/1"
+              }
+            }
+          ],
+          "time": "2015-11-25T18:47:30.132865+02:00"
+        },
+        {
+          "bidder": "336971c4ec2d41609c896d36d6b1a2b1",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-30T11:33:23.922732+02:00"
+        }
+      ],
+      "time": "2015-12-01T10:31:08.261116+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T18:47:30.132865+02:00",
+          "amount": 1404.0,
+          "bidder": "71b328aa8d704544bd4dfb2c4b1c875d"
+        },
+        {
+          "date": "2015-11-30T11:33:23.922732+02:00",
+          "amount": 1300.0,
+          "bidder": "336971c4ec2d41609c896d36d6b1a2b1"
+        }
+      ],
+      "time": "2015-12-01T10:10:07.004835+00:00"
+    }
+  },
+  "id": "205bcfd783ed4a3c87af44965ac5c76b",
+  "tenderId": "UA-2015-11-19-000045-a"
+}

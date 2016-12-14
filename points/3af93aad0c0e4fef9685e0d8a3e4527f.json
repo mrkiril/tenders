@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4c60f37fd69c4ee9a7e94b3993a1b898",
+        "time": "2015-11-20T10:56:29.007565+00:00"
+      },
+      "turn_1": {
+        "bidder": "d830f568b492488983eb0579689f90a3",
+        "time": "2015-11-20T10:54:29.009383+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4c60f37fd69c4ee9a7e94b3993a1b898",
+        "time": "2015-11-20T11:02:29.008535+00:00"
+      },
+      "turn_1": {
+        "bidder": "d830f568b492488983eb0579689f90a3",
+        "time": "2015-11-20T11:00:29.033266+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4c60f37fd69c4ee9a7e94b3993a1b898",
+        "time": "2015-11-20T10:50:29.008238+00:00"
+      },
+      "turn_1": {
+        "bidder": "d830f568b492488983eb0579689f90a3",
+        "time": "2015-11-20T10:48:29.009472+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d830f568b492488983eb0579689f90a3",
+          "amount": 5760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380567905050",
+                "telephone": "+380567905050",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:46:30.780305+02:00"
+        },
+        {
+          "bidder": "4c60f37fd69c4ee9a7e94b3993a1b898",
+          "amount": 5200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380956425928",
+                "name": "Романов Олег Вікторович",
+                "email": "mashenkamikenina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3110111199"
+              },
+              "name": "ФОП Романов",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53200",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул.Електрометалургів, буд.38, кв.24",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-11-19T09:31:29.112547+02:00"
+        }
+      ],
+      "time": "2015-11-20T11:02:30.668171+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T13:46:30.780305+02:00",
+          "amount": 5760.0,
+          "bidder": "d830f568b492488983eb0579689f90a3"
+        },
+        {
+          "date": "2015-11-19T09:31:29.112547+02:00",
+          "amount": 5200.0,
+          "bidder": "4c60f37fd69c4ee9a7e94b3993a1b898"
+        }
+      ],
+      "time": "2015-11-20T10:41:29.002105+00:00"
+    }
+  },
+  "id": "3af93aad0c0e4fef9685e0d8a3e4527f",
+  "tenderId": "UA-2015-11-13-000118"
+}

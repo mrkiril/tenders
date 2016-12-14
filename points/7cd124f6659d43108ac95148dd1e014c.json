@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8cf253a6f7644a1cbed7f260cdc42398",
+        "time": "2015-12-07T11:25:32.007556+00:00"
+      },
+      "turn_1": {
+        "bidder": "ae9231f9fe6e45dc900a019e54e533a3",
+        "time": "2015-12-07T11:23:32.008593+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8cf253a6f7644a1cbed7f260cdc42398",
+        "time": "2015-12-07T11:31:32.007969+00:00"
+      },
+      "turn_1": {
+        "bidder": "ae9231f9fe6e45dc900a019e54e533a3",
+        "time": "2015-12-07T11:29:32.007683+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8cf253a6f7644a1cbed7f260cdc42398",
+        "time": "2015-12-07T11:19:32.114473+00:00"
+      },
+      "turn_1": {
+        "bidder": "ae9231f9fe6e45dc900a019e54e533a3",
+        "time": "2015-12-07T11:17:32.009098+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ae9231f9fe6e45dc900a019e54e533a3",
+          "amount": 189800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968019838",
+                "name": "Кривіцький В'ячеслав Олександрович",
+                "email": "dimknugi-kanc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3035918974"
+              },
+              "name": "ФОП Кривицький В.О.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35600",
+                "region": "Рівненська область",
+                "streetAddress": "вул. Космонавтів, 50",
+                "locality": "Дубно"
+              }
+            }
+          ],
+          "time": "2015-12-04T17:04:56.750564+02:00"
+        },
+        {
+          "bidder": "8cf253a6f7644a1cbed7f260cdc42398",
+          "amount": 170000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://englerllc.com/",
+                "faxNumber": "0443511868",
+                "telephone": "0443511868",
+                "name": "Ільєнко Олег Борисович",
+                "email": "o.ilyenko@englerllc.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36938941",
+                "legalName": "ТОВ \"НВП Енглер\""
+              },
+              "name": "ТОВ \"НВП Енглер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03113",
+                "region": "Київська",
+                "streetAddress": "Скляренка, б. 5 , оф. 305А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-06T20:44:04.874846+02:00"
+        }
+      ],
+      "time": "2015-12-07T11:31:34.026062+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T17:04:56.750564+02:00",
+          "amount": 189800.0,
+          "bidder": "ae9231f9fe6e45dc900a019e54e533a3"
+        },
+        {
+          "date": "2015-12-06T20:44:04.874846+02:00",
+          "amount": 170000.0,
+          "bidder": "8cf253a6f7644a1cbed7f260cdc42398"
+        }
+      ],
+      "time": "2015-12-07T11:10:32.004340+00:00"
+    }
+  },
+  "id": "7cd124f6659d43108ac95148dd1e014c",
+  "tenderId": "UA-2015-11-27-000028"
+}

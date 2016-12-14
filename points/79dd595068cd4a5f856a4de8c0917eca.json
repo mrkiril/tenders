@@ -1,0 +1,257 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 25000.0,
+        "bid_time": "2015-10-29T14:04:48.560877+02:00",
+        "bidder": "120d8fab1d944740b406be8c7550e728",
+        "time": "2015-10-29T12:06:21.010710+00:00"
+      },
+      "turn_5": {
+        "bidder": "9b2f11d2c93a4a79988cd5b53d513e4f",
+        "time": "2015-10-29T12:08:21.005708+00:00"
+      },
+      "turn_2": {
+        "bidder": "487a08f9c67e4420861ca15a63999057",
+        "time": "2015-10-29T12:02:21.006402+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a3f2cac762d4c8688afa40aa4ea92e2",
+        "time": "2015-10-29T12:04:21.011774+00:00"
+      },
+      "turn_1": {
+        "amount": 28608.0,
+        "bid_time": "2015-10-29T13:59:26.523591+02:00",
+        "bidder": "9bfbc5f1379c4908aed62fb44efdbf60",
+        "time": "2015-10-29T12:00:21.013055+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "9b2f11d2c93a4a79988cd5b53d513e4f",
+        "time": "2015-10-29T12:18:21.010850+00:00"
+      },
+      "turn_5": {
+        "bidder": "120d8fab1d944740b406be8c7550e728",
+        "time": "2015-10-29T12:20:21.012707+00:00"
+      },
+      "turn_2": {
+        "bidder": "9bfbc5f1379c4908aed62fb44efdbf60",
+        "time": "2015-10-29T12:14:21.007839+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a3f2cac762d4c8688afa40aa4ea92e2",
+        "time": "2015-10-29T12:16:21.013251+00:00"
+      },
+      "turn_1": {
+        "bidder": "487a08f9c67e4420861ca15a63999057",
+        "time": "2015-10-29T12:12:21.006970+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 26500.0,
+        "bid_time": "2015-10-29T13:54:20.555943+02:00",
+        "bidder": "9b2f11d2c93a4a79988cd5b53d513e4f",
+        "time": "2015-10-29T11:54:21.015774+00:00"
+      },
+      "turn_5": {
+        "bidder": "9a3f2cac762d4c8688afa40aa4ea92e2",
+        "time": "2015-10-29T11:56:21.011545+00:00"
+      },
+      "turn_2": {
+        "amount": 28850.0,
+        "bid_time": "2015-10-29T13:49:18.346236+02:00",
+        "bidder": "487a08f9c67e4420861ca15a63999057",
+        "time": "2015-10-29T11:50:21.022759+00:00"
+      },
+      "turn_3": {
+        "amount": 27000.0,
+        "bid_time": "2015-10-29T13:52:18.334951+02:00",
+        "bidder": "120d8fab1d944740b406be8c7550e728",
+        "time": "2015-10-29T11:52:21.023898+00:00"
+      },
+      "turn_1": {
+        "bidder": "9bfbc5f1379c4908aed62fb44efdbf60",
+        "time": "2015-10-29T11:48:21.009230+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "487a08f9c67e4420861ca15a63999057",
+          "amount": 28850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:49:18.346236+02:00"
+        },
+        {
+          "bidder": "9bfbc5f1379c4908aed62fb44efdbf60",
+          "amount": 28608.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T13:59:26.523591+02:00"
+        },
+        {
+          "bidder": "9a3f2cac762d4c8688afa40aa4ea92e2",
+          "amount": 27400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T15:52:58.747529+02:00"
+        },
+        {
+          "bidder": "9b2f11d2c93a4a79988cd5b53d513e4f",
+          "amount": 26500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://eps.kiev.ua",
+                "faxNumber": "044-531-96-46",
+                "telephone": "044-531-96-46",
+                "name": "Шейка Олена Анатоліївна",
+                "email": "alena@eps.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34574252",
+                "legalName": "Приватне підприємство \"ЕПС-СЕРВІС\""
+              },
+              "name": "Приватне підприємство \"ЕПС-СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська",
+                "streetAddress": "пр-т Бажана, 7Д",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T13:54:20.555943+02:00"
+        },
+        {
+          "bidder": "120d8fab1d944740b406be8c7550e728",
+          "amount": 25000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.olmax.kiev.ua",
+                "telephone": "+380442391533",
+                "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+                "email": "bc@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998",
+                "legalName": "Товариство з обмеженою відповідальністю Олмакс Сістемс"
+              },
+              "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01011, г. Киев, ул. Рыбальская 2, оф 106",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T14:04:48.560877+02:00"
+        }
+      ],
+      "time": "2015-10-29T12:20:41.580810+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T16:52:04.048069+02:00",
+          "amount": 29760.0,
+          "bidder": "9bfbc5f1379c4908aed62fb44efdbf60"
+        },
+        {
+          "date": "2015-10-28T10:19:55.763822+02:00",
+          "amount": 29712.24,
+          "bidder": "487a08f9c67e4420861ca15a63999057"
+        },
+        {
+          "date": "2015-10-28T10:53:53.880430+02:00",
+          "amount": 29544.0,
+          "bidder": "120d8fab1d944740b406be8c7550e728"
+        },
+        {
+          "date": "2015-10-28T11:49:16.483494+02:00",
+          "amount": 28857.0,
+          "bidder": "9b2f11d2c93a4a79988cd5b53d513e4f"
+        },
+        {
+          "date": "2015-10-27T15:52:58.747529+02:00",
+          "amount": 27400.0,
+          "bidder": "9a3f2cac762d4c8688afa40aa4ea92e2"
+        }
+      ],
+      "time": "2015-10-29T11:41:21.003296+00:00"
+    }
+  },
+  "id": "79dd595068cd4a5f856a4de8c0917eca",
+  "tenderId": "UA-2015-10-23-000156"
+}

@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0c7ee0ebd0494adc9ac98467acf990c4",
+        "time": "2015-10-22T10:01:38.005534+00:00"
+      },
+      "turn_3": {
+        "bidder": "264d26a4bfd947d5b70ed8bcd1033ddd",
+        "time": "2015-10-22T10:03:38.007819+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b7bf3e374d74af4976dd4d6f9bca19b",
+        "time": "2015-10-22T09:59:38.008962+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 320000.0,
+        "bid_time": "2015-10-22T13:09:01.126991+03:00",
+        "bidder": "0c7ee0ebd0494adc9ac98467acf990c4",
+        "time": "2015-10-22T10:09:38.008013+00:00"
+      },
+      "turn_3": {
+        "amount": 293477.0,
+        "bid_time": "2015-10-22T13:09:55.150586+03:00",
+        "bidder": "264d26a4bfd947d5b70ed8bcd1033ddd",
+        "time": "2015-10-22T10:11:38.014759+00:00"
+      },
+      "turn_1": {
+        "amount": 294500.0,
+        "bid_time": "2015-10-22T13:06:57.364724+03:00",
+        "bidder": "6b7bf3e374d74af4976dd4d6f9bca19b",
+        "time": "2015-10-22T10:07:38.015650+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 322000.0,
+        "bid_time": "2015-10-22T12:52:16.445453+03:00",
+        "bidder": "0c7ee0ebd0494adc9ac98467acf990c4",
+        "time": "2015-10-22T09:53:38.009601+00:00"
+      },
+      "turn_3": {
+        "bidder": "264d26a4bfd947d5b70ed8bcd1033ddd",
+        "time": "2015-10-22T09:55:38.008966+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b7bf3e374d74af4976dd4d6f9bca19b",
+        "time": "2015-10-22T09:51:38.008627+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0c7ee0ebd0494adc9ac98467acf990c4",
+          "amount": 320000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.gradion.com.ua/",
+                "telephone": "+380672438126",
+                "name": "Лещенко Віталій Васильович",
+                "email": "vitmia@yandex.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39918294"
+              },
+              "name": "ТОВ ГРАДІОН",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04655",
+                "region": "Київська область",
+                "streetAddress": "вул. Глибочицька, будинок 72, корпус новий, офіс 328-329",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-22T13:09:01.126991+03:00"
+        },
+        {
+          "bidder": "6b7bf3e374d74af4976dd4d6f9bca19b",
+          "amount": 294500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.koutex.com.ua",
+                "faxNumber": "+380445025459",
+                "telephone": "+380445025480",
+                "name": "Андрійчук Вікторія Миколаївна",
+                "email": "skripovav@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31608875"
+              },
+              "name": "ТОВ Дайвер лтд",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська область",
+                "streetAddress": "вул. Сергієнка 2/3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-22T13:06:57.364724+03:00"
+        },
+        {
+          "bidder": "264d26a4bfd947d5b70ed8bcd1033ddd",
+          "amount": 293477.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674065283",
+                "name": "Ковальчук Юрій Володимирович",
+                "email": "pk.rbk@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38576316",
+                "legalName": "ТОВ \"ПК Регіональна Будівельна Компанія\""
+              },
+              "name": "ТОВ \"ПК Регіональна Будівельна Компанія\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02160",
+                "region": "Київська",
+                "streetAddress": "Пр-кт Воз'єднання 19 оф212",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T13:09:55.150586+03:00"
+        }
+      ],
+      "time": "2015-10-22T10:11:41.776158+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T12:55:26.490232+03:00",
+          "amount": 324999.6,
+          "bidder": "6b7bf3e374d74af4976dd4d6f9bca19b"
+        },
+        {
+          "date": "2015-10-21T10:52:55.079726+03:00",
+          "amount": 324000.0,
+          "bidder": "0c7ee0ebd0494adc9ac98467acf990c4"
+        },
+        {
+          "date": "2015-10-20T23:51:59.522962+03:00",
+          "amount": 295119.0,
+          "bidder": "264d26a4bfd947d5b70ed8bcd1033ddd"
+        }
+      ],
+      "time": "2015-10-22T09:44:38.004509+00:00"
+    }
+  },
+  "id": "2172b186ad0d498baa9ef5befb83fbe8",
+  "tenderId": "UA-2015-10-16-000135"
+}

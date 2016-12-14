@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fedf65bfab1541d688b4146127cbc813",
+        "time": "2015-09-17T08:15:00.241815+00:00"
+      },
+      "turn_1": {
+        "amount": 700.0,
+        "bid_time": "2015-09-17T11:12:39.996704+03:00",
+        "bidder": "4cfc81f6863f4122be4b3360bff325ff",
+        "time": "2015-09-17T08:13:00.169130+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fedf65bfab1541d688b4146127cbc813",
+        "time": "2015-09-17T08:21:00.110829+00:00"
+      },
+      "turn_1": {
+        "amount": 650.0,
+        "bid_time": "2015-09-17T11:17:45.134503+03:00",
+        "bidder": "4cfc81f6863f4122be4b3360bff325ff",
+        "time": "2015-09-17T08:19:00.190701+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fedf65bfab1541d688b4146127cbc813",
+        "time": "2015-09-17T08:09:00.126914+00:00"
+      },
+      "turn_1": {
+        "amount": 800.0,
+        "bid_time": "2015-09-17T11:05:23.325735+03:00",
+        "bidder": "4cfc81f6863f4122be4b3360bff325ff",
+        "time": "2015-09-17T08:07:00.061457+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4cfc81f6863f4122be4b3360bff325ff",
+          "amount": 650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380634561650",
+                "name": "Сергей Резник",
+                "email": "sergeyreznik@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24915201",
+                "legalName": "ТОВ \"Фарбы\""
+              },
+              "name": "ТОВ \"Фарбы\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08112",
+                "region": "Киевская",
+                "streetAddress": "01032, м. Київ, вул. Жилянська, буд. No107",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-17T11:17:45.134503+03:00"
+        },
+        {
+          "bidder": "fedf65bfab1541d688b4146127cbc813",
+          "amount": 408.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T08:44:20.079254+03:00"
+        }
+      ],
+      "time": "2015-09-17T08:21:28.904850+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T11:51:58.118577+03:00",
+          "amount": 982.5,
+          "bidder": "4cfc81f6863f4122be4b3360bff325ff"
+        },
+        {
+          "date": "2015-09-14T08:44:20.079254+03:00",
+          "amount": 408.0,
+          "bidder": "fedf65bfab1541d688b4146127cbc813"
+        }
+      ],
+      "time": "2015-09-17T08:00:00.002917+00:00"
+    }
+  },
+  "id": "a3ce46f66d114ef18e125ab8f261ca8c",
+  "tenderId": "UA-2015-09-08-000025"
+}

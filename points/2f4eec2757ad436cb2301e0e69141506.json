@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "64badcc4625448a4aeec8807f3c064a5",
+        "time": "2015-07-06T10:15:00.041815+00:00"
+      },
+      "turn_1": {
+        "bidder": "55bbaba8bbe0432c91f08b01d766375f",
+        "time": "2015-07-06T10:13:00.028955+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "64badcc4625448a4aeec8807f3c064a5",
+        "time": "2015-07-06T10:21:00.051060+00:00"
+      },
+      "turn_1": {
+        "bidder": "55bbaba8bbe0432c91f08b01d766375f",
+        "time": "2015-07-06T10:19:00.041719+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "64badcc4625448a4aeec8807f3c064a5",
+        "time": "2015-07-06T10:09:00.068119+00:00"
+      },
+      "turn_1": {
+        "bidder": "55bbaba8bbe0432c91f08b01d766375f",
+        "time": "2015-07-06T10:07:00.104224+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "55bbaba8bbe0432c91f08b01d766375f",
+          "amount": 12922.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bettaservice.com.ua/",
+                "telephone": "380952737111",
+                "name": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\"",
+                "email": "e.zolotaryova@betta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32980408",
+                "legalName": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська",
+                "streetAddress": "Струтинського, 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T11:43:40.173676+03:00"
+        },
+        {
+          "bidder": "64badcc4625448a4aeec8807f3c064a5",
+          "amount": 10713.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442062606",
+                "name": "Гіпермаркет Епіцентр №6",
+                "email": "mironova@kc.epicentrk.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "324902444",
+                "legalName": "Гіпермаркет Епіцентр №6"
+              },
+              "name": "Гіпермаркет Епіцентр №6",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Берковецька 6в",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T08:02:47.659426+03:00"
+        }
+      ],
+      "time": "2015-07-06T10:21:03.855231+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-02T11:43:40.173676+03:00",
+          "amount": 12922.0,
+          "bidder": "55bbaba8bbe0432c91f08b01d766375f"
+        },
+        {
+          "date": "2015-07-03T08:02:47.659426+03:00",
+          "amount": 10713.6,
+          "bidder": "64badcc4625448a4aeec8807f3c064a5"
+        }
+      ],
+      "time": "2015-07-06T10:00:00.010682+00:00"
+    }
+  },
+  "id": "2f4eec2757ad436cb2301e0e69141506",
+  "tenderId": "UA-2015-06-30-000075"
+}

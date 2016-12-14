@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7455cd43d43b4b1f99c9a0e4a535b8c1",
+        "time": "2015-09-18T08:17:00.074836+00:00"
+      },
+      "turn_3": {
+        "bidder": "63d6fbf97b4043b094a643bdbdf8c71f",
+        "time": "2015-09-18T08:19:00.161304+00:00"
+      },
+      "turn_1": {
+        "bidder": "a5ab23ce98af42bc81f4a1ce723a3c1d",
+        "time": "2015-09-18T08:15:00.056115+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7455cd43d43b4b1f99c9a0e4a535b8c1",
+        "time": "2015-09-18T08:25:00.075256+00:00"
+      },
+      "turn_3": {
+        "bidder": "63d6fbf97b4043b094a643bdbdf8c71f",
+        "time": "2015-09-18T08:27:00.067022+00:00"
+      },
+      "turn_1": {
+        "bidder": "a5ab23ce98af42bc81f4a1ce723a3c1d",
+        "time": "2015-09-18T08:23:00.074564+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7455cd43d43b4b1f99c9a0e4a535b8c1",
+        "time": "2015-09-18T08:09:00.164465+00:00"
+      },
+      "turn_3": {
+        "bidder": "63d6fbf97b4043b094a643bdbdf8c71f",
+        "time": "2015-09-18T08:11:00.077406+00:00"
+      },
+      "turn_1": {
+        "bidder": "a5ab23ce98af42bc81f4a1ce723a3c1d",
+        "time": "2015-09-18T08:07:00.117122+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a5ab23ce98af42bc81f4a1ce723a3c1d",
+          "amount": 21919.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intexgroop.kharkov.ua/",
+                "telephone": "+380577665083",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+                "email": "intexgroop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38631848",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр-т Московський, б. 199, корпус Д-5, офіс 233, м. Харків, 61037",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-17T16:37:04.032245+03:00"
+        },
+        {
+          "bidder": "7455cd43d43b4b1f99c9a0e4a535b8c1",
+          "amount": 20504.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.topservice.od.ua",
+                "telephone": "+380487771103",
+                "name": "Товариство з обмеженою відповідальністю \"ТОПСЕРВІС\"",
+                "email": "office@topservice.od.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32894995",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТОПСЕРВІС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТОПСЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65070 м.Одеса, вул. Космонавтів, 29/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T10:51:37.692494+03:00"
+        },
+        {
+          "bidder": "63d6fbf97b4043b094a643bdbdf8c71f",
+          "amount": 13192.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.elektal.com.ua",
+                "telephone": "+380562392999",
+                "name": "ООО\"Электал\"",
+                "email": "marina@elektal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31540498",
+                "legalName": "ООО\"Электал\""
+              },
+              "name": "ООО\"Электал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск,ул.Генерала Пушкина,26/171",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T09:23:39.356368+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:27:10.768427+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T16:37:04.032245+03:00",
+          "amount": 21919.0,
+          "bidder": "a5ab23ce98af42bc81f4a1ce723a3c1d"
+        },
+        {
+          "date": "2015-09-16T10:51:37.692494+03:00",
+          "amount": 20504.0,
+          "bidder": "7455cd43d43b4b1f99c9a0e4a535b8c1"
+        },
+        {
+          "date": "2015-09-15T09:23:39.356368+03:00",
+          "amount": 13192.0,
+          "bidder": "63d6fbf97b4043b094a643bdbdf8c71f"
+        }
+      ],
+      "time": "2015-09-18T08:00:00.025846+00:00"
+    }
+  },
+  "id": "8d7c1a8517954f02935d54c1f1b703f1",
+  "tenderId": "UA-2015-09-09-000213"
+}

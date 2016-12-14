@@ -1,0 +1,153 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e2e27ab8a60948279aa6dedcdfe8ad55",
+        "time": "2015-11-20T11:51:54.007729+00:00"
+      },
+      "turn_3": {
+        "bidder": "eea987a106f944c9a44c68abce7bc33c",
+        "time": "2015-11-20T11:53:54.008266+00:00"
+      },
+      "turn_1": {
+        "bidder": "0ac62251a42243479fdf15d198119543",
+        "time": "2015-11-20T11:49:54.007766+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e2e27ab8a60948279aa6dedcdfe8ad55",
+        "time": "2015-11-20T11:59:54.008403+00:00"
+      },
+      "turn_3": {
+        "bidder": "eea987a106f944c9a44c68abce7bc33c",
+        "time": "2015-11-20T12:01:54.007349+00:00"
+      },
+      "turn_1": {
+        "bidder": "0ac62251a42243479fdf15d198119543",
+        "time": "2015-11-20T11:57:54.007556+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e2e27ab8a60948279aa6dedcdfe8ad55",
+        "time": "2015-11-20T11:43:54.011930+00:00"
+      },
+      "turn_3": {
+        "bidder": "eea987a106f944c9a44c68abce7bc33c",
+        "time": "2015-11-20T11:45:54.008867+00:00"
+      },
+      "turn_1": {
+        "bidder": "0ac62251a42243479fdf15d198119543",
+        "time": "2015-11-20T11:41:54.008956+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0ac62251a42243479fdf15d198119543",
+          "amount": 5200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-19T22:30:19.780628+02:00"
+        },
+        {
+          "bidder": "e2e27ab8a60948279aa6dedcdfe8ad55",
+          "amount": 5175.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T16:01:03.962644+02:00"
+        },
+        {
+          "bidder": "eea987a106f944c9a44c68abce7bc33c",
+          "amount": 5150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380966541464",
+                "name": "Сиротін Євгеній Юрійович",
+                "email": "optluxtorg@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35174832"
+              },
+              "name": "ТОВ Оптлюксторг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87400",
+                "region": "Донецька область",
+                "streetAddress": "Донецька область",
+                "locality": "Мангуш"
+              }
+            }
+          ],
+          "time": "2015-11-19T08:51:12.226392+02:00"
+        }
+      ],
+      "time": "2015-11-20T12:01:58.963366+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T22:30:19.780628+02:00",
+          "amount": 5200.0,
+          "bidder": "0ac62251a42243479fdf15d198119543"
+        },
+        {
+          "date": "2015-11-19T16:01:03.962644+02:00",
+          "amount": 5175.0,
+          "bidder": "e2e27ab8a60948279aa6dedcdfe8ad55"
+        },
+        {
+          "date": "2015-11-19T08:51:12.226392+02:00",
+          "amount": 5150.0,
+          "bidder": "eea987a106f944c9a44c68abce7bc33c"
+        }
+      ],
+      "time": "2015-11-20T11:34:54.004972+00:00"
+    }
+  },
+  "id": "17bbd46c3e8d404382ab3c4820de5ecf",
+  "tenderId": "UA-2015-11-18-000061-a"
+}

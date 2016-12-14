@@ -1,0 +1,168 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 17266.0,
+        "bid_time": "2015-12-10T11:20:42.881979+02:00",
+        "bidder": "000e046fdae9404e8b29646c8c02443c",
+        "time": "2015-12-10T09:22:33.009226+00:00"
+      },
+      "turn_3": {
+        "amount": 17221.0,
+        "bid_time": "2015-12-10T11:22:46.982133+02:00",
+        "bidder": "42a9dacfe0574ab6905e05d842c9f4ad",
+        "time": "2015-12-10T09:24:33.010115+00:00"
+      },
+      "turn_1": {
+        "bidder": "3b9ac8d4e9eb4d2fbeec8d8787eeadf3",
+        "time": "2015-12-10T09:20:33.008001+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 16320.0,
+        "bid_time": "2015-12-10T11:28:52.685621+02:00",
+        "bidder": "000e046fdae9404e8b29646c8c02443c",
+        "time": "2015-12-10T09:30:33.008294+00:00"
+      },
+      "turn_3": {
+        "amount": 14976.0,
+        "bid_time": "2015-12-10T11:30:43.436869+02:00",
+        "bidder": "42a9dacfe0574ab6905e05d842c9f4ad",
+        "time": "2015-12-10T09:32:33.008238+00:00"
+      },
+      "turn_1": {
+        "bidder": "3b9ac8d4e9eb4d2fbeec8d8787eeadf3",
+        "time": "2015-12-10T09:28:33.008192+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3b9ac8d4e9eb4d2fbeec8d8787eeadf3",
+        "time": "2015-12-10T09:14:33.008042+00:00"
+      },
+      "turn_3": {
+        "amount": 17436.0,
+        "bid_time": "2015-12-10T11:14:52.234066+02:00",
+        "bidder": "42a9dacfe0574ab6905e05d842c9f4ad",
+        "time": "2015-12-10T09:16:33.010285+00:00"
+      },
+      "turn_1": {
+        "amount": 17566.0,
+        "bid_time": "2015-12-10T11:12:10.272031+02:00",
+        "bidder": "000e046fdae9404e8b29646c8c02443c",
+        "time": "2015-12-10T09:12:33.009725+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3b9ac8d4e9eb4d2fbeec8d8787eeadf3",
+          "amount": 17866.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://liftzvar.com.ua",
+                "faxNumber": "044-496-95-89",
+                "telephone": "095-096-64-24",
+                "name": "Тарчук Николай Петрович",
+                "email": "tarchuk.n@liftzvar.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31350539",
+                "legalName": "Приватне підприємство “УКРПРОМЛІФТЗВАР”"
+              },
+              "name": "Приватне підприємство “УКРПРОМЛІФТЗВАР”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02089",
+                "region": "Київська",
+                "streetAddress": "м. Київ, вул. Радистів,64",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T19:04:51.047553+02:00"
+        },
+        {
+          "bidder": "000e046fdae9404e8b29646c8c02443c",
+          "amount": 16320.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577332034",
+                "name": "Елена Козлова",
+                "email": "zhilkomunbud@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32135680",
+                "legalName": "ТОВ \"Жилкоммунстрой\""
+              },
+              "name": "ТОВ \"Жилкоммунстрой\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61004",
+                "region": "Харьковская",
+                "streetAddress": "бульвар Нетеченский, 36 комн.12",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:28:52.685621+02:00"
+        },
+        {
+          "bidder": "42a9dacfe0574ab6905e05d842c9f4ad",
+          "amount": 14976.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577332058",
+                "name": "Ольга Мальченко",
+                "email": "kharkovlift@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32438301",
+                "legalName": "ТОВ \"СП Харьковлифт\""
+              },
+              "name": "ТОВ \"СП Харьковлифт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61002",
+                "region": "Харьковская",
+                "streetAddress": "вул.Чернішевская 40к32",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:30:43.436869+02:00"
+        }
+      ],
+      "time": "2015-12-10T09:32:34.406517+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T11:25:05.756557+02:00",
+          "amount": 17866.2,
+          "bidder": "000e046fdae9404e8b29646c8c02443c"
+        },
+        {
+          "date": "2015-12-08T19:04:51.047553+02:00",
+          "amount": 17866.0,
+          "bidder": "3b9ac8d4e9eb4d2fbeec8d8787eeadf3"
+        },
+        {
+          "date": "2015-12-04T11:14:31.661290+02:00",
+          "amount": 17651.2,
+          "bidder": "42a9dacfe0574ab6905e05d842c9f4ad"
+        }
+      ],
+      "time": "2015-12-10T09:05:33.003745+00:00"
+    }
+  },
+  "id": "3d24db77e52140f1945dea6c14382c15",
+  "tenderId": "UA-2015-11-27-000013"
+}

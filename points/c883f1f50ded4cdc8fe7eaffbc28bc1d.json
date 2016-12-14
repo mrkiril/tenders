@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "001a488959474c48bfc2a9aab4c70e20",
+        "time": "2015-11-19T12:51:12.008355+00:00"
+      },
+      "turn_1": {
+        "bidder": "12ddad2c7138427cb89d27f7042eec49",
+        "time": "2015-11-19T12:49:12.015051+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "001a488959474c48bfc2a9aab4c70e20",
+        "time": "2015-11-19T12:57:12.011902+00:00"
+      },
+      "turn_1": {
+        "bidder": "12ddad2c7138427cb89d27f7042eec49",
+        "time": "2015-11-19T12:55:12.012137+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "001a488959474c48bfc2a9aab4c70e20",
+        "time": "2015-11-19T12:45:12.009734+00:00"
+      },
+      "turn_1": {
+        "bidder": "12ddad2c7138427cb89d27f7042eec49",
+        "time": "2015-11-19T12:43:12.010627+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "12ddad2c7138427cb89d27f7042eec49",
+          "amount": 16200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503304966, +380445667215",
+                "name": "Валентина Малишева",
+                "email": "vladmash_tov@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37856472",
+                "legalName": "ТОВ \"ВЛАДМАШ\""
+              },
+              "name": "ТОВ \"ВЛАДМАШ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02096",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул.Ілліча, буд.8, кв.60",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T11:28:21.272306+02:00"
+        },
+        {
+          "bidder": "001a488959474c48bfc2a9aab4c70e20",
+          "amount": 15139.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.wylan.com.ua/",
+                "faxNumber": "0442490440",
+                "telephone": "0442490440",
+                "name": "Висоцька Марина Кирилівна",
+                "email": "info@wylan.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21589190",
+                "legalName": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04053",
+                "region": "Київська",
+                "streetAddress": "Воровського, 7 Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-17T11:31:38.168711+02:00"
+        }
+      ],
+      "time": "2015-11-19T12:57:13.195739+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T11:28:21.272306+02:00",
+          "amount": 16200.0,
+          "bidder": "12ddad2c7138427cb89d27f7042eec49"
+        },
+        {
+          "date": "2015-11-17T11:31:38.168711+02:00",
+          "amount": 15139.2,
+          "bidder": "001a488959474c48bfc2a9aab4c70e20"
+        }
+      ],
+      "time": "2015-11-19T12:36:12.003600+00:00"
+    }
+  },
+  "id": "c883f1f50ded4cdc8fe7eaffbc28bc1d",
+  "tenderId": "UA-2015-11-16-000011-a"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "faa684d1369d49068eb791514b86808e",
+        "time": "2015-12-09T13:15:17.007708+00:00"
+      },
+      "turn_1": {
+        "bidder": "02ba7c1c76664c6a9ce09eb7a3bb7c97",
+        "time": "2015-12-09T13:13:17.007944+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "faa684d1369d49068eb791514b86808e",
+        "time": "2015-12-09T13:21:17.008330+00:00"
+      },
+      "turn_1": {
+        "bidder": "02ba7c1c76664c6a9ce09eb7a3bb7c97",
+        "time": "2015-12-09T13:19:17.008843+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "faa684d1369d49068eb791514b86808e",
+        "time": "2015-12-09T13:09:17.009837+00:00"
+      },
+      "turn_1": {
+        "amount": 197895.0,
+        "bid_time": "2015-12-09T15:05:27.460512+02:00",
+        "bidder": "02ba7c1c76664c6a9ce09eb7a3bb7c97",
+        "time": "2015-12-09T13:07:17.009452+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "02ba7c1c76664c6a9ce09eb7a3bb7c97",
+          "amount": 197895.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38067-328-00-52, +38044 524-72-63",
+                "name": "Олександр Ніколенко",
+                "email": "197408@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21451652",
+                "legalName": "ТОВ \"Бігма ЛТД\""
+              },
+              "name": "ТОВ \"Бігма ЛТД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03090",
+                "region": "Киевская",
+                "streetAddress": "проспект 40-річчя Жовтня, 46-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:05:27.460512+02:00"
+        },
+        {
+          "bidder": "faa684d1369d49068eb791514b86808e",
+          "amount": 197359.67,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673204727",
+                "name": "Владислав Анатольевич",
+                "email": "office@tbs-group.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34574357",
+                "legalName": "ТОВ \"Технобудсервіс 2006\""
+              },
+              "name": "ТОВ \"Технобудсервіс 2006\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T10:46:46.647990+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:21:18.121009+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T08:53:52.105541+02:00",
+          "amount": 198995.42,
+          "bidder": "02ba7c1c76664c6a9ce09eb7a3bb7c97"
+        },
+        {
+          "date": "2015-12-08T10:46:46.647990+02:00",
+          "amount": 197359.67,
+          "bidder": "faa684d1369d49068eb791514b86808e"
+        }
+      ],
+      "time": "2015-12-09T13:00:17.004429+00:00"
+    }
+  },
+  "id": "723cc47b656a487da38aeef4b1dd18ce",
+  "tenderId": "UA-2015-12-03-000076"
+}

@@ -1,0 +1,203 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "ab1a2ee3d03c497aa85fb94200f4a294",
+        "time": "2015-12-11T09:30:28.086405+00:00"
+      },
+      "turn_2": {
+        "bidder": "e4ff24887e654ce58b40401d96023ee6",
+        "time": "2015-12-11T09:26:28.009119+00:00"
+      },
+      "turn_3": {
+        "bidder": "88d2d6d2afa84f25bcfd50f6e23d71db",
+        "time": "2015-12-11T09:28:28.008552+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bf0cb9ffb7849b6a6159910b6e3c4ba",
+        "time": "2015-12-11T09:24:28.091545+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ab1a2ee3d03c497aa85fb94200f4a294",
+        "time": "2015-12-11T09:40:28.012106+00:00"
+      },
+      "turn_2": {
+        "bidder": "e4ff24887e654ce58b40401d96023ee6",
+        "time": "2015-12-11T09:36:28.007769+00:00"
+      },
+      "turn_3": {
+        "bidder": "88d2d6d2afa84f25bcfd50f6e23d71db",
+        "time": "2015-12-11T09:38:28.007932+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bf0cb9ffb7849b6a6159910b6e3c4ba",
+        "time": "2015-12-11T09:34:28.012636+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "e4ff24887e654ce58b40401d96023ee6",
+        "time": "2015-12-11T09:20:28.009042+00:00"
+      },
+      "turn_2": {
+        "bidder": "0bf0cb9ffb7849b6a6159910b6e3c4ba",
+        "time": "2015-12-11T09:16:28.009371+00:00"
+      },
+      "turn_3": {
+        "amount": 5290.0,
+        "bid_time": "2015-12-11T11:17:03.828894+02:00",
+        "bidder": "ab1a2ee3d03c497aa85fb94200f4a294",
+        "time": "2015-12-11T09:18:28.011334+00:00"
+      },
+      "turn_1": {
+        "amount": 5520.0,
+        "bid_time": "2015-12-11T11:12:55.204391+02:00",
+        "bidder": "88d2d6d2afa84f25bcfd50f6e23d71db",
+        "time": "2015-12-11T09:14:28.011280+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0bf0cb9ffb7849b6a6159910b6e3c4ba",
+          "amount": 8760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "099-611-11-76",
+                "name": "Оженець Максим Вікторович",
+                "email": "nikolaevavto@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36317779",
+                "legalName": "Приватне підприємство Аруна-Партнер"
+              },
+              "name": "Приватне підприємство Аруна-Партнер",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54018",
+                "region": "Миколаївська",
+                "streetAddress": "вулиця Єнгельса 47",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:10:56.021946+02:00"
+        },
+        {
+          "bidder": "e4ff24887e654ce58b40401d96023ee6",
+          "amount": 5750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512561900",
+                "telephone": "0503941907",
+                "name": "ДОЛГОЗВЯГА МИКОЛА МИКОЛАЙОВИЧ",
+                "email": "orion-auto@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05465809",
+                "legalName": "Товариство з додатковою відповідальністю \"Оріон-Авто\""
+              },
+              "name": "Товариство з додатковою відповідальністю \"Оріон-Авто\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54007",
+                "region": "Миколаївська",
+                "streetAddress": "Казарського, 4",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-09T10:44:36.279579+02:00"
+        },
+        {
+          "bidder": "88d2d6d2afa84f25bcfd50f6e23d71db",
+          "amount": 5520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380542612046",
+                "telephone": "+380667528823",
+                "name": "Вакула Світлана Володимирівна",
+                "email": "sumycontrol@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36325046"
+              },
+              "name": "ТОВ \"Сумський обласний діагностичний центр безпеки дорожнього руху\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "42304",
+                "region": "Сумська область",
+                "streetAddress": "смт. Степанівка, пров. Промисловий, буд. 4",
+                "locality": "Сумський район"
+              }
+            }
+          ],
+          "time": "2015-12-11T11:12:55.204391+02:00"
+        },
+        {
+          "bidder": "ab1a2ee3d03c497aa85fb94200f4a294",
+          "amount": 5290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0675106734",
+                "name": "Міщенко Сергій Дмитрович",
+                "email": "drs1@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36317187",
+                "legalName": "ТОВ \"Діагностика,ремонт і сервіс\""
+              },
+              "name": "ТОВ \"Діагностика,ремонт і сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54034",
+                "region": "Миколаївська",
+                "streetAddress": "Будівельників 15/1",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-11T11:17:03.828894+02:00"
+        }
+      ],
+      "time": "2015-12-11T09:40:42.046632+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T09:43:33.813889+02:00",
+          "amount": 9320.0,
+          "bidder": "88d2d6d2afa84f25bcfd50f6e23d71db"
+        },
+        {
+          "date": "2015-12-09T12:10:56.021946+02:00",
+          "amount": 8760.0,
+          "bidder": "0bf0cb9ffb7849b6a6159910b6e3c4ba"
+        },
+        {
+          "date": "2015-12-09T09:35:55.664607+02:00",
+          "amount": 7640.0,
+          "bidder": "ab1a2ee3d03c497aa85fb94200f4a294"
+        },
+        {
+          "date": "2015-12-09T10:44:36.279579+02:00",
+          "amount": 5750.0,
+          "bidder": "e4ff24887e654ce58b40401d96023ee6"
+        }
+      ],
+      "time": "2015-12-11T09:07:28.004841+00:00"
+    }
+  },
+  "id": "003aec3b7bf3437190a1aaf082bbe09e",
+  "tenderId": "UA-2015-11-27-000118-b"
+}

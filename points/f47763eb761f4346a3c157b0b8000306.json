@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3e35cfd140404aab870a93e12fda218c",
+        "time": "2015-11-05T11:21:09.008652+00:00"
+      },
+      "turn_1": {
+        "amount": 8799.0,
+        "bid_time": "2015-11-05T13:18:58.416300+02:00",
+        "bidder": "e5ac63a0183245c4a004d02e5faa98c2",
+        "time": "2015-11-05T11:19:09.008938+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e5ac63a0183245c4a004d02e5faa98c2",
+        "time": "2015-11-05T11:27:09.010779+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e35cfd140404aab870a93e12fda218c",
+        "time": "2015-11-05T11:25:09.007737+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3e35cfd140404aab870a93e12fda218c",
+        "time": "2015-11-05T11:15:09.006855+00:00"
+      },
+      "turn_1": {
+        "bidder": "e5ac63a0183245c4a004d02e5faa98c2",
+        "time": "2015-11-05T11:13:09.008921+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3e35cfd140404aab870a93e12fda218c",
+          "amount": 8800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977374084, +380509405517",
+                "name": "Ігор Князь",
+                "email": "7374084@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2965205451",
+                "legalName": "ФОП \"Князь Ігор Миколайович\""
+              },
+              "name": "ФОП \"Князь Ігор Миколайович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61123",
+                "region": "Харьковская",
+                "streetAddress": "проспект Тракторобудівників, 85 А, кв. 42",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-03T14:43:30.388148+02:00"
+        },
+        {
+          "bidder": "e5ac63a0183245c4a004d02e5faa98c2",
+          "amount": 8799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://atlantelektro.prom.ua/",
+                "telephone": "380444557814",
+                "name": "Валерій Сіненко ",
+                "email": "atel2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37013570",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Виробничо-комерційна фірма \"Атлант Електро\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "а/с 64, м.Київ, 03115"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:18:58.416300+02:00"
+        }
+      ],
+      "time": "2015-11-05T11:27:26.543393+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T21:18:44.330750+02:00",
+          "amount": 10550.0,
+          "bidder": "e5ac63a0183245c4a004d02e5faa98c2"
+        },
+        {
+          "date": "2015-11-03T14:43:30.388148+02:00",
+          "amount": 8800.0,
+          "bidder": "3e35cfd140404aab870a93e12fda218c"
+        }
+      ],
+      "time": "2015-11-05T11:06:09.001991+00:00"
+    }
+  },
+  "id": "f47763eb761f4346a3c157b0b8000306",
+  "tenderId": "UA-2015-10-30-000168"
+}

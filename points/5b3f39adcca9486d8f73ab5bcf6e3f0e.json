@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "59fffbfad1f149bf94ebe97fc8cb2bf2",
+        "time": "2015-11-05T11:30:04.007443+00:00"
+      },
+      "turn_3": {
+        "bidder": "7b9dda99ac38413eb8f054156f36b62d",
+        "time": "2015-11-05T11:32:04.007103+00:00"
+      },
+      "turn_1": {
+        "bidder": "f8cca3e2c8a34b00aca9e0dfd6509124",
+        "time": "2015-11-05T11:28:04.007097+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "59fffbfad1f149bf94ebe97fc8cb2bf2",
+        "time": "2015-11-05T11:38:04.007474+00:00"
+      },
+      "turn_3": {
+        "bidder": "7b9dda99ac38413eb8f054156f36b62d",
+        "time": "2015-11-05T11:40:04.009524+00:00"
+      },
+      "turn_1": {
+        "bidder": "f8cca3e2c8a34b00aca9e0dfd6509124",
+        "time": "2015-11-05T11:36:04.007986+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2999.0,
+        "bid_time": "2015-11-05T13:20:44.802266+02:00",
+        "bidder": "7b9dda99ac38413eb8f054156f36b62d",
+        "time": "2015-11-05T11:22:04.008937+00:00"
+      },
+      "turn_3": {
+        "bidder": "59fffbfad1f149bf94ebe97fc8cb2bf2",
+        "time": "2015-11-05T11:24:04.007084+00:00"
+      },
+      "turn_1": {
+        "amount": 3570.0,
+        "bid_time": "2015-11-05T13:18:17.651830+02:00",
+        "bidder": "f8cca3e2c8a34b00aca9e0dfd6509124",
+        "time": "2015-11-05T11:20:04.009038+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f8cca3e2c8a34b00aca9e0dfd6509124",
+          "amount": 3570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503936300",
+                "name": "Малярчук Оксана Вікторівна",
+                "email": "m14.o.malyarchuk@kmm.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38518301"
+              },
+              "name": "ТОВ \"Торгівельно-Медичний Центр \"Медтехніка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01135",
+                "region": "Київська область",
+                "streetAddress": "проспект Перемоги, 9/47",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:18:17.651830+02:00"
+        },
+        {
+          "bidder": "59fffbfad1f149bf94ebe97fc8cb2bf2",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-287-10-20",
+                "name": "Жайворонок Олена Іванівна",
+                "email": "ptichka2004@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2330903164",
+                "legalName": "Фізична особа-підприємець Жайворонок Олена Іванівна"
+              },
+              "name": "Фізична особа-підприємець Жайворонок Олена Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03187",
+                "region": "Київська",
+                "streetAddress": "вул. Заболотного, будинок 98, квартира 53",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T10:03:38.558160+02:00"
+        },
+        {
+          "bidder": "7b9dda99ac38413eb8f054156f36b62d",
+          "amount": 2999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444676907",
+                "telephone": "+380935126870",
+                "name": "Галицький Іван Іванович",
+                "email": "tender.galytsky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2558204616"
+              },
+              "name": "ФОП Галицький Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02096",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Привокзальна, 8/1, кв. 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:20:44.802266+02:00"
+        }
+      ],
+      "time": "2015-11-05T11:40:17.408475+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T15:11:37.920620+02:00",
+          "amount": 4900.0,
+          "bidder": "f8cca3e2c8a34b00aca9e0dfd6509124"
+        },
+        {
+          "date": "2015-11-02T12:57:19.983682+02:00",
+          "amount": 3600.0,
+          "bidder": "7b9dda99ac38413eb8f054156f36b62d"
+        },
+        {
+          "date": "2015-11-04T10:03:38.558160+02:00",
+          "amount": 3000.0,
+          "bidder": "59fffbfad1f149bf94ebe97fc8cb2bf2"
+        }
+      ],
+      "time": "2015-11-05T11:13:04.002964+00:00"
+    }
+  },
+  "id": "5b3f39adcca9486d8f73ab5bcf6e3f0e",
+  "tenderId": "UA-2015-10-28-000243"
+}

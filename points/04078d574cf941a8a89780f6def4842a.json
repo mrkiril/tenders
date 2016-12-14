@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "95bed7e7c8a2495ea4ce023f98afc29e",
+        "time": "2015-11-20T09:24:27.008074+00:00"
+      },
+      "turn_1": {
+        "bidder": "b34b34f2c3ed4c5bb6a6d1d3cce52814",
+        "time": "2015-11-20T09:22:27.013453+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "95bed7e7c8a2495ea4ce023f98afc29e",
+        "time": "2015-11-20T09:30:27.032830+00:00"
+      },
+      "turn_1": {
+        "bidder": "b34b34f2c3ed4c5bb6a6d1d3cce52814",
+        "time": "2015-11-20T09:28:27.009356+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "95bed7e7c8a2495ea4ce023f98afc29e",
+        "time": "2015-11-20T09:18:27.012632+00:00"
+      },
+      "turn_1": {
+        "bidder": "b34b34f2c3ed4c5bb6a6d1d3cce52814",
+        "time": "2015-11-20T09:16:27.011586+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b34b34f2c3ed4c5bb6a6d1d3cce52814",
+          "amount": 4000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://arr.kiev.ua",
+                "telephone": "+380677766040",
+                "name": "Товариство з обмеженою відповідальністю „АЛТІМ ЛТД”",
+                "email": "t.kolesnik@arr.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35534561",
+                "legalName": "Товариство з обмеженою відповідальністю „АЛТІМ ЛТД”"
+              },
+              "name": "Товариство з обмеженою відповідальністю „АЛТІМ ЛТД”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, м.Київ, БУЛЬВАР ДРУЖБИ НАРОДІВ, будинок 27, квартира 65",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T20:00:08.401827+02:00"
+        },
+        {
+          "bidder": "95bed7e7c8a2495ea4ce023f98afc29e",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "nagaev_om@ukr.net",
+                "name": "Нагаєв Олександр Михайлович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3102014555",
+                "legalName": "Фізична особа-підприємець Нагаєв Олександр Михайлович"
+              },
+              "name": "Фізична особа-підприємець Нагаєв Олександр Михайлович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02097",
+                "region": "Київська",
+                "streetAddress": "Мирославська, будинок 23, квартира 163",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T14:17:19.538349+02:00"
+        }
+      ],
+      "time": "2015-11-20T09:30:33.387336+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T20:00:08.401827+02:00",
+          "amount": 4000.0,
+          "bidder": "b34b34f2c3ed4c5bb6a6d1d3cce52814"
+        },
+        {
+          "date": "2015-11-19T14:17:19.538349+02:00",
+          "amount": 3500.0,
+          "bidder": "95bed7e7c8a2495ea4ce023f98afc29e"
+        }
+      ],
+      "time": "2015-11-20T09:09:27.004431+00:00"
+    }
+  },
+  "id": "04078d574cf941a8a89780f6def4842a",
+  "tenderId": "UA-2015-11-17-000226-b"
+}

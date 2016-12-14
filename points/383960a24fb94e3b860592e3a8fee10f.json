@@ -1,0 +1,170 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1940.0,
+        "bid_time": "2015-09-10T11:45:41.712152+03:00",
+        "bidder": "b1e4e45e42ab4cc1b48f5ac399037c6b",
+        "time": "2015-09-10T08:47:00.070323+00:00"
+      },
+      "turn_3": {
+        "amount": 1930.0,
+        "bid_time": "2015-09-10T11:47:31.302876+03:00",
+        "bidder": "d1d7b94be4374f5880a5bd51f7715fd3",
+        "time": "2015-09-10T08:49:00.051372+00:00"
+      },
+      "turn_1": {
+        "amount": 1949.0,
+        "bid_time": "2015-09-10T11:43:53.016261+03:00",
+        "bidder": "cd66c98a9ec14dae9f7a6897244ddbff",
+        "time": "2015-09-10T08:45:00.166908+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b1e4e45e42ab4cc1b48f5ac399037c6b",
+        "time": "2015-09-10T08:55:00.031412+00:00"
+      },
+      "turn_3": {
+        "amount": 1790.0,
+        "bid_time": "2015-09-10T11:55:24.461873+03:00",
+        "bidder": "d1d7b94be4374f5880a5bd51f7715fd3",
+        "time": "2015-09-10T08:57:00.062715+00:00"
+      },
+      "turn_1": {
+        "amount": 1800.0,
+        "bid_time": "2015-09-10T11:51:34.052454+03:00",
+        "bidder": "cd66c98a9ec14dae9f7a6897244ddbff",
+        "time": "2015-09-10T08:53:00.042314+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1960.0,
+        "bid_time": "2015-09-10T11:37:44.574113+03:00",
+        "bidder": "b1e4e45e42ab4cc1b48f5ac399037c6b",
+        "time": "2015-09-10T08:39:00.080804+00:00"
+      },
+      "turn_3": {
+        "amount": 1950.0,
+        "bid_time": "2015-09-10T11:39:31.154328+03:00",
+        "bidder": "d1d7b94be4374f5880a5bd51f7715fd3",
+        "time": "2015-09-10T08:41:00.052698+00:00"
+      },
+      "turn_1": {
+        "amount": 1969.0,
+        "bid_time": "2015-09-10T11:35:34.434229+03:00",
+        "bidder": "cd66c98a9ec14dae9f7a6897244ddbff",
+        "time": "2015-09-10T08:37:00.074479+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b1e4e45e42ab4cc1b48f5ac399037c6b",
+          "amount": 1940.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0503832756",
+                "name": "Страшний Олександр Віталійович",
+                "email": "strash32@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3247411155",
+                "legalName": "Фізична особа-підприємець Страшний Олександр Віталійович"
+              },
+              "name": "Фізична особа-підприємець Страшний Олександр Віталійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03035",
+                "region": "Київська",
+                "streetAddress": "Урицького, 24, кв. 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T11:45:41.712152+03:00"
+        },
+        {
+          "bidder": "cd66c98a9ec14dae9f7a6897244ddbff",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:51:34.052454+03:00"
+        },
+        {
+          "bidder": "d1d7b94be4374f5880a5bd51f7715fd3",
+          "amount": 1790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380981078508",
+                "name": "Лохмитко Гавриїл Юрійович",
+                "email": "My_orchid@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39734511"
+              },
+              "name": "ТОВ Орхідея України",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "Київська область",
+                "streetAddress": "вулиця Ломоносова, 40, офіс 1",
+                "locality": "Вишневе"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:55:24.461873+03:00"
+        }
+      ],
+      "time": "2015-09-10T08:57:03.810165+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T19:46:13.350017+03:00",
+          "amount": 2000.0,
+          "bidder": "cd66c98a9ec14dae9f7a6897244ddbff"
+        },
+        {
+          "date": "2015-09-07T14:50:32.047088+03:00",
+          "amount": 1980.0,
+          "bidder": "b1e4e45e42ab4cc1b48f5ac399037c6b"
+        },
+        {
+          "date": "2015-09-09T09:05:25.807652+03:00",
+          "amount": 1970.0,
+          "bidder": "d1d7b94be4374f5880a5bd51f7715fd3"
+        }
+      ],
+      "time": "2015-09-10T08:30:00.021471+00:00"
+    }
+  },
+  "id": "383960a24fb94e3b860592e3a8fee10f",
+  "tenderId": "UA-2015-09-03-000189"
+}

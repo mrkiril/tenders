@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f57ee350be0f4c1f8ad6650d41fedd6d",
+        "time": "2015-12-10T13:55:45.006053+00:00"
+      },
+      "turn_1": {
+        "bidder": "612dcc9b35d348c89bd83ab4d3218158",
+        "time": "2015-12-10T13:53:45.090224+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f57ee350be0f4c1f8ad6650d41fedd6d",
+        "time": "2015-12-10T14:01:45.005927+00:00"
+      },
+      "turn_1": {
+        "bidder": "612dcc9b35d348c89bd83ab4d3218158",
+        "time": "2015-12-10T13:59:45.006848+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f57ee350be0f4c1f8ad6650d41fedd6d",
+        "time": "2015-12-10T13:49:45.007155+00:00"
+      },
+      "turn_1": {
+        "bidder": "612dcc9b35d348c89bd83ab4d3218158",
+        "time": "2015-12-10T13:47:45.005905+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "612dcc9b35d348c89bd83ab4d3218158",
+          "amount": 79000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://www.rozumniki.com",
+                "faxNumber": "0444839994",
+                "telephone": "0444839994",
+                "name": "Кохан Ярослав Валерійович",
+                "email": "tender.rozumniki@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35265531",
+                "legalName": "Товариство з обмеженою відповідальністю \"Вівере бене 2\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Вівере бене 2\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01010",
+                "region": "Київська",
+                "streetAddress": "Івана Мазепи, 26",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T17:43:39.240012+02:00"
+        },
+        {
+          "bidder": "f57ee350be0f4c1f8ad6650d41fedd6d",
+          "amount": 78000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://englerllc.com/",
+                "faxNumber": "0443511868",
+                "telephone": "0443511868",
+                "name": "Ільєнко Олег Борисович",
+                "email": "o.ilyenko@englerllc.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36938941",
+                "legalName": "ТОВ \"НВП Енглер\""
+              },
+              "name": "ТОВ \"НВП Енглер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03113",
+                "region": "Київська",
+                "streetAddress": "Скляренка, б. 5 , оф. 305А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T21:41:38.758118+02:00"
+        }
+      ],
+      "time": "2015-12-10T14:01:54.635608+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T17:43:39.240012+02:00",
+          "amount": 79000.0,
+          "bidder": "612dcc9b35d348c89bd83ab4d3218158"
+        },
+        {
+          "date": "2015-12-08T21:41:38.758118+02:00",
+          "amount": 78000.0,
+          "bidder": "f57ee350be0f4c1f8ad6650d41fedd6d"
+        }
+      ],
+      "time": "2015-12-10T13:40:45.002502+00:00"
+    }
+  },
+  "id": "3c1f63bb411e407a853edda91734ff80",
+  "tenderId": "UA-2015-11-29-000003"
+}

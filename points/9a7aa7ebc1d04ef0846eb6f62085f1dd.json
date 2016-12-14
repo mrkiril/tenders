@@ -1,0 +1,123 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 52950.0,
+        "bid_time": "2015-10-16T12:57:41.086525+03:00",
+        "bidder": "2a39af582e5f4206993ee8bcf7443a82",
+        "time": "2015-10-16T09:59:24.013890+00:00"
+      },
+      "turn_1": {
+        "amount": 53000.0,
+        "bid_time": "2015-10-16T12:55:38.848561+03:00",
+        "bidder": "733d4fc2b6eb4093a0af68252a45a536",
+        "time": "2015-10-16T09:57:24.012376+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 50900.0,
+        "bid_time": "2015-10-16T13:04:33.176751+03:00",
+        "bidder": "2a39af582e5f4206993ee8bcf7443a82",
+        "time": "2015-10-16T10:05:24.017163+00:00"
+      },
+      "turn_1": {
+        "amount": 51000.0,
+        "bid_time": "2015-10-16T13:01:48.656078+03:00",
+        "bidder": "733d4fc2b6eb4093a0af68252a45a536",
+        "time": "2015-10-16T10:03:24.010548+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 54450.0,
+        "bid_time": "2015-10-16T12:52:12.144818+03:00",
+        "bidder": "2a39af582e5f4206993ee8bcf7443a82",
+        "time": "2015-10-16T09:53:24.008931+00:00"
+      },
+      "turn_1": {
+        "amount": 54500.0,
+        "bid_time": "2015-10-16T12:50:27.853415+03:00",
+        "bidder": "733d4fc2b6eb4093a0af68252a45a536",
+        "time": "2015-10-16T09:51:24.006457+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "733d4fc2b6eb4093a0af68252a45a536",
+          "amount": 51000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.art-comfort.com.ua",
+                "faxNumber": "+380444220428",
+                "telephone": "+380443535001",
+                "name": "Страутман Юрій Артурович",
+                "email": "yuriy@art-comfort.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35212500"
+              },
+              "name": "ТОВ АРТ-КОМФОРТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул.Керченська, 7/7",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-16T13:01:48.656078+03:00"
+        },
+        {
+          "bidder": "2a39af582e5f4206993ee8bcf7443a82",
+          "amount": 50900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443777849",
+                "name": "ООО \"ПРИВАТЭНЕРГО\"",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988",
+                "legalName": "ООО \"ПРИВАТЭНЕРГО\""
+              },
+              "name": "ООО \"ПРИВАТЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04205, Киев, пр-т Оболонский, 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T13:04:33.176751+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:05:43.390462+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T15:38:08.904249+03:00",
+          "amount": 64890.0,
+          "bidder": "733d4fc2b6eb4093a0af68252a45a536"
+        },
+        {
+          "date": "2015-10-13T12:52:31.956788+03:00",
+          "amount": 54939.6,
+          "bidder": "2a39af582e5f4206993ee8bcf7443a82"
+        }
+      ],
+      "time": "2015-10-16T09:44:24.002662+00:00"
+    }
+  },
+  "id": "9a7aa7ebc1d04ef0846eb6f62085f1dd",
+  "tenderId": "UA-2015-10-08-000320"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e4fe2ad581ef496e8156f9f0e14da26a",
+        "time": "2015-11-30T11:23:56.007093+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba1e69fdfcd44991afdb54a7163d61f7",
+        "time": "2015-11-30T11:21:56.006811+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e4fe2ad581ef496e8156f9f0e14da26a",
+        "time": "2015-11-30T11:29:56.006714+00:00"
+      },
+      "turn_1": {
+        "amount": 19050.0,
+        "bid_time": "2015-11-30T13:27:22.205472+02:00",
+        "bidder": "ba1e69fdfcd44991afdb54a7163d61f7",
+        "time": "2015-11-30T11:27:56.008369+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e4fe2ad581ef496e8156f9f0e14da26a",
+        "time": "2015-11-30T11:17:56.008522+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba1e69fdfcd44991afdb54a7163d61f7",
+        "time": "2015-11-30T11:15:56.006696+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e4fe2ad581ef496e8156f9f0e14da26a",
+          "amount": 19480.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-284-90-71",
+                "telephone": "044-284-90-71",
+                "name": "Тарасюк Володимир Олександрович",
+                "email": "tenderking@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37635244",
+                "legalName": "Товариство з обмеженою відповідальністю \"Кінг-Енерджи\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Кінг-Енерджи\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "бул. Л.Українки, 26, оф.603",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:50:52.392185+02:00"
+        },
+        {
+          "bidder": "ba1e69fdfcd44991afdb54a7163d61f7",
+          "amount": 19050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503775330",
+                "name": "Олександр Богомолов",
+                "email": "aaboff79@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Торговий дім Маркет-плюс\"",
+                "id": "37958115",
+                "uri": "http://azs-market.com.ua"
+              },
+              "name": "ТОВ \"Торговий дім Маркет-плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "89600",
+                "region": "Закарпатская",
+                "streetAddress": "Закарпатська область, м. Мукачево, вул. Берегівська-об'їздна, 11",
+                "locality": "Ужгород"
+              }
+            }
+          ],
+          "time": "2015-11-30T13:27:22.205472+02:00"
+        }
+      ],
+      "time": "2015-11-30T11:29:57.908181+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T15:49:13.070224+02:00",
+          "amount": 19500.0,
+          "bidder": "ba1e69fdfcd44991afdb54a7163d61f7"
+        },
+        {
+          "date": "2015-11-27T15:50:52.392185+02:00",
+          "amount": 19480.0,
+          "bidder": "e4fe2ad581ef496e8156f9f0e14da26a"
+        }
+      ],
+      "time": "2015-11-30T11:08:56.002792+00:00"
+    }
+  },
+  "id": "06975f530dab4edca85aec401e782dc4",
+  "tenderId": "UA-2015-11-23-000020-a"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aa486e0b731a4d4b85ff47ab726a63fa",
+        "time": "2015-11-23T13:49:59.010689+00:00"
+      },
+      "turn_1": {
+        "bidder": "13be1febe8294a2b87f1cedf474c2978",
+        "time": "2015-11-23T13:47:59.010637+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aa486e0b731a4d4b85ff47ab726a63fa",
+        "time": "2015-11-23T13:55:59.010038+00:00"
+      },
+      "turn_1": {
+        "bidder": "13be1febe8294a2b87f1cedf474c2978",
+        "time": "2015-11-23T13:53:59.010037+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "13be1febe8294a2b87f1cedf474c2978",
+        "time": "2015-11-23T13:43:59.010954+00:00"
+      },
+      "turn_1": {
+        "amount": 65300.0,
+        "bid_time": "2015-11-23T15:40:50.103852+02:00",
+        "bidder": "aa486e0b731a4d4b85ff47ab726a63fa",
+        "time": "2015-11-23T13:41:59.011434+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "13be1febe8294a2b87f1cedf474c2978",
+          "amount": 65352.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562322200",
+                "name": "Елена Окунь",
+                "email": "ecologpost@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38598979",
+                "legalName": "ТОВ \"НВК \"Рема\""
+              },
+              "name": "ТОВ \"НВК \"Рема\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49051",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-20T10:38:32.003492+02:00"
+        },
+        {
+          "bidder": "aa486e0b731a4d4b85ff47ab726a63fa",
+          "amount": 65300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380482349653, +380487221658, +380503954584, +380445862094, +380675531518",
+                "name": "Кирилл Филатов",
+                "email": "econad@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30171732",
+                "legalName": "Сорбенты нефти - НПП «ЭКОНАД»"
+              },
+              "name": "Сорбенты нефти - НПП «ЭКОНАД»",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65026",
+                "region": "Одесская",
+                "streetAddress": "г.Одесса ул. Ланжероновская 28.кв.1",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-23T15:40:50.103852+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:56:02.855406+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T16:25:02.601167+02:00",
+          "amount": 72732.0,
+          "bidder": "aa486e0b731a4d4b85ff47ab726a63fa"
+        },
+        {
+          "date": "2015-11-20T10:38:32.003492+02:00",
+          "amount": 65352.0,
+          "bidder": "13be1febe8294a2b87f1cedf474c2978"
+        }
+      ],
+      "time": "2015-11-23T13:34:59.005733+00:00"
+    }
+  },
+  "id": "3bfd0d76394043508c5d1d62312fa956",
+  "tenderId": "UA-2015-11-10-000195"
+}

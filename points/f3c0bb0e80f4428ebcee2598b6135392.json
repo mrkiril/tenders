@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "da3184b628e54baca9e3c8086cbf0812",
+        "time": "2015-11-23T11:00:54.009708+00:00"
+      },
+      "turn_3": {
+        "bidder": "26d289f2dc004ac1b252f8ca08b2475c",
+        "time": "2015-11-23T11:02:54.008766+00:00"
+      },
+      "turn_1": {
+        "bidder": "07b667ca23a64b40ac064c8d0df18014",
+        "time": "2015-11-23T10:58:54.008738+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "da3184b628e54baca9e3c8086cbf0812",
+        "time": "2015-11-23T11:08:54.008544+00:00"
+      },
+      "turn_3": {
+        "bidder": "26d289f2dc004ac1b252f8ca08b2475c",
+        "time": "2015-11-23T11:10:54.008727+00:00"
+      },
+      "turn_1": {
+        "bidder": "07b667ca23a64b40ac064c8d0df18014",
+        "time": "2015-11-23T11:06:54.011200+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "da3184b628e54baca9e3c8086cbf0812",
+        "time": "2015-11-23T10:52:54.024078+00:00"
+      },
+      "turn_3": {
+        "bidder": "26d289f2dc004ac1b252f8ca08b2475c",
+        "time": "2015-11-23T10:54:54.009335+00:00"
+      },
+      "turn_1": {
+        "bidder": "07b667ca23a64b40ac064c8d0df18014",
+        "time": "2015-11-23T10:50:54.009090+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "07b667ca23a64b40ac064c8d0df18014",
+          "amount": 5147640.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.nisa.com.ua",
+                "telephone": "+380442421777",
+                "name": "ТОВ \"Торговий Дім \"НІСА\"",
+                "email": "nisa@nisa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25270048",
+                "legalName": "ТОВ \"Торговий Дім \"НІСА\""
+              },
+              "name": "ТОВ \"Торговий Дім \"НІСА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03151 Україна, м. Київ, вул. Молодогвардійська, 28 А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T17:58:57.387644+02:00"
+        },
+        {
+          "bidder": "da3184b628e54baca9e3c8086cbf0812",
+          "amount": 3915000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505157071",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЗАПОРІЗЬКИЙ МЕТИЗНИЙ ЗАВОД\"",
+                "email": "info.zmz@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39989779",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЗАПОРІЗЬКИЙ МЕТИЗНИЙ ЗАВОД\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЗАПОРІЗЬКИЙ МЕТИЗНИЙ ЗАВОД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69034, Запорізька обл., м. Запоріжжя, вул. Цимлянська, будинок 1.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-20T14:14:00.293833+02:00"
+        },
+        {
+          "bidder": "26d289f2dc004ac1b252f8ca08b2475c",
+          "amount": 3915000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stalkanatsilur.com.ua",
+                "telephone": "+380482357796",
+                "name": "ПрАТ ПО \"Стальканат-Силур\"",
+                "email": "div@stalkanatsilur.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "26209430",
+                "legalName": "ПрАТ ПО \"Стальканат-Силур\""
+              },
+              "name": "ПрАТ ПО \"Стальканат-Силур\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65007, г. Одесса. \r\nул. Водопроводная, 16",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-20T13:54:08.654491+02:00"
+        }
+      ],
+      "time": "2015-11-23T11:10:57.019363+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T17:58:57.387644+02:00",
+          "amount": 5147640.0,
+          "bidder": "07b667ca23a64b40ac064c8d0df18014"
+        },
+        {
+          "date": "2015-11-20T13:54:08.654491+02:00",
+          "amount": 3915000.0,
+          "bidder": "26d289f2dc004ac1b252f8ca08b2475c"
+        },
+        {
+          "date": "2015-11-20T14:14:00.293833+02:00",
+          "amount": 3915000.0,
+          "bidder": "da3184b628e54baca9e3c8086cbf0812"
+        }
+      ],
+      "time": "2015-11-23T10:43:54.004550+00:00"
+    }
+  },
+  "id": "f3c0bb0e80f4428ebcee2598b6135392",
+  "tenderId": "UA-2015-11-17-000152-a"
+}

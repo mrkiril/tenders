@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "80e6cafa4ba346ae9a526e7c47612452",
+        "time": "2015-08-19T08:17:00.038619+00:00"
+      },
+      "turn_3": {
+        "bidder": "768d715475c34b16b197e82b86a9b3ce",
+        "time": "2015-08-19T08:19:00.077307+00:00"
+      },
+      "turn_1": {
+        "bidder": "c5a33e5882c44a1c8c64645bbd8ffdbf",
+        "time": "2015-08-19T08:15:00.055065+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "80e6cafa4ba346ae9a526e7c47612452",
+        "time": "2015-08-19T08:25:00.027452+00:00"
+      },
+      "turn_3": {
+        "bidder": "768d715475c34b16b197e82b86a9b3ce",
+        "time": "2015-08-19T08:27:00.037933+00:00"
+      },
+      "turn_1": {
+        "bidder": "c5a33e5882c44a1c8c64645bbd8ffdbf",
+        "time": "2015-08-19T08:23:00.031462+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "80e6cafa4ba346ae9a526e7c47612452",
+        "time": "2015-08-19T08:09:00.072115+00:00"
+      },
+      "turn_3": {
+        "bidder": "768d715475c34b16b197e82b86a9b3ce",
+        "time": "2015-08-19T08:11:00.074604+00:00"
+      },
+      "turn_1": {
+        "bidder": "c5a33e5882c44a1c8c64645bbd8ffdbf",
+        "time": "2015-08-19T08:07:00.091496+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c5a33e5882c44a1c8c64645bbd8ffdbf",
+          "amount": 4900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sprint-seervice.com.ua",
+                "telephone": "+380957251125",
+                "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+                "email": "andrey@bc.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36866846",
+                "legalName": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Почайнинська, 28, літ.Б, м.Київ, 04070",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T11:52:18.857108+03:00"
+        },
+        {
+          "bidder": "80e6cafa4ba346ae9a526e7c47612452",
+          "amount": 4805.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tss.kiev.ua/",
+                "telephone": "+380442249114",
+                "name": "ТОВ ТЕХНОСОФТСЕРВІС",
+                "email": "ua_print@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34795318",
+                "legalName": "ТОВ ТЕХНОСОФТСЕРВІС"
+              },
+              "name": "ТОВ ТЕХНОСОФТСЕРВІС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Багговутівська, 40; м. Київ; 04107",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T17:51:09.227326+03:00"
+        },
+        {
+          "bidder": "768d715475c34b16b197e82b86a9b3ce",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nicenet.kiev.ua",
+                "telephone": "+380443624987",
+                "name": "\"Найснет плюс\", ТОВ",
+                "email": "nnpf2011@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35726575",
+                "legalName": "\"Найснет плюс\", ТОВ"
+              },
+              "name": "\"Найснет плюс\", ТОВ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04086, м. Київ. вул. Петропавлівська 34А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T03:21:01.513543+03:00"
+        }
+      ],
+      "time": "2015-08-19T08:27:05.741529+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T11:52:18.857108+03:00",
+          "amount": 4900.0,
+          "bidder": "c5a33e5882c44a1c8c64645bbd8ffdbf"
+        },
+        {
+          "date": "2015-08-17T17:51:09.227326+03:00",
+          "amount": 4805.0,
+          "bidder": "80e6cafa4ba346ae9a526e7c47612452"
+        },
+        {
+          "date": "2015-08-17T03:21:01.513543+03:00",
+          "amount": 4500.0,
+          "bidder": "768d715475c34b16b197e82b86a9b3ce"
+        }
+      ],
+      "time": "2015-08-19T08:00:00.049913+00:00"
+    }
+  },
+  "id": "1f9f09fd081e4f098d681f0f1a3bb0e6",
+  "tenderId": "UA-2015-08-10-000020"
+}

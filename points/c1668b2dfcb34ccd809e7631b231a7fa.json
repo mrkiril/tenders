@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e09bf64bff3b42498690a642fe779430",
+        "time": "2015-06-26T08:15:00.337171+00:00"
+      },
+      "turn_1": {
+        "bidder": "18f13df9bde14403ae6c6f8888d16bd6",
+        "time": "2015-06-26T08:13:00.546423+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e09bf64bff3b42498690a642fe779430",
+        "time": "2015-06-26T08:21:00.255805+00:00"
+      },
+      "turn_1": {
+        "bidder": "18f13df9bde14403ae6c6f8888d16bd6",
+        "time": "2015-06-26T08:19:00.546900+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e09bf64bff3b42498690a642fe779430",
+        "time": "2015-06-26T08:09:00.449726+00:00"
+      },
+      "turn_1": {
+        "bidder": "18f13df9bde14403ae6c6f8888d16bd6",
+        "time": "2015-06-26T08:07:00.174944+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "18f13df9bde14403ae6c6f8888d16bd6",
+          "amount": 1719.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T18:19:56.619072+03:00"
+        },
+        {
+          "bidder": "e09bf64bff3b42498690a642fe779430",
+          "amount": 1690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0990020702",
+                "name": "Юрий Кобзарь ",
+                "email": "0020702@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38537104",
+                "legalName": ""
+              },
+              "name": "Акцент Сервис Груп",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "04073, вул. Марка Вовчка, буд. 14"
+              }
+            }
+          ],
+          "time": "2015-06-19T10:22:31.497918+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:21:16.265541+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-25T18:19:56.619072+03:00",
+          "amount": 1719.84,
+          "bidder": "18f13df9bde14403ae6c6f8888d16bd6"
+        },
+        {
+          "date": "2015-06-19T10:22:31.497918+03:00",
+          "amount": 1690.0,
+          "bidder": "e09bf64bff3b42498690a642fe779430"
+        }
+      ],
+      "time": "2015-06-26T08:00:00.127193+00:00"
+    }
+  },
+  "id": "c1668b2dfcb34ccd809e7631b231a7fa",
+  "tenderId": "UA-2015-06-17-000032"
+}

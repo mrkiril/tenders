@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c3567d8d3f4c4f4a9e94c77ac331ff49",
+        "time": "2015-11-20T10:48:50.008400+00:00"
+      },
+      "turn_3": {
+        "bidder": "735a62a985864409a6eaef043740c170",
+        "time": "2015-11-20T10:50:50.008042+00:00"
+      },
+      "turn_1": {
+        "bidder": "07f8f831144a49de959aecb6cd6a457c",
+        "time": "2015-11-20T10:46:50.009113+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c3567d8d3f4c4f4a9e94c77ac331ff49",
+        "time": "2015-11-20T10:56:50.007798+00:00"
+      },
+      "turn_3": {
+        "bidder": "735a62a985864409a6eaef043740c170",
+        "time": "2015-11-20T10:58:50.008275+00:00"
+      },
+      "turn_1": {
+        "amount": 29800.0,
+        "bid_time": "2015-11-20T12:53:13.424205+02:00",
+        "bidder": "07f8f831144a49de959aecb6cd6a457c",
+        "time": "2015-11-20T10:54:50.009412+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c3567d8d3f4c4f4a9e94c77ac331ff49",
+        "time": "2015-11-20T10:40:50.010834+00:00"
+      },
+      "turn_3": {
+        "bidder": "735a62a985864409a6eaef043740c170",
+        "time": "2015-11-20T10:42:50.009421+00:00"
+      },
+      "turn_1": {
+        "amount": 30000.0,
+        "bid_time": "2015-11-20T12:37:23.090072+02:00",
+        "bidder": "07f8f831144a49de959aecb6cd6a457c",
+        "time": "2015-11-20T10:38:50.028375+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "07f8f831144a49de959aecb6cd6a457c",
+          "amount": 29800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508867783, +380445854363",
+                "name": "Катерина Остапчук",
+                "email": "ostapchuk@aquamarket.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"АКВАМАРКЕТ СЕРВІС \"",
+                "id": "38791982",
+                "uri": "http://aquamarket.ua/ru/"
+              },
+              "name": "ТОВ \"АКВАМАРКЕТ СЕРВІС \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03186",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Авіаконструктора Антонова, буд. 5-А, офіс 306",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-20T12:53:13.424205+02:00"
+        },
+        {
+          "bidder": "c3567d8d3f4c4f4a9e94c77ac331ff49",
+          "amount": 17810.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T18:32:12.923323+02:00"
+        },
+        {
+          "bidder": "735a62a985864409a6eaef043740c170",
+          "amount": 12744.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0503944207",
+                "name": "Михаил Геранин ",
+                "email": "torgprospekt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31882659",
+                "legalName": "ТОВ \"ТОРГ-ПРОСПЕКТ\""
+              },
+              "name": "ТОВ \"ТОРГ-ПРОСПЕКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Николаевская область",
+                "streetAddress": "Николаев, 54017, ул. Московская 43"
+              }
+            }
+          ],
+          "time": "2015-11-16T12:13:29.976019+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:58:51.237279+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T10:45:14.824559+02:00",
+          "amount": 33408.0,
+          "bidder": "07f8f831144a49de959aecb6cd6a457c"
+        },
+        {
+          "date": "2015-11-17T18:32:12.923323+02:00",
+          "amount": 17810.4,
+          "bidder": "c3567d8d3f4c4f4a9e94c77ac331ff49"
+        },
+        {
+          "date": "2015-11-16T12:13:29.976019+02:00",
+          "amount": 12744.0,
+          "bidder": "735a62a985864409a6eaef043740c170"
+        }
+      ],
+      "time": "2015-11-20T10:31:50.004590+00:00"
+    }
+  },
+  "id": "8ce872490a1d4953904f666059ce220f",
+  "tenderId": "UA-2015-11-12-000178"
+}

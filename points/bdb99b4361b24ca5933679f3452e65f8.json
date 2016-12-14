@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1050.0,
+        "bid_time": "2015-11-02T12:30:53.317367+02:00",
+        "bidder": "b6bdd3e195134eab8bdc5cbf4b4cf7c4",
+        "time": "2015-11-02T10:31:09.010354+00:00"
+      },
+      "turn_3": {
+        "bidder": "ccd96b59789a4891a8d0b45c5ad0bcf8",
+        "time": "2015-11-02T10:33:09.012830+00:00"
+      },
+      "turn_1": {
+        "bidder": "97f9adfb178d4a4e9d1fd42161a5d709",
+        "time": "2015-11-02T10:29:09.008236+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ccd96b59789a4891a8d0b45c5ad0bcf8",
+        "time": "2015-11-02T10:39:09.008228+00:00"
+      },
+      "turn_3": {
+        "bidder": "b6bdd3e195134eab8bdc5cbf4b4cf7c4",
+        "time": "2015-11-02T10:41:09.012117+00:00"
+      },
+      "turn_1": {
+        "bidder": "97f9adfb178d4a4e9d1fd42161a5d709",
+        "time": "2015-11-02T10:37:09.011230+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "97f9adfb178d4a4e9d1fd42161a5d709",
+        "time": "2015-11-02T10:23:09.008021+00:00"
+      },
+      "turn_3": {
+        "amount": 1100.0,
+        "bid_time": "2015-11-02T12:23:31.780826+02:00",
+        "bidder": "ccd96b59789a4891a8d0b45c5ad0bcf8",
+        "time": "2015-11-02T10:25:09.014182+00:00"
+      },
+      "turn_1": {
+        "amount": 1150.0,
+        "bid_time": "2015-11-02T12:19:24.556634+02:00",
+        "bidder": "b6bdd3e195134eab8bdc5cbf4b4cf7c4",
+        "time": "2015-11-02T10:21:09.009950+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "97f9adfb178d4a4e9d1fd42161a5d709",
+          "amount": 2046.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444537488, +380445997049",
+                "name": "Александр Петрович",
+                "email": "urmt1@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36405016",
+                "legalName": "ТОВ \"Укрреммедтехника\""
+              },
+              "name": "ТОВ \"Укрреммедтехника\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "ул. Магнитогорская, 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-30T11:51:52.040967+02:00"
+        },
+        {
+          "bidder": "ccd96b59789a4891a8d0b45c5ad0bcf8",
+          "amount": 1100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "097-3472767",
+                "name": "Шелевей Олег Леонідович",
+                "email": "penal79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2890309958",
+                "legalName": "ФОП Шелевей Олег Леонідович"
+              },
+              "name": "ФОП Шелевей Олег Леонідович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "22542",
+                "region": "Вінницька",
+                "streetAddress": "Горького, 90",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T12:23:31.780826+02:00"
+        },
+        {
+          "bidder": "b6bdd3e195134eab8bdc5cbf4b4cf7c4",
+          "amount": 1050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.medtehservis.kiev.ua",
+                "faxNumber": "+380442009526",
+                "telephone": "+380442009526",
+                "name": "Нємцева Анжела Дмитрівна",
+                "email": "medtehservis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37730206"
+              },
+              "name": "ТОВ Підприємство Медтехсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04060",
+                "region": "Київська область",
+                "streetAddress": "М.Берлінського, 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T12:30:53.317367+02:00"
+        }
+      ],
+      "time": "2015-11-02T10:41:16.846073+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T15:30:59.938641+02:00",
+          "amount": 2190.0,
+          "bidder": "b6bdd3e195134eab8bdc5cbf4b4cf7c4"
+        },
+        {
+          "date": "2015-10-30T11:51:52.040967+02:00",
+          "amount": 2046.0,
+          "bidder": "97f9adfb178d4a4e9d1fd42161a5d709"
+        },
+        {
+          "date": "2015-10-28T11:07:40.303817+02:00",
+          "amount": 1203.0,
+          "bidder": "ccd96b59789a4891a8d0b45c5ad0bcf8"
+        }
+      ],
+      "time": "2015-11-02T10:14:09.002190+00:00"
+    }
+  },
+  "id": "bdb99b4361b24ca5933679f3452e65f8",
+  "tenderId": "UA-2015-10-22-000106"
+}

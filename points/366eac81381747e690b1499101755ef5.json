@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ef01ac24cbcb49ff9accf997346d3b93",
+        "time": "2015-06-22T08:15:00.393589+00:00"
+      },
+      "turn_1": {
+        "bidder": "880b085c155f4beca270430a5cbdbfb0",
+        "time": "2015-06-22T08:13:00.364178+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ef01ac24cbcb49ff9accf997346d3b93",
+        "time": "2015-06-22T08:21:00.647903+00:00"
+      },
+      "turn_1": {
+        "bidder": "880b085c155f4beca270430a5cbdbfb0",
+        "time": "2015-06-22T08:19:00.579897+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ef01ac24cbcb49ff9accf997346d3b93",
+        "time": "2015-06-22T08:09:00.626356+00:00"
+      },
+      "turn_1": {
+        "bidder": "880b085c155f4beca270430a5cbdbfb0",
+        "time": "2015-06-22T08:07:00.183525+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "880b085c155f4beca270430a5cbdbfb0",
+          "amount": 33000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380949543637, +380675180545",
+                "name": "Марлен Аккиев",
+                "email": "marlen.akkiev@truck-parts.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36466325",
+                "legalName": "ТОВ \"Трак Партс\""
+              },
+              "name": "ТОВ \"Трак Партс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65000",
+                "region": "Одесская",
+                "streetAddress": "ул. Дальницкая 23/4",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-18T23:20:01.682595+03:00"
+        },
+        {
+          "bidder": "ef01ac24cbcb49ff9accf997346d3b93",
+          "amount": 32450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503908323",
+                "name": "Сергей Медынский",
+                "email": "avtoline3011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38549193",
+                "legalName": "ООО \"Автопарт\""
+              },
+              "name": "ООО \"Автопарт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "68000",
+                "region": "Одесская",
+                "streetAddress": "Украина, Одесская область, г. Ильичевск, бул. Гайдара, 7Б",
+                "locality": "Іллічівськ"
+              }
+            }
+          ],
+          "time": "2015-06-19T10:03:09.606068+03:00"
+        }
+      ],
+      "time": "2015-06-22T08:21:12.126288+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-18T23:20:01.682595+03:00",
+          "amount": 33000.0,
+          "bidder": "880b085c155f4beca270430a5cbdbfb0"
+        },
+        {
+          "date": "2015-06-19T10:03:09.606068+03:00",
+          "amount": 32450.0,
+          "bidder": "ef01ac24cbcb49ff9accf997346d3b93"
+        }
+      ],
+      "time": "2015-06-22T08:00:00.328725+00:00"
+    }
+  },
+  "id": "366eac81381747e690b1499101755ef5",
+  "tenderId": "UA-2015-06-12-000046"
+}

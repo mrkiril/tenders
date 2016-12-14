@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "81a9a64941a943448b243fac5ac43869",
+        "time": "2015-11-06T14:01:07.009536+00:00"
+      },
+      "turn_3": {
+        "bidder": "fbfc7f854bb24236bac1232bcaa6a3cf",
+        "time": "2015-11-06T14:03:07.008598+00:00"
+      },
+      "turn_1": {
+        "bidder": "78d4c85156294501a62c12d76e04e513",
+        "time": "2015-11-06T13:59:07.008842+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "81a9a64941a943448b243fac5ac43869",
+        "time": "2015-11-06T14:09:07.009639+00:00"
+      },
+      "turn_3": {
+        "bidder": "fbfc7f854bb24236bac1232bcaa6a3cf",
+        "time": "2015-11-06T14:11:07.008806+00:00"
+      },
+      "turn_1": {
+        "bidder": "78d4c85156294501a62c12d76e04e513",
+        "time": "2015-11-06T14:07:07.008448+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "78d4c85156294501a62c12d76e04e513",
+        "time": "2015-11-06T13:53:07.008375+00:00"
+      },
+      "turn_3": {
+        "bidder": "81a9a64941a943448b243fac5ac43869",
+        "time": "2015-11-06T13:55:07.008628+00:00"
+      },
+      "turn_1": {
+        "amount": 29950.0,
+        "bid_time": "2015-11-06T15:49:52.762661+02:00",
+        "bidder": "fbfc7f854bb24236bac1232bcaa6a3cf",
+        "time": "2015-11-06T13:51:07.010289+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "78d4c85156294501a62c12d76e04e513",
+          "amount": 31000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512362404",
+                "telephone": "0512362404",
+                "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+                "email": "vera121186@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172710986",
+                "legalName": "Фізична особа підприємства Шпиль Віра Олександрівна"
+              },
+              "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "Фрунзе 50, кв.79",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T20:45:01.746000+02:00"
+        },
+        {
+          "bidder": "81a9a64941a943448b243fac5ac43869",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T22:38:37.398950+02:00"
+        },
+        {
+          "bidder": "fbfc7f854bb24236bac1232bcaa6a3cf",
+          "amount": 29950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://posudar.com.ua/",
+                "telephone": "+38976899090",
+                "name": "ТОВ \"Посударь\"",
+                "email": "shaposhnikov.andrey@psf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39353909",
+                "legalName": "ТОВ \"Посударь\""
+              },
+              "name": "ТОВ \"Посударь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69057, Запоріжжя, вул. Адмирала Ннахімова, будинок №3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T15:49:52.762661+02:00"
+        }
+      ],
+      "time": "2015-11-06T14:11:57.089618+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T14:25:08.954204+02:00",
+          "amount": 31907.3,
+          "bidder": "fbfc7f854bb24236bac1232bcaa6a3cf"
+        },
+        {
+          "date": "2015-11-03T20:45:01.746000+02:00",
+          "amount": 31000.0,
+          "bidder": "78d4c85156294501a62c12d76e04e513"
+        },
+        {
+          "date": "2015-11-02T22:38:37.398950+02:00",
+          "amount": 30000.0,
+          "bidder": "81a9a64941a943448b243fac5ac43869"
+        }
+      ],
+      "time": "2015-11-06T13:44:07.004257+00:00"
+    }
+  },
+  "id": "4566ad9fda3542a2b30b7ba55f4b34c5",
+  "tenderId": "UA-2015-10-27-000333"
+}

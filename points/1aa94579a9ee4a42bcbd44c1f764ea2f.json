@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cc9b4a0c67194d09b2313d296b8a5ff6",
+        "time": "2015-10-21T08:22:30.007150+00:00"
+      },
+      "turn_1": {
+        "bidder": "3791c707077942d1bf89a8ccacc676c6",
+        "time": "2015-10-21T08:20:30.008889+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cc9b4a0c67194d09b2313d296b8a5ff6",
+        "time": "2015-10-21T08:28:30.007692+00:00"
+      },
+      "turn_1": {
+        "bidder": "3791c707077942d1bf89a8ccacc676c6",
+        "time": "2015-10-21T08:26:30.007327+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cc9b4a0c67194d09b2313d296b8a5ff6",
+        "time": "2015-10-21T08:16:30.007828+00:00"
+      },
+      "turn_1": {
+        "bidder": "3791c707077942d1bf89a8ccacc676c6",
+        "time": "2015-10-21T08:14:30.007771+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3791c707077942d1bf89a8ccacc676c6",
+          "amount": 3872.82,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kunica.com.ua",
+                "faxNumber": "+380567447606",
+                "telephone": "+380676320993",
+                "name": "Свідунов Ігор Юрійович",
+                "email": "igor_sv@kunica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19143995"
+              },
+              "name": "ТОВ ТВГ \"КУНІЦА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Шевченка, буд. 37",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-20T16:29:35.786782+03:00"
+        },
+        {
+          "bidder": "cc9b4a0c67194d09b2313d296b8a5ff6",
+          "amount": 2906.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-19T09:40:05.148311+03:00"
+        }
+      ],
+      "time": "2015-10-21T08:28:32.185032+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T16:29:35.786782+03:00",
+          "amount": 3872.82,
+          "bidder": "3791c707077942d1bf89a8ccacc676c6"
+        },
+        {
+          "date": "2015-10-19T09:40:05.148311+03:00",
+          "amount": 2906.4,
+          "bidder": "cc9b4a0c67194d09b2313d296b8a5ff6"
+        }
+      ],
+      "time": "2015-10-21T08:07:30.003905+00:00"
+    }
+  },
+  "id": "1aa94579a9ee4a42bcbd44c1f764ea2f",
+  "tenderId": "UA-2015-10-13-000182"
+}

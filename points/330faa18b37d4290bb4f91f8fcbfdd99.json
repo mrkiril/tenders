@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "676a01704f524a2e9fc0c226577abc8f",
+        "time": "2015-11-20T13:50:39.009529+00:00"
+      },
+      "turn_3": {
+        "bidder": "3b9f044d01b54c2cae7c53463f3c96df",
+        "time": "2015-11-20T13:52:39.009692+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5e034d36310484984aedea3734439a7",
+        "time": "2015-11-20T13:48:39.009381+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "676a01704f524a2e9fc0c226577abc8f",
+        "time": "2015-11-20T13:58:39.009094+00:00"
+      },
+      "turn_3": {
+        "bidder": "3b9f044d01b54c2cae7c53463f3c96df",
+        "time": "2015-11-20T14:00:39.009771+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5e034d36310484984aedea3734439a7",
+        "time": "2015-11-20T13:56:39.009711+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "676a01704f524a2e9fc0c226577abc8f",
+        "time": "2015-11-20T13:42:39.010099+00:00"
+      },
+      "turn_3": {
+        "bidder": "3b9f044d01b54c2cae7c53463f3c96df",
+        "time": "2015-11-20T13:44:39.009394+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5e034d36310484984aedea3734439a7",
+        "time": "2015-11-20T13:40:39.035058+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d5e034d36310484984aedea3734439a7",
+          "amount": 8845.77,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-19T01:08:24.701831+02:00"
+        },
+        {
+          "bidder": "676a01704f524a2e9fc0c226577abc8f",
+          "amount": 8664.65,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445815734, +380442230157, +380673248481, +380503735522",
+                "name": "Юлия Чекерда",
+                "email": "ulia81_@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34475249",
+                "legalName": "ТОВ \"«ХЛ СТУДИО»\""
+              },
+              "name": "ТОВ \"«ХЛ СТУДИО»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02225",
+                "region": "Киевская",
+                "streetAddress": "02225, Киев, ул. Оноре де Бальзака, 18, 126",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T15:50:19.908597+02:00"
+        },
+        {
+          "bidder": "3b9f044d01b54c2cae7c53463f3c96df",
+          "amount": 8035.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380986986426, +380443611717",
+                "name": "Вадим Стадник",
+                "email": "info@robotun.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39079675",
+                "legalName": "ТОВ \"Роботун Про\""
+              },
+              "name": "ТОВ \"Роботун Про\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04070",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Спасская, 31-Б, офис 102",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T13:24:27.824230+02:00"
+        }
+      ],
+      "time": "2015-11-20T14:01:01.052895+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T01:08:24.701831+02:00",
+          "amount": 8845.77,
+          "bidder": "d5e034d36310484984aedea3734439a7"
+        },
+        {
+          "date": "2015-11-17T15:50:19.908597+02:00",
+          "amount": 8664.65,
+          "bidder": "676a01704f524a2e9fc0c226577abc8f"
+        },
+        {
+          "date": "2015-11-17T13:24:27.824230+02:00",
+          "amount": 8035.5,
+          "bidder": "3b9f044d01b54c2cae7c53463f3c96df"
+        }
+      ],
+      "time": "2015-11-20T13:33:39.005402+00:00"
+    }
+  },
+  "id": "330faa18b37d4290bb4f91f8fcbfdd99",
+  "tenderId": "UA-2015-11-16-000047-a"
+}

@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e5bf6065bacb48678414e6d78eeafc8f",
+        "time": "2015-12-09T11:51:29.008423+00:00"
+      },
+      "turn_3": {
+        "bidder": "2857e83325194c168031de603f791f83",
+        "time": "2015-12-09T11:53:29.007772+00:00"
+      },
+      "turn_1": {
+        "bidder": "084fd6e7e5414031a931ce2dca16b1b5",
+        "time": "2015-12-09T11:49:29.013858+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e5bf6065bacb48678414e6d78eeafc8f",
+        "time": "2015-12-09T11:59:29.006906+00:00"
+      },
+      "turn_3": {
+        "bidder": "2857e83325194c168031de603f791f83",
+        "time": "2015-12-09T12:01:29.007692+00:00"
+      },
+      "turn_1": {
+        "bidder": "084fd6e7e5414031a931ce2dca16b1b5",
+        "time": "2015-12-09T11:57:29.009011+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 297.0,
+        "bid_time": "2015-12-09T13:42:07.520696+02:00",
+        "bidder": "2857e83325194c168031de603f791f83",
+        "time": "2015-12-09T11:43:29.011494+00:00"
+      },
+      "turn_3": {
+        "bidder": "e5bf6065bacb48678414e6d78eeafc8f",
+        "time": "2015-12-09T11:45:29.011681+00:00"
+      },
+      "turn_1": {
+        "bidder": "084fd6e7e5414031a931ce2dca16b1b5",
+        "time": "2015-12-09T11:41:29.009670+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "084fd6e7e5414031a931ce2dca16b1b5",
+          "amount": 417.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380566652005",
+                "name": "Пархоменко Андрій Іванович",
+                "email": "Parkhomenko.a@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2555404853"
+              },
+              "name": "ФОП Пархоменко А.І.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53282",
+                "region": "Дніпропетровська область",
+                "streetAddress": "Вул. Дніпропетровська, 24",
+                "locality": "Кам'янське"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:46:48.556587+02:00"
+        },
+        {
+          "bidder": "e5bf6065bacb48678414e6d78eeafc8f",
+          "amount": 298.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380566251630",
+                "telephone": "+380566251630",
+                "name": "Коваль Дмитро Анатолійович",
+                "email": "opt@mbyte.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25012339"
+              },
+              "name": "ПП \"Авір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53211",
+                "region": "Дніпропетровська область",
+                "streetAddress": "пр. Електрометаллургів, 42Б",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-12-07T17:09:20.086217+02:00"
+        },
+        {
+          "bidder": "2857e83325194c168031de603f791f83",
+          "amount": 297.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675657715",
+                "name": "Горробченко Сергій Васильович",
+                "email": "sv.gorobchenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2500005516"
+              },
+              "name": "ФОП Горобченко Сергій Васильович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53211",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Лисенка 8",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:42:07.520696+02:00"
+        }
+      ],
+      "time": "2015-12-09T12:01:38.155538+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T14:46:48.556587+02:00",
+          "amount": 417.0,
+          "bidder": "084fd6e7e5414031a931ce2dca16b1b5"
+        },
+        {
+          "date": "2015-12-05T08:47:43.459327+02:00",
+          "amount": 400.0,
+          "bidder": "2857e83325194c168031de603f791f83"
+        },
+        {
+          "date": "2015-12-07T17:09:20.086217+02:00",
+          "amount": 298.0,
+          "bidder": "e5bf6065bacb48678414e6d78eeafc8f"
+        }
+      ],
+      "time": "2015-12-09T11:34:29.004063+00:00"
+    }
+  },
+  "id": "233cb4728a524d61b1886c1e94dd7317",
+  "tenderId": "UA-2015-12-02-000180"
+}

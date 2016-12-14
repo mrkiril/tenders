@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "048a5ec3309743f68a10316dd36e2143",
+        "time": "2015-10-26T10:46:20.010059+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af5cb75facb42e4be2bdc0c41e92bbe",
+        "time": "2015-10-26T10:44:20.010530+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "048a5ec3309743f68a10316dd36e2143",
+        "time": "2015-10-26T10:52:20.010254+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af5cb75facb42e4be2bdc0c41e92bbe",
+        "time": "2015-10-26T10:50:20.011216+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "048a5ec3309743f68a10316dd36e2143",
+        "time": "2015-10-26T10:40:20.010739+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af5cb75facb42e4be2bdc0c41e92bbe",
+        "time": "2015-10-26T10:38:20.010302+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3af5cb75facb42e4be2bdc0c41e92bbe",
+          "amount": 4034.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679356676",
+                "name": "Марина",
+                "email": "mvkiev2@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37226908",
+                "legalName": "ТОВ \"ТОВ \"ВАНКО\"\""
+              },
+              "name": "ТОВ \"ТОВ \"ВАНКО\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03179",
+                "region": "АР Крым",
+                "streetAddress": "",
+                "locality": "Бахчисарай"
+              }
+            }
+          ],
+          "time": "2015-10-22T12:16:32.508006+03:00"
+        },
+        {
+          "bidder": "048a5ec3309743f68a10316dd36e2143",
+          "amount": 3122.58,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T12:19:38.860247+03:00"
+        }
+      ],
+      "time": "2015-10-26T10:52:33.983815+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T12:16:32.508006+03:00",
+          "amount": 4034.32,
+          "bidder": "3af5cb75facb42e4be2bdc0c41e92bbe"
+        },
+        {
+          "date": "2015-10-23T12:19:38.860247+03:00",
+          "amount": 3122.58,
+          "bidder": "048a5ec3309743f68a10316dd36e2143"
+        }
+      ],
+      "time": "2015-10-26T10:31:20.002022+00:00"
+    }
+  },
+  "id": "24584a3b82d74362a87ada46ba8067da",
+  "tenderId": "UA-2015-10-19-000226"
+}

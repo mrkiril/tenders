@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1933cbba2c444c458344adb75a90204f",
+        "time": "2015-11-19T13:27:54.007467+00:00"
+      },
+      "turn_1": {
+        "bidder": "579e19e4ccf04f038bbd2c311dd1847a",
+        "time": "2015-11-19T13:25:54.007340+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1933cbba2c444c458344adb75a90204f",
+        "time": "2015-11-19T13:33:54.007001+00:00"
+      },
+      "turn_1": {
+        "bidder": "579e19e4ccf04f038bbd2c311dd1847a",
+        "time": "2015-11-19T13:31:54.007097+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1933cbba2c444c458344adb75a90204f",
+        "time": "2015-11-19T13:21:54.007672+00:00"
+      },
+      "turn_1": {
+        "bidder": "579e19e4ccf04f038bbd2c311dd1847a",
+        "time": "2015-11-19T13:19:54.007486+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "579e19e4ccf04f038bbd2c311dd1847a",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T15:25:51.678163+02:00"
+        },
+        {
+          "bidder": "1933cbba2c444c458344adb75a90204f",
+          "amount": 699.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T16:09:54.536050+02:00"
+        }
+      ],
+      "time": "2015-11-19T13:33:58.175641+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T15:25:51.678163+02:00",
+          "amount": 700.0,
+          "bidder": "579e19e4ccf04f038bbd2c311dd1847a"
+        },
+        {
+          "date": "2015-11-18T16:09:54.536050+02:00",
+          "amount": 699.9,
+          "bidder": "1933cbba2c444c458344adb75a90204f"
+        }
+      ],
+      "time": "2015-11-19T13:12:54.003716+00:00"
+    }
+  },
+  "id": "431edafb13e94024b9809179f46b14d0",
+  "tenderId": "UA-2015-11-12-000180"
+}

@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 45450.0,
+        "bid_time": "2015-11-13T12:16:50.549735+02:00",
+        "bidder": "3bc73b46faf246e995fd6efbb6df007f",
+        "time": "2015-11-13T10:18:05.009800+00:00"
+      },
+      "turn_1": {
+        "amount": 45500.0,
+        "bid_time": "2015-11-13T12:15:52.361263+02:00",
+        "bidder": "fbcc2fd67dc84f99bb5f16615dfcb1ca",
+        "time": "2015-11-13T10:16:05.031700+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 42199.0,
+        "bid_time": "2015-11-13T12:22:53.537238+02:00",
+        "bidder": "3bc73b46faf246e995fd6efbb6df007f",
+        "time": "2015-11-13T10:24:05.009958+00:00"
+      },
+      "turn_1": {
+        "amount": 42200.0,
+        "bid_time": "2015-11-13T12:21:45.525585+02:00",
+        "bidder": "fbcc2fd67dc84f99bb5f16615dfcb1ca",
+        "time": "2015-11-13T10:22:05.010389+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 46400.0,
+        "bid_time": "2015-11-13T12:10:37.758436+02:00",
+        "bidder": "3bc73b46faf246e995fd6efbb6df007f",
+        "time": "2015-11-13T10:12:05.010507+00:00"
+      },
+      "turn_1": {
+        "amount": 46500.0,
+        "bid_time": "2015-11-13T12:08:55.089847+02:00",
+        "bidder": "fbcc2fd67dc84f99bb5f16615dfcb1ca",
+        "time": "2015-11-13T10:10:05.010703+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fbcc2fd67dc84f99bb5f16615dfcb1ca",
+          "amount": 42200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.praktik-pro.com.ua",
+                "telephone": "+380978952573",
+                "name": "ООО \"Практик Про\"",
+                "email": "smirnov@praktik-pro.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37120071",
+                "legalName": "ООО \"Практик Про\""
+              },
+              "name": "ООО \"Практик Про\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "Украина, г. Киев, 03022, ул. Сумская, 3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-13T12:21:45.525585+02:00"
+        },
+        {
+          "bidder": "3bc73b46faf246e995fd6efbb6df007f",
+          "amount": 42199.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577522200",
+                "name": "Елизавета Гуляева",
+                "email": "sales@ipcom.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"IP COM\"",
+                "id": "32338465",
+                "uri": "http://ipcom.ua"
+              },
+              "name": "ТОВ \"IP COM\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61085",
+                "region": "Харьковская",
+                "streetAddress": "61072, Харків, вул. Двадцять третього серпня, буд. 31-Б",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-13T12:22:53.537238+02:00"
+        }
+      ],
+      "time": "2015-11-13T10:24:09.445830+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T11:54:37.731201+02:00",
+          "amount": 49552.8,
+          "bidder": "fbcc2fd67dc84f99bb5f16615dfcb1ca"
+        },
+        {
+          "date": "2015-11-12T11:09:39.603732+02:00",
+          "amount": 47000.0,
+          "bidder": "3bc73b46faf246e995fd6efbb6df007f"
+        }
+      ],
+      "time": "2015-11-13T10:03:05.006302+00:00"
+    }
+  },
+  "id": "00028cddd23540e5b6abb9efd2756d1d",
+  "tenderId": "UA-2015-11-03-000066"
+}

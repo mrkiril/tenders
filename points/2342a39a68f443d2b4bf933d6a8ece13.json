@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cbdc478bd0094447bcf0ea4a1132f72a",
+        "time": "2015-11-04T10:59:38.012684+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cfb484ba617469f9dd2bacbea81dab3",
+        "time": "2015-11-04T10:57:38.010945+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cbdc478bd0094447bcf0ea4a1132f72a",
+        "time": "2015-11-04T11:05:38.011130+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cfb484ba617469f9dd2bacbea81dab3",
+        "time": "2015-11-04T11:03:38.010430+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7cfb484ba617469f9dd2bacbea81dab3",
+        "time": "2015-11-04T10:53:38.010692+00:00"
+      },
+      "turn_1": {
+        "amount": 2200.0,
+        "bid_time": "2015-11-04T12:50:59.423811+02:00",
+        "bidder": "cbdc478bd0094447bcf0ea4a1132f72a",
+        "time": "2015-11-04T10:51:38.009338+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7cfb484ba617469f9dd2bacbea81dab3",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dezcontrol.kiev.ua",
+                "faxNumber": "+380444838327",
+                "telephone": "+380444969108",
+                "name": "Зірник Зінаїда Володимирівна",
+                "email": "zirnykpdez@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39064171"
+              },
+              "name": "Комунальне підприємство \"Профдезінфекція\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04119",
+                "region": "Київська область",
+                "streetAddress": "вул.Дегтярівська, 25/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-03T15:37:36.877229+02:00"
+        },
+        {
+          "bidder": "cbdc478bd0094447bcf0ea4a1132f72a",
+          "amount": 2200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444838327",
+                "telephone": "+380504463895",
+                "name": "Пилипець Тетяна Миколаївна",
+                "email": "tnb@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39064171"
+              },
+              "name": "КП \"Профдезінфекція\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04119",
+                "region": "Київська область",
+                "streetAddress": "вул.Дегтярівська,25/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:50:59.423811+02:00"
+        }
+      ],
+      "time": "2015-11-04T11:05:43.060408+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T15:37:36.877229+02:00",
+          "amount": 2400.0,
+          "bidder": "7cfb484ba617469f9dd2bacbea81dab3"
+        },
+        {
+          "date": "2015-11-03T16:46:45.415038+02:00",
+          "amount": 2400.0,
+          "bidder": "cbdc478bd0094447bcf0ea4a1132f72a"
+        }
+      ],
+      "time": "2015-11-04T10:44:38.003653+00:00"
+    }
+  },
+  "id": "2342a39a68f443d2b4bf933d6a8ece13",
+  "tenderId": "UA-2015-10-30-000234"
+}

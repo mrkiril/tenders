@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "177ce3afb4374cb693a9a7425af9f7d1",
+        "time": "2015-11-16T13:48:32.010337+00:00"
+      },
+      "turn_3": {
+        "bidder": "e88307ec5fe04830a3847484bbe1a843",
+        "time": "2015-11-16T13:50:32.010222+00:00"
+      },
+      "turn_1": {
+        "bidder": "5bce2bc522fa415286bbc4f780ee6b4b",
+        "time": "2015-11-16T13:46:32.009214+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 9790.0,
+        "bid_time": "2015-11-16T15:55:23.791972+02:00",
+        "bidder": "177ce3afb4374cb693a9a7425af9f7d1",
+        "time": "2015-11-16T13:56:32.010176+00:00"
+      },
+      "turn_3": {
+        "amount": 9732.0,
+        "bid_time": "2015-11-16T15:56:44.201283+02:00",
+        "bidder": "e88307ec5fe04830a3847484bbe1a843",
+        "time": "2015-11-16T13:58:32.010722+00:00"
+      },
+      "turn_1": {
+        "bidder": "5bce2bc522fa415286bbc4f780ee6b4b",
+        "time": "2015-11-16T13:54:32.009505+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5bce2bc522fa415286bbc4f780ee6b4b",
+        "time": "2015-11-16T13:40:32.009320+00:00"
+      },
+      "turn_3": {
+        "bidder": "177ce3afb4374cb693a9a7425af9f7d1",
+        "time": "2015-11-16T13:42:32.009207+00:00"
+      },
+      "turn_1": {
+        "amount": 9832.0,
+        "bid_time": "2015-11-16T15:36:54.775785+02:00",
+        "bidder": "e88307ec5fe04830a3847484bbe1a843",
+        "time": "2015-11-16T13:38:32.011621+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5bce2bc522fa415286bbc4f780ee6b4b",
+          "amount": 9920.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443615347",
+                "name": "Непипенко Віктор Григорович",
+                "email": "capitan2@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2451205414"
+              },
+              "name": "ФОП Непипенко Віктор Григорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02154",
+                "region": "Київська область",
+                "streetAddress": "вул. Ентузіастів 29/1 кв.30",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-12T11:20:25.310428+02:00"
+        },
+        {
+          "bidder": "177ce3afb4374cb693a9a7425af9f7d1",
+          "amount": 9790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:55:23.791972+02:00"
+        },
+        {
+          "bidder": "e88307ec5fe04830a3847484bbe1a843",
+          "amount": 9732.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.printer.com.ua",
+                "faxNumber": "+380444849000",
+                "telephone": "+380503588033",
+                "name": "Андреєв Сергій Віктрович",
+                "email": "andriyur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37634298"
+              },
+              "name": "ТОВ Вічний картридж",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Шота Руставелі, б15 б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:56:44.201283+02:00"
+        }
+      ],
+      "time": "2015-11-16T13:58:33.774492+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T13:16:24.177941+02:00",
+          "amount": 9932.0,
+          "bidder": "e88307ec5fe04830a3847484bbe1a843"
+        },
+        {
+          "date": "2015-11-12T11:20:25.310428+02:00",
+          "amount": 9920.0,
+          "bidder": "5bce2bc522fa415286bbc4f780ee6b4b"
+        },
+        {
+          "date": "2015-11-11T23:41:29.151355+02:00",
+          "amount": 9890.0,
+          "bidder": "177ce3afb4374cb693a9a7425af9f7d1"
+        }
+      ],
+      "time": "2015-11-16T13:31:32.002749+00:00"
+    }
+  },
+  "id": "1a4716cc81794550baa4a0619ce02c8f",
+  "tenderId": "UA-2015-11-06-000164-a"
+}

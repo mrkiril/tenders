@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7cdb212f796d4bc293791ad2e27d32dc",
+        "time": "2015-10-28T11:28:30.006121+00:00"
+      },
+      "turn_3": {
+        "bidder": "7d8e8171847d491a851f419bddaddcdc",
+        "time": "2015-10-28T11:30:30.008366+00:00"
+      },
+      "turn_1": {
+        "bidder": "13be6387c10942d4939668c78bc7e6fc",
+        "time": "2015-10-28T11:26:30.006911+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7cdb212f796d4bc293791ad2e27d32dc",
+        "time": "2015-10-28T11:36:30.006467+00:00"
+      },
+      "turn_3": {
+        "bidder": "7d8e8171847d491a851f419bddaddcdc",
+        "time": "2015-10-28T11:38:30.006747+00:00"
+      },
+      "turn_1": {
+        "bidder": "13be6387c10942d4939668c78bc7e6fc",
+        "time": "2015-10-28T11:34:30.007477+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7cdb212f796d4bc293791ad2e27d32dc",
+        "time": "2015-10-28T11:20:30.007240+00:00"
+      },
+      "turn_3": {
+        "bidder": "7d8e8171847d491a851f419bddaddcdc",
+        "time": "2015-10-28T11:22:30.007303+00:00"
+      },
+      "turn_1": {
+        "bidder": "13be6387c10942d4939668c78bc7e6fc",
+        "time": "2015-10-28T11:18:30.008925+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "13be6387c10942d4939668c78bc7e6fc",
+          "amount": 93451.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675057363",
+                "name": "Владимир Дробязко",
+                "email": "bereg-kiev@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32487451",
+                "legalName": "Командор 2000"
+              },
+              "name": "Командор 2000",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03187",
+                "region": "Киевская",
+                "streetAddress": "ул. Промышленная, 4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-27T09:22:45.737991+02:00"
+        },
+        {
+          "bidder": "7cdb212f796d4bc293791ad2e27d32dc",
+          "amount": 92700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675467100",
+                "name": "Евгений",
+                "email": "ponton.com.ua@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39305195",
+                "legalName": "ТОВ \"Укрсерс\""
+              },
+              "name": "ТОВ \"Укрсерс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61051",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-22T18:02:02.002750+03:00"
+        },
+        {
+          "bidder": "7d8e8171847d491a851f419bddaddcdc",
+          "amount": 71100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442217810, +380675434335",
+                "name": "Роман Копытин",
+                "email": "info@elitepark.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37361499",
+                "legalName": "ТОВ \"ООО \"Элит Парк\"\""
+              },
+              "name": "ТОВ \"ООО \"Элит Парк\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08710",
+                "region": "Киевская",
+                "streetAddress": "ул. Васильковская 39",
+                "locality": "Подгорцы"
+              }
+            }
+          ],
+          "time": "2015-10-27T14:49:16.416937+02:00"
+        }
+      ],
+      "time": "2015-10-28T11:38:31.064394+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T09:22:45.737991+02:00",
+          "amount": 93451.0,
+          "bidder": "13be6387c10942d4939668c78bc7e6fc"
+        },
+        {
+          "date": "2015-10-22T18:02:02.002750+03:00",
+          "amount": 92700.0,
+          "bidder": "7cdb212f796d4bc293791ad2e27d32dc"
+        },
+        {
+          "date": "2015-10-27T14:49:16.416937+02:00",
+          "amount": 71100.0,
+          "bidder": "7d8e8171847d491a851f419bddaddcdc"
+        }
+      ],
+      "time": "2015-10-28T11:11:30.003518+00:00"
+    }
+  },
+  "id": "9701a90db3824fe9a022e50a6a6b2a55",
+  "tenderId": "UA-2015-10-16-000186"
+}

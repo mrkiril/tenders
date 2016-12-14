@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b16f729cddff472b8c6b5bc3b6204c06",
+        "time": "2015-12-17T13:53:23.007124+00:00"
+      },
+      "turn_1": {
+        "bidder": "50d57c0af3f2437ba152f2d442cf5a11",
+        "time": "2015-12-17T13:51:23.023331+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b16f729cddff472b8c6b5bc3b6204c06",
+        "time": "2015-12-17T13:59:23.006769+00:00"
+      },
+      "turn_1": {
+        "bidder": "50d57c0af3f2437ba152f2d442cf5a11",
+        "time": "2015-12-17T13:57:23.007762+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "50d57c0af3f2437ba152f2d442cf5a11",
+        "time": "2015-12-17T13:47:23.008005+00:00"
+      },
+      "turn_1": {
+        "amount": 8200.0,
+        "bid_time": "2015-12-17T15:44:00.164762+02:00",
+        "bidder": "b16f729cddff472b8c6b5bc3b6204c06",
+        "time": "2015-12-17T13:45:23.009190+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "50d57c0af3f2437ba152f2d442cf5a11",
+          "amount": 8290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lutskmedical.com",
+                "faxNumber": "+380332231076",
+                "telephone": "+380332231076",
+                "name": "Мурашов Ігор Вікторович",
+                "email": "infostar125i@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37319688"
+              },
+              "name": "ТОВ Західмедінвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "43005",
+                "region": "Волинська область",
+                "streetAddress": "Вул. Гулака-Артемовського ,20",
+                "locality": "Луцьк"
+              }
+            }
+          ],
+          "time": "2015-12-16T09:26:24.390595+02:00"
+        },
+        {
+          "bidder": "b16f729cddff472b8c6b5bc3b6204c06",
+          "amount": 8200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380432554328",
+                "telephone": "+380637283770",
+                "name": "Притула Світлана Володимирівна",
+                "email": "celuka@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2630309288"
+              },
+              "name": "ФОП Притула",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "23310",
+                "region": "Вінницька область",
+                "streetAddress": "вул.Терешкової",
+                "locality": "Гнівань"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:44:00.164762+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:59:24.102737+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T11:44:47.485234+02:00",
+          "amount": 8800.0,
+          "bidder": "b16f729cddff472b8c6b5bc3b6204c06"
+        },
+        {
+          "date": "2015-12-16T09:26:24.390595+02:00",
+          "amount": 8290.0,
+          "bidder": "50d57c0af3f2437ba152f2d442cf5a11"
+        }
+      ],
+      "time": "2015-12-17T13:38:23.003549+00:00"
+    }
+  },
+  "id": "1445f5ddc91246518ccaa72e602b8f7e",
+  "tenderId": "UA-2015-12-15-000089"
+}

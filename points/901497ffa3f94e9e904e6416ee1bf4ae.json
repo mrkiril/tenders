@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a3a5ca1dc61e4a5d9555e1a63515794a",
+        "time": "2015-06-26T08:45:00.162138+00:00"
+      },
+      "turn_1": {
+        "bidder": "a04d6875032d4f1d90dc02f081654b80",
+        "time": "2015-06-26T08:43:00.136128+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a3a5ca1dc61e4a5d9555e1a63515794a",
+        "time": "2015-06-26T08:51:00.548071+00:00"
+      },
+      "turn_1": {
+        "bidder": "a04d6875032d4f1d90dc02f081654b80",
+        "time": "2015-06-26T08:49:00.192204+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a3a5ca1dc61e4a5d9555e1a63515794a",
+        "time": "2015-06-26T08:39:00.161250+00:00"
+      },
+      "turn_1": {
+        "bidder": "a04d6875032d4f1d90dc02f081654b80",
+        "time": "2015-06-26T08:37:00.291180+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a04d6875032d4f1d90dc02f081654b80",
+          "amount": 4850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T11:21:41.441972+03:00"
+        },
+        {
+          "bidder": "a3a5ca1dc61e4a5d9555e1a63515794a",
+          "amount": 4739.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://legion-trade.com",
+                "telephone": "+380567324560",
+                "name": "ООО \"ЛЕГИОН ТРЕЙД\"",
+                "email": "legion_trade@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37070162",
+                "legalName": "ООО \"ЛЕГИОН ТРЕЙД\""
+              },
+              "name": "ООО \"ЛЕГИОН ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49125, г. Днепропетровск,ул. Героев Гражданской Войны, 11 кв. 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-24T15:06:56.083550+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:51:06.804939+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-25T11:21:41.441972+03:00",
+          "amount": 4850.0,
+          "bidder": "a04d6875032d4f1d90dc02f081654b80"
+        },
+        {
+          "date": "2015-06-24T15:06:56.083550+03:00",
+          "amount": 4739.0,
+          "bidder": "a3a5ca1dc61e4a5d9555e1a63515794a"
+        }
+      ],
+      "time": "2015-06-26T08:30:00.088710+00:00"
+    }
+  },
+  "id": "901497ffa3f94e9e904e6416ee1bf4ae",
+  "tenderId": "UA-2015-06-22-000058"
+}

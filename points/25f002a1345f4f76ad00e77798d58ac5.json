@@ -1,0 +1,202 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "9759bb2e31c847a2aa91dabb3ccbfe2c",
+        "time": "2015-10-06T09:04:12.006544+00:00"
+      },
+      "turn_2": {
+        "amount": 9323.0,
+        "bid_time": "2015-10-06T11:58:56.273178+03:00",
+        "bidder": "e8e6ba1309f340ff896bf2c56fc11930",
+        "time": "2015-10-06T09:00:12.013423+00:00"
+      },
+      "turn_3": {
+        "bidder": "69b37c95ab094e29ad684ab7a9044805",
+        "time": "2015-10-06T09:02:12.006317+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3d020693f364851b6b2418444e4f94c",
+        "time": "2015-10-06T08:58:12.007188+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "e8e6ba1309f340ff896bf2c56fc11930",
+        "time": "2015-10-06T09:14:12.006685+00:00"
+      },
+      "turn_2": {
+        "bidder": "69b37c95ab094e29ad684ab7a9044805",
+        "time": "2015-10-06T09:10:12.007008+00:00"
+      },
+      "turn_3": {
+        "bidder": "9759bb2e31c847a2aa91dabb3ccbfe2c",
+        "time": "2015-10-06T09:12:12.005747+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3d020693f364851b6b2418444e4f94c",
+        "time": "2015-10-06T09:08:12.011887+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "9759bb2e31c847a2aa91dabb3ccbfe2c",
+        "time": "2015-10-06T08:54:12.006916+00:00"
+      },
+      "turn_2": {
+        "bidder": "c3d020693f364851b6b2418444e4f94c",
+        "time": "2015-10-06T08:50:12.012701+00:00"
+      },
+      "turn_3": {
+        "bidder": "e8e6ba1309f340ff896bf2c56fc11930",
+        "time": "2015-10-06T08:52:12.009660+00:00"
+      },
+      "turn_1": {
+        "amount": 9600.0,
+        "bid_time": "2015-10-06T11:47:05.301182+03:00",
+        "bidder": "69b37c95ab094e29ad684ab7a9044805",
+        "time": "2015-10-06T08:48:12.008808+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c3d020693f364851b6b2418444e4f94c",
+          "amount": 9900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577755640",
+                "telephone": "+380504021574",
+                "name": "Апатенко Андрій Вячеславович",
+                "email": "trak_exp@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37131772"
+              },
+              "name": "ТОВ ТРАК-ЕКСП",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61081",
+                "region": "Харківська область",
+                "streetAddress": "Мерефянське шоссе 13а",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-29T11:56:29.113843+03:00"
+        },
+        {
+          "bidder": "69b37c95ab094e29ad684ab7a9044805",
+          "amount": 9600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-06T11:47:05.301182+03:00"
+        },
+        {
+          "bidder": "9759bb2e31c847a2aa91dabb3ccbfe2c",
+          "amount": 9400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676481188, +380507233888, +380577276676, +380443928575",
+                "name": "Менеджер Менеджер",
+                "email": "artem@shiny-diski.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2834002935",
+                "legalName": "ФОП \"Костенко Ярослав Валерьевич\""
+              },
+              "name": "ФОП \"Костенко Ярослав Валерьевич\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61085",
+                "region": "Харьковская",
+                "streetAddress": "ул. Академика Белецкого 34",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-01T16:57:21.415753+03:00"
+        },
+        {
+          "bidder": "e8e6ba1309f340ff896bf2c56fc11930",
+          "amount": 9323.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tsbauto.biz/",
+                "telephone": "380503612711",
+                "name": "Анатолий Литвин ",
+                "email": "lytvyn.anatolii@tsbauto.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38955026",
+                "legalName": "ТОВ \"ТСБ-АВТО"
+              },
+              "name": "ООО ТСБ-АВТО",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев, Василенко 121/22"
+              }
+            }
+          ],
+          "time": "2015-10-06T11:58:56.273178+03:00"
+        }
+      ],
+      "time": "2015-10-06T09:14:14.372138+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T11:56:29.113843+03:00",
+          "amount": 9900.0,
+          "bidder": "c3d020693f364851b6b2418444e4f94c"
+        },
+        {
+          "date": "2015-10-01T16:44:45.105325+03:00",
+          "amount": 9900.0,
+          "bidder": "69b37c95ab094e29ad684ab7a9044805"
+        },
+        {
+          "date": "2015-10-01T18:09:20.123527+03:00",
+          "amount": 9623.2,
+          "bidder": "e8e6ba1309f340ff896bf2c56fc11930"
+        },
+        {
+          "date": "2015-10-01T16:57:21.415753+03:00",
+          "amount": 9400.0,
+          "bidder": "9759bb2e31c847a2aa91dabb3ccbfe2c"
+        }
+      ],
+      "time": "2015-10-06T08:41:12.003160+00:00"
+    }
+  },
+  "id": "25f002a1345f4f76ad00e77798d58ac5",
+  "tenderId": "UA-2015-09-28-000200"
+}

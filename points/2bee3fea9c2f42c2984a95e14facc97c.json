@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "de99fa953d7148d7a927c484e4abea2c",
+        "time": "2015-11-16T09:45:59.024651+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fede615785d4ae2954d471df0abaf9a",
+        "time": "2015-11-16T09:43:59.009513+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "de99fa953d7148d7a927c484e4abea2c",
+        "time": "2015-11-16T09:51:59.008509+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fede615785d4ae2954d471df0abaf9a",
+        "time": "2015-11-16T09:49:59.009579+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "de99fa953d7148d7a927c484e4abea2c",
+        "time": "2015-11-16T09:39:59.012846+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fede615785d4ae2954d471df0abaf9a",
+        "time": "2015-11-16T09:37:59.009772+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2fede615785d4ae2954d471df0abaf9a",
+          "amount": 244880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487599390",
+                "name": "ТОВ \"СІНГУЛАР\"",
+                "email": "ltd.singular@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39719577",
+                "legalName": "ТОВ \"СІНГУЛАР\""
+              },
+              "name": "ТОВ \"СІНГУЛАР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65101",
+                "region": "Одесская",
+                "streetAddress": "вул. Космонавта Комарова, буд. 10, каб. 4",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-14T08:58:55.307123+02:00"
+        },
+        {
+          "bidder": "de99fa953d7148d7a927c484e4abea2c",
+          "amount": 202600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0509945467",
+                "name": "Товариство з обмеженою відповідальність \"Промпостач Південь\"",
+                "email": "promposta4@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38574591",
+                "legalName": "Товариство з обмеженою відповідальність \"Промпостач Південь\""
+              },
+              "name": "Товариство з обмеженою відповідальність \"Промпостач Південь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65104",
+                "region": "Одеська",
+                "streetAddress": "пр.Маршала Жукова, 101/11",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-13T21:09:56.313779+02:00"
+        }
+      ],
+      "time": "2015-11-16T09:52:02.382708+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-14T08:58:55.307123+02:00",
+          "amount": 244880.0,
+          "bidder": "2fede615785d4ae2954d471df0abaf9a"
+        },
+        {
+          "date": "2015-11-13T21:09:56.313779+02:00",
+          "amount": 202600.0,
+          "bidder": "de99fa953d7148d7a927c484e4abea2c"
+        }
+      ],
+      "time": "2015-11-16T09:30:59.003472+00:00"
+    }
+  },
+  "id": "2bee3fea9c2f42c2984a95e14facc97c",
+  "tenderId": "UA-2015-11-09-000062"
+}

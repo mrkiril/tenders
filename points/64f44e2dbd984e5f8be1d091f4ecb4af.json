@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2e8dda34eab942a397d39612fa0d05d3",
+        "time": "2015-11-16T09:31:43.009671+00:00"
+      },
+      "turn_3": {
+        "bidder": "a88647a4642f4c41a372f99fadd41791",
+        "time": "2015-11-16T09:33:43.009942+00:00"
+      },
+      "turn_1": {
+        "bidder": "911b235d21754f8e9c27db6091f166cc",
+        "time": "2015-11-16T09:29:43.010512+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 14605.0,
+        "bid_time": "2015-11-16T11:39:14.341714+02:00",
+        "bidder": "2e8dda34eab942a397d39612fa0d05d3",
+        "time": "2015-11-16T09:39:43.011431+00:00"
+      },
+      "turn_3": {
+        "bidder": "a88647a4642f4c41a372f99fadd41791",
+        "time": "2015-11-16T09:41:43.011438+00:00"
+      },
+      "turn_1": {
+        "amount": 14800.0,
+        "bid_time": "2015-11-16T11:35:56.146240+02:00",
+        "bidder": "911b235d21754f8e9c27db6091f166cc",
+        "time": "2015-11-16T09:37:43.011513+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2e8dda34eab942a397d39612fa0d05d3",
+        "time": "2015-11-16T09:23:43.011116+00:00"
+      },
+      "turn_3": {
+        "bidder": "a88647a4642f4c41a372f99fadd41791",
+        "time": "2015-11-16T09:25:43.018556+00:00"
+      },
+      "turn_1": {
+        "bidder": "911b235d21754f8e9c27db6091f166cc",
+        "time": "2015-11-16T09:21:43.010385+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "911b235d21754f8e9c27db6091f166cc",
+          "amount": 14800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567672173",
+                "telephone": "+380953420442",
+                "name": "Садовський Павел Сергійович",
+                "email": "avispasha@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3090118551"
+              },
+              "name": "ФОП Садовський",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49038",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Ленінградська",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-16T11:35:56.146240+02:00"
+        },
+        {
+          "bidder": "2e8dda34eab942a397d39612fa0d05d3",
+          "amount": 14605.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-16T11:39:14.341714+02:00"
+        },
+        {
+          "bidder": "a88647a4642f4c41a372f99fadd41791",
+          "amount": 11980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T09:17:32.700718+02:00"
+        }
+      ],
+      "time": "2015-11-16T09:41:48.948969+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T18:31:21.383753+02:00",
+          "amount": 15000.0,
+          "bidder": "911b235d21754f8e9c27db6091f166cc"
+        },
+        {
+          "date": "2015-11-14T17:21:07.114944+02:00",
+          "amount": 14805.0,
+          "bidder": "2e8dda34eab942a397d39612fa0d05d3"
+        },
+        {
+          "date": "2015-11-11T09:17:32.700718+02:00",
+          "amount": 11980.0,
+          "bidder": "a88647a4642f4c41a372f99fadd41791"
+        }
+      ],
+      "time": "2015-11-16T09:14:43.003584+00:00"
+    }
+  },
+  "id": "64f44e2dbd984e5f8be1d091f4ecb4af",
+  "tenderId": "UA-2015-11-02-000129"
+}

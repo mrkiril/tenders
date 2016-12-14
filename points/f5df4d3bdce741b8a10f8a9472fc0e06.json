@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f083627179b84755bd1bfa836c6d8deb",
+        "time": "2015-10-12T12:49:54.008559+00:00"
+      },
+      "turn_3": {
+        "bidder": "63ee06a887c7483f8e7dc88d23ec0977",
+        "time": "2015-10-12T12:51:54.007250+00:00"
+      },
+      "turn_1": {
+        "bidder": "06d01018631c4e72bce483380ef94020",
+        "time": "2015-10-12T12:47:54.008987+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f083627179b84755bd1bfa836c6d8deb",
+        "time": "2015-10-12T12:57:54.007036+00:00"
+      },
+      "turn_3": {
+        "bidder": "63ee06a887c7483f8e7dc88d23ec0977",
+        "time": "2015-10-12T12:59:54.013734+00:00"
+      },
+      "turn_1": {
+        "bidder": "06d01018631c4e72bce483380ef94020",
+        "time": "2015-10-12T12:55:54.008606+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f083627179b84755bd1bfa836c6d8deb",
+        "time": "2015-10-12T12:41:54.008639+00:00"
+      },
+      "turn_3": {
+        "bidder": "63ee06a887c7483f8e7dc88d23ec0977",
+        "time": "2015-10-12T12:43:54.008118+00:00"
+      },
+      "turn_1": {
+        "bidder": "06d01018631c4e72bce483380ef94020",
+        "time": "2015-10-12T12:39:54.008466+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "06d01018631c4e72bce483380ef94020",
+          "amount": 5520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380486340622",
+                "telephone": "+380486340622",
+                "name": "Сєдова Ганна Акбарівна",
+                "email": "ukr_hleb2@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33189695"
+              },
+              "name": "ПП \"УкрХліб-2\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська область",
+                "streetAddress": "вул. Незалежності 123г.",
+                "locality": "місто Ананьїв"
+              }
+            }
+          ],
+          "time": "2015-09-28T15:40:44.210205+03:00"
+        },
+        {
+          "bidder": "f083627179b84755bd1bfa836c6d8deb",
+          "amount": 7.59,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0486322530",
+                "telephone": "0675588151",
+                "name": "Найфлейш Давид Володимирович",
+                "email": "naifleish@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1774709573",
+                "legalName": "ФОП Найфлейш Давид Володимирович"
+              },
+              "name": "ФОП Найфлейш Давид Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська",
+                "streetAddress": "Нелазежності 10а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T13:21:18.852094+03:00"
+        },
+        {
+          "bidder": "63ee06a887c7483f8e7dc88d23ec0977",
+          "amount": 7.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380486321342",
+                "telephone": "+380982941211",
+                "name": "Мигуш Олег Вікторович",
+                "email": "ananiv-hleb@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32037691"
+              },
+              "name": "ПП Ананьїв хліб",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська область",
+                "streetAddress": "м. Ананьїв вул. Пушкіна 71",
+                "locality": "Ананьїв"
+              }
+            }
+          ],
+          "time": "2015-09-25T15:44:10.659766+03:00"
+        }
+      ],
+      "time": "2015-10-12T12:59:57.148131+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-28T15:40:44.210205+03:00",
+          "amount": 5520.0,
+          "bidder": "06d01018631c4e72bce483380ef94020"
+        },
+        {
+          "date": "2015-09-29T13:21:18.852094+03:00",
+          "amount": 7.59,
+          "bidder": "f083627179b84755bd1bfa836c6d8deb"
+        },
+        {
+          "date": "2015-09-25T15:44:10.659766+03:00",
+          "amount": 7.1,
+          "bidder": "63ee06a887c7483f8e7dc88d23ec0977"
+        }
+      ],
+      "time": "2015-10-12T12:32:54.003671+00:00"
+    }
+  },
+  "id": "f5df4d3bdce741b8a10f8a9472fc0e06",
+  "tenderId": "UA-2015-09-25-000245"
+}

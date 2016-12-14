@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "91613da106f748e29c5e797610ecca23",
+        "time": "2015-12-11T11:59:07.010288+00:00"
+      },
+      "turn_1": {
+        "bidder": "1160cdde5aae44a98e95e1cf5f5582a4",
+        "time": "2015-12-11T11:57:07.010205+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "91613da106f748e29c5e797610ecca23",
+        "time": "2015-12-11T12:05:07.010722+00:00"
+      },
+      "turn_1": {
+        "bidder": "1160cdde5aae44a98e95e1cf5f5582a4",
+        "time": "2015-12-11T12:03:07.024043+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "91613da106f748e29c5e797610ecca23",
+        "time": "2015-12-11T11:53:07.010269+00:00"
+      },
+      "turn_1": {
+        "bidder": "1160cdde5aae44a98e95e1cf5f5582a4",
+        "time": "2015-12-11T11:51:07.011268+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1160cdde5aae44a98e95e1cf5f5582a4",
+          "amount": 54950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "362-32-00",
+                "telephone": "362-32-00",
+                "name": "Діордієв Дмитро Дмитрович",
+                "email": "kacarikkiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38506427",
+                "legalName": "Товариство з обмеженою відповідальностью \"Кацарик\""
+              },
+              "name": "Товариство з обмеженою відповідальностью \"Кацарик\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03115",
+                "region": "Київська",
+                "streetAddress": "вул. Григорія Онискевича,1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:19:29.008816+02:00"
+        },
+        {
+          "bidder": "91613da106f748e29c5e797610ecca23",
+          "amount": 47891.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gamayun.org.ua",
+                "faxNumber": "+380442009415",
+                "telephone": "+380442009415",
+                "name": "Захарчук Тетяна Володимирівна",
+                "email": "volkovgamayun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39537875"
+              },
+              "name": "ТОВ Гамаюн Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04136",
+                "region": "Київська область",
+                "streetAddress": "вул.Північно-Сирецька, буд.3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T15:49:56.549184+02:00"
+        }
+      ],
+      "time": "2015-12-11T12:05:12.413566+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T13:19:29.008816+02:00",
+          "amount": 54950.0,
+          "bidder": "1160cdde5aae44a98e95e1cf5f5582a4"
+        },
+        {
+          "date": "2015-12-10T15:49:56.549184+02:00",
+          "amount": 47891.0,
+          "bidder": "91613da106f748e29c5e797610ecca23"
+        }
+      ],
+      "time": "2015-12-11T11:44:07.004013+00:00"
+    }
+  },
+  "id": "3d4264059d474cce8e8c87661abe78e1",
+  "tenderId": "UA-2015-12-08-000098-a"
+}

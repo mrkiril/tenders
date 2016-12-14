@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9ebd717ed8ad468f90dfacf730c599a6",
+        "time": "2015-09-07T08:45:00.061736+00:00"
+      },
+      "turn_1": {
+        "bidder": "d57aaa3e784c475bb78a51fe64fd18cb",
+        "time": "2015-09-07T08:43:00.026972+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9ebd717ed8ad468f90dfacf730c599a6",
+        "time": "2015-09-07T08:51:00.054345+00:00"
+      },
+      "turn_1": {
+        "bidder": "d57aaa3e784c475bb78a51fe64fd18cb",
+        "time": "2015-09-07T08:49:00.031317+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9ebd717ed8ad468f90dfacf730c599a6",
+        "time": "2015-09-07T08:39:00.046782+00:00"
+      },
+      "turn_1": {
+        "bidder": "d57aaa3e784c475bb78a51fe64fd18cb",
+        "time": "2015-09-07T08:37:00.114121+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d57aaa3e784c475bb78a51fe64fd18cb",
+          "amount": 899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567476411",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"КОМПАНІЯ ЛІОН\"",
+                "email": "nosenko.anya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2886903100",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"КОМПАНІЯ ЛІОН\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"КОМПАНІЯ ЛІОН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Чернігів, вул Бобровицька 43/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-04T14:17:03.580120+03:00"
+        },
+        {
+          "bidder": "9ebd717ed8ad468f90dfacf730c599a6",
+          "amount": 249.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-02T11:09:04.860007+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:51:05.290044+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T14:17:03.580120+03:00",
+          "amount": 899.0,
+          "bidder": "d57aaa3e784c475bb78a51fe64fd18cb"
+        },
+        {
+          "date": "2015-09-02T11:09:04.860007+03:00",
+          "amount": 249.3,
+          "bidder": "9ebd717ed8ad468f90dfacf730c599a6"
+        }
+      ],
+      "time": "2015-09-07T08:30:00.002944+00:00"
+    }
+  },
+  "id": "0da4431843094a52b2325b5719c65bc2",
+  "tenderId": "UA-2015-08-27-000094"
+}

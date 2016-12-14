@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ae38e006eb1f463dbad3f4f3dde2f49f",
+        "time": "2015-10-30T13:55:31.008155+00:00"
+      },
+      "turn_3": {
+        "bidder": "999f8551d2e74e3c88c366cd800310a3",
+        "time": "2015-10-30T13:57:31.011581+00:00"
+      },
+      "turn_1": {
+        "bidder": "706e931b943c49f1bd492e548ecff0c2",
+        "time": "2015-10-30T13:53:31.008653+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ae38e006eb1f463dbad3f4f3dde2f49f",
+        "time": "2015-10-30T14:03:31.011663+00:00"
+      },
+      "turn_3": {
+        "bidder": "999f8551d2e74e3c88c366cd800310a3",
+        "time": "2015-10-30T14:05:31.007009+00:00"
+      },
+      "turn_1": {
+        "bidder": "706e931b943c49f1bd492e548ecff0c2",
+        "time": "2015-10-30T14:01:31.010939+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ae38e006eb1f463dbad3f4f3dde2f49f",
+        "time": "2015-10-30T13:47:31.012608+00:00"
+      },
+      "turn_3": {
+        "bidder": "999f8551d2e74e3c88c366cd800310a3",
+        "time": "2015-10-30T13:49:31.011885+00:00"
+      },
+      "turn_1": {
+        "bidder": "706e931b943c49f1bd492e548ecff0c2",
+        "time": "2015-10-30T13:45:31.010033+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "706e931b943c49f1bd492e548ecff0c2",
+          "amount": 41502.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://skt.bigopt.com",
+                "telephone": "+380442492454",
+                "name": "ФОП Жила Олена Валентинівна",
+                "email": "o-s-s@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2811702460",
+                "legalName": "ФОП Жила Олена Валентинівна"
+              },
+              "name": "ФОП Жила Олена Валентинівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03134,м.Київ , вул Григоровича -Барського  будинок 7,квартира 130",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T12:11:06.399711+02:00"
+        },
+        {
+          "bidder": "ae38e006eb1f463dbad3f4f3dde2f49f",
+          "amount": 40982.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://s-k-t.com.ua",
+                "telephone": "+380442488983",
+                "name": "ФОП Глембоцька Людмила Іванівна",
+                "email": "lig.kiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2058718701",
+                "legalName": "ФОП Глембоцька Людмила Іванівна"
+              },
+              "name": "ФОП Глембоцька Людмила Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ \r\nвулиця Симиренко\r\nбудинок 5\r\nквартира 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T13:50:00.103554+02:00"
+        },
+        {
+          "bidder": "999f8551d2e74e3c88c366cd800310a3",
+          "amount": 39624.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T14:08:38.775809+02:00"
+        }
+      ],
+      "time": "2015-10-30T14:06:42.499761+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T12:11:06.399711+02:00",
+          "amount": 41502.0,
+          "bidder": "706e931b943c49f1bd492e548ecff0c2"
+        },
+        {
+          "date": "2015-10-28T13:50:00.103554+02:00",
+          "amount": 40982.5,
+          "bidder": "ae38e006eb1f463dbad3f4f3dde2f49f"
+        },
+        {
+          "date": "2015-10-29T14:08:38.775809+02:00",
+          "amount": 39624.0,
+          "bidder": "999f8551d2e74e3c88c366cd800310a3"
+        }
+      ],
+      "time": "2015-10-30T13:38:31.004950+00:00"
+    }
+  },
+  "id": "26c7f5c8ecfc4a13b0ba5a2b4f5a41db",
+  "tenderId": "UA-2015-10-26-000316"
+}

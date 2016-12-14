@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a6c67937d11b4ed397a9ed19a2d88f74",
+        "time": "2015-06-18T08:15:00.389279+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba4642611bab461fa2bf44742cc4174d",
+        "time": "2015-06-18T08:13:00.256399+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a6c67937d11b4ed397a9ed19a2d88f74",
+        "time": "2015-06-18T08:21:00.339381+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba4642611bab461fa2bf44742cc4174d",
+        "time": "2015-06-18T08:19:00.154378+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a6c67937d11b4ed397a9ed19a2d88f74",
+        "time": "2015-06-18T08:09:00.414350+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba4642611bab461fa2bf44742cc4174d",
+        "time": "2015-06-18T08:07:00.111032+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ba4642611bab461fa2bf44742cc4174d",
+          "amount": 12396.67,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0487022008",
+                "name": "Білятинский Вільгельмович Мирослав",
+                "email": "b_mir@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "",
+                "legalName": "ТОВ СПЕЦ ДРЕНАЖ"
+              },
+              "name": "ТОВ СПЕЦ ДРЕНАЖ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65000",
+                "region": "Одеська",
+                "streetAddress": "просп. Ак. Глушко 11е кв. 87",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-17T16:10:11.597331+03:00"
+        },
+        {
+          "bidder": "a6c67937d11b4ed397a9ed19a2d88f74",
+          "amount": 11433.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "Katsapchuk@ukr.net",
+                "name": "ООО Евромета"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36464155",
+                "legalName": "ООО Евромета"
+              },
+              "name": "ООО Евромета",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "Магнитогорская",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-15T10:11:38.642557+03:00"
+        }
+      ],
+      "time": "2015-06-18T08:21:12.166721+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-17T16:10:11.597331+03:00",
+          "amount": 12396.67,
+          "bidder": "ba4642611bab461fa2bf44742cc4174d"
+        },
+        {
+          "date": "2015-06-15T10:11:38.642557+03:00",
+          "amount": 11433.0,
+          "bidder": "a6c67937d11b4ed397a9ed19a2d88f74"
+        }
+      ],
+      "time": "2015-06-18T08:00:00.312725+00:00"
+    }
+  },
+  "id": "216a6c0943dc4ab1842954cd5266b482",
+  "tenderId": "UA-2015-06-12-000040"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "376592b1f95a42a29e8a80dc1ac9069a",
+        "time": "2015-08-13T08:45:00.104079+00:00"
+      },
+      "turn_1": {
+        "bidder": "edbdab7b60604ca2b011f83f0b3ccef5",
+        "time": "2015-08-13T08:43:00.093729+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "376592b1f95a42a29e8a80dc1ac9069a",
+        "time": "2015-08-13T08:51:00.100487+00:00"
+      },
+      "turn_1": {
+        "bidder": "edbdab7b60604ca2b011f83f0b3ccef5",
+        "time": "2015-08-13T08:49:00.060899+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "376592b1f95a42a29e8a80dc1ac9069a",
+        "time": "2015-08-13T08:39:00.074873+00:00"
+      },
+      "turn_1": {
+        "bidder": "edbdab7b60604ca2b011f83f0b3ccef5",
+        "time": "2015-08-13T08:37:00.178207+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "edbdab7b60604ca2b011f83f0b3ccef5",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380322754919, +380322759652",
+                "name": "Адміністратор Гальчак Любов Іванівна",
+                "email": "uniteh2010@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20795303",
+                "legalName": "ПП \"Олекса\""
+              },
+              "name": "ПП \"Олекса\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79014",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Некрасова, 36",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-08-10T15:44:56.634377+03:00"
+        },
+        {
+          "bidder": "376592b1f95a42a29e8a80dc1ac9069a",
+          "amount": 29000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-12T12:26:52.836754+03:00"
+        }
+      ],
+      "time": "2015-08-13T08:51:09.219778+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-10T15:44:56.634377+03:00",
+          "amount": 30000.0,
+          "bidder": "edbdab7b60604ca2b011f83f0b3ccef5"
+        },
+        {
+          "date": "2015-08-12T12:26:52.836754+03:00",
+          "amount": 29000.0,
+          "bidder": "376592b1f95a42a29e8a80dc1ac9069a"
+        }
+      ],
+      "time": "2015-08-13T08:30:00.004941+00:00"
+    }
+  },
+  "id": "6f1c63e6914d444686492fe3b3d24b5c",
+  "tenderId": "UA-2015-08-04-000043"
+}

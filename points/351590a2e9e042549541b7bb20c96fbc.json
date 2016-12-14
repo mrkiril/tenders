@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "88e5f8559a27406b9c76b092dd379175",
+        "time": "2015-09-17T12:15:00.015605+00:00"
+      },
+      "turn_1": {
+        "bidder": "add6beab1c0b46faa6ed0071e183af02",
+        "time": "2015-09-17T12:13:00.019307+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "88e5f8559a27406b9c76b092dd379175",
+        "time": "2015-09-17T12:21:00.021107+00:00"
+      },
+      "turn_1": {
+        "bidder": "add6beab1c0b46faa6ed0071e183af02",
+        "time": "2015-09-17T12:19:00.016900+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "88e5f8559a27406b9c76b092dd379175",
+        "time": "2015-09-17T12:09:00.014832+00:00"
+      },
+      "turn_1": {
+        "bidder": "add6beab1c0b46faa6ed0071e183af02",
+        "time": "2015-09-17T12:07:00.022483+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "add6beab1c0b46faa6ed0071e183af02",
+          "amount": 2970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-15T14:44:02.464826+03:00"
+        },
+        {
+          "bidder": "88e5f8559a27406b9c76b092dd379175",
+          "amount": 2800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Олександр Яніцький",
+                "email": "yn_sasha@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2755307376",
+                "legalName": "ФОП \"Яніцький О.В.\""
+              },
+              "name": "ФОП \"Яніцький О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Бориспільська буд.49, кв.129",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-14T14:10:38.156344+03:00"
+        }
+      ],
+      "time": "2015-09-17T12:21:06.262084+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-15T14:44:02.464826+03:00",
+          "amount": 2970.0,
+          "bidder": "add6beab1c0b46faa6ed0071e183af02"
+        },
+        {
+          "date": "2015-09-14T14:10:38.156344+03:00",
+          "amount": 2800.0,
+          "bidder": "88e5f8559a27406b9c76b092dd379175"
+        }
+      ],
+      "time": "2015-09-17T12:00:00.008765+00:00"
+    }
+  },
+  "id": "351590a2e9e042549541b7bb20c96fbc",
+  "tenderId": "UA-2015-09-14-000092"
+}

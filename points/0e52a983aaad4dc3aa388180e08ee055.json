@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "30eb857e9e54451dbe82d14ccf94a9a9",
+        "time": "2015-11-13T09:17:42.011241+00:00"
+      },
+      "turn_3": {
+        "bidder": "3fde365c931f4cfa8d111dbf20fc70cf",
+        "time": "2015-11-13T09:19:42.010835+00:00"
+      },
+      "turn_1": {
+        "bidder": "7fe8a7cede4644409ace381ad7a8c847",
+        "time": "2015-11-13T09:15:42.013194+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "30eb857e9e54451dbe82d14ccf94a9a9",
+        "time": "2015-11-13T09:25:42.010613+00:00"
+      },
+      "turn_3": {
+        "bidder": "3fde365c931f4cfa8d111dbf20fc70cf",
+        "time": "2015-11-13T09:27:42.010808+00:00"
+      },
+      "turn_1": {
+        "amount": 720.0,
+        "bid_time": "2015-11-13T11:23:39.654875+02:00",
+        "bidder": "7fe8a7cede4644409ace381ad7a8c847",
+        "time": "2015-11-13T09:23:42.010807+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "30eb857e9e54451dbe82d14ccf94a9a9",
+        "time": "2015-11-13T09:09:42.011419+00:00"
+      },
+      "turn_3": {
+        "bidder": "3fde365c931f4cfa8d111dbf20fc70cf",
+        "time": "2015-11-13T09:11:42.011493+00:00"
+      },
+      "turn_1": {
+        "bidder": "7fe8a7cede4644409ace381ad7a8c847",
+        "time": "2015-11-13T09:07:42.022410+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30eb857e9e54451dbe82d14ccf94a9a9",
+          "amount": 784.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-12T22:53:32.184525+02:00"
+        },
+        {
+          "bidder": "3fde365c931f4cfa8d111dbf20fc70cf",
+          "amount": 749.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675652728, +380563774493",
+                "name": "Денис",
+                "email": "380675652728@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36725719",
+                "legalName": "Строймакс Днепр ПП"
+              },
+              "name": "Строймакс Днепр ПП",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пер. 1-й Проездной 1а",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-11T13:26:32.708538+02:00"
+        },
+        {
+          "bidder": "7fe8a7cede4644409ace381ad7a8c847",
+          "amount": 720.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://1001.in.ua/",
+                "telephone": "+380676311217",
+                "name": "Сухонос Дмитро Олександрович",
+                "email": "office@1001.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2649315878"
+              },
+              "name": "ФОП Сухонос Дмитро Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "ж/м Тополя-3, б. 1, копр. 2, кв. 70",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-13T11:23:39.654875+02:00"
+        }
+      ],
+      "time": "2015-11-13T09:27:46.174379+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T22:32:00.360978+02:00",
+          "amount": 800.0,
+          "bidder": "7fe8a7cede4644409ace381ad7a8c847"
+        },
+        {
+          "date": "2015-11-12T22:53:32.184525+02:00",
+          "amount": 784.0,
+          "bidder": "30eb857e9e54451dbe82d14ccf94a9a9"
+        },
+        {
+          "date": "2015-11-11T13:26:32.708538+02:00",
+          "amount": 749.0,
+          "bidder": "3fde365c931f4cfa8d111dbf20fc70cf"
+        }
+      ],
+      "time": "2015-11-13T09:00:42.002854+00:00"
+    }
+  },
+  "id": "0e52a983aaad4dc3aa388180e08ee055",
+  "tenderId": "UA-2015-11-09-000095-b"
+}

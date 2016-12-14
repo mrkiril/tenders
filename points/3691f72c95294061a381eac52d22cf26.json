@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e1d9892bfcad48d5aab4b83482ba935c",
+        "time": "2015-12-04T12:59:09.011194+00:00"
+      },
+      "turn_1": {
+        "bidder": "41ac998359d9458bb11ece6073673c19",
+        "time": "2015-12-04T12:57:09.011351+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e1d9892bfcad48d5aab4b83482ba935c",
+        "time": "2015-12-04T13:05:09.009357+00:00"
+      },
+      "turn_1": {
+        "bidder": "41ac998359d9458bb11ece6073673c19",
+        "time": "2015-12-04T13:03:09.010041+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e1d9892bfcad48d5aab4b83482ba935c",
+        "time": "2015-12-04T12:53:09.010496+00:00"
+      },
+      "turn_1": {
+        "bidder": "41ac998359d9458bb11ece6073673c19",
+        "time": "2015-12-04T12:51:09.034653+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "41ac998359d9458bb11ece6073673c19",
+          "amount": 16400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "04440856-25",
+                "telephone": "0985900713",
+                "name": "Шишкова Віола Артурівна",
+                "email": "condor_19@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2385305777",
+                "legalName": "Фізична особа пІдприємець  Циганко Володимир Петрович"
+              },
+              "name": "Фізична особа пІдприємець  Циганко Володимир Петрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08162",
+                "region": "Київська",
+                "streetAddress": "Юності  будинок 1 Кв. 156",
+                "locality": "Чабани"
+              }
+            }
+          ],
+          "time": "2015-12-01T10:27:12.825360+02:00"
+        },
+        {
+          "bidder": "e1d9892bfcad48d5aab4b83482ba935c",
+          "amount": 8860.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.slovo.kiev.ua",
+                "faxNumber": "+380444624863",
+                "telephone": "+380444636406",
+                "name": "Гарбуз Віктор Володимирович",
+                "email": "slovo_vd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32344600"
+              },
+              "name": "ТОВ Видавничий Дім Слово",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02088",
+                "region": "Київська область",
+                "streetAddress": "Геофізиків, 12",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T14:02:43.553771+02:00"
+        }
+      ],
+      "time": "2015-12-04T13:05:26.730691+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T10:27:12.825360+02:00",
+          "amount": 16400.0,
+          "bidder": "41ac998359d9458bb11ece6073673c19"
+        },
+        {
+          "date": "2015-12-02T14:02:43.553771+02:00",
+          "amount": 8860.0,
+          "bidder": "e1d9892bfcad48d5aab4b83482ba935c"
+        }
+      ],
+      "time": "2015-12-04T12:44:09.004412+00:00"
+    }
+  },
+  "id": "3691f72c95294061a381eac52d22cf26",
+  "tenderId": "UA-2015-11-25-000026"
+}

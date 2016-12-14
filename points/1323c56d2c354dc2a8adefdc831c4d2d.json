@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 490000.0,
+        "bid_time": "2015-08-03T13:13:37.412324+03:00",
+        "bidder": "85ddb592b26b48009d3e1f743d0bd099",
+        "time": "2015-08-03T10:15:00.026807+00:00"
+      },
+      "turn_1": {
+        "amount": 512000.0,
+        "bid_time": "2015-08-03T13:12:55.063867+03:00",
+        "bidder": "018c9b7864dc40d1af855dcc0aa6ea1b",
+        "time": "2015-08-03T10:13:00.035960+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "85ddb592b26b48009d3e1f743d0bd099",
+        "time": "2015-08-03T10:21:00.032569+00:00"
+      },
+      "turn_1": {
+        "amount": 509000.0,
+        "bid_time": "2015-08-03T13:18:49.048155+03:00",
+        "bidder": "018c9b7864dc40d1af855dcc0aa6ea1b",
+        "time": "2015-08-03T10:19:00.015215+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 513000.0,
+        "bid_time": "2015-08-03T13:07:31.658151+03:00",
+        "bidder": "85ddb592b26b48009d3e1f743d0bd099",
+        "time": "2015-08-03T10:09:00.034313+00:00"
+      },
+      "turn_1": {
+        "amount": 515000.0,
+        "bid_time": "2015-08-03T13:05:40.913833+03:00",
+        "bidder": "018c9b7864dc40d1af855dcc0aa6ea1b",
+        "time": "2015-08-03T10:07:00.031585+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "018c9b7864dc40d1af855dcc0aa6ea1b",
+          "amount": 509000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380569230129",
+                "name": "Товариство з обмеженою відповідальністю \"ПО БІТУМПРОМ\"",
+                "email": "bitumprom@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36575090",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПО БІТУМПРОМ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПО БІТУМПРОМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 49000, м. Дніпропетровськ, вул. Сєрова, 1А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T13:18:49.048155+03:00"
+        },
+        {
+          "bidder": "85ddb592b26b48009d3e1f743d0bd099",
+          "amount": 490000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T13:13:37.412324+03:00"
+        }
+      ],
+      "time": "2015-08-03T10:21:01.555863+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-30T18:38:08.133475+03:00",
+          "amount": 518000.0,
+          "bidder": "018c9b7864dc40d1af855dcc0aa6ea1b"
+        },
+        {
+          "date": "2015-07-30T12:53:45.427602+03:00",
+          "amount": 516000.0,
+          "bidder": "85ddb592b26b48009d3e1f743d0bd099"
+        }
+      ],
+      "time": "2015-08-03T10:00:00.008100+00:00"
+    }
+  },
+  "id": "1323c56d2c354dc2a8adefdc831c4d2d",
+  "tenderId": "UA-2015-07-24-000032"
+}

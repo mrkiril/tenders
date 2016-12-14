@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "abd59993082a4513ad786e1cfe95f33d",
+        "time": "2015-10-21T10:56:06.010497+00:00"
+      },
+      "turn_3": {
+        "bidder": "f7fb8d2b2834483381e7650dcd5decd5",
+        "time": "2015-10-21T10:58:06.007149+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b4b86508c9490f91e770e9e9d805d3",
+        "time": "2015-10-21T10:54:06.013430+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "abd59993082a4513ad786e1cfe95f33d",
+        "time": "2015-10-21T11:04:06.010753+00:00"
+      },
+      "turn_3": {
+        "bidder": "f7fb8d2b2834483381e7650dcd5decd5",
+        "time": "2015-10-21T11:06:06.008355+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b4b86508c9490f91e770e9e9d805d3",
+        "time": "2015-10-21T11:02:06.011945+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 13268.0,
+        "bid_time": "2015-10-21T13:46:30.806380+03:00",
+        "bidder": "f7fb8d2b2834483381e7650dcd5decd5",
+        "time": "2015-10-21T10:48:06.010353+00:00"
+      },
+      "turn_3": {
+        "bidder": "abd59993082a4513ad786e1cfe95f33d",
+        "time": "2015-10-21T10:50:06.008610+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b4b86508c9490f91e770e9e9d805d3",
+        "time": "2015-10-21T10:46:06.008431+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c2b4b86508c9490f91e770e9e9d805d3",
+          "amount": 18767.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-20T16:59:07.867118+03:00"
+        },
+        {
+          "bidder": "abd59993082a4513ad786e1cfe95f33d",
+          "amount": 14000.09,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443326404, +380502820273, +380973799220",
+                "name": "Зореслава Игнатенко",
+                "email": "zignatenko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ФАРМЛіДЕР\"",
+                "id": "38193051",
+                "uri": "http://pharmlider.uaprom.net/"
+              },
+              "name": "ТОВ \"ФАРМЛіДЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02140",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, проспект М.Бажана, 16, кв.144",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-20T12:02:23.317131+03:00"
+        },
+        {
+          "bidder": "f7fb8d2b2834483381e7650dcd5decd5",
+          "amount": 13268.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444532077",
+                "telephone": "+380444532007",
+                "name": "Черниш Наталія Михайлівна",
+                "email": "novamed@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30578379"
+              },
+              "name": "ТОВ Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська область",
+                "streetAddress": "м.Київ, вул.Вибозька, буд.91а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-21T13:46:30.806380+03:00"
+        }
+      ],
+      "time": "2015-10-21T11:06:09.876424+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T16:59:07.867118+03:00",
+          "amount": 18767.8,
+          "bidder": "c2b4b86508c9490f91e770e9e9d805d3"
+        },
+        {
+          "date": "2015-10-20T16:39:58.042534+03:00",
+          "amount": 16007.2,
+          "bidder": "f7fb8d2b2834483381e7650dcd5decd5"
+        },
+        {
+          "date": "2015-10-20T12:02:23.317131+03:00",
+          "amount": 14000.09,
+          "bidder": "abd59993082a4513ad786e1cfe95f33d"
+        }
+      ],
+      "time": "2015-10-21T10:39:06.004179+00:00"
+    }
+  },
+  "id": "0d807bd5f2bf4b6198246c474dfb07ef",
+  "tenderId": "UA-2015-10-19-000099"
+}

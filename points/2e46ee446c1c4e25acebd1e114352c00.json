@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a726b2a83b4d49a79ca5f8838e8aa5d4",
+        "time": "2015-12-02T13:28:04.007647+00:00"
+      },
+      "turn_1": {
+        "amount": 3500.0,
+        "bid_time": "2015-12-02T15:25:03.413926+02:00",
+        "bidder": "ad617ae1925042aa89ed296f0db98af0",
+        "time": "2015-12-02T13:26:04.008307+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2999.0,
+        "bid_time": "2015-12-02T15:33:18.250512+02:00",
+        "bidder": "ad617ae1925042aa89ed296f0db98af0",
+        "time": "2015-12-02T13:34:04.009214+00:00"
+      },
+      "turn_1": {
+        "amount": 3000.0,
+        "bid_time": "2015-12-02T15:30:47.840876+02:00",
+        "bidder": "a726b2a83b4d49a79ca5f8838e8aa5d4",
+        "time": "2015-12-02T13:32:04.009273+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a726b2a83b4d49a79ca5f8838e8aa5d4",
+        "time": "2015-12-02T13:22:04.007996+00:00"
+      },
+      "turn_1": {
+        "bidder": "ad617ae1925042aa89ed296f0db98af0",
+        "time": "2015-12-02T13:20:04.008940+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a726b2a83b4d49a79ca5f8838e8aa5d4",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0442495668",
+                "telephone": "0443320212",
+                "name": "Поліщук Тетяна Олексіївна",
+                "email": "ATRANSESS@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35644131",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЄВРОСПЕЦСЕРВІС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЄВРОСПЕЦСЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03143",
+                "region": "Київська",
+                "streetAddress": "Заболотного, 15",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:30:47.840876+02:00"
+        },
+        {
+          "bidder": "ad617ae1925042aa89ed296f0db98af0",
+          "amount": 2999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ecosvit.in.ua/",
+                "telephone": "0672317686",
+                "name": "Виктор Руденко ",
+                "email": "vvr.ecosvit@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38321242",
+                "legalName": "ТОВ \"ТПК ЕКО СВІТ\""
+              },
+              "name": "ТОВ \"ТПК ЕКО СВІТ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев-73, 04073, а\\с 138"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:33:18.250512+02:00"
+        }
+      ],
+      "time": "2015-12-02T13:34:05.804863+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T18:01:10.538320+02:00",
+          "amount": 5415.0,
+          "bidder": "ad617ae1925042aa89ed296f0db98af0"
+        },
+        {
+          "date": "2015-12-01T14:51:03.888607+02:00",
+          "amount": 4000.0,
+          "bidder": "a726b2a83b4d49a79ca5f8838e8aa5d4"
+        }
+      ],
+      "time": "2015-12-02T13:13:04.003871+00:00"
+    }
+  },
+  "id": "2e46ee446c1c4e25acebd1e114352c00",
+  "tenderId": "UA-2015-11-27-000222"
+}

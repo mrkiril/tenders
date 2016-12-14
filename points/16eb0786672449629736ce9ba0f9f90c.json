@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ccf3ba420d0f45be8892b91248558390",
+        "time": "2015-08-25T08:45:00.194542+00:00"
+      },
+      "turn_1": {
+        "bidder": "40e3d618b3ed4cdbbffc2e53b94e61ba",
+        "time": "2015-08-25T08:43:00.150339+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ccf3ba420d0f45be8892b91248558390",
+        "time": "2015-08-25T08:51:00.088645+00:00"
+      },
+      "turn_1": {
+        "bidder": "40e3d618b3ed4cdbbffc2e53b94e61ba",
+        "time": "2015-08-25T08:49:00.100731+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ccf3ba420d0f45be8892b91248558390",
+        "time": "2015-08-25T08:39:00.048948+00:00"
+      },
+      "turn_1": {
+        "bidder": "40e3d618b3ed4cdbbffc2e53b94e61ba",
+        "time": "2015-08-25T08:37:00.129618+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "40e3d618b3ed4cdbbffc2e53b94e61ba",
+          "amount": 2180.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T19:05:08.894185+03:00"
+        },
+        {
+          "bidder": "ccf3ba420d0f45be8892b91248558390",
+          "amount": 2100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T11:08:23.517423+03:00"
+        }
+      ],
+      "time": "2015-08-25T08:51:16.941487+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-17T19:05:08.894185+03:00",
+          "amount": 2180.0,
+          "bidder": "40e3d618b3ed4cdbbffc2e53b94e61ba"
+        },
+        {
+          "date": "2015-08-20T11:08:23.517423+03:00",
+          "amount": 2100.0,
+          "bidder": "ccf3ba420d0f45be8892b91248558390"
+        }
+      ],
+      "time": "2015-08-25T08:30:00.047917+00:00"
+    }
+  },
+  "id": "16eb0786672449629736ce9ba0f9f90c",
+  "tenderId": "UA-2015-08-10-000038"
+}

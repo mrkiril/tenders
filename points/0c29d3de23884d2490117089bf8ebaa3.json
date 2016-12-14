@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b10be7179f17466fbd3fe06c300fcfe3",
+        "time": "2015-12-03T12:50:21.009064+00:00"
+      },
+      "turn_3": {
+        "bidder": "27c95669a8b642f5955a7d893759d0fc",
+        "time": "2015-12-03T12:52:21.009512+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9adc65fbea44817872c708e2017b4f8",
+        "time": "2015-12-03T12:48:21.009610+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b10be7179f17466fbd3fe06c300fcfe3",
+        "time": "2015-12-03T12:58:21.008729+00:00"
+      },
+      "turn_3": {
+        "bidder": "27c95669a8b642f5955a7d893759d0fc",
+        "time": "2015-12-03T13:00:21.008788+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9adc65fbea44817872c708e2017b4f8",
+        "time": "2015-12-03T12:56:21.008561+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 13650.0,
+        "bid_time": "2015-12-03T14:41:37.281113+02:00",
+        "bidder": "b10be7179f17466fbd3fe06c300fcfe3",
+        "time": "2015-12-03T12:42:21.010904+00:00"
+      },
+      "turn_3": {
+        "bidder": "27c95669a8b642f5955a7d893759d0fc",
+        "time": "2015-12-03T12:44:21.009045+00:00"
+      },
+      "turn_1": {
+        "amount": 13735.0,
+        "bid_time": "2015-12-03T14:39:16.128570+02:00",
+        "bidder": "e9adc65fbea44817872c708e2017b4f8",
+        "time": "2015-12-03T12:40:21.010355+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e9adc65fbea44817872c708e2017b4f8",
+          "amount": 13735.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443832625, +380503304534, +380975910928, +380634337667",
+                "name": "Олег Шакура",
+                "email": "oleg8942@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2845203573",
+                "legalName": "ФОП \"Шакура Олег Михайлович\""
+              },
+              "name": "ФОП \"Шакура Олег Михайлович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03056",
+                "region": "Киевская",
+                "streetAddress": "ул. Борщаговская, 148",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:39:16.128570+02:00"
+        },
+        {
+          "bidder": "b10be7179f17466fbd3fe06c300fcfe3",
+          "amount": 13650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:41:37.281113+02:00"
+        },
+        {
+          "bidder": "27c95669a8b642f5955a7d893759d0fc",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968886333",
+                "name": "Константин Яворский",
+                "email": "kostya@domikom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Яворський Костянтин Борисович\"",
+                "id": "2533221430",
+                "uri": "http://domikom.com.ua"
+              },
+              "name": "ФОП \"Яворський Костянтин Борисович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "66300",
+                "region": "Одесская",
+                "streetAddress": "ул. 8 Марта 2А",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-01T15:49:03.678691+02:00"
+        }
+      ],
+      "time": "2015-12-03T13:00:51.633754+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T14:20:58.709172+02:00",
+          "amount": 13877.0,
+          "bidder": "e9adc65fbea44817872c708e2017b4f8"
+        },
+        {
+          "date": "2015-12-01T19:01:22.006720+02:00",
+          "amount": 13750.0,
+          "bidder": "b10be7179f17466fbd3fe06c300fcfe3"
+        },
+        {
+          "date": "2015-12-01T15:49:03.678691+02:00",
+          "amount": 12000.0,
+          "bidder": "27c95669a8b642f5955a7d893759d0fc"
+        }
+      ],
+      "time": "2015-12-03T12:33:21.005401+00:00"
+    }
+  },
+  "id": "0c29d3de23884d2490117089bf8ebaa3",
+  "tenderId": "UA-2015-11-26-000073-b"
+}

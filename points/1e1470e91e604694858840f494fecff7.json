@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 414.0,
+        "bid_time": "2015-09-30T15:58:47.562598+03:00",
+        "bidder": "c7d90016fd6e4ad2b9cb738be384411e",
+        "time": "2015-09-30T13:00:39.007311+00:00"
+      },
+      "turn_3": {
+        "amount": 412.0,
+        "bid_time": "2015-09-30T16:01:05.391637+03:00",
+        "bidder": "e618e887554a4e4fb50600a21eb8079f",
+        "time": "2015-09-30T13:02:39.010374+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f86d8af25549fcbd41aaab498e4e22",
+        "time": "2015-09-30T12:58:39.011570+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 410.0,
+        "bid_time": "2015-09-30T16:07:09.589248+03:00",
+        "bidder": "c7d90016fd6e4ad2b9cb738be384411e",
+        "time": "2015-09-30T13:08:39.007591+00:00"
+      },
+      "turn_3": {
+        "amount": 406.0,
+        "bid_time": "2015-09-30T16:09:35.361488+03:00",
+        "bidder": "e618e887554a4e4fb50600a21eb8079f",
+        "time": "2015-09-30T13:10:39.008372+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f86d8af25549fcbd41aaab498e4e22",
+        "time": "2015-09-30T13:06:39.006736+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 420.0,
+        "bid_time": "2015-09-30T15:51:44.606860+03:00",
+        "bidder": "e618e887554a4e4fb50600a21eb8079f",
+        "time": "2015-09-30T12:52:39.013471+00:00"
+      },
+      "turn_3": {
+        "bidder": "c7d90016fd6e4ad2b9cb738be384411e",
+        "time": "2015-09-30T12:54:39.008099+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f86d8af25549fcbd41aaab498e4e22",
+        "time": "2015-09-30T12:50:39.008724+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a9f86d8af25549fcbd41aaab498e4e22",
+          "amount": 450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T09:39:42.357224+03:00"
+        },
+        {
+          "bidder": "c7d90016fd6e4ad2b9cb738be384411e",
+          "amount": 410.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-30T16:07:09.589248+03:00"
+        },
+        {
+          "bidder": "e618e887554a4e4fb50600a21eb8079f",
+          "amount": 406.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T16:09:35.361488+03:00"
+        }
+      ],
+      "time": "2015-09-30T13:10:49.364070+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T09:39:42.357224+03:00",
+          "amount": 450.0,
+          "bidder": "a9f86d8af25549fcbd41aaab498e4e22"
+        },
+        {
+          "date": "2015-09-30T03:07:13.739475+03:00",
+          "amount": 440.4,
+          "bidder": "e618e887554a4e4fb50600a21eb8079f"
+        },
+        {
+          "date": "2015-09-25T14:18:46.867255+03:00",
+          "amount": 421.62,
+          "bidder": "c7d90016fd6e4ad2b9cb738be384411e"
+        }
+      ],
+      "time": "2015-09-30T12:43:39.003274+00:00"
+    }
+  },
+  "id": "1e1470e91e604694858840f494fecff7",
+  "tenderId": "UA-2015-09-22-000271"
+}

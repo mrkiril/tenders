@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f62e38913ebf4c37a15a708ef0e1ac1f",
+        "time": "2015-07-06T08:15:00.028079+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f6b1332ce34463a8ea67d5102fa3734",
+        "time": "2015-07-06T08:13:00.117185+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f62e38913ebf4c37a15a708ef0e1ac1f",
+        "time": "2015-07-06T08:21:00.072329+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f6b1332ce34463a8ea67d5102fa3734",
+        "time": "2015-07-06T08:19:00.044787+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f62e38913ebf4c37a15a708ef0e1ac1f",
+        "time": "2015-07-06T08:09:00.071696+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f6b1332ce34463a8ea67d5102fa3734",
+        "time": "2015-07-06T08:07:00.086918+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9f6b1332ce34463a8ea67d5102fa3734",
+          "amount": 75599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632277335",
+                "name": "ООО \"Стандарт-Оил\"",
+                "email": "denis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30171638",
+                "legalName": "ООО \"Стандарт-Оил\""
+              },
+              "name": "ООО \"Стандарт-Оил\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, г. Одесса, Воронцовский переулок 1,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T16:46:35.467132+03:00"
+        },
+        {
+          "bidder": "f62e38913ebf4c37a15a708ef0e1ac1f",
+          "amount": 75555.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509114651",
+                "name": "Валерій Головач",
+                "email": "atl1@atl.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39696432",
+                "legalName": "ТОВ \"ТОВ АТЛ Автосервіс\""
+              },
+              "name": "ТОВ \"ТОВ АТЛ Автосервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул.Кільцева дорога, буд, 22",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-02T13:19:38.506875+03:00"
+        }
+      ],
+      "time": "2015-07-06T08:21:03.258329+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-03T16:46:35.467132+03:00",
+          "amount": 75599.0,
+          "bidder": "9f6b1332ce34463a8ea67d5102fa3734"
+        },
+        {
+          "date": "2015-07-02T13:19:38.506875+03:00",
+          "amount": 75555.0,
+          "bidder": "f62e38913ebf4c37a15a708ef0e1ac1f"
+        }
+      ],
+      "time": "2015-07-06T08:00:00.049615+00:00"
+    }
+  },
+  "id": "0a8776da62244dd089c1b8fc894128c4",
+  "tenderId": "UA-2015-06-26-000077"
+}

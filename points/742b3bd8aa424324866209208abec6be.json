@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2955d365df3e409b8e4f1f1a4aa470ef",
+        "time": "2015-03-30T09:45:00.062540+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4a31440af24ac7a0657bfc3d2f6190",
+        "time": "2015-03-30T09:43:00.058709+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2955d365df3e409b8e4f1f1a4aa470ef",
+        "time": "2015-03-30T09:51:00.026316+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4a31440af24ac7a0657bfc3d2f6190",
+        "time": "2015-03-30T09:49:00.033083+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3400.0,
+        "bid_time": "2015-03-30T12:37:16.322912+03:00",
+        "bidder": "2955d365df3e409b8e4f1f1a4aa470ef",
+        "time": "2015-03-30T09:39:00.161737+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4a31440af24ac7a0657bfc3d2f6190",
+        "time": "2015-03-30T09:37:00.024966+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2a4a31440af24ac7a0657bfc3d2f6190",
+          "amount": 33992934.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442095291",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРОБОРОНЕКСПОРТ\"",
+                "email": "ykroboroneksport@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33345054",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРОБОРОНЕКСПОРТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"УКРОБОРОНЕКСПОРТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, м. Київ, вул М. Раскової, 19, к. 1128",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-27T17:48:36.573199+02:00"
+        },
+        {
+          "bidder": "2955d365df3e409b8e4f1f1a4aa470ef",
+          "amount": 3400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380976983387",
+                "name": "Александр Довгий",
+                "email": "dovgiy.a@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39274120",
+                "legalName": "Балістика"
+              },
+              "name": "Балістика",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Стрийська 4, оф. 212",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-30T12:37:16.322912+03:00"
+        }
+      ],
+      "time": "2015-03-30T09:51:01.167586+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-27T17:48:36.573199+02:00",
+          "amount": 33992934.0,
+          "bidder": "2a4a31440af24ac7a0657bfc3d2f6190"
+        },
+        {
+          "date": "2015-03-27T21:14:09.201874+02:00",
+          "amount": 3712.0,
+          "bidder": "2955d365df3e409b8e4f1f1a4aa470ef"
+        }
+      ],
+      "time": "2015-03-30T09:30:00.007770+00:00"
+    }
+  },
+  "id": "742b3bd8aa424324866209208abec6be",
+  "tenderId": "UA-2015-03-18-000007"
+}

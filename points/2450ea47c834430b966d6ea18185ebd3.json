@@ -1,0 +1,255 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "7f35bc4697cc4cbb868ddc60af95fde5",
+        "time": "2015-04-30T08:25:00.078959+00:00"
+      },
+      "turn_5": {
+        "bidder": "cf8f5447e65241cbb07215f7732fa480",
+        "time": "2015-04-30T08:27:00.199507+00:00"
+      },
+      "turn_2": {
+        "bidder": "f0aba91ed8e6478ab7097f980b22e9f4",
+        "time": "2015-04-30T08:21:00.264055+00:00"
+      },
+      "turn_3": {
+        "amount": 15900.0,
+        "bid_time": "2015-04-30T11:22:45.229611+03:00",
+        "bidder": "a41a36ce425f421e988e4c5fe0de9977",
+        "time": "2015-04-30T08:23:00.209667+00:00"
+      },
+      "turn_1": {
+        "bidder": "a99f8ab4af224405bd58cb8728b4a13d",
+        "time": "2015-04-30T08:19:00.196607+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "a41a36ce425f421e988e4c5fe0de9977",
+        "time": "2015-04-30T08:37:00.160671+00:00"
+      },
+      "turn_5": {
+        "bidder": "cf8f5447e65241cbb07215f7732fa480",
+        "time": "2015-04-30T08:39:00.157958+00:00"
+      },
+      "turn_2": {
+        "bidder": "f0aba91ed8e6478ab7097f980b22e9f4",
+        "time": "2015-04-30T08:33:00.043258+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f35bc4697cc4cbb868ddc60af95fde5",
+        "time": "2015-04-30T08:35:00.058719+00:00"
+      },
+      "turn_1": {
+        "bidder": "a99f8ab4af224405bd58cb8728b4a13d",
+        "time": "2015-04-30T08:31:00.119608+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 16120.0,
+        "bid_time": "2015-04-30T11:11:28.469187+03:00",
+        "bidder": "7f35bc4697cc4cbb868ddc60af95fde5",
+        "time": "2015-04-30T08:13:00.148892+00:00"
+      },
+      "turn_5": {
+        "bidder": "cf8f5447e65241cbb07215f7732fa480",
+        "time": "2015-04-30T08:15:00.142508+00:00"
+      },
+      "turn_2": {
+        "amount": 16150.0,
+        "bid_time": "2015-04-30T11:07:32.668979+03:00",
+        "bidder": "a41a36ce425f421e988e4c5fe0de9977",
+        "time": "2015-04-30T08:09:00.049230+00:00"
+      },
+      "turn_3": {
+        "bidder": "f0aba91ed8e6478ab7097f980b22e9f4",
+        "time": "2015-04-30T08:11:00.232025+00:00"
+      },
+      "turn_1": {
+        "bidder": "a99f8ab4af224405bd58cb8728b4a13d",
+        "time": "2015-04-30T08:07:00.292331+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a99f8ab4af224405bd58cb8728b4a13d",
+          "amount": 16500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://image-ua.com/",
+                "faxNumber": "0443933434",
+                "telephone": "0443933434",
+                "name": "ТОВ \"Імідж Лоджік\"",
+                "email": "sale@image-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32381861",
+                "legalName": "ТОВ \"Імідж Лоджік\""
+              },
+              "name": "ТОВ \"Імідж Лоджік\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04060",
+                "region": "Київська",
+                "streetAddress": "вул. Орловська 8/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-04-28T15:35:10.657847+03:00"
+        },
+        {
+          "bidder": "f0aba91ed8e6478ab7097f980b22e9f4",
+          "amount": 16400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.roma.ua",
+                "telephone": "+380503418339",
+                "name": "Общество с ограниченной ответственностью производственно-коммерческая фирма \"Рома, Лтд\"",
+                "email": "aia@roma.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23855495",
+                "legalName": "Общество с ограниченной ответственностью производственно-коммерческая фирма \"Рома, Лтд\""
+              },
+              "name": "Общество с ограниченной ответственностью производственно-коммерческая фирма \"Рома, Лтд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69037, г. Запорожье, ул. 40 лет Советской  Украины, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-30T09:54:47.085818+03:00"
+        },
+        {
+          "bidder": "7f35bc4697cc4cbb868ddc60af95fde5",
+          "amount": 16120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-04-30T11:11:28.469187+03:00"
+        },
+        {
+          "bidder": "a41a36ce425f421e988e4c5fe0de9977",
+          "amount": 15900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.infotrade.com.ua/",
+                "faxNumber": "044201-15-19",
+                "telephone": "044357-23-23",
+                "name": "Товариство з обмеженою відповідальністю \"Інфотрейд\"",
+                "email": "info@infotrade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30969602",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інфотрейд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інфотрейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул.Межигірська,82А,корп.Б,оф.306",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-04-30T11:22:45.229611+03:00"
+        },
+        {
+          "bidder": "cf8f5447e65241cbb07215f7732fa480",
+          "amount": 15800.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-29T16:32:28.981327+03:00"
+        }
+      ],
+      "time": "2015-04-30T08:39:04.774878+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-04-28T15:35:10.657847+03:00",
+          "amount": 16500.0,
+          "bidder": "a99f8ab4af224405bd58cb8728b4a13d"
+        },
+        {
+          "date": "2015-04-30T09:41:01.991876+03:00",
+          "amount": 16400.0,
+          "bidder": "a41a36ce425f421e988e4c5fe0de9977"
+        },
+        {
+          "date": "2015-04-30T09:54:47.085818+03:00",
+          "amount": 16400.0,
+          "bidder": "f0aba91ed8e6478ab7097f980b22e9f4"
+        },
+        {
+          "date": "2015-04-28T14:39:01.052767+03:00",
+          "amount": 16360.0,
+          "bidder": "7f35bc4697cc4cbb868ddc60af95fde5"
+        },
+        {
+          "date": "2015-04-29T16:32:28.981327+03:00",
+          "amount": 15800.4,
+          "bidder": "cf8f5447e65241cbb07215f7732fa480"
+        }
+      ],
+      "time": "2015-04-30T08:00:00.084977+00:00"
+    }
+  },
+  "id": "2450ea47c834430b966d6ea18185ebd3",
+  "tenderId": "UA-2015-04-24-000008"
+}

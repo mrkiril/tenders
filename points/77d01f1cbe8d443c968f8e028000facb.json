@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "397bc8be1404411c867043a6f198be38",
+        "time": "2015-10-19T10:57:01.009006+00:00"
+      },
+      "turn_1": {
+        "bidder": "7242365e7bdc4baf857957f5fa7eb143",
+        "time": "2015-10-19T10:55:01.007447+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "397bc8be1404411c867043a6f198be38",
+        "time": "2015-10-19T11:03:01.009405+00:00"
+      },
+      "turn_1": {
+        "bidder": "7242365e7bdc4baf857957f5fa7eb143",
+        "time": "2015-10-19T11:01:01.008226+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "397bc8be1404411c867043a6f198be38",
+        "time": "2015-10-19T10:51:01.010469+00:00"
+      },
+      "turn_1": {
+        "bidder": "7242365e7bdc4baf857957f5fa7eb143",
+        "time": "2015-10-19T10:49:01.007576+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7242365e7bdc4baf857957f5fa7eb143",
+          "amount": 300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-15T15:41:38.592379+03:00"
+        },
+        {
+          "bidder": "397bc8be1404411c867043a6f198be38",
+          "amount": 248.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://all-service.com.ua/",
+                "telephone": "0445854445",
+                "name": "Дарья Шумар ",
+                "email": "dasha@all-service.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31924709",
+                "legalName": "ТОВ \"АІР\""
+              },
+              "name": "ТОВ \"АІР\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев, 04112, ул. Оранжерейная, 3е, оф. 202"
+              }
+            }
+          ],
+          "time": "2015-10-09T10:51:20.463373+03:00"
+        }
+      ],
+      "time": "2015-10-19T11:03:04.342574+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T15:41:38.592379+03:00",
+          "amount": 300.0,
+          "bidder": "7242365e7bdc4baf857957f5fa7eb143"
+        },
+        {
+          "date": "2015-10-09T10:51:20.463373+03:00",
+          "amount": 248.0,
+          "bidder": "397bc8be1404411c867043a6f198be38"
+        }
+      ],
+      "time": "2015-10-19T10:42:01.004115+00:00"
+    }
+  },
+  "id": "77d01f1cbe8d443c968f8e028000facb",
+  "tenderId": "UA-2015-10-08-000018"
+}

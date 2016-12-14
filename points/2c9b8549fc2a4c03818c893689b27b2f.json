@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a1cb1d5983f74bc78b93dd377dce2ff2",
+        "time": "2015-06-08T08:15:00.265920+00:00"
+      },
+      "turn_1": {
+        "bidder": "cab46e2d976d40f8b05f94d025a02943",
+        "time": "2015-06-08T08:13:00.131432+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a1cb1d5983f74bc78b93dd377dce2ff2",
+        "time": "2015-06-08T08:21:00.137668+00:00"
+      },
+      "turn_1": {
+        "bidder": "cab46e2d976d40f8b05f94d025a02943",
+        "time": "2015-06-08T08:19:00.209300+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a1cb1d5983f74bc78b93dd377dce2ff2",
+        "time": "2015-06-08T08:09:00.065656+00:00"
+      },
+      "turn_1": {
+        "bidder": "cab46e2d976d40f8b05f94d025a02943",
+        "time": "2015-06-08T08:07:00.100676+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cab46e2d976d40f8b05f94d025a02943",
+          "amount": 69500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674346422",
+                "name": "Александр Канивец",
+                "email": "masterlift@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33308688",
+                "legalName": "ТОВ \"МАЙСТЕРЛІФТ\""
+              },
+              "name": "ТОВ \"МАЙСТЕРЛІФТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04073",
+                "region": "Киевская",
+                "streetAddress": "г. Киев, пер. Куреневский, 17 Ш",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-04T14:31:31.407895+03:00"
+        },
+        {
+          "bidder": "a1cb1d5983f74bc78b93dd377dce2ff2",
+          "amount": 63007.56,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935278966",
+                "name": "Лариса Горбовая",
+                "email": "gorbovayal@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "14357579",
+                "legalName": "ПрАТ \"ОТИС\""
+              },
+              "name": "ПрАТ \"ОТИС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Чистяковская, 32",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-05T09:23:41.368119+03:00"
+        }
+      ],
+      "time": "2015-06-08T08:21:06.993093+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-04T14:31:31.407895+03:00",
+          "amount": 69500.0,
+          "bidder": "cab46e2d976d40f8b05f94d025a02943"
+        },
+        {
+          "date": "2015-06-05T09:23:41.368119+03:00",
+          "amount": 63007.56,
+          "bidder": "a1cb1d5983f74bc78b93dd377dce2ff2"
+        }
+      ],
+      "time": "2015-06-08T08:00:00.024812+00:00"
+    }
+  },
+  "id": "2c9b8549fc2a4c03818c893689b27b2f",
+  "tenderId": "UA-2015-06-02-000052"
+}

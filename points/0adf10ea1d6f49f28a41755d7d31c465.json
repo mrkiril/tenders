@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b78c7bef8d7c4bc2ae629c212df822aa",
+        "time": "2015-12-10T09:29:40.007032+00:00"
+      },
+      "turn_1": {
+        "bidder": "79a9ef5b9c9a477e9421b2051faf2f8d",
+        "time": "2015-12-10T09:27:40.007572+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b78c7bef8d7c4bc2ae629c212df822aa",
+        "time": "2015-12-10T09:35:40.006479+00:00"
+      },
+      "turn_1": {
+        "bidder": "79a9ef5b9c9a477e9421b2051faf2f8d",
+        "time": "2015-12-10T09:33:40.007371+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "79a9ef5b9c9a477e9421b2051faf2f8d",
+        "time": "2015-12-10T09:23:40.007091+00:00"
+      },
+      "turn_1": {
+        "amount": 7447.2,
+        "bid_time": "2015-12-10T11:20:07.221781+02:00",
+        "bidder": "b78c7bef8d7c4bc2ae629c212df822aa",
+        "time": "2015-12-10T09:21:40.008350+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "79a9ef5b9c9a477e9421b2051faf2f8d",
+          "amount": 8468.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970542673",
+                "name": "Чернишова Галина Іванівна",
+                "email": "gich1122@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1759701761"
+              },
+              "name": "ФОП Чернишова Галина Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Яшина",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T21:46:33.463303+02:00"
+        },
+        {
+          "bidder": "b78c7bef8d7c4bc2ae629c212df822aa",
+          "amount": 7447.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672144908",
+                "name": "Татьяна Кошелева",
+                "email": "od-kosheleva@womed.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38639339",
+                "legalName": "ТОВ \"Вест-Ост Медикал\""
+              },
+              "name": "ТОВ \"Вест-Ост Медикал\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "бульвар Лепсе, 6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:20:07.221781+02:00"
+        }
+      ],
+      "time": "2015-12-10T09:35:42.327778+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T12:58:01.535869+02:00",
+          "amount": 8700.0,
+          "bidder": "b78c7bef8d7c4bc2ae629c212df822aa"
+        },
+        {
+          "date": "2015-12-04T21:46:33.463303+02:00",
+          "amount": 8468.0,
+          "bidder": "79a9ef5b9c9a477e9421b2051faf2f8d"
+        }
+      ],
+      "time": "2015-12-10T09:14:40.002886+00:00"
+    }
+  },
+  "id": "0adf10ea1d6f49f28a41755d7d31c465",
+  "tenderId": "UA-2015-11-30-000075"
+}

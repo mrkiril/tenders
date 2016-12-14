@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c1c19f786d4d4b8aae1e312e9e99592e",
+        "time": "2015-11-17T12:01:37.008315+00:00"
+      },
+      "turn_3": {
+        "bidder": "ccdcb222ff534b16ae480ebca576bb35",
+        "time": "2015-11-17T12:03:37.008464+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec96284f092b49bba221957db130cd48",
+        "time": "2015-11-17T11:59:37.007896+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c1c19f786d4d4b8aae1e312e9e99592e",
+        "time": "2015-11-17T12:09:37.008272+00:00"
+      },
+      "turn_3": {
+        "bidder": "ccdcb222ff534b16ae480ebca576bb35",
+        "time": "2015-11-17T12:11:37.010388+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec96284f092b49bba221957db130cd48",
+        "time": "2015-11-17T12:07:37.009102+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ec96284f092b49bba221957db130cd48",
+        "time": "2015-11-17T11:53:37.008562+00:00"
+      },
+      "turn_3": {
+        "bidder": "c1c19f786d4d4b8aae1e312e9e99592e",
+        "time": "2015-11-17T11:55:37.008805+00:00"
+      },
+      "turn_1": {
+        "amount": 4120.0,
+        "bid_time": "2015-11-17T13:49:47.146781+02:00",
+        "bidder": "ccdcb222ff534b16ae480ebca576bb35",
+        "time": "2015-11-17T11:51:37.007562+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ec96284f092b49bba221957db130cd48",
+          "amount": 4350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445319100",
+                "name": "Андрей",
+                "email": "marketing@paritet-k.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ВИРОБНИЧО-КОМЕРЦІЙНЕ ПІДПРИЄМСТВО ПАРИТЕТ-К\"",
+                "id": "37973820",
+                "uri": "http://paritet-k.com.ua/ru"
+              },
+              "name": "ТОВ \"ВИРОБНИЧО-КОМЕРЦІЙНЕ ПІДПРИЄМСТВО ПАРИТЕТ-К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04050",
+                "region": "Киевская",
+                "streetAddress": "г.Киев, ул. Глубочицкая 40-У",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-16T08:18:18.174479+02:00"
+        },
+        {
+          "bidder": "c1c19f786d4d4b8aae1e312e9e99592e",
+          "amount": 4200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.seyf.pro",
+                "telephone": "0966441242",
+                "name": "Скалій Віталій Володимирович",
+                "email": "sale@seyf.pro"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3135805878",
+                "legalName": "Фізична Особа Підприємець Скалій Віталій Володимирович"
+              },
+              "name": "Фізична Особа Підприємець Скалій Віталій Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "вул Калинова 64/89",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-15T23:29:23.961854+02:00"
+        },
+        {
+          "bidder": "ccdcb222ff534b16ae480ebca576bb35",
+          "amount": 4120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://metallmebel.com.ua/",
+                "telephone": "+380676319121",
+                "name": "Товариство з обмеженою відповідальністю \"АВАНГАРД-КОМПАНІ\"",
+                "email": "sale@metallmebel.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38319139",
+                "legalName": "Товариство з обмеженою відповідальністю \"АВАНГАРД-КОМПАНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АВАНГАРД-КОМПАНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "28000, Кіровоградська обл., м.Олександрія, вул.Першотравнева, 9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T13:49:47.146781+02:00"
+        }
+      ],
+      "time": "2015-11-17T12:11:38.496311+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T10:48:53.119230+02:00",
+          "amount": 4400.0,
+          "bidder": "ccdcb222ff534b16ae480ebca576bb35"
+        },
+        {
+          "date": "2015-11-16T08:18:18.174479+02:00",
+          "amount": 4350.0,
+          "bidder": "ec96284f092b49bba221957db130cd48"
+        },
+        {
+          "date": "2015-11-15T23:29:23.961854+02:00",
+          "amount": 4200.0,
+          "bidder": "c1c19f786d4d4b8aae1e312e9e99592e"
+        }
+      ],
+      "time": "2015-11-17T11:44:37.004221+00:00"
+    }
+  },
+  "id": "31b6f3d07d064201ab26c4ad5f58cb64",
+  "tenderId": "UA-2015-11-05-000424"
+}

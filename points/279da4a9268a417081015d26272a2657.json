@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c219ece3740b450bbddc1845086df9a5",
+        "time": "2015-12-16T11:53:38.010352+00:00"
+      },
+      "turn_3": {
+        "bidder": "e7da6de5e78b41048708fa304afde3a9",
+        "time": "2015-12-16T11:55:38.011197+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e90415735cb4da08c3a378249fb7396",
+        "time": "2015-12-16T11:51:38.010410+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c219ece3740b450bbddc1845086df9a5",
+        "time": "2015-12-16T12:01:38.007982+00:00"
+      },
+      "turn_3": {
+        "bidder": "e7da6de5e78b41048708fa304afde3a9",
+        "time": "2015-12-16T12:03:38.087827+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e90415735cb4da08c3a378249fb7396",
+        "time": "2015-12-16T11:59:38.010336+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c219ece3740b450bbddc1845086df9a5",
+        "time": "2015-12-16T11:45:38.019615+00:00"
+      },
+      "turn_3": {
+        "bidder": "e7da6de5e78b41048708fa304afde3a9",
+        "time": "2015-12-16T11:47:38.010399+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e90415735cb4da08c3a378249fb7396",
+        "time": "2015-12-16T11:43:38.007163+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3e90415735cb4da08c3a378249fb7396",
+          "amount": 690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444073239",
+                "name": "ФО-П Богдашко Ніна Миколаївна",
+                "email": "bogdashko2015@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2081106029",
+                "legalName": "ФО-П Богдашко Ніна Миколаївна"
+              },
+              "name": "ФО-П Богдашко Ніна Миколаївна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03148, м. Київ, вул. Якуба Коласа, 1-В, кв.70",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T15:20:33.782312+02:00"
+        },
+        {
+          "bidder": "c219ece3740b450bbddc1845086df9a5",
+          "amount": 520.02,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "2527284",
+                "telephone": "2527284",
+                "name": "Скороход Миколаївна Ірина",
+                "email": "insk@medlab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37568608",
+                "legalName": "товариство з обмеженою відповідальністю \"ГОСПІТАЛЬНИЙ МЕНЕДЖМЕНТ\""
+              },
+              "name": "товариство з обмеженою відповідальністю \"ГОСПІТАЛЬНИЙ МЕНЕДЖМЕНТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська",
+                "streetAddress": "провулок Новопечерський, 19/3, корпус 1, кімната 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T17:12:15.172376+02:00"
+        },
+        {
+          "bidder": "e7da6de5e78b41048708fa304afde3a9",
+          "amount": 510.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502688228",
+                "name": "Деркач Віктор Павлович",
+                "email": "derkach.vic@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1805914931",
+                "legalName": "Деркач Віктор Павлович"
+              },
+              "name": "Деркач Віктор Павлович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04078, м. Київ, провулок Мінський, б. 8-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T14:41:00.387172+02:00"
+        }
+      ],
+      "time": "2015-12-16T12:03:39.766897+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T15:20:33.782312+02:00",
+          "amount": 690.0,
+          "bidder": "3e90415735cb4da08c3a378249fb7396"
+        },
+        {
+          "date": "2015-12-15T17:12:15.172376+02:00",
+          "amount": 520.02,
+          "bidder": "c219ece3740b450bbddc1845086df9a5"
+        },
+        {
+          "date": "2015-12-15T14:41:00.387172+02:00",
+          "amount": 510.0,
+          "bidder": "e7da6de5e78b41048708fa304afde3a9"
+        }
+      ],
+      "time": "2015-12-16T11:36:38.002760+00:00"
+    }
+  },
+  "id": "279da4a9268a417081015d26272a2657",
+  "tenderId": "UA-2015-12-14-000195-a"
+}

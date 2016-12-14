@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5c486a2856464585a703817b08e1d8b7",
+        "time": "2015-11-17T09:20:15.010463+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bd9a71b1afc43ed855508c64a4db4fa",
+        "time": "2015-11-17T09:18:15.008714+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5c486a2856464585a703817b08e1d8b7",
+        "time": "2015-11-17T09:26:15.007901+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bd9a71b1afc43ed855508c64a4db4fa",
+        "time": "2015-11-17T09:24:15.008187+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5c486a2856464585a703817b08e1d8b7",
+        "time": "2015-11-17T09:14:15.008872+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bd9a71b1afc43ed855508c64a4db4fa",
+        "time": "2015-11-17T09:12:15.009701+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2bd9a71b1afc43ed855508c64a4db4fa",
+          "amount": 22980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-13T11:28:50.173886+02:00"
+        },
+        {
+          "bidder": "5c486a2856464585a703817b08e1d8b7",
+          "amount": 22266.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380 44 2778747",
+                "name": "Фаина Марковна Иоффе",
+                "email": "vik-xxi-vek@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38516299",
+                "legalName": "ТОВ \"ВІК-ХХІ ВІК\""
+              },
+              "name": "ТОВ \"ВІК-ХХІ ВІК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03191",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Лятошинського композитора, б. 14 А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-12T10:32:23.256435+02:00"
+        }
+      ],
+      "time": "2015-11-17T09:26:15.899300+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T11:28:50.173886+02:00",
+          "amount": 22980.0,
+          "bidder": "2bd9a71b1afc43ed855508c64a4db4fa"
+        },
+        {
+          "date": "2015-11-12T10:32:23.256435+02:00",
+          "amount": 22266.0,
+          "bidder": "5c486a2856464585a703817b08e1d8b7"
+        }
+      ],
+      "time": "2015-11-17T09:05:15.004342+00:00"
+    }
+  },
+  "id": "1144bca423e44c2ab5fed93c69e92192",
+  "tenderId": "UA-2015-11-09-000066"
+}

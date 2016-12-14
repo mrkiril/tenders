@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4cb38fe53c4340a4ba4695d0a0f3394f",
+        "time": "2015-11-16T12:23:37.010804+00:00"
+      },
+      "turn_3": {
+        "bidder": "cc36e817b5eb4ecd84b7b91583aceb15",
+        "time": "2015-11-16T12:25:37.010820+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c28217f01c2495ebfe3715f00b2856a",
+        "time": "2015-11-16T12:21:37.011482+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4cb38fe53c4340a4ba4695d0a0f3394f",
+        "time": "2015-11-16T12:31:37.009706+00:00"
+      },
+      "turn_3": {
+        "bidder": "cc36e817b5eb4ecd84b7b91583aceb15",
+        "time": "2015-11-16T12:33:37.007738+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c28217f01c2495ebfe3715f00b2856a",
+        "time": "2015-11-16T12:29:37.013629+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4cb38fe53c4340a4ba4695d0a0f3394f",
+        "time": "2015-11-16T12:15:37.009590+00:00"
+      },
+      "turn_3": {
+        "bidder": "cc36e817b5eb4ecd84b7b91583aceb15",
+        "time": "2015-11-16T12:17:37.033951+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c28217f01c2495ebfe3715f00b2856a",
+        "time": "2015-11-16T12:13:37.009789+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5c28217f01c2495ebfe3715f00b2856a",
+          "amount": 3700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-13T07:18:18.153584+02:00"
+        },
+        {
+          "bidder": "4cb38fe53c4340a4ba4695d0a0f3394f",
+          "amount": 3630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vsk.net.ua",
+                "faxNumber": "057-732-74-29",
+                "telephone": "099-286-99-17",
+                "name": "Ткаченко Олександр Олександрович",
+                "email": "vsk-tk@vsk.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39376690",
+                "legalName": "\"ВОДСЕРВІС-ХАРКІВ\" товариство з обмеженою відповідальністю"
+              },
+              "name": "\"ВОДСЕРВІС-ХАРКІВ\" товариство з обмеженою відповідальністю",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61184",
+                "region": "Харківська",
+                "streetAddress": "Дружби Народів буд.207 кв.46",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-13T13:38:22.018386+02:00"
+        },
+        {
+          "bidder": "cc36e817b5eb4ecd84b7b91583aceb15",
+          "amount": 3400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://poverka.com.ua",
+                "faxNumber": "044-278-29-55",
+                "telephone": "044-278-29-55",
+                "name": "Павлятенко Володимир Володимирович",
+                "email": "akva.l@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38727079",
+                "legalName": "ТОВ АКВАЕНЕРГОСЕРВІС\""
+              },
+              "name": "ТОВ АКВАЕНЕРГОСЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01034",
+                "region": "Київська",
+                "streetAddress": "пров.Рильський,10",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-13T15:35:05.256312+02:00"
+        }
+      ],
+      "time": "2015-11-16T12:33:38.328610+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T07:18:18.153584+02:00",
+          "amount": 3700.0,
+          "bidder": "5c28217f01c2495ebfe3715f00b2856a"
+        },
+        {
+          "date": "2015-11-13T13:38:22.018386+02:00",
+          "amount": 3630.0,
+          "bidder": "4cb38fe53c4340a4ba4695d0a0f3394f"
+        },
+        {
+          "date": "2015-11-13T15:35:05.256312+02:00",
+          "amount": 3400.0,
+          "bidder": "cc36e817b5eb4ecd84b7b91583aceb15"
+        }
+      ],
+      "time": "2015-11-16T12:06:37.005100+00:00"
+    }
+  },
+  "id": "449ce1ef6fec4c9399716a921791b0ca",
+  "tenderId": "UA-2015-11-03-000460"
+}

@@ -1,0 +1,175 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 172000.0,
+        "bid_time": "2015-10-27T13:51:06.511733+02:00",
+        "bidder": "bfd835bac6fb4e31976cf4dec849474e",
+        "time": "2015-10-27T11:52:13.011796+00:00"
+      },
+      "turn_3": {
+        "amount": 171500.0,
+        "bid_time": "2015-10-27T13:53:29.113667+02:00",
+        "bidder": "347703bff29b41978f4e813f4ed60d5f",
+        "time": "2015-10-27T11:54:13.009221+00:00"
+      },
+      "turn_1": {
+        "amount": 173000.0,
+        "bid_time": "2015-10-27T13:49:16.563271+02:00",
+        "bidder": "78a407241bd14a519e2ceea8d83ffb82",
+        "time": "2015-10-27T11:50:13.010664+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 152000.0,
+        "bid_time": "2015-10-27T14:00:02.446252+02:00",
+        "bidder": "bfd835bac6fb4e31976cf4dec849474e",
+        "time": "2015-10-27T12:00:13.009289+00:00"
+      },
+      "turn_3": {
+        "amount": 151800.0,
+        "bid_time": "2015-10-27T14:00:32.374926+02:00",
+        "bidder": "347703bff29b41978f4e813f4ed60d5f",
+        "time": "2015-10-27T12:02:13.007897+00:00"
+      },
+      "turn_1": {
+        "amount": 160000.0,
+        "bid_time": "2015-10-27T13:57:04.846761+02:00",
+        "bidder": "78a407241bd14a519e2ceea8d83ffb82",
+        "time": "2015-10-27T11:58:13.007698+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 175000.0,
+        "bid_time": "2015-10-27T13:43:31.801980+02:00",
+        "bidder": "347703bff29b41978f4e813f4ed60d5f",
+        "time": "2015-10-27T11:44:13.010471+00:00"
+      },
+      "turn_3": {
+        "amount": 178000.0,
+        "bid_time": "2015-10-27T13:45:25.113094+02:00",
+        "bidder": "bfd835bac6fb4e31976cf4dec849474e",
+        "time": "2015-10-27T11:46:13.011291+00:00"
+      },
+      "turn_1": {
+        "amount": 179500.0,
+        "bid_time": "2015-10-27T13:40:32.800210+02:00",
+        "bidder": "78a407241bd14a519e2ceea8d83ffb82",
+        "time": "2015-10-27T11:42:13.011474+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "78a407241bd14a519e2ceea8d83ffb82",
+          "amount": 160000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrservice.biz",
+                "telephone": "+380674302151",
+                "name": "ФОП Лукьян Михаил Федорович",
+                "email": "rm1f6@ukrservice.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2604312359",
+                "legalName": "ФОП Лукьян Михаил Федорович"
+              },
+              "name": "ФОП Лукьян Михаил Федорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 21022, г. Винница, ул. Тарногродского, 44-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T13:57:04.846761+02:00"
+        },
+        {
+          "bidder": "bfd835bac6fb4e31976cf4dec849474e",
+          "amount": 152000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tmsgroup.com.ua",
+                "telephone": "+380508314328",
+                "name": "ТОВ \"ТМС ГРУП\"",
+                "email": "tms.group2003@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38843511",
+                "legalName": "ТОВ \"ТМС ГРУП\""
+              },
+              "name": "ТОВ \"ТМС ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "18029, м.Черкаси, вул. 30 років Перемоги буд. 56/4, кв. 46",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T14:00:02.446252+02:00"
+        },
+        {
+          "bidder": "347703bff29b41978f4e813f4ed60d5f",
+          "amount": 151800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ekvives.com",
+                "telephone": "+380442200522",
+                "name": "ООО \"Эквивес\"",
+                "email": "kulik@ekvives.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37502259",
+                "legalName": "ООО \"Эквивес\""
+              },
+              "name": "ООО \"Эквивес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02094, г.Киев, ул. Магнитогорская, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T14:00:32.374926+02:00"
+        }
+      ],
+      "time": "2015-10-27T12:02:35.750551+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T09:41:32.289886+02:00",
+          "amount": 200000.0,
+          "bidder": "78a407241bd14a519e2ceea8d83ffb82"
+        },
+        {
+          "date": "2015-10-23T14:14:56.263285+03:00",
+          "amount": 194166.67,
+          "bidder": "347703bff29b41978f4e813f4ed60d5f"
+        },
+        {
+          "date": "2015-10-26T09:43:02.188294+02:00",
+          "amount": 180000.0,
+          "bidder": "bfd835bac6fb4e31976cf4dec849474e"
+        }
+      ],
+      "time": "2015-10-27T11:35:13.002985+00:00"
+    }
+  },
+  "id": "0907060fb1094c299ef813fcb1739c5c",
+  "tenderId": "UA-2015-10-20-000079"
+}

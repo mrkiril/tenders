@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "653a6e6b15ca4d50a77bf47a4a058a34",
+        "time": "2015-12-07T12:22:17.008891+00:00"
+      },
+      "turn_1": {
+        "bidder": "57c4c9f3764e455f981dac29e453c726",
+        "time": "2015-12-07T12:20:17.026077+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "653a6e6b15ca4d50a77bf47a4a058a34",
+        "time": "2015-12-07T12:28:17.008414+00:00"
+      },
+      "turn_1": {
+        "bidder": "57c4c9f3764e455f981dac29e453c726",
+        "time": "2015-12-07T12:26:17.008863+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "653a6e6b15ca4d50a77bf47a4a058a34",
+        "time": "2015-12-07T12:16:17.008857+00:00"
+      },
+      "turn_1": {
+        "bidder": "57c4c9f3764e455f981dac29e453c726",
+        "time": "2015-12-07T12:14:17.008083+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "57c4c9f3764e455f981dac29e453c726",
+          "amount": 9600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444510868",
+                "telephone": "+380674658759",
+                "name": "Гримашевич Іван Іванович",
+                "email": "IvanGrim@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2253821476"
+              },
+              "name": "ФОП Гримашевич Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б.29/22, кв. 102",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:54:15.877210+02:00"
+        },
+        {
+          "bidder": "653a6e6b15ca4d50a77bf47a4a058a34",
+          "amount": 9240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0967666177",
+                "name": "Артем Пулеха ",
+                "email": "artemadvokat@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3143910731",
+                "legalName": ""
+              },
+              "name": "ФОП Пулеха А.І.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Полтавская область",
+                "streetAddress": "37606, м. Миргород, вул. О.Бабенка, 5"
+              }
+            }
+          ],
+          "time": "2015-12-04T10:48:00.270041+02:00"
+        }
+      ],
+      "time": "2015-12-07T12:28:19.663648+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T15:54:15.877210+02:00",
+          "amount": 9600.0,
+          "bidder": "57c4c9f3764e455f981dac29e453c726"
+        },
+        {
+          "date": "2015-12-04T10:48:00.270041+02:00",
+          "amount": 9240.0,
+          "bidder": "653a6e6b15ca4d50a77bf47a4a058a34"
+        }
+      ],
+      "time": "2015-12-07T12:07:17.004211+00:00"
+    }
+  },
+  "id": "3b472c08c198479c8b86e579cbad098d",
+  "tenderId": "UA-2015-12-02-000122-a"
+}

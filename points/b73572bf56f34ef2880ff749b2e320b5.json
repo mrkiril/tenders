@@ -1,0 +1,168 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 7750.0,
+        "bid_time": "2015-07-31T11:15:33.262940+03:00",
+        "bidder": "df80cc5b12fe4b3697211892c8dcc1c7",
+        "time": "2015-07-31T08:17:00.056014+00:00"
+      },
+      "turn_3": {
+        "amount": 7700.0,
+        "bid_time": "2015-07-31T11:18:28.453530+03:00",
+        "bidder": "443fd538d97b45e799286bed3c3f2ebe",
+        "time": "2015-07-31T08:19:00.085829+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b24f61f900d4a8a8caed2d29d9b0e03",
+        "time": "2015-07-31T08:15:00.113959+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7650.0,
+        "bid_time": "2015-07-31T11:23:42.187172+03:00",
+        "bidder": "df80cc5b12fe4b3697211892c8dcc1c7",
+        "time": "2015-07-31T08:25:00.027379+00:00"
+      },
+      "turn_3": {
+        "amount": 7600.0,
+        "bid_time": "2015-07-31T11:25:55.481444+03:00",
+        "bidder": "443fd538d97b45e799286bed3c3f2ebe",
+        "time": "2015-07-31T08:27:00.034556+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b24f61f900d4a8a8caed2d29d9b0e03",
+        "time": "2015-07-31T08:23:00.083118+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 8150.0,
+        "bid_time": "2015-07-31T11:07:59.160323+03:00",
+        "bidder": "df80cc5b12fe4b3697211892c8dcc1c7",
+        "time": "2015-07-31T08:09:00.115948+00:00"
+      },
+      "turn_3": {
+        "amount": 7800.0,
+        "bid_time": "2015-07-31T11:10:52.452635+03:00",
+        "bidder": "443fd538d97b45e799286bed3c3f2ebe",
+        "time": "2015-07-31T08:11:00.043587+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b24f61f900d4a8a8caed2d29d9b0e03",
+        "time": "2015-07-31T08:07:00.045449+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2b24f61f900d4a8a8caed2d29d9b0e03",
+          "amount": 9300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://utilizatsiya-otkhodov.uaprom.net/",
+                "telephone": "+380971939381",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СП-ЕКОНІКА»",
+                "email": "artem9922@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39115938",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СП-ЕКОНІКА»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «СП-ЕКОНІКА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03035, Україна, Київська обл., Солом`янський р-н., м. Київ, \r\nвул. Льва Толстого, буд.63",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-24T10:31:39.734089+03:00"
+        },
+        {
+          "bidder": "df80cc5b12fe4b3697211892c8dcc1c7",
+          "amount": 7650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675777833",
+                "name": "ООО НПП КОР-МЕТ",
+                "email": "valeriyanka8@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38772535",
+                "legalName": "ООО НПП КОР-МЕТ"
+              },
+              "name": "ООО НПП КОР-МЕТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61046, Харьков, Енакиевская, 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T11:23:42.187172+03:00"
+        },
+        {
+          "bidder": "443fd538d97b45e799286bed3c3f2ebe",
+          "amount": 7600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://uvu.com.ua",
+                "telephone": "+380675624964",
+                "name": "ТОВ УКРВТОРУТИЛИЗАЦІЯ",
+                "email": "info@uvu.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38527887",
+                "legalName": "ТОВ УКРВТОРУТИЛИЗАЦІЯ"
+              },
+              "name": "ТОВ УКРВТОРУТИЛИЗАЦІЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "52071, Дніпропетровська обл., Дніпропетровський р-он., \r\nс. Дослідне, вул. Наукова, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T11:25:55.481444+03:00"
+        }
+      ],
+      "time": "2015-07-31T08:27:06.075187+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-23T12:25:22.869556+03:00",
+          "amount": 9300.0,
+          "bidder": "df80cc5b12fe4b3697211892c8dcc1c7"
+        },
+        {
+          "date": "2015-07-24T10:31:39.734089+03:00",
+          "amount": 9300.0,
+          "bidder": "2b24f61f900d4a8a8caed2d29d9b0e03"
+        },
+        {
+          "date": "2015-07-28T15:11:21.540411+03:00",
+          "amount": 8190.0,
+          "bidder": "443fd538d97b45e799286bed3c3f2ebe"
+        }
+      ],
+      "time": "2015-07-31T08:00:00.002820+00:00"
+    }
+  },
+  "id": "b73572bf56f34ef2880ff749b2e320b5",
+  "tenderId": "UA-2015-07-22-000087"
+}

@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a66ac530873f46c08ad1b17fd700d62b",
+        "time": "2015-12-01T12:57:50.008651+00:00"
+      },
+      "turn_3": {
+        "bidder": "326130c185804309a494247ee898f625",
+        "time": "2015-12-01T12:59:50.008543+00:00"
+      },
+      "turn_1": {
+        "amount": 71.0,
+        "bid_time": "2015-12-01T14:55:49.090730+02:00",
+        "bidder": "9288600e54c9439f91feac5bc9ce6ef1",
+        "time": "2015-12-01T12:55:50.008232+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "326130c185804309a494247ee898f625",
+        "time": "2015-12-01T13:05:50.008167+00:00"
+      },
+      "turn_3": {
+        "bidder": "9288600e54c9439f91feac5bc9ce6ef1",
+        "time": "2015-12-01T13:07:50.007909+00:00"
+      },
+      "turn_1": {
+        "bidder": "a66ac530873f46c08ad1b17fd700d62b",
+        "time": "2015-12-01T13:03:50.007955+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 71000.0,
+        "bid_time": "2015-12-01T14:49:34.304227+02:00",
+        "bidder": "9288600e54c9439f91feac5bc9ce6ef1",
+        "time": "2015-12-01T12:49:50.010258+00:00"
+      },
+      "turn_3": {
+        "bidder": "326130c185804309a494247ee898f625",
+        "time": "2015-12-01T12:51:50.009358+00:00"
+      },
+      "turn_1": {
+        "amount": 50000.0,
+        "bid_time": "2015-12-01T14:46:28.454241+02:00",
+        "bidder": "a66ac530873f46c08ad1b17fd700d62b",
+        "time": "2015-12-01T12:47:50.010900+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a66ac530873f46c08ad1b17fd700d62b",
+          "amount": 50000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972278283",
+                "name": "Юлія Миколаївна",
+                "email": "coli_net@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2250006483",
+                "legalName": "ФОП Коломїєць Ю.М."
+              },
+              "name": "ФОП Коломїєць Ю.М.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T14:46:28.454241+02:00"
+        },
+        {
+          "bidder": "326130c185804309a494247ee898f625",
+          "amount": 15100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0508096933",
+                "name": "Виталий Николаев ",
+                "email": "budexpert.technologies@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31852357",
+                "legalName": ""
+              },
+              "name": "ТОВ \"ІК \"Будексперт технології\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49000 Дніпропетровськ, вул. Коцюбинського, 10-А кв. 4"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:38:20.840044+02:00"
+        },
+        {
+          "bidder": "9288600e54c9439f91feac5bc9ce6ef1",
+          "amount": 71.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504505535",
+                "name": "Кирилл",
+                "email": "garik.dp@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37899165",
+                "legalName": "ТОВ \"Будальянс Інжиніринг\""
+              },
+              "name": "ТОВ \"Будальянс Інжиніринг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:55:49.090730+02:00"
+        }
+      ],
+      "time": "2015-12-01T13:07:52.353032+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T10:42:37.217935+02:00",
+          "amount": 82900.08,
+          "bidder": "a66ac530873f46c08ad1b17fd700d62b"
+        },
+        {
+          "date": "2015-11-27T15:32:46.250889+02:00",
+          "amount": 81000.0,
+          "bidder": "9288600e54c9439f91feac5bc9ce6ef1"
+        },
+        {
+          "date": "2015-11-27T15:38:20.840044+02:00",
+          "amount": 15100.0,
+          "bidder": "326130c185804309a494247ee898f625"
+        }
+      ],
+      "time": "2015-12-01T12:40:50.004775+00:00"
+    }
+  },
+  "id": "51403fa52c1c4f3abf483ede29fb66ac",
+  "tenderId": "UA-2015-11-23-000032-b"
+}

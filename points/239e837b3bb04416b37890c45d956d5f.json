@@ -1,0 +1,213 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 53400.0,
+        "bid_time": "2015-12-09T12:53:26.169313+02:00",
+        "bidder": "dd0b92c1d44148a6bbc742b229a9c3b0",
+        "time": "2015-12-09T10:54:41.023975+00:00"
+      },
+      "turn_2": {
+        "bidder": "bae744a44ab441af93374fc5d4b7e5e3",
+        "time": "2015-12-09T10:50:41.008411+00:00"
+      },
+      "turn_3": {
+        "amount": 53500.0,
+        "bid_time": "2015-12-09T12:52:00.818004+02:00",
+        "bidder": "5f656a8b98e8404a8de2bd0e7fe2907b",
+        "time": "2015-12-09T10:52:41.009160+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d9d7c0be388440a96bb774aaacbcfbd",
+        "time": "2015-12-09T10:48:41.008589+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 47900.0,
+        "bid_time": "2015-12-09T13:04:40.804660+02:00",
+        "bidder": "dd0b92c1d44148a6bbc742b229a9c3b0",
+        "time": "2015-12-09T11:04:41.008057+00:00"
+      },
+      "turn_2": {
+        "amount": 48000.0,
+        "bid_time": "2015-12-09T12:58:55.097111+02:00",
+        "bidder": "bae744a44ab441af93374fc5d4b7e5e3",
+        "time": "2015-12-09T11:00:41.025937+00:00"
+      },
+      "turn_3": {
+        "amount": 53000.0,
+        "bid_time": "2015-12-09T13:01:54.417483+02:00",
+        "bidder": "5f656a8b98e8404a8de2bd0e7fe2907b",
+        "time": "2015-12-09T11:02:41.009169+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d9d7c0be388440a96bb774aaacbcfbd",
+        "time": "2015-12-09T10:58:41.008952+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "bae744a44ab441af93374fc5d4b7e5e3",
+        "time": "2015-12-09T10:44:41.028586+00:00"
+      },
+      "turn_2": {
+        "amount": 54200.0,
+        "bid_time": "2015-12-09T12:40:09.146527+02:00",
+        "bidder": "5f656a8b98e8404a8de2bd0e7fe2907b",
+        "time": "2015-12-09T10:40:41.010125+00:00"
+      },
+      "turn_3": {
+        "amount": 54000.0,
+        "bid_time": "2015-12-09T12:42:06.286455+02:00",
+        "bidder": "dd0b92c1d44148a6bbc742b229a9c3b0",
+        "time": "2015-12-09T10:42:41.010817+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d9d7c0be388440a96bb774aaacbcfbd",
+        "time": "2015-12-09T10:38:41.008750+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0d9d7c0be388440a96bb774aaacbcfbd",
+          "amount": 64995.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503911341",
+                "name": "Дмитрий Городецкий",
+                "email": "allo-ds26@cifrotech.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ГК АЛЛО\"",
+                "id": "30012848",
+                "uri": "http://allo.ua"
+              },
+              "name": "ТОВ \"ГК АЛЛО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул.Баррикадная 15.б",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T18:14:23.116411+02:00"
+        },
+        {
+          "bidder": "5f656a8b98e8404a8de2bd0e7fe2907b",
+          "amount": 53000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380956302421",
+                "name": "КРАВЧЕНКО МАРИНА ОЛЕКСАНДРІВНА",
+                "email": "6302421@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3106908908"
+              },
+              "name": "ФОП Кравченко Марина Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65069",
+                "region": "Одеська область",
+                "streetAddress": "вул. Кримська, буд. 66, кв. 42",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:01:54.417483+02:00"
+        },
+        {
+          "bidder": "bae744a44ab441af93374fc5d4b7e5e3",
+          "amount": 48000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380662267065",
+                "name": "Ревук Алла Миколаївна",
+                "email": "rrr.dubr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2746415842",
+                "legalName": "ФОП Ревук А.М."
+              },
+              "name": "ФОП Ревук А.М.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T12:58:55.097111+02:00"
+        },
+        {
+          "bidder": "dd0b92c1d44148a6bbc742b229a9c3b0",
+          "amount": 47900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503386715",
+                "name": "Евгений",
+                "email": "viproltd@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ВИПРО\"",
+                "id": "37582512",
+                "uri": "http://vipro.com.ua/"
+              },
+              "name": "ТОВ \"ВИПРО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "76018",
+                "region": "Ивано-Франковская",
+                "streetAddress": "ул.Грушевського, 15",
+                "locality": "Ивано-Франковск"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:04:40.804660+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:04:42.892798+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T18:14:23.116411+02:00",
+          "amount": 64995.0,
+          "bidder": "0d9d7c0be388440a96bb774aaacbcfbd"
+        },
+        {
+          "date": "2015-12-08T11:46:19.445659+02:00",
+          "amount": 63112.0,
+          "bidder": "5f656a8b98e8404a8de2bd0e7fe2907b"
+        },
+        {
+          "date": "2015-12-07T14:30:43.633576+02:00",
+          "amount": 63000.0,
+          "bidder": "dd0b92c1d44148a6bbc742b229a9c3b0"
+        },
+        {
+          "date": "2015-12-08T07:48:00.109562+02:00",
+          "amount": 54500.0,
+          "bidder": "bae744a44ab441af93374fc5d4b7e5e3"
+        }
+      ],
+      "time": "2015-12-09T10:31:41.004032+00:00"
+    }
+  },
+  "id": "239e837b3bb04416b37890c45d956d5f",
+  "tenderId": "UA-2015-12-04-000088"
+}

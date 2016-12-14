@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2100.0,
+        "bid_time": "2015-12-14T12:53:08.527828+02:00",
+        "bidder": "feee79699a4f4d4eb0e51f315e37009a",
+        "time": "2015-12-14T10:54:06.009880+00:00"
+      },
+      "turn_3": {
+        "bidder": "51cafd7eae764609be6406fac9f7b62e",
+        "time": "2015-12-14T10:56:06.009216+00:00"
+      },
+      "turn_1": {
+        "bidder": "e307cf37579f4cafbc9e82ebf9287962",
+        "time": "2015-12-14T10:52:06.008183+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "51cafd7eae764609be6406fac9f7b62e",
+        "time": "2015-12-14T11:02:06.008209+00:00"
+      },
+      "turn_3": {
+        "bidder": "feee79699a4f4d4eb0e51f315e37009a",
+        "time": "2015-12-14T11:04:06.007104+00:00"
+      },
+      "turn_1": {
+        "bidder": "e307cf37579f4cafbc9e82ebf9287962",
+        "time": "2015-12-14T11:00:06.007593+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2300.0,
+        "bid_time": "2015-12-14T12:44:58.411152+02:00",
+        "bidder": "feee79699a4f4d4eb0e51f315e37009a",
+        "time": "2015-12-14T10:46:06.009583+00:00"
+      },
+      "turn_3": {
+        "amount": 2299.0,
+        "bid_time": "2015-12-14T12:46:36.380118+02:00",
+        "bidder": "51cafd7eae764609be6406fac9f7b62e",
+        "time": "2015-12-14T10:48:06.009216+00:00"
+      },
+      "turn_1": {
+        "amount": 2400.0,
+        "bid_time": "2015-12-14T12:42:18.555240+02:00",
+        "bidder": "e307cf37579f4cafbc9e82ebf9287962",
+        "time": "2015-12-14T10:44:06.010197+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e307cf37579f4cafbc9e82ebf9287962",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:42:18.555240+02:00"
+        },
+        {
+          "bidder": "51cafd7eae764609be6406fac9f7b62e",
+          "amount": 2299.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444950152",
+                "telephone": "0444950154",
+                "name": "Конєва Оксана Іванівна",
+                "email": "kievdrukks@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38882409",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтердрук\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтердрук\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Пшенична, 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:46:36.380118+02:00"
+        },
+        {
+          "bidder": "feee79699a4f4d4eb0e51f315e37009a",
+          "amount": 2100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:53:08.527828+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:04:08.968167+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T16:55:59.392806+02:00",
+          "amount": 4086.0,
+          "bidder": "e307cf37579f4cafbc9e82ebf9287962"
+        },
+        {
+          "date": "2015-12-11T17:12:48.293553+02:00",
+          "amount": 2520.0,
+          "bidder": "feee79699a4f4d4eb0e51f315e37009a"
+        },
+        {
+          "date": "2015-12-11T17:13:39.709839+02:00",
+          "amount": 2417.76,
+          "bidder": "51cafd7eae764609be6406fac9f7b62e"
+        }
+      ],
+      "time": "2015-12-14T10:37:06.001724+00:00"
+    }
+  },
+  "id": "2eaf89bd2c254b3380ddad3fc8f93757",
+  "tenderId": "UA-2015-12-04-000082"
+}

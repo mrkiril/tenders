@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b26b2420f03b4efcadb7298e1082e547",
+        "time": "2015-08-03T09:15:00.053457+00:00"
+      },
+      "turn_1": {
+        "bidder": "9393c124dfa34d6482dcc816f62886a7",
+        "time": "2015-08-03T09:13:00.046155+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b26b2420f03b4efcadb7298e1082e547",
+        "time": "2015-08-03T09:21:00.039145+00:00"
+      },
+      "turn_1": {
+        "bidder": "9393c124dfa34d6482dcc816f62886a7",
+        "time": "2015-08-03T09:19:00.027380+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b26b2420f03b4efcadb7298e1082e547",
+        "time": "2015-08-03T09:09:00.086356+00:00"
+      },
+      "turn_1": {
+        "bidder": "9393c124dfa34d6482dcc816f62886a7",
+        "time": "2015-08-03T09:07:00.089456+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9393c124dfa34d6482dcc816f62886a7",
+          "amount": 24000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.koda.ua",
+                "telephone": "+380577142654",
+                "name": "Українсько-американське ТОВ фірма \"КОДА\"",
+                "email": "v.bocharov@koda.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19371667",
+                "legalName": "Українсько-американське ТОВ фірма \"КОДА\""
+              },
+              "name": "Українсько-американське ТОВ фірма \"КОДА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. 23 Серпня, б.6, кв.47, м. Харків, 61072",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T15:42:40.489043+03:00"
+        },
+        {
+          "bidder": "b26b2420f03b4efcadb7298e1082e547",
+          "amount": 23800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alvant.com.ua",
+                "faxNumber": "",
+                "telephone": "0503356917",
+                "name": "Половенко Олександр Володимирович",
+                "email": "starnet@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34234429",
+                "legalName": "Дочірнє підприємство \"Стар Нет\""
+              },
+              "name": "Дочірнє підприємство \"Стар Нет\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54042",
+                "region": "Миколаївська",
+                "streetAddress": "Заводська, 41",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T12:22:40.268763+03:00"
+        }
+      ],
+      "time": "2015-08-03T09:21:03.664325+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T15:42:40.489043+03:00",
+          "amount": 24000.0,
+          "bidder": "9393c124dfa34d6482dcc816f62886a7"
+        },
+        {
+          "date": "2015-07-31T12:22:40.268763+03:00",
+          "amount": 23800.0,
+          "bidder": "b26b2420f03b4efcadb7298e1082e547"
+        }
+      ],
+      "time": "2015-08-03T09:00:00.009889+00:00"
+    }
+  },
+  "id": "a97628a083b24eb8b95a364700ae0185",
+  "tenderId": "UA-2015-07-22-000073"
+}

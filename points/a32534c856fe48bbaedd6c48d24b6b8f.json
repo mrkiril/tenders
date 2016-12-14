@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "094aea1b642743999e954c4f90177a0a",
+        "time": "2015-11-12T11:46:42.008856+00:00"
+      },
+      "turn_1": {
+        "bidder": "8cb31717dde242f98a0d3397bbd18bbb",
+        "time": "2015-11-12T11:44:42.008289+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "094aea1b642743999e954c4f90177a0a",
+        "time": "2015-11-12T11:52:42.009699+00:00"
+      },
+      "turn_1": {
+        "bidder": "8cb31717dde242f98a0d3397bbd18bbb",
+        "time": "2015-11-12T11:50:42.020713+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "094aea1b642743999e954c4f90177a0a",
+        "time": "2015-11-12T11:40:42.009417+00:00"
+      },
+      "turn_1": {
+        "bidder": "8cb31717dde242f98a0d3397bbd18bbb",
+        "time": "2015-11-12T11:38:42.011501+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8cb31717dde242f98a0d3397bbd18bbb",
+          "amount": 278221.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.energoprom.kiev.ua",
+                "faxNumber": "380444676204",
+                "telephone": "380444676203",
+                "name": "Коріков Олександр Миколайович",
+                "email": "office@energoprom.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30674659",
+                "legalName": "Товариство з обмеженою відповідальністю \"Компанія \"Енергопром\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Компанія \"Енергопром\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01103",
+                "region": "Київська",
+                "streetAddress": "вул. Професора Підвисоцького, 10/10, оф.60",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T15:43:24.216872+02:00"
+        },
+        {
+          "bidder": "094aea1b642743999e954c4f90177a0a",
+          "amount": 7333.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380932951154",
+                "name": "Александр Алексеевич",
+                "email": "1001drib@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19171498",
+                "legalName": "ТОВ \"1001дрібниця\""
+              },
+              "name": "ТОВ \"1001дрібниця\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61000",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "г.Харьков, ул. Котлова 106"
+              }
+            }
+          ],
+          "time": "2015-11-06T11:41:02.803628+02:00"
+        }
+      ],
+      "time": "2015-11-12T11:52:53.777940+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T15:43:24.216872+02:00",
+          "amount": 278221.68,
+          "bidder": "8cb31717dde242f98a0d3397bbd18bbb"
+        },
+        {
+          "date": "2015-11-06T11:41:02.803628+02:00",
+          "amount": 7333.0,
+          "bidder": "094aea1b642743999e954c4f90177a0a"
+        }
+      ],
+      "time": "2015-11-12T11:31:42.004379+00:00"
+    }
+  },
+  "id": "a32534c856fe48bbaedd6c48d24b6b8f",
+  "tenderId": "UA-2015-10-30-000274"
+}

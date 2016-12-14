@@ -1,0 +1,168 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 10000.0,
+        "bid_time": "2015-08-11T11:16:42.182512+03:00",
+        "bidder": "d0ecdd1e7d7c4ae48adb1373d32d7423",
+        "time": "2015-08-11T08:17:00.083458+00:00"
+      },
+      "turn_3": {
+        "amount": 9800.0,
+        "bid_time": "2015-08-11T11:17:26.039840+03:00",
+        "bidder": "1faeb2d144874e96af0bcea820579605",
+        "time": "2015-08-11T08:19:00.157435+00:00"
+      },
+      "turn_1": {
+        "bidder": "5563fc38d5e641909be5cd49be0d91f5",
+        "time": "2015-08-11T08:15:00.091358+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7700.0,
+        "bid_time": "2015-08-11T11:23:46.240611+03:00",
+        "bidder": "d0ecdd1e7d7c4ae48adb1373d32d7423",
+        "time": "2015-08-11T08:25:00.051568+00:00"
+      },
+      "turn_3": {
+        "amount": 7650.0,
+        "bid_time": "2015-08-11T11:26:47.119274+03:00",
+        "bidder": "1faeb2d144874e96af0bcea820579605",
+        "time": "2015-08-11T08:27:00.057548+00:00"
+      },
+      "turn_1": {
+        "bidder": "5563fc38d5e641909be5cd49be0d91f5",
+        "time": "2015-08-11T08:23:00.050620+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 11250.0,
+        "bid_time": "2015-08-11T11:08:28.546924+03:00",
+        "bidder": "d0ecdd1e7d7c4ae48adb1373d32d7423",
+        "time": "2015-08-11T08:09:00.113122+00:00"
+      },
+      "turn_3": {
+        "amount": 11000.0,
+        "bid_time": "2015-08-11T11:10:02.814425+03:00",
+        "bidder": "1faeb2d144874e96af0bcea820579605",
+        "time": "2015-08-11T08:11:00.095656+00:00"
+      },
+      "turn_1": {
+        "bidder": "5563fc38d5e641909be5cd49be0d91f5",
+        "time": "2015-08-11T08:07:00.109026+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5563fc38d5e641909be5cd49be0d91f5",
+          "amount": 13980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gurvex.com",
+                "telephone": "+380443840260",
+                "name": "ТОВ ДЕЛЬТА СИСТЕМС",
+                "email": "office@deltasystems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35394244",
+                "legalName": "ТОВ ДЕЛЬТА СИСТЕМС"
+              },
+              "name": "ТОВ ДЕЛЬТА СИСТЕМС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01030, м. Київ, вул. Богдана Хмельницького, 31/27А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T10:21:32.413369+03:00"
+        },
+        {
+          "bidder": "d0ecdd1e7d7c4ae48adb1373d32d7423",
+          "amount": 7700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alsoft.kiev.ua/",
+                "faxNumber": "+380444517745",
+                "telephone": "+380444517745",
+                "name": "Трофимчук Олександр Володимирович",
+                "email": "office@alsoft.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32487839"
+              },
+              "name": "ТОВ \"АлСофт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська область",
+                "streetAddress": "вулиця Ялтинська, будинок 5-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-11T11:23:46.240611+03:00"
+        },
+        {
+          "bidder": "1faeb2d144874e96af0bcea820579605",
+          "amount": 7650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442392457",
+                "name": "Сергей Гудыменко",
+                "email": "okta@okta.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34937820",
+                "legalName": "ТОВ \"Окта-Техносервіс\""
+              },
+              "name": "ТОВ \"Окта-Техносервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Старосельская 1е",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-11T11:26:47.119274+03:00"
+        }
+      ],
+      "time": "2015-08-11T08:27:03.099207+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T10:21:32.413369+03:00",
+          "amount": 13980.0,
+          "bidder": "5563fc38d5e641909be5cd49be0d91f5"
+        },
+        {
+          "date": "2015-08-06T10:35:23.789384+03:00",
+          "amount": 12000.0,
+          "bidder": "d0ecdd1e7d7c4ae48adb1373d32d7423"
+        },
+        {
+          "date": "2015-08-07T17:13:10.454048+03:00",
+          "amount": 11700.0,
+          "bidder": "1faeb2d144874e96af0bcea820579605"
+        }
+      ],
+      "time": "2015-08-11T08:00:00.027810+00:00"
+    }
+  },
+  "id": "0393f46ba5b74d828698e1bc0b3d94a8",
+  "tenderId": "UA-2015-07-29-000023"
+}

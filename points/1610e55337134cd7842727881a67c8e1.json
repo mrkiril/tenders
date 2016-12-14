@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "514249e227e04722b9f192519317c18c",
+        "time": "2015-10-16T10:16:19.006616+00:00"
+      },
+      "turn_1": {
+        "bidder": "15da255bc2e54c809fb9aab10d85dcfb",
+        "time": "2015-10-16T10:14:19.007533+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "514249e227e04722b9f192519317c18c",
+        "time": "2015-10-16T10:22:19.009580+00:00"
+      },
+      "turn_1": {
+        "bidder": "15da255bc2e54c809fb9aab10d85dcfb",
+        "time": "2015-10-16T10:20:19.008745+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "514249e227e04722b9f192519317c18c",
+        "time": "2015-10-16T10:10:19.010566+00:00"
+      },
+      "turn_1": {
+        "bidder": "15da255bc2e54c809fb9aab10d85dcfb",
+        "time": "2015-10-16T10:08:19.007486+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "15da255bc2e54c809fb9aab10d85dcfb",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977374084, +380509405517",
+                "name": "Ігор Князь",
+                "email": "7374084@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2965205451",
+                "legalName": "ФОП \"Князь Ігор Миколайович\""
+              },
+              "name": "ФОП \"Князь Ігор Миколайович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61123",
+                "region": "Харьковская",
+                "streetAddress": "проспект Тракторобудівників, 85 А, кв. 42",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-15T11:54:56.890647+03:00"
+        },
+        {
+          "bidder": "514249e227e04722b9f192519317c18c",
+          "amount": 29500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504031928",
+                "name": "Сергей",
+                "email": "lysenko_sp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32337367",
+                "legalName": "ТОВ \"ХАЛ-ТЕХ\""
+              },
+              "name": "ТОВ \"ХАЛ-ТЕХ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61099",
+                "region": "Харьковская",
+                "streetAddress": "вул. Лодзька, 8-А",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-10-15T14:07:39.530636+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:22:20.554844+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T11:54:56.890647+03:00",
+          "amount": 30000.0,
+          "bidder": "15da255bc2e54c809fb9aab10d85dcfb"
+        },
+        {
+          "date": "2015-10-15T14:07:39.530636+03:00",
+          "amount": 29500.0,
+          "bidder": "514249e227e04722b9f192519317c18c"
+        }
+      ],
+      "time": "2015-10-16T10:01:19.003634+00:00"
+    }
+  },
+  "id": "1610e55337134cd7842727881a67c8e1",
+  "tenderId": "UA-2015-09-25-000331"
+}

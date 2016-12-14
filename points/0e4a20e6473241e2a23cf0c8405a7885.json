@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bff743d7562142e692246365ca24286e",
+        "time": "2015-11-20T10:47:17.007116+00:00"
+      },
+      "turn_3": {
+        "bidder": "383eded4abd0483fbe2277f70eb9be75",
+        "time": "2015-11-20T10:49:17.006719+00:00"
+      },
+      "turn_1": {
+        "bidder": "3da3145589a54ef6bf5d5a97af0d09ce",
+        "time": "2015-11-20T10:45:17.006802+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bff743d7562142e692246365ca24286e",
+        "time": "2015-11-20T10:55:17.006939+00:00"
+      },
+      "turn_3": {
+        "bidder": "383eded4abd0483fbe2277f70eb9be75",
+        "time": "2015-11-20T10:57:17.007052+00:00"
+      },
+      "turn_1": {
+        "bidder": "3da3145589a54ef6bf5d5a97af0d09ce",
+        "time": "2015-11-20T10:53:17.011133+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bff743d7562142e692246365ca24286e",
+        "time": "2015-11-20T10:39:17.006506+00:00"
+      },
+      "turn_3": {
+        "bidder": "383eded4abd0483fbe2277f70eb9be75",
+        "time": "2015-11-20T10:41:17.006576+00:00"
+      },
+      "turn_1": {
+        "bidder": "3da3145589a54ef6bf5d5a97af0d09ce",
+        "time": "2015-11-20T10:37:17.007030+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3da3145589a54ef6bf5d5a97af0d09ce",
+          "amount": 11126.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-19T11:40:16.738978+02:00"
+        },
+        {
+          "bidder": "bff743d7562142e692246365ca24286e",
+          "amount": 11105.74,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://etna-trade.com.ua",
+                "telephone": "+380674053200",
+                "name": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\"",
+                "email": "blohin@etna-trade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37469620",
+                "legalName": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Компанія \"ЕТНА-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04107, м. Київ, вул. Печенізька, 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T16:47:04.775437+02:00"
+        },
+        {
+          "bidder": "383eded4abd0483fbe2277f70eb9be75",
+          "amount": 11079.02,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T11:27:30.589028+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:57:20.087488+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T11:40:16.738978+02:00",
+          "amount": 11126.0,
+          "bidder": "3da3145589a54ef6bf5d5a97af0d09ce"
+        },
+        {
+          "date": "2015-11-18T16:47:04.775437+02:00",
+          "amount": 11105.74,
+          "bidder": "bff743d7562142e692246365ca24286e"
+        },
+        {
+          "date": "2015-11-19T11:27:30.589028+02:00",
+          "amount": 11079.02,
+          "bidder": "383eded4abd0483fbe2277f70eb9be75"
+        }
+      ],
+      "time": "2015-11-20T10:30:17.002783+00:00"
+    }
+  },
+  "id": "0e4a20e6473241e2a23cf0c8405a7885",
+  "tenderId": "UA-2015-11-10-000229"
+}

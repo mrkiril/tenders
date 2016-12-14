@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "48c76b31c08c48c1bbcd162d0d4bedb3",
+        "time": "2015-10-08T09:19:23.008143+00:00"
+      },
+      "turn_1": {
+        "bidder": "35c5cbe9f18d4f5aab02c69dc3b01514",
+        "time": "2015-10-08T09:17:23.007727+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "48c76b31c08c48c1bbcd162d0d4bedb3",
+        "time": "2015-10-08T09:25:23.007854+00:00"
+      },
+      "turn_1": {
+        "bidder": "35c5cbe9f18d4f5aab02c69dc3b01514",
+        "time": "2015-10-08T09:23:23.011595+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "48c76b31c08c48c1bbcd162d0d4bedb3",
+        "time": "2015-10-08T09:13:23.009233+00:00"
+      },
+      "turn_1": {
+        "bidder": "35c5cbe9f18d4f5aab02c69dc3b01514",
+        "time": "2015-10-08T09:11:23.008571+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "35c5cbe9f18d4f5aab02c69dc3b01514",
+          "amount": 990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445011505",
+                "telephone": "+380445011505",
+                "name": "Матуся Віталій Анатолійович",
+                "email": "vm@z-s.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37880919"
+              },
+              "name": "ТОВ ЗС Авто Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02225",
+                "region": "Київська область",
+                "streetAddress": "вул. Ніколаєва, буд.13, кв.152",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T15:59:11.384969+03:00"
+        },
+        {
+          "bidder": "48c76b31c08c48c1bbcd162d0d4bedb3",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508357831",
+                "name": "МП СВИПРО",
+                "email": "mpsvipro@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20121289",
+                "legalName": "МП СВИПРО"
+              },
+              "name": "МП СВИПРО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Шевченка 38/6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T12:43:13.637160+03:00"
+        }
+      ],
+      "time": "2015-10-08T09:25:25.471555+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T15:59:11.384969+03:00",
+          "amount": 990.0,
+          "bidder": "35c5cbe9f18d4f5aab02c69dc3b01514"
+        },
+        {
+          "date": "2015-09-30T12:43:13.637160+03:00",
+          "amount": 900.0,
+          "bidder": "48c76b31c08c48c1bbcd162d0d4bedb3"
+        }
+      ],
+      "time": "2015-10-08T09:04:23.003809+00:00"
+    }
+  },
+  "id": "4b122de557614dacab3072c59bc77ed2",
+  "tenderId": "UA-2015-09-30-000083"
+}

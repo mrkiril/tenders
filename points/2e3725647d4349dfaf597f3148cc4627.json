@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "678a5593c63f4564bf118208a50002e1",
+        "time": "2015-12-10T13:58:29.007787+00:00"
+      },
+      "turn_1": {
+        "bidder": "1abb84b9a7a14bbb9f39aa3f96561fa3",
+        "time": "2015-12-10T13:56:29.007766+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "678a5593c63f4564bf118208a50002e1",
+        "time": "2015-12-10T14:04:29.009276+00:00"
+      },
+      "turn_1": {
+        "bidder": "1abb84b9a7a14bbb9f39aa3f96561fa3",
+        "time": "2015-12-10T14:02:29.007517+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "678a5593c63f4564bf118208a50002e1",
+        "time": "2015-12-10T13:52:29.009387+00:00"
+      },
+      "turn_1": {
+        "bidder": "1abb84b9a7a14bbb9f39aa3f96561fa3",
+        "time": "2015-12-10T13:50:29.011698+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1abb84b9a7a14bbb9f39aa3f96561fa3",
+          "amount": 14988.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-09T00:23:37.690657+02:00"
+        },
+        {
+          "bidder": "678a5593c63f4564bf118208a50002e1",
+          "amount": 14977.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ci-el.com.ua",
+                "faxNumber": "+380442061565",
+                "telephone": "+380442061565",
+                "name": "Пикалова Ольга Федоровна",
+                "email": "olga.pikalova@ci-el.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404738"
+              },
+              "name": "ТОВ СІ-ЕЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул. Народного ополчення, 1,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T16:51:30.363733+02:00"
+        }
+      ],
+      "time": "2015-12-10T14:04:32.780110+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T00:23:37.690657+02:00",
+          "amount": 14988.0,
+          "bidder": "1abb84b9a7a14bbb9f39aa3f96561fa3"
+        },
+        {
+          "date": "2015-12-09T16:51:30.363733+02:00",
+          "amount": 14977.2,
+          "bidder": "678a5593c63f4564bf118208a50002e1"
+        }
+      ],
+      "time": "2015-12-10T13:43:29.004435+00:00"
+    }
+  },
+  "id": "2e3725647d4349dfaf597f3148cc4627",
+  "tenderId": "UA-2015-12-04-000099-a"
+}

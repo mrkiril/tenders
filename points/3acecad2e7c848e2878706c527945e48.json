@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "446f6d363b7b4f2da4682a5a27347b3e",
+        "time": "2015-10-20T10:24:16.008232+00:00"
+      },
+      "turn_1": {
+        "bidder": "26960654c100497d9592d3cda26c18fe",
+        "time": "2015-10-20T10:22:16.012895+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "446f6d363b7b4f2da4682a5a27347b3e",
+        "time": "2015-10-20T10:30:16.011583+00:00"
+      },
+      "turn_1": {
+        "bidder": "26960654c100497d9592d3cda26c18fe",
+        "time": "2015-10-20T10:28:16.010083+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "26960654c100497d9592d3cda26c18fe",
+        "time": "2015-10-20T10:18:16.010302+00:00"
+      },
+      "turn_1": {
+        "amount": 29044.0,
+        "bid_time": "2015-10-20T13:15:26.336280+03:00",
+        "bidder": "446f6d363b7b4f2da4682a5a27347b3e",
+        "time": "2015-10-20T10:16:16.011744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "26960654c100497d9592d3cda26c18fe",
+          "amount": 29500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-19T08:49:16.180404+03:00"
+        },
+        {
+          "bidder": "446f6d363b7b4f2da4682a5a27347b3e",
+          "amount": 29044.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.primetrade.com.ua/",
+                "telephone": "+380445815776",
+                "name": "ТОВ \"Прайм Трейд\"",
+                "email": "primetender@prime.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38870367",
+                "legalName": "ТОВ \"Прайм Трейд\""
+              },
+              "name": "ТОВ \"Прайм Трейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04060, м. Київ, вул. О. Теліги, буд.29-А, кв. 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T13:15:26.336280+03:00"
+        }
+      ],
+      "time": "2015-10-20T10:30:41.336204+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T16:31:28.863168+03:00",
+          "amount": 29644.8,
+          "bidder": "446f6d363b7b4f2da4682a5a27347b3e"
+        },
+        {
+          "date": "2015-10-19T08:49:16.180404+03:00",
+          "amount": 29500.0,
+          "bidder": "26960654c100497d9592d3cda26c18fe"
+        }
+      ],
+      "time": "2015-10-20T10:09:16.002393+00:00"
+    }
+  },
+  "id": "3acecad2e7c848e2878706c527945e48",
+  "tenderId": "UA-2015-10-12-000107"
+}

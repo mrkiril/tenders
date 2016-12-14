@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fabdc328323d49148715497ef807d912",
+        "time": "2015-06-25T08:45:00.037652+00:00"
+      },
+      "turn_1": {
+        "bidder": "84a8aa6accc64076ac9bea9ed2c77bde",
+        "time": "2015-06-25T08:43:00.025400+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fabdc328323d49148715497ef807d912",
+        "time": "2015-06-25T08:51:00.077814+00:00"
+      },
+      "turn_1": {
+        "bidder": "84a8aa6accc64076ac9bea9ed2c77bde",
+        "time": "2015-06-25T08:49:00.034663+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fabdc328323d49148715497ef807d912",
+        "time": "2015-06-25T08:39:00.124047+00:00"
+      },
+      "turn_1": {
+        "bidder": "84a8aa6accc64076ac9bea9ed2c77bde",
+        "time": "2015-06-25T08:37:00.123236+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "84a8aa6accc64076ac9bea9ed2c77bde",
+          "amount": 1125.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38067-325-69-96",
+                "name": "Тимофей",
+                "email": "tymofiy_chyzhykov@realab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33239012",
+                "legalName": "ТОВ \"Реалаб\""
+              },
+              "name": "ТОВ \"Реалаб\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03142",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-23T13:21:09.642691+03:00"
+        },
+        {
+          "bidder": "fabdc328323d49148715497ef807d912",
+          "amount": 130.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674014096",
+                "name": "ТОВ Сенте-Лаб",
+                "email": "rd2@sente-lab.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00000014",
+                "legalName": "ТОВ Сенте-Лаб"
+              },
+              "name": "ТОВ Сенте-Лаб",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, п-т Победы, 67, Офисный центр \"Нивки-Сити\", Корпус \"С\", оф. 212",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-24T12:58:58.749209+03:00"
+        }
+      ],
+      "time": "2015-06-25T08:51:01.411575+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-23T13:21:09.642691+03:00",
+          "amount": 1125.0,
+          "bidder": "84a8aa6accc64076ac9bea9ed2c77bde"
+        },
+        {
+          "date": "2015-06-24T12:58:58.749209+03:00",
+          "amount": 130.0,
+          "bidder": "fabdc328323d49148715497ef807d912"
+        }
+      ],
+      "time": "2015-06-25T08:30:00.017258+00:00"
+    }
+  },
+  "id": "46ec94c7e416430885c127051b1197bb",
+  "tenderId": "UA-2015-06-23-000024"
+}

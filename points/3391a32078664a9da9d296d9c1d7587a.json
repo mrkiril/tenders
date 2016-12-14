@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "06c0f79a7cba488abdbf75084ac206c8",
+        "time": "2015-11-26T10:27:58.009010+00:00"
+      },
+      "turn_1": {
+        "bidder": "34730efebe894958a08aa4e8868d3a32",
+        "time": "2015-11-26T10:25:58.008697+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "06c0f79a7cba488abdbf75084ac206c8",
+        "time": "2015-11-26T10:33:58.013114+00:00"
+      },
+      "turn_1": {
+        "bidder": "34730efebe894958a08aa4e8868d3a32",
+        "time": "2015-11-26T10:31:58.023209+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "06c0f79a7cba488abdbf75084ac206c8",
+        "time": "2015-11-26T10:21:58.007961+00:00"
+      },
+      "turn_1": {
+        "bidder": "34730efebe894958a08aa4e8868d3a32",
+        "time": "2015-11-26T10:19:58.008474+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "34730efebe894958a08aa4e8868d3a32",
+          "amount": 25000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-23T23:09:35.736447+02:00"
+        },
+        {
+          "bidder": "06c0f79a7cba488abdbf75084ac206c8",
+          "amount": 13160.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T10:35:28.825704+02:00"
+        }
+      ],
+      "time": "2015-11-26T10:33:59.180454+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T23:09:35.736447+02:00",
+          "amount": 25000.0,
+          "bidder": "34730efebe894958a08aa4e8868d3a32"
+        },
+        {
+          "date": "2015-11-23T10:35:28.825704+02:00",
+          "amount": 13160.16,
+          "bidder": "06c0f79a7cba488abdbf75084ac206c8"
+        }
+      ],
+      "time": "2015-11-26T10:12:58.004654+00:00"
+    }
+  },
+  "id": "3391a32078664a9da9d296d9c1d7587a",
+  "tenderId": "UA-2015-11-16-000052-a"
+}

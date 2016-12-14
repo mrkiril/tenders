@@ -1,0 +1,244 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "206fc4e1bef548848d717f6fda7e0948",
+        "time": "2015-09-21T10:25:00.059806+00:00"
+      },
+      "turn_5": {
+        "bidder": "8a01ee9d3850490e8591fa2875a5a089",
+        "time": "2015-09-21T10:27:00.060026+00:00"
+      },
+      "turn_2": {
+        "bidder": "da7b00f4f9a541839a26d8ed3b985549",
+        "time": "2015-09-21T10:21:00.068627+00:00"
+      },
+      "turn_3": {
+        "bidder": "ec62fcc461b84422b7a33679fb68a255",
+        "time": "2015-09-21T10:23:00.032038+00:00"
+      },
+      "turn_1": {
+        "bidder": "896a789bec364b0dbeb69b4750460eae",
+        "time": "2015-09-21T10:19:00.035831+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "206fc4e1bef548848d717f6fda7e0948",
+        "time": "2015-09-21T10:37:00.039603+00:00"
+      },
+      "turn_5": {
+        "bidder": "8a01ee9d3850490e8591fa2875a5a089",
+        "time": "2015-09-21T10:39:00.038631+00:00"
+      },
+      "turn_2": {
+        "bidder": "da7b00f4f9a541839a26d8ed3b985549",
+        "time": "2015-09-21T10:33:00.028698+00:00"
+      },
+      "turn_3": {
+        "bidder": "ec62fcc461b84422b7a33679fb68a255",
+        "time": "2015-09-21T10:35:00.054744+00:00"
+      },
+      "turn_1": {
+        "bidder": "896a789bec364b0dbeb69b4750460eae",
+        "time": "2015-09-21T10:31:00.012793+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "206fc4e1bef548848d717f6fda7e0948",
+        "time": "2015-09-21T10:13:00.079113+00:00"
+      },
+      "turn_5": {
+        "bidder": "8a01ee9d3850490e8591fa2875a5a089",
+        "time": "2015-09-21T10:15:00.041373+00:00"
+      },
+      "turn_2": {
+        "bidder": "da7b00f4f9a541839a26d8ed3b985549",
+        "time": "2015-09-21T10:09:00.039854+00:00"
+      },
+      "turn_3": {
+        "bidder": "ec62fcc461b84422b7a33679fb68a255",
+        "time": "2015-09-21T10:11:00.026393+00:00"
+      },
+      "turn_1": {
+        "bidder": "896a789bec364b0dbeb69b4750460eae",
+        "time": "2015-09-21T10:07:00.030216+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "896a789bec364b0dbeb69b4750460eae",
+          "amount": 7030.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-18T14:18:08.671326+03:00"
+        },
+        {
+          "bidder": "da7b00f4f9a541839a26d8ed3b985549",
+          "amount": 6900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970991827",
+                "name": "Виталий Иващенко",
+                "email": "vee.07@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Ворд Сервис\"",
+                "id": "38610126",
+                "uri": "http://wordservis.com.ua"
+              },
+              "name": "ТОВ \"Ворд Сервис\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36003",
+                "region": "Полтавская",
+                "streetAddress": "36003, Полтавська обл., місто Полтава, вул. Червоноармійська, буд. 3",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-09-17T13:34:37.136746+03:00"
+        },
+        {
+          "bidder": "ec62fcc461b84422b7a33679fb68a255",
+          "amount": 6700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442754976",
+                "telephone": "+380674490771",
+                "name": "Бондар Андрій Васильович",
+                "email": "ponaua@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33304149"
+              },
+              "name": "ТОВ ПОНА-УКРАЇНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська область",
+                "streetAddress": "вул. Полкова, б. 55, кв. 133",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-18T16:47:22.638523+03:00"
+        },
+        {
+          "bidder": "206fc4e1bef548848d717f6fda7e0948",
+          "amount": 5350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-408-96-11",
+                "name": "Кошлак Ігор Вікторович",
+                "email": "loriy2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39639371",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03049",
+                "region": "Київська",
+                "streetAddress": "проспект Повітрофлотський, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-17T10:42:41.324620+03:00"
+        },
+        {
+          "bidder": "8a01ee9d3850490e8591fa2875a5a089",
+          "amount": 5180.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.annapurna.com.ua",
+                "telephone": "0443322069",
+                "name": "Товариство з обмеженою відповідальністю \"Аннапурна технолоджи\"",
+                "email": "os@annapurna.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39268625",
+                "legalName": "Товариство з обмеженою відповідальністю \"Аннапурна технолоджи\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Аннапурна технолоджи\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04053",
+                "region": "Київська",
+                "streetAddress": "Артема, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T08:28:08.176551+03:00"
+        }
+      ],
+      "time": "2015-09-21T10:39:03.363524+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-18T14:18:08.671326+03:00",
+          "amount": 7030.0,
+          "bidder": "896a789bec364b0dbeb69b4750460eae"
+        },
+        {
+          "date": "2015-09-17T13:34:37.136746+03:00",
+          "amount": 6900.0,
+          "bidder": "da7b00f4f9a541839a26d8ed3b985549"
+        },
+        {
+          "date": "2015-09-18T16:47:22.638523+03:00",
+          "amount": 6700.0,
+          "bidder": "ec62fcc461b84422b7a33679fb68a255"
+        },
+        {
+          "date": "2015-09-17T10:42:41.324620+03:00",
+          "amount": 5350.0,
+          "bidder": "206fc4e1bef548848d717f6fda7e0948"
+        },
+        {
+          "date": "2015-09-18T08:28:08.176551+03:00",
+          "amount": 5180.0,
+          "bidder": "8a01ee9d3850490e8591fa2875a5a089"
+        }
+      ],
+      "time": "2015-09-21T10:00:00.016724+00:00"
+    }
+  },
+  "id": "e4c4c7e2a95f4c0c9fd723a903fd18a2",
+  "tenderId": "UA-2015-09-14-000251"
+}

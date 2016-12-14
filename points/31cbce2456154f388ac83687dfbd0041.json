@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c14c0c2273c14e6694b922177e92eebe",
+        "time": "2015-10-29T13:15:59.014564+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d75a589725f49d186580e0829d2464a",
+        "time": "2015-10-29T13:13:59.013686+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c14c0c2273c14e6694b922177e92eebe",
+        "time": "2015-10-29T13:21:59.009219+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d75a589725f49d186580e0829d2464a",
+        "time": "2015-10-29T13:19:59.010003+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c14c0c2273c14e6694b922177e92eebe",
+        "time": "2015-10-29T13:09:59.007540+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d75a589725f49d186580e0829d2464a",
+        "time": "2015-10-29T13:07:59.020387+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7d75a589725f49d186580e0829d2464a",
+          "amount": 59800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://safecity.in.ua",
+                "telephone": "+380503941500",
+                "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+                "email": "aleksey@safecity.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\""
+              },
+              "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18, м. Миколаїв, 54030",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T11:21:42.877430+02:00"
+        },
+        {
+          "bidder": "c14c0c2273c14e6694b922177e92eebe",
+          "amount": 48574.17,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979380423",
+                "name": "Александр Костюк",
+                "email": "kostuk.alexander@tiptop.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37674173",
+                "legalName": "ТОВ \"Автомототех\""
+              },
+              "name": "ТОВ \"Автомототех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03067",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-27T12:11:57.257626+02:00"
+        }
+      ],
+      "time": "2015-10-29T13:22:14.353956+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T11:21:42.877430+02:00",
+          "amount": 59800.0,
+          "bidder": "7d75a589725f49d186580e0829d2464a"
+        },
+        {
+          "date": "2015-10-27T12:11:57.257626+02:00",
+          "amount": 48574.17,
+          "bidder": "c14c0c2273c14e6694b922177e92eebe"
+        }
+      ],
+      "time": "2015-10-29T13:00:59.005937+00:00"
+    }
+  },
+  "id": "31cbce2456154f388ac83687dfbd0041",
+  "tenderId": "UA-2015-10-16-000094"
+}

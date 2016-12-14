@@ -1,0 +1,107 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3b0b0317f69845a7ab648e12fb0a35d8",
+        "time": "2015-10-19T08:55:57.007709+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f62b477eaf345e6a5659674229a377d",
+        "time": "2015-10-19T08:53:57.008379+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3b0b0317f69845a7ab648e12fb0a35d8",
+        "time": "2015-10-19T09:01:57.007212+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f62b477eaf345e6a5659674229a377d",
+        "time": "2015-10-19T08:59:57.010032+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3b0b0317f69845a7ab648e12fb0a35d8",
+        "time": "2015-10-19T08:49:57.009574+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f62b477eaf345e6a5659674229a377d",
+        "time": "2015-10-19T08:47:57.008332+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f62b477eaf345e6a5659674229a377d",
+          "amount": 18000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0951959020",
+                "name": "Светлана Шкуропат ",
+                "email": "office@ukrohorona.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37873262",
+                "legalName": ""
+              },
+              "name": "ООО \"АБ \"ГЮРЗА\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "65000, г. Одесса, ул. Посмитного, 2"
+              }
+            }
+          ],
+          "time": "2015-10-15T17:06:54.687735+03:00"
+        },
+        {
+          "bidder": "3b0b0317f69845a7ab648e12fb0a35d8",
+          "amount": 16200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrnavi.com/",
+                "telephone": "0936367807",
+                "name": "Роман Захватаев ",
+                "email": "ceo@ukrohorona.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37475634",
+                "legalName": ""
+              },
+              "name": "ООО \"Украинские навигационные системы\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "65000, г. Одесса, ул. Нежинская, 44"
+              }
+            }
+          ],
+          "time": "2015-10-16T09:44:22.694477+03:00"
+        }
+      ],
+      "time": "2015-10-19T09:02:10.133713+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T17:06:54.687735+03:00",
+          "amount": 18000.0,
+          "bidder": "0f62b477eaf345e6a5659674229a377d"
+        },
+        {
+          "date": "2015-10-16T09:44:22.694477+03:00",
+          "amount": 16200.0,
+          "bidder": "3b0b0317f69845a7ab648e12fb0a35d8"
+        }
+      ],
+      "time": "2015-10-19T08:40:57.003447+00:00"
+    }
+  },
+  "id": "89c0ef5f283342278f36ca07fb01fb88",
+  "tenderId": "UA-2015-10-09-000258"
+}

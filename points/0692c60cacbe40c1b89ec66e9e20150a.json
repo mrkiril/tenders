@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 171.0,
+        "bid_time": "2015-10-19T12:52:09.459673+03:00",
+        "bidder": "9a374e793feb410eb14ac4804610ce57",
+        "time": "2015-10-19T09:53:42.009242+00:00"
+      },
+      "turn_1": {
+        "amount": 172.0,
+        "bid_time": "2015-10-19T12:50:01.475691+03:00",
+        "bidder": "f12c468d1778497ab7ed4d0d8c03594d",
+        "time": "2015-10-19T09:51:42.011646+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 119.0,
+        "bid_time": "2015-10-19T12:58:06.887846+03:00",
+        "bidder": "9a374e793feb410eb14ac4804610ce57",
+        "time": "2015-10-19T09:59:42.012528+00:00"
+      },
+      "turn_1": {
+        "amount": 120.0,
+        "bid_time": "2015-10-19T12:57:40.069681+03:00",
+        "bidder": "f12c468d1778497ab7ed4d0d8c03594d",
+        "time": "2015-10-19T09:57:42.010530+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 218.0,
+        "bid_time": "2015-10-19T12:46:15.357827+03:00",
+        "bidder": "9a374e793feb410eb14ac4804610ce57",
+        "time": "2015-10-19T09:47:42.009954+00:00"
+      },
+      "turn_1": {
+        "amount": 222.0,
+        "bid_time": "2015-10-19T12:43:59.285616+03:00",
+        "bidder": "f12c468d1778497ab7ed4d0d8c03594d",
+        "time": "2015-10-19T09:45:42.009757+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f12c468d1778497ab7ed4d0d8c03594d",
+          "amount": 120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380991670177",
+                "name": "Антон Цысь",
+                "email": "tsysanton90@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕЙ ДІ\"",
+                "id": "39142982",
+                "uri": "http://addirections.com.ua/"
+              },
+              "name": "ТОВ \"ЕЙ ДІ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04212",
+                "region": "Киевская",
+                "streetAddress": "вул. Маршала Малиновського, буд. 15/3, офіс 110",
+                "locality": "г. Киев"
+              }
+            }
+          ],
+          "time": "2015-10-19T12:57:40.069681+03:00"
+        },
+        {
+          "bidder": "9a374e793feb410eb14ac4804610ce57",
+          "amount": 119.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.znakiua.ua/",
+                "faxNumber": "+380444139961",
+                "telephone": "+380443537342",
+                "name": "Бичкова Наталія Юріївна",
+                "email": "manager20@znakiua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37332960"
+              },
+              "name": "ТОВ Знаки УА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "пр.Свободи,2в,32",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-19T12:58:06.887846+03:00"
+        }
+      ],
+      "time": "2015-10-19T09:59:43.882549+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T18:35:28.446665+03:00",
+          "amount": 270.0,
+          "bidder": "f12c468d1778497ab7ed4d0d8c03594d"
+        },
+        {
+          "date": "2015-10-15T15:37:35.767842+03:00",
+          "amount": 260.0,
+          "bidder": "9a374e793feb410eb14ac4804610ce57"
+        }
+      ],
+      "time": "2015-10-19T09:38:42.004711+00:00"
+    }
+  },
+  "id": "0692c60cacbe40c1b89ec66e9e20150a",
+  "tenderId": "UA-2015-10-13-000015"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "da4c1ceaae9e42eaaa84553476e80728",
+        "time": "2015-06-15T08:15:00.438848+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1207d18caa84bef9559ef97d3bf6433",
+        "time": "2015-06-15T08:13:00.328125+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "da4c1ceaae9e42eaaa84553476e80728",
+        "time": "2015-06-15T08:21:00.318130+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1207d18caa84bef9559ef97d3bf6433",
+        "time": "2015-06-15T08:19:00.428776+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "da4c1ceaae9e42eaaa84553476e80728",
+        "time": "2015-06-15T08:09:00.304256+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1207d18caa84bef9559ef97d3bf6433",
+        "time": "2015-06-15T08:07:00.266019+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d1207d18caa84bef9559ef97d3bf6433",
+          "amount": 4628.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33 872 747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-06-11T14:51:03.926862+03:00"
+        },
+        {
+          "bidder": "da4c1ceaae9e42eaaa84553476e80728",
+          "amount": 4020.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dneprokor.com.ua",
+                "telephone": "+380612287976",
+                "name": "Товариство з обмеженою відповідальністю фірма \"Дніпрокор\"",
+                "email": "zablodsky@dneprokor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13612779",
+                "legalName": "Товариство з обмеженою відповідальністю фірма \"Дніпрокор\""
+              },
+              "name": "Товариство з обмеженою відповідальністю фірма \"Дніпрокор\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Перемоги, буд. 71,                     м. Запоріжжя, 69035",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-12T12:44:39.524752+03:00"
+        }
+      ],
+      "time": "2015-06-15T08:21:08.520296+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-11T14:51:03.926862+03:00",
+          "amount": 4628.0,
+          "bidder": "d1207d18caa84bef9559ef97d3bf6433"
+        },
+        {
+          "date": "2015-06-12T12:44:39.524752+03:00",
+          "amount": 4020.0,
+          "bidder": "da4c1ceaae9e42eaaa84553476e80728"
+        }
+      ],
+      "time": "2015-06-15T08:00:00.061279+00:00"
+    }
+  },
+  "id": "28270ed235eb4966860259205cdb2cd0",
+  "tenderId": "UA-2015-06-04-000017"
+}

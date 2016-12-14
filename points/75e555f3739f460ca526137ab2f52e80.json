@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c40c0f7d5b164aa791d81529c41d48d0",
+        "time": "2015-12-04T11:45:23.015445+00:00"
+      },
+      "turn_1": {
+        "bidder": "364012e4b762403aafb7b040ea9ad8f5",
+        "time": "2015-12-04T11:43:23.007574+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c40c0f7d5b164aa791d81529c41d48d0",
+        "time": "2015-12-04T11:51:23.014329+00:00"
+      },
+      "turn_1": {
+        "bidder": "364012e4b762403aafb7b040ea9ad8f5",
+        "time": "2015-12-04T11:49:23.011308+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "364012e4b762403aafb7b040ea9ad8f5",
+        "time": "2015-12-04T11:39:23.007763+00:00"
+      },
+      "turn_1": {
+        "amount": 549.0,
+        "bid_time": "2015-12-04T13:35:33.169643+02:00",
+        "bidder": "c40c0f7d5b164aa791d81529c41d48d0",
+        "time": "2015-12-04T11:37:23.009115+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "364012e4b762403aafb7b040ea9ad8f5",
+          "amount": 550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://korsuncity.com.ua/",
+                "telephone": "0968486767",
+                "name": "Виталий Мацюк ",
+                "email": "nice_price@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3154313356",
+                "legalName": "ФОП Мацюк В.С."
+              },
+              "name": "ФОП Мацюк В.С.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Черкасская область",
+                "streetAddress": "19400,м. Корсунь-Шевчекікський, Черкаська обл., Леніна 323 а"
+              }
+            }
+          ],
+          "time": "2015-12-02T10:50:04.519666+02:00"
+        },
+        {
+          "bidder": "c40c0f7d5b164aa791d81529c41d48d0",
+          "amount": 549.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.imidgbud.com/",
+                "faxNumber": "0444677845",
+                "telephone": "0674084869",
+                "name": "Паламарчук Надія Леонідівна",
+                "email": "imidg.oficce@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33153538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул. Кирилівська, буд. 40/42",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T13:35:33.169643+02:00"
+        }
+      ],
+      "time": "2015-12-04T11:51:24.356875+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T14:17:31.479711+02:00",
+          "amount": 600.0,
+          "bidder": "c40c0f7d5b164aa791d81529c41d48d0"
+        },
+        {
+          "date": "2015-12-02T10:50:04.519666+02:00",
+          "amount": 550.0,
+          "bidder": "364012e4b762403aafb7b040ea9ad8f5"
+        }
+      ],
+      "time": "2015-12-04T11:30:23.003223+00:00"
+    }
+  },
+  "id": "75e555f3739f460ca526137ab2f52e80",
+  "tenderId": "UA-2015-11-27-000027-a"
+}

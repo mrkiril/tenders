@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a5078c53c1bb4b4d9896fa1202f7ffd1",
+        "time": "2015-12-11T11:53:09.006143+00:00"
+      },
+      "turn_1": {
+        "bidder": "f51cd1b20af74a3dbff5d084ee9c7c2f",
+        "time": "2015-12-11T11:51:09.018085+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 10160.0,
+        "bid_time": "2015-12-11T13:58:26.596001+02:00",
+        "bidder": "a5078c53c1bb4b4d9896fa1202f7ffd1",
+        "time": "2015-12-11T11:59:09.008864+00:00"
+      },
+      "turn_1": {
+        "amount": 10200.0,
+        "bid_time": "2015-12-11T13:56:48.697214+02:00",
+        "bidder": "f51cd1b20af74a3dbff5d084ee9c7c2f",
+        "time": "2015-12-11T11:57:09.009891+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a5078c53c1bb4b4d9896fa1202f7ffd1",
+        "time": "2015-12-11T11:47:09.009260+00:00"
+      },
+      "turn_1": {
+        "bidder": "f51cd1b20af74a3dbff5d084ee9c7c2f",
+        "time": "2015-12-11T11:45:09.009064+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f51cd1b20af74a3dbff5d084ee9c7c2f",
+          "amount": 10200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955256388",
+                "name": "ФОП \"Алєнін Дмитро Володимирович\"",
+                "email": "ad_company@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3523113559",
+                "legalName": "ФОП \"Алєнін Дмитро Володимирович\""
+              },
+              "name": "ФОП \"Алєнін Дмитро Володимирович\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61175",
+                "region": "ХАРЬКОВСКАЯ ОБЛ.",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:56:48.697214+02:00"
+        },
+        {
+          "bidder": "a5078c53c1bb4b4d9896fa1202f7ffd1",
+          "amount": 10160.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stockparts.in.ua",
+                "telephone": "+380503206741",
+                "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+                "email": "Sin-67@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39747337",
+                "legalName": "Товариство з обмеженою відповідальністю Інтерагрос"
+              },
+              "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ДНЕПРОПЕТРОВСКАЯ ОБЛ.",
+                "streetAddress": "м.Дніпропетровск пров.Фестивальній 3/156",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:58:26.596001+02:00"
+        }
+      ],
+      "time": "2015-12-11T11:59:10.046890+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T20:40:17.999037+02:00",
+          "amount": 11870.0,
+          "bidder": "f51cd1b20af74a3dbff5d084ee9c7c2f"
+        },
+        {
+          "date": "2015-12-11T00:39:45.698364+02:00",
+          "amount": 10220.0,
+          "bidder": "a5078c53c1bb4b4d9896fa1202f7ffd1"
+        }
+      ],
+      "time": "2015-12-11T11:38:09.004864+00:00"
+    }
+  },
+  "id": "f101b625e1fa4efa81cf5e1c8f24162d",
+  "tenderId": "UA-2015-12-03-000124-a"
+}

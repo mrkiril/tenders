@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "52a349dc3a0e43178fc2cf30020c7c71",
+        "time": "2015-10-05T11:24:39.007609+00:00"
+      },
+      "turn_1": {
+        "bidder": "ac1071dc8c9f423c96458d8000e415f9",
+        "time": "2015-10-05T11:22:39.006697+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "52a349dc3a0e43178fc2cf30020c7c71",
+        "time": "2015-10-05T11:30:39.007163+00:00"
+      },
+      "turn_1": {
+        "bidder": "ac1071dc8c9f423c96458d8000e415f9",
+        "time": "2015-10-05T11:28:39.008750+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "52a349dc3a0e43178fc2cf30020c7c71",
+        "time": "2015-10-05T11:18:39.006965+00:00"
+      },
+      "turn_1": {
+        "bidder": "ac1071dc8c9f423c96458d8000e415f9",
+        "time": "2015-10-05T11:16:39.006515+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ac1071dc8c9f423c96458d8000e415f9",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-09-29T12:48:02.081482+03:00"
+        },
+        {
+          "bidder": "52a349dc3a0e43178fc2cf30020c7c71",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3080504454236",
+                "name": "ООО \"ТД \"Техно-Синтез\"",
+                "email": "office@sintez-oil.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38364904",
+                "legalName": "ООО \"ТД \"Техно-Синтез\""
+              },
+              "name": "ООО \"ТД \"Техно-Синтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Подлесная 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T13:32:02.632396+03:00"
+        }
+      ],
+      "time": "2015-10-05T11:30:44.429407+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T12:48:02.081482+03:00",
+          "amount": 3500.0,
+          "bidder": "ac1071dc8c9f423c96458d8000e415f9"
+        },
+        {
+          "date": "2015-09-29T13:32:02.632396+03:00",
+          "amount": 2600.0,
+          "bidder": "52a349dc3a0e43178fc2cf30020c7c71"
+        }
+      ],
+      "time": "2015-10-05T11:09:39.003439+00:00"
+    }
+  },
+  "id": "262fcdba38c44d89b5156e77825fd07d",
+  "tenderId": "UA-2015-09-25-000325"
+}

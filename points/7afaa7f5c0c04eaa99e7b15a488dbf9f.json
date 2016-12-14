@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "12cda572ca15492f9b6a6018ba86dbbe",
+        "time": "2015-10-21T08:56:02.013194+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef6dd9f4b7e040fcbeb42db6dd6ffdeb",
+        "time": "2015-10-21T08:54:02.011284+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "12cda572ca15492f9b6a6018ba86dbbe",
+        "time": "2015-10-21T09:02:02.011213+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef6dd9f4b7e040fcbeb42db6dd6ffdeb",
+        "time": "2015-10-21T09:00:02.008708+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "12cda572ca15492f9b6a6018ba86dbbe",
+        "time": "2015-10-21T08:50:02.009357+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef6dd9f4b7e040fcbeb42db6dd6ffdeb",
+        "time": "2015-10-21T08:48:02.011571+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ef6dd9f4b7e040fcbeb42db6dd6ffdeb",
+          "amount": 6340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-19T08:45:38.779236+03:00"
+        },
+        {
+          "bidder": "12cda572ca15492f9b6a6018ba86dbbe",
+          "amount": 6300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.eva-oks.com.ua/",
+                "telephone": "0442230403",
+                "name": "Валентина Жлуктенко ",
+                "email": "office@eva-oks.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37788539",
+                "legalName": ""
+              },
+              "name": "ООО \"ЕВА ОКС\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "02099, г.Киев, ул.Бориспольская, 7"
+              }
+            }
+          ],
+          "time": "2015-10-18T12:51:22.996046+03:00"
+        }
+      ],
+      "time": "2015-10-21T09:02:07.000328+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T08:45:38.779236+03:00",
+          "amount": 6340.0,
+          "bidder": "ef6dd9f4b7e040fcbeb42db6dd6ffdeb"
+        },
+        {
+          "date": "2015-10-18T12:51:22.996046+03:00",
+          "amount": 6300.0,
+          "bidder": "12cda572ca15492f9b6a6018ba86dbbe"
+        }
+      ],
+      "time": "2015-10-21T08:41:02.004942+00:00"
+    }
+  },
+  "id": "7afaa7f5c0c04eaa99e7b15a488dbf9f",
+  "tenderId": "UA-2015-10-12-000243"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a17d862fa7154f4f8d34bb35cd854616",
+        "time": "2015-09-04T08:15:00.109247+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b13a5760032472ab85740e3328152f2",
+        "time": "2015-09-04T08:13:00.106724+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a17d862fa7154f4f8d34bb35cd854616",
+        "time": "2015-09-04T08:21:00.051546+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b13a5760032472ab85740e3328152f2",
+        "time": "2015-09-04T08:19:00.114280+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0b13a5760032472ab85740e3328152f2",
+        "time": "2015-09-04T08:09:00.061435+00:00"
+      },
+      "turn_1": {
+        "amount": 174408.0,
+        "bid_time": "2015-09-04T11:05:12.398223+03:00",
+        "bidder": "a17d862fa7154f4f8d34bb35cd854616",
+        "time": "2015-09-04T08:07:00.067744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0b13a5760032472ab85740e3328152f2",
+          "amount": 178880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380973993750",
+                "name": "валентина зинченко",
+                "email": "rok_simol@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00443000",
+                "legalName": "ПП \"симол\""
+              },
+              "name": "ПП \"симол\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "09600",
+                "region": "Киевская",
+                "streetAddress": "киевская обл.пгт.ракитное улюзаводска,1",
+                "locality": "Белая Церковь"
+              }
+            }
+          ],
+          "time": "2015-08-31T15:26:39.679208+03:00"
+        },
+        {
+          "bidder": "a17d862fa7154f4f8d34bb35cd854616",
+          "amount": 174408.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.molproduct.com.ua",
+                "faxNumber": "+380456752684",
+                "telephone": "+380456753877",
+                "name": "Поплавський Олег Ярославович",
+                "email": "o.poplavskij@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00445920"
+              },
+              "name": "ТОВ Переяслав - Молпродукт",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08431",
+                "region": "Київська область",
+                "streetAddress": "Леніна, 54",
+                "locality": "Дем'янці"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:05:12.398223+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:21:11.916324+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-31T15:26:39.679208+03:00",
+          "amount": 178880.0,
+          "bidder": "0b13a5760032472ab85740e3328152f2"
+        },
+        {
+          "date": "2015-09-02T16:34:50.287359+03:00",
+          "amount": 178880.0,
+          "bidder": "a17d862fa7154f4f8d34bb35cd854616"
+        }
+      ],
+      "time": "2015-09-04T08:00:00.003983+00:00"
+    }
+  },
+  "id": "c9a4c99b475342b1b3e707cafd1feea3",
+  "tenderId": "UA-2015-08-28-000048"
+}

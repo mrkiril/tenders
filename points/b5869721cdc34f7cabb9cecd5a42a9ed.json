@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3500.0,
+        "bid_time": "2015-11-12T14:49:19.689697+02:00",
+        "bidder": "76188eaec6004639846ceb8ea4886448",
+        "time": "2015-11-12T12:50:22.007557+00:00"
+      },
+      "turn_3": {
+        "amount": 3499.0,
+        "bid_time": "2015-11-12T14:52:13.623858+02:00",
+        "bidder": "244ea6065a7240db8a1480a0caeb558a",
+        "time": "2015-11-12T12:52:22.010443+00:00"
+      },
+      "turn_1": {
+        "bidder": "00afea405be54a8abbbeb2d76fdf51c8",
+        "time": "2015-11-12T12:48:22.007762+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "76188eaec6004639846ceb8ea4886448",
+        "time": "2015-11-12T12:58:22.009108+00:00"
+      },
+      "turn_3": {
+        "bidder": "244ea6065a7240db8a1480a0caeb558a",
+        "time": "2015-11-12T13:00:22.014356+00:00"
+      },
+      "turn_1": {
+        "bidder": "00afea405be54a8abbbeb2d76fdf51c8",
+        "time": "2015-11-12T12:56:22.008250+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3843.0,
+        "bid_time": "2015-11-12T14:40:45.148647+02:00",
+        "bidder": "76188eaec6004639846ceb8ea4886448",
+        "time": "2015-11-12T12:42:22.010694+00:00"
+      },
+      "turn_3": {
+        "amount": 3744.0,
+        "bid_time": "2015-11-12T14:42:36.265503+02:00",
+        "bidder": "244ea6065a7240db8a1480a0caeb558a",
+        "time": "2015-11-12T12:44:22.014925+00:00"
+      },
+      "turn_1": {
+        "bidder": "00afea405be54a8abbbeb2d76fdf51c8",
+        "time": "2015-11-12T12:40:22.012333+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "00afea405be54a8abbbeb2d76fdf51c8",
+          "amount": 4186.08,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T17:16:04.932629+02:00"
+        },
+        {
+          "bidder": "76188eaec6004639846ceb8ea4886448",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.service.dp.ua",
+                "telephone": "+380979186994",
+                "name": "ООО ПФ \"Сервис\"",
+                "email": "ata@service.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25021641",
+                "legalName": "ООО ПФ \"Сервис\""
+              },
+              "name": "ООО ПФ \"Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Донецкое шоссе 7/226, г. Днепропетровск, Украина, 49098",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T14:49:19.689697+02:00"
+        },
+        {
+          "bidder": "244ea6065a7240db8a1480a0caeb558a",
+          "amount": 3499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:52:13.623858+02:00"
+        }
+      ],
+      "time": "2015-11-12T13:00:50.570838+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T17:16:04.932629+02:00",
+          "amount": 4186.08,
+          "bidder": "00afea405be54a8abbbeb2d76fdf51c8"
+        },
+        {
+          "date": "2015-11-11T12:26:30.758737+02:00",
+          "amount": 4113.72,
+          "bidder": "76188eaec6004639846ceb8ea4886448"
+        },
+        {
+          "date": "2015-11-11T09:07:19.325140+02:00",
+          "amount": 3844.0,
+          "bidder": "244ea6065a7240db8a1480a0caeb558a"
+        }
+      ],
+      "time": "2015-11-12T12:33:22.004404+00:00"
+    }
+  },
+  "id": "b5869721cdc34f7cabb9cecd5a42a9ed",
+  "tenderId": "UA-2015-11-06-000004-b"
+}

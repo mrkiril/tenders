@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "979e397665e24696b897cfc752bcf253",
+        "time": "2015-11-05T11:59:19.006607+00:00"
+      },
+      "turn_3": {
+        "bidder": "4a3a748f9c9d401598e8db9a80c0fe01",
+        "time": "2015-11-05T12:01:19.006711+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d0be383b96e4021ba982a5d4490fbb0",
+        "time": "2015-11-05T11:57:19.006487+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "979e397665e24696b897cfc752bcf253",
+        "time": "2015-11-05T12:07:19.007943+00:00"
+      },
+      "turn_3": {
+        "bidder": "4a3a748f9c9d401598e8db9a80c0fe01",
+        "time": "2015-11-05T12:09:19.006203+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d0be383b96e4021ba982a5d4490fbb0",
+        "time": "2015-11-05T12:05:19.007707+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 590.0,
+        "bid_time": "2015-11-05T13:51:01.959853+02:00",
+        "bidder": "979e397665e24696b897cfc752bcf253",
+        "time": "2015-11-05T11:51:19.012614+00:00"
+      },
+      "turn_3": {
+        "amount": 550.0,
+        "bid_time": "2015-11-05T13:52:56.135461+02:00",
+        "bidder": "4a3a748f9c9d401598e8db9a80c0fe01",
+        "time": "2015-11-05T11:53:19.021766+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d0be383b96e4021ba982a5d4490fbb0",
+        "time": "2015-11-05T11:49:19.007772+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9d0be383b96e4021ba982a5d4490fbb0",
+          "amount": 1600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380639856641",
+                "name": "Станислав",
+                "email": "uszauto@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39611817",
+                "legalName": "ТОВ \"УСЗ Авто\""
+              },
+              "name": "ТОВ \"УСЗ Авто\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08132",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:09:34.253870+02:00"
+        },
+        {
+          "bidder": "979e397665e24696b897cfc752bcf253",
+          "amount": 590.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stockparts.in.ua",
+                "telephone": "+380503206741",
+                "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+                "email": "Sin-67@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39747337",
+                "legalName": "Товариство з обмеженою відповідальністю Інтерагрос"
+              },
+              "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Дніпропетровск пров.Фестивальній 3/156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T13:51:01.959853+02:00"
+        },
+        {
+          "bidder": "4a3a748f9c9d401598e8db9a80c0fe01",
+          "amount": 550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:52:56.135461+02:00"
+        }
+      ],
+      "time": "2015-11-05T12:09:32.485295+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T12:09:34.253870+02:00",
+          "amount": 1600.0,
+          "bidder": "9d0be383b96e4021ba982a5d4490fbb0"
+        },
+        {
+          "date": "2015-11-03T21:37:54.428697+02:00",
+          "amount": 1300.0,
+          "bidder": "979e397665e24696b897cfc752bcf253"
+        },
+        {
+          "date": "2015-11-03T12:41:35.869015+02:00",
+          "amount": 600.0,
+          "bidder": "4a3a748f9c9d401598e8db9a80c0fe01"
+        }
+      ],
+      "time": "2015-11-05T11:42:19.002960+00:00"
+    }
+  },
+  "id": "8943b4d1a7be49c298425aa7f9ee48bd",
+  "tenderId": "UA-2015-10-28-000210"
+}

@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "011e13afc0a74a57b2919a2c90a7be6a",
+        "time": "2015-07-21T09:47:00.009707+00:00"
+      },
+      "turn_3": {
+        "bidder": "6897ff1c008e4360af00e6e155e6477d",
+        "time": "2015-07-21T09:49:00.009076+00:00"
+      },
+      "turn_1": {
+        "bidder": "160e7717c25d4bcbb3172991d00bf4db",
+        "time": "2015-07-21T09:45:00.010263+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "011e13afc0a74a57b2919a2c90a7be6a",
+        "time": "2015-07-21T09:55:00.006411+00:00"
+      },
+      "turn_3": {
+        "bidder": "6897ff1c008e4360af00e6e155e6477d",
+        "time": "2015-07-21T09:57:00.010284+00:00"
+      },
+      "turn_1": {
+        "bidder": "160e7717c25d4bcbb3172991d00bf4db",
+        "time": "2015-07-21T09:53:00.010199+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "011e13afc0a74a57b2919a2c90a7be6a",
+        "time": "2015-07-21T09:39:00.009527+00:00"
+      },
+      "turn_3": {
+        "bidder": "6897ff1c008e4360af00e6e155e6477d",
+        "time": "2015-07-21T09:41:00.008286+00:00"
+      },
+      "turn_1": {
+        "bidder": "160e7717c25d4bcbb3172991d00bf4db",
+        "time": "2015-07-21T09:37:00.010241+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "160e7717c25d4bcbb3172991d00bf4db",
+          "amount": 771.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-20T10:47:16.123371+03:00"
+        },
+        {
+          "bidder": "011e13afc0a74a57b2919a2c90a7be6a",
+          "amount": 766.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689818204",
+                "name": "Дана Мироненко",
+                "email": "mirondana@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38069357",
+                "legalName": "ТОВ \"Торговый Дом Светоприбор\""
+              },
+              "name": "ТОВ \"Торговый Дом Светоприбор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69035",
+                "region": "Запорожская",
+                "streetAddress": "ул. 40 лет Советской Украины, 82",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-07-20T08:11:24.963660+03:00"
+        },
+        {
+          "bidder": "6897ff1c008e4360af00e6e155e6477d",
+          "amount": 702.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380617875316",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП",
+                "email": "r.e.g@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39385396",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69600, м.Запоріжжя пр.Леніна буд. 152, оф.174",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-17T11:40:17.039573+03:00"
+        }
+      ],
+      "time": "2015-07-21T09:57:00.978394+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-20T10:47:16.123371+03:00",
+          "amount": 771.0,
+          "bidder": "160e7717c25d4bcbb3172991d00bf4db"
+        },
+        {
+          "date": "2015-07-20T08:11:24.963660+03:00",
+          "amount": 766.8,
+          "bidder": "011e13afc0a74a57b2919a2c90a7be6a"
+        },
+        {
+          "date": "2015-07-17T11:40:17.039573+03:00",
+          "amount": 702.0,
+          "bidder": "6897ff1c008e4360af00e6e155e6477d"
+        }
+      ],
+      "time": "2015-07-21T09:30:00.003461+00:00"
+    }
+  },
+  "id": "330d381f7eb64dcbb210dd1073b27f87",
+  "tenderId": "UA-2015-07-13-000085"
+}

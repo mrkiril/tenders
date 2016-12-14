@@ -1,0 +1,244 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "7cb15c5f30c64ea480a969554bfe5105",
+        "time": "2015-08-17T12:55:00.006694+00:00"
+      },
+      "turn_5": {
+        "bidder": "941623c9cf834fe79592f68ffeb91040",
+        "time": "2015-08-17T12:57:00.007863+00:00"
+      },
+      "turn_2": {
+        "bidder": "0d31e2e57156423ca1bbd38aa2b1c41f",
+        "time": "2015-08-17T12:51:00.007807+00:00"
+      },
+      "turn_3": {
+        "bidder": "9d4c8edcfe4240ef9d4898e944748a75",
+        "time": "2015-08-17T12:53:00.008551+00:00"
+      },
+      "turn_1": {
+        "bidder": "11fc29e9f562487ca08650b1f3c697f5",
+        "time": "2015-08-17T12:49:00.006731+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "7cb15c5f30c64ea480a969554bfe5105",
+        "time": "2015-08-17T13:07:00.011635+00:00"
+      },
+      "turn_5": {
+        "bidder": "941623c9cf834fe79592f68ffeb91040",
+        "time": "2015-08-17T13:09:00.006658+00:00"
+      },
+      "turn_2": {
+        "bidder": "0d31e2e57156423ca1bbd38aa2b1c41f",
+        "time": "2015-08-17T13:03:00.006215+00:00"
+      },
+      "turn_3": {
+        "bidder": "9d4c8edcfe4240ef9d4898e944748a75",
+        "time": "2015-08-17T13:05:00.005855+00:00"
+      },
+      "turn_1": {
+        "bidder": "11fc29e9f562487ca08650b1f3c697f5",
+        "time": "2015-08-17T13:01:00.007027+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "7cb15c5f30c64ea480a969554bfe5105",
+        "time": "2015-08-17T12:43:00.008400+00:00"
+      },
+      "turn_5": {
+        "amount": 4487760.0,
+        "bid_time": "2015-08-17T15:44:27.102429+03:00",
+        "bidder": "941623c9cf834fe79592f68ffeb91040",
+        "time": "2015-08-17T12:45:00.008304+00:00"
+      },
+      "turn_2": {
+        "bidder": "0d31e2e57156423ca1bbd38aa2b1c41f",
+        "time": "2015-08-17T12:39:00.007998+00:00"
+      },
+      "turn_3": {
+        "bidder": "9d4c8edcfe4240ef9d4898e944748a75",
+        "time": "2015-08-17T12:41:00.013763+00:00"
+      },
+      "turn_1": {
+        "bidder": "11fc29e9f562487ca08650b1f3c697f5",
+        "time": "2015-08-17T12:37:00.008559+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "11fc29e9f562487ca08650b1f3c697f5",
+          "amount": 6504000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677827347",
+                "name": "Леонід Поплавський",
+                "email": "uniformua@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39597536",
+                "legalName": "ТОВ \"УНІФОРМ\""
+              },
+              "name": "ТОВ \"УНІФОРМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03058",
+                "region": "Киевская",
+                "streetAddress": "Борщагівська 173/187 кв. 243",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T16:21:47.290000+03:00"
+        },
+        {
+          "bidder": "0d31e2e57156423ca1bbd38aa2b1c41f",
+          "amount": 6405000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380 44 422 01 94",
+                "name": "Наталья Лукошко",
+                "email": "primeform2013@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39012343",
+                "legalName": "ТОВ \"ПРАЙМФОРМ\""
+              },
+              "name": "ТОВ \"ПРАЙМФОРМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03113",
+                "region": "Киевская",
+                "streetAddress": "г. Киев, проспект Победы, 62-Б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T17:57:39.303214+03:00"
+        },
+        {
+          "bidder": "9d4c8edcfe4240ef9d4898e944748a75",
+          "amount": 6402000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503841890",
+                "name": "Анна Огаренко",
+                "email": "info@olteks.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30435050",
+                "legalName": "ООО \"Олтекс\""
+              },
+              "name": "ООО \"Олтекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Киев, Александровская, 45",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T17:08:53.541850+03:00"
+        },
+        {
+          "bidder": "7cb15c5f30c64ea480a969554bfe5105",
+          "amount": 5593440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674467686",
+                "name": "Людмила Гафтанюк",
+                "email": "gaftanuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38241466",
+                "legalName": "ТОВ \"Торговий дім \"Ярунь\"\""
+              },
+              "name": "ТОВ \"Торговий дім \"Ярунь\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03151",
+                "region": "Киевская",
+                "streetAddress": "вул. Народного Ополчення 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T16:38:35.573006+03:00"
+        },
+        {
+          "bidder": "941623c9cf834fe79592f68ffeb91040",
+          "amount": 4487760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503274508",
+                "name": "Товариство з обмеженою відповідальністю \"КИЇВЛЕГПРОМ\"",
+                "email": "promen4x4@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39504698",
+                "legalName": "Товариство з обмеженою відповідальністю \"КИЇВЛЕГПРОМ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КИЇВЛЕГПРОМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03057, м. Київ, пр-т Перемоги, б. 45, оф. 87.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T15:44:27.102429+03:00"
+        }
+      ],
+      "time": "2015-08-17T13:09:01.008077+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-14T16:21:47.290000+03:00",
+          "amount": 6504000.0,
+          "bidder": "11fc29e9f562487ca08650b1f3c697f5"
+        },
+        {
+          "date": "2015-08-14T17:57:39.303214+03:00",
+          "amount": 6405000.0,
+          "bidder": "0d31e2e57156423ca1bbd38aa2b1c41f"
+        },
+        {
+          "date": "2015-08-14T17:08:53.541850+03:00",
+          "amount": 6402000.0,
+          "bidder": "9d4c8edcfe4240ef9d4898e944748a75"
+        },
+        {
+          "date": "2015-08-14T16:38:35.573006+03:00",
+          "amount": 5593440.0,
+          "bidder": "7cb15c5f30c64ea480a969554bfe5105"
+        },
+        {
+          "date": "2015-08-13T15:32:52.273838+03:00",
+          "amount": 4552800.0,
+          "bidder": "941623c9cf834fe79592f68ffeb91040"
+        }
+      ],
+      "time": "2015-08-17T12:30:00.003130+00:00"
+    }
+  },
+  "id": "39fe5b7865cb4286899199b635d1b69b",
+  "tenderId": "UA-2015-08-07-000040"
+}

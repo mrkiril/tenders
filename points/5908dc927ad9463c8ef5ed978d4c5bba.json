@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e8abe36872ee4d778c57a1c956bdc18b",
+        "time": "2015-11-18T12:49:43.011501+00:00"
+      },
+      "turn_3": {
+        "bidder": "e3fa50abc6d64a93a49b4f7747feb769",
+        "time": "2015-11-18T12:51:43.012293+00:00"
+      },
+      "turn_1": {
+        "bidder": "798c1bbfe9d047ce877f61a6eefe72da",
+        "time": "2015-11-18T12:47:43.012563+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e8abe36872ee4d778c57a1c956bdc18b",
+        "time": "2015-11-18T12:57:43.008680+00:00"
+      },
+      "turn_3": {
+        "bidder": "e3fa50abc6d64a93a49b4f7747feb769",
+        "time": "2015-11-18T12:59:43.010500+00:00"
+      },
+      "turn_1": {
+        "bidder": "798c1bbfe9d047ce877f61a6eefe72da",
+        "time": "2015-11-18T12:55:43.019976+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2398.0,
+        "bid_time": "2015-11-18T14:40:04.204581+02:00",
+        "bidder": "e3fa50abc6d64a93a49b4f7747feb769",
+        "time": "2015-11-18T12:41:43.019290+00:00"
+      },
+      "turn_3": {
+        "bidder": "e8abe36872ee4d778c57a1c956bdc18b",
+        "time": "2015-11-18T12:43:43.011974+00:00"
+      },
+      "turn_1": {
+        "bidder": "798c1bbfe9d047ce877f61a6eefe72da",
+        "time": "2015-11-18T12:39:43.008641+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "798c1bbfe9d047ce877f61a6eefe72da",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380562343333",
+                "telephone": "380562343333",
+                "name": "Попов Андрей Евгеньевич",
+                "email": "admin@csa.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24436021",
+                "legalName": "Товариство з обмеженою відповідальністю \"Комп'ютерні Системи\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Комп'ютерні Системи\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "вул. Плеханова 15а",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-16T16:59:33.672940+02:00"
+        },
+        {
+          "bidder": "e8abe36872ee4d778c57a1c956bdc18b",
+          "amount": 2399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675177705",
+                "name": "Виталий Терещенко",
+                "email": "amazon.ca.ukr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37758457",
+                "legalName": "ТОВ \"Форса-Украина\""
+              },
+              "name": "ТОВ \"Форса-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "вул. Лучева, 19",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:31:39.993686+02:00"
+        },
+        {
+          "bidder": "e3fa50abc6d64a93a49b4f7747feb769",
+          "amount": 2398.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:40:04.204581+02:00"
+        }
+      ],
+      "time": "2015-11-18T12:59:45.795354+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T16:59:33.672940+02:00",
+          "amount": 2500.0,
+          "bidder": "798c1bbfe9d047ce877f61a6eefe72da"
+        },
+        {
+          "date": "2015-11-13T07:06:57.568640+02:00",
+          "amount": 2431.0,
+          "bidder": "e3fa50abc6d64a93a49b4f7747feb769"
+        },
+        {
+          "date": "2015-11-16T13:31:39.993686+02:00",
+          "amount": 2399.0,
+          "bidder": "e8abe36872ee4d778c57a1c956bdc18b"
+        }
+      ],
+      "time": "2015-11-18T12:32:43.002277+00:00"
+    }
+  },
+  "id": "5908dc927ad9463c8ef5ed978d4c5bba",
+  "tenderId": "UA-2015-11-09-000045"
+}

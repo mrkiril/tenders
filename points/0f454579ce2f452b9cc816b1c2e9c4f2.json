@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8b1f9c579bbe402d8388e52468a31752",
+        "time": "2015-12-15T12:23:36.008739+00:00"
+      },
+      "turn_1": {
+        "bidder": "b4d8e0dbb4014ea49b1af854f22e79e2",
+        "time": "2015-12-15T12:21:36.010135+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8b1f9c579bbe402d8388e52468a31752",
+        "time": "2015-12-15T12:29:36.007169+00:00"
+      },
+      "turn_1": {
+        "amount": 9787.0,
+        "bid_time": "2015-12-15T14:26:49.537271+02:00",
+        "bidder": "b4d8e0dbb4014ea49b1af854f22e79e2",
+        "time": "2015-12-15T12:27:36.009122+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8b1f9c579bbe402d8388e52468a31752",
+        "time": "2015-12-15T12:17:36.008112+00:00"
+      },
+      "turn_1": {
+        "amount": 9910.0,
+        "bid_time": "2015-12-15T14:13:53.674560+02:00",
+        "bidder": "b4d8e0dbb4014ea49b1af854f22e79e2",
+        "time": "2015-12-15T12:15:36.010341+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8b1f9c579bbe402d8388e52468a31752",
+          "amount": 9878.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445361175",
+                "name": "Марія",
+                "email": "podpiska1@prescentr.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ПресЦентр Київ\"",
+                "id": "34809613",
+                "uri": "http://www.prescentr.kiev.ua/"
+              },
+              "name": "ТОВ \"ПресЦентр Київ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03150",
+                "region": "Киевская",
+                "streetAddress": "м. Київ",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:06:49.062200+02:00"
+        },
+        {
+          "bidder": "b4d8e0dbb4014ea49b1af854f22e79e2",
+          "amount": 9787.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://periodik.com.ua",
+                "faxNumber": "+380445853165",
+                "telephone": "+380981045431",
+                "name": "Козій Наталія Вікторівна",
+                "email": "alex@periodik.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23700220"
+              },
+              "name": "ТОВ \"Фірма\"Періодика\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "01042, м. Київ, бул. Дружби Народів, 9",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:26:49.537271+02:00"
+        }
+      ],
+      "time": "2015-12-15T12:29:36.995282+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T12:59:26.431660+02:00",
+          "amount": 11934.46,
+          "bidder": "b4d8e0dbb4014ea49b1af854f22e79e2"
+        },
+        {
+          "date": "2015-12-11T13:06:49.062200+02:00",
+          "amount": 9878.32,
+          "bidder": "8b1f9c579bbe402d8388e52468a31752"
+        }
+      ],
+      "time": "2015-12-15T12:08:36.003824+00:00"
+    }
+  },
+  "id": "0f454579ce2f452b9cc816b1c2e9c4f2",
+  "tenderId": "UA-2015-12-09-000004-b"
+}

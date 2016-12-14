@@ -1,0 +1,215 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "79f3a84c525b4f879b56164011346fd0",
+        "time": "2015-12-17T09:26:10.011497+00:00"
+      },
+      "turn_2": {
+        "amount": 7315.0,
+        "bid_time": "2015-12-17T11:21:44.364428+02:00",
+        "bidder": "2df4f94466d44c9f842249722300b2e7",
+        "time": "2015-12-17T09:22:10.015074+00:00"
+      },
+      "turn_3": {
+        "bidder": "a336874127be4efcaa6f5b3d74ac135b",
+        "time": "2015-12-17T09:24:10.011271+00:00"
+      },
+      "turn_1": {
+        "amount": 8900.0,
+        "bid_time": "2015-12-17T11:18:19.848521+02:00",
+        "bidder": "58cf4b3ce06a47acb358cb7284cf86a7",
+        "time": "2015-12-17T09:20:10.011593+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 7203.0,
+        "bid_time": "2015-12-17T11:35:42.807529+02:00",
+        "bidder": "2df4f94466d44c9f842249722300b2e7",
+        "time": "2015-12-17T09:36:10.011961+00:00"
+      },
+      "turn_2": {
+        "amount": 7300.0,
+        "bid_time": "2015-12-17T11:30:39.824047+02:00",
+        "bidder": "a336874127be4efcaa6f5b3d74ac135b",
+        "time": "2015-12-17T09:32:10.012189+00:00"
+      },
+      "turn_3": {
+        "bidder": "79f3a84c525b4f879b56164011346fd0",
+        "time": "2015-12-17T09:34:10.012346+00:00"
+      },
+      "turn_1": {
+        "amount": 8500.0,
+        "bid_time": "2015-12-17T11:29:13.756171+02:00",
+        "bidder": "58cf4b3ce06a47acb358cb7284cf86a7",
+        "time": "2015-12-17T09:30:10.018077+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "a336874127be4efcaa6f5b3d74ac135b",
+        "time": "2015-12-17T09:16:10.010910+00:00"
+      },
+      "turn_2": {
+        "bidder": "2df4f94466d44c9f842249722300b2e7",
+        "time": "2015-12-17T09:12:10.012423+00:00"
+      },
+      "turn_3": {
+        "amount": 7400.0,
+        "bid_time": "2015-12-17T11:13:57.673072+02:00",
+        "bidder": "79f3a84c525b4f879b56164011346fd0",
+        "time": "2015-12-17T09:14:10.013408+00:00"
+      },
+      "turn_1": {
+        "amount": 9145.0,
+        "bid_time": "2015-12-17T11:09:00.589031+02:00",
+        "bidder": "58cf4b3ce06a47acb358cb7284cf86a7",
+        "time": "2015-12-17T09:10:10.011654+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "58cf4b3ce06a47acb358cb7284cf86a7",
+          "amount": 8500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38067 220 33 02",
+                "name": "Елена Знайко",
+                "email": "tsemidko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2882017422",
+                "legalName": "ФОП \"Семидко Татьяна Николаевна\""
+              },
+              "name": "ФОП \"Семидко Татьяна Николаевна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "30532",
+                "region": "Хмельницкая",
+                "streetAddress": "01042, г.Киев, ул.Чигорина 18.",
+                "locality": "Полонський район,с.Дубовый Гай, ул. Центральная,48"
+              }
+            }
+          ],
+          "time": "2015-12-17T11:29:13.756171+02:00"
+        },
+        {
+          "bidder": "79f3a84c525b4f879b56164011346fd0",
+          "amount": 7400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T11:13:57.673072+02:00"
+        },
+        {
+          "bidder": "a336874127be4efcaa6f5b3d74ac135b",
+          "amount": 7300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T11:30:39.824047+02:00"
+        },
+        {
+          "bidder": "2df4f94466d44c9f842249722300b2e7",
+          "amount": 7203.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://medpostach.com.ua",
+                "faxNumber": "+380442251550",
+                "telephone": "+380443381550",
+                "name": "Кириченко Людмила Павлівна",
+                "email": "olartrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38792792"
+              },
+              "name": "ТОВ ОЛАРТРЕЙД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03061",
+                "region": "Київська область",
+                "streetAddress": "вул.Шепелєва Миколи, будинок № 6",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T11:35:42.807529+02:00"
+        }
+      ],
+      "time": "2015-12-17T09:36:11.829907+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T21:44:26.428819+02:00",
+          "amount": 9482.8,
+          "bidder": "58cf4b3ce06a47acb358cb7284cf86a7"
+        },
+        {
+          "date": "2015-12-15T20:39:25.843148+02:00",
+          "amount": 8301.3,
+          "bidder": "2df4f94466d44c9f842249722300b2e7"
+        },
+        {
+          "date": "2015-12-16T09:08:08.644048+02:00",
+          "amount": 8000.0,
+          "bidder": "79f3a84c525b4f879b56164011346fd0"
+        },
+        {
+          "date": "2015-12-15T16:44:27.431156+02:00",
+          "amount": 7500.0,
+          "bidder": "a336874127be4efcaa6f5b3d74ac135b"
+        }
+      ],
+      "time": "2015-12-17T09:03:10.004540+00:00"
+    }
+  },
+  "id": "07d3349ec5704b769db8a8f781fb6ae8",
+  "tenderId": "UA-2015-12-14-000169-a"
+}

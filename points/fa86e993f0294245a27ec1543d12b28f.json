@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 38750.0,
+        "bid_time": "2015-08-28T11:14:54.220154+03:00",
+        "bidder": "5faf110393a14f65b5b3d79cf1d6b1f8",
+        "time": "2015-08-28T08:15:00.074829+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b9bb0bcadfe4341ad5abf7066d5e96f",
+        "time": "2015-08-28T08:13:00.078232+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 38700.0,
+        "bid_time": "2015-08-28T11:19:19.514079+03:00",
+        "bidder": "5faf110393a14f65b5b3d79cf1d6b1f8",
+        "time": "2015-08-28T08:21:00.089914+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b9bb0bcadfe4341ad5abf7066d5e96f",
+        "time": "2015-08-28T08:19:00.070886+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 38800.0,
+        "bid_time": "2015-08-28T11:08:03.336636+03:00",
+        "bidder": "5faf110393a14f65b5b3d79cf1d6b1f8",
+        "time": "2015-08-28T08:09:00.043237+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b9bb0bcadfe4341ad5abf7066d5e96f",
+        "time": "2015-08-28T08:07:00.081540+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9b9bb0bcadfe4341ad5abf7066d5e96f",
+          "amount": 39978.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676300452",
+                "name": "Игорь Кухарь",
+                "email": "svetlovodsk_mebel@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2959011296",
+                "legalName": "ФОП \"Печений Володимир Борисович\""
+              },
+              "name": "ФОП \"Печений Володимир Борисович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "27500",
+                "region": "Кировоградская",
+                "streetAddress": "27500 Кіровоградська обл. м.Світловодськ вул.9 Січня буд.100/А кв.4",
+                "locality": "Светловодск"
+              }
+            }
+          ],
+          "time": "2015-08-28T09:40:17.656407+03:00"
+        },
+        {
+          "bidder": "5faf110393a14f65b5b3d79cf1d6b1f8",
+          "amount": 38700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elkondiz.com/",
+                "faxNumber": "+380487895815",
+                "telephone": "+380676316675",
+                "name": "Крутік Валерій Іванович",
+                "email": "elkondiz-kru@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32153207"
+              },
+              "name": "ПГОІ \"Елкон-Дізайн\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65043",
+                "region": "Одеська область",
+                "streetAddress": "Одеса, вул. Толбухіна, 135, корп. 11;",
+                "locality": "місто"
+              }
+            }
+          ],
+          "time": "2015-08-28T11:19:19.514079+03:00"
+        }
+      ],
+      "time": "2015-08-28T08:21:05.563205+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-28T09:40:17.656407+03:00",
+          "amount": 39978.0,
+          "bidder": "9b9bb0bcadfe4341ad5abf7066d5e96f"
+        },
+        {
+          "date": "2015-08-28T09:51:58.529389+03:00",
+          "amount": 38850.0,
+          "bidder": "5faf110393a14f65b5b3d79cf1d6b1f8"
+        }
+      ],
+      "time": "2015-08-28T08:00:00.031945+00:00"
+    }
+  },
+  "id": "fa86e993f0294245a27ec1543d12b28f",
+  "tenderId": "UA-2015-08-17-000013"
+}

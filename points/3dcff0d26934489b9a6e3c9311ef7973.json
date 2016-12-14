@@ -1,0 +1,218 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 6166.0,
+        "bid_time": "2015-05-18T11:21:47.314244+03:00",
+        "bidder": "c5517aaed9f24aac83ffefb81f330c56",
+        "time": "2015-05-18T08:23:00.134327+00:00"
+      },
+      "turn_2": {
+        "amount": 6190.0,
+        "bid_time": "2015-05-18T11:18:46.373249+03:00",
+        "bidder": "9a07fd994f614b1ea24bf578708e963e",
+        "time": "2015-05-18T08:19:00.258792+00:00"
+      },
+      "turn_3": {
+        "amount": 6249.0,
+        "bid_time": "2015-05-18T11:19:43.770712+03:00",
+        "bidder": "8e64155c48a54bd98eea5ae683ecd852",
+        "time": "2015-05-18T08:21:00.096587+00:00"
+      },
+      "turn_1": {
+        "amount": 6250.0,
+        "bid_time": "2015-05-18T11:16:58.818652+03:00",
+        "bidder": "a9ba47ca455642e79f8b848c10abf481",
+        "time": "2015-05-18T08:17:00.291180+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "c5517aaed9f24aac83ffefb81f330c56",
+        "time": "2015-05-18T08:33:00.057005+00:00"
+      },
+      "turn_2": {
+        "bidder": "8e64155c48a54bd98eea5ae683ecd852",
+        "time": "2015-05-18T08:29:00.077543+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a07fd994f614b1ea24bf578708e963e",
+        "time": "2015-05-18T08:31:00.088290+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9ba47ca455642e79f8b848c10abf481",
+        "time": "2015-05-18T08:27:00.034588+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 6316.0,
+        "bid_time": "2015-05-18T11:11:16.066811+03:00",
+        "bidder": "c5517aaed9f24aac83ffefb81f330c56",
+        "time": "2015-05-18T08:13:00.096210+00:00"
+      },
+      "turn_2": {
+        "bidder": "a9ba47ca455642e79f8b848c10abf481",
+        "time": "2015-05-18T08:09:00.164404+00:00"
+      },
+      "turn_3": {
+        "amount": 6405.0,
+        "bid_time": "2015-05-18T11:09:33.854976+03:00",
+        "bidder": "8e64155c48a54bd98eea5ae683ecd852",
+        "time": "2015-05-18T08:11:00.205895+00:00"
+      },
+      "turn_1": {
+        "amount": 6499.0,
+        "bid_time": "2015-05-18T11:05:11.741355+03:00",
+        "bidder": "9a07fd994f614b1ea24bf578708e963e",
+        "time": "2015-05-18T08:07:00.086924+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a9ba47ca455642e79f8b848c10abf481",
+          "amount": 6250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elit.kherson.ua/",
+                "faxNumber": "492902",
+                "telephone": "0507294987",
+                "name": "ЧП Элит-Сервис",
+                "email": "office@elit.kherson.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31047384",
+                "legalName": "ЧП Элит-Сервис"
+              },
+              "name": "ЧП Элит-Сервис",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "смт. Антоновка,ул. Крайняя 43",
+                "locality": "Херсон"
+              }
+            }
+          ],
+          "time": "2015-05-18T11:16:58.818652+03:00"
+        },
+        {
+          "bidder": "8e64155c48a54bd98eea5ae683ecd852",
+          "amount": 6249.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-18T11:19:43.770712+03:00"
+        },
+        {
+          "bidder": "9a07fd994f614b1ea24bf578708e963e",
+          "amount": 6190.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-05-18T11:18:46.373249+03:00"
+        },
+        {
+          "bidder": "c5517aaed9f24aac83ffefb81f330c56",
+          "amount": 6166.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://amica.kiev.ua/",
+                "faxNumber": "",
+                "telephone": "",
+                "name": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»",
+                "email": "ob@amica.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38977500",
+                "legalName": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»"
+              },
+              "name": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04107",
+                "region": "Київська",
+                "streetAddress": "вул. Отто - Шмідта,  35-37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-05-18T11:21:47.314244+03:00"
+        }
+      ],
+      "time": "2015-05-18T08:33:06.872028+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-12T15:05:35.581486+03:00",
+          "amount": 7380.0,
+          "bidder": "9a07fd994f614b1ea24bf578708e963e"
+        },
+        {
+          "date": "2015-05-14T14:22:45.895661+03:00",
+          "amount": 7000.0,
+          "bidder": "a9ba47ca455642e79f8b848c10abf481"
+        },
+        {
+          "date": "2015-05-15T10:40:51.871766+03:00",
+          "amount": 6555.0,
+          "bidder": "8e64155c48a54bd98eea5ae683ecd852"
+        },
+        {
+          "date": "2015-05-14T12:03:34.763847+03:00",
+          "amount": 6500.0,
+          "bidder": "c5517aaed9f24aac83ffefb81f330c56"
+        }
+      ],
+      "time": "2015-05-18T08:00:00.026145+00:00"
+    }
+  },
+  "id": "3dcff0d26934489b9a6e3c9311ef7973",
+  "tenderId": "UA-2015-05-07-000003"
+}

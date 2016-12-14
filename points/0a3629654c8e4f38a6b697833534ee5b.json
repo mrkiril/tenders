@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 510.0,
+        "bid_time": "2015-10-15T12:55:18.086663+03:00",
+        "bidder": "e9772d0a106a4e419c66453f8340f6bf",
+        "time": "2015-10-15T09:57:04.011817+00:00"
+      },
+      "turn_3": {
+        "bidder": "834aeebd304b4c79a48c154a101c1740",
+        "time": "2015-10-15T09:59:04.007152+00:00"
+      },
+      "turn_1": {
+        "bidder": "73ce8cb75cc7462f925da86533a48b5d",
+        "time": "2015-10-15T09:55:04.008059+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 500.0,
+        "bid_time": "2015-10-15T13:04:43.392561+03:00",
+        "bidder": "834aeebd304b4c79a48c154a101c1740",
+        "time": "2015-10-15T10:05:04.009201+00:00"
+      },
+      "turn_3": {
+        "amount": 498.0,
+        "bid_time": "2015-10-15T13:06:41.205271+03:00",
+        "bidder": "e9772d0a106a4e419c66453f8340f6bf",
+        "time": "2015-10-15T10:07:04.008054+00:00"
+      },
+      "turn_1": {
+        "bidder": "73ce8cb75cc7462f925da86533a48b5d",
+        "time": "2015-10-15T10:03:04.009025+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 534.0,
+        "bid_time": "2015-10-15T12:48:41.427657+03:00",
+        "bidder": "834aeebd304b4c79a48c154a101c1740",
+        "time": "2015-10-15T09:49:04.009045+00:00"
+      },
+      "turn_3": {
+        "bidder": "e9772d0a106a4e419c66453f8340f6bf",
+        "time": "2015-10-15T09:51:04.007752+00:00"
+      },
+      "turn_1": {
+        "bidder": "73ce8cb75cc7462f925da86533a48b5d",
+        "time": "2015-10-15T09:47:04.007370+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "73ce8cb75cc7462f925da86533a48b5d",
+          "amount": 772.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674104592",
+                "name": "Євтушенко Олексій Володимирович",
+                "email": "iakunkin@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3029623372"
+              },
+              "name": "ФОП Евтушенко Олексій Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02091",
+                "region": "Київська область",
+                "streetAddress": "м.Київ,вулиця Тростянецька,будинок 6,квартира 384",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-13T16:31:09.882191+03:00"
+        },
+        {
+          "bidder": "834aeebd304b4c79a48c154a101c1740",
+          "amount": 500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-15T13:04:43.392561+03:00"
+        },
+        {
+          "bidder": "e9772d0a106a4e419c66453f8340f6bf",
+          "amount": 498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.voles.com.ua",
+                "telephone": "+380445811148",
+                "name": "Матвєєнко Наталія Анатоліївна",
+                "email": "melnichuk.fedor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39017032"
+              },
+              "name": "ТОВ Волес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "пр-т. Героїв Сталінграда 2Г, корп. 1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-15T13:06:41.205271+03:00"
+        }
+      ],
+      "time": "2015-10-15T10:07:21.108230+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T16:31:09.882191+03:00",
+          "amount": 772.0,
+          "bidder": "73ce8cb75cc7462f925da86533a48b5d"
+        },
+        {
+          "date": "2015-10-09T09:17:29.655112+03:00",
+          "amount": 642.0,
+          "bidder": "834aeebd304b4c79a48c154a101c1740"
+        },
+        {
+          "date": "2015-10-08T19:13:09.761628+03:00",
+          "amount": 535.0,
+          "bidder": "e9772d0a106a4e419c66453f8340f6bf"
+        }
+      ],
+      "time": "2015-10-15T09:40:04.002951+00:00"
+    }
+  },
+  "id": "0a3629654c8e4f38a6b697833534ee5b",
+  "tenderId": "UA-2015-09-29-000057"
+}

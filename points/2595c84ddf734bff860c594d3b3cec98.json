@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "36683587d97040b2b201f886563ffc85",
+        "time": "2015-10-27T09:22:41.007408+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a4dfb1eca504a24867d395f21dbcbb0",
+        "time": "2015-10-27T09:24:41.006282+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afd570316e44cefad096d570649b024",
+        "time": "2015-10-27T09:20:41.007429+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "36683587d97040b2b201f886563ffc85",
+        "time": "2015-10-27T09:30:41.006365+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a4dfb1eca504a24867d395f21dbcbb0",
+        "time": "2015-10-27T09:32:41.013210+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afd570316e44cefad096d570649b024",
+        "time": "2015-10-27T09:28:41.009476+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "36683587d97040b2b201f886563ffc85",
+        "time": "2015-10-27T09:14:41.007775+00:00"
+      },
+      "turn_3": {
+        "bidder": "9a4dfb1eca504a24867d395f21dbcbb0",
+        "time": "2015-10-27T09:16:41.007624+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afd570316e44cefad096d570649b024",
+        "time": "2015-10-27T09:12:41.009693+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7afd570316e44cefad096d570649b024",
+          "amount": 7425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957950540",
+                "name": "Олександр",
+                "email": "v.luba.82@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35261804",
+                "legalName": "ПП \"ГРУПА КОМПАНІЙ СПАРТА\""
+              },
+              "name": "ПП \"ГРУПА КОМПАНІЙ СПАРТА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02091",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Харківське шосе, буд. 56, к. 434",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T11:24:04.624014+03:00"
+        },
+        {
+          "bidder": "36683587d97040b2b201f886563ffc85",
+          "amount": 7425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442292765",
+                "name": "Віталій",
+                "email": "info@optb.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36272665",
+                "legalName": "ПП \"ТЕРИТОРІЯ ОХОРОНИ\""
+              },
+              "name": "ПП \"ТЕРИТОРІЯ ОХОРОНИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02081",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Олени Пчілки, 2-Б, к. 501",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T11:22:10.915572+03:00"
+        },
+        {
+          "bidder": "9a4dfb1eca504a24867d395f21dbcbb0",
+          "amount": 7425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445319363",
+                "name": "Любов",
+                "email": "vlubav@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33099853",
+                "legalName": "ПП \"ГРУПА-ШЕРИФ\""
+              },
+              "name": "ПП \"ГРУПА-ШЕРИФ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Поліська, 22, к. 126",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T11:18:26.921697+03:00"
+        }
+      ],
+      "time": "2015-10-27T09:32:44.708793+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T11:18:26.921697+03:00",
+          "amount": 7425.0,
+          "bidder": "9a4dfb1eca504a24867d395f21dbcbb0"
+        },
+        {
+          "date": "2015-10-23T11:22:10.915572+03:00",
+          "amount": 7425.0,
+          "bidder": "36683587d97040b2b201f886563ffc85"
+        },
+        {
+          "date": "2015-10-23T11:24:04.624014+03:00",
+          "amount": 7425.0,
+          "bidder": "7afd570316e44cefad096d570649b024"
+        }
+      ],
+      "time": "2015-10-27T09:05:41.002768+00:00"
+    }
+  },
+  "id": "2595c84ddf734bff860c594d3b3cec98",
+  "tenderId": "UA-2015-10-20-000270"
+}

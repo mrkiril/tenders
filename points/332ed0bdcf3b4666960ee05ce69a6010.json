@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5676e46dd41c483ab12e8132f00a5a2a",
+        "time": "2015-12-14T09:56:12.007451+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c6eb8e19ccd412aae85aa60ff6df4c4",
+        "time": "2015-12-14T09:54:12.007693+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5676e46dd41c483ab12e8132f00a5a2a",
+        "time": "2015-12-14T10:02:12.010305+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c6eb8e19ccd412aae85aa60ff6df4c4",
+        "time": "2015-12-14T10:00:12.008816+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5676e46dd41c483ab12e8132f00a5a2a",
+        "time": "2015-12-14T09:50:12.007724+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c6eb8e19ccd412aae85aa60ff6df4c4",
+        "time": "2015-12-14T09:48:12.008224+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c6eb8e19ccd412aae85aa60ff6df4c4",
+          "amount": 4759.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380680910004",
+                "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+                "email": "nvp.himprodukt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39517560",
+                "legalName": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "03148, м.Київ, вул. Жмеринська,5",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T16:55:39.190569+02:00"
+        },
+        {
+          "bidder": "5676e46dd41c483ab12e8132f00a5a2a",
+          "amount": 3974.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380953680751",
+                "name": "ООО \"Тракпартс\"",
+                "email": "truckparts.dnepr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37017643",
+                "legalName": "ООО \"Тракпартс\""
+              },
+              "name": "ООО \"Тракпартс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T15:19:04.547629+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:02:17.975387+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T16:55:39.190569+02:00",
+          "amount": 4759.2,
+          "bidder": "6c6eb8e19ccd412aae85aa60ff6df4c4"
+        },
+        {
+          "date": "2015-12-10T15:19:04.547629+02:00",
+          "amount": 3974.4,
+          "bidder": "5676e46dd41c483ab12e8132f00a5a2a"
+        }
+      ],
+      "time": "2015-12-14T09:41:12.002251+00:00"
+    }
+  },
+  "id": "332ed0bdcf3b4666960ee05ce69a6010",
+  "tenderId": "UA-2015-12-01-000005"
+}

@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b80ee8c14adb4232ae4f17097ef86f0a",
+        "time": "2015-10-05T12:30:57.007025+00:00"
+      },
+      "turn_3": {
+        "bidder": "cb8d2cca891642cb8de2d48b61ec2ed2",
+        "time": "2015-10-05T12:32:57.006629+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e29ccda71f4623bf8ad64ebc1b3024",
+        "time": "2015-10-05T12:28:57.007558+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b80ee8c14adb4232ae4f17097ef86f0a",
+        "time": "2015-10-05T12:38:57.006533+00:00"
+      },
+      "turn_3": {
+        "bidder": "cb8d2cca891642cb8de2d48b61ec2ed2",
+        "time": "2015-10-05T12:40:57.008732+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e29ccda71f4623bf8ad64ebc1b3024",
+        "time": "2015-10-05T12:36:57.007145+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b80ee8c14adb4232ae4f17097ef86f0a",
+        "time": "2015-10-05T12:22:57.007714+00:00"
+      },
+      "turn_3": {
+        "bidder": "cb8d2cca891642cb8de2d48b61ec2ed2",
+        "time": "2015-10-05T12:24:57.008022+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e29ccda71f4623bf8ad64ebc1b3024",
+        "time": "2015-10-05T12:20:57.008491+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6e29ccda71f4623bf8ad64ebc1b3024",
+          "amount": 68100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445017585",
+                "name": "Марьян  Струк",
+                "email": "struk@electrocontract.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32620008",
+                "legalName": "ТОВ \"ЕЛЕКТРОКОНТРАКТ\""
+              },
+              "name": "ТОВ \"ЕЛЕКТРОКОНТРАКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04050",
+                "region": "Киевская",
+                "streetAddress": "вул., Герцена,17-25, нежиле приміщення №30",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-05T09:50:32.554127+03:00"
+        },
+        {
+          "bidder": "b80ee8c14adb4232ae4f17097ef86f0a",
+          "amount": 66450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445034521",
+                "name": "Карина Запорожец",
+                "email": "karina_z@d-e.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35620131",
+                "legalName": "ТОВ \"ДІСЕЛ ІНЖИНІРИНГ\""
+              },
+              "name": "ТОВ \"ДІСЕЛ ІНЖИНІРИНГ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03058",
+                "region": "Киевская",
+                "streetAddress": "вул. Ніжинська, буд.7, оф.57",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T16:39:08.252739+03:00"
+        },
+        {
+          "bidder": "cb8d2cca891642cb8de2d48b61ec2ed2",
+          "amount": 50000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-30T12:46:47.851586+03:00"
+        }
+      ],
+      "time": "2015-10-05T12:41:02.049861+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T09:50:32.554127+03:00",
+          "amount": 68100.0,
+          "bidder": "b6e29ccda71f4623bf8ad64ebc1b3024"
+        },
+        {
+          "date": "2015-10-02T16:39:08.252739+03:00",
+          "amount": 66450.0,
+          "bidder": "b80ee8c14adb4232ae4f17097ef86f0a"
+        },
+        {
+          "date": "2015-09-30T12:46:47.851586+03:00",
+          "amount": 50000.0,
+          "bidder": "cb8d2cca891642cb8de2d48b61ec2ed2"
+        }
+      ],
+      "time": "2015-10-05T12:13:57.003828+00:00"
+    }
+  },
+  "id": "17689721686d4d2193ca563081269f07",
+  "tenderId": "UA-2015-09-18-000021"
+}

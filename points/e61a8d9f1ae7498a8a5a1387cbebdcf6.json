@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d503c32d7346433b9179ba60747e5787",
+        "time": "2015-08-26T08:17:00.053040+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc2e37486cf94da6804763e9aed95640",
+        "time": "2015-08-26T08:19:00.043592+00:00"
+      },
+      "turn_1": {
+        "amount": 216568.19,
+        "bid_time": "2015-08-26T11:13:41.511063+03:00",
+        "bidder": "17ce6982b5504cdfb5d75a79209bdcf9",
+        "time": "2015-08-26T08:15:00.061047+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d503c32d7346433b9179ba60747e5787",
+        "time": "2015-08-26T08:25:00.019983+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc2e37486cf94da6804763e9aed95640",
+        "time": "2015-08-26T08:27:00.045923+00:00"
+      },
+      "turn_1": {
+        "bidder": "17ce6982b5504cdfb5d75a79209bdcf9",
+        "time": "2015-08-26T08:23:00.016849+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d503c32d7346433b9179ba60747e5787",
+        "time": "2015-08-26T08:09:00.049962+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc2e37486cf94da6804763e9aed95640",
+        "time": "2015-08-26T08:11:00.028231+00:00"
+      },
+      "turn_1": {
+        "bidder": "17ce6982b5504cdfb5d75a79209bdcf9",
+        "time": "2015-08-26T08:07:00.047295+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "17ce6982b5504cdfb5d75a79209bdcf9",
+          "amount": 216568.19,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503238677, +380676654348",
+                "name": "Дмитро",
+                "email": "lvk-zp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30693851",
+                "legalName": "ПП \"ЛВК\""
+              },
+              "name": "ПП \"ЛВК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "70002",
+                "region": "Запорожская",
+                "streetAddress": "",
+                "locality": "Вольнянск"
+              }
+            }
+          ],
+          "time": "2015-08-26T11:13:41.511063+03:00"
+        },
+        {
+          "bidder": "d503c32d7346433b9179ba60747e5787",
+          "amount": 196000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676121671",
+                "name": "Дмитрий Шмурин",
+                "email": "ekoresurs2009@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36705645",
+                "legalName": "ПП \"Эко Ресурс\""
+              },
+              "name": "ПП \"Эко Ресурс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "71701",
+                "region": "Запорожская",
+                "streetAddress": "Запорожская обл. Токмак, Шевченка 40\\97",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-08-20T14:46:29.539659+03:00"
+        },
+        {
+          "bidder": "bc2e37486cf94da6804763e9aed95640",
+          "amount": 196000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676121671",
+                "name": "Дмитрий",
+                "email": "dmitry_shmurin@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36705645",
+                "legalName": "ПП \"ЕкоРесурс\""
+              },
+              "name": "ПП \"ЕкоРесурс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "71701",
+                "region": "Запорожская",
+                "streetAddress": "Запорожская обл. Токмак, Шевченка 40\\97",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-08-19T15:34:23.946975+03:00"
+        }
+      ],
+      "time": "2015-08-26T08:27:04.036122+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-21T14:35:07.210622+03:00",
+          "amount": 220988.19,
+          "bidder": "17ce6982b5504cdfb5d75a79209bdcf9"
+        },
+        {
+          "date": "2015-08-19T15:34:23.946975+03:00",
+          "amount": 196000.0,
+          "bidder": "bc2e37486cf94da6804763e9aed95640"
+        },
+        {
+          "date": "2015-08-20T14:46:29.539659+03:00",
+          "amount": 196000.0,
+          "bidder": "d503c32d7346433b9179ba60747e5787"
+        }
+      ],
+      "time": "2015-08-26T08:00:00.008775+00:00"
+    }
+  },
+  "id": "e61a8d9f1ae7498a8a5a1387cbebdcf6",
+  "tenderId": "UA-2015-08-13-000075"
+}

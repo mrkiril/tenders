@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bab0abf49f5b44f49adfafe8e2360c02",
+        "time": "2015-11-26T09:18:59.009264+00:00"
+      },
+      "turn_3": {
+        "bidder": "2acdc09774bb4acc9a253c22941d4ee4",
+        "time": "2015-11-26T09:20:59.008015+00:00"
+      },
+      "turn_1": {
+        "bidder": "6684ec3f19ae4e44a0ee83551a4e5195",
+        "time": "2015-11-26T09:16:59.008737+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bab0abf49f5b44f49adfafe8e2360c02",
+        "time": "2015-11-26T09:26:59.009807+00:00"
+      },
+      "turn_3": {
+        "bidder": "2acdc09774bb4acc9a253c22941d4ee4",
+        "time": "2015-11-26T09:28:59.008138+00:00"
+      },
+      "turn_1": {
+        "bidder": "6684ec3f19ae4e44a0ee83551a4e5195",
+        "time": "2015-11-26T09:24:59.008903+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bab0abf49f5b44f49adfafe8e2360c02",
+        "time": "2015-11-26T09:10:59.011620+00:00"
+      },
+      "turn_3": {
+        "bidder": "2acdc09774bb4acc9a253c22941d4ee4",
+        "time": "2015-11-26T09:12:59.007829+00:00"
+      },
+      "turn_1": {
+        "bidder": "6684ec3f19ae4e44a0ee83551a4e5195",
+        "time": "2015-11-26T09:08:59.016326+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6684ec3f19ae4e44a0ee83551a4e5195",
+          "amount": 2499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.lbu.com.ua",
+                "telephone": "+380443603088",
+                "name": "ТОВ \"ЛБЮ-Тех\"",
+                "email": "maesrtro@lbu.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31245265",
+                "legalName": "ТОВ \"ЛБЮ-Тех\""
+              },
+              "name": "ТОВ \"ЛБЮ-Тех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "кв. 14, будинок 12, вул. Чигорина, м. Київ, 01042",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-25T15:47:08.129065+02:00"
+        },
+        {
+          "bidder": "bab0abf49f5b44f49adfafe8e2360c02",
+          "amount": 2450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ivelsy-led.com.ua",
+                "telephone": "+380503599440",
+                "name": "ТОВ \"Івелсі\"",
+                "email": "sales@ivelsy-led.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39460897",
+                "legalName": "ТОВ \"Івелсі\""
+              },
+              "name": "ТОВ \"Івелсі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070 г. Киев, ул. Волошская, 42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-24T15:54:19.330725+02:00"
+        },
+        {
+          "bidder": "2acdc09774bb4acc9a253c22941d4ee4",
+          "amount": 2300.77,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-19T10:54:51.475988+02:00"
+        }
+      ],
+      "time": "2015-11-26T09:29:00.307024+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T15:47:08.129065+02:00",
+          "amount": 2499.0,
+          "bidder": "6684ec3f19ae4e44a0ee83551a4e5195"
+        },
+        {
+          "date": "2015-11-24T15:54:19.330725+02:00",
+          "amount": 2450.0,
+          "bidder": "bab0abf49f5b44f49adfafe8e2360c02"
+        },
+        {
+          "date": "2015-11-19T10:54:51.475988+02:00",
+          "amount": 2300.77,
+          "bidder": "2acdc09774bb4acc9a253c22941d4ee4"
+        }
+      ],
+      "time": "2015-11-26T09:01:59.004962+00:00"
+    }
+  },
+  "id": "f247774a761040dc9fb14f93ad6b412b",
+  "tenderId": "UA-2015-11-05-000370"
+}

@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "6408250676d24eec9dc5d475cd12abab",
+        "time": "2015-10-20T11:27:40.008219+00:00"
+      },
+      "turn_2": {
+        "bidder": "9b10cefc640c4df7ada5000b740da5b5",
+        "time": "2015-10-20T11:23:40.006708+00:00"
+      },
+      "turn_3": {
+        "bidder": "4abbc7f1b6414cffb69cd8b8ea9b9d5d",
+        "time": "2015-10-20T11:25:40.006552+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a2e3bb1db95499995b9b36a5d51d30d",
+        "time": "2015-10-20T11:21:40.007347+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "6408250676d24eec9dc5d475cd12abab",
+        "time": "2015-10-20T11:37:40.006560+00:00"
+      },
+      "turn_2": {
+        "bidder": "9b10cefc640c4df7ada5000b740da5b5",
+        "time": "2015-10-20T11:33:40.007738+00:00"
+      },
+      "turn_3": {
+        "bidder": "4abbc7f1b6414cffb69cd8b8ea9b9d5d",
+        "time": "2015-10-20T11:35:40.006108+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a2e3bb1db95499995b9b36a5d51d30d",
+        "time": "2015-10-20T11:31:40.006548+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "6408250676d24eec9dc5d475cd12abab",
+        "time": "2015-10-20T11:17:40.006580+00:00"
+      },
+      "turn_2": {
+        "bidder": "9b10cefc640c4df7ada5000b740da5b5",
+        "time": "2015-10-20T11:13:40.006875+00:00"
+      },
+      "turn_3": {
+        "bidder": "4abbc7f1b6414cffb69cd8b8ea9b9d5d",
+        "time": "2015-10-20T11:15:40.007933+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a2e3bb1db95499995b9b36a5d51d30d",
+        "time": "2015-10-20T11:11:40.007478+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1a2e3bb1db95499995b9b36a5d51d30d",
+          "amount": 460.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ww.shlif.kh.ua",
+                "telephone": "+380577680422",
+                "name": "ТОВ \"ШЛІФ\"",
+                "email": "shlif.kh@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33122174",
+                "legalName": "ТОВ \"ШЛІФ\""
+              },
+              "name": "ТОВ \"ШЛІФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61038, м.Харків, вул. Камишева Івана,7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T09:41:31.130638+03:00"
+        },
+        {
+          "bidder": "9b10cefc640c4df7ada5000b740da5b5",
+          "amount": 416.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977374084, +380509405517",
+                "name": "Ігор Князь",
+                "email": "7374084@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2965205451",
+                "legalName": "ФОП \"Князь Ігор Миколайович\""
+              },
+              "name": "ФОП \"Князь Ігор Миколайович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61123",
+                "region": "Харьковская",
+                "streetAddress": "проспект Тракторобудівників, 85 А, кв. 42",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-19T10:43:45.023882+03:00"
+        },
+        {
+          "bidder": "4abbc7f1b6414cffb69cd8b8ea9b9d5d",
+          "amount": 400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380542775267",
+                "name": "ФОП Сіроштан Валентина Іванівна",
+                "email": "siroshtan.sumy@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2425505062",
+                "legalName": "ФОП Сіроштан Валентина Іванівна"
+              },
+              "name": "ФОП Сіроштан Валентина Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40000, Сумська область, вул.Дмитра Косаренка, будинок 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T16:52:30.649519+03:00"
+        },
+        {
+          "bidder": "6408250676d24eec9dc5d475cd12abab",
+          "amount": 378.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-18T15:12:02.880679+03:00"
+        }
+      ],
+      "time": "2015-10-20T11:37:42.252909+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T09:41:31.130638+03:00",
+          "amount": 460.0,
+          "bidder": "1a2e3bb1db95499995b9b36a5d51d30d"
+        },
+        {
+          "date": "2015-10-19T10:43:45.023882+03:00",
+          "amount": 416.0,
+          "bidder": "9b10cefc640c4df7ada5000b740da5b5"
+        },
+        {
+          "date": "2015-10-19T16:52:30.649519+03:00",
+          "amount": 400.0,
+          "bidder": "4abbc7f1b6414cffb69cd8b8ea9b9d5d"
+        },
+        {
+          "date": "2015-10-18T15:12:02.880679+03:00",
+          "amount": 378.0,
+          "bidder": "6408250676d24eec9dc5d475cd12abab"
+        }
+      ],
+      "time": "2015-10-20T11:04:40.003423+00:00"
+    }
+  },
+  "id": "82428e6b7ce54986b7959bc85c9a82e3",
+  "tenderId": "UA-2015-10-15-000134"
+}

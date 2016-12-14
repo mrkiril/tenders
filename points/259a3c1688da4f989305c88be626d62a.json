@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "19f437e56f0846b1aa8babc3c8a0d80f",
+        "time": "2015-10-16T09:23:20.007275+00:00"
+      },
+      "turn_1": {
+        "bidder": "2703362999d84416ae953edd0cbe86ba",
+        "time": "2015-10-16T09:21:20.009654+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "19f437e56f0846b1aa8babc3c8a0d80f",
+        "time": "2015-10-16T09:29:20.007117+00:00"
+      },
+      "turn_1": {
+        "bidder": "2703362999d84416ae953edd0cbe86ba",
+        "time": "2015-10-16T09:27:20.007413+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "19f437e56f0846b1aa8babc3c8a0d80f",
+        "time": "2015-10-16T09:17:20.008289+00:00"
+      },
+      "turn_1": {
+        "bidder": "2703362999d84416ae953edd0cbe86ba",
+        "time": "2015-10-16T09:15:20.008440+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2703362999d84416ae953edd0cbe86ba",
+          "amount": 6499800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503841890",
+                "name": "Анна Огаренко",
+                "email": "info@olteks.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30435050",
+                "legalName": "ООО \"Олтекс\""
+              },
+              "name": "ООО \"Олтекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Киев, Александровская, 45",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-15T09:59:25.184537+03:00"
+        },
+        {
+          "bidder": "19f437e56f0846b1aa8babc3c8a0d80f",
+          "amount": 6447000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412-418-692   , +380674117746",
+                "name": "Лариса Смоленец",
+                "email": "tov_tusmo@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13548679",
+                "legalName": "ТОВ \"ТУСМО\""
+              },
+              "name": "ТОВ \"ТУСМО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10006",
+                "region": "Житомирская",
+                "streetAddress": "ул.Денишовская,4",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-10-15T17:55:58.263160+03:00"
+        }
+      ],
+      "time": "2015-10-16T09:29:21.208394+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T09:59:25.184537+03:00",
+          "amount": 6499800.0,
+          "bidder": "2703362999d84416ae953edd0cbe86ba"
+        },
+        {
+          "date": "2015-10-15T17:55:58.263160+03:00",
+          "amount": 6447000.0,
+          "bidder": "19f437e56f0846b1aa8babc3c8a0d80f"
+        }
+      ],
+      "time": "2015-10-16T09:08:20.004587+00:00"
+    }
+  },
+  "id": "259a3c1688da4f989305c88be626d62a",
+  "tenderId": "UA-2015-10-07-000178"
+}

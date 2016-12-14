@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d6731f8279554d75b791b2ba02adb815",
+        "time": "2015-11-23T13:50:20.008884+00:00"
+      },
+      "turn_1": {
+        "bidder": "9aec1f8808b748ef893082d7689a9bf9",
+        "time": "2015-11-23T13:48:20.008559+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d6731f8279554d75b791b2ba02adb815",
+        "time": "2015-11-23T13:56:20.008640+00:00"
+      },
+      "turn_1": {
+        "bidder": "9aec1f8808b748ef893082d7689a9bf9",
+        "time": "2015-11-23T13:54:20.008315+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9aec1f8808b748ef893082d7689a9bf9",
+        "time": "2015-11-23T13:44:20.008840+00:00"
+      },
+      "turn_1": {
+        "amount": 14849.0,
+        "bid_time": "2015-11-23T15:41:46.109818+02:00",
+        "bidder": "d6731f8279554d75b791b2ba02adb815",
+        "time": "2015-11-23T13:42:20.010635+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9aec1f8808b748ef893082d7689a9bf9",
+          "amount": 14950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sashakopteva.com",
+                "faxNumber": "+380503157927",
+                "telephone": "+380503157927",
+                "name": "Коптєв Олексій Анатолійович",
+                "email": "sashacomp@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2313102432"
+              },
+              "name": "ФОП Коптєв Олексій Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73020",
+                "region": "Херсонська область",
+                "streetAddress": "ул.Фритаун 151/16",
+                "locality": "Херсон"
+              }
+            }
+          ],
+          "time": "2015-11-21T20:08:32.072833+02:00"
+        },
+        {
+          "bidder": "d6731f8279554d75b791b2ba02adb815",
+          "amount": 14849.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674295691",
+                "name": "Кутас Тетяна Петрівна",
+                "email": "Kutastp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2154114248",
+                "legalName": "Фізична особа-підприємець Кутас Тетяна Петрівна"
+              },
+              "name": "Фізична особа-підприємець Кутас Тетяна Петрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02218",
+                "region": "Київська",
+                "streetAddress": "вул. Райдужна, буд. 2-Б, кв. 96",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T15:41:46.109818+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:56:22.911239+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-20T13:16:05.761309+02:00",
+          "amount": 15067.0,
+          "bidder": "d6731f8279554d75b791b2ba02adb815"
+        },
+        {
+          "date": "2015-11-21T20:08:32.072833+02:00",
+          "amount": 14950.0,
+          "bidder": "9aec1f8808b748ef893082d7689a9bf9"
+        }
+      ],
+      "time": "2015-11-23T13:35:20.004132+00:00"
+    }
+  },
+  "id": "44f7142641a14ade8ade81cc2da33480",
+  "tenderId": "UA-2015-11-19-000097-b"
+}

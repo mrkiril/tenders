@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8efdd4e65fd34912b6df097b7438d797",
+        "time": "2015-06-23T10:17:00.034548+00:00"
+      },
+      "turn_3": {
+        "bidder": "9ba33d6c8efe47aab0f476f906cdf97e",
+        "time": "2015-06-23T10:19:00.032398+00:00"
+      },
+      "turn_1": {
+        "bidder": "82a280db61f744d89ef5afa76302c03c",
+        "time": "2015-06-23T10:15:00.040622+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8efdd4e65fd34912b6df097b7438d797",
+        "time": "2015-06-23T10:25:00.030021+00:00"
+      },
+      "turn_3": {
+        "bidder": "9ba33d6c8efe47aab0f476f906cdf97e",
+        "time": "2015-06-23T10:27:00.028686+00:00"
+      },
+      "turn_1": {
+        "bidder": "82a280db61f744d89ef5afa76302c03c",
+        "time": "2015-06-23T10:23:00.036086+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8efdd4e65fd34912b6df097b7438d797",
+        "time": "2015-06-23T10:09:00.037946+00:00"
+      },
+      "turn_3": {
+        "bidder": "9ba33d6c8efe47aab0f476f906cdf97e",
+        "time": "2015-06-23T10:11:00.029134+00:00"
+      },
+      "turn_1": {
+        "bidder": "82a280db61f744d89ef5afa76302c03c",
+        "time": "2015-06-23T10:07:00.051932+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "82a280db61f744d89ef5afa76302c03c",
+          "amount": 174.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-22T11:46:51.772015+03:00"
+        },
+        {
+          "bidder": "8efdd4e65fd34912b6df097b7438d797",
+          "amount": 6.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444989011",
+                "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+                "email": "omega-office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39367665",
+                "legalName": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133,м.Київ, бульв.Лесі Українки, буд.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-22T10:13:08.353949+03:00"
+        },
+        {
+          "bidder": "9ba33d6c8efe47aab0f476f906cdf97e",
+          "amount": 6.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-20T18:40:11.261361+03:00"
+        }
+      ],
+      "time": "2015-06-23T10:27:02.237547+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-22T11:46:51.772015+03:00",
+          "amount": 174.0,
+          "bidder": "82a280db61f744d89ef5afa76302c03c"
+        },
+        {
+          "date": "2015-06-20T18:40:11.261361+03:00",
+          "amount": 6.6,
+          "bidder": "9ba33d6c8efe47aab0f476f906cdf97e"
+        },
+        {
+          "date": "2015-06-22T10:13:08.353949+03:00",
+          "amount": 6.6,
+          "bidder": "8efdd4e65fd34912b6df097b7438d797"
+        }
+      ],
+      "time": "2015-06-23T10:00:00.006757+00:00"
+    }
+  },
+  "id": "34b271b23be8478795ee5f8240fb0919",
+  "tenderId": "UA-2015-06-18-000029"
+}

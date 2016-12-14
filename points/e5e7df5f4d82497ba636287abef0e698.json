@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1bbcdb6d7eab4c74853fd24338c05044",
+        "time": "2015-10-01T12:29:34.007251+00:00"
+      },
+      "turn_3": {
+        "bidder": "742e5b6a05ec4a7eb2f513786d8729b7",
+        "time": "2015-10-01T12:31:34.006996+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f3fb3fd75a94cbbb4a04e3bf667a7cf",
+        "time": "2015-10-01T12:27:34.007642+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1bbcdb6d7eab4c74853fd24338c05044",
+        "time": "2015-10-01T12:37:34.007380+00:00"
+      },
+      "turn_3": {
+        "bidder": "742e5b6a05ec4a7eb2f513786d8729b7",
+        "time": "2015-10-01T12:39:34.017239+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f3fb3fd75a94cbbb4a04e3bf667a7cf",
+        "time": "2015-10-01T12:35:34.008966+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1bbcdb6d7eab4c74853fd24338c05044",
+        "time": "2015-10-01T12:21:34.010497+00:00"
+      },
+      "turn_3": {
+        "bidder": "742e5b6a05ec4a7eb2f513786d8729b7",
+        "time": "2015-10-01T12:23:34.008258+00:00"
+      },
+      "turn_1": {
+        "bidder": "9f3fb3fd75a94cbbb4a04e3bf667a7cf",
+        "time": "2015-10-01T12:19:34.008600+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9f3fb3fd75a94cbbb4a04e3bf667a7cf",
+          "amount": 1950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-30T09:36:57.076121+03:00"
+        },
+        {
+          "bidder": "1bbcdb6d7eab4c74853fd24338c05044",
+          "amount": 1940.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380987313355",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\"",
+                "email": "elena@xion.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38538569",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КСІОН-СУРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080, М. КИЇВ, ВУЛ. фРУНЗЕ,40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T16:21:08.362221+03:00"
+        },
+        {
+          "bidder": "742e5b6a05ec4a7eb2f513786d8729b7",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577176091",
+                "name": "Товариство з обмеженою відповідальністю \"КАРАВАН\"",
+                "email": "maksim.mikitin@trade-kh.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24141640",
+                "legalName": "Товариство з обмеженою відповідальністю \"КАРАВАН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КАРАВАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61058, м. Харків, вул. Данилевського, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T13:19:28.497802+03:00"
+        }
+      ],
+      "time": "2015-10-01T12:39:37.172696+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T09:36:57.076121+03:00",
+          "amount": 1950.0,
+          "bidder": "9f3fb3fd75a94cbbb4a04e3bf667a7cf"
+        },
+        {
+          "date": "2015-09-24T16:21:08.362221+03:00",
+          "amount": 1940.0,
+          "bidder": "1bbcdb6d7eab4c74853fd24338c05044"
+        },
+        {
+          "date": "2015-09-30T13:19:28.497802+03:00",
+          "amount": 1800.0,
+          "bidder": "742e5b6a05ec4a7eb2f513786d8729b7"
+        }
+      ],
+      "time": "2015-10-01T12:12:34.003324+00:00"
+    }
+  },
+  "id": "e5e7df5f4d82497ba636287abef0e698",
+  "tenderId": "UA-2015-09-16-000254"
+}

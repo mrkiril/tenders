@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "74cabd36cd3d4a2a88cea507d2c6dd1f",
+        "time": "2015-12-09T13:15:04.008263+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b8758d4678425bafa0fa09d8a42c65",
+        "time": "2015-12-09T13:13:04.048547+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "74cabd36cd3d4a2a88cea507d2c6dd1f",
+        "time": "2015-12-09T13:21:04.007365+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b8758d4678425bafa0fa09d8a42c65",
+        "time": "2015-12-09T13:19:04.007880+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "74cabd36cd3d4a2a88cea507d2c6dd1f",
+        "time": "2015-12-09T13:09:04.009329+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b8758d4678425bafa0fa09d8a42c65",
+        "time": "2015-12-09T13:07:04.006491+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c2b8758d4678425bafa0fa09d8a42c65",
+          "amount": 9050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Олександр Яніцький",
+                "email": "yn-sasha@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2755307376",
+                "legalName": "ФОП \"Яніцький О.В.\""
+              },
+              "name": "ФОП \"Яніцький О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Бориспільська буд.49, кв.129",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:52:46.370876+02:00"
+        },
+        {
+          "bidder": "74cabd36cd3d4a2a88cea507d2c6dd1f",
+          "amount": 8775.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T09:24:30.616998+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:21:05.917137+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T14:52:46.370876+02:00",
+          "amount": 9050.0,
+          "bidder": "c2b8758d4678425bafa0fa09d8a42c65"
+        },
+        {
+          "date": "2015-12-04T09:24:30.616998+02:00",
+          "amount": 8775.0,
+          "bidder": "74cabd36cd3d4a2a88cea507d2c6dd1f"
+        }
+      ],
+      "time": "2015-12-09T13:00:04.005632+00:00"
+    }
+  },
+  "id": "2adf34fc7414453db449f5a45c1b5be3",
+  "tenderId": "UA-2015-12-03-000003-b"
+}

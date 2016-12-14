@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "48cf9880872348e897cb9e941bee7ccd",
+        "time": "2015-10-30T13:57:49.008551+00:00"
+      },
+      "turn_3": {
+        "bidder": "8ea716702697408da5314c8b5433baf5",
+        "time": "2015-10-30T13:59:49.010657+00:00"
+      },
+      "turn_1": {
+        "bidder": "db01774a052c4de681ce74c4173aaebd",
+        "time": "2015-10-30T13:55:49.007494+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1650.0,
+        "bid_time": "2015-10-30T16:04:24.011564+02:00",
+        "bidder": "48cf9880872348e897cb9e941bee7ccd",
+        "time": "2015-10-30T14:05:49.008862+00:00"
+      },
+      "turn_3": {
+        "amount": 1649.0,
+        "bid_time": "2015-10-30T16:07:35.403770+02:00",
+        "bidder": "8ea716702697408da5314c8b5433baf5",
+        "time": "2015-10-30T14:07:49.013906+00:00"
+      },
+      "turn_1": {
+        "bidder": "db01774a052c4de681ce74c4173aaebd",
+        "time": "2015-10-30T14:03:49.010287+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1800.0,
+        "bid_time": "2015-10-30T15:48:09.519433+02:00",
+        "bidder": "8ea716702697408da5314c8b5433baf5",
+        "time": "2015-10-30T13:49:49.013909+00:00"
+      },
+      "turn_3": {
+        "bidder": "48cf9880872348e897cb9e941bee7ccd",
+        "time": "2015-10-30T13:51:49.007067+00:00"
+      },
+      "turn_1": {
+        "bidder": "db01774a052c4de681ce74c4173aaebd",
+        "time": "2015-10-30T13:47:49.008505+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "db01774a052c4de681ce74c4173aaebd",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Дмитрий",
+                "email": "dm@dezmed.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Дезцентр плюс\"",
+                "id": "36295719",
+                "uri": "http://dezmed.com.ua"
+              },
+              "name": "ТОВ \"Дезцентр плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49107",
+                "region": "Днепропетровская",
+                "streetAddress": "вул. Шосе Запорізьке, буд 27",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-28T12:25:41.114182+02:00"
+        },
+        {
+          "bidder": "48cf9880872348e897cb9e941bee7ccd",
+          "amount": 1650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://yugsintez.com.ua/",
+                "telephone": "+380562384654",
+                "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+                "email": "kupriyanov@yugsint.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32990002",
+                "legalName": "Общество с ограниченной ответственностью \"Югсинтез\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Днепропетровская область г. Днепропетровск, Бабушинский район, ул. Героев Сталинграда, 156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T16:04:24.011564+02:00"
+        },
+        {
+          "bidder": "8ea716702697408da5314c8b5433baf5",
+          "amount": 1649.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567608129",
+                "name": "Олег Донченко",
+                "email": "oldonchenko@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2901107876",
+                "legalName": "ФОП \"Донченко О.Ю.\""
+              },
+              "name": "ФОП \"Донченко О.Ю.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "вул. Калинова, б. 64, кв. 225",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-30T16:07:35.403770+02:00"
+        }
+      ],
+      "time": "2015-10-30T14:08:07.209017+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T12:25:41.114182+02:00",
+          "amount": 2000.0,
+          "bidder": "db01774a052c4de681ce74c4173aaebd"
+        },
+        {
+          "date": "2015-10-29T10:15:11.736438+02:00",
+          "amount": 1900.0,
+          "bidder": "8ea716702697408da5314c8b5433baf5"
+        },
+        {
+          "date": "2015-10-29T12:09:37.536555+02:00",
+          "amount": 1860.0,
+          "bidder": "48cf9880872348e897cb9e941bee7ccd"
+        }
+      ],
+      "time": "2015-10-30T13:40:49.004172+00:00"
+    }
+  },
+  "id": "25b77d2150514acb87e988b49a948fee",
+  "tenderId": "UA-2015-10-23-000172"
+}

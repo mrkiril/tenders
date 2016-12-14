@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6e185d3829c94e5c8b81f5fbfdb1946b",
+        "time": "2015-10-16T11:48:26.009547+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0e94796fba249419ae93da8aec1d8d3",
+        "time": "2015-10-16T11:50:26.008639+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb8b1c129cb048dcb5c39d363988baec",
+        "time": "2015-10-16T11:46:26.010916+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6e185d3829c94e5c8b81f5fbfdb1946b",
+        "time": "2015-10-16T11:56:26.008110+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0e94796fba249419ae93da8aec1d8d3",
+        "time": "2015-10-16T11:58:26.007315+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb8b1c129cb048dcb5c39d363988baec",
+        "time": "2015-10-16T11:54:26.012397+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6e185d3829c94e5c8b81f5fbfdb1946b",
+        "time": "2015-10-16T11:40:26.016403+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0e94796fba249419ae93da8aec1d8d3",
+        "time": "2015-10-16T11:42:26.008655+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb8b1c129cb048dcb5c39d363988baec",
+        "time": "2015-10-16T11:38:26.008332+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fb8b1c129cb048dcb5c39d363988baec",
+          "amount": 1450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Ігор Щедкунов",
+                "email": "igrmail90@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3316100637",
+                "legalName": "ФОП \"Щелкунов  Ігор Ігорович\""
+              },
+              "name": "ФОП \"Щелкунов  Ігор Ігорович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "83047",
+                "region": "Донецкая",
+                "streetAddress": "вул. Водіїв 8",
+                "locality": "донецк"
+              }
+            }
+          ],
+          "time": "2015-10-15T01:19:25.108382+03:00"
+        },
+        {
+          "bidder": "6e185d3829c94e5c8b81f5fbfdb1946b",
+          "amount": 1400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nit-services.com.ua/",
+                "telephone": "380679580808",
+                "name": "Александр Шайхутдинов ",
+                "email": "info@nit-services.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39809141",
+                "legalName": ""
+              },
+              "name": "ООО \"Эн Айти-Сервисез\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "03040, Киев, ул. Новопироговская, 60"
+              }
+            }
+          ],
+          "time": "2015-10-15T11:04:33.592402+03:00"
+        },
+        {
+          "bidder": "a0e94796fba249419ae93da8aec1d8d3",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://savona.net.ua",
+                "faxNumber": "0443616326",
+                "telephone": "0443616325",
+                "name": "Чепурний Володимир Вячеславович",
+                "email": "chepurnoy@savona.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39059271",
+                "legalName": "Товариство з обмеженою відповідальністю «САВОНА СИСТЕМ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «САВОНА СИСТЕМ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "провулок Лабораторний, 1 оф 600",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-14T09:14:54.506128+03:00"
+        }
+      ],
+      "time": "2015-10-16T11:58:26.845131+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T01:19:25.108382+03:00",
+          "amount": 1450.0,
+          "bidder": "fb8b1c129cb048dcb5c39d363988baec"
+        },
+        {
+          "date": "2015-10-15T11:04:33.592402+03:00",
+          "amount": 1400.0,
+          "bidder": "6e185d3829c94e5c8b81f5fbfdb1946b"
+        },
+        {
+          "date": "2015-10-14T09:14:54.506128+03:00",
+          "amount": 1300.0,
+          "bidder": "a0e94796fba249419ae93da8aec1d8d3"
+        }
+      ],
+      "time": "2015-10-16T11:31:26.004617+00:00"
+    }
+  },
+  "id": "cce1b5599cf549cb9a24a78e39e44d62",
+  "tenderId": "UA-2015-10-13-000282"
+}

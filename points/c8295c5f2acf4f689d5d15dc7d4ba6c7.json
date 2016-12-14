@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "35bd68b5a7a9478e965eebfa32c1a154",
+        "time": "2015-12-03T12:27:40.008195+00:00"
+      },
+      "turn_1": {
+        "bidder": "89e40147d8554c728d507a6dabc352ea",
+        "time": "2015-12-03T12:25:40.008478+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "35bd68b5a7a9478e965eebfa32c1a154",
+        "time": "2015-12-03T12:33:40.008213+00:00"
+      },
+      "turn_1": {
+        "bidder": "89e40147d8554c728d507a6dabc352ea",
+        "time": "2015-12-03T12:31:40.008380+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "35bd68b5a7a9478e965eebfa32c1a154",
+        "time": "2015-12-03T12:21:40.009025+00:00"
+      },
+      "turn_1": {
+        "bidder": "89e40147d8554c728d507a6dabc352ea",
+        "time": "2015-12-03T12:19:40.008732+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "89e40147d8554c728d507a6dabc352ea",
+          "amount": 13222.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-30T19:53:21.393404+02:00"
+        },
+        {
+          "bidder": "35bd68b5a7a9478e965eebfa32c1a154",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562357469",
+                "name": "Нина Иванчикова",
+                "email": "nina@forward.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕВЕРЕСТ\"",
+                "id": "32014627",
+                "uri": "http://www.forward.dp.ua"
+              },
+              "name": "ТОВ \"ЕВЕРЕСТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49008",
+                "region": "Днепропетровская",
+                "streetAddress": "вул.Робітнича, буд.23-в",
+                "locality": "м.Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-29T12:18:01.221263+02:00"
+        }
+      ],
+      "time": "2015-12-03T12:33:41.850746+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T19:53:21.393404+02:00",
+          "amount": 13222.0,
+          "bidder": "89e40147d8554c728d507a6dabc352ea"
+        },
+        {
+          "date": "2015-11-29T12:18:01.221263+02:00",
+          "amount": 11500.0,
+          "bidder": "35bd68b5a7a9478e965eebfa32c1a154"
+        }
+      ],
+      "time": "2015-12-03T12:12:40.005127+00:00"
+    }
+  },
+  "id": "c8295c5f2acf4f689d5d15dc7d4ba6c7",
+  "tenderId": "UA-2015-11-27-000002"
+}

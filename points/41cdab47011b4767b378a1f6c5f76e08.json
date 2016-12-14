@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e0c06d25d9284606aca0efe952a643e9",
+        "time": "2015-11-23T12:29:53.009283+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7d87de2d76420aa13535a5f1d6218f",
+        "time": "2015-11-23T12:27:53.016056+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e0c06d25d9284606aca0efe952a643e9",
+        "time": "2015-11-23T12:35:53.029438+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7d87de2d76420aa13535a5f1d6218f",
+        "time": "2015-11-23T12:33:53.008883+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e0c06d25d9284606aca0efe952a643e9",
+        "time": "2015-11-23T12:23:53.008588+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7d87de2d76420aa13535a5f1d6218f",
+        "time": "2015-11-23T12:21:53.009308+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d7d87de2d76420aa13535a5f1d6218f",
+          "amount": 13800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562357469",
+                "name": "Нина Иванчикова",
+                "email": "nina@forward.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕВЕРЕСТ\"",
+                "id": "32014627",
+                "uri": "http://www.forward.dp.ua"
+              },
+              "name": "ТОВ \"ЕВЕРЕСТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49008",
+                "region": "Днепропетровская",
+                "streetAddress": "вул.Робітнича, буд.23-в",
+                "locality": "м.Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-20T14:48:51.377889+02:00"
+        },
+        {
+          "bidder": "e0c06d25d9284606aca0efe952a643e9",
+          "amount": 13600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957443635",
+                "name": "Віталій Шевченко",
+                "email": "alt_solar@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3128705053",
+                "legalName": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\""
+              },
+              "name": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36039",
+                "region": "Полтавская",
+                "streetAddress": "вул. Артема, 27, кв. 73",
+                "locality": "місто Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-19T20:26:38.693905+02:00"
+        }
+      ],
+      "time": "2015-11-23T12:35:54.188915+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-20T14:48:51.377889+02:00",
+          "amount": 13800.0,
+          "bidder": "4d7d87de2d76420aa13535a5f1d6218f"
+        },
+        {
+          "date": "2015-11-19T20:26:38.693905+02:00",
+          "amount": 13600.0,
+          "bidder": "e0c06d25d9284606aca0efe952a643e9"
+        }
+      ],
+      "time": "2015-11-23T12:14:53.006766+00:00"
+    }
+  },
+  "id": "41cdab47011b4767b378a1f6c5f76e08",
+  "tenderId": "UA-2015-11-17-000215"
+}

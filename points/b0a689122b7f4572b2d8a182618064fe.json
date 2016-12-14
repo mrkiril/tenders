@@ -1,0 +1,123 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1650.0,
+        "bid_time": "2015-12-07T12:20:18.269037+02:00",
+        "bidder": "8e0fe046e30d4ed48c5f65d565a0c3d6",
+        "time": "2015-12-07T10:21:38.011977+00:00"
+      },
+      "turn_1": {
+        "amount": 1700.0,
+        "bid_time": "2015-12-07T12:18:06.952691+02:00",
+        "bidder": "54d7906ab1ac419c8b7d83ba309db8b7",
+        "time": "2015-12-07T10:19:38.021287+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1450.0,
+        "bid_time": "2015-12-07T12:26:14.857964+02:00",
+        "bidder": "8e0fe046e30d4ed48c5f65d565a0c3d6",
+        "time": "2015-12-07T10:27:38.010318+00:00"
+      },
+      "turn_1": {
+        "amount": 1500.0,
+        "bid_time": "2015-12-07T12:24:26.562717+02:00",
+        "bidder": "54d7906ab1ac419c8b7d83ba309db8b7",
+        "time": "2015-12-07T10:25:38.068624+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1850.0,
+        "bid_time": "2015-12-07T12:13:52.267272+02:00",
+        "bidder": "8e0fe046e30d4ed48c5f65d565a0c3d6",
+        "time": "2015-12-07T10:15:38.010226+00:00"
+      },
+      "turn_1": {
+        "amount": 1975.0,
+        "bid_time": "2015-12-07T12:12:41.471408+02:00",
+        "bidder": "54d7906ab1ac419c8b7d83ba309db8b7",
+        "time": "2015-12-07T10:13:38.033520+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "54d7906ab1ac419c8b7d83ba309db8b7",
+          "amount": 1500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444838327",
+                "telephone": "+380504463895",
+                "name": "Пилипець Тетяна Миколаївна",
+                "email": "tnb@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39064171"
+              },
+              "name": "КП \"Профдезінфекція\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04119",
+                "region": "Київська область",
+                "streetAddress": "вул.Дегтярівська,25/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:24:26.562717+02:00"
+        },
+        {
+          "bidder": "8e0fe046e30d4ed48c5f65d565a0c3d6",
+          "amount": 1450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrbioekologia.com.ua",
+                "faxNumber": "+380444082588",
+                "telephone": "+380982974079",
+                "name": "Вельчева Мирослава Модестівна",
+                "email": "mirosa67@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34617039"
+              },
+              "name": "ТОВ \"Укрбіоекологія\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03061",
+                "region": "Київська область",
+                "streetAddress": "вул. Пост-Волинська,3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:26:14.857964+02:00"
+        }
+      ],
+      "time": "2015-12-07T10:27:40.456011+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T13:16:30.132045+02:00",
+          "amount": 2000.0,
+          "bidder": "54d7906ab1ac419c8b7d83ba309db8b7"
+        },
+        {
+          "date": "2015-12-04T19:53:25.166683+02:00",
+          "amount": 1900.0,
+          "bidder": "8e0fe046e30d4ed48c5f65d565a0c3d6"
+        }
+      ],
+      "time": "2015-12-07T10:06:38.003927+00:00"
+    }
+  },
+  "id": "b0a689122b7f4572b2d8a182618064fe",
+  "tenderId": "UA-2015-11-25-000066-a"
+}

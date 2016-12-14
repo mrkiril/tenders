@@ -1,0 +1,204 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "dccebae8a0354ecc904f25f6a6aab843",
+        "time": "2015-06-23T08:53:00.116893+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ddcbe0020cd45aaa3a0e89ac12b72ea",
+        "time": "2015-06-23T08:49:00.128213+00:00"
+      },
+      "turn_3": {
+        "bidder": "a83686f7d1734a0eae6a15a08dd68f69",
+        "time": "2015-06-23T08:51:00.117682+00:00"
+      },
+      "turn_1": {
+        "bidder": "716d734dea8148f4b0b66bf768c5f69f",
+        "time": "2015-06-23T08:47:00.210673+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "dccebae8a0354ecc904f25f6a6aab843",
+        "time": "2015-06-23T09:03:00.059140+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ddcbe0020cd45aaa3a0e89ac12b72ea",
+        "time": "2015-06-23T08:59:00.083155+00:00"
+      },
+      "turn_3": {
+        "bidder": "a83686f7d1734a0eae6a15a08dd68f69",
+        "time": "2015-06-23T09:01:00.045689+00:00"
+      },
+      "turn_1": {
+        "bidder": "716d734dea8148f4b0b66bf768c5f69f",
+        "time": "2015-06-23T08:57:00.109025+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "a83686f7d1734a0eae6a15a08dd68f69",
+        "time": "2015-06-23T08:43:00.162326+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ddcbe0020cd45aaa3a0e89ac12b72ea",
+        "time": "2015-06-23T08:39:00.256767+00:00"
+      },
+      "turn_3": {
+        "amount": 19400.0,
+        "bid_time": "2015-06-23T11:39:08.807842+03:00",
+        "bidder": "dccebae8a0354ecc904f25f6a6aab843",
+        "time": "2015-06-23T08:41:00.298082+00:00"
+      },
+      "turn_1": {
+        "bidder": "716d734dea8148f4b0b66bf768c5f69f",
+        "time": "2015-06-23T08:37:00.287899+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "716d734dea8148f4b0b66bf768c5f69f",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elfarfor.com.ua/",
+                "telephone": "+380442732978",
+                "name": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\"",
+                "email": "olga@elfarfor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34729004",
+                "legalName": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\""
+              },
+              "name": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01103, г.Киев, бульвар Дружбы Народов, 10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-22T10:23:36.879190+03:00"
+        },
+        {
+          "bidder": "4ddcbe0020cd45aaa3a0e89ac12b72ea",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962428468",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+                "email": "art-medvedkov@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31166456",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Запоріжжя вул.Макаренко. буд.9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-18T15:33:49.618250+03:00"
+        },
+        {
+          "bidder": "a83686f7d1734a0eae6a15a08dd68f69",
+          "amount": 19500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meranova.com.ua",
+                "telephone": "+380577281365",
+                "name": "Мера Нова",
+                "email": "gevrasov@meranova.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36455879",
+                "legalName": "Мера Нова"
+              },
+              "name": "Мера Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61052, Украина, г. Харьков, \r\nпер. Симферопольский 6, оф. 702/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-16T16:08:08.349328+03:00"
+        },
+        {
+          "bidder": "dccebae8a0354ecc904f25f6a6aab843",
+          "amount": 19400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mikor.com.ua/",
+                "faxNumber": "0577140265",
+                "telephone": "0675779640",
+                "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+                "email": "eska_snab@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32439099",
+                "legalName": "ООО\"Инженерная коммерческая фирма\"Эска\""
+              },
+              "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61018",
+                "region": "Харківська",
+                "streetAddress": "Пушкинская 40,кв2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-23T11:39:08.807842+03:00"
+        }
+      ],
+      "time": "2015-06-23T09:03:03.607824+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-16T13:02:00.685041+03:00",
+          "amount": 20000.0,
+          "bidder": "dccebae8a0354ecc904f25f6a6aab843"
+        },
+        {
+          "date": "2015-06-18T15:33:49.618250+03:00",
+          "amount": 20000.0,
+          "bidder": "4ddcbe0020cd45aaa3a0e89ac12b72ea"
+        },
+        {
+          "date": "2015-06-22T10:23:36.879190+03:00",
+          "amount": 20000.0,
+          "bidder": "716d734dea8148f4b0b66bf768c5f69f"
+        },
+        {
+          "date": "2015-06-16T16:08:08.349328+03:00",
+          "amount": 19500.0,
+          "bidder": "a83686f7d1734a0eae6a15a08dd68f69"
+        }
+      ],
+      "time": "2015-06-23T08:30:00.015743+00:00"
+    }
+  },
+  "id": "dc60d435d70c45888aea31308117c671",
+  "tenderId": "UA-2015-06-15-000035"
+}

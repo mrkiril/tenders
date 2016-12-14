@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b4a054fb921548f9be653fb41cdb53de",
+        "time": "2015-08-13T08:15:00.203067+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d364a74209b4fee9555a868c6dfb31b",
+        "time": "2015-08-13T08:13:00.053774+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b4a054fb921548f9be653fb41cdb53de",
+        "time": "2015-08-13T08:21:00.070843+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d364a74209b4fee9555a868c6dfb31b",
+        "time": "2015-08-13T08:19:00.042718+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b4a054fb921548f9be653fb41cdb53de",
+        "time": "2015-08-13T08:09:00.072084+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d364a74209b4fee9555a868c6dfb31b",
+        "time": "2015-08-13T08:07:00.090982+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d364a74209b4fee9555a868c6dfb31b",
+          "amount": 14299.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442284800, +380503701042",
+                "name": "Дмитро Соловйов",
+                "email": "energoexp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39090788",
+                "legalName": "ТОВ \"ЕНЕРГОЕКСПЛУАТАЦІЯ\""
+              },
+              "name": "ТОВ \"ЕНЕРГОЕКСПЛУАТАЦІЯ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02225",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, пр-т. В. Маяковського, 1-в, кв. 113",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-10T10:41:48.000817+03:00"
+        },
+        {
+          "bidder": "b4a054fb921548f9be653fb41cdb53de",
+          "amount": 6000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sm-elektro.com.ua/",
+                "telephone": "+380445371260",
+                "name": "ТОВ \"СМ ЕЛЕКТРО\"",
+                "email": "0971122399@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37501915",
+                "legalName": "ТОВ \"СМ ЕЛЕКТРО\""
+              },
+              "name": "ТОВ \"СМ ЕЛЕКТРО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, ул. Бальзака, 73, к. 16",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-12T11:09:55.250705+03:00"
+        }
+      ],
+      "time": "2015-08-13T08:21:10.045312+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-10T10:41:48.000817+03:00",
+          "amount": 14299.2,
+          "bidder": "4d364a74209b4fee9555a868c6dfb31b"
+        },
+        {
+          "date": "2015-08-12T11:09:55.250705+03:00",
+          "amount": 6000.0,
+          "bidder": "b4a054fb921548f9be653fb41cdb53de"
+        }
+      ],
+      "time": "2015-08-13T08:00:00.022004+00:00"
+    }
+  },
+  "id": "277164233a7f4fd1819be83e4a1ab207",
+  "tenderId": "UA-2015-08-05-000089"
+}

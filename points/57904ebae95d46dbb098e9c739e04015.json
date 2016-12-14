@@ -1,0 +1,204 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "be761e8f1e1148cb98cde5fd1db54534",
+        "time": "2015-07-10T09:53:00.014797+00:00"
+      },
+      "turn_2": {
+        "amount": 16050.0,
+        "bid_time": "2015-07-10T12:47:56.129706+03:00",
+        "bidder": "c00ad43794194ba5814b64dcd89aa4aa",
+        "time": "2015-07-10T09:49:00.034697+00:00"
+      },
+      "turn_3": {
+        "bidder": "7276950eff4049639cae3d05c41fcd4a",
+        "time": "2015-07-10T09:51:00.056580+00:00"
+      },
+      "turn_1": {
+        "bidder": "91b30b519c07413fac3dd7a878581b16",
+        "time": "2015-07-10T09:47:00.024561+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "be761e8f1e1148cb98cde5fd1db54534",
+        "time": "2015-07-10T10:03:00.021392+00:00"
+      },
+      "turn_2": {
+        "bidder": "c00ad43794194ba5814b64dcd89aa4aa",
+        "time": "2015-07-10T09:59:00.013789+00:00"
+      },
+      "turn_3": {
+        "bidder": "7276950eff4049639cae3d05c41fcd4a",
+        "time": "2015-07-10T10:01:00.018254+00:00"
+      },
+      "turn_1": {
+        "bidder": "91b30b519c07413fac3dd7a878581b16",
+        "time": "2015-07-10T09:57:00.013773+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "be761e8f1e1148cb98cde5fd1db54534",
+        "time": "2015-07-10T09:43:00.037903+00:00"
+      },
+      "turn_2": {
+        "amount": 16550.0,
+        "bid_time": "2015-07-10T12:38:07.074006+03:00",
+        "bidder": "c00ad43794194ba5814b64dcd89aa4aa",
+        "time": "2015-07-10T09:39:00.042947+00:00"
+      },
+      "turn_3": {
+        "bidder": "7276950eff4049639cae3d05c41fcd4a",
+        "time": "2015-07-10T09:41:00.028721+00:00"
+      },
+      "turn_1": {
+        "bidder": "91b30b519c07413fac3dd7a878581b16",
+        "time": "2015-07-10T09:37:00.017014+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "91b30b519c07413fac3dd7a878581b16",
+          "amount": 17300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T17:09:23.032683+03:00"
+        },
+        {
+          "bidder": "c00ad43794194ba5814b64dcd89aa4aa",
+          "amount": 16050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444909250",
+                "name": "Оксана Олійник",
+                "email": "info@rekkon.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"РИЧЕЛ\"",
+                "id": "38258663",
+                "uri": "http://rekkon.kiev.ua"
+              },
+              "name": "ТОВ \"РИЧЕЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03186 ",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул. Авіаконструктора Антонова 5, оф. 108",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-10T12:47:56.129706+03:00"
+        },
+        {
+          "bidder": "7276950eff4049639cae3d05c41fcd4a",
+          "amount": 6770.07,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442200177",
+                "name": "Олег Чайковский",
+                "email": "oleg@rcscomponents.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37445002",
+                "legalName": "ТОВ \"Крокодил Ко\""
+              },
+              "name": "ТОВ \"Крокодил Ко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03087",
+                "region": "Киевская",
+                "streetAddress": "03087, м. Київ , бульвар Чоколівський , 42-А, оф.134-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-09T17:05:08.723673+03:00"
+        },
+        {
+          "bidder": "be761e8f1e1148cb98cde5fd1db54534",
+          "amount": 5020.85,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444965374, +380444965375",
+                "name": "Оболонский Сергей",
+                "email": "r.kolodiy@elkos.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33999603",
+                "legalName": "ТОВ \"ВКФ ЕЛКОС\""
+              },
+              "name": "ТОВ \"ВКФ ЕЛКОС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. крымского 4А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-09T13:22:57.268009+03:00"
+        }
+      ],
+      "time": "2015-07-10T10:03:01.615715+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-09T17:09:23.032683+03:00",
+          "amount": 17300.0,
+          "bidder": "91b30b519c07413fac3dd7a878581b16"
+        },
+        {
+          "date": "2015-07-08T10:20:59.099383+03:00",
+          "amount": 17068.8,
+          "bidder": "c00ad43794194ba5814b64dcd89aa4aa"
+        },
+        {
+          "date": "2015-07-09T17:05:08.723673+03:00",
+          "amount": 6770.07,
+          "bidder": "7276950eff4049639cae3d05c41fcd4a"
+        },
+        {
+          "date": "2015-07-09T13:22:57.268009+03:00",
+          "amount": 5020.85,
+          "bidder": "be761e8f1e1148cb98cde5fd1db54534"
+        }
+      ],
+      "time": "2015-07-10T09:30:00.007511+00:00"
+    }
+  },
+  "id": "57904ebae95d46dbb098e9c739e04015",
+  "tenderId": "UA-2015-07-02-000125"
+}

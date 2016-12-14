@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2600.0,
+        "bid_time": "2015-12-04T14:53:14.413496+02:00",
+        "bidder": "05f5f4cd1da64de38c66cdfea965cd87",
+        "time": "2015-12-04T12:55:04.008846+00:00"
+      },
+      "turn_3": {
+        "bidder": "68aaeb8f925140588971fc36c19bedf5",
+        "time": "2015-12-04T12:57:04.007816+00:00"
+      },
+      "turn_1": {
+        "amount": 3018.0,
+        "bid_time": "2015-12-04T14:52:02.791793+02:00",
+        "bidder": "a5bed99cf9e240b99a2d326a9acd6cbb",
+        "time": "2015-12-04T12:53:04.010247+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2668.0,
+        "bid_time": "2015-12-04T15:01:47.228763+02:00",
+        "bidder": "68aaeb8f925140588971fc36c19bedf5",
+        "time": "2015-12-04T13:03:04.008851+00:00"
+      },
+      "turn_3": {
+        "bidder": "05f5f4cd1da64de38c66cdfea965cd87",
+        "time": "2015-12-04T13:05:04.007702+00:00"
+      },
+      "turn_1": {
+        "bidder": "a5bed99cf9e240b99a2d326a9acd6cbb",
+        "time": "2015-12-04T13:01:04.006835+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "05f5f4cd1da64de38c66cdfea965cd87",
+        "time": "2015-12-04T12:47:04.008993+00:00"
+      },
+      "turn_3": {
+        "amount": 2684.0,
+        "bid_time": "2015-12-04T14:47:49.503354+02:00",
+        "bidder": "68aaeb8f925140588971fc36c19bedf5",
+        "time": "2015-12-04T12:49:04.009434+00:00"
+      },
+      "turn_1": {
+        "amount": 3034.0,
+        "bid_time": "2015-12-04T14:43:53.689893+02:00",
+        "bidder": "a5bed99cf9e240b99a2d326a9acd6cbb",
+        "time": "2015-12-04T12:45:04.009948+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a5bed99cf9e240b99a2d326a9acd6cbb",
+          "amount": 3018.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bms.dp.ua",
+                "telephone": "+380675666084",
+                "name": "Боділ Іван Миколайович",
+                "email": "office@bms.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39448796"
+              },
+              "name": "ТОВ Буд Маркет Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49017",
+                "region": "Дніпропетровська область",
+                "streetAddress": "Пр.. Петровського 52/19",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:52:02.791793+02:00"
+        },
+        {
+          "bidder": "68aaeb8f925140588971fc36c19bedf5",
+          "amount": 2668.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bms.dp.ua",
+                "telephone": "+380675666084",
+                "name": "Котельніков Ігор Юрійович",
+                "email": "info@bms.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34885817"
+              },
+              "name": "ТОВ \"ОкнаПлюс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Черняховського, буд.18",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:01:47.228763+02:00"
+        },
+        {
+          "bidder": "05f5f4cd1da64de38c66cdfea965cd87",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984570550",
+                "name": "Носенко Тетяна Миколаївна",
+                "email": "info@oknavik.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3065816883"
+              },
+              "name": "ФОП Носенко Т.М.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "м. Дніпропетровськ, вул. Тверська, б 29, кв 3",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:53:14.413496+02:00"
+        }
+      ],
+      "time": "2015-12-04T13:05:27.077509+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T18:23:59.012573+02:00",
+          "amount": 3050.0,
+          "bidder": "a5bed99cf9e240b99a2d326a9acd6cbb"
+        },
+        {
+          "date": "2015-12-01T16:29:56.639794+02:00",
+          "amount": 2900.0,
+          "bidder": "05f5f4cd1da64de38c66cdfea965cd87"
+        },
+        {
+          "date": "2015-12-02T13:26:06.318746+02:00",
+          "amount": 2700.0,
+          "bidder": "68aaeb8f925140588971fc36c19bedf5"
+        }
+      ],
+      "time": "2015-12-04T12:38:04.004056+00:00"
+    }
+  },
+  "id": "7119ea2c27264d0687afa0ece46a0caa",
+  "tenderId": "UA-2015-11-26-000163"
+}

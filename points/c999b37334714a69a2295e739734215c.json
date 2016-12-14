@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 46000.0,
+        "bid_time": "2015-11-27T15:50:45.707242+02:00",
+        "bidder": "f104cc8229f14cab86661b04cf385c95",
+        "time": "2015-11-27T13:50:50.008271+00:00"
+      },
+      "turn_1": {
+        "amount": 47650.0,
+        "bid_time": "2015-11-27T15:48:07.285491+02:00",
+        "bidder": "8b3411e814ca4a309e40b0698aa14d46",
+        "time": "2015-11-27T13:48:50.009663+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 45900.0,
+        "bid_time": "2015-11-27T15:56:28.627533+02:00",
+        "bidder": "f104cc8229f14cab86661b04cf385c95",
+        "time": "2015-11-27T13:56:50.009459+00:00"
+      },
+      "turn_1": {
+        "amount": 45950.0,
+        "bid_time": "2015-11-27T15:54:12.754214+02:00",
+        "bidder": "8b3411e814ca4a309e40b0698aa14d46",
+        "time": "2015-11-27T13:54:50.008334+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f104cc8229f14cab86661b04cf385c95",
+        "time": "2015-11-27T13:44:50.008482+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b3411e814ca4a309e40b0698aa14d46",
+        "time": "2015-11-27T13:42:50.007744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8b3411e814ca4a309e40b0698aa14d46",
+          "amount": 45950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://englerllc.com/",
+                "faxNumber": "0443511868",
+                "telephone": "0443511868",
+                "name": "Ільєнко Олег Борисович",
+                "email": "o.ilyenko@englerllc.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36938941",
+                "legalName": "ТОВ \"НВП Енглер\""
+              },
+              "name": "ТОВ \"НВП Енглер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03113",
+                "region": "Київська",
+                "streetAddress": "Скляренка, б. 5 , оф. 305А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:54:12.754214+02:00"
+        },
+        {
+          "bidder": "f104cc8229f14cab86661b04cf385c95",
+          "amount": 45900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bmstechno.com.ua",
+                "faxNumber": "+380445855976",
+                "telephone": "+380445855975",
+                "name": "Кулєшов Микола Миколайович",
+                "email": "knn@bmstechno.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22945907"
+              },
+              "name": "ТОВ БМС ТЕХНО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "Київська область",
+                "streetAddress": "вул.Л.Руденко, 6А, оф.401",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:56:28.627533+02:00"
+        }
+      ],
+      "time": "2015-11-27T13:56:52.264999+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T20:27:39.346388+02:00",
+          "amount": 52080.0,
+          "bidder": "8b3411e814ca4a309e40b0698aa14d46"
+        },
+        {
+          "date": "2015-11-26T15:38:57.668850+02:00",
+          "amount": 47651.7,
+          "bidder": "f104cc8229f14cab86661b04cf385c95"
+        }
+      ],
+      "time": "2015-11-27T13:35:50.003448+00:00"
+    }
+  },
+  "id": "c999b37334714a69a2295e739734215c",
+  "tenderId": "UA-2015-11-20-000120"
+}

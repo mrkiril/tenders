@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "251089c27c6c4e449e4d39e6f93bf6dd",
+        "time": "2015-12-15T13:18:03.009172+00:00"
+      },
+      "turn_1": {
+        "bidder": "6f8b1e84b7da4d6e8f3b3f6ce2f8cdca",
+        "time": "2015-12-15T13:16:03.007254+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 159800.0,
+        "bid_time": "2015-12-15T15:22:26.261770+02:00",
+        "bidder": "251089c27c6c4e449e4d39e6f93bf6dd",
+        "time": "2015-12-15T13:24:03.008588+00:00"
+      },
+      "turn_1": {
+        "amount": 160000.0,
+        "bid_time": "2015-12-15T15:20:12.093005+02:00",
+        "bidder": "6f8b1e84b7da4d6e8f3b3f6ce2f8cdca",
+        "time": "2015-12-15T13:22:03.022220+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "251089c27c6c4e449e4d39e6f93bf6dd",
+        "time": "2015-12-15T13:12:03.008288+00:00"
+      },
+      "turn_1": {
+        "bidder": "6f8b1e84b7da4d6e8f3b3f6ce2f8cdca",
+        "time": "2015-12-15T13:10:03.008828+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6f8b1e84b7da4d6e8f3b3f6ce2f8cdca",
+          "amount": 160000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380965126009",
+                "name": "Ганна Єрмола",
+                "email": "kiev.talan@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39436073",
+                "legalName": "ТОВ \"Талан-Пожтех\""
+              },
+              "name": "ТОВ \"Талан-Пожтех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07401",
+                "region": "Киевская",
+                "streetAddress": "вул.Київська буд.154, оф.14",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:20:12.093005+02:00"
+        },
+        {
+          "bidder": "251089c27c6c4e449e4d39e6f93bf6dd",
+          "amount": 159800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509891209",
+                "name": "Шерстобитова Дарья Александровная",
+                "email": "pavel.rob@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30195554"
+              },
+              "name": "ПП Розвиток. Індустрія. Планування.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49018",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Моніторна, 7, кв 79",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:22:26.261770+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:24:04.857399+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T13:46:42.748617+02:00",
+          "amount": 199000.0,
+          "bidder": "6f8b1e84b7da4d6e8f3b3f6ce2f8cdca"
+        },
+        {
+          "date": "2015-12-11T17:47:47.484389+02:00",
+          "amount": 169900.0,
+          "bidder": "251089c27c6c4e449e4d39e6f93bf6dd"
+        }
+      ],
+      "time": "2015-12-15T13:03:03.003988+00:00"
+    }
+  },
+  "id": "1a8b8a065cb6488c9cc87fdef380a017",
+  "tenderId": "UA-2015-12-04-000218"
+}

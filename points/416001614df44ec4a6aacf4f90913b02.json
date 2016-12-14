@@ -1,0 +1,256 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 6000.0,
+        "bid_time": "2015-09-29T11:53:34.664403+03:00",
+        "bidder": "f497690beda34890b43a2a9465715796",
+        "time": "2015-09-29T08:55:00.035889+00:00"
+      },
+      "turn_5": {
+        "amount": 5950.0,
+        "bid_time": "2015-09-29T11:56:25.986779+03:00",
+        "bidder": "3e32fd0dfd71457897b8f6525d812933",
+        "time": "2015-09-29T08:57:00.034412+00:00"
+      },
+      "turn_2": {
+        "bidder": "070c5c612d374777b59a7930368d6895",
+        "time": "2015-09-29T08:51:00.038903+00:00"
+      },
+      "turn_3": {
+        "amount": 6550.0,
+        "bid_time": "2015-09-29T11:51:40.394472+03:00",
+        "bidder": "bc77dcae49da4afc96d77df129834013",
+        "time": "2015-09-29T08:53:00.060730+00:00"
+      },
+      "turn_1": {
+        "bidder": "d2beda19ba24422398a3692ad85e8660",
+        "time": "2015-09-29T08:49:00.030648+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 5400.0,
+        "bid_time": "2015-09-29T12:05:54.450640+03:00",
+        "bidder": "f497690beda34890b43a2a9465715796",
+        "time": "2015-09-29T09:07:00.047194+00:00"
+      },
+      "turn_5": {
+        "bidder": "3e32fd0dfd71457897b8f6525d812933",
+        "time": "2015-09-29T09:09:00.027881+00:00"
+      },
+      "turn_2": {
+        "bidder": "070c5c612d374777b59a7930368d6895",
+        "time": "2015-09-29T09:03:00.040049+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc77dcae49da4afc96d77df129834013",
+        "time": "2015-09-29T09:05:00.041844+00:00"
+      },
+      "turn_1": {
+        "bidder": "d2beda19ba24422398a3692ad85e8660",
+        "time": "2015-09-29T09:01:00.019033+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "bc77dcae49da4afc96d77df129834013",
+        "time": "2015-09-29T08:43:00.049594+00:00"
+      },
+      "turn_5": {
+        "amount": 6590.0,
+        "bid_time": "2015-09-29T11:43:24.682909+03:00",
+        "bidder": "3e32fd0dfd71457897b8f6525d812933",
+        "time": "2015-09-29T08:45:00.054123+00:00"
+      },
+      "turn_2": {
+        "bidder": "070c5c612d374777b59a7930368d6895",
+        "time": "2015-09-29T08:39:00.032420+00:00"
+      },
+      "turn_3": {
+        "amount": 6600.0,
+        "bid_time": "2015-09-29T11:40:13.693584+03:00",
+        "bidder": "f497690beda34890b43a2a9465715796",
+        "time": "2015-09-29T08:41:00.062506+00:00"
+      },
+      "turn_1": {
+        "bidder": "d2beda19ba24422398a3692ad85e8660",
+        "time": "2015-09-29T08:37:00.038204+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d2beda19ba24422398a3692ad85e8660",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675278702",
+                "name": "Андрей",
+                "email": "ck24.com.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТОВ \"Центр матеріального забеспечення\"\"",
+                "id": "38519297",
+                "uri": "http://ck24.com.ua"
+              },
+              "name": "ТОВ \"ТОВ \"Центр матеріального забеспечення\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04112",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-28T17:11:01.605207+03:00"
+        },
+        {
+          "bidder": "070c5c612d374777b59a7930368d6895",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.praotech.com.ua/",
+                "telephone": "+380504111793",
+                "name": "Беленченко Ігор Володимирович",
+                "email": "belenchenkoleg@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39483055"
+              },
+              "name": "ТОВ ПРАО ТЕХ СЕРВІС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01013",
+                "region": "Київська область",
+                "streetAddress": "вул. Будіндустрії, 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-21T11:22:13.357938+03:00"
+        },
+        {
+          "bidder": "bc77dcae49da4afc96d77df129834013",
+          "amount": 6550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508579624",
+                "name": "Инна Стешенко",
+                "email": "tehnorma@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Технорма\"",
+                "id": "34525137",
+                "uri": "http://tehnorma.com.ua"
+              },
+              "name": "ТОВ \"Технорма\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01015",
+                "region": "",
+                "streetAddress": "вул. Цитадельна 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T11:51:40.394472+03:00"
+        },
+        {
+          "bidder": "3e32fd0dfd71457897b8f6525d812933",
+          "amount": 5950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://Tehnorma.com.ua",
+                "faxNumber": "+380442191610",
+                "telephone": "+380508579624",
+                "name": "Стешенко Инна Борисовна",
+                "email": "Tehnorma@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34525137"
+              },
+              "name": "ТОВ Технорма",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська область",
+                "streetAddress": "Цитадельная7",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-29T11:56:25.986779+03:00"
+        },
+        {
+          "bidder": "f497690beda34890b43a2a9465715796",
+          "amount": 5400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445765525",
+                "name": "Бойко Олексій Валерійович",
+                "email": "5764325@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37432391"
+              },
+              "name": "ТОВ ПОЖТЕХНОЛЮКС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "Київська область",
+                "streetAddress": "вул. Максима Гришка, будинок 9, квартира 251",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-29T12:05:54.450640+03:00"
+        }
+      ],
+      "time": "2015-09-29T09:09:08.395512+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-28T17:11:01.605207+03:00",
+          "amount": 12500.0,
+          "bidder": "d2beda19ba24422398a3692ad85e8660"
+        },
+        {
+          "date": "2015-09-21T11:22:13.357938+03:00",
+          "amount": 11500.0,
+          "bidder": "070c5c612d374777b59a7930368d6895"
+        },
+        {
+          "date": "2015-09-25T12:26:15.118833+03:00",
+          "amount": 8612.4,
+          "bidder": "f497690beda34890b43a2a9465715796"
+        },
+        {
+          "date": "2015-09-28T10:00:01.809356+03:00",
+          "amount": 8320.08,
+          "bidder": "bc77dcae49da4afc96d77df129834013"
+        },
+        {
+          "date": "2015-09-26T10:45:23.126781+03:00",
+          "amount": 6700.0,
+          "bidder": "3e32fd0dfd71457897b8f6525d812933"
+        }
+      ],
+      "time": "2015-09-29T08:30:00.006997+00:00"
+    }
+  },
+  "id": "416001614df44ec4a6aacf4f90913b02",
+  "tenderId": "UA-2015-09-17-000067"
+}

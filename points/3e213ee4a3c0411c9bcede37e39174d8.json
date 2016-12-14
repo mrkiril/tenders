@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7943f8f3f6374b73b58cb3fe649a739f",
+        "time": "2015-11-19T10:51:07.008802+00:00"
+      },
+      "turn_1": {
+        "bidder": "08b3849bc94249d395a8ae1319118eaf",
+        "time": "2015-11-19T10:49:07.008732+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7943f8f3f6374b73b58cb3fe649a739f",
+        "time": "2015-11-19T10:57:07.007769+00:00"
+      },
+      "turn_1": {
+        "bidder": "08b3849bc94249d395a8ae1319118eaf",
+        "time": "2015-11-19T10:55:07.020605+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7943f8f3f6374b73b58cb3fe649a739f",
+        "time": "2015-11-19T10:45:07.008523+00:00"
+      },
+      "turn_1": {
+        "bidder": "08b3849bc94249d395a8ae1319118eaf",
+        "time": "2015-11-19T10:43:07.007865+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "08b3849bc94249d395a8ae1319118eaf",
+          "amount": 129990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380636188564",
+                "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+                "email": "elena.musienko@it-solutions.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38239436",
+                "legalName": "ТОВ \"АЙТІ-СОЛЮШНС\""
+              },
+              "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01004, м. Київ, \r\n\r\nвул. Крутий Узвіз, буд. 6/2А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T15:11:41.449031+02:00"
+        },
+        {
+          "bidder": "7943f8f3f6374b73b58cb3fe649a739f",
+          "amount": 129000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kots.kiev.ua/",
+                "telephone": "0504468216",
+                "name": "Станіслав  Коц ",
+                "email": "stanislav.kots@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19031061",
+                "legalName": "ПрАТ \"КОТС\""
+              },
+              "name": "ПрАТ \"КОТС\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "м. Київ, вул. Хрещатик 19А"
+              }
+            }
+          ],
+          "time": "2015-11-16T14:39:36.386569+02:00"
+        }
+      ],
+      "time": "2015-11-19T10:57:08.404869+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T15:11:41.449031+02:00",
+          "amount": 129990.0,
+          "bidder": "08b3849bc94249d395a8ae1319118eaf"
+        },
+        {
+          "date": "2015-11-16T14:39:36.386569+02:00",
+          "amount": 129000.0,
+          "bidder": "7943f8f3f6374b73b58cb3fe649a739f"
+        }
+      ],
+      "time": "2015-11-19T10:36:07.003809+00:00"
+    }
+  },
+  "id": "3e213ee4a3c0411c9bcede37e39174d8",
+  "tenderId": "UA-2015-11-12-000107-b"
+}

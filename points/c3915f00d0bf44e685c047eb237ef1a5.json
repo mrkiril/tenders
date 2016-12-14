@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1357e4bbe2ea4493b1bc698c96f48705",
+        "time": "2015-10-12T09:25:32.009527+00:00"
+      },
+      "turn_1": {
+        "bidder": "904d5f4309c24e658f6054d2a85e19ac",
+        "time": "2015-10-12T09:23:32.017596+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1357e4bbe2ea4493b1bc698c96f48705",
+        "time": "2015-10-12T09:31:32.008798+00:00"
+      },
+      "turn_1": {
+        "bidder": "904d5f4309c24e658f6054d2a85e19ac",
+        "time": "2015-10-12T09:29:32.013871+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1357e4bbe2ea4493b1bc698c96f48705",
+        "time": "2015-10-12T09:19:32.010969+00:00"
+      },
+      "turn_1": {
+        "bidder": "904d5f4309c24e658f6054d2a85e19ac",
+        "time": "2015-10-12T09:17:32.009829+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "904d5f4309c24e658f6054d2a85e19ac",
+          "amount": 125.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674432697",
+                "name": "Алексей Березовый",
+                "email": "techno@nbi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37024493",
+                "legalName": "ТзОВ \"Постачинструмент 2000\""
+              },
+              "name": "ТзОВ \"Постачинструмент 2000\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03067",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-05T14:31:03.303184+03:00"
+        },
+        {
+          "bidder": "1357e4bbe2ea4493b1bc698c96f48705",
+          "amount": 121.44,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-08T15:08:09.429196+03:00"
+        }
+      ],
+      "time": "2015-10-12T09:31:36.083814+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T14:31:03.303184+03:00",
+          "amount": 125.0,
+          "bidder": "904d5f4309c24e658f6054d2a85e19ac"
+        },
+        {
+          "date": "2015-10-08T15:08:09.429196+03:00",
+          "amount": 121.44,
+          "bidder": "1357e4bbe2ea4493b1bc698c96f48705"
+        }
+      ],
+      "time": "2015-10-12T09:10:32.004898+00:00"
+    }
+  },
+  "id": "c3915f00d0bf44e685c047eb237ef1a5",
+  "tenderId": "UA-2015-10-05-000101"
+}

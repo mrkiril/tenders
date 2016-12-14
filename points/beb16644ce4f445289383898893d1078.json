@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f9640546fcb745268f3e9eaba1c98a92",
+        "time": "2015-11-18T10:52:38.006556+00:00"
+      },
+      "turn_3": {
+        "bidder": "66d9a3409b114bf695a396ee589f031e",
+        "time": "2015-11-18T10:54:38.007069+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d23b61ca9bc4f3eb9f502cd7075cfdd",
+        "time": "2015-11-18T10:50:38.006487+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 816.0,
+        "bid_time": "2015-11-18T12:59:24.915239+02:00",
+        "bidder": "f9640546fcb745268f3e9eaba1c98a92",
+        "time": "2015-11-18T11:00:38.008333+00:00"
+      },
+      "turn_3": {
+        "amount": 813.0,
+        "bid_time": "2015-11-18T13:01:47.819877+02:00",
+        "bidder": "66d9a3409b114bf695a396ee589f031e",
+        "time": "2015-11-18T11:02:38.007479+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d23b61ca9bc4f3eb9f502cd7075cfdd",
+        "time": "2015-11-18T10:58:38.006229+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f9640546fcb745268f3e9eaba1c98a92",
+        "time": "2015-11-18T10:44:38.006699+00:00"
+      },
+      "turn_3": {
+        "bidder": "66d9a3409b114bf695a396ee589f031e",
+        "time": "2015-11-18T10:46:38.007137+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d23b61ca9bc4f3eb9f502cd7075cfdd",
+        "time": "2015-11-18T10:42:38.006903+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d23b61ca9bc4f3eb9f502cd7075cfdd",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T16:52:20.019397+02:00"
+        },
+        {
+          "bidder": "f9640546fcb745268f3e9eaba1c98a92",
+          "amount": 816.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:59:24.915239+02:00"
+        },
+        {
+          "bidder": "66d9a3409b114bf695a396ee589f031e",
+          "amount": 813.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T13:01:47.819877+02:00"
+        }
+      ],
+      "time": "2015-11-18T11:03:04.088391+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T16:52:20.019397+02:00",
+          "amount": 900.0,
+          "bidder": "4d23b61ca9bc4f3eb9f502cd7075cfdd"
+        },
+        {
+          "date": "2015-11-17T16:43:23.284348+02:00",
+          "amount": 897.6,
+          "bidder": "f9640546fcb745268f3e9eaba1c98a92"
+        },
+        {
+          "date": "2015-11-17T13:51:25.932992+02:00",
+          "amount": 876.0,
+          "bidder": "66d9a3409b114bf695a396ee589f031e"
+        }
+      ],
+      "time": "2015-11-18T10:35:38.002795+00:00"
+    }
+  },
+  "id": "beb16644ce4f445289383898893d1078",
+  "tenderId": "UA-2015-11-13-000140-b"
+}

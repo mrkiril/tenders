@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0ae7e47ea3584b36813ae0fcb665c78c",
+        "time": "2015-12-03T11:55:07.007756+00:00"
+      },
+      "turn_1": {
+        "bidder": "f4c75df1c03c4db7a296623edede7528",
+        "time": "2015-12-03T11:53:07.007407+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0ae7e47ea3584b36813ae0fcb665c78c",
+        "time": "2015-12-03T12:01:07.007312+00:00"
+      },
+      "turn_1": {
+        "bidder": "f4c75df1c03c4db7a296623edede7528",
+        "time": "2015-12-03T11:59:07.007147+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0ae7e47ea3584b36813ae0fcb665c78c",
+        "time": "2015-12-03T11:49:07.007974+00:00"
+      },
+      "turn_1": {
+        "bidder": "f4c75df1c03c4db7a296623edede7528",
+        "time": "2015-12-03T11:47:07.007959+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f4c75df1c03c4db7a296623edede7528",
+          "amount": 32800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445924454",
+                "name": "Олексій Іванов",
+                "email": "ivanov@rcscomponents.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39087398",
+                "legalName": "ТОВ \"РКС КОМПОНЕНТИ УКРАЇНА\""
+              },
+              "name": "ТОВ \"РКС КОМПОНЕНТИ УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03087",
+                "region": "Киевская",
+                "streetAddress": "03087, м. Київ, бульвар Чоколівський, буд. 42-А, офіс 134-1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:14:56.500970+02:00"
+        },
+        {
+          "bidder": "0ae7e47ea3584b36813ae0fcb665c78c",
+          "amount": 32000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-02T08:53:47.514777+02:00"
+        }
+      ],
+      "time": "2015-12-03T12:01:28.604585+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T15:14:56.500970+02:00",
+          "amount": 32800.0,
+          "bidder": "f4c75df1c03c4db7a296623edede7528"
+        },
+        {
+          "date": "2015-12-02T08:53:47.514777+02:00",
+          "amount": 32000.0,
+          "bidder": "0ae7e47ea3584b36813ae0fcb665c78c"
+        }
+      ],
+      "time": "2015-12-03T11:40:07.003355+00:00"
+    }
+  },
+  "id": "1177bcc2640b4521a16299354ce541ca",
+  "tenderId": "UA-2015-12-01-000115"
+}

@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "85daeb5b0abc46efb7f49b4ffac0915e",
+        "time": "2015-11-27T12:29:46.008051+00:00"
+      },
+      "turn_1": {
+        "bidder": "497af9c677ef4c96968b04ce6999748f",
+        "time": "2015-11-27T12:27:46.007666+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1299.0,
+        "bid_time": "2015-11-27T14:34:21.039802+02:00",
+        "bidder": "85daeb5b0abc46efb7f49b4ffac0915e",
+        "time": "2015-11-27T12:35:46.009241+00:00"
+      },
+      "turn_1": {
+        "amount": 1300.0,
+        "bid_time": "2015-11-27T14:33:45.265631+02:00",
+        "bidder": "497af9c677ef4c96968b04ce6999748f",
+        "time": "2015-11-27T12:33:46.006947+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "497af9c677ef4c96968b04ce6999748f",
+        "time": "2015-11-27T12:23:46.007698+00:00"
+      },
+      "turn_1": {
+        "amount": 1356.0,
+        "bid_time": "2015-11-27T14:20:00.257454+02:00",
+        "bidder": "85daeb5b0abc46efb7f49b4ffac0915e",
+        "time": "2015-11-27T12:21:46.008502+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "497af9c677ef4c96968b04ce6999748f",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mcfr.ua/",
+                "telephone": "0445865606",
+                "name": "Юлія  Бабяк ",
+                "email": "jbabiak@mcfr.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33542497",
+                "legalName": "ТОВ \"МЦФЕР - Україна\""
+              },
+              "name": "ТОВ \"МЦФЕР - Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Київ, вул. М. Раскової, 11-А, а/с 170, 02660"
+              }
+            }
+          ],
+          "time": "2015-11-27T14:33:45.265631+02:00"
+        },
+        {
+          "bidder": "85daeb5b0abc46efb7f49b4ffac0915e",
+          "amount": 1299.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445000506, +380443538817, +380443538815, +380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-27T14:34:21.039802+02:00"
+        }
+      ],
+      "time": "2015-11-27T12:35:47.154104+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T14:06:57.197319+02:00",
+          "amount": 1370.0,
+          "bidder": "85daeb5b0abc46efb7f49b4ffac0915e"
+        },
+        {
+          "date": "2015-11-24T16:23:45.294554+02:00",
+          "amount": 1369.8,
+          "bidder": "497af9c677ef4c96968b04ce6999748f"
+        }
+      ],
+      "time": "2015-11-27T12:14:46.004805+00:00"
+    }
+  },
+  "id": "272837f1efe845409cac8bea133df324",
+  "tenderId": "UA-2015-11-19-000132-b"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e513e11fc1684cc3abf1220d4646e94c",
+        "time": "2015-09-22T08:15:00.105629+00:00"
+      },
+      "turn_1": {
+        "bidder": "1820a3b85e6d4d85a9ef166e06e35b01",
+        "time": "2015-09-22T08:13:00.123145+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e513e11fc1684cc3abf1220d4646e94c",
+        "time": "2015-09-22T08:21:00.185796+00:00"
+      },
+      "turn_1": {
+        "bidder": "1820a3b85e6d4d85a9ef166e06e35b01",
+        "time": "2015-09-22T08:19:00.056705+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 99000.0,
+        "bid_time": "2015-09-22T11:08:48.401284+03:00",
+        "bidder": "e513e11fc1684cc3abf1220d4646e94c",
+        "time": "2015-09-22T08:09:00.057836+00:00"
+      },
+      "turn_1": {
+        "bidder": "1820a3b85e6d4d85a9ef166e06e35b01",
+        "time": "2015-09-22T08:07:00.186089+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1820a3b85e6d4d85a9ef166e06e35b01",
+          "amount": 100800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503051400",
+                "name": "Артем Шажко",
+                "email": "uub_kharkov@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25158707",
+                "legalName": "Українська універсальна біржа"
+              },
+              "name": "Українська універсальна біржа",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36039",
+                "region": "Полтавская",
+                "streetAddress": "м. Полтава, вул. Шевченка, 52",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-09-21T15:32:55.424930+03:00"
+        },
+        {
+          "bidder": "e513e11fc1684cc3abf1220d4646e94c",
+          "amount": 99000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562366555",
+                "name": "Любовь Тищенко",
+                "email": "tbe@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23364874",
+                "legalName": "Товарная биржа Екатеринославская"
+              },
+              "name": "Товарная биржа Екатеринославская",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49006",
+                "region": "Днепропетровская",
+                "streetAddress": "пр. Пушкина, 49",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-09-22T11:08:48.401284+03:00"
+        }
+      ],
+      "time": "2015-09-22T08:21:09.688101+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-21T15:32:55.424930+03:00",
+          "amount": 100800.0,
+          "bidder": "1820a3b85e6d4d85a9ef166e06e35b01"
+        },
+        {
+          "date": "2015-09-16T15:01:20.039864+03:00",
+          "amount": 100000.0,
+          "bidder": "e513e11fc1684cc3abf1220d4646e94c"
+        }
+      ],
+      "time": "2015-09-22T08:00:00.002740+00:00"
+    }
+  },
+  "id": "08bbcb21961545458a2e3ba7f31ea413",
+  "tenderId": "UA-2015-09-10-000253"
+}

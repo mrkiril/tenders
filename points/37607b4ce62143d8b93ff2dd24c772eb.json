@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "74d1a1da027942e6be7c1ac4b3cfdbc4",
+        "time": "2015-12-09T12:59:04.007188+00:00"
+      },
+      "turn_1": {
+        "amount": 25600.0,
+        "bid_time": "2015-12-09T14:55:27.933857+02:00",
+        "bidder": "c5a689135e894ccda416893743c4057e",
+        "time": "2015-12-09T12:57:04.009537+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "74d1a1da027942e6be7c1ac4b3cfdbc4",
+        "time": "2015-12-09T13:05:04.011085+00:00"
+      },
+      "turn_1": {
+        "amount": 25350.0,
+        "bid_time": "2015-12-09T15:01:45.932341+02:00",
+        "bidder": "c5a689135e894ccda416893743c4057e",
+        "time": "2015-12-09T13:03:04.025250+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 24680.0,
+        "bid_time": "2015-12-09T14:52:19.827585+02:00",
+        "bidder": "74d1a1da027942e6be7c1ac4b3cfdbc4",
+        "time": "2015-12-09T12:53:04.007986+00:00"
+      },
+      "turn_1": {
+        "amount": 25900.0,
+        "bid_time": "2015-12-09T14:50:26.651392+02:00",
+        "bidder": "c5a689135e894ccda416893743c4057e",
+        "time": "2015-12-09T12:51:04.008594+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c5a689135e894ccda416893743c4057e",
+          "amount": 25350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lighting.dp.ua",
+                "faxNumber": "+380562317012",
+                "telephone": "+380562317012",
+                "name": "Захарова Олега Влерійовича",
+                "email": "light@a-teleport.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13424233"
+              },
+              "name": "ТОВ ФІРМА \"КОН-СОЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49010",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Лазаряна 3",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:01:45.932341+02:00"
+        },
+        {
+          "bidder": "74d1a1da027942e6be7c1ac4b3cfdbc4",
+          "amount": 24680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vashimage.at.ua",
+                "telephone": "+380577561746",
+                "name": "Петров Вадим Володимирович",
+                "email": "vashimage@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37190898"
+              },
+              "name": "ТОВ ВАШІМІДЖ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська область",
+                "streetAddress": "Якіра, 3, кв.25",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-09T14:52:19.827585+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:05:05.062804+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T16:40:54.893883+02:00",
+          "amount": 26757.08,
+          "bidder": "c5a689135e894ccda416893743c4057e"
+        },
+        {
+          "date": "2015-12-06T21:03:43.258661+02:00",
+          "amount": 25740.0,
+          "bidder": "74d1a1da027942e6be7c1ac4b3cfdbc4"
+        }
+      ],
+      "time": "2015-12-09T12:44:04.003083+00:00"
+    }
+  },
+  "id": "37607b4ce62143d8b93ff2dd24c772eb",
+  "tenderId": "UA-2015-11-30-000226"
+}

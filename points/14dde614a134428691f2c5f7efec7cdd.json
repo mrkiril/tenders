@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "906e69d328eb40cc9e1ce26afbe631b0",
+        "time": "2015-08-07T08:45:00.189050+00:00"
+      },
+      "turn_1": {
+        "bidder": "5982438761b247f8a6c79bbc25937b13",
+        "time": "2015-08-07T08:43:00.150797+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "906e69d328eb40cc9e1ce26afbe631b0",
+        "time": "2015-08-07T08:51:00.102239+00:00"
+      },
+      "turn_1": {
+        "bidder": "5982438761b247f8a6c79bbc25937b13",
+        "time": "2015-08-07T08:49:00.156514+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "906e69d328eb40cc9e1ce26afbe631b0",
+        "time": "2015-08-07T08:39:00.085132+00:00"
+      },
+      "turn_1": {
+        "bidder": "5982438761b247f8a6c79bbc25937b13",
+        "time": "2015-08-07T08:37:00.127551+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5982438761b247f8a6c79bbc25937b13",
+          "amount": 23640.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdvl.com.ua/",
+                "telephone": "0577757345",
+                "name": "ЮЛІЯ МОКРІЙ ",
+                "email": "td-vladar@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947554",
+                "legalName": ""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТД Владар-Харків\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Харьковская область",
+                "streetAddress": "61022, м. Харків, вул. Іванівська, буд.1"
+              }
+            }
+          ],
+          "time": "2015-08-06T16:35:29.478512+03:00"
+        },
+        {
+          "bidder": "906e69d328eb40cc9e1ce26afbe631b0",
+          "amount": 23640.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Юлія",
+                "email": "td-vladar@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947554",
+                "legalName": "ООО ТД Владар-Харьков"
+              },
+              "name": "ООО ТД Владар-Харьков",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61022",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-08-06T16:32:44.288104+03:00"
+        }
+      ],
+      "time": "2015-08-07T08:51:06.821929+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-06T16:32:44.288104+03:00",
+          "amount": 23640.0,
+          "bidder": "906e69d328eb40cc9e1ce26afbe631b0"
+        },
+        {
+          "date": "2015-08-06T16:35:29.478512+03:00",
+          "amount": 23640.0,
+          "bidder": "5982438761b247f8a6c79bbc25937b13"
+        }
+      ],
+      "time": "2015-08-07T08:30:00.022159+00:00"
+    }
+  },
+  "id": "14dde614a134428691f2c5f7efec7cdd",
+  "tenderId": "UA-2015-07-31-000069"
+}

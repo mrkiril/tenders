@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7a4b6e1cf73645e8afb32c2d75f897fd",
+        "time": "2015-07-22T08:15:00.066845+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbfb588cbe1c434f9b20b056b1d2367b",
+        "time": "2015-07-22T08:13:00.050318+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7a4b6e1cf73645e8afb32c2d75f897fd",
+        "time": "2015-07-22T08:21:00.182658+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbfb588cbe1c434f9b20b056b1d2367b",
+        "time": "2015-07-22T08:19:00.078947+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7a4b6e1cf73645e8afb32c2d75f897fd",
+        "time": "2015-07-22T08:09:00.050488+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbfb588cbe1c434f9b20b056b1d2367b",
+        "time": "2015-07-22T08:07:00.085629+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dbfb588cbe1c434f9b20b056b1d2367b",
+          "amount": 1485.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-44-14",
+                "telephone": "0512-67-44-14",
+                "name": "Кондратьєва Анастасія Олександрівна",
+                "email": "gorsrtoisnab@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32884479",
+                "legalName": "Товариство з Обмеженою Відповідальностью Горстройснаб"
+              },
+              "name": "Товариство з Обмеженою Відповідальностью Горстройснаб",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54025",
+                "region": "Миколаївська",
+                "streetAddress": "Проспект Героїв Сталінграда 57",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T11:34:27.481110+03:00"
+        },
+        {
+          "bidder": "7a4b6e1cf73645e8afb32c2d75f897fd",
+          "amount": 1480.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0503180620",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T16:16:05.514719+03:00"
+        }
+      ],
+      "time": "2015-07-22T08:21:05.474422+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-16T11:34:27.481110+03:00",
+          "amount": 1485.0,
+          "bidder": "dbfb588cbe1c434f9b20b056b1d2367b"
+        },
+        {
+          "date": "2015-07-15T16:16:05.514719+03:00",
+          "amount": 1480.0,
+          "bidder": "7a4b6e1cf73645e8afb32c2d75f897fd"
+        }
+      ],
+      "time": "2015-07-22T08:00:00.002136+00:00"
+    }
+  },
+  "id": "6452484d4ef44ae9affb4809417823ad",
+  "tenderId": "UA-2015-07-09-000014"
+}

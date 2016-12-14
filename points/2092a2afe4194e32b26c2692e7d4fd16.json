@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "00bcc58193484d889a6b21dbdba9c2e0",
+        "time": "2015-12-09T10:53:52.011417+00:00"
+      },
+      "turn_3": {
+        "bidder": "e5c4221232614c499b7b2ca2a55bcca1",
+        "time": "2015-12-09T10:55:52.020620+00:00"
+      },
+      "turn_1": {
+        "bidder": "3166ca4f1cc24963a6f240a3b9f54541",
+        "time": "2015-12-09T10:51:52.010505+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "00bcc58193484d889a6b21dbdba9c2e0",
+        "time": "2015-12-09T11:01:52.008073+00:00"
+      },
+      "turn_3": {
+        "bidder": "e5c4221232614c499b7b2ca2a55bcca1",
+        "time": "2015-12-09T11:03:52.007080+00:00"
+      },
+      "turn_1": {
+        "amount": 6990.0,
+        "bid_time": "2015-12-09T12:58:57.739844+02:00",
+        "bidder": "3166ca4f1cc24963a6f240a3b9f54541",
+        "time": "2015-12-09T10:59:52.013869+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 7707.0,
+        "bid_time": "2015-12-09T12:44:16.600590+02:00",
+        "bidder": "00bcc58193484d889a6b21dbdba9c2e0",
+        "time": "2015-12-09T10:45:52.015767+00:00"
+      },
+      "turn_3": {
+        "amount": 7649.0,
+        "bid_time": "2015-12-09T12:46:05.715044+02:00",
+        "bidder": "e5c4221232614c499b7b2ca2a55bcca1",
+        "time": "2015-12-09T10:47:52.013111+00:00"
+      },
+      "turn_1": {
+        "bidder": "3166ca4f1cc24963a6f240a3b9f54541",
+        "time": "2015-12-09T10:43:52.010157+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "00bcc58193484d889a6b21dbdba9c2e0",
+          "amount": 7707.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562357469",
+                "name": "Нина Иванчикова",
+                "email": "nina@forward.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕВЕРЕСТ\"",
+                "id": "32014627",
+                "uri": "http://www.forward.dp.ua"
+              },
+              "name": "ТОВ \"ЕВЕРЕСТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49008",
+                "region": "Днепропетровская",
+                "streetAddress": "вул.Робітнича, буд.23-в",
+                "locality": "м.Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:44:16.600590+02:00"
+        },
+        {
+          "bidder": "e5c4221232614c499b7b2ca2a55bcca1",
+          "amount": 7649.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:46:05.715044+02:00"
+        },
+        {
+          "bidder": "3166ca4f1cc24963a6f240a3b9f54541",
+          "amount": 6990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975643556, +380506438267",
+                "name": "Максим Міщенко",
+                "email": "max@kompa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Міщенко О. А.\"",
+                "id": "2978900762",
+                "uri": "http://kompa.com.ua"
+              },
+              "name": "ФОП \"Міщенко О. А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:58:57.739844+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:03:54.230075+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-05T11:14:42.199006+02:00",
+          "amount": 7800.0,
+          "bidder": "3166ca4f1cc24963a6f240a3b9f54541"
+        },
+        {
+          "date": "2015-12-06T02:05:08.016343+02:00",
+          "amount": 7794.0,
+          "bidder": "00bcc58193484d889a6b21dbdba9c2e0"
+        },
+        {
+          "date": "2015-12-08T10:57:07.362290+02:00",
+          "amount": 7719.0,
+          "bidder": "e5c4221232614c499b7b2ca2a55bcca1"
+        }
+      ],
+      "time": "2015-12-09T10:36:52.002754+00:00"
+    }
+  },
+  "id": "2092a2afe4194e32b26c2692e7d4fd16",
+  "tenderId": "UA-2015-11-30-000087"
+}

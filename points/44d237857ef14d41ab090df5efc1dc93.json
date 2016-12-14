@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "efd01dccd2c043d1a8cfd84e00241c07",
+        "time": "2015-09-10T08:45:00.181046+00:00"
+      },
+      "turn_1": {
+        "bidder": "66357808ad984e288d8b622147446747",
+        "time": "2015-09-10T08:43:00.133211+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "efd01dccd2c043d1a8cfd84e00241c07",
+        "time": "2015-09-10T08:51:00.050177+00:00"
+      },
+      "turn_1": {
+        "bidder": "66357808ad984e288d8b622147446747",
+        "time": "2015-09-10T08:49:00.075019+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "66357808ad984e288d8b622147446747",
+        "time": "2015-09-10T08:39:00.077632+00:00"
+      },
+      "turn_1": {
+        "amount": 2906.0,
+        "bid_time": "2015-09-10T11:35:57.342340+03:00",
+        "bidder": "efd01dccd2c043d1a8cfd84e00241c07",
+        "time": "2015-09-10T08:37:00.087123+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "66357808ad984e288d8b622147446747",
+          "amount": 2987.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:21:20.958861+03:00"
+        },
+        {
+          "bidder": "efd01dccd2c043d1a8cfd84e00241c07",
+          "amount": 2906.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503803596, +380445911003",
+                "name": "Юрий Лысенко",
+                "email": "lysenko76@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО ОилТрейдБатери\"",
+                "id": "39302697",
+                "uri": "http://oiltreydbateri.prom.ua"
+              },
+              "name": "ТОВ \"ООО ОилТрейдБатери\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Транспортная,1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:35:57.342340+03:00"
+        }
+      ],
+      "time": "2015-09-10T08:51:11.641650+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T13:23:02.335640+03:00",
+          "amount": 2996.0,
+          "bidder": "efd01dccd2c043d1a8cfd84e00241c07"
+        },
+        {
+          "date": "2015-09-04T11:21:20.958861+03:00",
+          "amount": 2987.5,
+          "bidder": "66357808ad984e288d8b622147446747"
+        }
+      ],
+      "time": "2015-09-10T08:30:00.033654+00:00"
+    }
+  },
+  "id": "44d237857ef14d41ab090df5efc1dc93",
+  "tenderId": "UA-2015-08-28-000018"
+}

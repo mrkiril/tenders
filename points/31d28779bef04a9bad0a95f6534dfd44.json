@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a6e880b2a4014a5c8e2081e0f979c7cf",
+        "time": "2015-08-03T09:45:00.049409+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb680a273f794dceaf253a4acf349a92",
+        "time": "2015-08-03T09:43:00.034839+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a6e880b2a4014a5c8e2081e0f979c7cf",
+        "time": "2015-08-03T09:51:00.041442+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb680a273f794dceaf253a4acf349a92",
+        "time": "2015-08-03T09:49:00.035356+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cb680a273f794dceaf253a4acf349a92",
+        "time": "2015-08-03T09:39:00.021213+00:00"
+      },
+      "turn_1": {
+        "amount": 564000.0,
+        "bid_time": "2015-08-03T12:36:31.750564+03:00",
+        "bidder": "a6e880b2a4014a5c8e2081e0f979c7cf",
+        "time": "2015-08-03T09:37:00.010188+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cb680a273f794dceaf253a4acf349a92",
+          "amount": 564089.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.perun.ua",
+                "faxNumber": "+380444282921",
+                "telephone": "+380445921629",
+                "name": "Висоцька Наталія Валеріївна",
+                "email": "nata@perun.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32706074"
+              },
+              "name": "ТОВ ПЄРУН",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04213",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Прирічна, 25-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-07-31T12:53:40.537238+03:00"
+        },
+        {
+          "bidder": "a6e880b2a4014a5c8e2081e0f979c7cf",
+          "amount": 564000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T12:36:31.750564+03:00"
+        }
+      ],
+      "time": "2015-08-03T09:51:01.637944+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T14:49:18.346883+03:00",
+          "amount": 624249.01,
+          "bidder": "a6e880b2a4014a5c8e2081e0f979c7cf"
+        },
+        {
+          "date": "2015-07-31T12:53:40.537238+03:00",
+          "amount": 564089.68,
+          "bidder": "cb680a273f794dceaf253a4acf349a92"
+        }
+      ],
+      "time": "2015-08-03T09:30:00.001950+00:00"
+    }
+  },
+  "id": "31d28779bef04a9bad0a95f6534dfd44",
+  "tenderId": "UA-2015-07-28-000185"
+}

@@ -1,0 +1,207 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "6d148a70fb1f45ea9bffa758b0e3bb8d",
+        "time": "2015-08-18T10:23:00.007829+00:00"
+      },
+      "turn_2": {
+        "amount": 2435.0,
+        "bid_time": "2015-08-18T13:17:29.830645+03:00",
+        "bidder": "78a53ccca5ad43c0954bf326ab437ec7",
+        "time": "2015-08-18T10:19:00.010418+00:00"
+      },
+      "turn_3": {
+        "bidder": "8201abeb94db4b73830fe89ffee1c01f",
+        "time": "2015-08-18T10:21:00.010085+00:00"
+      },
+      "turn_1": {
+        "bidder": "4324a9b6553b4802980f5100639335e6",
+        "time": "2015-08-18T10:17:00.008441+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "6d148a70fb1f45ea9bffa758b0e3bb8d",
+        "time": "2015-08-18T10:33:00.008390+00:00"
+      },
+      "turn_2": {
+        "bidder": "8201abeb94db4b73830fe89ffee1c01f",
+        "time": "2015-08-18T10:29:00.008685+00:00"
+      },
+      "turn_3": {
+        "bidder": "78a53ccca5ad43c0954bf326ab437ec7",
+        "time": "2015-08-18T10:31:00.006663+00:00"
+      },
+      "turn_1": {
+        "bidder": "4324a9b6553b4802980f5100639335e6",
+        "time": "2015-08-18T10:27:00.006946+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "6d148a70fb1f45ea9bffa758b0e3bb8d",
+        "time": "2015-08-18T10:13:00.009839+00:00"
+      },
+      "turn_2": {
+        "amount": 2955.0,
+        "bid_time": "2015-08-18T13:07:27.441842+03:00",
+        "bidder": "78a53ccca5ad43c0954bf326ab437ec7",
+        "time": "2015-08-18T10:09:00.010431+00:00"
+      },
+      "turn_3": {
+        "bidder": "8201abeb94db4b73830fe89ffee1c01f",
+        "time": "2015-08-18T10:11:00.009622+00:00"
+      },
+      "turn_1": {
+        "amount": 3009.0,
+        "bid_time": "2015-08-18T13:05:12.698076+03:00",
+        "bidder": "4324a9b6553b4802980f5100639335e6",
+        "time": "2015-08-18T10:07:00.011540+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4324a9b6553b4802980f5100639335e6",
+          "amount": 3009.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532667662",
+                "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+                "email": "svitlo-energo@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35360095",
+                "legalName": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\""
+              },
+              "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36034, г.Полтава, ул. Великотырновская,39д,кв.140",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T13:05:12.698076+03:00"
+        },
+        {
+          "bidder": "8201abeb94db4b73830fe89ffee1c01f",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pampu.net/",
+                "telephone": "+380674673802",
+                "name": "Товариство з обмеженою відповідальністю  \"Пампу.Нет\"",
+                "email": "pampunet@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39243050",
+                "legalName": "Товариство з обмеженою відповідальністю  \"Пампу.Нет\""
+              },
+              "name": "Товариство з обмеженою відповідальністю  \"Пампу.Нет\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, м.Київ, вул.Лугова 2-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T16:04:53.096042+03:00"
+        },
+        {
+          "bidder": "78a53ccca5ad43c0954bf326ab437ec7",
+          "amount": 2435.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.svetonika.com.ua",
+                "telephone": "+380504450280",
+                "name": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\"",
+                "email": "bolyubash@svetonika.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37465610",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73000, Херсон, ул. Фонтанна, дом № 21, корпус 1, кв.102",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T13:17:29.830645+03:00"
+        },
+        {
+          "bidder": "6d148a70fb1f45ea9bffa758b0e3bb8d",
+          "amount": 1850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.elektal.com.ua",
+                "telephone": "+380562392999",
+                "name": "ООО\"Электал\"",
+                "email": "marina@elektal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31540498",
+                "legalName": "ООО\"Электал\""
+              },
+              "name": "ООО\"Электал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск,ул.Генерала Пушкина,26/171",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T13:18:48.449031+03:00"
+        }
+      ],
+      "time": "2015-08-18T10:33:03.545553+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-17T12:11:28.498895+03:00",
+          "amount": 3354.0,
+          "bidder": "4324a9b6553b4802980f5100639335e6"
+        },
+        {
+          "date": "2015-08-14T15:55:35.853264+03:00",
+          "amount": 3300.0,
+          "bidder": "78a53ccca5ad43c0954bf326ab437ec7"
+        },
+        {
+          "date": "2015-08-14T16:04:53.096042+03:00",
+          "amount": 2500.0,
+          "bidder": "8201abeb94db4b73830fe89ffee1c01f"
+        },
+        {
+          "date": "2015-08-17T13:18:48.449031+03:00",
+          "amount": 1850.0,
+          "bidder": "6d148a70fb1f45ea9bffa758b0e3bb8d"
+        }
+      ],
+      "time": "2015-08-18T10:00:00.003053+00:00"
+    }
+  },
+  "id": "2203d7da221f48238f622b9d176ac4f0",
+  "tenderId": "UA-2015-08-13-000059"
+}

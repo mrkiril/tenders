@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fa1dcf3a039d4e809a7379ef3bb5bbd8",
+        "time": "2015-12-04T12:26:02.007907+00:00"
+      },
+      "turn_1": {
+        "bidder": "84c6d97e513f4373959fd94b8696553c",
+        "time": "2015-12-04T12:24:02.030648+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fa1dcf3a039d4e809a7379ef3bb5bbd8",
+        "time": "2015-12-04T12:32:02.007740+00:00"
+      },
+      "turn_1": {
+        "bidder": "84c6d97e513f4373959fd94b8696553c",
+        "time": "2015-12-04T12:30:02.008432+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fa1dcf3a039d4e809a7379ef3bb5bbd8",
+        "time": "2015-12-04T12:20:02.008834+00:00"
+      },
+      "turn_1": {
+        "bidder": "84c6d97e513f4373959fd94b8696553c",
+        "time": "2015-12-04T12:18:02.032026+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "84c6d97e513f4373959fd94b8696553c",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://aikam.com.ua/",
+                "faxNumber": "0672209250",
+                "telephone": "0975482130",
+                "name": "Купчинський Андрій Миколайович",
+                "email": "akupchynskyi@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39831397",
+                "legalName": "Товариство з обмеженою відповідальністю \"Айкам\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Айкам\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська",
+                "streetAddress": "вул. Звіринецька, 63",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T13:30:35.076578+02:00"
+        },
+        {
+          "bidder": "fa1dcf3a039d4e809a7379ef3bb5bbd8",
+          "amount": 1995.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0674415178",
+                "telephone": "0674016962",
+                "name": "Бабенко Наталія Миколаївна",
+                "email": "profi-vet@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38981370",
+                "legalName": "ТОВ \"ПРОФІ-ВЕТ\""
+              },
+              "name": "ТОВ \"ПРОФІ-ВЕТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08131",
+                "region": "Київська",
+                "streetAddress": "вул. Лесі Українки,27/70",
+                "locality": "с.Софіївська Борщагівка"
+              }
+            }
+          ],
+          "time": "2015-12-03T13:45:45.881835+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:32:03.429658+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T13:30:35.076578+02:00",
+          "amount": 2000.0,
+          "bidder": "84c6d97e513f4373959fd94b8696553c"
+        },
+        {
+          "date": "2015-12-03T13:45:45.881835+02:00",
+          "amount": 1995.0,
+          "bidder": "fa1dcf3a039d4e809a7379ef3bb5bbd8"
+        }
+      ],
+      "time": "2015-12-04T12:11:02.004045+00:00"
+    }
+  },
+  "id": "cdb45f02de3941488247365de5569c7c",
+  "tenderId": "UA-2015-12-01-000137-b"
+}

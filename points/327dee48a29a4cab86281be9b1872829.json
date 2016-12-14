@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "17000df83c8744eab50e1e1f40bea32c",
+        "time": "2015-09-09T09:45:00.039090+00:00"
+      },
+      "turn_1": {
+        "bidder": "31ab2a22a59a4cfeaa9a633c01e01f31",
+        "time": "2015-09-09T09:43:00.025923+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "17000df83c8744eab50e1e1f40bea32c",
+        "time": "2015-09-09T09:51:00.012515+00:00"
+      },
+      "turn_1": {
+        "bidder": "31ab2a22a59a4cfeaa9a633c01e01f31",
+        "time": "2015-09-09T09:49:00.024852+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "31ab2a22a59a4cfeaa9a633c01e01f31",
+        "time": "2015-09-09T09:39:00.037497+00:00"
+      },
+      "turn_1": {
+        "amount": 3900.0,
+        "bid_time": "2015-09-09T12:35:05.750176+03:00",
+        "bidder": "17000df83c8744eab50e1e1f40bea32c",
+        "time": "2015-09-09T09:37:00.068344+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "31ab2a22a59a4cfeaa9a633c01e01f31",
+          "amount": 4305.72,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T15:41:18.419050+03:00"
+        },
+        {
+          "bidder": "17000df83c8744eab50e1e1f40bea32c",
+          "amount": 3900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0487287757",
+                "email": "vladimirova@korall.com.ua",
+                "name": "Владимирова Михайловна Анна"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30646438",
+                "legalName": "Приватне підприємство \"Штампсервіс\""
+              },
+              "name": "Приватне підприємство \"Штампсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65011",
+                "region": "Одеська",
+                "streetAddress": "В.Арнаутська,36",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-09T12:35:05.750176+03:00"
+        }
+      ],
+      "time": "2015-09-09T09:51:06.203918+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T10:19:20.269847+03:00",
+          "amount": 4500.0,
+          "bidder": "17000df83c8744eab50e1e1f40bea32c"
+        },
+        {
+          "date": "2015-09-08T15:41:18.419050+03:00",
+          "amount": 4305.72,
+          "bidder": "31ab2a22a59a4cfeaa9a633c01e01f31"
+        }
+      ],
+      "time": "2015-09-09T09:30:00.002342+00:00"
+    }
+  },
+  "id": "327dee48a29a4cab86281be9b1872829",
+  "tenderId": "UA-2015-09-02-000048"
+}

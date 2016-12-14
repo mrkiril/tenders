@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ac1ae1f886e4490ca7bdd34b4fe32f68",
+        "time": "2015-11-30T11:51:34.008092+00:00"
+      },
+      "turn_1": {
+        "bidder": "c986ccd99da84a52b9aabc11735c61c4",
+        "time": "2015-11-30T11:49:34.007994+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1129607.0,
+        "bid_time": "2015-11-30T13:56:36.994867+02:00",
+        "bidder": "ac1ae1f886e4490ca7bdd34b4fe32f68",
+        "time": "2015-11-30T11:57:34.009888+00:00"
+      },
+      "turn_1": {
+        "amount": 1133699.6,
+        "bid_time": "2015-11-30T13:54:05.807962+02:00",
+        "bidder": "c986ccd99da84a52b9aabc11735c61c4",
+        "time": "2015-11-30T11:55:34.009183+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ac1ae1f886e4490ca7bdd34b4fe32f68",
+        "time": "2015-11-30T11:45:34.008130+00:00"
+      },
+      "turn_1": {
+        "bidder": "c986ccd99da84a52b9aabc11735c61c4",
+        "time": "2015-11-30T11:43:34.008337+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c986ccd99da84a52b9aabc11735c61c4",
+          "amount": 1133699.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://etm.in.ua",
+                "telephone": "+380563705873",
+                "name": "Товариство з обмеженою відповідальністю \"НПП Електротепломаш\"",
+                "email": "office@etm.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34589431",
+                "legalName": "Товариство з обмеженою відповідальністю \"НПП Електротепломаш\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"НПП Електротепломаш\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Ударників 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T13:54:05.807962+02:00"
+        },
+        {
+          "bidder": "ac1ae1f886e4490ca7bdd34b4fe32f68",
+          "amount": 1129607.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667774813",
+                "name": "ООО «НПП «ПРОМСИСТЕМА»",
+                "email": "ikostyan400@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38300385",
+                "legalName": "ООО «НПП «ПРОМСИСТЕМА»"
+              },
+              "name": "ООО «НПП «ПРОМСИСТЕМА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Днепропетровск, пр. Калинина, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T13:56:36.994867+02:00"
+        }
+      ],
+      "time": "2015-11-30T11:57:36.311357+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T15:22:57.758507+02:00",
+          "amount": 1193368.0,
+          "bidder": "c986ccd99da84a52b9aabc11735c61c4"
+        },
+        {
+          "date": "2015-11-27T10:03:10.679256+02:00",
+          "amount": 1189275.8,
+          "bidder": "ac1ae1f886e4490ca7bdd34b4fe32f68"
+        }
+      ],
+      "time": "2015-11-30T11:36:34.004017+00:00"
+    }
+  },
+  "id": "8f90e18cf716442285c847f579ab79e9",
+  "tenderId": "UA-2015-11-24-000013-b"
+}

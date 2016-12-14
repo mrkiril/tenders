@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6a9a14bc22434c11922c84d98799475b",
+        "time": "2015-08-19T08:15:00.084259+00:00"
+      },
+      "turn_1": {
+        "bidder": "f8ec922b507c431b9c66fe29e3b936bd",
+        "time": "2015-08-19T08:13:00.067339+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6a9a14bc22434c11922c84d98799475b",
+        "time": "2015-08-19T08:21:00.029414+00:00"
+      },
+      "turn_1": {
+        "bidder": "f8ec922b507c431b9c66fe29e3b936bd",
+        "time": "2015-08-19T08:19:00.039207+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6a9a14bc22434c11922c84d98799475b",
+        "time": "2015-08-19T08:09:00.019476+00:00"
+      },
+      "turn_1": {
+        "bidder": "f8ec922b507c431b9c66fe29e3b936bd",
+        "time": "2015-08-19T08:07:00.023655+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f8ec922b507c431b9c66fe29e3b936bd",
+          "amount": 22663.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://example.com",
+                "faxNumber": "0552325227",
+                "telephone": "0502170698",
+                "name": "Комарова Любов Андріївна",
+                "email": "torg1@krok.kherson.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30667793",
+                "legalName": "ТОВ \"Система аптек Крок\""
+              },
+              "name": "ТОВ \"Система аптек Крок\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "Червонофлотська, 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T10:29:06.625517+03:00"
+        },
+        {
+          "bidder": "6a9a14bc22434c11922c84d98799475b",
+          "amount": 21860.11,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vk.com/id18289241",
+                "faxNumber": "0512-444325",
+                "telephone": "0512-444325",
+                "name": "Полторак алла Йосипівна",
+                "email": "farm-alena@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37913226",
+                "legalName": "Товариство з обмеженою відповідальністтю Аптека \"Фарм-Лайн\""
+              },
+              "name": "Товариство з обмеженою відповідальністтю Аптека \"Фарм-Лайн\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54028",
+                "region": "Миколаївська",
+                "streetAddress": "вул. Космонавтів 126/1 кв. 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T11:24:09.646075+03:00"
+        }
+      ],
+      "time": "2015-08-19T08:21:05.434920+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T10:29:06.625517+03:00",
+          "amount": 22663.0,
+          "bidder": "f8ec922b507c431b9c66fe29e3b936bd"
+        },
+        {
+          "date": "2015-08-14T11:24:09.646075+03:00",
+          "amount": 21860.11,
+          "bidder": "6a9a14bc22434c11922c84d98799475b"
+        }
+      ],
+      "time": "2015-08-19T08:00:00.044928+00:00"
+    }
+  },
+  "id": "325c697db37744f6b9d616ad0277058d",
+  "tenderId": "UA-2015-08-10-000068"
+}

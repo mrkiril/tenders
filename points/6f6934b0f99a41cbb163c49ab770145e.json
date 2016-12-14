@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "38cfe4b956044fa890cbcda7f9119d77",
+        "time": "2015-12-16T10:54:23.022158+00:00"
+      },
+      "turn_3": {
+        "bidder": "8c07a037662346818e091233e40622fd",
+        "time": "2015-12-16T10:56:23.007758+00:00"
+      },
+      "turn_1": {
+        "bidder": "c98adbf0227347d3a2a02f80a9ee183b",
+        "time": "2015-12-16T10:52:23.008400+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 660.0,
+        "bid_time": "2015-12-16T13:02:20.599971+02:00",
+        "bidder": "38cfe4b956044fa890cbcda7f9119d77",
+        "time": "2015-12-16T11:02:23.009122+00:00"
+      },
+      "turn_3": {
+        "bidder": "8c07a037662346818e091233e40622fd",
+        "time": "2015-12-16T11:04:23.009272+00:00"
+      },
+      "turn_1": {
+        "bidder": "c98adbf0227347d3a2a02f80a9ee183b",
+        "time": "2015-12-16T11:00:23.008335+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "38cfe4b956044fa890cbcda7f9119d77",
+        "time": "2015-12-16T10:46:23.008205+00:00"
+      },
+      "turn_3": {
+        "bidder": "8c07a037662346818e091233e40622fd",
+        "time": "2015-12-16T10:48:23.008495+00:00"
+      },
+      "turn_1": {
+        "bidder": "c98adbf0227347d3a2a02f80a9ee183b",
+        "time": "2015-12-16T10:44:23.008200+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c98adbf0227347d3a2a02f80a9ee183b",
+          "amount": 670.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444618912",
+                "telephone": "0674053612",
+                "name": "Корзенюк Олексій Юрійович",
+                "email": "status_luks@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37432323",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02093",
+                "region": "Київська",
+                "streetAddress": "вул.Бориспільська,11а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T13:32:15.207518+02:00"
+        },
+        {
+          "bidder": "8c07a037662346818e091233e40622fd",
+          "amount": 669.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-15T11:24:34.133057+02:00"
+        },
+        {
+          "bidder": "38cfe4b956044fa890cbcda7f9119d77",
+          "amount": 660.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674053612",
+                "name": "Корзенюк Олексій Юрійович",
+                "email": "statuslux@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2749508438",
+                "legalName": "ФОП Корзенюк Олексій Юрійович"
+              },
+              "name": "ФОП Корзенюк Олексій Юрійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02093",
+                "region": "Київська",
+                "streetAddress": "Алма-Атинська,39",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:02:20.599971+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:04:24.111055+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T12:05:07.300847+02:00",
+          "amount": 670.0,
+          "bidder": "38cfe4b956044fa890cbcda7f9119d77"
+        },
+        {
+          "date": "2015-12-15T13:32:15.207518+02:00",
+          "amount": 670.0,
+          "bidder": "c98adbf0227347d3a2a02f80a9ee183b"
+        },
+        {
+          "date": "2015-12-15T11:24:34.133057+02:00",
+          "amount": 669.0,
+          "bidder": "8c07a037662346818e091233e40622fd"
+        }
+      ],
+      "time": "2015-12-16T10:37:23.006283+00:00"
+    }
+  },
+  "id": "6f6934b0f99a41cbb163c49ab770145e",
+  "tenderId": "UA-2015-12-07-000025"
+}

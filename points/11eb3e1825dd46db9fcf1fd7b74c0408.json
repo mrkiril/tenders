@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a89eee249dd54fd18251e8250998195e",
+        "time": "2015-05-27T09:15:00.093397+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9a530afffb64032acd39ab6ed88117f",
+        "time": "2015-05-27T09:13:00.093854+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a89eee249dd54fd18251e8250998195e",
+        "time": "2015-05-27T09:21:00.092585+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9a530afffb64032acd39ab6ed88117f",
+        "time": "2015-05-27T09:19:00.043737+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a89eee249dd54fd18251e8250998195e",
+        "time": "2015-05-27T09:09:00.080387+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9a530afffb64032acd39ab6ed88117f",
+        "time": "2015-05-27T09:07:00.065005+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f9a530afffb64032acd39ab6ed88117f",
+          "amount": 199500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990053564, +380442233693",
+                "name": "Сергей Данец",
+                "email": "danets.sergey@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34487249",
+                "legalName": "ТОВ \"СПЕЦСЕРВІС 2006\""
+              },
+              "name": "ТОВ \"СПЕЦСЕРВІС 2006\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04208",
+                "region": "Киевская",
+                "streetAddress": "пр-т Георгия Гонгадзе, 4, оф.52",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-26T13:06:51.736656+03:00"
+        },
+        {
+          "bidder": "a89eee249dd54fd18251e8250998195e",
+          "amount": 179823.36,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38874948",
+                "legalName": "ТОВ \"Еста Лайт\""
+              },
+              "name": "ТОВ \"Еста Лайт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36002",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-05-26T09:15:16.848343+03:00"
+        }
+      ],
+      "time": "2015-05-27T09:21:02.761134+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-26T13:06:51.736656+03:00",
+          "amount": 199500.0,
+          "bidder": "f9a530afffb64032acd39ab6ed88117f"
+        },
+        {
+          "date": "2015-05-26T09:15:16.848343+03:00",
+          "amount": 179823.36,
+          "bidder": "a89eee249dd54fd18251e8250998195e"
+        }
+      ],
+      "time": "2015-05-27T09:00:00.013517+00:00"
+    }
+  },
+  "id": "11eb3e1825dd46db9fcf1fd7b74c0408",
+  "tenderId": "UA-2015-05-15-000028"
+}

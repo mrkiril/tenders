@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2422e781bc524e39b4427717e98c8681",
+        "time": "2015-10-27T13:21:12.013757+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ca228eedabb473c8be4b6baa9a2bee2",
+        "time": "2015-10-27T13:19:12.009476+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2422e781bc524e39b4427717e98c8681",
+        "time": "2015-10-27T13:27:12.008810+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ca228eedabb473c8be4b6baa9a2bee2",
+        "time": "2015-10-27T13:25:12.008118+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2422e781bc524e39b4427717e98c8681",
+        "time": "2015-10-27T13:15:12.012900+00:00"
+      },
+      "turn_1": {
+        "amount": 2650.0,
+        "bid_time": "2015-10-27T15:12:15.187647+02:00",
+        "bidder": "9ca228eedabb473c8be4b6baa9a2bee2",
+        "time": "2015-10-27T13:13:12.011359+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9ca228eedabb473c8be4b6baa9a2bee2",
+          "amount": 2650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://atlantelektro.prom.ua/",
+                "telephone": "380444557814",
+                "name": "Валерій Сіненко ",
+                "email": "atel2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37013570",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Виробничо-комерційна фірма \"Атлант Електро\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "а/с 64, м.Київ, 03115"
+              }
+            }
+          ],
+          "time": "2015-10-27T15:12:15.187647+02:00"
+        },
+        {
+          "bidder": "2422e781bc524e39b4427717e98c8681",
+          "amount": 2490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intexgroop.kharkov.ua/",
+                "telephone": "+380577665083",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+                "email": "intexgroop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38631848",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр-т Московський, б. 199, корпус Д-5, офіс 233, м. Харків, 61037",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T16:11:52.692486+03:00"
+        }
+      ],
+      "time": "2015-10-27T13:27:22.194552+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T17:04:51.992865+03:00",
+          "amount": 2785.69,
+          "bidder": "9ca228eedabb473c8be4b6baa9a2bee2"
+        },
+        {
+          "date": "2015-10-23T16:11:52.692486+03:00",
+          "amount": 2490.0,
+          "bidder": "2422e781bc524e39b4427717e98c8681"
+        }
+      ],
+      "time": "2015-10-27T13:06:12.004933+00:00"
+    }
+  },
+  "id": "11487aff329241e5b2aee99376cbf6f2",
+  "tenderId": "UA-2015-10-20-000208"
+}

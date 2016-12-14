@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e79796d283784b0d899eedaddd04ef89",
+        "time": "2015-11-04T12:55:42.009595+00:00"
+      },
+      "turn_1": {
+        "bidder": "61270407e86546da9e7936328cfd03ab",
+        "time": "2015-11-04T12:53:42.008740+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e79796d283784b0d899eedaddd04ef89",
+        "time": "2015-11-04T13:01:42.007258+00:00"
+      },
+      "turn_1": {
+        "bidder": "61270407e86546da9e7936328cfd03ab",
+        "time": "2015-11-04T12:59:42.008392+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "61270407e86546da9e7936328cfd03ab",
+        "time": "2015-11-04T12:49:42.009878+00:00"
+      },
+      "turn_1": {
+        "amount": 32999.0,
+        "bid_time": "2015-11-04T14:45:51.525985+02:00",
+        "bidder": "e79796d283784b0d899eedaddd04ef89",
+        "time": "2015-11-04T12:47:42.009249+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "61270407e86546da9e7936328cfd03ab",
+          "amount": 33000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380660025838",
+                "name": "Осадчий Денис Петрович",
+                "email": "zakaznoy@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3031900739"
+              },
+              "name": "ФОП Осадчий",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09700",
+                "region": "Київська область",
+                "streetAddress": "Карла Маркса 10/3",
+                "locality": "Богуслав"
+              }
+            }
+          ],
+          "time": "2015-11-02T20:20:48.914086+02:00"
+        },
+        {
+          "bidder": "e79796d283784b0d899eedaddd04ef89",
+          "amount": 32999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667750372",
+                "name": "Якимов Юрій Володимирович",
+                "email": "skywardtrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39678892"
+              },
+              "name": "ТОВ \"СКАЙВОРД ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б. 9, к. 91",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T14:45:51.525985+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:01:44.273943+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T00:10:15.646162+02:00",
+          "amount": 33097.0,
+          "bidder": "e79796d283784b0d899eedaddd04ef89"
+        },
+        {
+          "date": "2015-11-02T20:20:48.914086+02:00",
+          "amount": 33000.0,
+          "bidder": "61270407e86546da9e7936328cfd03ab"
+        }
+      ],
+      "time": "2015-11-04T12:40:42.004365+00:00"
+    }
+  },
+  "id": "3656f0055ddc447fa5597ffd46026a02",
+  "tenderId": "UA-2015-10-23-000109"
+}

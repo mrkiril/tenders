@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 51785.0,
+        "bid_time": "2015-11-05T12:47:13.900745+02:00",
+        "bidder": "e07c121148194f32b7840cea8aeaec46",
+        "time": "2015-11-05T10:48:56.009788+00:00"
+      },
+      "turn_1": {
+        "amount": 51790.0,
+        "bid_time": "2015-11-05T12:46:15.170570+02:00",
+        "bidder": "7e0bea107f614328840153b4827776c2",
+        "time": "2015-11-05T10:46:56.021736+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e07c121148194f32b7840cea8aeaec46",
+        "time": "2015-11-05T10:54:56.008578+00:00"
+      },
+      "turn_1": {
+        "bidder": "7e0bea107f614328840153b4827776c2",
+        "time": "2015-11-05T10:52:56.008635+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7e0bea107f614328840153b4827776c2",
+        "time": "2015-11-05T10:42:56.009160+00:00"
+      },
+      "turn_1": {
+        "amount": 51798.0,
+        "bid_time": "2015-11-05T12:39:54.374047+02:00",
+        "bidder": "e07c121148194f32b7840cea8aeaec46",
+        "time": "2015-11-05T10:40:56.010093+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7e0bea107f614328840153b4827776c2",
+          "amount": 51790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.contractpol.com.ua",
+                "faxNumber": "+380444943361",
+                "telephone": "+380962030897",
+                "name": "Кривошея Руслан Володимирович",
+                "email": "krv1410@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38891979"
+              },
+              "name": "ТОВ ТОВ «ТБК Атлант»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02166",
+                "region": "Київська область",
+                "streetAddress": "проспект Лісовий 41,кім. 200",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T12:46:15.170570+02:00"
+        },
+        {
+          "bidder": "e07c121148194f32b7840cea8aeaec46",
+          "amount": 51785.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют-центр ООО",
+                "email": "elena.ooo.debut@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "Дебют-центр ООО"
+              },
+              "name": "Дебют-центр ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08290, Киевская обл., г. Ирпень, пгт Гостомель, ул. Чапаева, 1-О",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T12:47:13.900745+02:00"
+        }
+      ],
+      "time": "2015-11-05T10:54:59.370035+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T08:13:38.295620+02:00",
+          "amount": 52158.0,
+          "bidder": "e07c121148194f32b7840cea8aeaec46"
+        },
+        {
+          "date": "2015-11-03T14:04:37.520480+02:00",
+          "amount": 51800.0,
+          "bidder": "7e0bea107f614328840153b4827776c2"
+        }
+      ],
+      "time": "2015-11-05T10:33:56.004598+00:00"
+    }
+  },
+  "id": "1dc09e1f261340dda356df354ee5926b",
+  "tenderId": "UA-2015-11-03-000021"
+}

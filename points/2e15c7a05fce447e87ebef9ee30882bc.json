@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e99b487f94ff4aaa986d631ee9483fe2",
+        "time": "2015-12-16T13:45:29.025312+00:00"
+      },
+      "turn_1": {
+        "bidder": "d283a3df891b459ba175805eb1b70344",
+        "time": "2015-12-16T13:43:29.007525+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e99b487f94ff4aaa986d631ee9483fe2",
+        "time": "2015-12-16T13:51:29.007279+00:00"
+      },
+      "turn_1": {
+        "bidder": "d283a3df891b459ba175805eb1b70344",
+        "time": "2015-12-16T13:49:29.006920+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e99b487f94ff4aaa986d631ee9483fe2",
+        "time": "2015-12-16T13:39:29.006723+00:00"
+      },
+      "turn_1": {
+        "bidder": "d283a3df891b459ba175805eb1b70344",
+        "time": "2015-12-16T13:37:29.007138+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d283a3df891b459ba175805eb1b70344",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T16:23:59.426357+02:00"
+        },
+        {
+          "bidder": "e99b487f94ff4aaa986d631ee9483fe2",
+          "amount": 9300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-13T21:37:01.130343+02:00"
+        }
+      ],
+      "time": "2015-12-16T13:51:30.972938+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T16:23:59.426357+02:00",
+          "amount": 9500.0,
+          "bidder": "d283a3df891b459ba175805eb1b70344"
+        },
+        {
+          "date": "2015-12-13T21:37:01.130343+02:00",
+          "amount": 9300.0,
+          "bidder": "e99b487f94ff4aaa986d631ee9483fe2"
+        }
+      ],
+      "time": "2015-12-16T13:30:29.002578+00:00"
+    }
+  },
+  "id": "2e15c7a05fce447e87ebef9ee30882bc",
+  "tenderId": "UA-2015-12-10-000111-b"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3ccb026a1f0945c7a853d2f7fce3a841",
+        "time": "2015-09-28T10:57:13.007646+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9145a8b5196489185dfbeb83d1dd154",
+        "time": "2015-09-28T10:55:13.007546+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3ccb026a1f0945c7a853d2f7fce3a841",
+        "time": "2015-09-28T11:03:13.011129+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9145a8b5196489185dfbeb83d1dd154",
+        "time": "2015-09-28T11:01:13.009457+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3ccb026a1f0945c7a853d2f7fce3a841",
+        "time": "2015-09-28T10:51:13.006865+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9145a8b5196489185dfbeb83d1dd154",
+        "time": "2015-09-28T10:49:13.007567+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e9145a8b5196489185dfbeb83d1dd154",
+          "amount": 5295.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-25T09:47:49.532841+03:00"
+        },
+        {
+          "bidder": "3ccb026a1f0945c7a853d2f7fce3a841",
+          "amount": 4043.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "",
+                "telephone": "0990061282",
+                "name": "Березін Дмитро Олександрович",
+                "email": "berezin_do@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3193412090",
+                "legalName": "Фізична - особа-підприємець Березін Дмитро Олександрович"
+              },
+              "name": "Фізична - особа-підприємець Березін Дмитро Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36034",
+                "region": "Полтавська",
+                "streetAddress": "Курчатова",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T17:15:03.912783+03:00"
+        }
+      ],
+      "time": "2015-09-28T11:03:16.135776+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T09:47:49.532841+03:00",
+          "amount": 5295.3,
+          "bidder": "e9145a8b5196489185dfbeb83d1dd154"
+        },
+        {
+          "date": "2015-09-25T17:15:03.912783+03:00",
+          "amount": 4043.0,
+          "bidder": "3ccb026a1f0945c7a853d2f7fce3a841"
+        }
+      ],
+      "time": "2015-09-28T10:42:13.003572+00:00"
+    }
+  },
+  "id": "1b5244a07e6d401ebf9f206b51b9e047",
+  "tenderId": "UA-2015-09-23-000391"
+}

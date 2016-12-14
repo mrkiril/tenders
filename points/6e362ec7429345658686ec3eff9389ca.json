@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "713675b604a94063ae146f251f8978c1",
+        "time": "2015-12-08T10:21:51.008537+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4d51c5c560740c2b66f729382cb333b",
+        "time": "2015-12-08T10:19:51.008259+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "713675b604a94063ae146f251f8978c1",
+        "time": "2015-12-08T10:27:51.007577+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4d51c5c560740c2b66f729382cb333b",
+        "time": "2015-12-08T10:25:51.007950+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "713675b604a94063ae146f251f8978c1",
+        "time": "2015-12-08T10:15:51.008930+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4d51c5c560740c2b66f729382cb333b",
+        "time": "2015-12-08T10:13:51.007967+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c4d51c5c560740c2b66f729382cb333b",
+          "amount": 2580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-07T11:26:49.476060+02:00"
+        },
+        {
+          "bidder": "713675b604a94063ae146f251f8978c1",
+          "amount": 2570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667750372",
+                "name": "Якимов Юрій Володимирович",
+                "email": "skywardtrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39678892"
+              },
+              "name": "ТОВ \"СКАЙВОРД ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б. 9, к. 91",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:43:33.103557+02:00"
+        }
+      ],
+      "time": "2015-12-08T10:27:53.897149+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T11:26:49.476060+02:00",
+          "amount": 2580.0,
+          "bidder": "c4d51c5c560740c2b66f729382cb333b"
+        },
+        {
+          "date": "2015-12-07T12:43:33.103557+02:00",
+          "amount": 2570.0,
+          "bidder": "713675b604a94063ae146f251f8978c1"
+        }
+      ],
+      "time": "2015-12-08T10:06:51.004482+00:00"
+    }
+  },
+  "id": "6e362ec7429345658686ec3eff9389ca",
+  "tenderId": "UA-2015-12-07-000014-b"
+}

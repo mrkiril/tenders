@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cc31a6ff3a5840ab9c1eefa3685b0e1c",
+        "time": "2015-06-19T09:15:00.106437+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f9919b34836494a837ab1f9e98e4a3f",
+        "time": "2015-06-19T09:13:00.101938+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cc31a6ff3a5840ab9c1eefa3685b0e1c",
+        "time": "2015-06-19T09:21:00.258148+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f9919b34836494a837ab1f9e98e4a3f",
+        "time": "2015-06-19T09:19:00.093592+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cc31a6ff3a5840ab9c1eefa3685b0e1c",
+        "time": "2015-06-19T09:09:00.064625+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f9919b34836494a837ab1f9e98e4a3f",
+        "time": "2015-06-19T09:07:00.091676+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1f9919b34836494a837ab1f9e98e4a3f",
+          "amount": 126960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671214434",
+                "name": "Віталій Запоріжський",
+                "email": "vtnc@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37579431",
+                "legalName": "ПП \"ВТНС\""
+              },
+              "name": "ПП \"ВТНС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61171",
+                "region": "Харьковская",
+                "streetAddress": "м. Харків, Салтівське шосе, 240, кв. 169",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-06-18T10:57:57.019492+03:00"
+        },
+        {
+          "bidder": "cc31a6ff3a5840ab9c1eefa3685b0e1c",
+          "amount": 126000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380507487277",
+                "name": "Елена Тур",
+                "email": "elena.tur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"Ресурс\"",
+                "id": "30429974",
+                "uri": "http://tpchp-resurs.prom.ua/"
+              },
+              "name": "ПП \"Ресурс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61001",
+                "region": "Харьковская",
+                "streetAddress": "г. Харьков, ул. Дарвина, 20",
+                "locality": "Хрьков"
+              }
+            }
+          ],
+          "time": "2015-06-18T09:37:50.451832+03:00"
+        }
+      ],
+      "time": "2015-06-19T09:21:05.152421+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-18T10:57:57.019492+03:00",
+          "amount": 126960.0,
+          "bidder": "1f9919b34836494a837ab1f9e98e4a3f"
+        },
+        {
+          "date": "2015-06-18T09:37:50.451832+03:00",
+          "amount": 126000.0,
+          "bidder": "cc31a6ff3a5840ab9c1eefa3685b0e1c"
+        }
+      ],
+      "time": "2015-06-19T09:00:00.037603+00:00"
+    }
+  },
+  "id": "b06103376d374defbefb902a9b2119e8",
+  "tenderId": "UA-2015-06-15-000083"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0ea0337c30aa43d59b12bd363dd19bf2",
+        "time": "2015-11-06T11:18:52.009647+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fc5e21b285f4e1ba433fc64c5570652",
+        "time": "2015-11-06T11:16:52.009504+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0ea0337c30aa43d59b12bd363dd19bf2",
+        "time": "2015-11-06T11:24:52.012213+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fc5e21b285f4e1ba433fc64c5570652",
+        "time": "2015-11-06T11:22:52.007426+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0ea0337c30aa43d59b12bd363dd19bf2",
+        "time": "2015-11-06T11:12:52.007848+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fc5e21b285f4e1ba433fc64c5570652",
+        "time": "2015-11-06T11:10:52.009268+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6fc5e21b285f4e1ba433fc64c5570652",
+          "amount": 513600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380562349356",
+                "telephone": "+380562349356",
+                "name": "Хмельов Сергій Андрійович",
+                "email": "mprom1998@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30096032"
+              },
+              "name": "ТОВ “Металопром”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49080",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Замполіта Бєляєва, б.4,кв.229",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-04T13:42:37.170134+02:00"
+        },
+        {
+          "bidder": "0ea0337c30aa43d59b12bd363dd19bf2",
+          "amount": 430000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T13:55:03.546717+02:00"
+        }
+      ],
+      "time": "2015-11-06T11:24:55.828682+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T13:42:37.170134+02:00",
+          "amount": 513600.0,
+          "bidder": "6fc5e21b285f4e1ba433fc64c5570652"
+        },
+        {
+          "date": "2015-11-05T13:55:03.546717+02:00",
+          "amount": 430000.0,
+          "bidder": "0ea0337c30aa43d59b12bd363dd19bf2"
+        }
+      ],
+      "time": "2015-11-06T11:03:52.004017+00:00"
+    }
+  },
+  "id": "eb209ba62b8a44018ac1dd1e075b1863",
+  "tenderId": "UA-2015-10-28-000344"
+}

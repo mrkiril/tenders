@@ -1,0 +1,123 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 38040.0,
+        "bid_time": "2015-08-10T11:44:46.278876+03:00",
+        "bidder": "4072776952074bb4add80f9ee8cead02",
+        "time": "2015-08-10T08:45:00.176490+00:00"
+      },
+      "turn_1": {
+        "amount": 39300.0,
+        "bid_time": "2015-08-10T11:41:25.092618+03:00",
+        "bidder": "1e94914148b549cb866ffb4b0dd9c472",
+        "time": "2015-08-10T08:43:00.060196+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4072776952074bb4add80f9ee8cead02",
+        "time": "2015-08-10T08:51:00.060358+00:00"
+      },
+      "turn_1": {
+        "amount": 36000.0,
+        "bid_time": "2015-08-10T11:48:07.387265+03:00",
+        "bidder": "1e94914148b549cb866ffb4b0dd9c472",
+        "time": "2015-08-10T08:49:00.137606+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 39480.0,
+        "bid_time": "2015-08-10T11:38:44.288998+03:00",
+        "bidder": "4072776952074bb4add80f9ee8cead02",
+        "time": "2015-08-10T08:39:00.131002+00:00"
+      },
+      "turn_1": {
+        "amount": 39600.0,
+        "bid_time": "2015-08-10T11:35:14.842576+03:00",
+        "bidder": "1e94914148b549cb866ffb4b0dd9c472",
+        "time": "2015-08-10T08:37:00.059405+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4072776952074bb4add80f9ee8cead02",
+          "amount": 38040.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interdez.com.ua",
+                "faxNumber": "0442060151",
+                "telephone": "0442060150",
+                "name": "Ямковий Олександр Олексійович",
+                "email": "alexandr@interdez.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37403360",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтердез\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтердез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01011",
+                "region": "Київська",
+                "streetAddress": "Печерський узвіз,15",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-10T11:44:46.278876+03:00"
+        },
+        {
+          "bidder": "1e94914148b549cb866ffb4b0dd9c472",
+          "amount": 36000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.novagrup.com.ua",
+                "telephone": "+380677781547",
+                "name": "Альянс Новагрупп",
+                "email": "novagrup@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37613482",
+                "legalName": "Альянс Новагрупп"
+              },
+              "name": "Альянс Новагрупп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна ,м.Львів ,вул. Наукова 61/55",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-10T11:48:07.387265+03:00"
+        }
+      ],
+      "time": "2015-08-10T08:51:07.183698+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-04T16:01:05.546899+03:00",
+          "amount": 40000.0,
+          "bidder": "1e94914148b549cb866ffb4b0dd9c472"
+        },
+        {
+          "date": "2015-08-07T10:27:31.410647+03:00",
+          "amount": 39960.0,
+          "bidder": "4072776952074bb4add80f9ee8cead02"
+        }
+      ],
+      "time": "2015-08-10T08:30:00.038091+00:00"
+    }
+  },
+  "id": "2a1667062f5d47418010fe982963b8d2",
+  "tenderId": "UA-2015-07-29-000108"
+}

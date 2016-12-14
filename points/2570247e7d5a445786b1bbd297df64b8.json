@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 13400.0,
+        "bid_time": "2015-11-26T14:24:49.536173+02:00",
+        "bidder": "c460f69c374f4b8094a918953cad3f0c",
+        "time": "2015-11-26T12:26:12.008966+00:00"
+      },
+      "turn_1": {
+        "amount": 13500.0,
+        "bid_time": "2015-11-26T14:22:44.984110+02:00",
+        "bidder": "7cd034d515fc4a0d8218843dbfea8a1b",
+        "time": "2015-11-26T12:24:12.010065+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 12900.0,
+        "bid_time": "2015-11-26T14:30:21.867601+02:00",
+        "bidder": "c460f69c374f4b8094a918953cad3f0c",
+        "time": "2015-11-26T12:32:12.013785+00:00"
+      },
+      "turn_1": {
+        "amount": 13000.0,
+        "bid_time": "2015-11-26T14:28:56.237683+02:00",
+        "bidder": "7cd034d515fc4a0d8218843dbfea8a1b",
+        "time": "2015-11-26T12:30:12.009160+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 13990.0,
+        "bid_time": "2015-11-26T14:19:59.792674+02:00",
+        "bidder": "c460f69c374f4b8094a918953cad3f0c",
+        "time": "2015-11-26T12:20:12.010326+00:00"
+      },
+      "turn_1": {
+        "amount": 14000.0,
+        "bid_time": "2015-11-26T14:16:28.934585+02:00",
+        "bidder": "7cd034d515fc4a0d8218843dbfea8a1b",
+        "time": "2015-11-26T12:18:12.011447+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7cd034d515fc4a0d8218843dbfea8a1b",
+          "amount": 13000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-26T14:28:56.237683+02:00"
+        },
+        {
+          "bidder": "c460f69c374f4b8094a918953cad3f0c",
+          "amount": 12900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://osd.ua/",
+                "telephone": "0674411310",
+                "name": "Константин Симоненко ",
+                "email": "office@osd.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32658540",
+                "legalName": ""
+              },
+              "name": "ТОВ \"ОСД Східна Європа\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев, пр-т Голосеевский 100/2, 03127"
+              }
+            }
+          ],
+          "time": "2015-11-26T14:30:21.867601+02:00"
+        }
+      ],
+      "time": "2015-11-26T12:32:13.720837+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T14:25:03.778127+02:00",
+          "amount": 14399.0,
+          "bidder": "7cd034d515fc4a0d8218843dbfea8a1b"
+        },
+        {
+          "date": "2015-11-25T14:44:08.195740+02:00",
+          "amount": 14190.0,
+          "bidder": "c460f69c374f4b8094a918953cad3f0c"
+        }
+      ],
+      "time": "2015-11-26T12:11:12.004147+00:00"
+    }
+  },
+  "id": "2570247e7d5a445786b1bbd297df64b8",
+  "tenderId": "UA-2015-11-17-000168-b"
+}

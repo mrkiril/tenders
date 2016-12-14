@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3b22b57db7ac445a929c7a64d6800d7c",
+        "time": "2015-10-20T08:46:11.005634+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e57fdc64e9d424cb71e8f6e8daea0bd",
+        "time": "2015-10-20T08:44:11.005124+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3b22b57db7ac445a929c7a64d6800d7c",
+        "time": "2015-10-20T08:52:11.006435+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e57fdc64e9d424cb71e8f6e8daea0bd",
+        "time": "2015-10-20T08:50:11.005228+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3b22b57db7ac445a929c7a64d6800d7c",
+        "time": "2015-10-20T08:40:11.010056+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e57fdc64e9d424cb71e8f6e8daea0bd",
+        "time": "2015-10-20T08:38:11.006340+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8e57fdc64e9d424cb71e8f6e8daea0bd",
+          "amount": 2396.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-16T15:27:31.929702+03:00"
+        },
+        {
+          "bidder": "3b22b57db7ac445a929c7a64d6800d7c",
+          "amount": 1750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vik.zp.ua",
+                "telephone": "+380676199003",
+                "name": "Товариство з обмеженою відповідальністю \"ТОРГОВИЙ ДІМ ВІК ЛТД\"",
+                "email": "logo_vik@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40004090",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТОРГОВИЙ ДІМ ВІК ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТОРГОВИЙ ДІМ ВІК ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69008, м. Запоріжжя, вул. Діагональна, б.5\r\nтел.0612227080",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T11:26:25.938227+03:00"
+        }
+      ],
+      "time": "2015-10-20T08:52:19.513638+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T15:27:31.929702+03:00",
+          "amount": 2396.7,
+          "bidder": "8e57fdc64e9d424cb71e8f6e8daea0bd"
+        },
+        {
+          "date": "2015-10-16T11:26:25.938227+03:00",
+          "amount": 1750.0,
+          "bidder": "3b22b57db7ac445a929c7a64d6800d7c"
+        }
+      ],
+      "time": "2015-10-20T08:31:11.001738+00:00"
+    }
+  },
+  "id": "71bddcf730af4a9baf3832b3d484f5fa",
+  "tenderId": "UA-2015-10-13-000302"
+}

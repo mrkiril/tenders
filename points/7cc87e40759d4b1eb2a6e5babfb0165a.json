@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "67c3f727616447b3be79348afacedb7c",
+        "time": "2015-10-08T11:56:22.015412+00:00"
+      },
+      "turn_1": {
+        "bidder": "238abeeed0024a8fa15398b34165302c",
+        "time": "2015-10-08T11:54:22.012456+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "67c3f727616447b3be79348afacedb7c",
+        "time": "2015-10-08T12:02:22.011528+00:00"
+      },
+      "turn_1": {
+        "bidder": "238abeeed0024a8fa15398b34165302c",
+        "time": "2015-10-08T12:00:22.011842+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "238abeeed0024a8fa15398b34165302c",
+        "time": "2015-10-08T11:50:22.009522+00:00"
+      },
+      "turn_1": {
+        "amount": 3795.0,
+        "bid_time": "2015-10-08T14:46:42.748486+03:00",
+        "bidder": "67c3f727616447b3be79348afacedb7c",
+        "time": "2015-10-08T11:48:22.013175+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "238abeeed0024a8fa15398b34165302c",
+          "amount": 3796.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993335037",
+                "name": "Садко",
+                "email": "z13918828@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13918828",
+                "legalName": "ПП \"ТП Садко\""
+              },
+              "name": "ПП \"ТП Садко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "66300",
+                "region": "Одесская",
+                "streetAddress": "пр.Победы 1-з",
+                "locality": "Котовск"
+              }
+            }
+          ],
+          "time": "2015-10-01T11:44:30.892707+03:00"
+        },
+        {
+          "bidder": "67c3f727616447b3be79348afacedb7c",
+          "amount": 3795.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0668928837",
+                "name": "Надія Чашуріна ",
+                "email": "n.chashurina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3145700085",
+                "legalName": "ФОП Зубицька В.В."
+              },
+              "name": "ФОП Зубицька В.В.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "м.Котовськ вул.Самборського 3в Одеська обл. 66300"
+              }
+            }
+          ],
+          "time": "2015-10-08T14:46:42.748486+03:00"
+        }
+      ],
+      "time": "2015-10-08T12:02:34.377940+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T18:29:54.514197+03:00",
+          "amount": 3900.0,
+          "bidder": "67c3f727616447b3be79348afacedb7c"
+        },
+        {
+          "date": "2015-10-01T11:44:30.892707+03:00",
+          "amount": 3796.0,
+          "bidder": "238abeeed0024a8fa15398b34165302c"
+        }
+      ],
+      "time": "2015-10-08T11:41:22.003216+00:00"
+    }
+  },
+  "id": "7cc87e40759d4b1eb2a6e5babfb0165a",
+  "tenderId": "UA-2015-09-17-000140"
+}

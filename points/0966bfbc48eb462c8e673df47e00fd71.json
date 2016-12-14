@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d1e5caa697b1474ea750c5e81b3089c6",
+        "time": "2015-12-08T10:57:21.007739+00:00"
+      },
+      "turn_1": {
+        "bidder": "39c19e4e4c764c9e86638c0fd07c639d",
+        "time": "2015-12-08T10:55:21.008920+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d1e5caa697b1474ea750c5e81b3089c6",
+        "time": "2015-12-08T11:03:21.011492+00:00"
+      },
+      "turn_1": {
+        "bidder": "39c19e4e4c764c9e86638c0fd07c639d",
+        "time": "2015-12-08T11:01:21.007030+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d1e5caa697b1474ea750c5e81b3089c6",
+        "time": "2015-12-08T10:51:21.008886+00:00"
+      },
+      "turn_1": {
+        "bidder": "39c19e4e4c764c9e86638c0fd07c639d",
+        "time": "2015-12-08T10:49:21.020020+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "39c19e4e4c764c9e86638c0fd07c639d",
+          "amount": 1018.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-06T15:59:55.620396+02:00"
+        },
+        {
+          "bidder": "d1e5caa697b1474ea750c5e81b3089c6",
+          "amount": 963.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:10:01.908349+02:00"
+        }
+      ],
+      "time": "2015-12-08T11:03:22.950073+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-06T15:59:55.620396+02:00",
+          "amount": 1018.8,
+          "bidder": "39c19e4e4c764c9e86638c0fd07c639d"
+        },
+        {
+          "date": "2015-12-04T16:10:01.908349+02:00",
+          "amount": 963.0,
+          "bidder": "d1e5caa697b1474ea750c5e81b3089c6"
+        }
+      ],
+      "time": "2015-12-08T10:42:21.004296+00:00"
+    }
+  },
+  "id": "0966bfbc48eb462c8e673df47e00fd71",
+  "tenderId": "UA-2015-12-03-000102-a"
+}

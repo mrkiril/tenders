@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4079381bd478481bba3f5c33dfeba818",
+        "time": "2015-07-27T08:45:00.062364+00:00"
+      },
+      "turn_1": {
+        "bidder": "57e353071c9141d9b54c32f658ec3b16",
+        "time": "2015-07-27T08:43:00.058886+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 17900.0,
+        "bid_time": "2015-07-27T11:50:12.921721+03:00",
+        "bidder": "4079381bd478481bba3f5c33dfeba818",
+        "time": "2015-07-27T08:51:00.029806+00:00"
+      },
+      "turn_1": {
+        "amount": 18000.0,
+        "bid_time": "2015-07-27T11:48:06.591046+03:00",
+        "bidder": "57e353071c9141d9b54c32f658ec3b16",
+        "time": "2015-07-27T08:49:00.053935+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4079381bd478481bba3f5c33dfeba818",
+        "time": "2015-07-27T08:39:00.063020+00:00"
+      },
+      "turn_1": {
+        "bidder": "57e353071c9141d9b54c32f658ec3b16",
+        "time": "2015-07-27T08:37:00.058739+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "57e353071c9141d9b54c32f658ec3b16",
+          "amount": 18000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tbkmarket.com.ua",
+                "telephone": "+380993366872",
+                "name": "ТОВ \"Транс-Буд-Континент\"",
+                "email": "t-b-k@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38234925",
+                "legalName": "ТОВ \"Транс-Буд-Континент\""
+              },
+              "name": "ТОВ \"Транс-Буд-Континент\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080.м. Київ вул.Межигірська буд.82-а офіс.104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T11:48:06.591046+03:00"
+        },
+        {
+          "bidder": "4079381bd478481bba3f5c33dfeba818",
+          "amount": 17900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T11:50:12.921721+03:00"
+        }
+      ],
+      "time": "2015-07-27T08:51:03.085286+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-23T15:51:34.034817+03:00",
+          "amount": 19500.0,
+          "bidder": "57e353071c9141d9b54c32f658ec3b16"
+        },
+        {
+          "date": "2015-07-24T12:57:02.255878+03:00",
+          "amount": 18804.0,
+          "bidder": "4079381bd478481bba3f5c33dfeba818"
+        }
+      ],
+      "time": "2015-07-27T08:30:00.004920+00:00"
+    }
+  },
+  "id": "c01b09e73de04fee804c3ab19660e550",
+  "tenderId": "UA-2015-07-20-000045"
+}

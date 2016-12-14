@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6ca9341bc8db40dba62822a52b659551",
+        "time": "2015-09-23T08:15:00.250846+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c895c67d99f42d5b0c4d494ae67dcff",
+        "time": "2015-09-23T08:13:00.198736+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6ca9341bc8db40dba62822a52b659551",
+        "time": "2015-09-23T08:21:00.103320+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c895c67d99f42d5b0c4d494ae67dcff",
+        "time": "2015-09-23T08:19:00.166103+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6ca9341bc8db40dba62822a52b659551",
+        "time": "2015-09-23T08:09:00.092726+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c895c67d99f42d5b0c4d494ae67dcff",
+        "time": "2015-09-23T08:07:00.252977+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c895c67d99f42d5b0c4d494ae67dcff",
+          "amount": 195000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487438941",
+                "name": "Валерий Кучерявый",
+                "email": "vak2601@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38437165",
+                "legalName": "ТОВ \"ВІКІНГ ЛАЙФ - СЕЙВІНГ ЕКУІПМЕНТ УКРАЇНА\""
+              },
+              "name": "ТОВ \"ВІКІНГ ЛАЙФ - СЕЙВІНГ ЕКУІПМЕНТ УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65031",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-22T15:03:13.579894+03:00"
+        },
+        {
+          "bidder": "6ca9341bc8db40dba62822a52b659551",
+          "amount": 191282.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://markogroup.com",
+                "faxNumber": "0487051237",
+                "email": "vkoval@markogroup.com",
+                "name": "Товариство з обмеженою відповідальністю \"Марко Лтд\""
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30284125",
+                "legalName": "Товариство з обмеженою відповідальністю \"Марко Лтд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Марко Лтд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65014",
+                "region": "Одеська",
+                "streetAddress": "Канатна 42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-21T17:17:34.524108+03:00"
+        }
+      ],
+      "time": "2015-09-23T08:21:14.796880+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T15:03:13.579894+03:00",
+          "amount": 195000.0,
+          "bidder": "6c895c67d99f42d5b0c4d494ae67dcff"
+        },
+        {
+          "date": "2015-09-21T17:17:34.524108+03:00",
+          "amount": 191282.0,
+          "bidder": "6ca9341bc8db40dba62822a52b659551"
+        }
+      ],
+      "time": "2015-09-23T08:00:00.079368+00:00"
+    }
+  },
+  "id": "c87daa5bc99047c583ef8b89ab680ede",
+  "tenderId": "UA-2015-09-10-000183"
+}

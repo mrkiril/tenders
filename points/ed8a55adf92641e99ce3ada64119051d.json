@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "40d0f39be0b94fb18a60abc7be1d151f",
+        "time": "2015-09-04T08:45:00.141353+00:00"
+      },
+      "turn_1": {
+        "amount": 925000.0,
+        "bid_time": "2015-09-04T11:41:10.844079+03:00",
+        "bidder": "64a46f57da6245938c8372afb651c5dd",
+        "time": "2015-09-04T08:43:00.039150+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "40d0f39be0b94fb18a60abc7be1d151f",
+        "time": "2015-09-04T08:51:00.084906+00:00"
+      },
+      "turn_1": {
+        "bidder": "64a46f57da6245938c8372afb651c5dd",
+        "time": "2015-09-04T08:49:00.049682+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "40d0f39be0b94fb18a60abc7be1d151f",
+        "time": "2015-09-04T08:39:00.107436+00:00"
+      },
+      "turn_1": {
+        "amount": 935000.0,
+        "bid_time": "2015-09-04T11:35:11.657377+03:00",
+        "bidder": "64a46f57da6245938c8372afb651c5dd",
+        "time": "2015-09-04T08:37:00.099772+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "64a46f57da6245938c8372afb651c5dd",
+          "amount": 925000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445372694",
+                "name": "Общество з ограниченой ответственностю \"Ванго-Украина\"",
+                "email": "vango2011@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35922134",
+                "legalName": "Общество з ограниченой ответственностю \"Ванго-Украина\""
+              },
+              "name": "Общество з ограниченой ответственностю \"Ванго-Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01010, г.Киев, ул.И.Мазепы,3 Б, оф.197",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-04T11:41:10.844079+03:00"
+        },
+        {
+          "bidder": "40d0f39be0b94fb18a60abc7be1d151f",
+          "amount": 797160.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674461643",
+                "name": "ТОВ \"СВАТЕКС\"",
+                "email": "svatex@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38274376",
+                "legalName": "ТОВ \"СВАТЕКС\""
+              },
+              "name": "ТОВ \"СВАТЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08700",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T15:24:59.150014+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:51:12.052611+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T15:55:54.614684+03:00",
+          "amount": 945000.0,
+          "bidder": "64a46f57da6245938c8372afb651c5dd"
+        },
+        {
+          "date": "2015-09-03T15:24:59.150014+03:00",
+          "amount": 797160.0,
+          "bidder": "40d0f39be0b94fb18a60abc7be1d151f"
+        }
+      ],
+      "time": "2015-09-04T08:30:00.036243+00:00"
+    }
+  },
+  "id": "ed8a55adf92641e99ce3ada64119051d",
+  "tenderId": "UA-2015-08-21-000118"
+}

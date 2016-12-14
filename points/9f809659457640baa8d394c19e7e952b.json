@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a80668ee8d064761be7a10a023932ae5",
+        "time": "2015-08-31T10:15:00.008247+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bf5f82f2f6047a4984e6e2d0608e331",
+        "time": "2015-08-31T10:13:00.009664+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a80668ee8d064761be7a10a023932ae5",
+        "time": "2015-08-31T10:21:00.012371+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bf5f82f2f6047a4984e6e2d0608e331",
+        "time": "2015-08-31T10:19:00.012606+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a80668ee8d064761be7a10a023932ae5",
+        "time": "2015-08-31T10:09:00.012167+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bf5f82f2f6047a4984e6e2d0608e331",
+        "time": "2015-08-31T10:07:00.009377+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6bf5f82f2f6047a4984e6e2d0608e331",
+          "amount": 9992.85,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955256388",
+                "name": "Дмитро Алєнін",
+                "email": "ad_company@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3523113559",
+                "legalName": "ФОП \"Алєнін Дмитро Володимирович\""
+              },
+              "name": "ФОП \"Алєнін Дмитро Володимирович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61175",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-08-29T02:59:33.517030+03:00"
+        },
+        {
+          "bidder": "a80668ee8d064761be7a10a023932ae5",
+          "amount": 6120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.primeps.com.ua",
+                "telephone": "+380675531013",
+                "name": "ПП \"ПРАЙМПОСТАЧСЕРВИС\"",
+                "email": "Primepostach@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35568742",
+                "legalName": "ПП \"ПРАЙМПОСТАЧСЕРВИС\""
+              },
+              "name": "ПП \"ПРАЙМПОСТАЧСЕРВИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73026, г.  Херсон ул. Рабочая 66,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-28T09:18:43.217991+03:00"
+        }
+      ],
+      "time": "2015-08-31T10:21:02.282552+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-29T02:59:33.517030+03:00",
+          "amount": 9992.85,
+          "bidder": "6bf5f82f2f6047a4984e6e2d0608e331"
+        },
+        {
+          "date": "2015-08-28T09:18:43.217991+03:00",
+          "amount": 6120.0,
+          "bidder": "a80668ee8d064761be7a10a023932ae5"
+        }
+      ],
+      "time": "2015-08-31T10:00:00.002031+00:00"
+    }
+  },
+  "id": "9f809659457640baa8d394c19e7e952b",
+  "tenderId": "UA-2015-08-19-000008"
+}

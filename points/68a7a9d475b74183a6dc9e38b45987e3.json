@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "be1daf68ad33430dad7e575a16e24ec9",
+        "time": "2015-08-13T10:15:00.052538+00:00"
+      },
+      "turn_1": {
+        "bidder": "67c6f7dc0658451da038551f0d75799f",
+        "time": "2015-08-13T10:13:00.019423+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "be1daf68ad33430dad7e575a16e24ec9",
+        "time": "2015-08-13T10:21:00.039616+00:00"
+      },
+      "turn_1": {
+        "bidder": "67c6f7dc0658451da038551f0d75799f",
+        "time": "2015-08-13T10:19:00.015450+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "be1daf68ad33430dad7e575a16e24ec9",
+        "time": "2015-08-13T10:09:00.018351+00:00"
+      },
+      "turn_1": {
+        "bidder": "67c6f7dc0658451da038551f0d75799f",
+        "time": "2015-08-13T10:07:00.010974+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "67c6f7dc0658451da038551f0d75799f",
+          "amount": 27900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979108832",
+                "name": "Вячеслав Островский",
+                "email": "slava-ostr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3003011574",
+                "legalName": "ФОП \"Островский В.В, СПД\""
+              },
+              "name": "ФОП \"Островский В.В, СПД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61109",
+                "region": "Харьковская",
+                "streetAddress": "г. Харьков, ул. Томская дом 37",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-08-10T22:13:11.194533+03:00"
+        },
+        {
+          "bidder": "be1daf68ad33430dad7e575a16e24ec9",
+          "amount": 1856.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503577121",
+                "name": "Александр Косов",
+                "email": "a.i.kosov@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39618042",
+                "legalName": "ТОВ \"Борамакс-Україна\""
+              },
+              "name": "ТОВ \"Борамакс-Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21021",
+                "region": "Виницкая",
+                "streetAddress": "м.Вінниця, вул.Келецька, буд.54д",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-08-11T10:46:14.226661+03:00"
+        }
+      ],
+      "time": "2015-08-13T10:21:00.897599+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-10T22:13:11.194533+03:00",
+          "amount": 27900.0,
+          "bidder": "67c6f7dc0658451da038551f0d75799f"
+        },
+        {
+          "date": "2015-08-11T10:46:14.226661+03:00",
+          "amount": 1856.4,
+          "bidder": "be1daf68ad33430dad7e575a16e24ec9"
+        }
+      ],
+      "time": "2015-08-13T10:00:00.001484+00:00"
+    }
+  },
+  "id": "68a7a9d475b74183a6dc9e38b45987e3",
+  "tenderId": "UA-2015-08-04-000054"
+}

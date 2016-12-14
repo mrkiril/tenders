@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d3de9ab060674edb889f75b6a5091dbb",
+        "time": "2015-07-13T09:45:00.040476+00:00"
+      },
+      "turn_1": {
+        "bidder": "d15d8be10ff1499f898ed5bef46ce85e",
+        "time": "2015-07-13T09:43:00.035852+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d3de9ab060674edb889f75b6a5091dbb",
+        "time": "2015-07-13T09:51:00.033384+00:00"
+      },
+      "turn_1": {
+        "bidder": "d15d8be10ff1499f898ed5bef46ce85e",
+        "time": "2015-07-13T09:49:00.043901+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d3de9ab060674edb889f75b6a5091dbb",
+        "time": "2015-07-13T09:39:00.026417+00:00"
+      },
+      "turn_1": {
+        "bidder": "d15d8be10ff1499f898ed5bef46ce85e",
+        "time": "2015-07-13T09:37:00.012301+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d15d8be10ff1499f898ed5bef46ce85e",
+          "amount": 650.52,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444989011",
+                "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+                "email": "omega-office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39367665",
+                "legalName": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133,м.Київ, бульв.Лесі Українки, буд.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-10T12:10:51.894856+03:00"
+        },
+        {
+          "bidder": "d3de9ab060674edb889f75b6a5091dbb",
+          "amount": 650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-09T19:44:05.095684+03:00"
+        }
+      ],
+      "time": "2015-07-13T09:51:02.229756+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-10T12:10:51.894856+03:00",
+          "amount": 650.52,
+          "bidder": "d15d8be10ff1499f898ed5bef46ce85e"
+        },
+        {
+          "date": "2015-07-09T19:44:05.095684+03:00",
+          "amount": 650.0,
+          "bidder": "d3de9ab060674edb889f75b6a5091dbb"
+        }
+      ],
+      "time": "2015-07-13T09:30:00.007037+00:00"
+    }
+  },
+  "id": "36e46b09412241ea8dad0db9d5c3aa9b",
+  "tenderId": "UA-2015-07-06-000060"
+}

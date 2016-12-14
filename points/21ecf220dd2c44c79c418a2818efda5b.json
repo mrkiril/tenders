@@ -1,0 +1,266 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 6600.0,
+        "bid_time": "2015-11-04T15:28:50.964888+02:00",
+        "bidder": "e28c23aef4724c11b534cad9c8b214b7",
+        "time": "2015-11-04T13:30:39.012148+00:00"
+      },
+      "turn_5": {
+        "amount": 6598.0,
+        "bid_time": "2015-11-04T15:31:54.065903+02:00",
+        "bidder": "6b1b1adf7efb41369a75c8a31cc649b8",
+        "time": "2015-11-04T13:32:39.011486+00:00"
+      },
+      "turn_2": {
+        "amount": 7500.0,
+        "bid_time": "2015-11-04T15:25:14.792683+02:00",
+        "bidder": "c12bb5c66637482f86d1c7c3bdc654e0",
+        "time": "2015-11-04T13:26:39.010746+00:00"
+      },
+      "turn_3": {
+        "amount": 7490.0,
+        "bid_time": "2015-11-04T15:27:13.533474+02:00",
+        "bidder": "ea43bab648bf42638e3d839da42dd858",
+        "time": "2015-11-04T13:28:39.009747+00:00"
+      },
+      "turn_1": {
+        "bidder": "a09b49a92d794d77b8b30bb96c1d34cb",
+        "time": "2015-11-04T13:24:39.008531+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "e28c23aef4724c11b534cad9c8b214b7",
+        "time": "2015-11-04T13:42:39.008508+00:00"
+      },
+      "turn_5": {
+        "amount": 6534.0,
+        "bid_time": "2015-11-04T15:43:44.851297+02:00",
+        "bidder": "6b1b1adf7efb41369a75c8a31cc649b8",
+        "time": "2015-11-04T13:44:39.010459+00:00"
+      },
+      "turn_2": {
+        "bidder": "c12bb5c66637482f86d1c7c3bdc654e0",
+        "time": "2015-11-04T13:38:39.009420+00:00"
+      },
+      "turn_3": {
+        "bidder": "ea43bab648bf42638e3d839da42dd858",
+        "time": "2015-11-04T13:40:39.009965+00:00"
+      },
+      "turn_1": {
+        "bidder": "a09b49a92d794d77b8b30bb96c1d34cb",
+        "time": "2015-11-04T13:36:39.008552+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 7560.0,
+        "bid_time": "2015-11-04T15:16:58.765772+02:00",
+        "bidder": "e28c23aef4724c11b534cad9c8b214b7",
+        "time": "2015-11-04T13:18:39.010109+00:00"
+      },
+      "turn_5": {
+        "amount": 7557.0,
+        "bid_time": "2015-11-04T15:19:02.213421+02:00",
+        "bidder": "6b1b1adf7efb41369a75c8a31cc649b8",
+        "time": "2015-11-04T13:20:39.010039+00:00"
+      },
+      "turn_2": {
+        "amount": 7600.0,
+        "bid_time": "2015-11-04T15:13:10.440399+02:00",
+        "bidder": "ea43bab648bf42638e3d839da42dd858",
+        "time": "2015-11-04T13:14:39.019307+00:00"
+      },
+      "turn_3": {
+        "bidder": "a09b49a92d794d77b8b30bb96c1d34cb",
+        "time": "2015-11-04T13:16:39.010392+00:00"
+      },
+      "turn_1": {
+        "amount": 8000.0,
+        "bid_time": "2015-11-04T15:11:22.334639+02:00",
+        "bidder": "c12bb5c66637482f86d1c7c3bdc654e0",
+        "time": "2015-11-04T13:12:39.013623+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a09b49a92d794d77b8b30bb96c1d34cb",
+          "amount": 8690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-31T12:50:10.802739+02:00"
+        },
+        {
+          "bidder": "c12bb5c66637482f86d1c7c3bdc654e0",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://google.com",
+                "faxNumber": "0674648985",
+                "telephone": "0674648985",
+                "name": "Чмир Юрий Сергеевич",
+                "email": "solov@ns-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2358205299",
+                "legalName": "Фізична особа-підприємець  Чмир Юрій Сергійович"
+              },
+              "name": "Фізична особа-підприємець  Чмир Юрій Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03057",
+                "region": "Київська",
+                "streetAddress": "Металістів, 11-А, кв. 41,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T15:25:14.792683+02:00"
+        },
+        {
+          "bidder": "ea43bab648bf42638e3d839da42dd858",
+          "amount": 7490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://iadmin.com.ua/",
+                "telephone": "0503847438",
+                "name": "Ребров Сергеевич Роман",
+                "email": "aleksandr@ns-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2893301199",
+                "legalName": "Фізична особа-підприємець Ребров Роман Сергійович"
+              },
+              "name": "Фізична особа-підприємець Ребров Роман Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "71504",
+                "region": "Запорізька",
+                "streetAddress": "вул. Воїнів-інтернаціоналістів, буд. 40, кв. 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T15:27:13.533474+02:00"
+        },
+        {
+          "bidder": "e28c23aef4724c11b534cad9c8b214b7",
+          "amount": 6600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-22-99-380",
+                "telephone": "044-22-99-380",
+                "name": "Кошлак Ігор Вікторович",
+                "email": "loriy2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39639371",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03049",
+                "region": "Київська",
+                "streetAddress": "проспект Повітрофлотський, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T15:28:50.964888+02:00"
+        },
+        {
+          "bidder": "6b1b1adf7efb41369a75c8a31cc649b8",
+          "amount": 6534.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ci-el.com.ua",
+                "faxNumber": "+380442061565",
+                "telephone": "+380442061565",
+                "name": "Пикалова Ольга Федоровна",
+                "email": "olga.pikalova@ci-el.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404738"
+              },
+              "name": "ТОВ СІ-ЕЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул. Народного ополчення, 1,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T15:43:44.851297+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:44:41.951578+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T14:45:43.549438+02:00",
+          "amount": 8998.0,
+          "bidder": "c12bb5c66637482f86d1c7c3bdc654e0"
+        },
+        {
+          "date": "2015-11-03T15:36:46.663374+02:00",
+          "amount": 8910.0,
+          "bidder": "ea43bab648bf42638e3d839da42dd858"
+        },
+        {
+          "date": "2015-10-31T12:50:10.802739+02:00",
+          "amount": 8690.0,
+          "bidder": "a09b49a92d794d77b8b30bb96c1d34cb"
+        },
+        {
+          "date": "2015-11-02T15:50:15.841406+02:00",
+          "amount": 7733.0,
+          "bidder": "e28c23aef4724c11b534cad9c8b214b7"
+        },
+        {
+          "date": "2015-11-02T13:52:30.199091+02:00",
+          "amount": 7669.2,
+          "bidder": "6b1b1adf7efb41369a75c8a31cc649b8"
+        }
+      ],
+      "time": "2015-11-04T13:05:39.003517+00:00"
+    }
+  },
+  "id": "21ecf220dd2c44c79c418a2818efda5b",
+  "tenderId": "UA-2015-10-27-000264"
+}

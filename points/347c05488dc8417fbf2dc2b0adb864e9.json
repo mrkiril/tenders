@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "550fa0fde00f45ba9f06646391d34174",
+        "time": "2015-10-28T13:20:43.008808+00:00"
+      },
+      "turn_3": {
+        "bidder": "2c7e3126e76d4f5798cfd6daee4dc80a",
+        "time": "2015-10-28T13:22:43.009239+00:00"
+      },
+      "turn_1": {
+        "amount": 1900.0,
+        "bid_time": "2015-10-28T15:16:53.509035+02:00",
+        "bidder": "9ee7baac9a4e477ab2b42247c4e60930",
+        "time": "2015-10-28T13:18:43.013108+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2c7e3126e76d4f5798cfd6daee4dc80a",
+        "time": "2015-10-28T13:28:43.008518+00:00"
+      },
+      "turn_3": {
+        "bidder": "9ee7baac9a4e477ab2b42247c4e60930",
+        "time": "2015-10-28T13:30:43.007955+00:00"
+      },
+      "turn_1": {
+        "bidder": "550fa0fde00f45ba9f06646391d34174",
+        "time": "2015-10-28T13:26:43.009059+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "550fa0fde00f45ba9f06646391d34174",
+        "time": "2015-10-28T13:12:43.008862+00:00"
+      },
+      "turn_3": {
+        "bidder": "2c7e3126e76d4f5798cfd6daee4dc80a",
+        "time": "2015-10-28T13:14:43.008659+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ee7baac9a4e477ab2b42247c4e60930",
+        "time": "2015-10-28T13:10:43.008844+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "550fa0fde00f45ba9f06646391d34174",
+          "amount": 2157.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://express-papir.com.ua",
+                "faxNumber": "5007078",
+                "telephone": "5007078",
+                "name": "Колядко Андрій Михайлович",
+                "email": "express-papir_tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36057863",
+                "legalName": "Товариство з обмеженою відповідальністю\"Експрес Папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"Експрес Папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "Драгоманова 42А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T10:53:07.561004+02:00"
+        },
+        {
+          "bidder": "2c7e3126e76d4f5798cfd6daee4dc80a",
+          "amount": 1935.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stiker.biz",
+                "telephone": "+380444258276",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"НОВА КАНЦЕЛЯРІЯ\"",
+                "email": "kazakov.d@stiker.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39214805",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"НОВА КАНЦЕЛЯРІЯ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"НОВА КАНЦЕЛЯРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, М.КИЇВ, ВУЛ. КУРЕНІВСЬКА, БУДИНОК, 21, ОФІС 1/4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T14:13:50.117277+02:00"
+        },
+        {
+          "bidder": "9ee7baac9a4e477ab2b42247c4e60930",
+          "amount": 1900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T15:16:53.509035+02:00"
+        }
+      ],
+      "time": "2015-10-28T13:32:03.276200+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T10:27:33.763607+02:00",
+          "amount": 2200.0,
+          "bidder": "9ee7baac9a4e477ab2b42247c4e60930"
+        },
+        {
+          "date": "2015-10-27T10:53:07.561004+02:00",
+          "amount": 2157.4,
+          "bidder": "550fa0fde00f45ba9f06646391d34174"
+        },
+        {
+          "date": "2015-10-26T14:13:50.117277+02:00",
+          "amount": 1935.0,
+          "bidder": "2c7e3126e76d4f5798cfd6daee4dc80a"
+        }
+      ],
+      "time": "2015-10-28T13:03:43.006369+00:00"
+    }
+  },
+  "id": "347c05488dc8417fbf2dc2b0adb864e9",
+  "tenderId": "UA-2015-10-20-000318"
+}

@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bd45ce326b58405793ebc9a400a65cd4",
+        "time": "2015-09-21T08:17:00.066306+00:00"
+      },
+      "turn_3": {
+        "bidder": "308802c36eef44d68bce1119b3d25fe7",
+        "time": "2015-09-21T08:19:00.171402+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2adf10220b64ce28a5d75d111a8e2c3",
+        "time": "2015-09-21T08:15:00.182198+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bd45ce326b58405793ebc9a400a65cd4",
+        "time": "2015-09-21T08:25:00.046946+00:00"
+      },
+      "turn_3": {
+        "bidder": "308802c36eef44d68bce1119b3d25fe7",
+        "time": "2015-09-21T08:27:00.141516+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2adf10220b64ce28a5d75d111a8e2c3",
+        "time": "2015-09-21T08:23:00.046163+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bd45ce326b58405793ebc9a400a65cd4",
+        "time": "2015-09-21T08:09:00.146746+00:00"
+      },
+      "turn_3": {
+        "bidder": "308802c36eef44d68bce1119b3d25fe7",
+        "time": "2015-09-21T08:11:00.105215+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2adf10220b64ce28a5d75d111a8e2c3",
+        "time": "2015-09-21T08:07:00.100379+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b2adf10220b64ce28a5d75d111a8e2c3",
+          "amount": 6499800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503841890",
+                "name": "Анна Огаренко",
+                "email": "info@olteks.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30435050",
+                "legalName": "ООО \"Олтекс\""
+              },
+              "name": "ООО \"Олтекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Киев, Александровская, 45",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-18T16:39:38.560778+03:00"
+        },
+        {
+          "bidder": "bd45ce326b58405793ebc9a400a65cd4",
+          "amount": 6450000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444861903",
+                "name": "Ирина Яремко",
+                "email": "sales@tdpromin.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38123183",
+                "legalName": "ТОВ \"\"Торговый Дом\"ПРОМИНЬ\"\""
+              },
+              "name": "ТОВ \"\"Торговый Дом\"ПРОМИНЬ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01054",
+                "region": "Киевская",
+                "streetAddress": "ул. Воровского 33 Б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-18T16:40:22.272569+03:00"
+        },
+        {
+          "bidder": "308802c36eef44d68bce1119b3d25fe7",
+          "amount": 6348000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412-418-692   , +380674117746",
+                "name": "Лариса Смоленец",
+                "email": "tov_tusmo@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13548679",
+                "legalName": "ТОВ \"ТУСМО\""
+              },
+              "name": "ТОВ \"ТУСМО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10006",
+                "region": "Житомирская",
+                "streetAddress": "ул.Денишовская,4",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-09-18T17:41:01.219609+03:00"
+        }
+      ],
+      "time": "2015-09-21T08:27:09.208070+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-18T16:39:38.560778+03:00",
+          "amount": 6499800.0,
+          "bidder": "b2adf10220b64ce28a5d75d111a8e2c3"
+        },
+        {
+          "date": "2015-09-18T16:40:22.272569+03:00",
+          "amount": 6450000.0,
+          "bidder": "bd45ce326b58405793ebc9a400a65cd4"
+        },
+        {
+          "date": "2015-09-18T17:41:01.219609+03:00",
+          "amount": 6348000.0,
+          "bidder": "308802c36eef44d68bce1119b3d25fe7"
+        }
+      ],
+      "time": "2015-09-21T08:00:00.001821+00:00"
+    }
+  },
+  "id": "226e2c59025546e7b88e6fe774d8d552",
+  "tenderId": "UA-2015-09-07-000087"
+}

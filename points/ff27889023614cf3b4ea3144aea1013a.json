@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "79f5cbc7b373499bacf7969f77bfeb1b",
+        "time": "2015-11-26T10:49:17.012631+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe132610d6b242eaa588eda4051898f7",
+        "time": "2015-11-26T10:47:17.011630+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "79f5cbc7b373499bacf7969f77bfeb1b",
+        "time": "2015-11-26T10:55:17.011019+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe132610d6b242eaa588eda4051898f7",
+        "time": "2015-11-26T10:53:17.012121+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fe132610d6b242eaa588eda4051898f7",
+        "time": "2015-11-26T10:43:17.008595+00:00"
+      },
+      "turn_1": {
+        "amount": 2500.0,
+        "bid_time": "2015-11-26T12:39:43.844410+02:00",
+        "bidder": "79f5cbc7b373499bacf7969f77bfeb1b",
+        "time": "2015-11-26T10:41:17.011347+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fe132610d6b242eaa588eda4051898f7",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380464431444",
+                "telephone": "+380464431555",
+                "name": "Скиба Анатолій Олександрович",
+                "email": "dominant@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2513606892"
+              },
+              "name": "ФОП Скиба Анатолій Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "15600",
+                "region": "Чернігівська область",
+                "streetAddress": "вул. Червоноармійська, 23",
+                "locality": "Мена"
+              }
+            }
+          ],
+          "time": "2015-11-24T09:53:48.827757+02:00"
+        },
+        {
+          "bidder": "79f5cbc7b373499bacf7969f77bfeb1b",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sprint-seervice.com.ua",
+                "telephone": "+380957251125",
+                "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+                "email": "andrey@bc.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36866846",
+                "legalName": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Спринт-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Почайнинська, 28, літ.Б, м.Київ, 04070",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-26T12:39:43.844410+02:00"
+        }
+      ],
+      "time": "2015-11-26T10:55:29.928415+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T11:47:12.252071+02:00",
+          "amount": 3250.0,
+          "bidder": "79f5cbc7b373499bacf7969f77bfeb1b"
+        },
+        {
+          "date": "2015-11-24T09:53:48.827757+02:00",
+          "amount": 3000.0,
+          "bidder": "fe132610d6b242eaa588eda4051898f7"
+        }
+      ],
+      "time": "2015-11-26T10:34:17.005427+00:00"
+    }
+  },
+  "id": "ff27889023614cf3b4ea3144aea1013a",
+  "tenderId": "UA-2015-11-23-000052-b"
+}

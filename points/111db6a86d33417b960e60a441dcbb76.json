@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8ccb7fbc3b404f268e61db0651aa08e6",
+        "time": "2015-11-11T10:45:03.011456+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d2d927ef12e4f4894e18ec547553b44",
+        "time": "2015-11-11T10:43:03.011536+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8ccb7fbc3b404f268e61db0651aa08e6",
+        "time": "2015-11-11T10:51:03.009728+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d2d927ef12e4f4894e18ec547553b44",
+        "time": "2015-11-11T10:49:03.010998+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8ccb7fbc3b404f268e61db0651aa08e6",
+        "time": "2015-11-11T10:39:03.010349+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d2d927ef12e4f4894e18ec547553b44",
+        "time": "2015-11-11T10:37:03.012491+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2d2d927ef12e4f4894e18ec547553b44",
+          "amount": 20608.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442251690",
+                "name": "ООО Постачгарант",
+                "email": "ab3105@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39217874",
+                "legalName": "ООО Постачгарант"
+              },
+              "name": "ООО Постачгарант",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01042, м. Київ, пров.Червонормiйський, 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T15:47:03.982497+02:00"
+        },
+        {
+          "bidder": "8ccb7fbc3b404f268e61db0651aa08e6",
+          "amount": 20409.76,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://linoksa.com.ua/",
+                "telephone": "+380444976693",
+                "name": "ТОВ Лінокса Україна",
+                "email": "sergey@linoksa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35965555",
+                "legalName": "ТОВ Лінокса Україна"
+              },
+              "name": "ТОВ Лінокса Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03061, м.Київ, проспект Відрадний, буд. № 95-Д",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-10T16:58:14.387026+02:00"
+        }
+      ],
+      "time": "2015-11-11T10:51:20.540597+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T15:47:03.982497+02:00",
+          "amount": 20608.2,
+          "bidder": "2d2d927ef12e4f4894e18ec547553b44"
+        },
+        {
+          "date": "2015-11-10T16:58:14.387026+02:00",
+          "amount": 20409.76,
+          "bidder": "8ccb7fbc3b404f268e61db0651aa08e6"
+        }
+      ],
+      "time": "2015-11-11T10:30:03.005829+00:00"
+    }
+  },
+  "id": "111db6a86d33417b960e60a441dcbb76",
+  "tenderId": "UA-2015-11-04-000314"
+}

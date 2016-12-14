@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9ec78fde29f5421baf0a2a57b1e9024a",
+        "time": "2015-09-16T08:47:00.040459+00:00"
+      },
+      "turn_3": {
+        "bidder": "ca260bd28b7946879a0bbbe13432bea7",
+        "time": "2015-09-16T08:49:00.099353+00:00"
+      },
+      "turn_1": {
+        "bidder": "c88855bbb66e4f1f99f25a2fb9573d75",
+        "time": "2015-09-16T08:45:00.269343+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9ec78fde29f5421baf0a2a57b1e9024a",
+        "time": "2015-09-16T08:55:00.030473+00:00"
+      },
+      "turn_3": {
+        "bidder": "ca260bd28b7946879a0bbbe13432bea7",
+        "time": "2015-09-16T08:57:00.120590+00:00"
+      },
+      "turn_1": {
+        "bidder": "c88855bbb66e4f1f99f25a2fb9573d75",
+        "time": "2015-09-16T08:53:00.045467+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c88855bbb66e4f1f99f25a2fb9573d75",
+        "time": "2015-09-16T08:39:00.056931+00:00"
+      },
+      "turn_3": {
+        "bidder": "ca260bd28b7946879a0bbbe13432bea7",
+        "time": "2015-09-16T08:41:00.122488+00:00"
+      },
+      "turn_1": {
+        "amount": 67000.0,
+        "bid_time": "2015-09-16T11:35:08.300796+03:00",
+        "bidder": "9ec78fde29f5421baf0a2a57b1e9024a",
+        "time": "2015-09-16T08:37:00.144189+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c88855bbb66e4f1f99f25a2fb9573d75",
+          "amount": 68040.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T15:15:12.185847+03:00"
+        },
+        {
+          "bidder": "9ec78fde29f5421baf0a2a57b1e9024a",
+          "amount": 67000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.curent.com.ua",
+                "telephone": "+380504482012",
+                "name": "Товариство з обмеженою відповідальністю \"КАРРЕНТ\"",
+                "email": "tenders@current.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39718829",
+                "legalName": "Товариство з обмеженою відповідальністю \"КАРРЕНТ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КАРРЕНТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61002, м. Харків, вул. Маршала Бажанова, 21/23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T11:35:08.300796+03:00"
+        },
+        {
+          "bidder": "ca260bd28b7946879a0bbbe13432bea7",
+          "amount": 50376.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503645599",
+                "name": "Голенков Володимир Миколайович",
+                "email": "contratos.vt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39536506"
+              },
+              "name": "ТОВ Контратос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69095",
+                "region": "Запорізька область",
+                "streetAddress": "Леніна, 160 оф. 200",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-09-15T22:19:20.459865+03:00"
+        }
+      ],
+      "time": "2015-09-16T08:57:11.288335+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-15T17:21:56.498377+03:00",
+          "amount": 72000.0,
+          "bidder": "9ec78fde29f5421baf0a2a57b1e9024a"
+        },
+        {
+          "date": "2015-09-15T15:15:12.185847+03:00",
+          "amount": 68040.0,
+          "bidder": "c88855bbb66e4f1f99f25a2fb9573d75"
+        },
+        {
+          "date": "2015-09-15T22:19:20.459865+03:00",
+          "amount": 50376.0,
+          "bidder": "ca260bd28b7946879a0bbbe13432bea7"
+        }
+      ],
+      "time": "2015-09-16T08:30:00.035868+00:00"
+    }
+  },
+  "id": "cdba3c5405db4f4d97b92a50776fdaf1",
+  "tenderId": "UA-2015-09-08-000016"
+}

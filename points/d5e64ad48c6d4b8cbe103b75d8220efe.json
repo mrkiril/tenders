@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c133a937f26d413fb78d3a1125dd8d52",
+        "time": "2015-10-23T11:48:57.009240+00:00"
+      },
+      "turn_1": {
+        "amount": 140.0,
+        "bid_time": "2015-10-23T14:45:13.696574+03:00",
+        "bidder": "bb251fca80a74a3b814b60e15f0d8a9b",
+        "time": "2015-10-23T11:46:57.008947+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bb251fca80a74a3b814b60e15f0d8a9b",
+        "time": "2015-10-23T11:54:57.006954+00:00"
+      },
+      "turn_1": {
+        "amount": 138.0,
+        "bid_time": "2015-10-23T14:52:27.978810+03:00",
+        "bidder": "c133a937f26d413fb78d3a1125dd8d52",
+        "time": "2015-10-23T11:52:57.009853+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c133a937f26d413fb78d3a1125dd8d52",
+        "time": "2015-10-23T11:42:57.008012+00:00"
+      },
+      "turn_1": {
+        "bidder": "bb251fca80a74a3b814b60e15f0d8a9b",
+        "time": "2015-10-23T11:40:57.008909+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bb251fca80a74a3b814b60e15f0d8a9b",
+          "amount": 140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mediasnab.all.biz",
+                "telephone": "+380567339525",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ \"УКРМЕДІАСНАБ\"",
+                "email": "ukrmediasnab@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39321788",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ \"УКРМЕДІАСНАБ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ \"УКРМЕДІАСНАБ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Ленінградська, 68, офіс 501, м. Дніпропетровськ,  49038",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T14:45:13.696574+03:00"
+        },
+        {
+          "bidder": "c133a937f26d413fb78d3a1125dd8d52",
+          "amount": 138.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-409-06-19",
+                "telephone": "044-409-06-19",
+                "name": "Лісова Лариса Степанівна",
+                "email": "info@aksept.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38506076",
+                "legalName": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Підлісна, 6 кв.151",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T14:52:27.978810+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:55:05.843638+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T09:57:09.978355+03:00",
+          "amount": 159.0,
+          "bidder": "bb251fca80a74a3b814b60e15f0d8a9b"
+        },
+        {
+          "date": "2015-10-16T14:41:14.169023+03:00",
+          "amount": 150.0,
+          "bidder": "c133a937f26d413fb78d3a1125dd8d52"
+        }
+      ],
+      "time": "2015-10-23T11:33:57.004257+00:00"
+    }
+  },
+  "id": "d5e64ad48c6d4b8cbe103b75d8220efe",
+  "tenderId": "UA-2015-10-15-000015"
+}

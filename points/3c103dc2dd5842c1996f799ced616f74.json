@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 68000.0,
+        "bid_time": "2015-10-16T15:24:14.641023+03:00",
+        "bidder": "f78f244c61144f9ea31d56923dbf91de",
+        "time": "2015-10-16T12:25:20.009688+00:00"
+      },
+      "turn_3": {
+        "bidder": "59fbdda4c749455d9c23dbb4c23d1a3d",
+        "time": "2015-10-16T12:27:20.008746+00:00"
+      },
+      "turn_1": {
+        "amount": 76800.0,
+        "bid_time": "2015-10-16T15:21:34.145611+03:00",
+        "bidder": "4eb296bf5d5646f2bd5a1d98b5d009a9",
+        "time": "2015-10-16T12:23:20.013905+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 67600.0,
+        "bid_time": "2015-10-16T15:31:30.265069+03:00",
+        "bidder": "f78f244c61144f9ea31d56923dbf91de",
+        "time": "2015-10-16T12:33:20.011290+00:00"
+      },
+      "turn_3": {
+        "bidder": "59fbdda4c749455d9c23dbb4c23d1a3d",
+        "time": "2015-10-16T12:35:20.014688+00:00"
+      },
+      "turn_1": {
+        "amount": 76160.0,
+        "bid_time": "2015-10-16T15:29:32.551952+03:00",
+        "bidder": "4eb296bf5d5646f2bd5a1d98b5d009a9",
+        "time": "2015-10-16T12:31:20.008205+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 68400.0,
+        "bid_time": "2015-10-16T15:16:44.844178+03:00",
+        "bidder": "f78f244c61144f9ea31d56923dbf91de",
+        "time": "2015-10-16T12:17:20.008346+00:00"
+      },
+      "turn_3": {
+        "bidder": "59fbdda4c749455d9c23dbb4c23d1a3d",
+        "time": "2015-10-16T12:19:20.010749+00:00"
+      },
+      "turn_1": {
+        "amount": 78400.0,
+        "bid_time": "2015-10-16T15:13:33.860776+03:00",
+        "bidder": "4eb296bf5d5646f2bd5a1d98b5d009a9",
+        "time": "2015-10-16T12:15:20.009789+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4eb296bf5d5646f2bd5a1d98b5d009a9",
+          "amount": 76160.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675839095",
+                "name": "Савонік Віктор Петрович",
+                "email": "feschenkoalena@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2513705792"
+              },
+              "name": "ФОП Савонік Віктор Петрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02091",
+                "region": "Київська область",
+                "streetAddress": "Харківське шосе, 160-А, кв. 102",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-16T15:29:32.551952+03:00"
+        },
+        {
+          "bidder": "f78f244c61144f9ea31d56923dbf91de",
+          "amount": 67600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632044882",
+                "name": "Едуард Загоняєв",
+                "email": "zevtender@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3189320494",
+                "legalName": "ФОП \"Загоняєв Едуард Вячеславович\""
+              },
+              "name": "ФОП \"Загоняєв Едуард Вячеславович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04114",
+                "region": "Киевская",
+                "streetAddress": "Макеевская 8",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-16T15:31:30.265069+03:00"
+        },
+        {
+          "bidder": "59fbdda4c749455d9c23dbb4c23d1a3d",
+          "amount": 59600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689680050",
+                "name": "Катерина Кононова",
+                "email": "tenderkeiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2974903861",
+                "legalName": "ФОП \"Кононова Катерина Юріївна\""
+              },
+              "name": "ФОП \"Кононова Катерина Юріївна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07354",
+                "region": "Киевская",
+                "streetAddress": "с.Нові Петрівці, Білого Спаса,15",
+                "locality": "Нові Петрівці"
+              }
+            }
+          ],
+          "time": "2015-10-15T13:24:08.107501+03:00"
+        }
+      ],
+      "time": "2015-10-16T12:35:39.310320+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T10:35:39.513324+03:00",
+          "amount": 79360.0,
+          "bidder": "4eb296bf5d5646f2bd5a1d98b5d009a9"
+        },
+        {
+          "date": "2015-10-15T14:16:19.079896+03:00",
+          "amount": 70000.0,
+          "bidder": "f78f244c61144f9ea31d56923dbf91de"
+        },
+        {
+          "date": "2015-10-15T13:24:08.107501+03:00",
+          "amount": 59600.0,
+          "bidder": "59fbdda4c749455d9c23dbb4c23d1a3d"
+        }
+      ],
+      "time": "2015-10-16T12:08:20.004642+00:00"
+    }
+  },
+  "id": "3c103dc2dd5842c1996f799ced616f74",
+  "tenderId": "UA-2015-10-06-000039"
+}

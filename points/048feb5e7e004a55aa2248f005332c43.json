@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f2a2b74c3dcb4311838142a65b539d37",
+        "time": "2015-12-17T13:22:19.008083+00:00"
+      },
+      "turn_3": {
+        "bidder": "8bd4e769fdb8490ba4da1fd1094fda90",
+        "time": "2015-12-17T13:24:19.007091+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5d52522fa894ed08b87a5d46b6321a7",
+        "time": "2015-12-17T13:20:19.007050+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 37450.0,
+        "bid_time": "2015-12-17T15:29:33.084005+02:00",
+        "bidder": "f2a2b74c3dcb4311838142a65b539d37",
+        "time": "2015-12-17T13:30:19.008987+00:00"
+      },
+      "turn_3": {
+        "amount": 36500.0,
+        "bid_time": "2015-12-17T15:30:42.239916+02:00",
+        "bidder": "8bd4e769fdb8490ba4da1fd1094fda90",
+        "time": "2015-12-17T13:32:19.008570+00:00"
+      },
+      "turn_1": {
+        "amount": 37498.0,
+        "bid_time": "2015-12-17T15:27:21.329458+02:00",
+        "bidder": "d5d52522fa894ed08b87a5d46b6321a7",
+        "time": "2015-12-17T13:28:19.008064+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 38499.0,
+        "bid_time": "2015-12-17T15:13:37.613056+02:00",
+        "bidder": "f2a2b74c3dcb4311838142a65b539d37",
+        "time": "2015-12-17T13:14:19.008215+00:00"
+      },
+      "turn_3": {
+        "amount": 37500.0,
+        "bid_time": "2015-12-17T15:14:54.657730+02:00",
+        "bidder": "8bd4e769fdb8490ba4da1fd1094fda90",
+        "time": "2015-12-17T13:16:19.008159+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5d52522fa894ed08b87a5d46b6321a7",
+        "time": "2015-12-17T13:12:19.007743+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d5d52522fa894ed08b87a5d46b6321a7",
+          "amount": 37498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ccit.in.ua",
+                "telephone": "+380442877561",
+                "name": "Прощенко Валерій Іванович",
+                "email": "vip@ccit.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21618744"
+              },
+              "name": "ТОВ Центр комп'ютерних інформаційних технологій",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01033",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Шота Руставелі 27-б, офіс 57",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:27:21.329458+02:00"
+        },
+        {
+          "bidder": "f2a2b74c3dcb4311838142a65b539d37",
+          "amount": 37450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968128216",
+                "name": "Екатерина Прокопенко",
+                "email": "pks@bitech.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"БІЛІНТЕХ УКРАЇНА\"",
+                "id": "37962954",
+                "uri": "http://bitech.com.ua"
+              },
+              "name": "ТОВ \"БІЛІНТЕХ УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03110",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Соломенская, 3, каб 2006-03",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:29:33.084005+02:00"
+        },
+        {
+          "bidder": "8bd4e769fdb8490ba4da1fd1094fda90",
+          "amount": 36500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://software.com.ua",
+                "faxNumber": "+380322478382",
+                "telephone": "+380322426163",
+                "name": "Астахова Вікторія Вячеславівна",
+                "email": "info@software.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31441767"
+              },
+              "name": "ТОВ Компанія \"Уні-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79066",
+                "region": "Львівська область",
+                "streetAddress": "вул. Сихівська,24/27",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:30:42.239916+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:32:20.405677+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T15:33:09.374244+02:00",
+          "amount": 46000.0,
+          "bidder": "d5d52522fa894ed08b87a5d46b6321a7"
+        },
+        {
+          "date": "2015-12-16T17:26:54.965487+02:00",
+          "amount": 41000.0,
+          "bidder": "f2a2b74c3dcb4311838142a65b539d37"
+        },
+        {
+          "date": "2015-12-16T14:56:07.150459+02:00",
+          "amount": 38500.0,
+          "bidder": "8bd4e769fdb8490ba4da1fd1094fda90"
+        }
+      ],
+      "time": "2015-12-17T13:05:19.003174+00:00"
+    }
+  },
+  "id": "048feb5e7e004a55aa2248f005332c43",
+  "tenderId": "UA-2015-12-14-000189-a"
+}

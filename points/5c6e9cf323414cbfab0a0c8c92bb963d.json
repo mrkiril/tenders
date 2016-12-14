@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "36aece1ea735435a83540f93054c935b",
+        "time": "2015-10-16T11:46:34.011517+00:00"
+      },
+      "turn_1": {
+        "bidder": "41ea8945434d46a7adf78ec59c1f5c61",
+        "time": "2015-10-16T11:44:34.008032+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 17300.0,
+        "bid_time": "2015-10-16T14:52:04.146426+03:00",
+        "bidder": "36aece1ea735435a83540f93054c935b",
+        "time": "2015-10-16T11:52:34.008609+00:00"
+      },
+      "turn_1": {
+        "amount": 17582.0,
+        "bid_time": "2015-10-16T14:49:25.798270+03:00",
+        "bidder": "41ea8945434d46a7adf78ec59c1f5c61",
+        "time": "2015-10-16T11:50:34.008678+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "36aece1ea735435a83540f93054c935b",
+        "time": "2015-10-16T11:40:34.013738+00:00"
+      },
+      "turn_1": {
+        "bidder": "41ea8945434d46a7adf78ec59c1f5c61",
+        "time": "2015-10-16T11:38:34.011996+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "41ea8945434d46a7adf78ec59c1f5c61",
+          "amount": 17582.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://express-papir.com.ua",
+                "faxNumber": "5007078",
+                "telephone": "5007078",
+                "name": "Колядко Андрій Михайлович",
+                "email": "express-papir_tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36057863",
+                "legalName": "Товариство з обмеженою відповідальністю\"Експрес Папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"Експрес Папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "Драгоманова 42А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T14:49:25.798270+03:00"
+        },
+        {
+          "bidder": "36aece1ea735435a83540f93054c935b",
+          "amount": 17300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380413052189",
+                "telephone": "+380673238882",
+                "name": "Федоришин Дмитро Володимирович",
+                "email": "papirnya@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25313409"
+              },
+              "name": "ТОВ АСС-Коростишівська паперова фабрика",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "12501",
+                "region": "Житомирська область",
+                "streetAddress": "вул.Пролетарська,31",
+                "locality": "Коростишів"
+              }
+            }
+          ],
+          "time": "2015-10-16T14:52:04.146426+03:00"
+        }
+      ],
+      "time": "2015-10-16T11:52:36.564678+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T14:19:17.181856+03:00",
+          "amount": 18585.0,
+          "bidder": "41ea8945434d46a7adf78ec59c1f5c61"
+        },
+        {
+          "date": "2015-10-12T16:45:46.314117+03:00",
+          "amount": 17700.0,
+          "bidder": "36aece1ea735435a83540f93054c935b"
+        }
+      ],
+      "time": "2015-10-16T11:31:34.004118+00:00"
+    }
+  },
+  "id": "5c6e9cf323414cbfab0a0c8c92bb963d",
+  "tenderId": "UA-2015-10-06-000172"
+}

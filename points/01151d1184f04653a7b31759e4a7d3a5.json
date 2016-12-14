@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bfba53e8f0ed4d0e9965583f4ba0c628",
+        "time": "2015-10-09T08:47:06.007079+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5163d6f86814616921ef6d8e0feb388",
+        "time": "2015-10-09T08:45:06.006723+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bfba53e8f0ed4d0e9965583f4ba0c628",
+        "time": "2015-10-09T08:53:06.008176+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5163d6f86814616921ef6d8e0feb388",
+        "time": "2015-10-09T08:51:06.010373+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bfba53e8f0ed4d0e9965583f4ba0c628",
+        "time": "2015-10-09T08:41:06.006562+00:00"
+      },
+      "turn_1": {
+        "bidder": "d5163d6f86814616921ef6d8e0feb388",
+        "time": "2015-10-09T08:39:06.010503+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d5163d6f86814616921ef6d8e0feb388",
+          "amount": 6490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-07T00:43:31.417991+03:00"
+        },
+        {
+          "bidder": "bfba53e8f0ed4d0e9965583f4ba0c628",
+          "amount": 6300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-07T14:28:22.288989+03:00"
+        }
+      ],
+      "time": "2015-10-09T08:53:08.254868+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T00:43:31.417991+03:00",
+          "amount": 6490.0,
+          "bidder": "d5163d6f86814616921ef6d8e0feb388"
+        },
+        {
+          "date": "2015-10-07T14:28:22.288989+03:00",
+          "amount": 6300.0,
+          "bidder": "bfba53e8f0ed4d0e9965583f4ba0c628"
+        }
+      ],
+      "time": "2015-10-09T08:32:06.004749+00:00"
+    }
+  },
+  "id": "01151d1184f04653a7b31759e4a7d3a5",
+  "tenderId": "UA-2015-09-28-000046"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4bddfb1d5b2e4351ac61532f13bf1b0a",
+        "time": "2015-07-10T09:15:00.077183+00:00"
+      },
+      "turn_1": {
+        "bidder": "04a4cd32893348cd88847f8eccfb6822",
+        "time": "2015-07-10T09:13:00.021259+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4bddfb1d5b2e4351ac61532f13bf1b0a",
+        "time": "2015-07-10T09:21:00.016806+00:00"
+      },
+      "turn_1": {
+        "bidder": "04a4cd32893348cd88847f8eccfb6822",
+        "time": "2015-07-10T09:19:00.021761+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4bddfb1d5b2e4351ac61532f13bf1b0a",
+        "time": "2015-07-10T09:09:00.078761+00:00"
+      },
+      "turn_1": {
+        "bidder": "04a4cd32893348cd88847f8eccfb6822",
+        "time": "2015-07-10T09:07:00.035607+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "04a4cd32893348cd88847f8eccfb6822",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T17:08:39.645381+03:00"
+        },
+        {
+          "bidder": "4bddfb1d5b2e4351ac61532f13bf1b0a",
+          "amount": 3765.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444965374, +380444965375",
+                "name": "Оболонский Сергей",
+                "email": "r.kolodiy@elkos.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33999603",
+                "legalName": "ТОВ \"ВКФ ЕЛКОС\""
+              },
+              "name": "ТОВ \"ВКФ ЕЛКОС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. крымского 4А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-09T13:26:15.583204+03:00"
+        }
+      ],
+      "time": "2015-07-10T09:21:01.999469+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-09T17:08:39.645381+03:00",
+          "amount": 12500.0,
+          "bidder": "04a4cd32893348cd88847f8eccfb6822"
+        },
+        {
+          "date": "2015-07-09T13:26:15.583204+03:00",
+          "amount": 3765.84,
+          "bidder": "4bddfb1d5b2e4351ac61532f13bf1b0a"
+        }
+      ],
+      "time": "2015-07-10T09:00:00.007995+00:00"
+    }
+  },
+  "id": "def4afe7246d463fb9417d70ea53e98a",
+  "tenderId": "UA-2015-07-02-000123"
+}

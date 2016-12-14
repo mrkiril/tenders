@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b5846c9db9bd4517abcdf37422ec1738",
+        "time": "2015-09-04T08:15:00.078305+00:00"
+      },
+      "turn_1": {
+        "bidder": "c7e9d0cd42ec44ca9b9a47b5924dca6b",
+        "time": "2015-09-04T08:13:00.068654+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b5846c9db9bd4517abcdf37422ec1738",
+        "time": "2015-09-04T08:21:00.074319+00:00"
+      },
+      "turn_1": {
+        "bidder": "c7e9d0cd42ec44ca9b9a47b5924dca6b",
+        "time": "2015-09-04T08:19:00.105532+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b5846c9db9bd4517abcdf37422ec1738",
+        "time": "2015-09-04T08:09:00.076692+00:00"
+      },
+      "turn_1": {
+        "bidder": "c7e9d0cd42ec44ca9b9a47b5924dca6b",
+        "time": "2015-09-04T08:07:00.115689+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c7e9d0cd42ec44ca9b9a47b5924dca6b",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.profstrah.com.ua",
+                "telephone": "+380442193212",
+                "name": "Требенко Віталій Анатолійович",
+                "email": "trebenko@profstrah.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35482587"
+              },
+              "name": "ТДВ \"Страхова компанія \"Професійне страхування\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "вул. Богомольця, 6",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-31T14:56:04.801640+03:00"
+        },
+        {
+          "bidder": "b5846c9db9bd4517abcdf37422ec1738",
+          "amount": 890.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kiev.oranta.ua",
+                "telephone": "0672199535",
+                "name": "Відкрите акціонерне товариство Національна акціонерна страхова компанія \"Оранта\"",
+                "email": "Sergiy.Sotskov@kiev.oranta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00034186",
+                "legalName": "Відкрите акціонерне товариство Національна акціонерна страхова компанія \"Оранта\""
+              },
+              "name": "Відкрите акціонерне товариство Національна акціонерна страхова компанія \"Оранта\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "Щорса, 29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-01T15:43:40.064237+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:21:12.613843+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-31T14:56:04.801640+03:00",
+          "amount": 900.0,
+          "bidder": "c7e9d0cd42ec44ca9b9a47b5924dca6b"
+        },
+        {
+          "date": "2015-09-01T15:43:40.064237+03:00",
+          "amount": 890.4,
+          "bidder": "b5846c9db9bd4517abcdf37422ec1738"
+        }
+      ],
+      "time": "2015-09-04T08:00:00.024079+00:00"
+    }
+  },
+  "id": "44a14c97883d497f82aa60998d0a8e22",
+  "tenderId": "UA-2015-08-28-000040"
+}

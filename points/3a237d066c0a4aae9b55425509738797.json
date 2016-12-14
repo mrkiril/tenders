@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ddfde01ad1ee4b4dbdc39130e17ecf89",
+        "time": "2015-10-23T11:18:04.009795+00:00"
+      },
+      "turn_1": {
+        "bidder": "1cebc80765274930bfc2909836ea77ba",
+        "time": "2015-10-23T11:16:04.009391+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ddfde01ad1ee4b4dbdc39130e17ecf89",
+        "time": "2015-10-23T11:24:04.008470+00:00"
+      },
+      "turn_1": {
+        "bidder": "1cebc80765274930bfc2909836ea77ba",
+        "time": "2015-10-23T11:22:04.011303+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ddfde01ad1ee4b4dbdc39130e17ecf89",
+        "time": "2015-10-23T11:12:04.009331+00:00"
+      },
+      "turn_1": {
+        "bidder": "1cebc80765274930bfc2909836ea77ba",
+        "time": "2015-10-23T11:10:04.007642+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1cebc80765274930bfc2909836ea77ba",
+          "amount": 17300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T11:36:00.928139+03:00"
+        },
+        {
+          "bidder": "ddfde01ad1ee4b4dbdc39130e17ecf89",
+          "amount": 6372.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T09:57:00.856252+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:24:04.976914+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T11:36:00.928139+03:00",
+          "amount": 17300.0,
+          "bidder": "1cebc80765274930bfc2909836ea77ba"
+        },
+        {
+          "date": "2015-10-22T09:57:00.856252+03:00",
+          "amount": 6372.0,
+          "bidder": "ddfde01ad1ee4b4dbdc39130e17ecf89"
+        }
+      ],
+      "time": "2015-10-23T11:03:04.005156+00:00"
+    }
+  },
+  "id": "3a237d066c0a4aae9b55425509738797",
+  "tenderId": "UA-2015-10-13-000099"
+}

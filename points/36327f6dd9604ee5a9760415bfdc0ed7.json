@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9d914b6a84f1413dae28368dd9b6483f",
+        "time": "2015-12-09T11:45:01.012758+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbb97af685be430c95c4a5062dc7fa3c",
+        "time": "2015-12-09T11:43:01.012962+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9d914b6a84f1413dae28368dd9b6483f",
+        "time": "2015-12-09T11:51:01.013170+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbb97af685be430c95c4a5062dc7fa3c",
+        "time": "2015-12-09T11:49:01.014414+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9d914b6a84f1413dae28368dd9b6483f",
+        "time": "2015-12-09T11:39:01.009022+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbb97af685be430c95c4a5062dc7fa3c",
+        "time": "2015-12-09T11:37:01.007638+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bbb97af685be430c95c4a5062dc7fa3c",
+          "amount": 44760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567913566",
+                "telephone": "+380676351670",
+                "name": "Холодова Олена Вікторівна",
+                "email": "tavolgaplus@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30540001"
+              },
+              "name": "ТОВ Таволга",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Весніна, 84",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-07T13:08:16.905232+02:00"
+        },
+        {
+          "bidder": "9d914b6a84f1413dae28368dd9b6483f",
+          "amount": 39483.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Артем",
+                "email": "lutsenko_artem@yahoo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38010921",
+                "legalName": "ТОВ \"ЛЕКСТРЕЙД\""
+              },
+              "name": "ТОВ \"ЛЕКСТРЕЙД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08131",
+                "region": "Киевская",
+                "streetAddress": "Київська обл., Києво-Святошинський р-н,с. Софіївська Борщагівка, вул Мала Кільцева, 18",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-08T12:28:19.621590+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:51:03.105576+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T13:08:16.905232+02:00",
+          "amount": 44760.0,
+          "bidder": "bbb97af685be430c95c4a5062dc7fa3c"
+        },
+        {
+          "date": "2015-12-08T12:28:19.621590+02:00",
+          "amount": 39483.0,
+          "bidder": "9d914b6a84f1413dae28368dd9b6483f"
+        }
+      ],
+      "time": "2015-12-09T11:30:01.001996+00:00"
+    }
+  },
+  "id": "36327f6dd9604ee5a9760415bfdc0ed7",
+  "tenderId": "UA-2015-12-01-000065-b"
+}

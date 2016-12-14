@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "606c6131362542b297f3587c121ab362",
+        "time": "2015-06-26T09:45:00.092887+00:00"
+      },
+      "turn_1": {
+        "bidder": "707d4c6acfc74fca86047dfae7bf4c5d",
+        "time": "2015-06-26T09:43:00.252331+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "606c6131362542b297f3587c121ab362",
+        "time": "2015-06-26T09:51:00.159239+00:00"
+      },
+      "turn_1": {
+        "bidder": "707d4c6acfc74fca86047dfae7bf4c5d",
+        "time": "2015-06-26T09:49:00.105120+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "606c6131362542b297f3587c121ab362",
+        "time": "2015-06-26T09:39:00.190289+00:00"
+      },
+      "turn_1": {
+        "bidder": "707d4c6acfc74fca86047dfae7bf4c5d",
+        "time": "2015-06-26T09:37:00.116344+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "707d4c6acfc74fca86047dfae7bf4c5d",
+          "amount": 2510.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://voltag.co.ua",
+                "telephone": "+380612200203",
+                "name": "ТОВ ВОЛЬТАЖ",
+                "email": "info@voltag.co.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36879279",
+                "legalName": "ТОВ ВОЛЬТАЖ"
+              },
+              "name": "ТОВ ВОЛЬТАЖ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69093, м. Запоріжжя, вул. Узбекистанська 9А/74",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T12:52:23.522415+03:00"
+        },
+        {
+          "bidder": "606c6131362542b297f3587c121ab362",
+          "amount": 249.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445008931",
+                "name": "Товариство з обмеженою відповідальністю \"Комплітех\"",
+                "email": "completech@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21614048",
+                "legalName": "Товариство з обмеженою відповідальністю \"Комплітех\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Комплітех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04114, м. Київ, вул. Кобзарська, 67",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T16:32:14.545514+03:00"
+        }
+      ],
+      "time": "2015-06-26T09:51:02.817629+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-25T12:52:23.522415+03:00",
+          "amount": 2510.0,
+          "bidder": "707d4c6acfc74fca86047dfae7bf4c5d"
+        },
+        {
+          "date": "2015-06-25T16:32:14.545514+03:00",
+          "amount": 249.0,
+          "bidder": "606c6131362542b297f3587c121ab362"
+        }
+      ],
+      "time": "2015-06-26T09:30:00.008345+00:00"
+    }
+  },
+  "id": "92af287b90674c6eaff859e3410dab5a",
+  "tenderId": "UA-2015-06-23-000033"
+}

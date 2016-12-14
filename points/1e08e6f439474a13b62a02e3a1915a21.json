@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2500000.0,
+        "bid_time": "2015-10-22T13:20:09.907193+03:00",
+        "bidder": "02515ce601a0475fbc75ac37f9afef0f",
+        "time": "2015-10-22T10:21:17.012598+00:00"
+      },
+      "turn_3": {
+        "bidder": "b36d0de5835f4bd8aef6beeb02791c89",
+        "time": "2015-10-22T10:23:17.008710+00:00"
+      },
+      "turn_1": {
+        "amount": 2538980.0,
+        "bid_time": "2015-10-22T13:18:03.524784+03:00",
+        "bidder": "f2a5fc2ac37a47f09d3d1582c240a628",
+        "time": "2015-10-22T10:19:17.009643+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2486900.0,
+        "bid_time": "2015-10-22T13:28:10.138685+03:00",
+        "bidder": "f2a5fc2ac37a47f09d3d1582c240a628",
+        "time": "2015-10-22T10:29:17.010444+00:00"
+      },
+      "turn_3": {
+        "amount": 2486890.0,
+        "bid_time": "2015-10-22T13:30:42.911585+03:00",
+        "bidder": "02515ce601a0475fbc75ac37f9afef0f",
+        "time": "2015-10-22T10:31:17.013494+00:00"
+      },
+      "turn_1": {
+        "bidder": "b36d0de5835f4bd8aef6beeb02791c89",
+        "time": "2015-10-22T10:27:17.010049+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2585690.0,
+        "bid_time": "2015-10-22T13:11:40.417495+03:00",
+        "bidder": "f2a5fc2ac37a47f09d3d1582c240a628",
+        "time": "2015-10-22T10:13:17.012120+00:00"
+      },
+      "turn_3": {
+        "amount": 2546137.0,
+        "bid_time": "2015-10-22T13:15:00.791517+03:00",
+        "bidder": "b36d0de5835f4bd8aef6beeb02791c89",
+        "time": "2015-10-22T10:15:17.025691+00:00"
+      },
+      "turn_1": {
+        "amount": 2569790.0,
+        "bid_time": "2015-10-22T13:09:56.024141+03:00",
+        "bidder": "02515ce601a0475fbc75ac37f9afef0f",
+        "time": "2015-10-22T10:11:17.009502+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b36d0de5835f4bd8aef6beeb02791c89",
+          "amount": 2546137.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://metaltrader.com.ua",
+                "telephone": "+380676117787",
+                "name": "ООО \"ТД \"Содружество\"",
+                "email": "manager16@metaltrader.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34245231",
+                "legalName": "ООО \"ТД \"Содружество\""
+              },
+              "name": "ООО \"ТД \"Содружество\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Украина, г. Днепропетровск, ул. Гаванская, 17/Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T13:15:00.791517+03:00"
+        },
+        {
+          "bidder": "f2a5fc2ac37a47f09d3d1582c240a628",
+          "amount": 2486900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380536629000",
+                "telephone": "+380678703867",
+                "name": "Тарасова Юлія Олегівна",
+                "email": "taraskina_juliya@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35786634"
+              },
+              "name": "ТОВ ДОМУС.АРТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "39600",
+                "region": "Полтавська область",
+                "streetAddress": "леонова 96",
+                "locality": "кременчук"
+              }
+            }
+          ],
+          "time": "2015-10-22T13:28:10.138685+03:00"
+        },
+        {
+          "bidder": "02515ce601a0475fbc75ac37f9afef0f",
+          "amount": 2486890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501304320",
+                "name": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»",
+                "email": "petrol-petrol@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39297881",
+                "legalName": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73000, м. Херсон, вул.. Карбишева 11, офіс 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T13:30:42.911585+03:00"
+        }
+      ],
+      "time": "2015-10-22T10:31:22.035304+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T15:58:31.422059+03:00",
+          "amount": 2609450.0,
+          "bidder": "02515ce601a0475fbc75ac37f9afef0f"
+        },
+        {
+          "date": "2015-10-21T12:03:06.112390+03:00",
+          "amount": 2598800.0,
+          "bidder": "f2a5fc2ac37a47f09d3d1582c240a628"
+        },
+        {
+          "date": "2015-10-21T09:07:35.195597+03:00",
+          "amount": 2583000.0,
+          "bidder": "b36d0de5835f4bd8aef6beeb02791c89"
+        }
+      ],
+      "time": "2015-10-22T10:04:17.004508+00:00"
+    }
+  },
+  "id": "1e08e6f439474a13b62a02e3a1915a21",
+  "tenderId": "UA-2015-10-12-000247"
+}

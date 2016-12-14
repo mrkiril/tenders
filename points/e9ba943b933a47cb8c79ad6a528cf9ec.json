@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4e79561e647d4681a920c9e9b56b1be2",
+        "time": "2015-03-30T09:15:00.122268+00:00"
+      },
+      "turn_1": {
+        "bidder": "4796b049586a4a7ea1cb6f0c70a66da6",
+        "time": "2015-03-30T09:13:00.045853+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4e79561e647d4681a920c9e9b56b1be2",
+        "time": "2015-03-30T09:21:00.110398+00:00"
+      },
+      "turn_1": {
+        "bidder": "4796b049586a4a7ea1cb6f0c70a66da6",
+        "time": "2015-03-30T09:19:00.024198+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4e79561e647d4681a920c9e9b56b1be2",
+        "time": "2015-03-30T09:09:00.335198+00:00"
+      },
+      "turn_1": {
+        "bidder": "4796b049586a4a7ea1cb6f0c70a66da6",
+        "time": "2015-03-30T09:07:00.236633+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4796b049586a4a7ea1cb6f0c70a66da6",
+          "amount": 1500000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Нільга Костянтин",
+                "email": "tallegprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360806",
+                "legalName": "ТОВ \"ВО \"Таллегпром\""
+              },
+              "name": "ТОВ \"ВО \"Таллегпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. М. Раскової, 21, оф. 801-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-27T21:09:28.002543+02:00"
+        },
+        {
+          "bidder": "4e79561e647d4681a920c9e9b56b1be2",
+          "amount": 1432450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935753895",
+                "name": "Оксана Булатецкая",
+                "email": "spaceforladies@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35493232",
+                "legalName": "ТОВ \"Триумф-плюс\""
+              },
+              "name": "ТОВ \"Триумф-плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "18023",
+                "region": "Черкасская",
+                "streetAddress": "м. Черкаси, вул. Одеська, 42",
+                "locality": "Черкассы"
+              }
+            }
+          ],
+          "time": "2015-03-27T16:22:18.037021+02:00"
+        }
+      ],
+      "time": "2015-03-30T09:21:03.334329+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-27T21:09:28.002543+02:00",
+          "amount": 1500000.0,
+          "bidder": "4796b049586a4a7ea1cb6f0c70a66da6"
+        },
+        {
+          "date": "2015-03-27T16:22:18.037021+02:00",
+          "amount": 1432450.0,
+          "bidder": "4e79561e647d4681a920c9e9b56b1be2"
+        }
+      ],
+      "time": "2015-03-30T09:00:00.011987+00:00"
+    }
+  },
+  "id": "e9ba943b933a47cb8c79ad6a528cf9ec",
+  "tenderId": "UA-2015-03-18-000020"
+}

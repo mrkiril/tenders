@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 7698.0,
+        "bid_time": "2015-12-02T11:28:26.959992+02:00",
+        "bidder": "9b725755793c426caccd47f7b12dd24c",
+        "time": "2015-12-02T09:29:23.009056+00:00"
+      },
+      "turn_3": {
+        "amount": 7697.0,
+        "bid_time": "2015-12-02T11:29:47.655884+02:00",
+        "bidder": "1fb532268eb449b5acbb6fc07f8a7ac4",
+        "time": "2015-12-02T09:31:23.009953+00:00"
+      },
+      "turn_1": {
+        "bidder": "9216877cc6144ea9a123eb6a9d9f4d14",
+        "time": "2015-12-02T09:27:23.008246+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9b725755793c426caccd47f7b12dd24c",
+        "time": "2015-12-02T09:37:23.010853+00:00"
+      },
+      "turn_3": {
+        "bidder": "1fb532268eb449b5acbb6fc07f8a7ac4",
+        "time": "2015-12-02T09:39:23.009319+00:00"
+      },
+      "turn_1": {
+        "bidder": "9216877cc6144ea9a123eb6a9d9f4d14",
+        "time": "2015-12-02T09:35:23.031942+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 7748.0,
+        "bid_time": "2015-12-02T11:19:55.282324+02:00",
+        "bidder": "9b725755793c426caccd47f7b12dd24c",
+        "time": "2015-12-02T09:21:23.010426+00:00"
+      },
+      "turn_3": {
+        "amount": 7747.0,
+        "bid_time": "2015-12-02T11:21:51.914190+02:00",
+        "bidder": "1fb532268eb449b5acbb6fc07f8a7ac4",
+        "time": "2015-12-02T09:23:23.010345+00:00"
+      },
+      "turn_1": {
+        "amount": 7749.0,
+        "bid_time": "2015-12-02T11:17:56.098329+02:00",
+        "bidder": "9216877cc6144ea9a123eb6a9d9f4d14",
+        "time": "2015-12-02T09:19:23.009969+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9216877cc6144ea9a123eb6a9d9f4d14",
+          "amount": 7749.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aeq.su",
+                "faxNumber": "+380617070959",
+                "telephone": "+380679979779",
+                "name": "Вильховая Елена Васильевна",
+                "email": "4585999@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23850511"
+              },
+              "name": "ТОВ Екватор",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69002",
+                "region": "Запорізька область",
+                "streetAddress": "вул. Червоногвардійська, б.40, оф. 202",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-12-02T11:17:56.098329+02:00"
+        },
+        {
+          "bidder": "9b725755793c426caccd47f7b12dd24c",
+          "amount": 7698.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-02T11:28:26.959992+02:00"
+        },
+        {
+          "bidder": "1fb532268eb449b5acbb6fc07f8a7ac4",
+          "amount": 7697.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.brandline.com.ua",
+                "telephone": "+380445072224",
+                "name": "ТОВ \"БРЕНД-ЛАЙН\"",
+                "email": "it@brandline.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35591001",
+                "legalName": "ТОВ \"БРЕНД-ЛАЙН\""
+              },
+              "name": "ТОВ \"БРЕНД-ЛАЙН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Киев, ул.Черноморская 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T11:29:47.655884+02:00"
+        }
+      ],
+      "time": "2015-12-02T09:39:24.662193+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T13:11:31.130869+02:00",
+          "amount": 8150.0,
+          "bidder": "9216877cc6144ea9a123eb6a9d9f4d14"
+        },
+        {
+          "date": "2015-11-28T15:00:30.225340+02:00",
+          "amount": 7999.0,
+          "bidder": "9b725755793c426caccd47f7b12dd24c"
+        },
+        {
+          "date": "2015-12-01T10:01:30.576752+02:00",
+          "amount": 7799.0,
+          "bidder": "1fb532268eb449b5acbb6fc07f8a7ac4"
+        }
+      ],
+      "time": "2015-12-02T09:12:23.004982+00:00"
+    }
+  },
+  "id": "14ea8ea718644401b57769a473feecc3",
+  "tenderId": "UA-2015-11-26-000020"
+}

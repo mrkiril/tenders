@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 18400.0,
+        "bid_time": "2015-09-17T13:15:56.698186+03:00",
+        "bidder": "e05cb595ed894a2cb03f8b509dccc644",
+        "time": "2015-09-17T10:17:00.035942+00:00"
+      },
+      "turn_3": {
+        "amount": 18300.0,
+        "bid_time": "2015-09-17T13:17:38.862999+03:00",
+        "bidder": "e305b8bd16e146ad9042648d2881c091",
+        "time": "2015-09-17T10:19:00.027630+00:00"
+      },
+      "turn_1": {
+        "bidder": "61dd7935152a486d9cfd017543b6d50e",
+        "time": "2015-09-17T10:15:00.075768+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 17800.0,
+        "bid_time": "2015-09-17T13:23:54.495717+03:00",
+        "bidder": "e05cb595ed894a2cb03f8b509dccc644",
+        "time": "2015-09-17T10:25:00.017584+00:00"
+      },
+      "turn_3": {
+        "amount": 17700.0,
+        "bid_time": "2015-09-17T13:25:38.391279+03:00",
+        "bidder": "e305b8bd16e146ad9042648d2881c091",
+        "time": "2015-09-17T10:27:00.016031+00:00"
+      },
+      "turn_1": {
+        "bidder": "61dd7935152a486d9cfd017543b6d50e",
+        "time": "2015-09-17T10:23:00.023906+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 18600.0,
+        "bid_time": "2015-09-17T13:07:26.637478+03:00",
+        "bidder": "e05cb595ed894a2cb03f8b509dccc644",
+        "time": "2015-09-17T10:09:00.017338+00:00"
+      },
+      "turn_3": {
+        "amount": 18500.0,
+        "bid_time": "2015-09-17T13:09:47.081006+03:00",
+        "bidder": "e305b8bd16e146ad9042648d2881c091",
+        "time": "2015-09-17T10:11:00.043088+00:00"
+      },
+      "turn_1": {
+        "bidder": "61dd7935152a486d9cfd017543b6d50e",
+        "time": "2015-09-17T10:07:00.035185+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "61dd7935152a486d9cfd017543b6d50e",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380964933888",
+                "name": "ООО \"ФИРМА КАПИТАЛ-ТРЕЙД\"",
+                "email": "yf@nerzhaveyka.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38544394",
+                "legalName": "ООО \"ФИРМА КАПИТАЛ-ТРЕЙД\""
+              },
+              "name": "ООО \"ФИРМА КАПИТАЛ-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01103, Украина, Киев, Печерский район, ул. Киквидзе 28.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T16:27:22.125557+03:00"
+        },
+        {
+          "bidder": "e05cb595ed894a2cb03f8b509dccc644",
+          "amount": 17800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563209480",
+                "name": "Виктория Шедова",
+                "email": "nachsbit@psm.lisgroup.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20303352",
+                "legalName": "ТОВ \"Завод Павлоградспецмаш\""
+              },
+              "name": "ТОВ \"Завод Павлоградспецмаш\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "51400",
+                "region": "Днепропетровская",
+                "streetAddress": "ул.Терьошкіна, 9/3",
+                "locality": "Павлоград"
+              }
+            }
+          ],
+          "time": "2015-09-17T13:23:54.495717+03:00"
+        },
+        {
+          "bidder": "e305b8bd16e146ad9042648d2881c091",
+          "amount": 17700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ustltd.com",
+                "telephone": "+380971208792",
+                "name": "Безугла Віта Сергіївна",
+                "email": "viktoria@ustltd.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30439872"
+              },
+              "name": "ТОВ ЮСТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул.Трублаїні, 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-17T13:25:38.391279+03:00"
+        }
+      ],
+      "time": "2015-09-17T10:27:03.140345+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T16:27:22.125557+03:00",
+          "amount": 20000.0,
+          "bidder": "61dd7935152a486d9cfd017543b6d50e"
+        },
+        {
+          "date": "2015-09-16T16:56:49.213885+03:00",
+          "amount": 19860.24,
+          "bidder": "e05cb595ed894a2cb03f8b509dccc644"
+        },
+        {
+          "date": "2015-09-16T16:51:35.617238+03:00",
+          "amount": 18900.0,
+          "bidder": "e305b8bd16e146ad9042648d2881c091"
+        }
+      ],
+      "time": "2015-09-17T10:00:00.001872+00:00"
+    }
+  },
+  "id": "1b326cc0883d45378ed4dc4ca92bb00b",
+  "tenderId": "UA-2015-09-08-000060"
+}

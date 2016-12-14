@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dc0afbc114664ab69c0fc3bbaaf09876",
+        "time": "2015-11-23T13:48:02.009969+00:00"
+      },
+      "turn_1": {
+        "bidder": "26ad29b60e154fd7ad4dae25f681c905",
+        "time": "2015-11-23T13:46:02.009978+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dc0afbc114664ab69c0fc3bbaaf09876",
+        "time": "2015-11-23T13:54:02.010963+00:00"
+      },
+      "turn_1": {
+        "bidder": "26ad29b60e154fd7ad4dae25f681c905",
+        "time": "2015-11-23T13:52:02.009156+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dc0afbc114664ab69c0fc3bbaaf09876",
+        "time": "2015-11-23T13:42:02.007895+00:00"
+      },
+      "turn_1": {
+        "bidder": "26ad29b60e154fd7ad4dae25f681c905",
+        "time": "2015-11-23T13:40:02.008405+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "26ad29b60e154fd7ad4dae25f681c905",
+          "amount": 7200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442344546",
+                "telephone": "+380442344546",
+                "name": "Нестерова Оксана Степанівна",
+                "email": "o.nesterova@korsi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34966542"
+              },
+              "name": "ПП Корсі",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04050",
+                "region": "Київська область",
+                "streetAddress": "вул.Пугачова, буд. 4, корпус 11, кв. 8",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T14:12:56.233402+02:00"
+        },
+        {
+          "bidder": "dc0afbc114664ab69c0fc3bbaaf09876",
+          "amount": 7000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T14:32:40.547232+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:54:03.387077+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-20T14:12:56.233402+02:00",
+          "amount": 7200.0,
+          "bidder": "26ad29b60e154fd7ad4dae25f681c905"
+        },
+        {
+          "date": "2015-11-20T14:32:40.547232+02:00",
+          "amount": 7000.0,
+          "bidder": "dc0afbc114664ab69c0fc3bbaaf09876"
+        }
+      ],
+      "time": "2015-11-23T13:33:02.002456+00:00"
+    }
+  },
+  "id": "137dde9f868e4549a44f67ca47161aec",
+  "tenderId": "UA-2015-11-13-000157"
+}

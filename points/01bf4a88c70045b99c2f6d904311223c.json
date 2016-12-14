@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "73a3155d4fab458eacca3dad9974d4a9",
+        "time": "2015-12-04T09:17:59.008362+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d125b9a8abc4bd7a64e73e9fa0e13bc",
+        "time": "2015-12-04T09:15:59.007540+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "73a3155d4fab458eacca3dad9974d4a9",
+        "time": "2015-12-04T09:23:59.007569+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d125b9a8abc4bd7a64e73e9fa0e13bc",
+        "time": "2015-12-04T09:21:59.007233+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "73a3155d4fab458eacca3dad9974d4a9",
+        "time": "2015-12-04T09:11:59.033879+00:00"
+      },
+      "turn_1": {
+        "bidder": "0d125b9a8abc4bd7a64e73e9fa0e13bc",
+        "time": "2015-12-04T09:09:59.008715+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0d125b9a8abc4bd7a64e73e9fa0e13bc",
+          "amount": 14400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-02T08:36:03.380086+02:00"
+        },
+        {
+          "bidder": "73a3155d4fab458eacca3dad9974d4a9",
+          "amount": 14400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380634316239, +380678105603, +380663601646",
+                "name": "Дмитрий Сулима",
+                "email": "teploprostor@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3176923317",
+                "legalName": "ФОП \"Сулима Дмитрий Михайлович\""
+              },
+              "name": "ФОП \"Сулима Дмитрий Михайлович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Курсантская 1",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-02T01:37:46.583622+02:00"
+        }
+      ],
+      "time": "2015-12-04T09:23:59.784031+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T01:37:46.583622+02:00",
+          "amount": 14400.0,
+          "bidder": "73a3155d4fab458eacca3dad9974d4a9"
+        },
+        {
+          "date": "2015-12-02T08:36:03.380086+02:00",
+          "amount": 14400.0,
+          "bidder": "0d125b9a8abc4bd7a64e73e9fa0e13bc"
+        }
+      ],
+      "time": "2015-12-04T09:02:59.004025+00:00"
+    }
+  },
+  "id": "01bf4a88c70045b99c2f6d904311223c",
+  "tenderId": "UA-2015-11-26-000003-a"
+}

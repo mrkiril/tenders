@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ed728d007a154161be55cae8a91f0f51",
+        "time": "2015-10-20T10:23:42.008846+00:00"
+      },
+      "turn_1": {
+        "amount": 9034.0,
+        "bid_time": "2015-10-20T13:20:31.083207+03:00",
+        "bidder": "aa4a9e1c8c9c4c5cbeea03e46ffdb821",
+        "time": "2015-10-20T10:21:42.008585+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ed728d007a154161be55cae8a91f0f51",
+        "time": "2015-10-20T10:29:42.007246+00:00"
+      },
+      "turn_1": {
+        "amount": 8924.0,
+        "bid_time": "2015-10-20T13:25:53.921118+03:00",
+        "bidder": "aa4a9e1c8c9c4c5cbeea03e46ffdb821",
+        "time": "2015-10-20T10:27:42.011359+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ed728d007a154161be55cae8a91f0f51",
+        "time": "2015-10-20T10:17:42.012645+00:00"
+      },
+      "turn_1": {
+        "amount": 9144.0,
+        "bid_time": "2015-10-20T13:14:05.266965+03:00",
+        "bidder": "aa4a9e1c8c9c4c5cbeea03e46ffdb821",
+        "time": "2015-10-20T10:15:42.012030+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "aa4a9e1c8c9c4c5cbeea03e46ffdb821",
+          "amount": 8924.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0967993003",
+                "name": "Ковалівський Дмитро Миколайович",
+                "email": "vasept@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38885305",
+                "legalName": "ТОВ \"Владасепт\""
+              },
+              "name": "ТОВ \"Владасепт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Московський пр-т,21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T13:25:53.921118+03:00"
+        },
+        {
+          "bidder": "ed728d007a154161be55cae8a91f0f51",
+          "amount": 7400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504408833",
+                "name": "Драговоз Андрій Григорович",
+                "email": "dezsalemarket@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38261660"
+              },
+              "name": "ТОВ \"ІНТЕР КЄМІКАЛ ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04212",
+                "region": "Київська область",
+                "streetAddress": "вул. Маршала Малиновського, буд. 15/3, офіс 110",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-19T16:13:14.806219+03:00"
+        }
+      ],
+      "time": "2015-10-20T10:29:52.367165+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T15:08:56.840231+03:00",
+          "amount": 9564.0,
+          "bidder": "aa4a9e1c8c9c4c5cbeea03e46ffdb821"
+        },
+        {
+          "date": "2015-10-19T16:13:14.806219+03:00",
+          "amount": 7400.0,
+          "bidder": "ed728d007a154161be55cae8a91f0f51"
+        }
+      ],
+      "time": "2015-10-20T10:08:42.004714+00:00"
+    }
+  },
+  "id": "1c16555aa66d4efe8d74934b85309384",
+  "tenderId": "UA-2015-10-05-000290"
+}

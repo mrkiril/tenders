@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2bc56f10c5f94c8cacb871710da70123",
+        "time": "2015-10-13T11:16:50.008964+00:00"
+      },
+      "turn_1": {
+        "amount": 2100.0,
+        "bid_time": "2015-10-13T14:13:19.837803+03:00",
+        "bidder": "33d19bcb435c4fac8edf994d143decbc",
+        "time": "2015-10-13T11:14:50.007127+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "33d19bcb435c4fac8edf994d143decbc",
+        "time": "2015-10-13T11:22:50.008895+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bc56f10c5f94c8cacb871710da70123",
+        "time": "2015-10-13T11:20:50.010799+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2bc56f10c5f94c8cacb871710da70123",
+        "time": "2015-10-13T11:10:50.006661+00:00"
+      },
+      "turn_1": {
+        "bidder": "33d19bcb435c4fac8edf994d143decbc",
+        "time": "2015-10-13T11:08:50.007669+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2bc56f10c5f94c8cacb871710da70123",
+          "amount": 2120.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0444592863",
+                "name": "Сахарова Наталія Андріївна",
+                "email": "NVPMarion@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21638824",
+                "legalName": "Товариство з обмеженою відповідальністю Науково-виробниче підприємство \"Маріон\""
+              },
+              "name": "Товариство з обмеженою відповідальністю Науково-виробниче підприємство \"Маріон\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "Печерський узвіз, буд.8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T12:32:42.053767+03:00"
+        },
+        {
+          "bidder": "33d19bcb435c4fac8edf994d143decbc",
+          "amount": 2100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ecoproekt.com.ua/",
+                "telephone": "+380674805160",
+                "name": "ТОВ \"ООО \"Управляющая компания\"\"",
+                "email": "dmitro.frolov@ecoproekt.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36291929",
+                "legalName": "ТОВ \"ООО \"Управляющая компания\"\""
+              },
+              "name": "ТОВ \"ООО \"Управляющая компания\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04114",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "уп. Полупанова, д. 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-13T14:13:19.837803+03:00"
+        }
+      ],
+      "time": "2015-10-13T11:22:52.344749+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T10:52:59.318740+03:00",
+          "amount": 2208.0,
+          "bidder": "33d19bcb435c4fac8edf994d143decbc"
+        },
+        {
+          "date": "2015-10-08T12:32:42.053767+03:00",
+          "amount": 2120.4,
+          "bidder": "2bc56f10c5f94c8cacb871710da70123"
+        }
+      ],
+      "time": "2015-10-13T11:01:50.001901+00:00"
+    }
+  },
+  "id": "28311bcdbbca4067aa3892a0e9707b0b",
+  "tenderId": "UA-2015-10-02-000133"
+}

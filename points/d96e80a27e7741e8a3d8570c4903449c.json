@@ -1,0 +1,306 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "186b8a21b5fd4ef5b298377da21c7036",
+        "time": "2015-03-26T10:01:00.104877+00:00"
+      },
+      "turn_4": {
+        "bidder": "bd6a0c6185534bee919dda2ab6ecb90b",
+        "time": "2015-03-26T09:57:00.031738+00:00"
+      },
+      "turn_5": {
+        "amount": 837000.0,
+        "bid_time": "2015-03-26T11:57:38.148401+02:00",
+        "bidder": "b9af18ba4b964267a94a065fe8e35b10",
+        "time": "2015-03-26T09:59:00.066256+00:00"
+      },
+      "turn_2": {
+        "amount": 838000.0,
+        "bid_time": "2015-03-26T11:52:34.204031+02:00",
+        "bidder": "73158a390ccc49048aa38efd049c50e3",
+        "time": "2015-03-26T09:53:00.022377+00:00"
+      },
+      "turn_3": {
+        "bidder": "8ed43c614eae4fc2a564cc09e0da8770",
+        "time": "2015-03-26T09:55:00.048777+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e37b75431fa4217a7db793217ae2e59",
+        "time": "2015-03-26T09:51:00.037334+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "amount": 680000.0,
+        "bid_time": "2015-03-26T12:13:38.152130+02:00",
+        "bidder": "186b8a21b5fd4ef5b298377da21c7036",
+        "time": "2015-03-26T10:15:00.167002+00:00"
+      },
+      "turn_4": {
+        "amount": 700000.0,
+        "bid_time": "2015-03-26T12:09:10.039592+02:00",
+        "bidder": "73158a390ccc49048aa38efd049c50e3",
+        "time": "2015-03-26T10:11:00.047568+00:00"
+      },
+      "turn_5": {
+        "amount": 836800.0,
+        "bid_time": "2015-03-26T12:11:53.128971+02:00",
+        "bidder": "b9af18ba4b964267a94a065fe8e35b10",
+        "time": "2015-03-26T10:13:00.041787+00:00"
+      },
+      "turn_2": {
+        "bidder": "8ed43c614eae4fc2a564cc09e0da8770",
+        "time": "2015-03-26T10:07:00.075800+00:00"
+      },
+      "turn_3": {
+        "bidder": "bd6a0c6185534bee919dda2ab6ecb90b",
+        "time": "2015-03-26T10:09:00.040593+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e37b75431fa4217a7db793217ae2e59",
+        "time": "2015-03-26T10:05:00.041611+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "bd6a0c6185534bee919dda2ab6ecb90b",
+        "time": "2015-03-26T09:47:00.048488+00:00"
+      },
+      "turn_4": {
+        "bidder": "2e37b75431fa4217a7db793217ae2e59",
+        "time": "2015-03-26T09:43:00.085093+00:00"
+      },
+      "turn_5": {
+        "amount": 930000.0,
+        "bid_time": "2015-03-26T11:44:04.959389+02:00",
+        "bidder": "8ed43c614eae4fc2a564cc09e0da8770",
+        "time": "2015-03-26T09:45:00.071622+00:00"
+      },
+      "turn_2": {
+        "amount": 839000.0,
+        "bid_time": "2015-03-26T11:37:25.613755+02:00",
+        "bidder": "b9af18ba4b964267a94a065fe8e35b10",
+        "time": "2015-03-26T09:39:00.027663+00:00"
+      },
+      "turn_3": {
+        "amount": 959800.0,
+        "bid_time": "2015-03-26T11:39:30.063282+02:00",
+        "bidder": "73158a390ccc49048aa38efd049c50e3",
+        "time": "2015-03-26T09:41:00.159411+00:00"
+      },
+      "turn_1": {
+        "amount": 700000.0,
+        "bid_time": "2015-03-26T11:35:12.657419+02:00",
+        "bidder": "186b8a21b5fd4ef5b298377da21c7036",
+        "time": "2015-03-26T09:37:00.042248+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2e37b75431fa4217a7db793217ae2e59",
+          "amount": 960000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442094950",
+                "name": "Elena",
+                "email": "vimpel_pg@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360717",
+                "legalName": "ТОВ \"ПРОМИСЛОВА ГРУПА \"ВИМПЕЛ\""
+              },
+              "name": "ТОВ \"ПРОМИСЛОВА ГРУПА \"ВИМПЕЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "вул. М. Раскової, 21, офіс 804",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-25T17:00:35.320555+02:00"
+        },
+        {
+          "bidder": "8ed43c614eae4fc2a564cc09e0da8770",
+          "amount": 930000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://legio.all.biz/",
+                "telephone": "+380686104825",
+                "name": "ООО LEGIO",
+                "email": "i.kosar2012@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947782",
+                "legalName": "ООО LEGIO"
+              },
+              "name": "ООО LEGIO",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Энгельса 114",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-26T11:44:04.959389+02:00"
+        },
+        {
+          "bidder": "bd6a0c6185534bee919dda2ab6ecb90b",
+          "amount": 840000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-25T18:35:36.130717+02:00"
+        },
+        {
+          "bidder": "b9af18ba4b964267a94a065fe8e35b10",
+          "amount": 836800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Нільга Костянтин",
+                "email": "tallegprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360806",
+                "legalName": "ТОВ \"ВО \"Таллегпром\""
+              },
+              "name": "ТОВ \"ВО \"Таллегпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. М. Раскової, 21, оф. 801-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-26T12:11:53.128971+02:00"
+        },
+        {
+          "bidder": "73158a390ccc49048aa38efd049c50e3",
+          "amount": 700000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0442094950",
+                "name": "Товариство з обмженою відповідальністю \"Промислова група \"Вимпел\"",
+                "email": "vimpel_pg@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360717",
+                "legalName": "Товариство з обмженою відповідальністю \"Промислова група \"Вимпел\""
+              },
+              "name": "Товариство з обмженою відповідальністю \"Промислова група \"Вимпел\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "вулиця М. Раскової, 21, офіс 804",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-03-26T12:09:10.039592+02:00"
+        },
+        {
+          "bidder": "186b8a21b5fd4ef5b298377da21c7036",
+          "amount": 680000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677247608",
+                "name": "Тарас Юськів",
+                "email": "tyuskiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23965846",
+                "legalName": "ПВТП \"Акрополіс\""
+              },
+              "name": "ПВТП \"Акрополіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79018",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Залізнична,18",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-03-26T12:13:38.152130+02:00"
+        }
+      ],
+      "time": "2015-03-26T10:15:06.322150+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-24T09:45:14.686067+02:00",
+          "amount": 960000.0,
+          "bidder": "186b8a21b5fd4ef5b298377da21c7036"
+        },
+        {
+          "date": "2015-03-25T16:04:28.628738+02:00",
+          "amount": 960000.0,
+          "bidder": "b9af18ba4b964267a94a065fe8e35b10"
+        },
+        {
+          "date": "2015-03-25T16:29:11.269812+02:00",
+          "amount": 960000.0,
+          "bidder": "73158a390ccc49048aa38efd049c50e3"
+        },
+        {
+          "date": "2015-03-25T17:00:35.320555+02:00",
+          "amount": 960000.0,
+          "bidder": "2e37b75431fa4217a7db793217ae2e59"
+        },
+        {
+          "date": "2015-03-25T09:44:42.913435+02:00",
+          "amount": 950000.0,
+          "bidder": "8ed43c614eae4fc2a564cc09e0da8770"
+        },
+        {
+          "date": "2015-03-25T18:35:36.130717+02:00",
+          "amount": 840000.0,
+          "bidder": "bd6a0c6185534bee919dda2ab6ecb90b"
+        }
+      ],
+      "time": "2015-03-26T09:30:00.010740+00:00"
+    }
+  },
+  "id": "d96e80a27e7741e8a3d8570c4903449c",
+  "tenderId": "UA-2015-03-17-000002"
+}

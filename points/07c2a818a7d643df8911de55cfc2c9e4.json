@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 34000.0,
+        "bid_time": "2015-11-17T12:20:17.110402+02:00",
+        "bidder": "bf3d1e222b894674bc43b4c1195dfa0d",
+        "time": "2015-11-17T10:21:40.008913+00:00"
+      },
+      "turn_3": {
+        "bidder": "141c4034ca7842a48431448c84650ef7",
+        "time": "2015-11-17T10:23:40.007318+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab4a3adba1fc4e9fa4f33306db3b664b",
+        "time": "2015-11-17T10:19:40.006384+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "141c4034ca7842a48431448c84650ef7",
+        "time": "2015-11-17T10:29:40.011772+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf3d1e222b894674bc43b4c1195dfa0d",
+        "time": "2015-11-17T10:31:40.007374+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab4a3adba1fc4e9fa4f33306db3b664b",
+        "time": "2015-11-17T10:27:40.006601+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 35470.0,
+        "bid_time": "2015-11-17T12:12:07.742683+02:00",
+        "bidder": "ab4a3adba1fc4e9fa4f33306db3b664b",
+        "time": "2015-11-17T10:13:40.009678+00:00"
+      },
+      "turn_3": {
+        "amount": 35155.0,
+        "bid_time": "2015-11-17T12:14:11.962424+02:00",
+        "bidder": "141c4034ca7842a48431448c84650ef7",
+        "time": "2015-11-17T10:15:40.012917+00:00"
+      },
+      "turn_1": {
+        "amount": 35470.0,
+        "bid_time": "2015-11-17T12:10:02.447248+02:00",
+        "bidder": "bf3d1e222b894674bc43b4c1195dfa0d",
+        "time": "2015-11-17T10:11:40.009638+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab4a3adba1fc4e9fa4f33306db3b664b",
+          "amount": 35470.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T12:12:07.742683+02:00"
+        },
+        {
+          "bidder": "141c4034ca7842a48431448c84650ef7",
+          "amount": 35155.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503911341",
+                "name": "Дмитрий Городецкий",
+                "email": "allo-ds26@cifrotech.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ГК АЛЛО\"",
+                "id": "30012848",
+                "uri": "http://allo.ua"
+              },
+              "name": "ТОВ \"ГК АЛЛО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул.Баррикадная 15.б",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:14:11.962424+02:00"
+        },
+        {
+          "bidder": "bf3d1e222b894674bc43b4c1195dfa0d",
+          "amount": 34000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:20:17.110402+02:00"
+        }
+      ],
+      "time": "2015-11-17T10:31:49.757260+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T01:17:05.921869+02:00",
+          "amount": 39500.0,
+          "bidder": "bf3d1e222b894674bc43b4c1195dfa0d"
+        },
+        {
+          "date": "2015-11-13T14:06:24.852614+02:00",
+          "amount": 37446.0,
+          "bidder": "ab4a3adba1fc4e9fa4f33306db3b664b"
+        },
+        {
+          "date": "2015-11-13T17:34:33.655169+02:00",
+          "amount": 35471.0,
+          "bidder": "141c4034ca7842a48431448c84650ef7"
+        }
+      ],
+      "time": "2015-11-17T10:04:40.003564+00:00"
+    }
+  },
+  "id": "07c2a818a7d643df8911de55cfc2c9e4",
+  "tenderId": "UA-2015-11-06-000182"
+}

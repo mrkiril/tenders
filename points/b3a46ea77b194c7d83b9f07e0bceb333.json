@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b1319f6e64954845b9ed58c6cd56bd1f",
+        "time": "2015-09-17T08:45:00.064015+00:00"
+      },
+      "turn_1": {
+        "bidder": "a84f523fd537470a95891d3ca43ade62",
+        "time": "2015-09-17T08:43:00.076851+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b1319f6e64954845b9ed58c6cd56bd1f",
+        "time": "2015-09-17T08:51:00.090328+00:00"
+      },
+      "turn_1": {
+        "bidder": "a84f523fd537470a95891d3ca43ade62",
+        "time": "2015-09-17T08:49:00.125993+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b1319f6e64954845b9ed58c6cd56bd1f",
+        "time": "2015-09-17T08:39:00.114552+00:00"
+      },
+      "turn_1": {
+        "bidder": "a84f523fd537470a95891d3ca43ade62",
+        "time": "2015-09-17T08:37:00.143336+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a84f523fd537470a95891d3ca43ade62",
+          "amount": 300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukk.kiev.ua/",
+                "faxNumber": "400-01-36",
+                "telephone": "097-664-86-75",
+                "name": "Тарчук Николай Петрович",
+                "email": "manager@ukk.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "03363465",
+                "legalName": "Комунальне Підприємство \"Київжитлоспецексплуатация\" Учбово-Курсовий Комбінат"
+              },
+              "name": "Комунальне Підприємство \"Київжитлоспецексплуатация\" Учбово-Курсовий Комбінат",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03190",
+                "region": "Київська",
+                "streetAddress": "вул. Баумана, 32",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T18:07:32.685923+03:00"
+        },
+        {
+          "bidder": "b1319f6e64954845b9ed58c6cd56bd1f",
+          "amount": 296.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "Http://www.bqk.kiev.ua",
+                "faxNumber": "044-277-47-59",
+                "telephone": "044-277-47-59",
+                "name": "Кунгурова Ольга Вікторівна",
+                "email": "kungurova-olga@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30300419",
+                "legalName": "Мале приватне підприємство \"Будкваліфкадри\""
+              },
+              "name": "Мале приватне підприємство \"Будкваліфкадри\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03056",
+                "region": "Київська",
+                "streetAddress": "провулок Ковальський, 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T11:58:01.529908+03:00"
+        }
+      ],
+      "time": "2015-09-17T08:51:14.557374+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T18:07:32.685923+03:00",
+          "amount": 300.0,
+          "bidder": "a84f523fd537470a95891d3ca43ade62"
+        },
+        {
+          "date": "2015-09-16T11:58:01.529908+03:00",
+          "amount": 296.0,
+          "bidder": "b1319f6e64954845b9ed58c6cd56bd1f"
+        }
+      ],
+      "time": "2015-09-17T08:30:00.035471+00:00"
+    }
+  },
+  "id": "b3a46ea77b194c7d83b9f07e0bceb333",
+  "tenderId": "UA-2015-09-08-000250"
+}

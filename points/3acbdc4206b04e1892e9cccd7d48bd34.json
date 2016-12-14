@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cc4eeba9f62e40449cc2d7bbbfe9ec8c",
+        "time": "2015-09-22T09:15:00.073244+00:00"
+      },
+      "turn_1": {
+        "bidder": "c71f0f4bfdf54dabb4449b4de40a12f3",
+        "time": "2015-09-22T09:13:00.100413+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cc4eeba9f62e40449cc2d7bbbfe9ec8c",
+        "time": "2015-09-22T09:21:00.083756+00:00"
+      },
+      "turn_1": {
+        "bidder": "c71f0f4bfdf54dabb4449b4de40a12f3",
+        "time": "2015-09-22T09:19:00.089941+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cc4eeba9f62e40449cc2d7bbbfe9ec8c",
+        "time": "2015-09-22T09:09:00.039892+00:00"
+      },
+      "turn_1": {
+        "bidder": "c71f0f4bfdf54dabb4449b4de40a12f3",
+        "time": "2015-09-22T09:07:00.097589+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c71f0f4bfdf54dabb4449b4de40a12f3",
+          "amount": 630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380973856068, +380502799218",
+                "name": "Сергей Бевз",
+                "email": "bevz_s@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25523816",
+                "legalName": "ТОВ \"Днепротрактор\""
+              },
+              "name": "ТОВ \"Днепротрактор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49051",
+                "region": "Днепропетровская",
+                "streetAddress": "м. Дніпропетровськ,   вул. Журналістів, 5А , Индекс:49051",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-09-18T16:43:28.039136+03:00"
+        },
+        {
+          "bidder": "cc4eeba9f62e40449cc2d7bbbfe9ec8c",
+          "amount": 610.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stockparts.in.ua",
+                "telephone": "+380503206741",
+                "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+                "email": "Sin-67@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39747337",
+                "legalName": "Товариство з обмеженою відповідальністю Інтерагрос"
+              },
+              "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Дніпропетровск пров.Фестивальній 3/156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-21T12:25:32.343006+03:00"
+        }
+      ],
+      "time": "2015-09-22T09:21:07.671387+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-18T16:43:28.039136+03:00",
+          "amount": 630.0,
+          "bidder": "c71f0f4bfdf54dabb4449b4de40a12f3"
+        },
+        {
+          "date": "2015-09-21T12:25:32.343006+03:00",
+          "amount": 610.0,
+          "bidder": "cc4eeba9f62e40449cc2d7bbbfe9ec8c"
+        }
+      ],
+      "time": "2015-09-22T09:00:00.016030+00:00"
+    }
+  },
+  "id": "3acbdc4206b04e1892e9cccd7d48bd34",
+  "tenderId": "UA-2015-09-11-000114"
+}

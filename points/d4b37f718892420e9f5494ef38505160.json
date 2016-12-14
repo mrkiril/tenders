@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "211fe8f143bd4ef7ba9d495f063ff3f2",
+        "time": "2015-12-11T12:21:05.011315+00:00"
+      },
+      "turn_1": {
+        "bidder": "7389826028a3465b88a1bac52f20fc87",
+        "time": "2015-12-11T12:19:05.022358+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "211fe8f143bd4ef7ba9d495f063ff3f2",
+        "time": "2015-12-11T12:27:05.009998+00:00"
+      },
+      "turn_1": {
+        "bidder": "7389826028a3465b88a1bac52f20fc87",
+        "time": "2015-12-11T12:25:05.011507+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "211fe8f143bd4ef7ba9d495f063ff3f2",
+        "time": "2015-12-11T12:15:05.013051+00:00"
+      },
+      "turn_1": {
+        "bidder": "7389826028a3465b88a1bac52f20fc87",
+        "time": "2015-12-11T12:13:05.010103+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7389826028a3465b88a1bac52f20fc87",
+          "amount": 400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667750372",
+                "name": "Якимов Юрій Володимирович",
+                "email": "skywardtrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39678892"
+              },
+              "name": "ТОВ \"СКАЙВОРД ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б. 9, к. 91",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T17:25:07.554796+02:00"
+        },
+        {
+          "bidder": "211fe8f143bd4ef7ba9d495f063ff3f2",
+          "amount": 250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.imidgbud.com/",
+                "faxNumber": "0444677845",
+                "telephone": "0674084869",
+                "name": "Паламарчук Надія Леонідівна",
+                "email": "imidg.oficce@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33153538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул. Кирилівська, буд. 40/42",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T09:57:57.115802+02:00"
+        }
+      ],
+      "time": "2015-12-11T12:27:05.888166+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T17:25:07.554796+02:00",
+          "amount": 400.0,
+          "bidder": "7389826028a3465b88a1bac52f20fc87"
+        },
+        {
+          "date": "2015-12-10T09:57:57.115802+02:00",
+          "amount": 250.0,
+          "bidder": "211fe8f143bd4ef7ba9d495f063ff3f2"
+        }
+      ],
+      "time": "2015-12-11T12:06:05.004154+00:00"
+    }
+  },
+  "id": "d4b37f718892420e9f5494ef38505160",
+  "tenderId": "UA-2015-12-08-000052-b"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1c7a9f4e58f24d8283d6ee759fdae668",
+        "time": "2015-08-04T08:45:00.186240+00:00"
+      },
+      "turn_1": {
+        "bidder": "603d929714114701b6b57c201ad8eb43",
+        "time": "2015-08-04T08:43:00.049964+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1c7a9f4e58f24d8283d6ee759fdae668",
+        "time": "2015-08-04T08:51:00.050234+00:00"
+      },
+      "turn_1": {
+        "bidder": "603d929714114701b6b57c201ad8eb43",
+        "time": "2015-08-04T08:49:00.037271+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "603d929714114701b6b57c201ad8eb43",
+        "time": "2015-08-04T08:39:00.045436+00:00"
+      },
+      "turn_1": {
+        "amount": 90000.0,
+        "bid_time": "2015-08-04T11:36:36.594174+03:00",
+        "bidder": "1c7a9f4e58f24d8283d6ee759fdae668",
+        "time": "2015-08-04T08:37:00.057805+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "603d929714114701b6b57c201ad8eb43",
+          "amount": 123500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T15:02:03.223076+03:00"
+        },
+        {
+          "bidder": "1c7a9f4e58f24d8283d6ee759fdae668",
+          "amount": 90000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T11:36:36.594174+03:00"
+        }
+      ],
+      "time": "2015-08-04T08:51:05.462760+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T15:02:03.223076+03:00",
+          "amount": 123500.0,
+          "bidder": "603d929714114701b6b57c201ad8eb43"
+        },
+        {
+          "date": "2015-08-03T12:38:28.894791+03:00",
+          "amount": 123500.0,
+          "bidder": "1c7a9f4e58f24d8283d6ee759fdae668"
+        }
+      ],
+      "time": "2015-08-04T08:30:00.001155+00:00"
+    }
+  },
+  "id": "27b3e9c6ef6e46ae89c9bec862d417c1",
+  "tenderId": "UA-2015-07-22-000108"
+}

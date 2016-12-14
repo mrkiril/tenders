@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "68ad7039dcc849c2a54245396b5201df",
+        "time": "2015-11-04T13:55:49.007824+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7d7b3f24fa14d02a2f2d3239d36c4bf",
+        "time": "2015-11-04T13:53:49.007963+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "68ad7039dcc849c2a54245396b5201df",
+        "time": "2015-11-04T14:01:49.022138+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7d7b3f24fa14d02a2f2d3239d36c4bf",
+        "time": "2015-11-04T13:59:49.007158+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "68ad7039dcc849c2a54245396b5201df",
+        "time": "2015-11-04T13:49:49.008019+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7d7b3f24fa14d02a2f2d3239d36c4bf",
+        "time": "2015-11-04T13:47:49.008385+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f7d7b3f24fa14d02a2f2d3239d36c4bf",
+          "amount": 4762.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-03T10:24:39.296964+02:00"
+        },
+        {
+          "bidder": "68ad7039dcc849c2a54245396b5201df",
+          "amount": 3700.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T15:16:04.195062+02:00"
+        }
+      ],
+      "time": "2015-11-04T14:02:06.763084+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T10:24:39.296964+02:00",
+          "amount": 4762.0,
+          "bidder": "f7d7b3f24fa14d02a2f2d3239d36c4bf"
+        },
+        {
+          "date": "2015-10-30T15:16:04.195062+02:00",
+          "amount": 3700.2,
+          "bidder": "68ad7039dcc849c2a54245396b5201df"
+        }
+      ],
+      "time": "2015-11-04T13:40:49.002290+00:00"
+    }
+  },
+  "id": "28b32c6f937c48aabb7eee6c8d38324d",
+  "tenderId": "UA-2015-10-30-000254"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "54dbfa3e9026463683d81af3ec05394a",
+        "time": "2015-12-17T09:52:41.131499+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab584b7123f14e15a62fef29c2e846ce",
+        "time": "2015-12-17T09:50:41.033425+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "54dbfa3e9026463683d81af3ec05394a",
+        "time": "2015-12-17T09:58:41.009877+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab584b7123f14e15a62fef29c2e846ce",
+        "time": "2015-12-17T09:56:41.008086+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "54dbfa3e9026463683d81af3ec05394a",
+        "time": "2015-12-17T09:46:41.009154+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab584b7123f14e15a62fef29c2e846ce",
+        "time": "2015-12-17T09:44:41.009401+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab584b7123f14e15a62fef29c2e846ce",
+          "amount": 11970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0482-37-12-03",
+                "telephone": "0482-37-12-03",
+                "name": "ТОВ Гермес",
+                "email": "germes-nk@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30446015",
+                "legalName": "ТОВ Гермес"
+              },
+              "name": "ТОВ Гермес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65031",
+                "region": "Одеська",
+                "streetAddress": "Грушевського, 41",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-12-15T10:10:50.142315+02:00"
+        },
+        {
+          "bidder": "54dbfa3e9026463683d81af3ec05394a",
+          "amount": 19.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "048-726-99-41",
+                "telephone": "048-701-12-80",
+                "name": "Базелєва Олена Вікторівна",
+                "email": "tovgroup@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38574717",
+                "legalName": "ТОВ \"Меркурій - Груп\""
+              },
+              "name": "ТОВ \"Меркурій - Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65029",
+                "region": "Одеська",
+                "streetAddress": "вул. Князівська, 11",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:58:55.525803+02:00"
+        }
+      ],
+      "time": "2015-12-17T09:58:41.797292+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T10:10:50.142315+02:00",
+          "amount": 11970.0,
+          "bidder": "ab584b7123f14e15a62fef29c2e846ce"
+        },
+        {
+          "date": "2015-12-15T14:58:55.525803+02:00",
+          "amount": 19.5,
+          "bidder": "54dbfa3e9026463683d81af3ec05394a"
+        }
+      ],
+      "time": "2015-12-17T09:37:41.005297+00:00"
+    }
+  },
+  "id": "332e1fb4f3144ee09cc2a947bba92687",
+  "tenderId": "UA-2015-12-14-000072-a"
+}

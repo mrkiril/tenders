@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ae3daf702fad4721bf966a6a5f84e5ea",
+        "time": "2015-09-09T08:17:00.075479+00:00"
+      },
+      "turn_3": {
+        "amount": 224.0,
+        "bid_time": "2015-09-09T11:17:24.236912+03:00",
+        "bidder": "75e47eff109f4d728c49bd3f8a8047be",
+        "time": "2015-09-09T08:19:00.060931+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fff5c19942b449d91e3b5750fb83852",
+        "time": "2015-09-09T08:15:00.093002+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ae3daf702fad4721bf966a6a5f84e5ea",
+        "time": "2015-09-09T08:25:00.036462+00:00"
+      },
+      "turn_3": {
+        "bidder": "75e47eff109f4d728c49bd3f8a8047be",
+        "time": "2015-09-09T08:27:00.040475+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fff5c19942b449d91e3b5750fb83852",
+        "time": "2015-09-09T08:23:00.041243+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 230.0,
+        "bid_time": "2015-09-09T11:07:26.232336+03:00",
+        "bidder": "75e47eff109f4d728c49bd3f8a8047be",
+        "time": "2015-09-09T08:09:00.052160+00:00"
+      },
+      "turn_3": {
+        "bidder": "ae3daf702fad4721bf966a6a5f84e5ea",
+        "time": "2015-09-09T08:11:00.056945+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fff5c19942b449d91e3b5750fb83852",
+        "time": "2015-09-09T08:07:00.048617+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9fff5c19942b449d91e3b5750fb83852",
+          "amount": 250.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T10:21:08.796711+03:00"
+        },
+        {
+          "bidder": "ae3daf702fad4721bf966a6a5f84e5ea",
+          "amount": 234.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445016410",
+                "name": "Предприятие \"Атена\" КГОИ",
+                "email": "0956510838@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32303610",
+                "legalName": "Предприятие \"Атена\" КГОИ"
+              },
+              "name": "Предприятие \"Атена\" КГОИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03127 м.Київ пр-т 40-річчя Жовтня120 корп. 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T16:01:06.670644+03:00"
+        },
+        {
+          "bidder": "75e47eff109f4d728c49bd3f8a8047be",
+          "amount": 224.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-09T11:17:24.236912+03:00"
+        }
+      ],
+      "time": "2015-09-09T08:27:01.754657+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T10:21:08.796711+03:00",
+          "amount": 250.32,
+          "bidder": "9fff5c19942b449d91e3b5750fb83852"
+        },
+        {
+          "date": "2015-09-09T02:04:07.974226+03:00",
+          "amount": 238.8,
+          "bidder": "75e47eff109f4d728c49bd3f8a8047be"
+        },
+        {
+          "date": "2015-09-08T16:01:06.670644+03:00",
+          "amount": 234.0,
+          "bidder": "ae3daf702fad4721bf966a6a5f84e5ea"
+        }
+      ],
+      "time": "2015-09-09T08:00:00.025281+00:00"
+    }
+  },
+  "id": "1ff15c9478b2466b99d07c7dafac7dc3",
+  "tenderId": "UA-2015-09-03-000036"
+}

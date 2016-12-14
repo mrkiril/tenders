@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2149.0,
+        "bid_time": "2015-09-15T12:46:26.720169+03:00",
+        "bidder": "722855627bc14f3395f10db7ec8cc2e7",
+        "time": "2015-09-15T09:47:00.035906+00:00"
+      },
+      "turn_3": {
+        "amount": 2138.0,
+        "bid_time": "2015-09-15T12:47:25.579433+03:00",
+        "bidder": "2cabbac9c30f414d871733a63a978085",
+        "time": "2015-09-15T09:49:00.040228+00:00"
+      },
+      "turn_1": {
+        "bidder": "ed0bf6344308427fafd45e883bdb4977",
+        "time": "2015-09-15T09:45:00.056062+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2000.0,
+        "bid_time": "2015-09-15T12:53:51.886103+03:00",
+        "bidder": "722855627bc14f3395f10db7ec8cc2e7",
+        "time": "2015-09-15T09:55:00.017294+00:00"
+      },
+      "turn_3": {
+        "amount": 1995.0,
+        "bid_time": "2015-09-15T12:55:37.534688+03:00",
+        "bidder": "2cabbac9c30f414d871733a63a978085",
+        "time": "2015-09-15T09:57:00.029832+00:00"
+      },
+      "turn_1": {
+        "bidder": "ed0bf6344308427fafd45e883bdb4977",
+        "time": "2015-09-15T09:53:00.027554+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2220.0,
+        "bid_time": "2015-09-15T12:38:01.335293+03:00",
+        "bidder": "722855627bc14f3395f10db7ec8cc2e7",
+        "time": "2015-09-15T09:39:00.118007+00:00"
+      },
+      "turn_3": {
+        "bidder": "2cabbac9c30f414d871733a63a978085",
+        "time": "2015-09-15T09:41:00.056495+00:00"
+      },
+      "turn_1": {
+        "bidder": "ed0bf6344308427fafd45e883bdb4977",
+        "time": "2015-09-15T09:37:00.024449+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ed0bf6344308427fafd45e883bdb4977",
+          "amount": 2295.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dostavka-restoran.com.ua/",
+                "telephone": "380963401046",
+                "name": "Писанка Алла Васильевна",
+                "email": "allla176@mal.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38900417",
+                "legalName": "ТОВ Рестсервис Плюс"
+              },
+              "name": "ТОВ Рестсервис Плюс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Виборзська, буд.99",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T17:53:05.249892+03:00"
+        },
+        {
+          "bidder": "722855627bc14f3395f10db7ec8cc2e7",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Таня или Сергей",
+                "email": "sergey.kot984@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2307110420",
+                "legalName": "ФОП \"ФОП Панько\""
+              },
+              "name": "ФОП \"ФОП Панько\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "17000",
+                "region": "Черниговская",
+                "streetAddress": "",
+                "locality": "Козелец"
+              }
+            }
+          ],
+          "time": "2015-09-15T12:53:51.886103+03:00"
+        },
+        {
+          "bidder": "2cabbac9c30f414d871733a63a978085",
+          "amount": 1995.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-15T12:55:37.534688+03:00"
+        }
+      ],
+      "time": "2015-09-15T09:57:03.704394+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T17:53:05.249892+03:00",
+          "amount": 2295.0,
+          "bidder": "ed0bf6344308427fafd45e883bdb4977"
+        },
+        {
+          "date": "2015-09-14T15:32:18.227898+03:00",
+          "amount": 2250.0,
+          "bidder": "722855627bc14f3395f10db7ec8cc2e7"
+        },
+        {
+          "date": "2015-09-14T12:50:57.282275+03:00",
+          "amount": 2150.0,
+          "bidder": "2cabbac9c30f414d871733a63a978085"
+        }
+      ],
+      "time": "2015-09-15T09:30:00.001655+00:00"
+    }
+  },
+  "id": "10af030a28294898a29b574517877ca9",
+  "tenderId": "UA-2015-09-10-000161"
+}

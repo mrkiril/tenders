@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "95d52b8ce8994781883b76199d2fbf5d",
+        "time": "2015-09-16T08:15:00.083737+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ea8971a1d7f498cbf6eaa7dad11e8cf",
+        "time": "2015-09-16T08:13:00.096036+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "95d52b8ce8994781883b76199d2fbf5d",
+        "time": "2015-09-16T08:21:00.054061+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ea8971a1d7f498cbf6eaa7dad11e8cf",
+        "time": "2015-09-16T08:19:00.042722+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "95d52b8ce8994781883b76199d2fbf5d",
+        "time": "2015-09-16T08:09:00.095508+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ea8971a1d7f498cbf6eaa7dad11e8cf",
+        "time": "2015-09-16T08:07:00.102744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5ea8971a1d7f498cbf6eaa7dad11e8cf",
+          "amount": 50500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672360838",
+                "name": "Алексей",
+                "email": "a.solomko@fbp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34514827",
+                "legalName": "ТОВ \"Фабрика бакалейных продуктов\""
+              },
+              "name": "ТОВ \"Фабрика бакалейных продуктов\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01033",
+                "region": "Киевская",
+                "streetAddress": "Тарасовская 15",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-14T14:45:23.204019+03:00"
+        },
+        {
+          "bidder": "95d52b8ce8994781883b76199d2fbf5d",
+          "amount": 46112.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676325216",
+                "name": "ООО \"Круг А\"",
+                "email": "oookruga@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32887904",
+                "legalName": "ООО \"Круг А\""
+              },
+              "name": "ООО \"Круг А\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск ул Станичная, 71\r\n49050",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T13:39:54.682664+03:00"
+        }
+      ],
+      "time": "2015-09-16T08:21:09.693714+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T14:45:23.204019+03:00",
+          "amount": 50500.0,
+          "bidder": "5ea8971a1d7f498cbf6eaa7dad11e8cf"
+        },
+        {
+          "date": "2015-09-15T13:39:54.682664+03:00",
+          "amount": 46112.5,
+          "bidder": "95d52b8ce8994781883b76199d2fbf5d"
+        }
+      ],
+      "time": "2015-09-16T08:00:00.006803+00:00"
+    }
+  },
+  "id": "ddf020fdc4e24ce2a43441bb50b0ae46",
+  "tenderId": "UA-2015-09-07-000105"
+}

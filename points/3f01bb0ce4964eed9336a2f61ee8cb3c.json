@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "98673a23314f433cb37e7a298115850c",
+        "time": "2015-11-02T11:18:24.012994+00:00"
+      },
+      "turn_1": {
+        "bidder": "db968229c25d488a8fdde0048f1dd26e",
+        "time": "2015-11-02T11:16:24.007410+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "98673a23314f433cb37e7a298115850c",
+        "time": "2015-11-02T11:24:24.008316+00:00"
+      },
+      "turn_1": {
+        "bidder": "db968229c25d488a8fdde0048f1dd26e",
+        "time": "2015-11-02T11:22:24.011109+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "98673a23314f433cb37e7a298115850c",
+        "time": "2015-11-02T11:12:24.009173+00:00"
+      },
+      "turn_1": {
+        "bidder": "db968229c25d488a8fdde0048f1dd26e",
+        "time": "2015-11-02T11:10:24.014326+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "db968229c25d488a8fdde0048f1dd26e",
+          "amount": 19900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ituno.com.ua/",
+                "faxNumber": "0442232060",
+                "telephone": "0442232060",
+                "name": "Бібік Сергій Миколайович",
+                "email": "sergey.bibik@ituno.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703660",
+                "legalName": "Товариство з обмеженою відповідальністю «ІТУНО»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «ІТУНО»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04213",
+                "region": "Київська",
+                "streetAddress": "Героїв Сталінграду,48",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T23:12:57.593277+02:00"
+        },
+        {
+          "bidder": "98673a23314f433cb37e7a298115850c",
+          "amount": 19900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T21:30:54.497889+03:00"
+        }
+      ],
+      "time": "2015-11-02T11:24:24.858032+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T21:30:54.497889+03:00",
+          "amount": 19900.0,
+          "bidder": "98673a23314f433cb37e7a298115850c"
+        },
+        {
+          "date": "2015-10-29T23:12:57.593277+02:00",
+          "amount": 19900.0,
+          "bidder": "db968229c25d488a8fdde0048f1dd26e"
+        }
+      ],
+      "time": "2015-11-02T11:03:24.006164+00:00"
+    }
+  },
+  "id": "3f01bb0ce4964eed9336a2f61ee8cb3c",
+  "tenderId": "UA-2015-10-07-000094"
+}

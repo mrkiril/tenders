@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9a78d8245a18464bb38ed0aabc6e65b0",
+        "time": "2015-08-04T08:45:00.131935+00:00"
+      },
+      "turn_1": {
+        "bidder": "0585450b3d494490a66f7f65140f7be3",
+        "time": "2015-08-04T08:43:00.061541+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9a78d8245a18464bb38ed0aabc6e65b0",
+        "time": "2015-08-04T08:51:00.042877+00:00"
+      },
+      "turn_1": {
+        "bidder": "0585450b3d494490a66f7f65140f7be3",
+        "time": "2015-08-04T08:49:00.036700+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9a78d8245a18464bb38ed0aabc6e65b0",
+        "time": "2015-08-04T08:39:00.052007+00:00"
+      },
+      "turn_1": {
+        "bidder": "0585450b3d494490a66f7f65140f7be3",
+        "time": "2015-08-04T08:37:00.068130+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0585450b3d494490a66f7f65140f7be3",
+          "amount": 570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380919009389, +380638525162",
+                "name": "Олег Скипакевич",
+                "email": "220molotkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3424006890",
+                "legalName": "Интернет-магазин \"220M\""
+              },
+              "name": "Интернет-магазин \"220M\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49087",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. С. Ковалевской 75, 20",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-07-29T19:52:54.005556+03:00"
+        },
+        {
+          "bidder": "9a78d8245a18464bb38ed0aabc6e65b0",
+          "amount": 510.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504040169",
+                "name": "Роман",
+                "email": "mng1-kiev2@atc.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30568711",
+                "legalName": "ТОВ \"Автотехцентр-3000\""
+              },
+              "name": "ТОВ \"Автотехцентр-3000\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "37500",
+                "region": "Полтавская",
+                "streetAddress": "вул. І.Франка, 1 ",
+                "locality": "Лубны"
+              }
+            }
+          ],
+          "time": "2015-07-31T15:41:56.665732+03:00"
+        }
+      ],
+      "time": "2015-08-04T08:51:03.408034+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-29T19:52:54.005556+03:00",
+          "amount": 570.0,
+          "bidder": "0585450b3d494490a66f7f65140f7be3"
+        },
+        {
+          "date": "2015-07-31T15:41:56.665732+03:00",
+          "amount": 510.0,
+          "bidder": "9a78d8245a18464bb38ed0aabc6e65b0"
+        }
+      ],
+      "time": "2015-08-04T08:30:00.016450+00:00"
+    }
+  },
+  "id": "6d19d6f43a084ff4b25648bf22aa9bc2",
+  "tenderId": "UA-2015-07-28-000098"
+}

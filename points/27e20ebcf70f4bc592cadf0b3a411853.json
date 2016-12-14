@@ -1,0 +1,348 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "1f2b3b780be04ec2a463c44f3bd11835",
+        "time": "2015-08-25T09:03:00.040869+00:00"
+      },
+      "turn_7": {
+        "bidder": "51904992283f4c4f9c11afa8224af50b",
+        "time": "2015-08-25T09:05:00.028705+00:00"
+      },
+      "turn_4": {
+        "amount": 49000.0,
+        "bid_time": "2015-08-25T11:57:28.498502+03:00",
+        "bidder": "1e3dec93f814422eb6d21088916d0e31",
+        "time": "2015-08-25T08:59:00.028113+00:00"
+      },
+      "turn_5": {
+        "amount": 48800.0,
+        "bid_time": "2015-08-25T11:59:35.362633+03:00",
+        "bidder": "cfad80a2f1db471aa594a1f88511b67f",
+        "time": "2015-08-25T09:01:00.017375+00:00"
+      },
+      "turn_2": {
+        "amount": 69600.0,
+        "bid_time": "2015-08-25T11:53:16.337790+03:00",
+        "bidder": "2484967a702142749102cb2d2655de75",
+        "time": "2015-08-25T08:55:00.034170+00:00"
+      },
+      "turn_3": {
+        "bidder": "fa24727ce8c9474380fbaa48e33f150b",
+        "time": "2015-08-25T08:57:00.026417+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cbda32f015c42eb982ff34bcb864ffc",
+        "time": "2015-08-25T08:53:00.044379+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "amount": 45000.0,
+        "bid_time": "2015-08-25T12:18:38.261129+03:00",
+        "bidder": "cfad80a2f1db471aa594a1f88511b67f",
+        "time": "2015-08-25T09:19:00.072873+00:00"
+      },
+      "turn_7": {
+        "bidder": "51904992283f4c4f9c11afa8224af50b",
+        "time": "2015-08-25T09:21:00.022164+00:00"
+      },
+      "turn_4": {
+        "bidder": "1f2b3b780be04ec2a463c44f3bd11835",
+        "time": "2015-08-25T09:15:00.041910+00:00"
+      },
+      "turn_5": {
+        "amount": 42000.0,
+        "bid_time": "2015-08-25T12:15:31.444356+03:00",
+        "bidder": "1e3dec93f814422eb6d21088916d0e31",
+        "time": "2015-08-25T09:17:00.054333+00:00"
+      },
+      "turn_2": {
+        "bidder": "2484967a702142749102cb2d2655de75",
+        "time": "2015-08-25T09:11:00.023153+00:00"
+      },
+      "turn_3": {
+        "bidder": "fa24727ce8c9474380fbaa48e33f150b",
+        "time": "2015-08-25T09:13:00.040763+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cbda32f015c42eb982ff34bcb864ffc",
+        "time": "2015-08-25T09:09:00.044697+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "1f2b3b780be04ec2a463c44f3bd11835",
+        "time": "2015-08-25T08:47:00.095094+00:00"
+      },
+      "turn_7": {
+        "bidder": "51904992283f4c4f9c11afa8224af50b",
+        "time": "2015-08-25T08:49:00.082291+00:00"
+      },
+      "turn_4": {
+        "amount": 62899.0,
+        "bid_time": "2015-08-25T11:42:44.992618+03:00",
+        "bidder": "fa24727ce8c9474380fbaa48e33f150b",
+        "time": "2015-08-25T08:43:00.098939+00:00"
+      },
+      "turn_5": {
+        "bidder": "1e3dec93f814422eb6d21088916d0e31",
+        "time": "2015-08-25T08:45:00.141531+00:00"
+      },
+      "turn_2": {
+        "amount": 70000.0,
+        "bid_time": "2015-08-25T11:37:15.894952+03:00",
+        "bidder": "2484967a702142749102cb2d2655de75",
+        "time": "2015-08-25T08:39:00.164422+00:00"
+      },
+      "turn_3": {
+        "bidder": "5cbda32f015c42eb982ff34bcb864ffc",
+        "time": "2015-08-25T08:41:00.104374+00:00"
+      },
+      "turn_1": {
+        "amount": 50000.0,
+        "bid_time": "2015-08-25T11:36:47.959531+03:00",
+        "bidder": "cfad80a2f1db471aa594a1f88511b67f",
+        "time": "2015-08-25T08:37:00.124259+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5cbda32f015c42eb982ff34bcb864ffc",
+          "amount": 79717.44,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380933942523",
+                "name": "Svetlana",
+                "email": "svegolovina@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПрАТ \"НВО Практика\"",
+                "id": "24733539",
+                "uri": "http://practika.ua"
+              },
+              "name": "ПрАТ \"НВО Практика\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03164",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-19T12:06:11.454261+03:00"
+        },
+        {
+          "bidder": "2484967a702142749102cb2d2655de75",
+          "amount": 69600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679171622, +380667480550, +380933433835",
+                "name": "Сергей Шевченко",
+                "email": "tatem14@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33847134",
+                "legalName": "ТОВ \"ТОВ \"ТАТЕМ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"ТАТЕМ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07401",
+                "region": "Киевская",
+                "streetAddress": "м. Бровари, вул. Старо-Троїцька, 42",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-08-25T11:53:16.337790+03:00"
+        },
+        {
+          "bidder": "fa24727ce8c9474380fbaa48e33f150b",
+          "amount": 62899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503530287",
+                "name": "Наталья Численко",
+                "email": "promk2@epicentrk.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3249024402",
+                "legalName": "ТОВ \"ЭПИЦЕНТР К\""
+              },
+              "name": "ТОВ \"ЭПИЦЕНТР К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. Кольцевая 1б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-25T11:42:44.992618+03:00"
+        },
+        {
+          "bidder": "1f2b3b780be04ec2a463c44f3bd11835",
+          "amount": 50000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380432577303, +380679080555, +380639780555, +380432520317",
+                "name": "Сергей Сергеев",
+                "email": "okna---dveri@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36604262",
+                "legalName": "ТОВ \"ТОВ «ТД БЛИЦ»\""
+              },
+              "name": "ТОВ \"ТОВ «ТД БЛИЦ»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21018",
+                "region": "Виницкая",
+                "streetAddress": "пл. Гагарина 2",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-08-20T10:52:01.116163+03:00"
+        },
+        {
+          "bidder": "cfad80a2f1db471aa594a1f88511b67f",
+          "amount": 45000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380971992525",
+                "name": "Олександр Одончук",
+                "email": "titan5_@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38107821",
+                "legalName": "ТОВ \"ФЕНІКС ЛЕКО\""
+              },
+              "name": "ТОВ \"ФЕНІКС ЛЕКО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07400",
+                "region": "Киевская",
+                "streetAddress": "м. Бровари, вул. Дімітрова, буд. 43, кв.2",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-08-25T12:18:38.261129+03:00"
+        },
+        {
+          "bidder": "1e3dec93f814422eb6d21088916d0e31",
+          "amount": 42000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-08-25T12:15:31.444356+03:00"
+        },
+        {
+          "bidder": "51904992283f4c4f9c11afa8224af50b",
+          "amount": 6140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563771717, +380567858555",
+                "name": "Роман Авраменко",
+                "email": "stil_vorota@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39398714",
+                "legalName": "ТОВ \"СТРОНГ ПК\""
+              },
+              "name": "ТОВ \"СТРОНГ ПК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49057",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Героев Сталинграда, 45",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-08-20T12:50:36.388936+03:00"
+        }
+      ],
+      "time": "2015-08-25T09:21:02.479186+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-17T13:32:29.263575+03:00",
+          "amount": 96000.0,
+          "bidder": "cfad80a2f1db471aa594a1f88511b67f"
+        },
+        {
+          "date": "2015-08-17T09:49:20.258879+03:00",
+          "amount": 86198.76,
+          "bidder": "2484967a702142749102cb2d2655de75"
+        },
+        {
+          "date": "2015-08-19T12:06:11.454261+03:00",
+          "amount": 79717.44,
+          "bidder": "5cbda32f015c42eb982ff34bcb864ffc"
+        },
+        {
+          "date": "2015-08-23T14:52:25.663096+03:00",
+          "amount": 78000.0,
+          "bidder": "fa24727ce8c9474380fbaa48e33f150b"
+        },
+        {
+          "date": "2015-08-23T02:50:20.539989+03:00",
+          "amount": 54900.0,
+          "bidder": "1e3dec93f814422eb6d21088916d0e31"
+        },
+        {
+          "date": "2015-08-20T10:52:01.116163+03:00",
+          "amount": 50000.0,
+          "bidder": "1f2b3b780be04ec2a463c44f3bd11835"
+        },
+        {
+          "date": "2015-08-20T12:50:36.388936+03:00",
+          "amount": 6140.0,
+          "bidder": "51904992283f4c4f9c11afa8224af50b"
+        }
+      ],
+      "time": "2015-08-25T08:30:00.065831+00:00"
+    }
+  },
+  "id": "27e20ebcf70f4bc592cadf0b3a411853",
+  "tenderId": "UA-2015-08-12-000081"
+}

@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 26400.0,
+        "bid_time": "2015-09-10T11:13:21.714232+03:00",
+        "bidder": "345b7618b9db4bdbbd32fc013b1fc45d",
+        "time": "2015-09-10T08:15:00.113819+00:00"
+      },
+      "turn_1": {
+        "amount": 26500.0,
+        "bid_time": "2015-09-10T11:11:06.346178+03:00",
+        "bidder": "39bbf5e5c92e4d259f2c469314d77711",
+        "time": "2015-09-10T08:13:00.146716+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 25500.0,
+        "bid_time": "2015-09-10T11:20:43.195981+03:00",
+        "bidder": "345b7618b9db4bdbbd32fc013b1fc45d",
+        "time": "2015-09-10T08:21:00.277001+00:00"
+      },
+      "turn_1": {
+        "amount": 25600.0,
+        "bid_time": "2015-09-10T11:17:24.769823+03:00",
+        "bidder": "39bbf5e5c92e4d259f2c469314d77711",
+        "time": "2015-09-10T08:19:00.078278+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 27400.0,
+        "bid_time": "2015-09-10T11:07:35.499255+03:00",
+        "bidder": "345b7618b9db4bdbbd32fc013b1fc45d",
+        "time": "2015-09-10T08:09:00.194490+00:00"
+      },
+      "turn_1": {
+        "amount": 27500.0,
+        "bid_time": "2015-09-10T11:05:09.894588+03:00",
+        "bidder": "39bbf5e5c92e4d259f2c469314d77711",
+        "time": "2015-09-10T08:07:00.105499+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "39bbf5e5c92e4d259f2c469314d77711",
+          "amount": 25600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:17:24.769823+03:00"
+        },
+        {
+          "bidder": "345b7618b9db4bdbbd32fc013b1fc45d",
+          "amount": 25500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:20:43.195981+03:00"
+        }
+      ],
+      "time": "2015-09-10T08:21:13.254837+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-09T14:40:52.879187+03:00",
+          "amount": 27837.24,
+          "bidder": "39bbf5e5c92e4d259f2c469314d77711"
+        },
+        {
+          "date": "2015-09-09T08:38:02.431544+03:00",
+          "amount": 27727.62,
+          "bidder": "345b7618b9db4bdbbd32fc013b1fc45d"
+        }
+      ],
+      "time": "2015-09-10T08:00:00.001853+00:00"
+    }
+  },
+  "id": "1698e75f6a7a4d25af5c3d54dad30e17",
+  "tenderId": "UA-2015-09-01-000091"
+}

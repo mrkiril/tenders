@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5e0a0c660ed7494283853e726ff78877",
+        "time": "2015-10-12T12:18:22.007497+00:00"
+      },
+      "turn_1": {
+        "bidder": "3fc76d9cda7a460cbe317a800518d967",
+        "time": "2015-10-12T12:16:22.007497+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5e0a0c660ed7494283853e726ff78877",
+        "time": "2015-10-12T12:24:22.006553+00:00"
+      },
+      "turn_1": {
+        "bidder": "3fc76d9cda7a460cbe317a800518d967",
+        "time": "2015-10-12T12:22:22.006428+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5e0a0c660ed7494283853e726ff78877",
+        "time": "2015-10-12T12:12:22.007878+00:00"
+      },
+      "turn_1": {
+        "bidder": "3fc76d9cda7a460cbe317a800518d967",
+        "time": "2015-10-12T12:10:22.009206+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3fc76d9cda7a460cbe317a800518d967",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380995232556",
+                "name": "Дмитрий Спасибов",
+                "email": "spasibov2015@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3447205931",
+                "legalName": "ФОП \"Спасибов Д.Ю.\""
+              },
+              "name": "ФОП \"Спасибов Д.Ю.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пер. Энергетический, 1/9",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-08T13:31:08.628747+03:00"
+        },
+        {
+          "bidder": "5e0a0c660ed7494283853e726ff78877",
+          "amount": 932.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://agapit.com.ua",
+                "telephone": "+380445010021",
+                "name": "Приватне підприємство \"Агапіт\"",
+                "email": "agapitkanc@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32734033",
+                "legalName": "Приватне підприємство \"Агапіт\""
+              },
+              "name": "Приватне підприємство \"Агапіт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03134 м.Київ, вул.Симиренка, 24 оф.8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T11:16:19.574683+03:00"
+        }
+      ],
+      "time": "2015-10-12T12:24:24.456120+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T13:31:08.628747+03:00",
+          "amount": 1200.0,
+          "bidder": "3fc76d9cda7a460cbe317a800518d967"
+        },
+        {
+          "date": "2015-10-08T11:16:19.574683+03:00",
+          "amount": 932.4,
+          "bidder": "5e0a0c660ed7494283853e726ff78877"
+        }
+      ],
+      "time": "2015-10-12T12:03:22.001982+00:00"
+    }
+  },
+  "id": "9427690d342c46d88ae3f05242d9cb9c",
+  "tenderId": "UA-2015-10-02-000032"
+}

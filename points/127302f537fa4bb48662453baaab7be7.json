@@ -1,0 +1,207 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "c3e4f66b684a46e0a12c6c8cabfd2dfe",
+        "time": "2015-09-03T08:53:00.022506+00:00"
+      },
+      "turn_2": {
+        "bidder": "e0ab4607b8d1470a968a148f6048e582",
+        "time": "2015-09-03T08:49:00.025738+00:00"
+      },
+      "turn_3": {
+        "bidder": "62707ba57e8f41408115c6d544b033ce",
+        "time": "2015-09-03T08:51:00.023240+00:00"
+      },
+      "turn_1": {
+        "bidder": "c40aae2be19b4bdfa849ed64fb7c8be7",
+        "time": "2015-09-03T08:47:00.059581+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "c3e4f66b684a46e0a12c6c8cabfd2dfe",
+        "time": "2015-09-03T09:03:00.009209+00:00"
+      },
+      "turn_2": {
+        "bidder": "e0ab4607b8d1470a968a148f6048e582",
+        "time": "2015-09-03T08:59:00.007752+00:00"
+      },
+      "turn_3": {
+        "bidder": "62707ba57e8f41408115c6d544b033ce",
+        "time": "2015-09-03T09:01:00.012278+00:00"
+      },
+      "turn_1": {
+        "amount": 9600.0,
+        "bid_time": "2015-09-03T11:56:39.074587+03:00",
+        "bidder": "c40aae2be19b4bdfa849ed64fb7c8be7",
+        "time": "2015-09-03T08:57:00.017163+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "c3e4f66b684a46e0a12c6c8cabfd2dfe",
+        "time": "2015-09-03T08:43:00.076422+00:00"
+      },
+      "turn_2": {
+        "bidder": "e0ab4607b8d1470a968a148f6048e582",
+        "time": "2015-09-03T08:39:00.050833+00:00"
+      },
+      "turn_3": {
+        "bidder": "62707ba57e8f41408115c6d544b033ce",
+        "time": "2015-09-03T08:41:00.025167+00:00"
+      },
+      "turn_1": {
+        "amount": 10000.0,
+        "bid_time": "2015-09-03T11:36:39.434570+03:00",
+        "bidder": "c40aae2be19b4bdfa849ed64fb7c8be7",
+        "time": "2015-09-03T08:37:00.079238+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c40aae2be19b4bdfa849ed64fb7c8be7",
+          "amount": 9600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-03T11:56:39.074587+03:00"
+        },
+        {
+          "bidder": "e0ab4607b8d1470a968a148f6048e582",
+          "amount": 7991.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "777-09-73",
+                "telephone": "777-09-73",
+                "name": "Товариство з обмеженою відповідальністю \"Новий Світ\"",
+                "email": "ooo-nw@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30495036",
+                "legalName": "Товариство з обмеженою відповідальністю \"Новий Світ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Новий Світ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65006",
+                "region": "Одеська",
+                "streetAddress": "Маловського,3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-01T15:42:02.767897+03:00"
+        },
+        {
+          "bidder": "62707ba57e8f41408115c6d544b033ce",
+          "amount": 5348.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-02T13:30:42.921387+03:00"
+        },
+        {
+          "bidder": "c3e4f66b684a46e0a12c6c8cabfd2dfe",
+          "amount": 2428.62,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.runo.dn.ua",
+                "telephone": "+380502924189",
+                "name": "Общество с ограниченной ответственностью ТД Руно",
+                "email": "info@runo.dn.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35457147",
+                "legalName": "Общество с ограниченной ответственностью ТД Руно"
+              },
+              "name": "Общество с ограниченной ответственностью ТД Руно",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "51400. Украина, Днепропетровская обл. г. Павлоград. ул. Терновская 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-01T16:15:17.480006+03:00"
+        }
+      ],
+      "time": "2015-09-03T09:03:06.307498+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-01T14:27:01.632300+03:00",
+          "amount": 11501.94,
+          "bidder": "c40aae2be19b4bdfa849ed64fb7c8be7"
+        },
+        {
+          "date": "2015-09-01T15:42:02.767897+03:00",
+          "amount": 7991.5,
+          "bidder": "e0ab4607b8d1470a968a148f6048e582"
+        },
+        {
+          "date": "2015-09-02T13:30:42.921387+03:00",
+          "amount": 5348.4,
+          "bidder": "62707ba57e8f41408115c6d544b033ce"
+        },
+        {
+          "date": "2015-09-01T16:15:17.480006+03:00",
+          "amount": 2428.62,
+          "bidder": "c3e4f66b684a46e0a12c6c8cabfd2dfe"
+        }
+      ],
+      "time": "2015-09-03T08:30:00.002177+00:00"
+    }
+  },
+  "id": "127302f537fa4bb48662453baaab7be7",
+  "tenderId": "UA-2015-08-27-000063"
+}

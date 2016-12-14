@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ce6a49f976f449f7b25165a4aa9c38be",
+        "time": "2015-12-17T11:27:11.008894+00:00"
+      },
+      "turn_1": {
+        "bidder": "872b6b737ccf47e2b2a5309ed1c5da02",
+        "time": "2015-12-17T11:25:11.007699+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ce6a49f976f449f7b25165a4aa9c38be",
+        "time": "2015-12-17T11:33:11.007445+00:00"
+      },
+      "turn_1": {
+        "bidder": "872b6b737ccf47e2b2a5309ed1c5da02",
+        "time": "2015-12-17T11:31:11.009081+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ce6a49f976f449f7b25165a4aa9c38be",
+        "time": "2015-12-17T11:21:11.007000+00:00"
+      },
+      "turn_1": {
+        "bidder": "872b6b737ccf47e2b2a5309ed1c5da02",
+        "time": "2015-12-17T11:19:11.009854+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "872b6b737ccf47e2b2a5309ed1c5da02",
+          "amount": 137275.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.idcard.com.ua",
+                "telephone": "+380966935559",
+                "name": "Смарт-карты Украины ТОВ",
+                "email": "ss@idcard.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38389667",
+                "legalName": "Смарт-карты Украины ТОВ"
+              },
+              "name": "Смарт-карты Украины ТОВ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, Украина,  г. Киев, ул. Щорса, дом 26А, офис 106",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-16T11:05:24.518560+02:00"
+        },
+        {
+          "bidder": "ce6a49f976f449f7b25165a4aa9c38be",
+          "amount": 125684.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-16T14:19:04.462459+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:33:11.669777+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T11:05:24.518560+02:00",
+          "amount": 137275.2,
+          "bidder": "872b6b737ccf47e2b2a5309ed1c5da02"
+        },
+        {
+          "date": "2015-12-16T14:19:04.462459+02:00",
+          "amount": 125684.04,
+          "bidder": "ce6a49f976f449f7b25165a4aa9c38be"
+        }
+      ],
+      "time": "2015-12-17T11:12:11.005069+00:00"
+    }
+  },
+  "id": "2fd0213b8347489ca5cf0034c7acfc50",
+  "tenderId": "UA-2015-12-11-000082-b"
+}

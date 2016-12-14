@@ -1,0 +1,274 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 460000.0,
+        "bid_time": "2015-07-29T11:24:50.225876+03:00",
+        "bidder": "13c827c2571e4bb2ab9e0aa6a13ea039",
+        "time": "2015-07-29T08:25:00.100948+00:00"
+      },
+      "turn_5": {
+        "amount": 459000.0,
+        "bid_time": "2015-07-29T11:25:21.932359+03:00",
+        "bidder": "fe413b5b8cee417cabf5cd39dd285f79",
+        "time": "2015-07-29T08:27:00.047378+00:00"
+      },
+      "turn_2": {
+        "bidder": "acdc5b94350f427db1fb04adc13364a8",
+        "time": "2015-07-29T08:21:00.178460+00:00"
+      },
+      "turn_3": {
+        "amount": 464000.0,
+        "bid_time": "2015-07-29T11:22:18.904907+03:00",
+        "bidder": "fd5512c2ce2647d19cecd58eda53ee68",
+        "time": "2015-07-29T08:23:00.083324+00:00"
+      },
+      "turn_1": {
+        "amount": 505000.0,
+        "bid_time": "2015-07-29T11:18:34.827429+03:00",
+        "bidder": "f09e06ddf71d46249a3b7174471b0b24",
+        "time": "2015-07-29T08:19:00.101932+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 420000.0,
+        "bid_time": "2015-07-29T11:36:21.117357+03:00",
+        "bidder": "13c827c2571e4bb2ab9e0aa6a13ea039",
+        "time": "2015-07-29T08:37:00.071557+00:00"
+      },
+      "turn_5": {
+        "amount": 419500.0,
+        "bid_time": "2015-07-29T11:37:34.071348+03:00",
+        "bidder": "fe413b5b8cee417cabf5cd39dd285f79",
+        "time": "2015-07-29T08:39:00.075061+00:00"
+      },
+      "turn_2": {
+        "amount": 441000.0,
+        "bid_time": "2015-07-29T11:31:47.901568+03:00",
+        "bidder": "acdc5b94350f427db1fb04adc13364a8",
+        "time": "2015-07-29T08:33:00.017770+00:00"
+      },
+      "turn_3": {
+        "amount": 427000.0,
+        "bid_time": "2015-07-29T11:34:58.798190+03:00",
+        "bidder": "fd5512c2ce2647d19cecd58eda53ee68",
+        "time": "2015-07-29T08:35:00.035786+00:00"
+      },
+      "turn_1": {
+        "amount": 499500.0,
+        "bid_time": "2015-07-29T11:29:31.976196+03:00",
+        "bidder": "f09e06ddf71d46249a3b7174471b0b24",
+        "time": "2015-07-29T08:31:00.027989+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 485000.0,
+        "bid_time": "2015-07-29T11:11:51.772940+03:00",
+        "bidder": "13c827c2571e4bb2ab9e0aa6a13ea039",
+        "time": "2015-07-29T08:13:00.019852+00:00"
+      },
+      "turn_5": {
+        "amount": 484000.0,
+        "bid_time": "2015-07-29T11:13:50.381012+03:00",
+        "bidder": "fe413b5b8cee417cabf5cd39dd285f79",
+        "time": "2015-07-29T08:15:00.132094+00:00"
+      },
+      "turn_2": {
+        "amount": 490000.0,
+        "bid_time": "2015-07-29T11:08:08.565589+03:00",
+        "bidder": "acdc5b94350f427db1fb04adc13364a8",
+        "time": "2015-07-29T08:09:00.086137+00:00"
+      },
+      "turn_3": {
+        "amount": 486700.0,
+        "bid_time": "2015-07-29T11:09:39.741951+03:00",
+        "bidder": "fd5512c2ce2647d19cecd58eda53ee68",
+        "time": "2015-07-29T08:11:00.136046+00:00"
+      },
+      "turn_1": {
+        "amount": 515000.0,
+        "bid_time": "2015-07-29T11:06:30.933340+03:00",
+        "bidder": "f09e06ddf71d46249a3b7174471b0b24",
+        "time": "2015-07-29T08:07:00.132030+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f09e06ddf71d46249a3b7174471b0b24",
+          "amount": 499500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://efes.com.ua",
+                "faxNumber": "0617876756",
+                "telephone": "0994143313",
+                "name": "Башкіров Сергій Валерійович",
+                "email": "delta_exim@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38265105",
+                "legalName": "ТОВ \"Торговий Дім \"Ефес\""
+              },
+              "name": "ТОВ \"Торговий Дім \"Ефес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69013",
+                "region": "Запорізька",
+                "streetAddress": "вул. Стартова, 3,Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:29:31.976196+03:00"
+        },
+        {
+          "bidder": "acdc5b94350f427db1fb04adc13364a8",
+          "amount": 441000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0684008485",
+                "name": "Василенко Ігор Володимирович",
+                "email": "dnepr1@trade-empire.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35935562",
+                "legalName": "ТОВ \"Імперія Торгівлі\""
+              },
+              "name": "ТОВ \"Імперія Торгівлі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "Караваєва, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:31:47.901568+03:00"
+        },
+        {
+          "bidder": "fd5512c2ce2647d19cecd58eda53ee68",
+          "amount": 427000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.pris.com.ua",
+                "faxNumber": "+380487295093",
+                "telephone": "+380487295092",
+                "name": "Амеліна Катерина Олегівна",
+                "email": "amelina@pris.org.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36155826"
+              },
+              "name": "ТОВ \"Компанія ПРІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65012",
+                "region": "Одеська область",
+                "streetAddress": "пр. Мукачівський, буд. 6/5, оф.1",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-07-29T11:34:58.798190+03:00"
+        },
+        {
+          "bidder": "13c827c2571e4bb2ab9e0aa6a13ea039",
+          "amount": 420000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://xn--80abdhhr8adbbu0b.in.ua/",
+                "telephone": "0567351797",
+                "name": "Перетятько Евген Вальйович",
+                "email": "vasilenko_i_v@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39185764",
+                "legalName": "Товариство з обмеженною відповідальністю \"ІТ-Альянс\""
+              },
+              "name": "Товариство з обмеженною відповідальністю \"ІТ-Альянс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "вул. Караваєва, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:36:21.117357+03:00"
+        },
+        {
+          "bidder": "fe413b5b8cee417cabf5cd39dd285f79",
+          "amount": 419500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380980769455",
+                "name": "Ирина Передерий",
+                "email": "i.perederiy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39304165",
+                "legalName": "ТОВ \"Профітекс-Сервіс\""
+              },
+              "name": "ТОВ \"Профітекс-Сервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": " 04073",
+                "region": "Киевская",
+                "streetAddress": "г.Киев, ул.Сирецкая 9, корпус 1ф ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-29T11:37:34.071348+03:00"
+        }
+      ],
+      "time": "2015-07-29T08:39:03.140987+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-28T13:09:40.163864+03:00",
+          "amount": 520649.0,
+          "bidder": "f09e06ddf71d46249a3b7174471b0b24"
+        },
+        {
+          "date": "2015-07-28T16:58:32.132758+03:00",
+          "amount": 518040.36,
+          "bidder": "acdc5b94350f427db1fb04adc13364a8"
+        },
+        {
+          "date": "2015-07-28T16:19:15.955892+03:00",
+          "amount": 516844.16,
+          "bidder": "fd5512c2ce2647d19cecd58eda53ee68"
+        },
+        {
+          "date": "2015-07-28T17:27:01.021572+03:00",
+          "amount": 497403.45,
+          "bidder": "13c827c2571e4bb2ab9e0aa6a13ea039"
+        },
+        {
+          "date": "2015-07-28T16:08:42.227913+03:00",
+          "amount": 492503.55,
+          "bidder": "fe413b5b8cee417cabf5cd39dd285f79"
+        }
+      ],
+      "time": "2015-07-29T08:00:00.055928+00:00"
+    }
+  },
+  "id": "219404beac6f4bf1a9285a75df3e5937",
+  "tenderId": "UA-2015-07-20-000014"
+}

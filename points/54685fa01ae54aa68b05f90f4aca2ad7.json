@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d83c8769547c474ab3f087ddefe36fc8",
+        "time": "2015-09-16T12:15:00.023181+00:00"
+      },
+      "turn_1": {
+        "bidder": "ff58548c8c7c4566a55ec16341cf6d60",
+        "time": "2015-09-16T12:13:00.013874+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d83c8769547c474ab3f087ddefe36fc8",
+        "time": "2015-09-16T12:21:00.013737+00:00"
+      },
+      "turn_1": {
+        "bidder": "ff58548c8c7c4566a55ec16341cf6d60",
+        "time": "2015-09-16T12:19:00.011070+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d83c8769547c474ab3f087ddefe36fc8",
+        "time": "2015-09-16T12:09:00.015900+00:00"
+      },
+      "turn_1": {
+        "bidder": "ff58548c8c7c4566a55ec16341cf6d60",
+        "time": "2015-09-16T12:07:00.015731+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ff58548c8c7c4566a55ec16341cf6d60",
+          "amount": 653.13,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-10T14:49:51.679638+03:00"
+        },
+        {
+          "bidder": "d83c8769547c474ab3f087ddefe36fc8",
+          "amount": 600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+30960661815",
+                "name": "ФОП Лысенко",
+                "email": "konotop.medteh@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2894713032",
+                "legalName": "ФОП Лысенко"
+              },
+              "name": "ФОП Лысенко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Сумская обл., г. Конотоп ., ул Нежинская 104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T11:11:35.549232+03:00"
+        }
+      ],
+      "time": "2015-09-16T12:21:02.441614+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T14:49:51.679638+03:00",
+          "amount": 653.13,
+          "bidder": "ff58548c8c7c4566a55ec16341cf6d60"
+        },
+        {
+          "date": "2015-09-15T11:11:35.549232+03:00",
+          "amount": 600.0,
+          "bidder": "d83c8769547c474ab3f087ddefe36fc8"
+        }
+      ],
+      "time": "2015-09-16T12:00:00.006982+00:00"
+    }
+  },
+  "id": "54685fa01ae54aa68b05f90f4aca2ad7",
+  "tenderId": "UA-2015-09-09-000125"
+}

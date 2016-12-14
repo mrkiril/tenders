@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "baeadc5533494a03998e52e00647e977",
+        "time": "2015-11-06T10:55:51.014584+00:00"
+      },
+      "turn_1": {
+        "bidder": "47cad8003db44df591c1c64489bbc2e6",
+        "time": "2015-11-06T10:53:51.006682+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "baeadc5533494a03998e52e00647e977",
+        "time": "2015-11-06T11:01:51.009122+00:00"
+      },
+      "turn_1": {
+        "bidder": "47cad8003db44df591c1c64489bbc2e6",
+        "time": "2015-11-06T10:59:51.007403+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "baeadc5533494a03998e52e00647e977",
+        "time": "2015-11-06T10:49:51.006253+00:00"
+      },
+      "turn_1": {
+        "bidder": "47cad8003db44df591c1c64489bbc2e6",
+        "time": "2015-11-06T10:47:51.007430+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "47cad8003db44df591c1c64489bbc2e6",
+          "amount": 29609.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.assol.com.ua",
+                "faxNumber": "0617573650",
+                "telephone": "0617572516",
+                "name": "Липовий Руслан Володимирович",
+                "email": "opr-02@assol.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20470908",
+                "legalName": "Ассоль ПМВКП"
+              },
+              "name": "Ассоль ПМВКП",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "71603",
+                "region": "Запорізька",
+                "streetAddress": "Чекістів, 43",
+                "locality": "Василівка"
+              }
+            }
+          ],
+          "time": "2015-11-05T09:07:00.659032+02:00"
+        },
+        {
+          "bidder": "baeadc5533494a03998e52e00647e977",
+          "amount": 29000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380612792430",
+                "name": "ТОВ \"Промислова група ОМЕГА\"",
+                "email": "kaa971670@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34317494",
+                "legalName": "ТОВ \"Промислова група ОМЕГА\""
+              },
+              "name": "ТОВ \"Промислова група ОМЕГА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69096",
+                "region": "ЗАПОРОЖСКАЯ ОБЛ.",
+                "streetAddress": "бул. Винтера 16 оф. 226",
+                "locality": "ЗАПОРОЖЬЕ"
+              }
+            }
+          ],
+          "time": "2015-11-04T18:41:41.507751+02:00"
+        }
+      ],
+      "time": "2015-11-06T11:02:16.025095+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T09:07:00.659032+02:00",
+          "amount": 29609.0,
+          "bidder": "47cad8003db44df591c1c64489bbc2e6"
+        },
+        {
+          "date": "2015-11-04T18:41:41.507751+02:00",
+          "amount": 29000.0,
+          "bidder": "baeadc5533494a03998e52e00647e977"
+        }
+      ],
+      "time": "2015-11-06T10:40:51.002601+00:00"
+    }
+  },
+  "id": "30f5b2f44ecf45f09d89cdfabf2d501f",
+  "tenderId": "UA-2015-10-29-000170"
+}

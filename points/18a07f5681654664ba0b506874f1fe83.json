@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1cd140570e9f4cbe9322dbe4c74d780d",
+        "time": "2015-12-04T13:53:13.007751+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf528cda697f4c4db6ceaa60da4131b6",
+        "time": "2015-12-04T13:55:13.007829+00:00"
+      },
+      "turn_1": {
+        "bidder": "bad0abd923de40d499b4dea6b2891a66",
+        "time": "2015-12-04T13:51:13.008398+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1cd140570e9f4cbe9322dbe4c74d780d",
+        "time": "2015-12-04T14:01:13.007371+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf528cda697f4c4db6ceaa60da4131b6",
+        "time": "2015-12-04T14:03:13.028792+00:00"
+      },
+      "turn_1": {
+        "bidder": "bad0abd923de40d499b4dea6b2891a66",
+        "time": "2015-12-04T13:59:13.008957+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bad0abd923de40d499b4dea6b2891a66",
+        "time": "2015-12-04T13:45:13.008113+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf528cda697f4c4db6ceaa60da4131b6",
+        "time": "2015-12-04T13:47:13.008776+00:00"
+      },
+      "turn_1": {
+        "amount": 53700.0,
+        "bid_time": "2015-12-04T15:41:41.053971+02:00",
+        "bidder": "1cd140570e9f4cbe9322dbe4c74d780d",
+        "time": "2015-12-04T13:43:13.009942+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bad0abd923de40d499b4dea6b2891a66",
+          "amount": 54000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "",
+                "telephone": "0442290839",
+                "name": "журба Ігор Анатолійович",
+                "email": "izhurba@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36047462",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЖИТЛОСПЕЦБУДЕКСПЛУАТАЦІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЖИТЛОСПЕЦБУДЕКСПЛУАТАЦІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04123",
+                "region": "Київська",
+                "streetAddress": "Межова, 23, к. 65",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T20:41:32.099759+02:00"
+        },
+        {
+          "bidder": "1cd140570e9f4cbe9322dbe4c74d780d",
+          "amount": 53700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445004917",
+                "telephone": "+380674621348",
+                "name": "Пашинський Олександр Станіславович",
+                "email": "gidros.c@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36392510"
+              },
+              "name": "ТОВ МАРГАРЕТ ВЕСТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська область",
+                "streetAddress": "Куренівська 16 літ. А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:41:41.053971+02:00"
+        },
+        {
+          "bidder": "bf528cda697f4c4db6ceaa60da4131b6",
+          "amount": 35542.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gidros.com.ua",
+                "faxNumber": "+380444644730",
+                "telephone": "+380674621323",
+                "name": "Ведмідь Олена Сергіївна",
+                "email": "avgidros@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39000076"
+              },
+              "name": "ТОВ КОМПАНІЯ СОЮЗБУДСЕРВІС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська область",
+                "streetAddress": "вул.Куренівська 16А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T17:46:39.401209+02:00"
+        }
+      ],
+      "time": "2015-12-04T14:03:22.226035+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T20:41:32.099759+02:00",
+          "amount": 54000.0,
+          "bidder": "bad0abd923de40d499b4dea6b2891a66"
+        },
+        {
+          "date": "2015-12-03T09:14:32.322692+02:00",
+          "amount": 54000.0,
+          "bidder": "1cd140570e9f4cbe9322dbe4c74d780d"
+        },
+        {
+          "date": "2015-12-02T17:46:39.401209+02:00",
+          "amount": 35542.0,
+          "bidder": "bf528cda697f4c4db6ceaa60da4131b6"
+        }
+      ],
+      "time": "2015-12-04T13:36:13.004132+00:00"
+    }
+  },
+  "id": "18a07f5681654664ba0b506874f1fe83",
+  "tenderId": "UA-2015-11-27-000104-b"
+}

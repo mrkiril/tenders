@@ -1,0 +1,172 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 419900.0,
+        "bid_time": "2015-10-01T15:52:58.603326+03:00",
+        "bidder": "0df4834bbbc6438fa5ed9e86f9fa0383",
+        "time": "2015-10-01T12:53:54.012095+00:00"
+      },
+      "turn_3": {
+        "bidder": "115f3661b1ad4e569c90aedb9d0059df",
+        "time": "2015-10-01T12:55:54.006412+00:00"
+      },
+      "turn_1": {
+        "amount": 480000.0,
+        "bid_time": "2015-10-01T15:50:58.510294+03:00",
+        "bidder": "02603270069d4449894a521fad86afa4",
+        "time": "2015-10-01T12:51:54.007872+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 295000.0,
+        "bid_time": "2015-10-01T16:01:47.494395+03:00",
+        "bidder": "115f3661b1ad4e569c90aedb9d0059df",
+        "time": "2015-10-01T13:01:54.008904+00:00"
+      },
+      "turn_3": {
+        "amount": 399900.0,
+        "bid_time": "2015-10-01T16:03:30.486027+03:00",
+        "bidder": "0df4834bbbc6438fa5ed9e86f9fa0383",
+        "time": "2015-10-01T13:03:54.007490+00:00"
+      },
+      "turn_1": {
+        "amount": 458500.0,
+        "bid_time": "2015-10-01T15:58:15.546857+03:00",
+        "bidder": "02603270069d4449894a521fad86afa4",
+        "time": "2015-10-01T12:59:54.007066+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 488880.0,
+        "bid_time": "2015-10-01T15:44:14.378460+03:00",
+        "bidder": "0df4834bbbc6438fa5ed9e86f9fa0383",
+        "time": "2015-10-01T12:45:54.008788+00:00"
+      },
+      "turn_3": {
+        "amount": 430000.0,
+        "bid_time": "2015-10-01T15:47:24.947513+03:00",
+        "bidder": "115f3661b1ad4e569c90aedb9d0059df",
+        "time": "2015-10-01T12:47:54.008478+00:00"
+      },
+      "turn_1": {
+        "amount": 500000.0,
+        "bid_time": "2015-10-01T15:42:30.740497+03:00",
+        "bidder": "02603270069d4449894a521fad86afa4",
+        "time": "2015-10-01T12:43:54.009578+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "02603270069d4449894a521fad86afa4",
+          "amount": 458500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sas.kharkov.ua",
+                "faxNumber": "+380577524600",
+                "telephone": "+380577578660",
+                "name": "Гуменний Андрій Федорович",
+                "email": "info@sas.kharkov.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34567177"
+              },
+              "name": "ТОВ СИСТЕМИ АВТОМАТИЗАЦІЇ СЕРВІС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61024",
+                "region": "Харківська область",
+                "streetAddress": "вул.Пушкінська 79",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-10-01T15:58:15.546857+03:00"
+        },
+        {
+          "bidder": "0df4834bbbc6438fa5ed9e86f9fa0383",
+          "amount": 399900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674675414",
+                "name": "Роман Озеров",
+                "email": "dir1@ext.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39462868  ",
+                "legalName": "ТОВ \"КОМПЛЕКС ЕХ-ТЕХНОЛОДЖІ\""
+              },
+              "name": "ТОВ \"КОМПЛЕКС ЕХ-ТЕХНОЛОДЖІ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": " 04080",
+                "region": "Киевская",
+                "streetAddress": "Фрунзе, 102, оф. 301",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-01T16:03:30.486027+03:00"
+        },
+        {
+          "bidder": "115f3661b1ad4e569c90aedb9d0059df",
+          "amount": 295000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kontaktenergo.com.ua",
+                "faxNumber": "+380577546875",
+                "telephone": "+380577546874",
+                "name": "Лошкарьов Сергій Миколайович",
+                "email": "Loshkaryov.s@kontaktenergo.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34014744"
+              },
+              "name": "ТОВ КОНТАКТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61070",
+                "region": "Харківська область",
+                "streetAddress": "вул. Академіка Проскури, буд. 1, оф. 205",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-10-01T16:01:47.494395+03:00"
+        }
+      ],
+      "time": "2015-10-01T13:03:59.809073+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T16:30:12.289616+03:00",
+          "amount": 521542.62,
+          "bidder": "02603270069d4449894a521fad86afa4"
+        },
+        {
+          "date": "2015-10-01T09:48:29.607696+03:00",
+          "amount": 498880.0,
+          "bidder": "0df4834bbbc6438fa5ed9e86f9fa0383"
+        },
+        {
+          "date": "2015-09-30T22:07:33.011250+03:00",
+          "amount": 443532.0,
+          "bidder": "115f3661b1ad4e569c90aedb9d0059df"
+        }
+      ],
+      "time": "2015-10-01T12:36:54.003638+00:00"
+    }
+  },
+  "id": "9a0e589f2bb84c75a5adcc6553c57c77",
+  "tenderId": "UA-2015-09-16-000238"
+}

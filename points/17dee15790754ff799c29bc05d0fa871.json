@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5baf4a2377fb4232903e07d831557837",
+        "time": "2015-09-04T10:15:00.013195+00:00"
+      },
+      "turn_1": {
+        "bidder": "1b762ffad1ed4abab7190152dcd1b94c",
+        "time": "2015-09-04T10:13:00.010164+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5baf4a2377fb4232903e07d831557837",
+        "time": "2015-09-04T10:21:00.012066+00:00"
+      },
+      "turn_1": {
+        "bidder": "1b762ffad1ed4abab7190152dcd1b94c",
+        "time": "2015-09-04T10:19:00.018560+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5baf4a2377fb4232903e07d831557837",
+        "time": "2015-09-04T10:09:00.019409+00:00"
+      },
+      "turn_1": {
+        "bidder": "1b762ffad1ed4abab7190152dcd1b94c",
+        "time": "2015-09-04T10:07:00.015296+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1b762ffad1ed4abab7190152dcd1b94c",
+          "amount": 420.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444072086",
+                "name": "Приватне підприємство \"Промбудсервіс\"",
+                "email": "Prombudservis2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32739953",
+                "legalName": "Приватне підприємство \"Промбудсервіс\""
+              },
+              "name": "Приватне підприємство \"Промбудсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08150,Київська область,Києво-Святошинський район,м.Боярка,вул.Крилова,буд.4-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T12:50:49.966815+03:00"
+        },
+        {
+          "bidder": "5baf4a2377fb4232903e07d831557837",
+          "amount": 395.22,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T08:38:37.815700+03:00"
+        }
+      ],
+      "time": "2015-09-04T10:21:01.925957+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T12:50:49.966815+03:00",
+          "amount": 420.0,
+          "bidder": "1b762ffad1ed4abab7190152dcd1b94c"
+        },
+        {
+          "date": "2015-09-03T08:38:37.815700+03:00",
+          "amount": 395.22,
+          "bidder": "5baf4a2377fb4232903e07d831557837"
+        }
+      ],
+      "time": "2015-09-04T10:00:00.002000+00:00"
+    }
+  },
+  "id": "17dee15790754ff799c29bc05d0fa871",
+  "tenderId": "UA-2015-08-31-000081"
+}

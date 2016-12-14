@@ -1,0 +1,205 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "05356ebaf2be48f38d3b10390399fcc9",
+        "time": "2015-12-01T12:30:04.008212+00:00"
+      },
+      "turn_2": {
+        "bidder": "dc7d73c0c7914ba1b1ff35ea7313e28f",
+        "time": "2015-12-01T12:26:04.008735+00:00"
+      },
+      "turn_3": {
+        "bidder": "dcf8d3009a2f4d9ab7bcb72326cc68d4",
+        "time": "2015-12-01T12:28:04.007922+00:00"
+      },
+      "turn_1": {
+        "bidder": "26263a94de254218bd10aec497ef3d4f",
+        "time": "2015-12-01T12:24:04.018919+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "05356ebaf2be48f38d3b10390399fcc9",
+        "time": "2015-12-01T12:40:04.007973+00:00"
+      },
+      "turn_2": {
+        "amount": 40000.0,
+        "bid_time": "2015-12-01T14:34:54.156072+02:00",
+        "bidder": "dc7d73c0c7914ba1b1ff35ea7313e28f",
+        "time": "2015-12-01T12:36:04.009058+00:00"
+      },
+      "turn_3": {
+        "amount": 39000.0,
+        "bid_time": "2015-12-01T14:37:34.475680+02:00",
+        "bidder": "dcf8d3009a2f4d9ab7bcb72326cc68d4",
+        "time": "2015-12-01T12:38:04.017829+00:00"
+      },
+      "turn_1": {
+        "bidder": "26263a94de254218bd10aec497ef3d4f",
+        "time": "2015-12-01T12:34:04.009078+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "05356ebaf2be48f38d3b10390399fcc9",
+        "time": "2015-12-01T12:20:04.008115+00:00"
+      },
+      "turn_2": {
+        "bidder": "dc7d73c0c7914ba1b1ff35ea7313e28f",
+        "time": "2015-12-01T12:16:04.024304+00:00"
+      },
+      "turn_3": {
+        "bidder": "dcf8d3009a2f4d9ab7bcb72326cc68d4",
+        "time": "2015-12-01T12:18:04.009020+00:00"
+      },
+      "turn_1": {
+        "bidder": "26263a94de254218bd10aec497ef3d4f",
+        "time": "2015-12-01T12:14:04.008861+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "26263a94de254218bd10aec497ef3d4f",
+          "amount": 60000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-26T11:45:20.885668+02:00"
+        },
+        {
+          "bidder": "dc7d73c0c7914ba1b1ff35ea7313e28f",
+          "amount": 40000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:34:54.156072+02:00"
+        },
+        {
+          "bidder": "dcf8d3009a2f4d9ab7bcb72326cc68d4",
+          "amount": 39000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380512225264",
+                "name": "Маргарита",
+                "email": "stilgrup2013@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38623161",
+                "legalName": "ООО \"СТИЛЬГРУПП\""
+              },
+              "name": "ООО \"СТИЛЬГРУПП\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54034",
+                "region": "Николаевская",
+                "streetAddress": "",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:37:34.475680+02:00"
+        },
+        {
+          "bidder": "05356ebaf2be48f38d3b10390399fcc9",
+          "amount": 29000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://markogroup.com",
+                "faxNumber": "0487051237",
+                "telephone": "0487335544",
+                "name": "Коваль Володимир Іванович",
+                "email": "vkoval@markogroup.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30284125",
+                "legalName": "Товариство з обмеженою відповідальністю \"Марко Лтд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Марко Лтд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65031",
+                "region": "Одеська",
+                "streetAddress": "Проценка 23/5",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-24T16:07:41.228423+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:40:05.524374+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T11:45:20.885668+02:00",
+          "amount": 60000.0,
+          "bidder": "26263a94de254218bd10aec497ef3d4f"
+        },
+        {
+          "date": "2015-11-24T14:38:12.882907+02:00",
+          "amount": 59000.0,
+          "bidder": "dc7d73c0c7914ba1b1ff35ea7313e28f"
+        },
+        {
+          "date": "2015-12-01T07:45:19.787164+02:00",
+          "amount": 41140.0,
+          "bidder": "dcf8d3009a2f4d9ab7bcb72326cc68d4"
+        },
+        {
+          "date": "2015-11-24T16:07:41.228423+02:00",
+          "amount": 29000.0,
+          "bidder": "05356ebaf2be48f38d3b10390399fcc9"
+        }
+      ],
+      "time": "2015-12-01T12:07:04.004745+00:00"
+    }
+  },
+  "id": "21fc9f09b23641809868554371927cdc",
+  "tenderId": "UA-2015-11-23-000101"
+}

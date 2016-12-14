@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fbf2576e3f304456b8b8ee324a146074",
+        "time": "2015-07-07T12:17:00.024642+00:00"
+      },
+      "turn_3": {
+        "bidder": "650d4bebc35b4e53807fa0e3f2c3a316",
+        "time": "2015-07-07T12:19:00.037323+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7f9ecca5ab349e3bddc10d62f023a78",
+        "time": "2015-07-07T12:15:00.024876+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fbf2576e3f304456b8b8ee324a146074",
+        "time": "2015-07-07T12:25:00.025536+00:00"
+      },
+      "turn_3": {
+        "bidder": "650d4bebc35b4e53807fa0e3f2c3a316",
+        "time": "2015-07-07T12:27:00.029043+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7f9ecca5ab349e3bddc10d62f023a78",
+        "time": "2015-07-07T12:23:00.025265+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fbf2576e3f304456b8b8ee324a146074",
+        "time": "2015-07-07T12:09:00.033253+00:00"
+      },
+      "turn_3": {
+        "bidder": "650d4bebc35b4e53807fa0e3f2c3a316",
+        "time": "2015-07-07T12:11:00.027868+00:00"
+      },
+      "turn_1": {
+        "bidder": "f7f9ecca5ab349e3bddc10d62f023a78",
+        "time": "2015-07-07T12:07:00.025112+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f7f9ecca5ab349e3bddc10d62f023a78",
+          "amount": 300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://barcor.com.ua",
+                "telephone": "+380507141416",
+                "name": "Товариство з обмеженою відповідальністю «БАРКОР-ОЙЛ»",
+                "email": "grabarcor@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37439067",
+                "legalName": "Товариство з обмеженою відповідальністю «БАРКОР-ОЙЛ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «БАРКОР-ОЙЛ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08500, м. Фастів,  вул. Великоснітинська, 69",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T17:04:45.612521+03:00"
+        },
+        {
+          "bidder": "fbf2576e3f304456b8b8ee324a146074",
+          "amount": 250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567340730",
+                "name": "ООО \"ЧПУ Сервис\"",
+                "email": "cnc.servis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39015585",
+                "legalName": "ООО \"ЧПУ Сервис\""
+              },
+              "name": "ООО \"ЧПУ Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск, улКалиновая, дом.8, оф.23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T11:28:13.589457+03:00"
+        },
+        {
+          "bidder": "650d4bebc35b4e53807fa0e3f2c3a316",
+          "amount": 200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://stankogidroservis.com",
+                "telephone": "+30563773878",
+                "name": "Общество с ограниченной ответственностью « ПКФ СТАНКОГИДРОСЕРВИС»",
+                "email": "elmira10126@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38598444",
+                "legalName": "Общество с ограниченной ответственностью « ПКФ СТАНКОГИДРОСЕРВИС»"
+              },
+              "name": "Общество с ограниченной ответственностью « ПКФ СТАНКОГИДРОСЕРВИС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Курчатова, 10\r\nг. Днепропетровск, 49000",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-06T10:10:28.816347+03:00"
+        }
+      ],
+      "time": "2015-07-07T12:27:01.172133+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-03T17:04:45.612521+03:00",
+          "amount": 300.0,
+          "bidder": "f7f9ecca5ab349e3bddc10d62f023a78"
+        },
+        {
+          "date": "2015-07-03T11:28:13.589457+03:00",
+          "amount": 250.0,
+          "bidder": "fbf2576e3f304456b8b8ee324a146074"
+        },
+        {
+          "date": "2015-07-06T10:10:28.816347+03:00",
+          "amount": 200.0,
+          "bidder": "650d4bebc35b4e53807fa0e3f2c3a316"
+        }
+      ],
+      "time": "2015-07-07T12:00:00.015682+00:00"
+    }
+  },
+  "id": "db3b720aed524dcbb826c5e5e8f51280",
+  "tenderId": "UA-2015-07-02-000160"
+}

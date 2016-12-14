@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fb0ace184fef4710a2868091959e7fe6",
+        "time": "2015-11-10T10:19:47.008560+00:00"
+      },
+      "turn_1": {
+        "bidder": "65762afe51be4339a5adf54ff747cfad",
+        "time": "2015-11-10T10:17:47.008605+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fb0ace184fef4710a2868091959e7fe6",
+        "time": "2015-11-10T10:25:47.008525+00:00"
+      },
+      "turn_1": {
+        "bidder": "65762afe51be4339a5adf54ff747cfad",
+        "time": "2015-11-10T10:23:47.010142+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "65762afe51be4339a5adf54ff747cfad",
+        "time": "2015-11-10T10:13:47.007784+00:00"
+      },
+      "turn_1": {
+        "amount": 950.0,
+        "bid_time": "2015-11-10T12:10:02.919557+02:00",
+        "bidder": "fb0ace184fef4710a2868091959e7fe6",
+        "time": "2015-11-10T10:11:47.009553+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "65762afe51be4339a5adf54ff747cfad",
+          "amount": 1189.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-09T11:52:27.486591+02:00"
+        },
+        {
+          "bidder": "fb0ace184fef4710a2868091959e7fe6",
+          "amount": 950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952590182",
+                "name": "Дмитрий Мазенко",
+                "email": "mdvshopper@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37395711",
+                "legalName": "ТОВ \"БУД-ПОСТАЧ\""
+              },
+              "name": "ТОВ \"БУД-ПОСТАЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Украина"
+              }
+            }
+          ],
+          "time": "2015-11-10T12:10:02.919557+02:00"
+        }
+      ],
+      "time": "2015-11-10T10:25:51.050853+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T14:56:20.364022+02:00",
+          "amount": 1200.0,
+          "bidder": "fb0ace184fef4710a2868091959e7fe6"
+        },
+        {
+          "date": "2015-11-09T11:52:27.486591+02:00",
+          "amount": 1189.0,
+          "bidder": "65762afe51be4339a5adf54ff747cfad"
+        }
+      ],
+      "time": "2015-11-10T10:04:47.004610+00:00"
+    }
+  },
+  "id": "8a3a3640229c4905a0c343f2c1455df2",
+  "tenderId": "UA-2015-10-30-000348"
+}

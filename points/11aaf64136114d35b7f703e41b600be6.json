@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f99aa522b86340f9abc77d7d68153af8",
+        "time": "2015-10-29T11:27:07.009662+00:00"
+      },
+      "turn_3": {
+        "bidder": "2de14b103ffb413491d9645ca98499f4",
+        "time": "2015-10-29T11:29:07.009639+00:00"
+      },
+      "turn_1": {
+        "bidder": "203b703f53f94e88b1b8e711fb0ce8ae",
+        "time": "2015-10-29T11:25:07.010784+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f99aa522b86340f9abc77d7d68153af8",
+        "time": "2015-10-29T11:35:07.013734+00:00"
+      },
+      "turn_3": {
+        "bidder": "2de14b103ffb413491d9645ca98499f4",
+        "time": "2015-10-29T11:37:07.014337+00:00"
+      },
+      "turn_1": {
+        "bidder": "203b703f53f94e88b1b8e711fb0ce8ae",
+        "time": "2015-10-29T11:33:07.012180+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1500.0,
+        "bid_time": "2015-10-29T13:18:25.087417+02:00",
+        "bidder": "2de14b103ffb413491d9645ca98499f4",
+        "time": "2015-10-29T11:19:07.012673+00:00"
+      },
+      "turn_3": {
+        "bidder": "f99aa522b86340f9abc77d7d68153af8",
+        "time": "2015-10-29T11:21:07.014709+00:00"
+      },
+      "turn_1": {
+        "bidder": "203b703f53f94e88b1b8e711fb0ce8ae",
+        "time": "2015-10-29T11:17:07.007322+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "203b703f53f94e88b1b8e711fb0ce8ae",
+          "amount": 1900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.flagman-kiev.com",
+                "telephone": "+380682405185",
+                "name": "Волков Вячеслав Борисович",
+                "email": "office@flagman-kiev.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31810757"
+              },
+              "name": "ТОВ \"Компанія \"Флагман\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04213",
+                "region": "Київська область",
+                "streetAddress": "вул. Прирічна, буд. 37, кв. 124",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-23T15:56:00.900003+03:00"
+        },
+        {
+          "bidder": "f99aa522b86340f9abc77d7d68153af8",
+          "amount": 1520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.awards-vs.com/",
+                "telephone": "044503-13-40",
+                "name": "Ніколаєнко Ірина Олександрівна",
+                "email": "sales6.02@vts.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34577285",
+                "legalName": "ТОВ \"ВТС Сувенір\""
+              },
+              "name": "ТОВ \"ВТС Сувенір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01021",
+                "region": "Київська",
+                "streetAddress": "вул.Грушевського 28\\2а, кв.43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T18:20:09.699227+02:00"
+        },
+        {
+          "bidder": "2de14b103ffb413491d9645ca98499f4",
+          "amount": 1500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504217007",
+                "name": "Александр Сергеевич",
+                "email": "a.gres@znak.biz.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Знак\"",
+                "id": "36161206",
+                "uri": "http://znak.biz.ua"
+              },
+              "name": "ТОВ \"Знак\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "м. Дніпропетровськ, вул.. Чкалова, 31, оф.2",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:18:25.087417+02:00"
+        }
+      ],
+      "time": "2015-10-29T11:37:08.014167+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T15:56:00.900003+03:00",
+          "amount": 1900.0,
+          "bidder": "203b703f53f94e88b1b8e711fb0ce8ae"
+        },
+        {
+          "date": "2015-10-28T10:11:36.865364+02:00",
+          "amount": 1600.0,
+          "bidder": "2de14b103ffb413491d9645ca98499f4"
+        },
+        {
+          "date": "2015-10-27T18:20:09.699227+02:00",
+          "amount": 1520.0,
+          "bidder": "f99aa522b86340f9abc77d7d68153af8"
+        }
+      ],
+      "time": "2015-10-29T11:10:07.003650+00:00"
+    }
+  },
+  "id": "11aaf64136114d35b7f703e41b600be6",
+  "tenderId": "UA-2015-10-19-000231"
+}

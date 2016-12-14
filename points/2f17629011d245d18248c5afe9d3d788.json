@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c15bfeecd1cb4db4b5e5bec714db4ea8",
+        "time": "2015-10-26T13:50:47.007278+00:00"
+      },
+      "turn_1": {
+        "bidder": "f02ad32b8f8d473dbdbd3d3eb05d2e38",
+        "time": "2015-10-26T13:48:47.007018+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c15bfeecd1cb4db4b5e5bec714db4ea8",
+        "time": "2015-10-26T13:56:47.013296+00:00"
+      },
+      "turn_1": {
+        "bidder": "f02ad32b8f8d473dbdbd3d3eb05d2e38",
+        "time": "2015-10-26T13:54:47.007513+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c15bfeecd1cb4db4b5e5bec714db4ea8",
+        "time": "2015-10-26T13:44:47.009299+00:00"
+      },
+      "turn_1": {
+        "bidder": "f02ad32b8f8d473dbdbd3d3eb05d2e38",
+        "time": "2015-10-26T13:42:47.007448+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f02ad32b8f8d473dbdbd3d3eb05d2e38",
+          "amount": 5240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.znakiua.ua/",
+                "faxNumber": "+380444139961",
+                "telephone": "+380443537342",
+                "name": "Бичкова Наталія Юріївна",
+                "email": "manager20@znakiua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37332960"
+              },
+              "name": "ТОВ Знаки УА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "пр.Свободи,2в,32",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-21T17:15:42.326732+03:00"
+        },
+        {
+          "bidder": "c15bfeecd1cb4db4b5e5bec714db4ea8",
+          "amount": 5200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T15:05:17.783885+03:00"
+        }
+      ],
+      "time": "2015-10-26T13:56:49.292305+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T17:15:42.326732+03:00",
+          "amount": 5240.0,
+          "bidder": "f02ad32b8f8d473dbdbd3d3eb05d2e38"
+        },
+        {
+          "date": "2015-10-21T15:05:17.783885+03:00",
+          "amount": 5200.0,
+          "bidder": "c15bfeecd1cb4db4b5e5bec714db4ea8"
+        }
+      ],
+      "time": "2015-10-26T13:35:47.003820+00:00"
+    }
+  },
+  "id": "2f17629011d245d18248c5afe9d3d788",
+  "tenderId": "UA-2015-10-19-000055"
+}

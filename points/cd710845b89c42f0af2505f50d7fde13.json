@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "94aa0672ba4043ea89709a83375e8fe6",
+        "time": "2015-05-28T08:15:00.043608+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ceb0f2533e44fb6b3f885df0d0030b2",
+        "time": "2015-05-28T08:13:00.141385+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "94aa0672ba4043ea89709a83375e8fe6",
+        "time": "2015-05-28T08:21:00.513629+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ceb0f2533e44fb6b3f885df0d0030b2",
+        "time": "2015-05-28T08:19:00.689183+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "94aa0672ba4043ea89709a83375e8fe6",
+        "time": "2015-05-28T08:09:00.296049+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ceb0f2533e44fb6b3f885df0d0030b2",
+        "time": "2015-05-28T08:07:00.157365+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ceb0f2533e44fb6b3f885df0d0030b2",
+          "amount": 4328.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443833325, +380991416575, +380968388183",
+                "name": "Евгений Кравец",
+                "email": "corp@coffee-man.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38663492",
+                "legalName": "ТОВ \"ТОВ \"УКРБ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"УКРБ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04073",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-26T12:58:53.571473+03:00"
+        },
+        {
+          "bidder": "94aa0672ba4043ea89709a83375e8fe6",
+          "amount": 3600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-27T13:05:41.080052+03:00"
+        }
+      ],
+      "time": "2015-05-28T08:21:08.350647+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-26T12:58:53.571473+03:00",
+          "amount": 4328.0,
+          "bidder": "4ceb0f2533e44fb6b3f885df0d0030b2"
+        },
+        {
+          "date": "2015-05-27T13:05:41.080052+03:00",
+          "amount": 3600.0,
+          "bidder": "94aa0672ba4043ea89709a83375e8fe6"
+        }
+      ],
+      "time": "2015-05-28T08:00:00.197897+00:00"
+    }
+  },
+  "id": "cd710845b89c42f0af2505f50d7fde13",
+  "tenderId": "UA-2015-05-20-000007"
+}

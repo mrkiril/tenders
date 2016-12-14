@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9e1149c0e2ff42c79712284af14115ed",
+        "time": "2015-07-28T08:17:00.046301+00:00"
+      },
+      "turn_3": {
+        "bidder": "eecfca1b23d24803bfab7c879050e157",
+        "time": "2015-07-28T08:19:00.032576+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f236dd41bfa4b69a416901df8a90e67",
+        "time": "2015-07-28T08:15:00.077894+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9e1149c0e2ff42c79712284af14115ed",
+        "time": "2015-07-28T08:25:00.028961+00:00"
+      },
+      "turn_3": {
+        "bidder": "eecfca1b23d24803bfab7c879050e157",
+        "time": "2015-07-28T08:27:00.023310+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f236dd41bfa4b69a416901df8a90e67",
+        "time": "2015-07-28T08:23:00.035490+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9e1149c0e2ff42c79712284af14115ed",
+        "time": "2015-07-28T08:09:00.034734+00:00"
+      },
+      "turn_3": {
+        "bidder": "eecfca1b23d24803bfab7c879050e157",
+        "time": "2015-07-28T08:11:00.075423+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f236dd41bfa4b69a416901df8a90e67",
+        "time": "2015-07-28T08:07:00.041477+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5f236dd41bfa4b69a416901df8a90e67",
+          "amount": 11817.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-24T16:54:04.035251+03:00"
+        },
+        {
+          "bidder": "9e1149c0e2ff42c79712284af14115ed",
+          "amount": 10228.75,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679284963",
+                "name": "Анна Савчук",
+                "email": "romus.manager25@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25551379",
+                "legalName": "ТОВ \"Ромус-Поліграф\""
+              },
+              "name": "ТОВ \"Ромус-Поліграф\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79052",
+                "region": "Львовская",
+                "streetAddress": "вул. Широка, 81",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-07-24T02:48:32.259651+03:00"
+        },
+        {
+          "bidder": "eecfca1b23d24803bfab7c879050e157",
+          "amount": 9624.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T10:17:55.720714+03:00"
+        }
+      ],
+      "time": "2015-07-28T08:27:02.165184+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-24T16:54:04.035251+03:00",
+          "amount": 11817.0,
+          "bidder": "5f236dd41bfa4b69a416901df8a90e67"
+        },
+        {
+          "date": "2015-07-24T02:48:32.259651+03:00",
+          "amount": 10228.75,
+          "bidder": "9e1149c0e2ff42c79712284af14115ed"
+        },
+        {
+          "date": "2015-07-27T10:17:55.720714+03:00",
+          "amount": 9624.6,
+          "bidder": "eecfca1b23d24803bfab7c879050e157"
+        }
+      ],
+      "time": "2015-07-28T08:00:00.025982+00:00"
+    }
+  },
+  "id": "27a71cc26fb8462f8d9827aa1272dc90",
+  "tenderId": "UA-2015-07-16-000037"
+}

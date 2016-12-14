@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ebffed4157fc436db7576400a18550e8",
+        "time": "2015-07-10T08:45:00.039322+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ff0548c9ac244c38c99864eabe0fc16",
+        "time": "2015-07-10T08:43:00.031171+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ebffed4157fc436db7576400a18550e8",
+        "time": "2015-07-10T08:51:00.033388+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ff0548c9ac244c38c99864eabe0fc16",
+        "time": "2015-07-10T08:49:00.068319+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2ff0548c9ac244c38c99864eabe0fc16",
+        "time": "2015-07-10T08:39:00.075104+00:00"
+      },
+      "turn_1": {
+        "amount": 22800.0,
+        "bid_time": "2015-07-10T11:35:21.357922+03:00",
+        "bidder": "ebffed4157fc436db7576400a18550e8",
+        "time": "2015-07-10T08:37:00.031611+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2ff0548c9ac244c38c99864eabe0fc16",
+          "amount": 23058.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bestprint.ua",
+                "telephone": "+380445013198",
+                "name": "Приватне підприємство \"Бест Прінт\"",
+                "email": "5013198@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31107469",
+                "legalName": "Приватне підприємство \"Бест Прінт\""
+              },
+              "name": "Приватне підприємство \"Бест Прінт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02096, м. Київ, вул. Ялтинська, 14, кв.89",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-07T11:16:41.495871+03:00"
+        },
+        {
+          "bidder": "ebffed4157fc436db7576400a18550e8",
+          "amount": 22800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.terra-print.com.ua",
+                "telephone": "+380445372521",
+                "name": "Терра Прінт Трейд, ТОВ",
+                "email": "k_oleg@terraprint.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39262686",
+                "legalName": "Терра Прінт Трейд, ТОВ"
+              },
+              "name": "Терра Прінт Трейд, ТОВ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, Київ, вул. Шахтарська, 4а, оф.309",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-10T11:35:21.357922+03:00"
+        }
+      ],
+      "time": "2015-07-10T08:51:06.185350+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-08T16:03:31.015195+03:00",
+          "amount": 26352.0,
+          "bidder": "ebffed4157fc436db7576400a18550e8"
+        },
+        {
+          "date": "2015-07-07T11:16:41.495871+03:00",
+          "amount": 23058.0,
+          "bidder": "2ff0548c9ac244c38c99864eabe0fc16"
+        }
+      ],
+      "time": "2015-07-10T08:30:00.003927+00:00"
+    }
+  },
+  "id": "06607930e2bf41f1bd45dc61ac458200",
+  "tenderId": "UA-2015-06-26-000041"
+}

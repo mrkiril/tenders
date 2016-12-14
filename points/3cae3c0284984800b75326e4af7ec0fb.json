@@ -1,0 +1,219 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "b3f4d3540dac42c599e9c4d43a463dce",
+        "time": "2015-09-15T08:23:00.036391+00:00"
+      },
+      "turn_2": {
+        "amount": 4500.0,
+        "bid_time": "2015-09-15T11:18:01.153018+03:00",
+        "bidder": "4e1bfb17a6c748af9843283389b05094",
+        "time": "2015-09-15T08:19:00.212215+00:00"
+      },
+      "turn_3": {
+        "amount": 5000.0,
+        "bid_time": "2015-09-15T11:20:03.890019+03:00",
+        "bidder": "d1fd4722440f45048953943e5f9fd7a5",
+        "time": "2015-09-15T08:21:00.267114+00:00"
+      },
+      "turn_1": {
+        "bidder": "a19bb18493ab4208bd1049b14256b153",
+        "time": "2015-09-15T08:17:00.095095+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 4350.0,
+        "bid_time": "2015-09-15T11:32:19.557245+03:00",
+        "bidder": "4e1bfb17a6c748af9843283389b05094",
+        "time": "2015-09-15T08:33:00.069515+00:00"
+      },
+      "turn_2": {
+        "amount": 4399.0,
+        "bid_time": "2015-09-15T11:28:12.291235+03:00",
+        "bidder": "b3f4d3540dac42c599e9c4d43a463dce",
+        "time": "2015-09-15T08:29:00.101450+00:00"
+      },
+      "turn_3": {
+        "bidder": "d1fd4722440f45048953943e5f9fd7a5",
+        "time": "2015-09-15T08:31:00.054934+00:00"
+      },
+      "turn_1": {
+        "amount": 4950.0,
+        "bid_time": "2015-09-15T11:25:16.053365+03:00",
+        "bidder": "a19bb18493ab4208bd1049b14256b153",
+        "time": "2015-09-15T08:27:00.258266+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "a19bb18493ab4208bd1049b14256b153",
+        "time": "2015-09-15T08:13:00.109636+00:00"
+      },
+      "turn_2": {
+        "amount": 5400.0,
+        "bid_time": "2015-09-15T11:07:20.649783+03:00",
+        "bidder": "d1fd4722440f45048953943e5f9fd7a5",
+        "time": "2015-09-15T08:09:00.166341+00:00"
+      },
+      "turn_3": {
+        "amount": 5199.0,
+        "bid_time": "2015-09-15T11:09:35.101981+03:00",
+        "bidder": "b3f4d3540dac42c599e9c4d43a463dce",
+        "time": "2015-09-15T08:11:00.092530+00:00"
+      },
+      "turn_1": {
+        "amount": 5500.0,
+        "bid_time": "2015-09-15T11:05:12.859821+03:00",
+        "bidder": "4e1bfb17a6c748af9843283389b05094",
+        "time": "2015-09-15T08:07:00.183228+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d1fd4722440f45048953943e5f9fd7a5",
+          "amount": 5000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mikor.com.ua/",
+                "faxNumber": "0577140265",
+                "telephone": "0675779640",
+                "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+                "email": "eska_snab@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32439099",
+                "legalName": "ООО\"Инженерная коммерческая фирма\"Эска\""
+              },
+              "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61018",
+                "region": "Харківська",
+                "streetAddress": "Пушкинская 40,кв2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T11:20:03.890019+03:00"
+        },
+        {
+          "bidder": "a19bb18493ab4208bd1049b14256b153",
+          "amount": 4950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-15T11:25:16.053365+03:00"
+        },
+        {
+          "bidder": "b3f4d3540dac42c599e9c4d43a463dce",
+          "amount": 4399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0629411471",
+                "telephone": "0504259193",
+                "name": "ТОВ \"Алделит\"",
+                "email": "turiychik@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37746750",
+                "legalName": "ТОВ \"Алделит\""
+              },
+              "name": "ТОВ \"Алделит\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87515",
+                "region": "Донецька",
+                "streetAddress": "пр.Леніна, буд.43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T11:28:12.291235+03:00"
+        },
+        {
+          "bidder": "4e1bfb17a6c748af9843283389b05094",
+          "amount": 4350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503803596, +380445911003",
+                "name": "Юрий Лысенко",
+                "email": "lysenko76@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО ОилТрейдБатери\"",
+                "id": "39302697",
+                "uri": "http://oiltreydbateri.prom.ua"
+              },
+              "name": "ТОВ \"ООО ОилТрейдБатери\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Транспортная,1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-15T11:32:19.557245+03:00"
+        }
+      ],
+      "time": "2015-09-15T08:33:10.329496+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-09T12:39:40.319367+03:00",
+          "amount": 6550.6,
+          "bidder": "4e1bfb17a6c748af9843283389b05094"
+        },
+        {
+          "date": "2015-09-09T18:10:29.344923+03:00",
+          "amount": 6373.0,
+          "bidder": "d1fd4722440f45048953943e5f9fd7a5"
+        },
+        {
+          "date": "2015-09-14T14:29:15.015828+03:00",
+          "amount": 6280.0,
+          "bidder": "b3f4d3540dac42c599e9c4d43a463dce"
+        },
+        {
+          "date": "2015-09-09T10:18:01.041601+03:00",
+          "amount": 6202.0,
+          "bidder": "a19bb18493ab4208bd1049b14256b153"
+        }
+      ],
+      "time": "2015-09-15T08:00:00.114661+00:00"
+    }
+  },
+  "id": "3cae3c0284984800b75326e4af7ec0fb",
+  "tenderId": "UA-2015-09-02-000016"
+}

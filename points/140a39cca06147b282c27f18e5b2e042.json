@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b1db96d40bbf4f4395f682d5d60c530d",
+        "time": "2015-08-20T09:47:00.010337+00:00"
+      },
+      "turn_3": {
+        "bidder": "b55e6eea892a47ab8ea67685be0018a3",
+        "time": "2015-08-20T09:49:00.010181+00:00"
+      },
+      "turn_1": {
+        "bidder": "37b101901c8d41b089741468ba10338e",
+        "time": "2015-08-20T09:45:00.011301+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 9500.0,
+        "bid_time": "2015-08-20T12:53:12.588779+03:00",
+        "bidder": "b1db96d40bbf4f4395f682d5d60c530d",
+        "time": "2015-08-20T09:55:00.011198+00:00"
+      },
+      "turn_3": {
+        "bidder": "b55e6eea892a47ab8ea67685be0018a3",
+        "time": "2015-08-20T09:57:00.008659+00:00"
+      },
+      "turn_1": {
+        "amount": 9700.0,
+        "bid_time": "2015-08-20T12:51:29.405075+03:00",
+        "bidder": "37b101901c8d41b089741468ba10338e",
+        "time": "2015-08-20T09:53:00.011554+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b1db96d40bbf4f4395f682d5d60c530d",
+        "time": "2015-08-20T09:39:00.011712+00:00"
+      },
+      "turn_3": {
+        "bidder": "b55e6eea892a47ab8ea67685be0018a3",
+        "time": "2015-08-20T09:41:00.012199+00:00"
+      },
+      "turn_1": {
+        "bidder": "37b101901c8d41b089741468ba10338e",
+        "time": "2015-08-20T09:37:00.008593+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b55e6eea892a47ab8ea67685be0018a3",
+          "amount": 9959.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-19T13:57:55.258796+03:00"
+        },
+        {
+          "bidder": "37b101901c8d41b089741468ba10338e",
+          "amount": 9700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442754976",
+                "telephone": "+380674490771",
+                "name": "Бондар Андрій Васильович",
+                "email": "ponaua@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33304149"
+              },
+              "name": "ТОВ ПОНА-УКРАЇНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська область",
+                "streetAddress": "вул. Полкова, б. 55, кв. 133",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-20T12:51:29.405075+03:00"
+        },
+        {
+          "bidder": "b1db96d40bbf4f4395f682d5d60c530d",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-08-20T12:53:12.588779+03:00"
+        }
+      ],
+      "time": "2015-08-20T09:57:01.225361+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T18:25:44.797061+03:00",
+          "amount": 14350.0,
+          "bidder": "37b101901c8d41b089741468ba10338e"
+        },
+        {
+          "date": "2015-08-18T13:05:45.956016+03:00",
+          "amount": 12000.0,
+          "bidder": "b1db96d40bbf4f4395f682d5d60c530d"
+        },
+        {
+          "date": "2015-08-19T13:57:55.258796+03:00",
+          "amount": 9959.0,
+          "bidder": "b55e6eea892a47ab8ea67685be0018a3"
+        }
+      ],
+      "time": "2015-08-20T09:30:00.006058+00:00"
+    }
+  },
+  "id": "140a39cca06147b282c27f18e5b2e042",
+  "tenderId": "UA-2015-08-13-000021"
+}

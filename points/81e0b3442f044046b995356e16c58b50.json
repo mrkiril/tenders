@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4c3d7d06499c4e469050175f1c75e7ad",
+        "time": "2015-11-12T11:49:13.007952+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c16963b6a3741949578b5bb8198a905",
+        "time": "2015-11-12T11:47:13.008244+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4c3d7d06499c4e469050175f1c75e7ad",
+        "time": "2015-11-12T11:55:13.028732+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c16963b6a3741949578b5bb8198a905",
+        "time": "2015-11-12T11:53:13.007994+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4c3d7d06499c4e469050175f1c75e7ad",
+        "time": "2015-11-12T11:43:13.008641+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c16963b6a3741949578b5bb8198a905",
+        "time": "2015-11-12T11:41:13.007717+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9c16963b6a3741949578b5bb8198a905",
+          "amount": 41760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380443777849",
+                "telephone": "+380443777849",
+                "name": "Базилевич Юрій Анатолійович",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988"
+              },
+              "name": "ТОВ ПРИВАТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська область",
+                "streetAddress": "пр-т Оболонський, 18",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-09T11:52:27.759914+02:00"
+        },
+        {
+          "bidder": "4c3d7d06499c4e469050175f1c75e7ad",
+          "amount": 41478.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674667298",
+                "name": "Анатолій Якімечко",
+                "email": "yakimechko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТОВ \"Аероконд І.К.\"\"",
+                "id": "38687995",
+                "uri": "http://www.aerocondik.kiev.ua"
+              },
+              "name": "ТОВ \"ТОВ \"Аероконд І.К.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04136",
+                "region": "Киевская",
+                "streetAddress": "вул. Стеценка,3 оф.3.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-10T18:29:58.619213+02:00"
+        }
+      ],
+      "time": "2015-11-12T11:55:36.090060+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T11:52:27.759914+02:00",
+          "amount": 41760.0,
+          "bidder": "9c16963b6a3741949578b5bb8198a905"
+        },
+        {
+          "date": "2015-11-10T18:29:58.619213+02:00",
+          "amount": 41478.0,
+          "bidder": "4c3d7d06499c4e469050175f1c75e7ad"
+        }
+      ],
+      "time": "2015-11-12T11:34:13.004026+00:00"
+    }
+  },
+  "id": "81e0b3442f044046b995356e16c58b50",
+  "tenderId": "UA-2015-11-03-000279"
+}

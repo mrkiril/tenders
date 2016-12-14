@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "14e94902fde9401cb4ea325811989afe",
+        "time": "2015-08-06T09:15:00.046982+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b53064f31f4e77b65ec9dcde59af3b",
+        "time": "2015-08-06T09:13:00.027489+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "14e94902fde9401cb4ea325811989afe",
+        "time": "2015-08-06T09:21:00.084405+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b53064f31f4e77b65ec9dcde59af3b",
+        "time": "2015-08-06T09:19:00.029535+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "14e94902fde9401cb4ea325811989afe",
+        "time": "2015-08-06T09:09:00.015922+00:00"
+      },
+      "turn_1": {
+        "bidder": "71b53064f31f4e77b65ec9dcde59af3b",
+        "time": "2015-08-06T09:07:00.026357+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "71b53064f31f4e77b65ec9dcde59af3b",
+          "amount": 8361.67,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alt-x.com.ua",
+                "telephone": "+380442296946",
+                "name": "Товариство з обмеженою відповідальністю  \"АЛЬТЕКС 12\"",
+                "email": "orobchenko.vlad@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38217035",
+                "legalName": "Товариство з обмеженою відповідальністю  \"АЛЬТЕКС 12\""
+              },
+              "name": "Товариство з обмеженою відповідальністю  \"АЛЬТЕКС 12\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м Київ, проспект Академіка Глушкова, будинок 40, корпус 5, офіс 721",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T14:35:29.532734+03:00"
+        },
+        {
+          "bidder": "14e94902fde9401cb4ea325811989afe",
+          "amount": 7895.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501788406",
+                "name": "Олег Коваль",
+                "email": "fop.koval.o@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2366700070",
+                "legalName": "ФОП \"Коваль Олег Петрович\""
+              },
+              "name": "ФОП \"Коваль Олег Петрович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "43000",
+                "region": "Волынская",
+                "streetAddress": "Волинська обл., м. Луцьк,   вул. Лугова, буд. 2, кв. 7  ",
+                "locality": "Луцк"
+              }
+            }
+          ],
+          "time": "2015-08-05T13:07:22.009075+03:00"
+        }
+      ],
+      "time": "2015-08-06T09:21:04.234545+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T14:35:29.532734+03:00",
+          "amount": 8361.67,
+          "bidder": "71b53064f31f4e77b65ec9dcde59af3b"
+        },
+        {
+          "date": "2015-08-05T13:07:22.009075+03:00",
+          "amount": 7895.0,
+          "bidder": "14e94902fde9401cb4ea325811989afe"
+        }
+      ],
+      "time": "2015-08-06T09:00:00.003609+00:00"
+    }
+  },
+  "id": "6d7847e364b147b28d67ec557bb1d113",
+  "tenderId": "UA-2015-07-30-000110"
+}

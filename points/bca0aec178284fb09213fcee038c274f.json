@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7e35e4a180634a0fbf77adabd35ea6ea",
+        "time": "2015-07-15T09:15:00.033060+00:00"
+      },
+      "turn_1": {
+        "bidder": "08813389fec74168bc5b9eafad997918",
+        "time": "2015-07-15T09:13:00.014811+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7e35e4a180634a0fbf77adabd35ea6ea",
+        "time": "2015-07-15T09:21:00.032472+00:00"
+      },
+      "turn_1": {
+        "bidder": "08813389fec74168bc5b9eafad997918",
+        "time": "2015-07-15T09:19:00.030044+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7e35e4a180634a0fbf77adabd35ea6ea",
+        "time": "2015-07-15T09:09:00.023570+00:00"
+      },
+      "turn_1": {
+        "bidder": "08813389fec74168bc5b9eafad997918",
+        "time": "2015-07-15T09:07:00.041007+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "08813389fec74168bc5b9eafad997918",
+          "amount": 76356.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632258081",
+                "name": "Ірина",
+                "email": "irlit@me.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22207753",
+                "legalName": "CП \"Макрохем-Україна\""
+              },
+              "name": "CП \"Макрохем-Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04060",
+                "region": "Киевская",
+                "streetAddress": "Берлінського, 9, 7 пов.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-14T14:02:00.048942+03:00"
+        },
+        {
+          "bidder": "7e35e4a180634a0fbf77adabd35ea6ea",
+          "amount": 45360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sa.kharkov.ua",
+                "telephone": "+380577382390",
+                "name": "ТОВ Спецавтоматика",
+                "email": "ChulkovKostik@Gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25612046",
+                "legalName": "ТОВ Спецавтоматика"
+              },
+              "name": "ТОВ Спецавтоматика",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Харків, вул. Морозова, 3. Кв. 24",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T12:53:14.439493+03:00"
+        }
+      ],
+      "time": "2015-07-15T09:21:01.733661+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-14T14:02:00.048942+03:00",
+          "amount": 76356.0,
+          "bidder": "08813389fec74168bc5b9eafad997918"
+        },
+        {
+          "date": "2015-07-14T12:53:14.439493+03:00",
+          "amount": 45360.0,
+          "bidder": "7e35e4a180634a0fbf77adabd35ea6ea"
+        }
+      ],
+      "time": "2015-07-15T09:00:00.002794+00:00"
+    }
+  },
+  "id": "bca0aec178284fb09213fcee038c274f",
+  "tenderId": "UA-2015-07-06-000038"
+}

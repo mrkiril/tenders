@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "78770a0c2e9a440f842fa2d5fd09f2da",
+        "time": "2015-11-27T12:48:12.007374+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a51adbc34e494a948a71f5d9cb8850",
+        "time": "2015-11-27T12:46:12.007786+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "78770a0c2e9a440f842fa2d5fd09f2da",
+        "time": "2015-11-27T12:54:12.007606+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a51adbc34e494a948a71f5d9cb8850",
+        "time": "2015-11-27T12:52:12.007745+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "78770a0c2e9a440f842fa2d5fd09f2da",
+        "time": "2015-11-27T12:42:12.009235+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a51adbc34e494a948a71f5d9cb8850",
+        "time": "2015-11-27T12:40:12.008518+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33a51adbc34e494a948a71f5d9cb8850",
+          "amount": 12800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0677907580",
+                "name": "Вишняк Антонина Евгеньевна",
+                "email": "avinua@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2355201386",
+                "legalName": "ФОП Вишняк Антонина Евгеньевна"
+              },
+              "name": "ФОП Вишняк Антонина Евгеньевна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "Фрунзе, 124, кв.73",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T22:43:14.694636+02:00"
+        },
+        {
+          "bidder": "78770a0c2e9a440f842fa2d5fd09f2da",
+          "amount": 7966.08,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443326404, +380502820273, +380973799220",
+                "name": "Зореслава Игнатенко",
+                "email": "zignatenko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ФАРМЛіДЕР\"",
+                "id": "38193051",
+                "uri": "http://pharmlider.uaprom.net/"
+              },
+              "name": "ТОВ \"ФАРМЛіДЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02140",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, проспект М.Бажана, 16, кв.144",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-24T14:34:20.905971+02:00"
+        }
+      ],
+      "time": "2015-11-27T12:54:14.150340+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T22:43:14.694636+02:00",
+          "amount": 12800.0,
+          "bidder": "33a51adbc34e494a948a71f5d9cb8850"
+        },
+        {
+          "date": "2015-11-24T14:34:20.905971+02:00",
+          "amount": 7966.08,
+          "bidder": "78770a0c2e9a440f842fa2d5fd09f2da"
+        }
+      ],
+      "time": "2015-11-27T12:33:12.003468+00:00"
+    }
+  },
+  "id": "1b5ce621ed17496f890403e148618b9c",
+  "tenderId": "UA-2015-11-19-000072-a"
+}

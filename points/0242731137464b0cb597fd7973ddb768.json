@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a578917824c048caa321674c35240178",
+        "time": "2015-11-20T10:25:39.011853+00:00"
+      },
+      "turn_3": {
+        "bidder": "d2296731faec4a5db6ea0b0c02cb0584",
+        "time": "2015-11-20T10:27:39.010246+00:00"
+      },
+      "turn_1": {
+        "bidder": "bc1af6e27b354fc1a6c3245bbd96f93c",
+        "time": "2015-11-20T10:23:39.011920+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a578917824c048caa321674c35240178",
+        "time": "2015-11-20T10:33:39.012159+00:00"
+      },
+      "turn_3": {
+        "bidder": "d2296731faec4a5db6ea0b0c02cb0584",
+        "time": "2015-11-20T10:35:39.008279+00:00"
+      },
+      "turn_1": {
+        "bidder": "bc1af6e27b354fc1a6c3245bbd96f93c",
+        "time": "2015-11-20T10:31:39.023119+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bc1af6e27b354fc1a6c3245bbd96f93c",
+        "time": "2015-11-20T10:17:39.011107+00:00"
+      },
+      "turn_3": {
+        "bidder": "a578917824c048caa321674c35240178",
+        "time": "2015-11-20T10:19:39.010731+00:00"
+      },
+      "turn_1": {
+        "amount": 16830.0,
+        "bid_time": "2015-11-20T12:13:50.210251+02:00",
+        "bidder": "d2296731faec4a5db6ea0b0c02cb0584",
+        "time": "2015-11-20T10:15:39.009892+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bc1af6e27b354fc1a6c3245bbd96f93c",
+          "amount": 17499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-19T12:16:31.525808+02:00"
+        },
+        {
+          "bidder": "a578917824c048caa321674c35240178",
+          "amount": 16931.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380939042647, +380563715831",
+                "name": "Ольга Федик",
+                "email": "dommed11@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37707638",
+                "legalName": "ТОВ \"ДОММЕД\""
+              },
+              "name": "ТОВ \"ДОММЕД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52001",
+                "region": "Днепропетровская",
+                "streetAddress": " вул. Поштова, буд. 30",
+                "locality": "Подгороднее"
+              }
+            }
+          ],
+          "time": "2015-11-19T14:36:43.977134+02:00"
+        },
+        {
+          "bidder": "d2296731faec4a5db6ea0b0c02cb0584",
+          "amount": 16830.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380432554328, +380504779463, +380637283770, +380432554328",
+                "name": "Александр Лещенко",
+                "email": "al-le2009@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2560512357",
+                "legalName": "ФОП \"ФОП Лещенко\""
+              },
+              "name": "ФОП \"ФОП Лещенко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21011",
+                "region": "Виницкая",
+                "streetAddress": "г. Винница, ул. Садовая,10",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-11-20T12:13:50.210251+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:35:41.821709+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T16:38:04.370860+02:00",
+          "amount": 17750.0,
+          "bidder": "d2296731faec4a5db6ea0b0c02cb0584"
+        },
+        {
+          "date": "2015-11-19T12:16:31.525808+02:00",
+          "amount": 17499.0,
+          "bidder": "bc1af6e27b354fc1a6c3245bbd96f93c"
+        },
+        {
+          "date": "2015-11-19T14:36:43.977134+02:00",
+          "amount": 16931.0,
+          "bidder": "a578917824c048caa321674c35240178"
+        }
+      ],
+      "time": "2015-11-20T10:08:39.004016+00:00"
+    }
+  },
+  "id": "0242731137464b0cb597fd7973ddb768",
+  "tenderId": "UA-2015-11-13-000045"
+}

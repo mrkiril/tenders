@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "50a21dd1815d4bf480df4a5f8c1a4d92",
+        "time": "2015-08-25T10:15:00.042257+00:00"
+      },
+      "turn_1": {
+        "amount": 24370.0,
+        "bid_time": "2015-08-25T13:11:43.838626+03:00",
+        "bidder": "43162fdadea74876a43b0eab3e568ee5",
+        "time": "2015-08-25T10:13:00.030359+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "43162fdadea74876a43b0eab3e568ee5",
+        "time": "2015-08-25T10:21:00.021853+00:00"
+      },
+      "turn_1": {
+        "bidder": "50a21dd1815d4bf480df4a5f8c1a4d92",
+        "time": "2015-08-25T10:19:00.018773+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "50a21dd1815d4bf480df4a5f8c1a4d92",
+        "time": "2015-08-25T10:09:00.021060+00:00"
+      },
+      "turn_1": {
+        "bidder": "43162fdadea74876a43b0eab3e568ee5",
+        "time": "2015-08-25T10:07:00.020531+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "50a21dd1815d4bf480df4a5f8c1a4d92",
+          "amount": 24375.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-08-23T16:15:11.810521+03:00"
+        },
+        {
+          "bidder": "43162fdadea74876a43b0eab3e568ee5",
+          "amount": 24370.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38874948",
+                "legalName": "ТОВ \"Еста Лайт\""
+              },
+              "name": "ТОВ \"Еста Лайт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36002",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-08-25T13:11:43.838626+03:00"
+        }
+      ],
+      "time": "2015-08-25T10:21:02.288579+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-25T08:41:34.116385+03:00",
+          "amount": 25000.0,
+          "bidder": "43162fdadea74876a43b0eab3e568ee5"
+        },
+        {
+          "date": "2015-08-23T16:15:11.810521+03:00",
+          "amount": 24375.2,
+          "bidder": "50a21dd1815d4bf480df4a5f8c1a4d92"
+        }
+      ],
+      "time": "2015-08-25T10:00:00.016327+00:00"
+    }
+  },
+  "id": "0e328dc0c97642c09c59e835b5e0e502",
+  "tenderId": "UA-2015-08-18-000006"
+}

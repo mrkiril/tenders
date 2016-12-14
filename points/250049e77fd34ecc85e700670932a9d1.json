@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6ed6222e0a5442ab8a5e5945f760a9b9",
+        "time": "2015-12-14T11:22:31.009822+00:00"
+      },
+      "turn_1": {
+        "bidder": "eaf3d21a16434ac5b50d5f7df3b2949e",
+        "time": "2015-12-14T11:20:31.022655+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6ed6222e0a5442ab8a5e5945f760a9b9",
+        "time": "2015-12-14T11:28:31.007722+00:00"
+      },
+      "turn_1": {
+        "bidder": "eaf3d21a16434ac5b50d5f7df3b2949e",
+        "time": "2015-12-14T11:26:31.011677+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6ed6222e0a5442ab8a5e5945f760a9b9",
+        "time": "2015-12-14T11:16:31.042389+00:00"
+      },
+      "turn_1": {
+        "amount": 59460.0,
+        "bid_time": "2015-12-14T13:13:54.585197+02:00",
+        "bidder": "eaf3d21a16434ac5b50d5f7df3b2949e",
+        "time": "2015-12-14T11:14:31.030879+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eaf3d21a16434ac5b50d5f7df3b2949e",
+          "amount": 59460.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.skywell.com.ua",
+                "faxNumber": "+380442551155",
+                "telephone": "+380442551155",
+                "name": "Якименко Егор Валерійович",
+                "email": "tenders@skywell.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31645973"
+              },
+              "name": "ТОВ СКАЙВЕЛЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська область",
+                "streetAddress": "провулок Охтирський, будинок 7, корпус 2, офіс 2-201",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:13:54.585197+02:00"
+        },
+        {
+          "bidder": "6ed6222e0a5442ab8a5e5945f760a9b9",
+          "amount": 57000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677118031",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+                "email": "agcsc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32765826",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03061 Київ вул. Шепелєва 7-А к.51",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T01:08:41.378713+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:28:31.999257+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T16:24:42.184626+02:00",
+          "amount": 59660.0,
+          "bidder": "eaf3d21a16434ac5b50d5f7df3b2949e"
+        },
+        {
+          "date": "2015-12-11T01:08:41.378713+02:00",
+          "amount": 57000.0,
+          "bidder": "6ed6222e0a5442ab8a5e5945f760a9b9"
+        }
+      ],
+      "time": "2015-12-14T11:07:31.004640+00:00"
+    }
+  },
+  "id": "250049e77fd34ecc85e700670932a9d1",
+  "tenderId": "UA-2015-12-01-000265"
+}

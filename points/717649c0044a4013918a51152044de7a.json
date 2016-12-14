@@ -1,0 +1,201 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "43ad8f93404f4654b66cb6e5ce7bc126",
+        "time": "2015-07-06T10:53:00.033527+00:00"
+      },
+      "turn_2": {
+        "bidder": "82d7a733d3dc4ee3b342ea1e3d637d7c",
+        "time": "2015-07-06T10:49:00.032051+00:00"
+      },
+      "turn_3": {
+        "bidder": "8e9a79e52f7544c0aa22dce8b5c45c13",
+        "time": "2015-07-06T10:51:00.025128+00:00"
+      },
+      "turn_1": {
+        "bidder": "11f1f6fa88a0401da4033be5d6832b46",
+        "time": "2015-07-06T10:47:00.044056+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "43ad8f93404f4654b66cb6e5ce7bc126",
+        "time": "2015-07-06T11:03:00.020626+00:00"
+      },
+      "turn_2": {
+        "bidder": "82d7a733d3dc4ee3b342ea1e3d637d7c",
+        "time": "2015-07-06T10:59:00.027534+00:00"
+      },
+      "turn_3": {
+        "bidder": "8e9a79e52f7544c0aa22dce8b5c45c13",
+        "time": "2015-07-06T11:01:00.027982+00:00"
+      },
+      "turn_1": {
+        "bidder": "11f1f6fa88a0401da4033be5d6832b46",
+        "time": "2015-07-06T10:57:00.063281+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "8e9a79e52f7544c0aa22dce8b5c45c13",
+        "time": "2015-07-06T10:43:00.063467+00:00"
+      },
+      "turn_2": {
+        "bidder": "11f1f6fa88a0401da4033be5d6832b46",
+        "time": "2015-07-06T10:39:00.025265+00:00"
+      },
+      "turn_3": {
+        "bidder": "82d7a733d3dc4ee3b342ea1e3d637d7c",
+        "time": "2015-07-06T10:41:00.029092+00:00"
+      },
+      "turn_1": {
+        "amount": 960.0,
+        "bid_time": "2015-07-06T13:35:07.377910+03:00",
+        "bidder": "43ad8f93404f4654b66cb6e5ce7bc126",
+        "time": "2015-07-06T10:37:00.036069+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "11f1f6fa88a0401da4033be5d6832b46",
+          "amount": 1123.44,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Наталья",
+                "email": "shulga@papyrus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37757076",
+                "legalName": "ТОВ \"Папирус Гурт Збут\""
+              },
+              "name": "ТОВ \"Папирус Гурт Збут\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08132",
+                "region": "Киевская",
+                "streetAddress": "Киевская область, г.Вишневое, ул.Киевская, 2а",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-07-01T11:02:32.718404+03:00"
+        },
+        {
+          "bidder": "82d7a733d3dc4ee3b342ea1e3d637d7c",
+          "amount": 1113.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444989011",
+                "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+                "email": "omega-office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39367665",
+                "legalName": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133,м.Київ, бульв.Лесі Українки, буд.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T13:25:31.590779+03:00"
+        },
+        {
+          "bidder": "8e9a79e52f7544c0aa22dce8b5c45c13",
+          "amount": 1047.96,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444905190",
+                "name": "Андрій Варшавський",
+                "email": "warsawsky@t-s.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20575435",
+                "legalName": "ТОВ \"Тріал-систем\""
+              },
+              "name": "ТОВ \"Тріал-систем\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03035",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-02T14:08:21.040384+03:00"
+        },
+        {
+          "bidder": "43ad8f93404f4654b66cb6e5ce7bc126",
+          "amount": 960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "tender1@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-06T13:35:07.377910+03:00"
+        }
+      ],
+      "time": "2015-07-06T11:03:01.736098+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-02T08:40:01.075593+03:00",
+          "amount": 1150.0,
+          "bidder": "43ad8f93404f4654b66cb6e5ce7bc126"
+        },
+        {
+          "date": "2015-07-01T11:02:32.718404+03:00",
+          "amount": 1123.44,
+          "bidder": "11f1f6fa88a0401da4033be5d6832b46"
+        },
+        {
+          "date": "2015-07-02T13:25:31.590779+03:00",
+          "amount": 1113.0,
+          "bidder": "82d7a733d3dc4ee3b342ea1e3d637d7c"
+        },
+        {
+          "date": "2015-07-02T14:08:21.040384+03:00",
+          "amount": 1047.96,
+          "bidder": "8e9a79e52f7544c0aa22dce8b5c45c13"
+        }
+      ],
+      "time": "2015-07-06T10:30:00.006693+00:00"
+    }
+  },
+  "id": "717649c0044a4013918a51152044de7a",
+  "tenderId": "UA-2015-06-25-000103"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d18e6dcd6ca34ea88f9f9da6954b65df",
+        "time": "2015-07-01T09:45:00.058535+00:00"
+      },
+      "turn_1": {
+        "bidder": "5a55fa16e02344b1a9c0667dbfddb6ea",
+        "time": "2015-07-01T09:43:00.030681+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d18e6dcd6ca34ea88f9f9da6954b65df",
+        "time": "2015-07-01T09:51:00.052261+00:00"
+      },
+      "turn_1": {
+        "bidder": "5a55fa16e02344b1a9c0667dbfddb6ea",
+        "time": "2015-07-01T09:49:00.029353+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d18e6dcd6ca34ea88f9f9da6954b65df",
+        "time": "2015-07-01T09:39:00.042258+00:00"
+      },
+      "turn_1": {
+        "bidder": "5a55fa16e02344b1a9c0667dbfddb6ea",
+        "time": "2015-07-01T09:37:00.070252+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5a55fa16e02344b1a9c0667dbfddb6ea",
+          "amount": 30.38,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://steklopribor.com/",
+                "telephone": "+380445811142",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГОВИЙ ДІМ \"ВІКТЕР ПЛЮС\"",
+                "email": "tender@vikter.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32246694",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГОВИЙ ДІМ \"ВІКТЕР ПЛЮС\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГОВИЙ ДІМ \"ВІКТЕР ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04210, Україна, м. Київ, пр-т Героїв Сталінграду, 2г, корпус 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T10:59:54.597183+03:00"
+        },
+        {
+          "bidder": "d18e6dcd6ca34ea88f9f9da6954b65df",
+          "amount": 29.38,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mankor.ua",
+                "telephone": "+380444518943",
+                "name": "Общество с ограниченой ответственностью \"МАНКОР\"",
+                "email": "snt@mankor.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30222980",
+                "legalName": "Общество с ограниченой ответственностью \"МАНКОР\""
+              },
+              "name": "Общество с ограниченой ответственностью \"МАНКОР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул.Хвойки, 18/14, г.Киев, 04655",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T15:09:32.639709+03:00"
+        }
+      ],
+      "time": "2015-07-01T09:51:02.045137+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-26T10:59:54.597183+03:00",
+          "amount": 30.38,
+          "bidder": "5a55fa16e02344b1a9c0667dbfddb6ea"
+        },
+        {
+          "date": "2015-06-25T15:09:32.639709+03:00",
+          "amount": 29.38,
+          "bidder": "d18e6dcd6ca34ea88f9f9da6954b65df"
+        }
+      ],
+      "time": "2015-07-01T09:30:00.007017+00:00"
+    }
+  },
+  "id": "e89182b2fd4246d18c5259c62afc8013",
+  "tenderId": "UA-2015-06-24-000142"
+}

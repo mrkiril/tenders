@@ -1,0 +1,253 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 9000.0,
+        "bid_time": "2015-10-13T14:24:53.686351+03:00",
+        "bidder": "8bbfc716ac8c44e0a16ab0119d7c6db4",
+        "time": "2015-10-13T11:25:02.012406+00:00"
+      },
+      "turn_5": {
+        "amount": 9000.0,
+        "bid_time": "2015-10-13T14:25:37.128020+03:00",
+        "bidder": "1365ace778fd4e219d990008ae84501a",
+        "time": "2015-10-13T11:27:02.015793+00:00"
+      },
+      "turn_2": {
+        "bidder": "6a2651e0af4d4b5ebb31ef3497ca76de",
+        "time": "2015-10-13T11:21:02.012370+00:00"
+      },
+      "turn_3": {
+        "amount": 9800.0,
+        "bid_time": "2015-10-13T14:22:33.993701+03:00",
+        "bidder": "032bc7c1fa4b4ba1a319e6ce946c52f1",
+        "time": "2015-10-13T11:23:02.017186+00:00"
+      },
+      "turn_1": {
+        "bidder": "4710246086d442fba9a9799114a8a794",
+        "time": "2015-10-13T11:19:02.009767+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "1365ace778fd4e219d990008ae84501a",
+        "time": "2015-10-13T11:37:02.008132+00:00"
+      },
+      "turn_5": {
+        "amount": 8900.0,
+        "bid_time": "2015-10-13T14:38:16.258175+03:00",
+        "bidder": "8bbfc716ac8c44e0a16ab0119d7c6db4",
+        "time": "2015-10-13T11:39:02.014023+00:00"
+      },
+      "turn_2": {
+        "bidder": "6a2651e0af4d4b5ebb31ef3497ca76de",
+        "time": "2015-10-13T11:33:02.008869+00:00"
+      },
+      "turn_3": {
+        "bidder": "032bc7c1fa4b4ba1a319e6ce946c52f1",
+        "time": "2015-10-13T11:35:02.012934+00:00"
+      },
+      "turn_1": {
+        "bidder": "4710246086d442fba9a9799114a8a794",
+        "time": "2015-10-13T11:31:02.008538+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 9850.0,
+        "bid_time": "2015-10-13T14:11:20.292203+03:00",
+        "bidder": "1365ace778fd4e219d990008ae84501a",
+        "time": "2015-10-13T11:13:02.012120+00:00"
+      },
+      "turn_5": {
+        "bidder": "032bc7c1fa4b4ba1a319e6ce946c52f1",
+        "time": "2015-10-13T11:15:02.010865+00:00"
+      },
+      "turn_2": {
+        "amount": 9900.0,
+        "bid_time": "2015-10-13T14:08:53.212389+03:00",
+        "bidder": "8bbfc716ac8c44e0a16ab0119d7c6db4",
+        "time": "2015-10-13T11:09:02.015400+00:00"
+      },
+      "turn_3": {
+        "bidder": "6a2651e0af4d4b5ebb31ef3497ca76de",
+        "time": "2015-10-13T11:11:02.011557+00:00"
+      },
+      "turn_1": {
+        "bidder": "4710246086d442fba9a9799114a8a794",
+        "time": "2015-10-13T11:07:02.008160+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4710246086d442fba9a9799114a8a794",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://bastion-m.com.ua",
+                "telephone": "+380445949572",
+                "name": "Приватне підприємство \"Бастіон-М\"",
+                "email": "office@bastion-m.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33458505",
+                "legalName": "Приватне підприємство \"Бастіон-М\""
+              },
+              "name": "Приватне підприємство \"Бастіон-М\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07414, Київська обл., Броварський р-н, с. Рожівка, вул. Жовтневої революції , буд.25",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T11:37:51.705232+03:00"
+        },
+        {
+          "bidder": "6a2651e0af4d4b5ebb31ef3497ca76de",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445319363",
+                "name": "Любов",
+                "email": "vlubav@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33099853",
+                "legalName": "ПП \"ГРУПА-ШЕРИФ\""
+              },
+              "name": "ПП \"ГРУПА-ШЕРИФ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Поліська, 22, к. 126",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-08T09:35:18.230360+03:00"
+        },
+        {
+          "bidder": "032bc7c1fa4b4ba1a319e6ce946c52f1",
+          "amount": 9800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674085339",
+                "name": "Набока Тетяна Миколаївна",
+                "email": "1971naboka@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34385847",
+                "legalName": "ПП \"Міжрегіональне детективне бюро\""
+              },
+              "name": "ПП \"Міжрегіональне детективне бюро\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08730",
+                "region": "Київська",
+                "streetAddress": "Леніна, 30",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T14:22:33.993701+03:00"
+        },
+        {
+          "bidder": "1365ace778fd4e219d990008ae84501a",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0445772413",
+                "name": "Володимир Петрович Лесь ",
+                "email": "regional_ok@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38374928",
+                "legalName": ""
+              },
+              "name": "Приватне підприємство \"РЕГІОНАЛЬНА ОХОРОННА КОНФЕДЕРАЦІЯ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "02088, м. Київ, вул. Дяченка, буд. 20-В, кв.  66"
+              }
+            }
+          ],
+          "time": "2015-10-13T14:25:37.128020+03:00"
+        },
+        {
+          "bidder": "8bbfc716ac8c44e0a16ab0119d7c6db4",
+          "amount": 8900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442292765",
+                "name": "Віталій",
+                "email": "info@optb.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36272665",
+                "legalName": "ПП \"ТЕРИТОРІЯ ОХОРОНИ\""
+              },
+              "name": "ПП \"ТЕРИТОРІЯ ОХОРОНИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02081",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Олени Пчілки, 2-Б, к. 501",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-13T14:38:16.258175+03:00"
+        }
+      ],
+      "time": "2015-10-13T11:39:04.744254+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T09:35:18.230360+03:00",
+          "amount": 10500.0,
+          "bidder": "6a2651e0af4d4b5ebb31ef3497ca76de"
+        },
+        {
+          "date": "2015-10-08T09:42:54.932562+03:00",
+          "amount": 10500.0,
+          "bidder": "8bbfc716ac8c44e0a16ab0119d7c6db4"
+        },
+        {
+          "date": "2015-10-08T11:37:51.705232+03:00",
+          "amount": 10500.0,
+          "bidder": "4710246086d442fba9a9799114a8a794"
+        },
+        {
+          "date": "2015-10-08T09:34:47.979105+03:00",
+          "amount": 10499.99,
+          "bidder": "1365ace778fd4e219d990008ae84501a"
+        },
+        {
+          "date": "2015-10-07T17:16:38.608353+03:00",
+          "amount": 10000.0,
+          "bidder": "032bc7c1fa4b4ba1a319e6ce946c52f1"
+        }
+      ],
+      "time": "2015-10-13T11:00:02.004521+00:00"
+    }
+  },
+  "id": "056a87f14c864c918275e184a57dce93",
+  "tenderId": "UA-2015-10-07-000217"
+}

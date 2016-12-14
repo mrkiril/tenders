@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a7532e681cf34deaacdaa9f2c858b148",
+        "time": "2015-10-30T13:48:46.007178+00:00"
+      },
+      "turn_1": {
+        "bidder": "c95437afd4024f099539d1a9bc327847",
+        "time": "2015-10-30T13:46:46.011742+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a7532e681cf34deaacdaa9f2c858b148",
+        "time": "2015-10-30T13:54:46.011939+00:00"
+      },
+      "turn_1": {
+        "bidder": "c95437afd4024f099539d1a9bc327847",
+        "time": "2015-10-30T13:52:46.012813+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a7532e681cf34deaacdaa9f2c858b148",
+        "time": "2015-10-30T13:42:46.008130+00:00"
+      },
+      "turn_1": {
+        "bidder": "c95437afd4024f099539d1a9bc327847",
+        "time": "2015-10-30T13:40:46.009982+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c95437afd4024f099539d1a9bc327847",
+          "amount": 64000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "380984253685",
+                "name": "OLEG Кальченко ",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": ""
+              },
+              "name": "Інститут прикладних досліджень",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Київ Матеюка 9 оф 50"
+              }
+            }
+          ],
+          "time": "2015-10-29T10:09:16.030335+02:00"
+        },
+        {
+          "bidder": "a7532e681cf34deaacdaa9f2c858b148",
+          "amount": 55536.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://forward.dp.ua",
+                "telephone": "+380562357469",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВЕРЕСТ\"",
+                "email": "nina@forward.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32014627",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВЕРЕСТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВЕРЕСТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49008, Дніпропетровська обл., місто Дніпропетровськ, ВУЛИЦЯ РОБІТНИЧА, будинок 23-В",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T22:02:07.639646+02:00"
+        }
+      ],
+      "time": "2015-10-30T13:54:46.781885+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T10:09:16.030335+02:00",
+          "amount": 64000.0,
+          "bidder": "c95437afd4024f099539d1a9bc327847"
+        },
+        {
+          "date": "2015-10-29T22:02:07.639646+02:00",
+          "amount": 55536.0,
+          "bidder": "a7532e681cf34deaacdaa9f2c858b148"
+        }
+      ],
+      "time": "2015-10-30T13:33:46.004561+00:00"
+    }
+  },
+  "id": "65d1cf59af104d73bb08c674c8090d67",
+  "tenderId": "UA-2015-10-21-000411"
+}

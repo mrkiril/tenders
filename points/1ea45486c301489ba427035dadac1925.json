@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dff2bceadca3432aa9263c415cb2ecbb",
+        "time": "2015-10-08T12:16:50.015040+00:00"
+      },
+      "turn_1": {
+        "bidder": "c442071574034ff081aa447966a2466b",
+        "time": "2015-10-08T12:14:50.007354+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dff2bceadca3432aa9263c415cb2ecbb",
+        "time": "2015-10-08T12:22:50.007039+00:00"
+      },
+      "turn_1": {
+        "bidder": "c442071574034ff081aa447966a2466b",
+        "time": "2015-10-08T12:20:50.008150+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dff2bceadca3432aa9263c415cb2ecbb",
+        "time": "2015-10-08T12:10:50.008046+00:00"
+      },
+      "turn_1": {
+        "bidder": "c442071574034ff081aa447966a2466b",
+        "time": "2015-10-08T12:08:50.006883+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c442071574034ff081aa447966a2466b",
+          "amount": 72964.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-294-37-33",
+                "telephone": "044-294-37-33",
+                "name": "Месхі Мамука Мурманович",
+                "email": "Ukrspecstroy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31366140",
+                "legalName": "Товариство з обмеженою відповідальністю \"Укрспецстрой\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Укрспецстрой\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02098",
+                "region": "Київська",
+                "streetAddress": "вул. Юрія Шумського, 1Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T11:17:00.985235+03:00"
+        },
+        {
+          "bidder": "dff2bceadca3432aa9263c415cb2ecbb",
+          "amount": 68586.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ekipag.net.ua/",
+                "telephone": "+380504190707",
+                "name": "Приватне Підприємство \"Екіпаж\"",
+                "email": "alla-viktorovna@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21241245",
+                "legalName": "Приватне Підприємство \"Екіпаж\""
+              },
+              "name": "Приватне Підприємство \"Екіпаж\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ХАРЬКОВСКАЯ ОБЛ.",
+                "streetAddress": "64102, Харківська область, м.Первомайський, мікрорайон - 1/2, будинок 4А",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-07T17:16:05.841315+03:00"
+        }
+      ],
+      "time": "2015-10-08T12:22:52.315142+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T11:17:00.985235+03:00",
+          "amount": 72964.0,
+          "bidder": "c442071574034ff081aa447966a2466b"
+        },
+        {
+          "date": "2015-10-07T17:16:05.841315+03:00",
+          "amount": 68586.16,
+          "bidder": "dff2bceadca3432aa9263c415cb2ecbb"
+        }
+      ],
+      "time": "2015-10-08T12:01:50.002758+00:00"
+    }
+  },
+  "id": "1ea45486c301489ba427035dadac1925",
+  "tenderId": "UA-2015-09-29-000327"
+}

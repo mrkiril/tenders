@@ -1,0 +1,202 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 8649.0,
+        "bid_time": "2015-11-04T13:51:40.499724+02:00",
+        "bidder": "c3a42492538246b2a259e346c0122cee",
+        "time": "2015-11-04T11:53:22.009574+00:00"
+      },
+      "turn_2": {
+        "bidder": "78417ef9628d44b28bf2253d0df255e6",
+        "time": "2015-11-04T11:49:22.007856+00:00"
+      },
+      "turn_3": {
+        "amount": 8650.0,
+        "bid_time": "2015-11-04T13:49:41.714151+02:00",
+        "bidder": "ff65582a43a74f2e9e7d66afac0575bb",
+        "time": "2015-11-04T11:51:22.009602+00:00"
+      },
+      "turn_1": {
+        "bidder": "57dfe3851f56411e83dfd1265d7e6e1c",
+        "time": "2015-11-04T11:47:22.007272+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "c3a42492538246b2a259e346c0122cee",
+        "time": "2015-11-04T12:03:22.006433+00:00"
+      },
+      "turn_2": {
+        "bidder": "78417ef9628d44b28bf2253d0df255e6",
+        "time": "2015-11-04T11:59:22.007447+00:00"
+      },
+      "turn_3": {
+        "bidder": "ff65582a43a74f2e9e7d66afac0575bb",
+        "time": "2015-11-04T12:01:22.008089+00:00"
+      },
+      "turn_1": {
+        "bidder": "57dfe3851f56411e83dfd1265d7e6e1c",
+        "time": "2015-11-04T11:57:22.007441+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "78417ef9628d44b28bf2253d0df255e6",
+        "time": "2015-11-04T11:43:22.007149+00:00"
+      },
+      "turn_2": {
+        "amount": 8700.0,
+        "bid_time": "2015-11-04T13:38:50.974049+02:00",
+        "bidder": "c3a42492538246b2a259e346c0122cee",
+        "time": "2015-11-04T11:39:22.009414+00:00"
+      },
+      "turn_3": {
+        "bidder": "57dfe3851f56411e83dfd1265d7e6e1c",
+        "time": "2015-11-04T11:41:22.007858+00:00"
+      },
+      "turn_1": {
+        "amount": 8800.0,
+        "bid_time": "2015-11-04T13:35:43.002323+02:00",
+        "bidder": "ff65582a43a74f2e9e7d66afac0575bb",
+        "time": "2015-11-04T11:37:22.010955+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "57dfe3851f56411e83dfd1265d7e6e1c",
+          "amount": 8988.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "marina.repetij@amrita-cs.com",
+                "name": "Репетий Марина "
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "0039950584",
+                "legalName": "ТОВ \"АМРІТА КОМПЛЕКСНІ РІШЕННЯ\""
+              },
+              "name": "ТОВ \"Амріта Комплексні рішення\"",
+              "address": {
+                "countryName": "УКРАЇНА",
+                "postalCode": "03680",
+                "locality": "КИЇВСЬКА ОБЛАСТЬ/М.КИЇВ"
+              }
+            }
+          ],
+          "time": "2015-11-03T16:47:15.571593+02:00"
+        },
+        {
+          "bidder": "78417ef9628d44b28bf2253d0df255e6",
+          "amount": 8988.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "marina.repetij@amrita-cs.com",
+                "name": "Репетий Марина "
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "0039950584",
+                "legalName": "ТОВ \"АМРІТА КОМПЛЕКСНІ РІШЕННЯ\""
+              },
+              "name": "ТОВ \"Амріта Комплексні рішення\"",
+              "address": {
+                "countryName": "УКРАЇНА",
+                "postalCode": "03680",
+                "locality": "КИЇВСЬКА ОБЛАСТЬ/М.КИЇВ"
+              }
+            }
+          ],
+          "time": "2015-11-03T16:46:28.798899+02:00"
+        },
+        {
+          "bidder": "ff65582a43a74f2e9e7d66afac0575bb",
+          "amount": 8650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://hacenter.com.ua/",
+                "faxNumber": "0443844127",
+                "telephone": "0443629370",
+                "name": "Курта Павлович Олексій",
+                "email": "office@hacenter.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38374797",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02100",
+                "region": "Київська",
+                "streetAddress": "Бориспільська, 9 корпус 8, кімната 203",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T13:49:41.714151+02:00"
+        },
+        {
+          "bidder": "c3a42492538246b2a259e346c0122cee",
+          "amount": 8649.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-04T13:51:40.499724+02:00"
+        }
+      ],
+      "time": "2015-11-04T12:03:31.120748+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T15:36:21.566404+02:00",
+          "amount": 9400.0,
+          "bidder": "ff65582a43a74f2e9e7d66afac0575bb"
+        },
+        {
+          "date": "2015-11-03T04:20:27.698144+02:00",
+          "amount": 9345.0,
+          "bidder": "c3a42492538246b2a259e346c0122cee"
+        },
+        {
+          "date": "2015-11-03T16:46:28.798899+02:00",
+          "amount": 8988.0,
+          "bidder": "78417ef9628d44b28bf2253d0df255e6"
+        },
+        {
+          "date": "2015-11-03T16:47:15.571593+02:00",
+          "amount": 8988.0,
+          "bidder": "57dfe3851f56411e83dfd1265d7e6e1c"
+        }
+      ],
+      "time": "2015-11-04T11:30:22.003297+00:00"
+    }
+  },
+  "id": "3f51742dcc1e4217bb5aab52480f0440",
+  "tenderId": "UA-2015-10-28-000009"
+}

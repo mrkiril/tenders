@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2022ce9ff3f64abfa1086247e3803bae",
+        "time": "2015-11-20T09:25:39.009528+00:00"
+      },
+      "turn_1": {
+        "bidder": "030b395d8982401bbc6c929799e4df7c",
+        "time": "2015-11-20T09:23:39.014572+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2022ce9ff3f64abfa1086247e3803bae",
+        "time": "2015-11-20T09:31:39.011073+00:00"
+      },
+      "turn_1": {
+        "bidder": "030b395d8982401bbc6c929799e4df7c",
+        "time": "2015-11-20T09:29:39.008784+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2022ce9ff3f64abfa1086247e3803bae",
+        "time": "2015-11-20T09:19:39.009737+00:00"
+      },
+      "turn_1": {
+        "bidder": "030b395d8982401bbc6c929799e4df7c",
+        "time": "2015-11-20T09:17:39.009295+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "030b395d8982401bbc6c929799e4df7c",
+          "amount": 546.12,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004, +380503820395",
+                "name": "Олена Новицька",
+                "email": "dimlen_dimlen@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404059",
+                "legalName": "ТОВ \"ДІМЛЕН\""
+              },
+              "name": "ТОВ \"ДІМЛЕН\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:05:57.737287+02:00"
+        },
+        {
+          "bidder": "2022ce9ff3f64abfa1086247e3803bae",
+          "amount": 486.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-500-00-97",
+                "telephone": "095-767-72-13",
+                "name": "Заїтов Бакірович Тахір",
+                "email": "4@ot.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36265773",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська",
+                "streetAddress": "вул. Миру, будинок 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T14:23:25.621110+02:00"
+        }
+      ],
+      "time": "2015-11-20T09:31:43.094767+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T12:05:57.737287+02:00",
+          "amount": 546.12,
+          "bidder": "030b395d8982401bbc6c929799e4df7c"
+        },
+        {
+          "date": "2015-11-16T14:23:25.621110+02:00",
+          "amount": 486.0,
+          "bidder": "2022ce9ff3f64abfa1086247e3803bae"
+        }
+      ],
+      "time": "2015-11-20T09:10:39.005391+00:00"
+    }
+  },
+  "id": "791e9655f08e4b0095fb43e60bc5ec1c",
+  "tenderId": "UA-2015-11-11-000077-b"
+}

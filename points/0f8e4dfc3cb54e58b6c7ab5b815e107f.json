@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "538e1b78b5fe4605863ae3248358d4ff",
+        "time": "2015-10-22T12:19:46.005631+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec47b29fd97d4a4aa03226d5264f21df",
+        "time": "2015-10-22T12:17:46.008011+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "538e1b78b5fe4605863ae3248358d4ff",
+        "time": "2015-10-22T12:25:46.006869+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec47b29fd97d4a4aa03226d5264f21df",
+        "time": "2015-10-22T12:23:46.006847+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "538e1b78b5fe4605863ae3248358d4ff",
+        "time": "2015-10-22T12:13:46.004906+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec47b29fd97d4a4aa03226d5264f21df",
+        "time": "2015-10-22T12:11:46.005709+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ec47b29fd97d4a4aa03226d5264f21df",
+          "amount": 540.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673283655",
+                "name": "Наталия Власюк",
+                "email": "n.vlasyuk@womed.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38639339",
+                "legalName": "ТОВ \"Вест-Ост Медикал\""
+              },
+              "name": "ТОВ \"Вест-Ост Медикал\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "бульвар Лепсе, 6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-20T17:23:48.948584+03:00"
+        },
+        {
+          "bidder": "538e1b78b5fe4605863ae3248358d4ff",
+          "amount": 488.24,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-21T10:20:42.540967+03:00"
+        }
+      ],
+      "time": "2015-10-22T12:25:47.785570+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T17:23:48.948584+03:00",
+          "amount": 540.0,
+          "bidder": "ec47b29fd97d4a4aa03226d5264f21df"
+        },
+        {
+          "date": "2015-10-21T10:20:42.540967+03:00",
+          "amount": 488.24,
+          "bidder": "538e1b78b5fe4605863ae3248358d4ff"
+        }
+      ],
+      "time": "2015-10-22T12:04:46.002098+00:00"
+    }
+  },
+  "id": "0f8e4dfc3cb54e58b6c7ab5b815e107f",
+  "tenderId": "UA-2015-10-09-000179"
+}

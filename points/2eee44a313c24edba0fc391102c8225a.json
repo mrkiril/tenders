@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 20812.0,
+        "bid_time": "2015-11-13T15:44:36.416456+02:00",
+        "bidder": "8c1bca18e02a42aa8891dc42d8b860d4",
+        "time": "2015-11-13T13:46:20.014655+00:00"
+      },
+      "turn_1": {
+        "amount": 21300.0,
+        "bid_time": "2015-11-13T15:42:31.008859+02:00",
+        "bidder": "1aff3b25c93542e39291dee1637455b3",
+        "time": "2015-11-13T13:44:20.009604+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 18998.0,
+        "bid_time": "2015-11-13T15:50:51.418411+02:00",
+        "bidder": "8c1bca18e02a42aa8891dc42d8b860d4",
+        "time": "2015-11-13T13:52:20.009160+00:00"
+      },
+      "turn_1": {
+        "amount": 19000.0,
+        "bid_time": "2015-11-13T15:48:26.137387+02:00",
+        "bidder": "1aff3b25c93542e39291dee1637455b3",
+        "time": "2015-11-13T13:50:20.009767+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 21312.0,
+        "bid_time": "2015-11-13T15:38:29.620706+02:00",
+        "bidder": "8c1bca18e02a42aa8891dc42d8b860d4",
+        "time": "2015-11-13T13:40:20.011346+00:00"
+      },
+      "turn_1": {
+        "amount": 21800.0,
+        "bid_time": "2015-11-13T15:36:52.185998+02:00",
+        "bidder": "1aff3b25c93542e39291dee1637455b3",
+        "time": "2015-11-13T13:38:20.010389+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1aff3b25c93542e39291dee1637455b3",
+          "amount": 19000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://posudar.com.ua/",
+                "telephone": "+38976899090",
+                "name": "ТОВ \"Посударь\"",
+                "email": "shaposhnikov.andrey@psf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39353909",
+                "legalName": "ТОВ \"Посударь\""
+              },
+              "name": "ТОВ \"Посударь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69057, Запоріжжя, вул. Адмирала Ннахімова, будинок №3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-13T15:48:26.137387+02:00"
+        },
+        {
+          "bidder": "8c1bca18e02a42aa8891dc42d8b860d4",
+          "amount": 18998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-13T15:50:51.418411+02:00"
+        }
+      ],
+      "time": "2015-11-13T13:52:22.377767+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T15:34:39.869434+02:00",
+          "amount": 24349.14,
+          "bidder": "1aff3b25c93542e39291dee1637455b3"
+        },
+        {
+          "date": "2015-11-12T11:53:05.862604+02:00",
+          "amount": 21812.0,
+          "bidder": "8c1bca18e02a42aa8891dc42d8b860d4"
+        }
+      ],
+      "time": "2015-11-13T13:31:20.006074+00:00"
+    }
+  },
+  "id": "2eee44a313c24edba0fc391102c8225a",
+  "tenderId": "UA-2015-11-04-000381"
+}

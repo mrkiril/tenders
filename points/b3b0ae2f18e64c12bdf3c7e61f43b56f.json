@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "34590b13fd8d4f3bae89c688f66c0daf",
+        "time": "2015-12-15T12:59:49.029764+00:00"
+      },
+      "turn_3": {
+        "bidder": "eebedce43f514825817c1e82c9ec4fce",
+        "time": "2015-12-15T13:01:49.024532+00:00"
+      },
+      "turn_1": {
+        "bidder": "afebaa8d3afe41109df4f9e72f9846c5",
+        "time": "2015-12-15T12:57:49.009042+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "34590b13fd8d4f3bae89c688f66c0daf",
+        "time": "2015-12-15T13:07:49.008673+00:00"
+      },
+      "turn_3": {
+        "bidder": "eebedce43f514825817c1e82c9ec4fce",
+        "time": "2015-12-15T13:09:49.008548+00:00"
+      },
+      "turn_1": {
+        "bidder": "afebaa8d3afe41109df4f9e72f9846c5",
+        "time": "2015-12-15T13:05:49.008130+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "34590b13fd8d4f3bae89c688f66c0daf",
+        "time": "2015-12-15T12:51:49.009090+00:00"
+      },
+      "turn_3": {
+        "bidder": "eebedce43f514825817c1e82c9ec4fce",
+        "time": "2015-12-15T12:53:49.008943+00:00"
+      },
+      "turn_1": {
+        "bidder": "afebaa8d3afe41109df4f9e72f9846c5",
+        "time": "2015-12-15T12:49:49.009533+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "afebaa8d3afe41109df4f9e72f9846c5",
+          "amount": 26000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T16:55:07.401727+02:00"
+        },
+        {
+          "bidder": "34590b13fd8d4f3bae89c688f66c0daf",
+          "amount": 24840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979259444",
+                "name": "Степанський Олександр Валерійович",
+                "email": "lfarmgroup@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39877007"
+              },
+              "name": "ТОВ ЛОГІСТІК ФАРМ ГРУП",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49128",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Метробудівська, буд.3, прим. 7",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-14T11:00:50.611387+02:00"
+        },
+        {
+          "bidder": "eebedce43f514825817c1e82c9ec4fce",
+          "amount": 22296.66,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577563604",
+                "telephone": "0577563603",
+                "name": "Пещикова Марина Михайлівна",
+                "email": "apteka095@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38218086",
+                "legalName": "ТОВ \"Аметрін ФК\""
+              },
+              "name": "ТОВ \"Аметрін ФК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська",
+                "streetAddress": "Юріївська, 17",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-12T13:42:20.075682+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:09:50.040603+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T16:55:07.401727+02:00",
+          "amount": 26000.0,
+          "bidder": "afebaa8d3afe41109df4f9e72f9846c5"
+        },
+        {
+          "date": "2015-12-14T11:00:50.611387+02:00",
+          "amount": 24840.0,
+          "bidder": "34590b13fd8d4f3bae89c688f66c0daf"
+        },
+        {
+          "date": "2015-12-12T13:42:20.075682+02:00",
+          "amount": 22296.66,
+          "bidder": "eebedce43f514825817c1e82c9ec4fce"
+        }
+      ],
+      "time": "2015-12-15T12:42:49.004906+00:00"
+    }
+  },
+  "id": "b3b0ae2f18e64c12bdf3c7e61f43b56f",
+  "tenderId": "UA-2015-12-11-000025-a"
+}

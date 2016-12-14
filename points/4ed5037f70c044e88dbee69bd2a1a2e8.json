@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9a20510d6db14128818bf8ca36af857f",
+        "time": "2015-11-17T09:15:54.024984+00:00"
+      },
+      "turn_1": {
+        "bidder": "b3b1763048e94dc39909bc478fd4efb8",
+        "time": "2015-11-17T09:13:54.007492+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9a20510d6db14128818bf8ca36af857f",
+        "time": "2015-11-17T09:21:54.007554+00:00"
+      },
+      "turn_1": {
+        "bidder": "b3b1763048e94dc39909bc478fd4efb8",
+        "time": "2015-11-17T09:19:54.007094+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9a20510d6db14128818bf8ca36af857f",
+        "time": "2015-11-17T09:09:54.007397+00:00"
+      },
+      "turn_1": {
+        "bidder": "b3b1763048e94dc39909bc478fd4efb8",
+        "time": "2015-11-17T09:07:54.011051+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b3b1763048e94dc39909bc478fd4efb8",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-10T12:44:33.154139+02:00"
+        },
+        {
+          "bidder": "9a20510d6db14128818bf8ca36af857f",
+          "amount": 1406.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T16:16:56.950509+02:00"
+        }
+      ],
+      "time": "2015-11-17T09:21:56.402716+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T12:44:33.154139+02:00",
+          "amount": 3000.0,
+          "bidder": "b3b1763048e94dc39909bc478fd4efb8"
+        },
+        {
+          "date": "2015-11-16T16:16:56.950509+02:00",
+          "amount": 1406.04,
+          "bidder": "9a20510d6db14128818bf8ca36af857f"
+        }
+      ],
+      "time": "2015-11-17T09:00:54.002517+00:00"
+    }
+  },
+  "id": "4ed5037f70c044e88dbee69bd2a1a2e8",
+  "tenderId": "UA-2015-11-04-000293"
+}

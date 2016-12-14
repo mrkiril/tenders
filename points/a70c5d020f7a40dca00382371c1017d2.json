@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0385e73acab74f2fa745fbf14a6e70be",
+        "time": "2015-10-13T12:58:50.006994+00:00"
+      },
+      "turn_1": {
+        "bidder": "fadb4237256f4253913c230b9e38db7d",
+        "time": "2015-10-13T12:56:50.006839+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0385e73acab74f2fa745fbf14a6e70be",
+        "time": "2015-10-13T13:04:50.007006+00:00"
+      },
+      "turn_1": {
+        "bidder": "fadb4237256f4253913c230b9e38db7d",
+        "time": "2015-10-13T13:02:50.006669+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0385e73acab74f2fa745fbf14a6e70be",
+        "time": "2015-10-13T12:52:50.007339+00:00"
+      },
+      "turn_1": {
+        "bidder": "fadb4237256f4253913c230b9e38db7d",
+        "time": "2015-10-13T12:50:50.007438+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fadb4237256f4253913c230b9e38db7d",
+          "amount": 11600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0442460440",
+                "name": "Павлюк Надія Олександрівна",
+                "email": "medical.commers@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38737679",
+                "legalName": "Товариство з обмеженою відповідальністю \"МЕДІКАЛ КОМЕРС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"МЕДІКАЛ КОМЕРС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "Київська",
+                "streetAddress": "вулиця Балукова, будинок 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T17:54:26.467361+03:00"
+        },
+        {
+          "bidder": "0385e73acab74f2fa745fbf14a6e70be",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T17:49:09.243699+03:00"
+        }
+      ],
+      "time": "2015-10-13T13:04:52.982157+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T17:54:26.467361+03:00",
+          "amount": 11600.0,
+          "bidder": "fadb4237256f4253913c230b9e38db7d"
+        },
+        {
+          "date": "2015-10-09T17:49:09.243699+03:00",
+          "amount": 11500.0,
+          "bidder": "0385e73acab74f2fa745fbf14a6e70be"
+        }
+      ],
+      "time": "2015-10-13T12:43:50.002670+00:00"
+    }
+  },
+  "id": "a70c5d020f7a40dca00382371c1017d2",
+  "tenderId": "UA-2015-10-08-000181"
+}

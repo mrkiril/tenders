@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1520.0,
+        "bid_time": "2015-10-30T14:52:43.300570+02:00",
+        "bidder": "f2f1faf906a444d5bf34dc2ed2ff83bc",
+        "time": "2015-10-30T12:54:29.009172+00:00"
+      },
+      "turn_1": {
+        "bidder": "22df349e608c4bdca195f26b6b7327a9",
+        "time": "2015-10-30T12:52:29.007957+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f2f1faf906a444d5bf34dc2ed2ff83bc",
+        "time": "2015-10-30T13:00:29.008013+00:00"
+      },
+      "turn_1": {
+        "bidder": "22df349e608c4bdca195f26b6b7327a9",
+        "time": "2015-10-30T12:58:29.007079+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1550.0,
+        "bid_time": "2015-10-30T14:46:45.160328+02:00",
+        "bidder": "f2f1faf906a444d5bf34dc2ed2ff83bc",
+        "time": "2015-10-30T12:48:29.008175+00:00"
+      },
+      "turn_1": {
+        "bidder": "22df349e608c4bdca195f26b6b7327a9",
+        "time": "2015-10-30T12:46:29.009981+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "22df349e608c4bdca195f26b6b7327a9",
+          "amount": 1926.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdetalon.com.ua",
+                "telephone": "+380505493114",
+                "name": "ТОВ \"ТД \"Еталон\"",
+                "email": "tdetalon83@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31815755",
+                "legalName": "ТОВ \"ТД \"Еталон\""
+              },
+              "name": "ТОВ \"ТД \"Еталон\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04050, м.Київ, вул.Мельникова 12",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T11:42:05.612245+02:00"
+        },
+        {
+          "bidder": "f2f1faf906a444d5bf34dc2ed2ff83bc",
+          "amount": 1520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://electronica-n.com.ua/",
+                "telephone": "+380512230368",
+                "name": "Товариство з обмеженою відповідальністю «Техно-Торгівельний Центр «Електроніка-Н»",
+                "email": "elektr@mksat.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35176688",
+                "legalName": "Товариство з обмеженою відповідальністю «Техно-Торгівельний Центр «Електроніка-Н»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Техно-Торгівельний Центр «Електроніка-Н»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "54028, Миколаївська обл., місто Миколаїв, ВУЛ.КОСМОНАВТІВ, будинок 100",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T14:52:43.300570+02:00"
+        }
+      ],
+      "time": "2015-10-30T13:01:06.247589+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T11:42:05.612245+02:00",
+          "amount": 1926.0,
+          "bidder": "22df349e608c4bdca195f26b6b7327a9"
+        },
+        {
+          "date": "2015-10-28T13:44:05.696874+02:00",
+          "amount": 1580.0,
+          "bidder": "f2f1faf906a444d5bf34dc2ed2ff83bc"
+        }
+      ],
+      "time": "2015-10-30T12:39:29.004068+00:00"
+    }
+  },
+  "id": "059ec0e6c5264d4fbd22625a2453f78b",
+  "tenderId": "UA-2015-10-23-000162"
+}

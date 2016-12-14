@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2280.0,
+        "bid_time": "2015-08-17T11:16:23.050908+03:00",
+        "bidder": "e40af727d8b4400ea16149b4aa41ae70",
+        "time": "2015-08-17T08:17:00.087656+00:00"
+      },
+      "turn_3": {
+        "bidder": "4c53488aaa8f43f99b89d68faf78945f",
+        "time": "2015-08-17T08:19:00.150887+00:00"
+      },
+      "turn_1": {
+        "bidder": "211a17c772b643dfa1ad809e719700e4",
+        "time": "2015-08-17T08:15:00.088244+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1880.0,
+        "bid_time": "2015-08-17T11:23:38.531983+03:00",
+        "bidder": "e40af727d8b4400ea16149b4aa41ae70",
+        "time": "2015-08-17T08:25:00.025692+00:00"
+      },
+      "turn_3": {
+        "bidder": "4c53488aaa8f43f99b89d68faf78945f",
+        "time": "2015-08-17T08:27:00.038524+00:00"
+      },
+      "turn_1": {
+        "amount": 2280.0,
+        "bid_time": "2015-08-17T11:21:26.188967+03:00",
+        "bidder": "211a17c772b643dfa1ad809e719700e4",
+        "time": "2015-08-17T08:23:00.028857+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "211a17c772b643dfa1ad809e719700e4",
+        "time": "2015-08-17T08:09:00.127983+00:00"
+      },
+      "turn_3": {
+        "bidder": "4c53488aaa8f43f99b89d68faf78945f",
+        "time": "2015-08-17T08:11:00.106633+00:00"
+      },
+      "turn_1": {
+        "amount": 2290.0,
+        "bid_time": "2015-08-17T11:05:20.874114+03:00",
+        "bidder": "e40af727d8b4400ea16149b4aa41ae70",
+        "time": "2015-08-17T08:07:00.072614+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "211a17c772b643dfa1ad809e719700e4",
+          "amount": 2280.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443832708, +380674805160, +380663503197, +380630654616",
+                "name": "Дмитрий",
+                "email": "dmitro.frolov@ecoproekt.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО \"Управляющая компания\"\"",
+                "id": "36291929",
+                "uri": "http://www.ecoproekt.com.ua/"
+              },
+              "name": "ТОВ \"ООО \"Управляющая компания\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04114",
+                "region": "Киевская",
+                "streetAddress": "уп. Полупанова, д. 21",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-17T11:21:26.188967+03:00"
+        },
+        {
+          "bidder": "4c53488aaa8f43f99b89d68faf78945f",
+          "amount": 1890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://utilcenter.com.ua",
+                "telephone": "+80930495125",
+                "name": "ТОВ \"Сучасний центр утилізації\"",
+                "email": "centrutil@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38962363",
+                "legalName": "ТОВ \"Сучасний центр утилізації\""
+              },
+              "name": "ТОВ \"Сучасний центр утилізації\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Червоноармійська 13/1, оф. 508",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-10T16:07:46.638401+03:00"
+        },
+        {
+          "bidder": "e40af727d8b4400ea16149b4aa41ae70",
+          "amount": 1880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380484641957",
+                "telephone": "+380675570513",
+                "name": "Бондаренко Олександр Олегович",
+                "email": "ekoazimut@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36385000"
+              },
+              "name": "ТОВ Екоазимут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "68643",
+                "region": "Одеська область",
+                "streetAddress": "Леніна 165",
+                "locality": "Кам’янка"
+              }
+            }
+          ],
+          "time": "2015-08-17T11:23:38.531983+03:00"
+        }
+      ],
+      "time": "2015-08-17T08:27:03.062614+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-10T15:51:08.484249+03:00",
+          "amount": 2300.0,
+          "bidder": "211a17c772b643dfa1ad809e719700e4"
+        },
+        {
+          "date": "2015-08-12T08:28:39.344426+03:00",
+          "amount": 2300.0,
+          "bidder": "e40af727d8b4400ea16149b4aa41ae70"
+        },
+        {
+          "date": "2015-08-10T16:07:46.638401+03:00",
+          "amount": 1890.0,
+          "bidder": "4c53488aaa8f43f99b89d68faf78945f"
+        }
+      ],
+      "time": "2015-08-17T08:00:00.051177+00:00"
+    }
+  },
+  "id": "00b50b4bbfe746cea4480b148163f0dc",
+  "tenderId": "UA-2015-08-03-000038"
+}

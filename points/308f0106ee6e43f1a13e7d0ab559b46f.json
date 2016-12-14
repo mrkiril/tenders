@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 11000.0,
+        "bid_time": "2015-12-10T13:26:03.243411+02:00",
+        "bidder": "4fca6288d8e9417fa40d9858ea246cab",
+        "time": "2015-12-10T11:27:51.008530+00:00"
+      },
+      "turn_3": {
+        "bidder": "cfa25a21e5db4d21b7a6d4b5fded7961",
+        "time": "2015-12-10T11:29:51.008033+00:00"
+      },
+      "turn_1": {
+        "bidder": "124a50041d5d4099816b617b84a7d122",
+        "time": "2015-12-10T11:25:51.008756+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cfa25a21e5db4d21b7a6d4b5fded7961",
+        "time": "2015-12-10T11:35:51.008083+00:00"
+      },
+      "turn_3": {
+        "bidder": "4fca6288d8e9417fa40d9858ea246cab",
+        "time": "2015-12-10T11:37:51.007255+00:00"
+      },
+      "turn_1": {
+        "bidder": "124a50041d5d4099816b617b84a7d122",
+        "time": "2015-12-10T11:33:51.006884+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 15000.0,
+        "bid_time": "2015-12-10T13:18:51.515201+02:00",
+        "bidder": "4fca6288d8e9417fa40d9858ea246cab",
+        "time": "2015-12-10T11:19:51.009667+00:00"
+      },
+      "turn_3": {
+        "amount": 14990.0,
+        "bid_time": "2015-12-10T13:20:41.797397+02:00",
+        "bidder": "cfa25a21e5db4d21b7a6d4b5fded7961",
+        "time": "2015-12-10T11:21:51.033197+00:00"
+      },
+      "turn_1": {
+        "bidder": "124a50041d5d4099816b617b84a7d122",
+        "time": "2015-12-10T11:17:51.010359+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "124a50041d5d4099816b617b84a7d122",
+          "amount": 21499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T17:04:54.381846+02:00"
+        },
+        {
+          "bidder": "cfa25a21e5db4d21b7a6d4b5fded7961",
+          "amount": 14990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443619777",
+                "name": "Поворознюк Ігор Валентинович",
+                "email": "pilotigor@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2414113430"
+              },
+              "name": "ФОП Поворознюк Ігор Валентинович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14005",
+                "region": "Чернігівська область",
+                "streetAddress": "вул. 1 Гвардійської Армії, буд.4, кв. 143",
+                "locality": "Чернігів"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:20:41.797397+02:00"
+        },
+        {
+          "bidder": "4fca6288d8e9417fa40d9858ea246cab",
+          "amount": 11000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508691679",
+                "name": "Євген Анатолійович Меркулов",
+                "email": "fop.merkulov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2841817516",
+                "legalName": "ФОП \"Меркулов Є.А.\""
+              },
+              "name": "ФОП \"Меркулов Є.А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04201",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Майорова, буд. 7, кв. 470",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:26:03.243411+02:00"
+        }
+      ],
+      "time": "2015-12-10T11:37:52.344319+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T17:04:54.381846+02:00",
+          "amount": 21499.0,
+          "bidder": "124a50041d5d4099816b617b84a7d122"
+        },
+        {
+          "date": "2015-12-09T11:15:54.136325+02:00",
+          "amount": 20000.0,
+          "bidder": "4fca6288d8e9417fa40d9858ea246cab"
+        },
+        {
+          "date": "2015-12-09T10:42:58.149230+02:00",
+          "amount": 17500.0,
+          "bidder": "cfa25a21e5db4d21b7a6d4b5fded7961"
+        }
+      ],
+      "time": "2015-12-10T11:10:51.003688+00:00"
+    }
+  },
+  "id": "308f0106ee6e43f1a13e7d0ab559b46f",
+  "tenderId": "UA-2015-12-03-000156-a"
+}

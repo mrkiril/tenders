@@ -1,0 +1,221 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 34299.0,
+        "bid_time": "2015-10-20T15:24:24.623362+03:00",
+        "bidder": "8cc7901f3aee4b75826ec05e049b7041",
+        "time": "2015-10-20T12:25:36.013320+00:00"
+      },
+      "turn_2": {
+        "amount": 34500.0,
+        "bid_time": "2015-10-20T15:19:48.958086+03:00",
+        "bidder": "5acc7beba350475c9c1bd1db712dd936",
+        "time": "2015-10-20T12:21:36.011599+00:00"
+      },
+      "turn_3": {
+        "amount": 34300.0,
+        "bid_time": "2015-10-20T15:22:22.496589+03:00",
+        "bidder": "d1f8bd6b61854c2db9a15fae31ba0d21",
+        "time": "2015-10-20T12:23:36.011983+00:00"
+      },
+      "turn_1": {
+        "bidder": "686fa330f6b44c11b56a8a3fd71bf69e",
+        "time": "2015-10-20T12:19:36.007405+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 31775.0,
+        "bid_time": "2015-10-20T15:34:04.287267+03:00",
+        "bidder": "8cc7901f3aee4b75826ec05e049b7041",
+        "time": "2015-10-20T12:35:36.011125+00:00"
+      },
+      "turn_2": {
+        "amount": 33000.0,
+        "bid_time": "2015-10-20T15:31:21.346666+03:00",
+        "bidder": "5acc7beba350475c9c1bd1db712dd936",
+        "time": "2015-10-20T12:31:36.011306+00:00"
+      },
+      "turn_3": {
+        "amount": 31777.0,
+        "bid_time": "2015-10-20T15:32:46.350271+03:00",
+        "bidder": "d1f8bd6b61854c2db9a15fae31ba0d21",
+        "time": "2015-10-20T12:33:36.017934+00:00"
+      },
+      "turn_1": {
+        "amount": 33458.0,
+        "bid_time": "2015-10-20T15:29:21.859933+03:00",
+        "bidder": "686fa330f6b44c11b56a8a3fd71bf69e",
+        "time": "2015-10-20T12:29:36.013698+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 34900.0,
+        "bid_time": "2015-10-20T15:13:49.442428+03:00",
+        "bidder": "8cc7901f3aee4b75826ec05e049b7041",
+        "time": "2015-10-20T12:15:36.008095+00:00"
+      },
+      "turn_2": {
+        "amount": 35000.0,
+        "bid_time": "2015-10-20T15:11:21.614609+03:00",
+        "bidder": "686fa330f6b44c11b56a8a3fd71bf69e",
+        "time": "2015-10-20T12:11:36.008546+00:00"
+      },
+      "turn_3": {
+        "amount": 34990.0,
+        "bid_time": "2015-10-20T15:12:16.222538+03:00",
+        "bidder": "d1f8bd6b61854c2db9a15fae31ba0d21",
+        "time": "2015-10-20T12:13:36.008330+00:00"
+      },
+      "turn_1": {
+        "amount": 35000.0,
+        "bid_time": "2015-10-20T15:07:49.932272+03:00",
+        "bidder": "5acc7beba350475c9c1bd1db712dd936",
+        "time": "2015-10-20T12:09:36.009615+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "686fa330f6b44c11b56a8a3fd71bf69e",
+          "amount": 33458.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380965667024, +380506755865, +380332770720",
+                "name": "Олександр Ярмощук",
+                "email": "mng@elbe-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31820215",
+                "legalName": "ПП \"Ельбе УА\""
+              },
+              "name": "ПП \"Ельбе УА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "43025",
+                "region": "Волынская",
+                "streetAddress": "вул. Винниченка 35/1",
+                "locality": "м. Луцьк"
+              }
+            }
+          ],
+          "time": "2015-10-20T15:29:21.859933+03:00"
+        },
+        {
+          "bidder": "5acc7beba350475c9c1bd1db712dd936",
+          "amount": 33000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38(097) 2420800, +38(048) 772-89-74",
+                "name": "Александр Строчковский",
+                "email": "rollsys@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"«Автоматичні системи»\"",
+                "id": "37680344",
+                "uri": "http://as.org.ua"
+              },
+              "name": "ПП \"«Автоматичні системи»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65072",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-20T15:31:21.346666+03:00"
+        },
+        {
+          "bidder": "d1f8bd6b61854c2db9a15fae31ba0d21",
+          "amount": 31777.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380456307338, +380669222012, +380967545550",
+                "name": "Віктор",
+                "email": "vorota.kharkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2816412319",
+                "legalName": "ФОП \"Мурзін  Віктор  Володимирович\""
+              },
+              "name": "ФОП \"Мурзін  Віктор  Володимирович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "09113",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "м. Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-10-20T15:32:46.350271+03:00"
+        },
+        {
+          "bidder": "8cc7901f3aee4b75826ec05e049b7041",
+          "amount": 31775.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674418585",
+                "name": "Олег Волощук",
+                "email": "ov@vipastech.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044807",
+                "legalName": "ТОВ \"Віпастех\""
+              },
+              "name": "ТОВ \"Віпастех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65055",
+                "region": "Одесская",
+                "streetAddress": "г.Одесса, ул. Героев Комсомольцев, 49Б",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-20T15:34:04.287267+03:00"
+        }
+      ],
+      "time": "2015-10-20T12:36:02.011957+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-14T22:52:18.181718+03:00",
+          "amount": 41000.0,
+          "bidder": "5acc7beba350475c9c1bd1db712dd936"
+        },
+        {
+          "date": "2015-10-19T15:22:30.181294+03:00",
+          "amount": 40545.01,
+          "bidder": "686fa330f6b44c11b56a8a3fd71bf69e"
+        },
+        {
+          "date": "2015-10-17T14:18:57.287363+03:00",
+          "amount": 36400.0,
+          "bidder": "d1f8bd6b61854c2db9a15fae31ba0d21"
+        },
+        {
+          "date": "2015-10-19T15:52:17.517713+03:00",
+          "amount": 35412.0,
+          "bidder": "8cc7901f3aee4b75826ec05e049b7041"
+        }
+      ],
+      "time": "2015-10-20T12:02:36.002265+00:00"
+    }
+  },
+  "id": "3fb040b53f1943abb9d1144d5ea202ef",
+  "tenderId": "UA-2015-10-06-000284"
+}

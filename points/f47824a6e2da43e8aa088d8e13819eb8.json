@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "27fd0378f31d4d64aefa08ff5d2df38e",
+        "time": "2015-08-17T08:15:00.076399+00:00"
+      },
+      "turn_1": {
+        "bidder": "892eea01886942f1bb5b9dc8f2484f88",
+        "time": "2015-08-17T08:13:00.093058+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "27fd0378f31d4d64aefa08ff5d2df38e",
+        "time": "2015-08-17T08:21:00.326064+00:00"
+      },
+      "turn_1": {
+        "bidder": "892eea01886942f1bb5b9dc8f2484f88",
+        "time": "2015-08-17T08:19:00.096933+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "27fd0378f31d4d64aefa08ff5d2df38e",
+        "time": "2015-08-17T08:09:00.132803+00:00"
+      },
+      "turn_1": {
+        "bidder": "892eea01886942f1bb5b9dc8f2484f88",
+        "time": "2015-08-17T08:07:00.156718+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "892eea01886942f1bb5b9dc8f2484f88",
+          "amount": 12347.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38(097) 2420800, +38(048) 772-89-74",
+                "name": "Александр Строчковский",
+                "email": "rollsys@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"«Автоматичні системи»\"",
+                "id": "37680344",
+                "uri": "http://as.org.ua"
+              },
+              "name": "ПП \"«Автоматичні системи»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65072",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-08-12T15:31:42.361111+03:00"
+        },
+        {
+          "bidder": "27fd0378f31d4d64aefa08ff5d2df38e",
+          "amount": 12347.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.as.org.ua/",
+                "telephone": "380972420800, 380487728974",
+                "name": "Александр Строчковский ",
+                "email": "rollsys@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37680344",
+                "legalName": ""
+              },
+              "name": "ЧП\"Автоматические системы\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "Одесса, 65072, Терешковой 39\\3 кв 4"
+              }
+            }
+          ],
+          "time": "2015-08-14T00:49:02.185579+03:00"
+        }
+      ],
+      "time": "2015-08-17T08:21:14.317980+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-12T15:31:42.361111+03:00",
+          "amount": 12347.5,
+          "bidder": "892eea01886942f1bb5b9dc8f2484f88"
+        },
+        {
+          "date": "2015-08-14T00:49:02.185579+03:00",
+          "amount": 12347.0,
+          "bidder": "27fd0378f31d4d64aefa08ff5d2df38e"
+        }
+      ],
+      "time": "2015-08-17T08:00:00.048547+00:00"
+    }
+  },
+  "id": "f47824a6e2da43e8aa088d8e13819eb8",
+  "tenderId": "UA-2015-08-05-000123"
+}

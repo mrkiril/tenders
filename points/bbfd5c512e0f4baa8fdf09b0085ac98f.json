@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aea42f3c119f482fbe37a5fb08ffb921",
+        "time": "2015-11-17T13:23:55.008210+00:00"
+      },
+      "turn_3": {
+        "bidder": "ee7dd7cddfb74b6988c347d8f43c7190",
+        "time": "2015-11-17T13:25:55.008911+00:00"
+      },
+      "turn_1": {
+        "bidder": "be7c0d97b417471c840bd70cb5b5e701",
+        "time": "2015-11-17T13:21:55.008158+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aea42f3c119f482fbe37a5fb08ffb921",
+        "time": "2015-11-17T13:31:55.008612+00:00"
+      },
+      "turn_3": {
+        "bidder": "ee7dd7cddfb74b6988c347d8f43c7190",
+        "time": "2015-11-17T13:33:55.008451+00:00"
+      },
+      "turn_1": {
+        "bidder": "be7c0d97b417471c840bd70cb5b5e701",
+        "time": "2015-11-17T13:29:55.008345+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 17100.0,
+        "bid_time": "2015-11-17T15:15:51.014636+02:00",
+        "bidder": "aea42f3c119f482fbe37a5fb08ffb921",
+        "time": "2015-11-17T13:15:55.019963+00:00"
+      },
+      "turn_3": {
+        "amount": 16738.0,
+        "bid_time": "2015-11-17T15:17:37.153584+02:00",
+        "bidder": "ee7dd7cddfb74b6988c347d8f43c7190",
+        "time": "2015-11-17T13:17:55.009187+00:00"
+      },
+      "turn_1": {
+        "bidder": "be7c0d97b417471c840bd70cb5b5e701",
+        "time": "2015-11-17T13:13:55.008327+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "be7c0d97b417471c840bd70cb5b5e701",
+          "amount": 19800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-262-44-66",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "potato@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-09T16:40:58.915864+02:00"
+        },
+        {
+          "bidder": "aea42f3c119f482fbe37a5fb08ffb921",
+          "amount": 17100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-17T15:15:51.014636+02:00"
+        },
+        {
+          "bidder": "ee7dd7cddfb74b6988c347d8f43c7190",
+          "amount": 16738.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://negociant.poltava.ua",
+                "faxNumber": "0532508305",
+                "telephone": "0532508305",
+                "name": "Сергієнко Іванович Володимир",
+                "email": "prod.svi@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3019512776",
+                "legalName": "Фізична особа-підприємець Сергієнко Володимир Іванович"
+              },
+              "name": "Фізична особа-підприємець Сергієнко Володимир Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36029",
+                "region": "Полтавська",
+                "streetAddress": "Шведська",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-17T15:17:37.153584+02:00"
+        }
+      ],
+      "time": "2015-11-17T13:34:02.780349+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T16:40:58.915864+02:00",
+          "amount": 19800.0,
+          "bidder": "be7c0d97b417471c840bd70cb5b5e701"
+        },
+        {
+          "date": "2015-11-10T08:44:49.577265+02:00",
+          "amount": 19700.0,
+          "bidder": "aea42f3c119f482fbe37a5fb08ffb921"
+        },
+        {
+          "date": "2015-11-13T16:33:52.937406+02:00",
+          "amount": 17138.88,
+          "bidder": "ee7dd7cddfb74b6988c347d8f43c7190"
+        }
+      ],
+      "time": "2015-11-17T13:06:55.003178+00:00"
+    }
+  },
+  "id": "bbfd5c512e0f4baa8fdf09b0085ac98f",
+  "tenderId": "UA-2015-11-02-000089"
+}

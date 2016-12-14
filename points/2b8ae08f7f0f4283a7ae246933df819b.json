@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c9ae22526ac04b9994500b2111b5ab7e",
+        "time": "2015-11-10T13:25:32.023807+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e139f8cd95a4f00a05fa18fe1eea468",
+        "time": "2015-11-10T13:23:32.014423+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c9ae22526ac04b9994500b2111b5ab7e",
+        "time": "2015-11-10T13:31:32.009278+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e139f8cd95a4f00a05fa18fe1eea468",
+        "time": "2015-11-10T13:29:32.011350+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c9ae22526ac04b9994500b2111b5ab7e",
+        "time": "2015-11-10T13:19:32.008698+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e139f8cd95a4f00a05fa18fe1eea468",
+        "time": "2015-11-10T13:17:32.009449+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8e139f8cd95a4f00a05fa18fe1eea468",
+          "amount": 29956.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504148153",
+                "name": "Семен Ландин",
+                "email": "landin@scformula.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3831521804",
+                "legalName": "ТОВ \"Торговый дом СКФ\""
+              },
+              "name": "ТОВ \"Торговый дом СКФ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49010",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Академика Лазаряна, 3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-05T09:47:41.627201+02:00"
+        },
+        {
+          "bidder": "c9ae22526ac04b9994500b2111b5ab7e",
+          "amount": 29200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T16:45:27.530661+02:00"
+        }
+      ],
+      "time": "2015-11-10T13:31:33.826054+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T09:47:41.627201+02:00",
+          "amount": 29956.4,
+          "bidder": "8e139f8cd95a4f00a05fa18fe1eea468"
+        },
+        {
+          "date": "2015-11-06T16:45:27.530661+02:00",
+          "amount": 29200.0,
+          "bidder": "c9ae22526ac04b9994500b2111b5ab7e"
+        }
+      ],
+      "time": "2015-11-10T13:10:32.003252+00:00"
+    }
+  },
+  "id": "2b8ae08f7f0f4283a7ae246933df819b",
+  "tenderId": "UA-2015-11-03-000250"
+}

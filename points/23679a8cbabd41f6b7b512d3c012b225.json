@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2675f0294be445018b409013db94e527",
+        "time": "2015-11-10T10:45:09.014519+00:00"
+      },
+      "turn_1": {
+        "bidder": "afe4d7dd44244c7697370dc885b234ad",
+        "time": "2015-11-10T10:43:09.015236+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2675f0294be445018b409013db94e527",
+        "time": "2015-11-10T10:51:09.017168+00:00"
+      },
+      "turn_1": {
+        "bidder": "afe4d7dd44244c7697370dc885b234ad",
+        "time": "2015-11-10T10:49:09.010228+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2675f0294be445018b409013db94e527",
+        "time": "2015-11-10T10:39:09.007631+00:00"
+      },
+      "turn_1": {
+        "bidder": "afe4d7dd44244c7697370dc885b234ad",
+        "time": "2015-11-10T10:37:09.011211+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "afe4d7dd44244c7697370dc885b234ad",
+          "amount": 11550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://yuvis.com.ua",
+                "telephone": "+380444618763",
+                "name": "SSS SSS SSS",
+                "email": "tav@yuvis.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31351527"
+              },
+              "name": "ТОВ Yuvis LLC",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська область",
+                "streetAddress": "8 Moscowskyi av., 16A housing",
+                "locality": "Kyiv"
+              }
+            }
+          ],
+          "time": "2015-11-05T10:04:45.038528+02:00"
+        },
+        {
+          "bidder": "2675f0294be445018b409013db94e527",
+          "amount": 11530.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504534321",
+                "name": "ФОП  Андрющенко Марина Євгенівна",
+                "email": "a3and@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2720525429",
+                "legalName": "ФОП  Андрющенко Марина Євгенівна"
+              },
+              "name": "ФОП  Андрющенко Марина Євгенівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Дн-ська обл., пгт.Покровське\r\nПроул.Степовий,40,   53600",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T12:24:53.753641+02:00"
+        }
+      ],
+      "time": "2015-11-10T10:51:12.013741+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T10:04:45.038528+02:00",
+          "amount": 11550.0,
+          "bidder": "afe4d7dd44244c7697370dc885b234ad"
+        },
+        {
+          "date": "2015-11-09T12:24:53.753641+02:00",
+          "amount": 11530.0,
+          "bidder": "2675f0294be445018b409013db94e527"
+        }
+      ],
+      "time": "2015-11-10T10:30:09.006191+00:00"
+    }
+  },
+  "id": "23679a8cbabd41f6b7b512d3c012b225",
+  "tenderId": "UA-2015-11-02-000237"
+}

@@ -1,0 +1,215 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 2165.0,
+        "bid_time": "2015-11-19T13:24:25.010033+02:00",
+        "bidder": "e870fc6aafaf4dd9a580f7a2d8a2c803",
+        "time": "2015-11-19T11:25:29.036706+00:00"
+      },
+      "turn_2": {
+        "bidder": "e13bcfe81c194f75aa1afb43a7c1740a",
+        "time": "2015-11-19T11:21:29.009789+00:00"
+      },
+      "turn_3": {
+        "amount": 2175.0,
+        "bid_time": "2015-11-19T13:23:05.841018+02:00",
+        "bidder": "f8229f0a8a264d06ae83d41b32431d90",
+        "time": "2015-11-19T11:23:29.011855+00:00"
+      },
+      "turn_1": {
+        "amount": 2170.0,
+        "bid_time": "2015-11-19T13:19:10.241803+02:00",
+        "bidder": "e372788b85a44e5fad21f01970fa2bea",
+        "time": "2015-11-19T11:19:29.010848+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 1995.0,
+        "bid_time": "2015-11-19T13:34:05.264684+02:00",
+        "bidder": "e870fc6aafaf4dd9a580f7a2d8a2c803",
+        "time": "2015-11-19T11:35:29.017353+00:00"
+      },
+      "turn_2": {
+        "amount": 2000.0,
+        "bid_time": "2015-11-19T13:29:50.601598+02:00",
+        "bidder": "f8229f0a8a264d06ae83d41b32431d90",
+        "time": "2015-11-19T11:31:29.010350+00:00"
+      },
+      "turn_3": {
+        "amount": 1800.0,
+        "bid_time": "2015-11-19T13:33:25.171841+02:00",
+        "bidder": "e372788b85a44e5fad21f01970fa2bea",
+        "time": "2015-11-19T11:33:29.022200+00:00"
+      },
+      "turn_1": {
+        "amount": 1876.0,
+        "bid_time": "2015-11-19T13:27:41.404197+02:00",
+        "bidder": "e13bcfe81c194f75aa1afb43a7c1740a",
+        "time": "2015-11-19T11:29:29.012012+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "f8229f0a8a264d06ae83d41b32431d90",
+        "time": "2015-11-19T11:15:29.010028+00:00"
+      },
+      "turn_2": {
+        "bidder": "e13bcfe81c194f75aa1afb43a7c1740a",
+        "time": "2015-11-19T11:11:29.011139+00:00"
+      },
+      "turn_3": {
+        "amount": 2180.0,
+        "bid_time": "2015-11-19T13:11:57.853028+02:00",
+        "bidder": "e870fc6aafaf4dd9a580f7a2d8a2c803",
+        "time": "2015-11-19T11:13:29.013336+00:00"
+      },
+      "turn_1": {
+        "bidder": "e372788b85a44e5fad21f01970fa2bea",
+        "time": "2015-11-19T11:09:29.008763+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f8229f0a8a264d06ae83d41b32431d90",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952793624",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:29:50.601598+02:00"
+        },
+        {
+          "bidder": "e870fc6aafaf4dd9a580f7a2d8a2c803",
+          "amount": 1995.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380414326716, +380983436728",
+                "name": "Ігор Мельник",
+                "email": "tranzit.tender@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24699810",
+                "legalName": "ТОВ \"Транзит-С\""
+              },
+              "name": "ТОВ \"Транзит-С\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "13300",
+                "region": "Житомирская",
+                "streetAddress": "Європейська, буд. 8, м. БЕРДИЧІВ, ЖИТОМИРСЬКА обл., 13300",
+                "locality": "Бердичев"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:34:05.264684+02:00"
+        },
+        {
+          "bidder": "e13bcfe81c194f75aa1afb43a7c1740a",
+          "amount": 1876.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-262-44-66",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "potato@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:27:41.404197+02:00"
+        },
+        {
+          "bidder": "e372788b85a44e5fad21f01970fa2bea",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380988379397",
+                "name": "Александр Малиновский",
+                "email": "mail.alextrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Малиновський Олександр Леонідович\"",
+                "id": "3256706236",
+                "uri": "http://www.alex-trade.com.ua"
+              },
+              "name": "ФОП \"Малиновський Олександр Леонідович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21050",
+                "region": "Виницкая",
+                "streetAddress": "ул. Стеценка, 75-А, оф. №52",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:33:25.171841+02:00"
+        }
+      ],
+      "time": "2015-11-19T11:35:34.334546+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-15T18:17:18.707565+02:00",
+          "amount": 2500.0,
+          "bidder": "e13bcfe81c194f75aa1afb43a7c1740a"
+        },
+        {
+          "date": "2015-11-16T14:08:08.724003+02:00",
+          "amount": 2500.0,
+          "bidder": "e372788b85a44e5fad21f01970fa2bea"
+        },
+        {
+          "date": "2015-11-18T10:26:15.742199+02:00",
+          "amount": 2350.0,
+          "bidder": "e870fc6aafaf4dd9a580f7a2d8a2c803"
+        },
+        {
+          "date": "2015-11-17T13:41:59.517682+02:00",
+          "amount": 2186.64,
+          "bidder": "f8229f0a8a264d06ae83d41b32431d90"
+        }
+      ],
+      "time": "2015-11-19T11:02:29.004145+00:00"
+    }
+  },
+  "id": "24f701bcc6f84bdd896fd1281a82cdbe",
+  "tenderId": "UA-2015-11-11-000032"
+}

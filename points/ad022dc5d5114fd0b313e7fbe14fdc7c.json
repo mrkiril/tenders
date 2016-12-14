@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4a90a68ab5bf4bd9b1e9c343a5db6b52",
+        "time": "2015-10-12T10:17:19.008785+00:00"
+      },
+      "turn_3": {
+        "bidder": "1c4ea955a0b7444d9f25ec56264516e0",
+        "time": "2015-10-12T10:19:19.013598+00:00"
+      },
+      "turn_1": {
+        "amount": 48020.0,
+        "bid_time": "2015-10-12T13:14:37.379292+03:00",
+        "bidder": "2c95524099fc4b5c85e942920be678c7",
+        "time": "2015-10-12T10:15:19.011766+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2c95524099fc4b5c85e942920be678c7",
+        "time": "2015-10-12T10:25:19.012446+00:00"
+      },
+      "turn_3": {
+        "bidder": "1c4ea955a0b7444d9f25ec56264516e0",
+        "time": "2015-10-12T10:27:19.016032+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a90a68ab5bf4bd9b1e9c343a5db6b52",
+        "time": "2015-10-12T10:23:19.009890+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4a90a68ab5bf4bd9b1e9c343a5db6b52",
+        "time": "2015-10-12T10:09:19.011495+00:00"
+      },
+      "turn_3": {
+        "bidder": "1c4ea955a0b7444d9f25ec56264516e0",
+        "time": "2015-10-12T10:11:19.010607+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c95524099fc4b5c85e942920be678c7",
+        "time": "2015-10-12T10:07:19.014853+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4a90a68ab5bf4bd9b1e9c343a5db6b52",
+          "amount": 48500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676111997",
+                "name": "Тимошенко Андрій",
+                "email": "support@locarus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"“ЛОКАРУС УКРАЇНА”\"",
+                "id": "0037799048",
+                "uri": "http://www.locarus.com.ua/"
+              },
+              "name": "ТОВ \"“ЛОКАРУС УКРАЇНА”\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52400",
+                "region": "Днепропетровская",
+                "streetAddress": "Солонянський р-н, смт. Солоне, вул. Гагаріна 12А, оф. 5",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-07T16:11:07.927037+03:00"
+        },
+        {
+          "bidder": "2c95524099fc4b5c85e942920be678c7",
+          "amount": 48020.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrnavi.com/",
+                "telephone": "0936367807",
+                "name": "Роман Захватаев ",
+                "email": "ceo@ukrohorona.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37475634",
+                "legalName": ""
+              },
+              "name": "ООО \"Украинские навигационные системы\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "65000, г. Одесса, ул. Нежинская, 44"
+              }
+            }
+          ],
+          "time": "2015-10-12T13:14:37.379292+03:00"
+        },
+        {
+          "bidder": "1c4ea955a0b7444d9f25ec56264516e0",
+          "amount": 40750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0971129099",
+                "name": "Роман Захватаев ",
+                "email": "business12@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37873262",
+                "legalName": ""
+              },
+              "name": "ООО \"АБ \"ГЮРЗА\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "65000, г. Одесса, ул. Посмитного, 2"
+              }
+            }
+          ],
+          "time": "2015-10-09T16:44:12.996392+03:00"
+        }
+      ],
+      "time": "2015-10-12T10:27:23.250832+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T16:11:07.927037+03:00",
+          "amount": 48500.0,
+          "bidder": "4a90a68ab5bf4bd9b1e9c343a5db6b52"
+        },
+        {
+          "date": "2015-10-08T12:52:06.739271+03:00",
+          "amount": 48500.0,
+          "bidder": "2c95524099fc4b5c85e942920be678c7"
+        },
+        {
+          "date": "2015-10-09T16:44:12.996392+03:00",
+          "amount": 40750.0,
+          "bidder": "1c4ea955a0b7444d9f25ec56264516e0"
+        }
+      ],
+      "time": "2015-10-12T10:00:19.002184+00:00"
+    }
+  },
+  "id": "ad022dc5d5114fd0b313e7fbe14fdc7c",
+  "tenderId": "UA-2015-09-28-000220"
+}

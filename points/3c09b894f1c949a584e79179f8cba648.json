@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c574479be1dd45deafe211b0aa65df76",
+        "time": "2015-10-21T12:52:14.008163+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1b7558e1a0d4c15b781ef4cb7da5b9e",
+        "time": "2015-10-21T12:50:14.012930+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c574479be1dd45deafe211b0aa65df76",
+        "time": "2015-10-21T12:58:14.008324+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1b7558e1a0d4c15b781ef4cb7da5b9e",
+        "time": "2015-10-21T12:56:14.011307+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c574479be1dd45deafe211b0aa65df76",
+        "time": "2015-10-21T12:46:14.008119+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1b7558e1a0d4c15b781ef4cb7da5b9e",
+        "time": "2015-10-21T12:44:14.009065+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d1b7558e1a0d4c15b781ef4cb7da5b9e",
+          "amount": 59999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532687276",
+                "name": "Сергій Алікович",
+                "email": "poltavakar@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37667391",
+                "legalName": "ПОЛТАВАКАР"
+              },
+              "name": "ПОЛТАВАКАР",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36008",
+                "region": "Полтавская",
+                "streetAddress": "вул. Київське Шосе,29",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-19T13:51:08.617726+03:00"
+        },
+        {
+          "bidder": "c574479be1dd45deafe211b0aa65df76",
+          "amount": 59867.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532506735",
+                "name": "Леся",
+                "email": "tov.plyus@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37306333",
+                "legalName": "Полтаваавтозапчастина плюс"
+              },
+              "name": "Полтаваавтозапчастина плюс",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36007",
+                "region": "Полтавская",
+                "streetAddress": "г. Полтава, ул. Ковпака,24",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-19T15:21:13.308658+03:00"
+        }
+      ],
+      "time": "2015-10-21T12:58:16.766947+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T13:51:08.617726+03:00",
+          "amount": 59999.0,
+          "bidder": "d1b7558e1a0d4c15b781ef4cb7da5b9e"
+        },
+        {
+          "date": "2015-10-19T15:21:13.308658+03:00",
+          "amount": 59867.0,
+          "bidder": "c574479be1dd45deafe211b0aa65df76"
+        }
+      ],
+      "time": "2015-10-21T12:37:14.003510+00:00"
+    }
+  },
+  "id": "3c09b894f1c949a584e79179f8cba648",
+  "tenderId": "UA-2015-10-06-000184"
+}

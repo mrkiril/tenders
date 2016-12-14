@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 23300.0,
+        "bid_time": "2015-07-29T11:43:34.845507+03:00",
+        "bidder": "056ed44f55c74752a1b50a515ca5338b",
+        "time": "2015-07-29T08:45:00.051396+00:00"
+      },
+      "turn_1": {
+        "amount": 23799.0,
+        "bid_time": "2015-07-29T11:42:23.539412+03:00",
+        "bidder": "3ae6adf45bd644b0a29bc40cb42fcc2a",
+        "time": "2015-07-29T08:43:00.051241+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "056ed44f55c74752a1b50a515ca5338b",
+        "time": "2015-07-29T08:51:00.074329+00:00"
+      },
+      "turn_1": {
+        "bidder": "3ae6adf45bd644b0a29bc40cb42fcc2a",
+        "time": "2015-07-29T08:49:00.087419+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3ae6adf45bd644b0a29bc40cb42fcc2a",
+        "time": "2015-07-29T08:39:00.046185+00:00"
+      },
+      "turn_1": {
+        "amount": 23800.0,
+        "bid_time": "2015-07-29T11:35:34.370721+03:00",
+        "bidder": "056ed44f55c74752a1b50a515ca5338b",
+        "time": "2015-07-29T08:37:00.063148+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3ae6adf45bd644b0a29bc40cb42fcc2a",
+          "amount": 23799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38874948",
+                "legalName": "ТОВ \"Еста Лайт\""
+              },
+              "name": "ТОВ \"Еста Лайт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36002",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-07-29T11:42:23.539412+03:00"
+        },
+        {
+          "bidder": "056ed44f55c74752a1b50a515ca5338b",
+          "amount": 23300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:43:34.845507+03:00"
+        }
+      ],
+      "time": "2015-07-29T08:51:04.454417+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T11:45:56.676378+03:00",
+          "amount": 24900.0,
+          "bidder": "056ed44f55c74752a1b50a515ca5338b"
+        },
+        {
+          "date": "2015-07-28T12:46:50.115937+03:00",
+          "amount": 24496.61,
+          "bidder": "3ae6adf45bd644b0a29bc40cb42fcc2a"
+        }
+      ],
+      "time": "2015-07-29T08:30:00.014744+00:00"
+    }
+  },
+  "id": "64673a00aff240edb8f50fb1e291e093",
+  "tenderId": "UA-2015-07-22-000033"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "67a3aed50ec447f8afec07dfff6ad2fa",
+        "time": "2015-08-27T08:15:00.133352+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e1b5ea3a2a940619d377facb7836c5f",
+        "time": "2015-08-27T08:13:00.071006+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "67a3aed50ec447f8afec07dfff6ad2fa",
+        "time": "2015-08-27T08:21:00.145259+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e1b5ea3a2a940619d377facb7836c5f",
+        "time": "2015-08-27T08:19:00.121104+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9e1b5ea3a2a940619d377facb7836c5f",
+        "time": "2015-08-27T08:09:00.046726+00:00"
+      },
+      "turn_1": {
+        "amount": 22488.0,
+        "bid_time": "2015-08-27T11:05:34.519534+03:00",
+        "bidder": "67a3aed50ec447f8afec07dfff6ad2fa",
+        "time": "2015-08-27T08:07:00.052973+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9e1b5ea3a2a940619d377facb7836c5f",
+          "amount": 22500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502837333, +380975672636, +380500500445",
+                "name": "Денис Руденко",
+                "email": "deonis777888@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39562304",
+                "legalName": "ТОВ \"ДЄОНІС ПЛЮС\""
+              },
+              "name": "ТОВ \"ДЄОНІС ПЛЮС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04176",
+                "region": "Киевская",
+                "streetAddress": "Вул. Електриків 26, корпус 43",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-25T19:21:26.521090+03:00"
+        },
+        {
+          "bidder": "67a3aed50ec447f8afec07dfff6ad2fa",
+          "amount": 22488.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0442357220",
+                "telephone": "0442357220",
+                "name": "Товариство з обмеженою відповідальністю \"Видавничий дім \"САМ\"",
+                "email": "sam_kiev@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31169661",
+                "legalName": "Товариство з обмеженою відповідальністю \"Видавничий дім \"САМ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Видавничий дім \"САМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01004",
+                "region": "Київська",
+                "streetAddress": "вул. Велика Васильківська, 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T11:05:34.519534+03:00"
+        }
+      ],
+      "time": "2015-08-27T08:21:05.996988+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-25T18:19:41.052397+03:00",
+          "amount": 24951.0,
+          "bidder": "67a3aed50ec447f8afec07dfff6ad2fa"
+        },
+        {
+          "date": "2015-08-25T19:21:26.521090+03:00",
+          "amount": 22500.0,
+          "bidder": "9e1b5ea3a2a940619d377facb7836c5f"
+        }
+      ],
+      "time": "2015-08-27T08:00:00.001200+00:00"
+    }
+  },
+  "id": "5cff0ddb78094cf683b98f4188cbbeaa",
+  "tenderId": "UA-2015-08-20-000083"
+}

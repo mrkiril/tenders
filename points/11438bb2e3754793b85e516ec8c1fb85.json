@@ -1,0 +1,125 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 16490.0,
+        "bid_time": "2015-12-14T14:21:45.100710+02:00",
+        "bidder": "ad97d63fde794eaea96952d6f503175a",
+        "time": "2015-12-14T12:23:14.008061+00:00"
+      },
+      "turn_1": {
+        "amount": 16500.0,
+        "bid_time": "2015-12-14T14:19:29.970098+02:00",
+        "bidder": "3ccdbe27bc1848659e2c4b01a95eb852",
+        "time": "2015-12-14T12:21:14.040086+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 15990.0,
+        "bid_time": "2015-12-14T14:27:29.252410+02:00",
+        "bidder": "ad97d63fde794eaea96952d6f503175a",
+        "time": "2015-12-14T12:29:14.008058+00:00"
+      },
+      "turn_1": {
+        "amount": 16000.0,
+        "bid_time": "2015-12-14T14:25:45.573426+02:00",
+        "bidder": "3ccdbe27bc1848659e2c4b01a95eb852",
+        "time": "2015-12-14T12:27:14.009578+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 16790.0,
+        "bid_time": "2015-12-14T14:15:35.044979+02:00",
+        "bidder": "ad97d63fde794eaea96952d6f503175a",
+        "time": "2015-12-14T12:17:14.009964+00:00"
+      },
+      "turn_1": {
+        "amount": 16800.0,
+        "bid_time": "2015-12-14T14:13:42.472281+02:00",
+        "bidder": "3ccdbe27bc1848659e2c4b01a95eb852",
+        "time": "2015-12-14T12:15:14.009012+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3ccdbe27bc1848659e2c4b01a95eb852",
+          "amount": 16000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://hacenter.com.ua/",
+                "faxNumber": "0443844127",
+                "telephone": "0443629370",
+                "name": "Курта Павлович Олексій",
+                "email": "office@hacenter.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38374797",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ХАЦЕНТР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02100",
+                "region": "Київська",
+                "streetAddress": "Бориспільська, 9 корпус 8, кімната 203",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T14:25:45.573426+02:00"
+        },
+        {
+          "bidder": "ad97d63fde794eaea96952d6f503175a",
+          "amount": 15990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968128216",
+                "name": "Екатерина Прокопенко",
+                "email": "pks@bitech.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"БІЛІНТЕХ УКРАЇНА\"",
+                "id": "37962954",
+                "uri": "http://bitech.com.ua"
+              },
+              "name": "ТОВ \"БІЛІНТЕХ УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03110",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Соломенская, 3, каб 2006-03",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-14T14:27:29.252410+02:00"
+        }
+      ],
+      "time": "2015-12-14T12:29:16.229936+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T15:38:51.360229+02:00",
+          "amount": 18000.0,
+          "bidder": "3ccdbe27bc1848659e2c4b01a95eb852"
+        },
+        {
+          "date": "2015-12-10T15:57:18.394148+02:00",
+          "amount": 17000.0,
+          "bidder": "ad97d63fde794eaea96952d6f503175a"
+        }
+      ],
+      "time": "2015-12-14T12:08:14.004101+00:00"
+    }
+  },
+  "id": "11438bb2e3754793b85e516ec8c1fb85",
+  "tenderId": "UA-2015-12-08-000153-a"
+}

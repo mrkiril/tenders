@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b8dbae0be8994cc093cdb8f41da9b68f",
+        "time": "2015-09-30T08:45:00.102996+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3274bee986b4771bf6d8d04b80436e8",
+        "time": "2015-09-30T08:43:00.029169+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b8dbae0be8994cc093cdb8f41da9b68f",
+        "time": "2015-09-30T08:51:00.017875+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3274bee986b4771bf6d8d04b80436e8",
+        "time": "2015-09-30T08:49:00.017179+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b8dbae0be8994cc093cdb8f41da9b68f",
+        "time": "2015-09-30T08:39:00.026362+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3274bee986b4771bf6d8d04b80436e8",
+        "time": "2015-09-30T08:37:00.025386+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c3274bee986b4771bf6d8d04b80436e8",
+          "amount": 96000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380684461218",
+                "name": "Андрей Бибиков",
+                "email": "info@bessol.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"БЕССОЛ\"",
+                "id": "36136012",
+                "uri": "http://www.bessol.com.ua"
+              },
+              "name": "ТОВ \"БЕССОЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "вул. Солом'янська, буд. 5",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-24T15:23:26.443233+03:00"
+        },
+        {
+          "bidder": "b8dbae0be8994cc093cdb8f41da9b68f",
+          "amount": 94450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://klo.kiev.ua",
+                "telephone": "+380676590503",
+                "name": "ТОВ \"Прем'єр-ліга\"",
+                "email": "belousko.d@klo.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32214641",
+                "legalName": "ТОВ \"Прем'єр-ліга\""
+              },
+              "name": "ТОВ \"Прем'єр-ліга\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08162,смт.Чабани, вул.Кірова,162",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T12:25:52.388530+03:00"
+        }
+      ],
+      "time": "2015-09-30T08:51:03.659463+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T15:23:26.443233+03:00",
+          "amount": 96000.0,
+          "bidder": "c3274bee986b4771bf6d8d04b80436e8"
+        },
+        {
+          "date": "2015-09-29T12:25:52.388530+03:00",
+          "amount": 94450.0,
+          "bidder": "b8dbae0be8994cc093cdb8f41da9b68f"
+        }
+      ],
+      "time": "2015-09-30T08:30:00.004970+00:00"
+    }
+  },
+  "id": "253001b9fb0e470a91e19b71ba5213dd",
+  "tenderId": "UA-2015-09-16-000257"
+}

@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2600.0,
+        "bid_time": "2015-08-07T11:16:42.891550+03:00",
+        "bidder": "0176b9b5742f4c2fbf3f98e994cae09e",
+        "time": "2015-08-07T08:17:00.019186+00:00"
+      },
+      "turn_3": {
+        "bidder": "ec0ae04ff17c43a2a6bed7668230a926",
+        "time": "2015-08-07T08:19:00.044108+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b2e3fb90ff64db2b63aec7cda777f15",
+        "time": "2015-08-07T08:15:00.070797+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ec0ae04ff17c43a2a6bed7668230a926",
+        "time": "2015-08-07T08:25:00.038170+00:00"
+      },
+      "turn_3": {
+        "bidder": "0176b9b5742f4c2fbf3f98e994cae09e",
+        "time": "2015-08-07T08:27:00.041733+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b2e3fb90ff64db2b63aec7cda777f15",
+        "time": "2015-08-07T08:23:00.060467+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2650.0,
+        "bid_time": "2015-08-07T11:07:18.051531+03:00",
+        "bidder": "ec0ae04ff17c43a2a6bed7668230a926",
+        "time": "2015-08-07T08:09:00.112218+00:00"
+      },
+      "turn_3": {
+        "bidder": "6b2e3fb90ff64db2b63aec7cda777f15",
+        "time": "2015-08-07T08:11:00.033828+00:00"
+      },
+      "turn_1": {
+        "amount": 2700.0,
+        "bid_time": "2015-08-07T11:05:12.099183+03:00",
+        "bidder": "0176b9b5742f4c2fbf3f98e994cae09e",
+        "time": "2015-08-07T08:07:00.095876+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6b2e3fb90ff64db2b63aec7cda777f15",
+          "amount": 2850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504040169",
+                "name": "Роман",
+                "email": "mng1-kiev2@atc.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30568711",
+                "legalName": "ТОВ \"Автотехцентр-3000\""
+              },
+              "name": "ТОВ \"Автотехцентр-3000\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "37500",
+                "region": "Полтавская",
+                "streetAddress": "вул. І.Франка, 1 ",
+                "locality": "Лубны"
+              }
+            }
+          ],
+          "time": "2015-08-05T16:01:25.159954+03:00"
+        },
+        {
+          "bidder": "ec0ae04ff17c43a2a6bed7668230a926",
+          "amount": 2650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+30971375199",
+                "name": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\"",
+                "email": "autocarman-plus@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39725402",
+                "legalName": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\""
+              },
+              "name": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "50049, Дніпропетровська обл., м. Кривий Ріг, вул. Скандинавська, 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-07T11:07:18.051531+03:00"
+        },
+        {
+          "bidder": "0176b9b5742f4c2fbf3f98e994cae09e",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380994063690",
+                "name": "Михаил Горбачев",
+                "email": "sptrade_natalya@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39359209",
+                "legalName": "ТОВ \"СПЕКТР ТРЕЙД\""
+              },
+              "name": "ТОВ \"СПЕКТР ТРЕЙД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "51400",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Интернациональная, д. 65, кв.1",
+                "locality": "Павлоград"
+              }
+            }
+          ],
+          "time": "2015-08-07T11:16:42.891550+03:00"
+        }
+      ],
+      "time": "2015-08-07T08:27:02.624239+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T11:45:55.505088+03:00",
+          "amount": 6432.0,
+          "bidder": "0176b9b5742f4c2fbf3f98e994cae09e"
+        },
+        {
+          "date": "2015-08-06T08:48:47.846900+03:00",
+          "amount": 3200.0,
+          "bidder": "ec0ae04ff17c43a2a6bed7668230a926"
+        },
+        {
+          "date": "2015-08-05T16:01:25.159954+03:00",
+          "amount": 2850.0,
+          "bidder": "6b2e3fb90ff64db2b63aec7cda777f15"
+        }
+      ],
+      "time": "2015-08-07T08:00:00.005929+00:00"
+    }
+  },
+  "id": "2e2535f23ac04cc5b24cf4219dba8c62",
+  "tenderId": "UA-2015-07-31-000046"
+}

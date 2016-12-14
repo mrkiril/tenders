@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "73534eded8bc46a2b524d18a2d1b20ae",
+        "time": "2015-12-01T13:00:41.011292+00:00"
+      },
+      "turn_3": {
+        "bidder": "656eca39b6c049859c2aecdce921f179",
+        "time": "2015-12-01T13:02:41.009231+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d5c09987b2a49b48f38d35cc80f3477",
+        "time": "2015-12-01T12:58:41.025126+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "73534eded8bc46a2b524d18a2d1b20ae",
+        "time": "2015-12-01T13:08:41.031670+00:00"
+      },
+      "turn_3": {
+        "bidder": "656eca39b6c049859c2aecdce921f179",
+        "time": "2015-12-01T13:10:41.007783+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d5c09987b2a49b48f38d35cc80f3477",
+        "time": "2015-12-01T13:06:41.007817+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "73534eded8bc46a2b524d18a2d1b20ae",
+        "time": "2015-12-01T12:52:41.008109+00:00"
+      },
+      "turn_3": {
+        "bidder": "656eca39b6c049859c2aecdce921f179",
+        "time": "2015-12-01T12:54:41.008124+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d5c09987b2a49b48f38d35cc80f3477",
+        "time": "2015-12-01T12:50:41.008394+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7d5c09987b2a49b48f38d35cc80f3477",
+          "amount": 4999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-29T12:33:17.290539+02:00"
+        },
+        {
+          "bidder": "73534eded8bc46a2b524d18a2d1b20ae",
+          "amount": 4974.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-29T18:32:42.642741+02:00"
+        },
+        {
+          "bidder": "656eca39b6c049859c2aecdce921f179",
+          "amount": 4880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-28T13:13:44.268064+02:00"
+        }
+      ],
+      "time": "2015-12-01T13:10:45.230892+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-29T12:33:17.290539+02:00",
+          "amount": 4999.0,
+          "bidder": "7d5c09987b2a49b48f38d35cc80f3477"
+        },
+        {
+          "date": "2015-11-29T18:32:42.642741+02:00",
+          "amount": 4974.0,
+          "bidder": "73534eded8bc46a2b524d18a2d1b20ae"
+        },
+        {
+          "date": "2015-11-28T13:13:44.268064+02:00",
+          "amount": 4880.0,
+          "bidder": "656eca39b6c049859c2aecdce921f179"
+        }
+      ],
+      "time": "2015-12-01T12:43:41.004285+00:00"
+    }
+  },
+  "id": "0f19f7471e3a4aa39f96e5ff8eedb1bd",
+  "tenderId": "UA-2015-11-26-000173"
+}

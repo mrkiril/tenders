@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2845e21bc09a4be8956ca52f9d0da247",
+        "time": "2015-10-26T09:29:42.010458+00:00"
+      },
+      "turn_1": {
+        "bidder": "46f79ec241184c0ab3cc9f370307a656",
+        "time": "2015-10-26T09:27:42.011751+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2845e21bc09a4be8956ca52f9d0da247",
+        "time": "2015-10-26T09:35:42.009249+00:00"
+      },
+      "turn_1": {
+        "bidder": "46f79ec241184c0ab3cc9f370307a656",
+        "time": "2015-10-26T09:33:42.007755+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2845e21bc09a4be8956ca52f9d0da247",
+        "time": "2015-10-26T09:23:42.007205+00:00"
+      },
+      "turn_1": {
+        "bidder": "46f79ec241184c0ab3cc9f370307a656",
+        "time": "2015-10-26T09:21:42.008318+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "46f79ec241184c0ab3cc9f370307a656",
+          "amount": 7400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674014096",
+                "name": "ТОВ Сенте-Лаб",
+                "email": "rd2@sente-lab.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00000014",
+                "legalName": "ТОВ Сенте-Лаб"
+              },
+              "name": "ТОВ Сенте-Лаб",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, п-т Победы, 67, Офисный центр \"Нивки-Сити\", Корпус \"С\", оф. 212",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T14:47:10.174197+03:00"
+        },
+        {
+          "bidder": "2845e21bc09a4be8956ca52f9d0da247",
+          "amount": 6120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.voles.com.ua",
+                "telephone": "+380445811148",
+                "name": "Матвєєнко Наталія Анатоліївна",
+                "email": "melnichuk.fedor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39017032"
+              },
+              "name": "ТОВ Волес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "пр-т. Героїв Сталінграда 2Г, корп. 1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-23T13:17:15.858797+03:00"
+        }
+      ],
+      "time": "2015-10-26T09:35:49.284980+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T14:47:10.174197+03:00",
+          "amount": 7400.0,
+          "bidder": "46f79ec241184c0ab3cc9f370307a656"
+        },
+        {
+          "date": "2015-10-23T13:17:15.858797+03:00",
+          "amount": 6120.0,
+          "bidder": "2845e21bc09a4be8956ca52f9d0da247"
+        }
+      ],
+      "time": "2015-10-26T09:14:42.004123+00:00"
+    }
+  },
+  "id": "1a47ab6f9e714684bd73a11821af4b59",
+  "tenderId": "UA-2015-10-16-000072"
+}

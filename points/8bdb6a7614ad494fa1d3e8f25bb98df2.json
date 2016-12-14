@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 47655.0,
+        "bid_time": "2015-10-28T11:20:07.586850+02:00",
+        "bidder": "1fe2e2b007514d7489ccf17486f9a3e9",
+        "time": "2015-10-28T09:21:26.008143+00:00"
+      },
+      "turn_1": {
+        "bidder": "0dd5f6e73d484b2fbaf4d3a1e6552c7b",
+        "time": "2015-10-28T09:19:26.010242+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 47410.0,
+        "bid_time": "2015-10-28T11:25:46.090325+02:00",
+        "bidder": "1fe2e2b007514d7489ccf17486f9a3e9",
+        "time": "2015-10-28T09:27:26.007417+00:00"
+      },
+      "turn_1": {
+        "bidder": "0dd5f6e73d484b2fbaf4d3a1e6552c7b",
+        "time": "2015-10-28T09:25:26.011417+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 47900.0,
+        "bid_time": "2015-10-28T11:14:15.221381+02:00",
+        "bidder": "1fe2e2b007514d7489ccf17486f9a3e9",
+        "time": "2015-10-28T09:15:26.013666+00:00"
+      },
+      "turn_1": {
+        "bidder": "0dd5f6e73d484b2fbaf4d3a1e6552c7b",
+        "time": "2015-10-28T09:13:26.007057+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0dd5f6e73d484b2fbaf4d3a1e6552c7b",
+          "amount": 48993.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970675885",
+                "name": "валерій",
+                "email": "2074@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32878753",
+                "legalName": "ТОВ \"тов рубіж\""
+              },
+              "name": "ТОВ \"тов рубіж\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08110",
+                "region": "Киевская",
+                "streetAddress": "08110 Киевская область, Киево-Святошинский район с.Михайловка-Рубежовка,ул.Школьная 30",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-27T12:53:34.292585+02:00"
+        },
+        {
+          "bidder": "1fe2e2b007514d7489ccf17486f9a3e9",
+          "amount": 47410.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380974008586",
+                "name": "Артем Журавльов",
+                "email": "z.a.m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40036383",
+                "legalName": "ПП \"АРТ-ІНЖИНІРИНГ\""
+              },
+              "name": "ПП \"АРТ-ІНЖИНІРИНГ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "39600",
+                "region": "Полтавская",
+                "streetAddress": "ул. Пролетарская ",
+                "locality": "Кременчуг"
+              }
+            }
+          ],
+          "time": "2015-10-28T11:25:46.090325+02:00"
+        }
+      ],
+      "time": "2015-10-28T09:27:26.910967+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T12:53:34.292585+02:00",
+          "amount": 48993.0,
+          "bidder": "0dd5f6e73d484b2fbaf4d3a1e6552c7b"
+        },
+        {
+          "date": "2015-10-27T12:28:17.849424+02:00",
+          "amount": 48156.12,
+          "bidder": "1fe2e2b007514d7489ccf17486f9a3e9"
+        }
+      ],
+      "time": "2015-10-28T09:06:26.002392+00:00"
+    }
+  },
+  "id": "8bdb6a7614ad494fa1d3e8f25bb98df2",
+  "tenderId": "UA-2015-10-20-000219"
+}

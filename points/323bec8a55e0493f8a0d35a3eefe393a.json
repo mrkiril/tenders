@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2f82b657c70d4ea2aafabe2612cebfe6",
+        "time": "2015-12-02T11:24:50.008831+00:00"
+      },
+      "turn_1": {
+        "bidder": "a144303eefc44f3b9bac2e036e299e04",
+        "time": "2015-12-02T11:22:50.010272+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2f82b657c70d4ea2aafabe2612cebfe6",
+        "time": "2015-12-02T11:30:50.008438+00:00"
+      },
+      "turn_1": {
+        "bidder": "a144303eefc44f3b9bac2e036e299e04",
+        "time": "2015-12-02T11:28:50.008645+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2f82b657c70d4ea2aafabe2612cebfe6",
+        "time": "2015-12-02T11:18:50.011542+00:00"
+      },
+      "turn_1": {
+        "bidder": "a144303eefc44f3b9bac2e036e299e04",
+        "time": "2015-12-02T11:16:50.016079+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a144303eefc44f3b9bac2e036e299e04",
+          "amount": 2788.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-01T13:44:50.488256+02:00"
+        },
+        {
+          "bidder": "2f82b657c70d4ea2aafabe2612cebfe6",
+          "amount": 2693.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T11:41:05.915241+02:00"
+        }
+      ],
+      "time": "2015-12-02T11:30:52.285549+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T13:44:50.488256+02:00",
+          "amount": 2788.0,
+          "bidder": "a144303eefc44f3b9bac2e036e299e04"
+        },
+        {
+          "date": "2015-12-01T11:41:05.915241+02:00",
+          "amount": 2693.0,
+          "bidder": "2f82b657c70d4ea2aafabe2612cebfe6"
+        }
+      ],
+      "time": "2015-12-02T11:09:50.004798+00:00"
+    }
+  },
+  "id": "323bec8a55e0493f8a0d35a3eefe393a",
+  "tenderId": "UA-2015-11-26-000191-b"
+}

@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 16380.0,
+        "bid_time": "2015-07-23T11:13:11.573752+03:00",
+        "bidder": "cc06a4947848411c875dedcac0b949a4",
+        "time": "2015-07-23T08:15:00.066691+00:00"
+      },
+      "turn_1": {
+        "amount": 16500.0,
+        "bid_time": "2015-07-23T11:12:00.227281+03:00",
+        "bidder": "80239dec3fb649e496a225d627d47dfe",
+        "time": "2015-07-23T08:13:00.087165+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cc06a4947848411c875dedcac0b949a4",
+        "time": "2015-07-23T08:21:00.122984+00:00"
+      },
+      "turn_1": {
+        "amount": 15500.0,
+        "bid_time": "2015-07-23T11:18:20.684394+03:00",
+        "bidder": "80239dec3fb649e496a225d627d47dfe",
+        "time": "2015-07-23T08:19:00.043516+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "80239dec3fb649e496a225d627d47dfe",
+        "time": "2015-07-23T08:09:00.046538+00:00"
+      },
+      "turn_1": {
+        "amount": 17160.0,
+        "bid_time": "2015-07-23T11:05:13.313342+03:00",
+        "bidder": "cc06a4947848411c875dedcac0b949a4",
+        "time": "2015-07-23T08:07:00.037197+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cc06a4947848411c875dedcac0b949a4",
+          "amount": 16380.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380612210285",
+                "name": "ТОВ Промислові матеріали 2014",
+                "email": "artess72@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38932627",
+                "legalName": "ТОВ Промислові матеріали 2014"
+              },
+              "name": "ТОВ Промислові матеріали 2014",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69050, м. Запоріжжя, вул. Космічна 116/62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-23T11:13:11.573752+03:00"
+        },
+        {
+          "bidder": "80239dec3fb649e496a225d627d47dfe",
+          "amount": 15500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-23T11:18:20.684394+03:00"
+        }
+      ],
+      "time": "2015-07-23T08:21:10.200844+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-23T08:28:07.671774+03:00",
+          "amount": 19500.0,
+          "bidder": "cc06a4947848411c875dedcac0b949a4"
+        },
+        {
+          "date": "2015-07-22T17:50:55.761142+03:00",
+          "amount": 18720.0,
+          "bidder": "80239dec3fb649e496a225d627d47dfe"
+        }
+      ],
+      "time": "2015-07-23T08:00:00.014831+00:00"
+    }
+  },
+  "id": "5789f9e4c7d242c8b5c19ca827ce978b",
+  "tenderId": "UA-2015-07-16-000100"
+}

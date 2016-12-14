@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "63cbd9aabe8b4b429bac73990b1b1323",
+        "time": "2015-08-03T10:17:00.018097+00:00"
+      },
+      "turn_3": {
+        "bidder": "5c460fcb04024ac781d297856ed0b5d8",
+        "time": "2015-08-03T10:19:00.013543+00:00"
+      },
+      "turn_1": {
+        "bidder": "3501bf496b814c92ace1d50957444c3f",
+        "time": "2015-08-03T10:15:00.046281+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "63cbd9aabe8b4b429bac73990b1b1323",
+        "time": "2015-08-03T10:25:00.014853+00:00"
+      },
+      "turn_3": {
+        "bidder": "5c460fcb04024ac781d297856ed0b5d8",
+        "time": "2015-08-03T10:27:00.017116+00:00"
+      },
+      "turn_1": {
+        "bidder": "3501bf496b814c92ace1d50957444c3f",
+        "time": "2015-08-03T10:23:00.020771+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3501bf496b814c92ace1d50957444c3f",
+        "time": "2015-08-03T10:09:00.019365+00:00"
+      },
+      "turn_3": {
+        "bidder": "5c460fcb04024ac781d297856ed0b5d8",
+        "time": "2015-08-03T10:11:00.028912+00:00"
+      },
+      "turn_1": {
+        "amount": 4892.0,
+        "bid_time": "2015-08-03T13:06:04.098013+03:00",
+        "bidder": "63cbd9aabe8b4b429bac73990b1b1323",
+        "time": "2015-08-03T10:07:00.022148+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3501bf496b814c92ace1d50957444c3f",
+          "amount": 4894.56,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.primeps.com.ua",
+                "telephone": "+380675531013",
+                "name": "ПП \"ПРАЙМПОСТАЧСЕРВИС\"",
+                "email": "Primepostach@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35568742",
+                "legalName": "ПП \"ПРАЙМПОСТАЧСЕРВИС\""
+              },
+              "name": "ПП \"ПРАЙМПОСТАЧСЕРВИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73026, г.  Херсон ул. Рабочая 66,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-28T12:51:37.569227+03:00"
+        },
+        {
+          "bidder": "63cbd9aabe8b4b429bac73990b1b1323",
+          "amount": 4892.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962455533",
+                "name": "Товариство з обмеженою відповідальністю Респект КР",
+                "email": "respekt-kr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34684757",
+                "legalName": "Товариство з обмеженою відповідальністю Респект КР"
+              },
+              "name": "Товариство з обмеженою відповідальністю Респект КР",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Орджонікідзе 25. м. Кривий \r\nРіг. Дніпропетровська обл., 50005",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T13:06:04.098013+03:00"
+        },
+        {
+          "bidder": "5c460fcb04024ac781d297856ed0b5d8",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445285220",
+                "name": "ТОВ \"АКБ Тяжмашкомплект\"",
+                "email": "akbset@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36085466",
+                "legalName": "ТОВ \"АКБ Тяжмашкомплект\""
+              },
+              "name": "ТОВ \"АКБ Тяжмашкомплект\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01103, м. Київ, вул. Підвисоцького, 5-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T14:43:37.213341+03:00"
+        }
+      ],
+      "time": "2015-08-03T10:27:03.067013+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-30T09:29:48.731762+03:00",
+          "amount": 4942.08,
+          "bidder": "63cbd9aabe8b4b429bac73990b1b1323"
+        },
+        {
+          "date": "2015-07-28T12:51:37.569227+03:00",
+          "amount": 4894.56,
+          "bidder": "3501bf496b814c92ace1d50957444c3f"
+        },
+        {
+          "date": "2015-07-27T14:43:37.213341+03:00",
+          "amount": 1000.0,
+          "bidder": "5c460fcb04024ac781d297856ed0b5d8"
+        }
+      ],
+      "time": "2015-08-03T10:00:00.002301+00:00"
+    }
+  },
+  "id": "d6aebdbdf36943fd995d712d62fa0111",
+  "tenderId": "UA-2015-07-23-000074"
+}

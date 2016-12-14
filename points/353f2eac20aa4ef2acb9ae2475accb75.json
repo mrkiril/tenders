@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "12cbe8d628a84a0eb425d774abad216e",
+        "time": "2015-09-29T08:15:00.015238+00:00"
+      },
+      "turn_1": {
+        "amount": 7950.0,
+        "bid_time": "2015-09-29T11:11:30.012213+03:00",
+        "bidder": "8f2ec1f4bbd54d62bc46bc2bd83754ee",
+        "time": "2015-09-29T08:13:00.039199+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8f2ec1f4bbd54d62bc46bc2bd83754ee",
+        "time": "2015-09-29T08:21:00.041356+00:00"
+      },
+      "turn_1": {
+        "bidder": "12cbe8d628a84a0eb425d774abad216e",
+        "time": "2015-09-29T08:19:00.036532+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8f2ec1f4bbd54d62bc46bc2bd83754ee",
+        "time": "2015-09-29T08:09:00.057862+00:00"
+      },
+      "turn_1": {
+        "amount": 8200.0,
+        "bid_time": "2015-09-29T11:05:05.611141+03:00",
+        "bidder": "12cbe8d628a84a0eb425d774abad216e",
+        "time": "2015-09-29T08:07:00.020636+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "12cbe8d628a84a0eb425d774abad216e",
+          "amount": 8200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-29T11:05:05.611141+03:00"
+        },
+        {
+          "bidder": "8f2ec1f4bbd54d62bc46bc2bd83754ee",
+          "amount": 7950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-5070286",
+                "telephone": "050-3301301",
+                "name": "Шалаховский Виктор Казимирович",
+                "email": "ka-na-da@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36683009",
+                "legalName": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці"
+              },
+              "name": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "вул Кошиця 9-б офіс 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T11:11:30.012213+03:00"
+        }
+      ],
+      "time": "2015-09-29T08:21:05.117836+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T13:00:17.899862+03:00",
+          "amount": 8404.32,
+          "bidder": "12cbe8d628a84a0eb425d774abad216e"
+        },
+        {
+          "date": "2015-09-21T11:49:45.646535+03:00",
+          "amount": 8300.0,
+          "bidder": "8f2ec1f4bbd54d62bc46bc2bd83754ee"
+        }
+      ],
+      "time": "2015-09-29T08:00:00.005928+00:00"
+    }
+  },
+  "id": "353f2eac20aa4ef2acb9ae2475accb75",
+  "tenderId": "UA-2015-09-11-000152"
+}

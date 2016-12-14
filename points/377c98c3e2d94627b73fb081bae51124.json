@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dd50a0de75644133b961ad4ff68d065b",
+        "time": "2015-06-10T08:15:00.292554+00:00"
+      },
+      "turn_1": {
+        "amount": 11490.0,
+        "bid_time": "2015-06-10T11:11:13.280893+03:00",
+        "bidder": "28ca46e9372a4ee9bb239446bfda07f7",
+        "time": "2015-06-10T08:13:00.268877+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "28ca46e9372a4ee9bb239446bfda07f7",
+        "time": "2015-06-10T08:21:00.121602+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd50a0de75644133b961ad4ff68d065b",
+        "time": "2015-06-10T08:19:00.271065+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dd50a0de75644133b961ad4ff68d065b",
+        "time": "2015-06-10T08:09:00.718163+00:00"
+      },
+      "turn_1": {
+        "bidder": "28ca46e9372a4ee9bb239446bfda07f7",
+        "time": "2015-06-10T08:07:00.203062+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dd50a0de75644133b961ad4ff68d065b",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380432614433",
+                "name": "Товариство з обмеженою відповідальністю \"РТІ ГРУП\"",
+                "email": "oleg@rti-group.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38717584",
+                "legalName": "Товариство з обмеженою відповідальністю \"РТІ ГРУП\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"РТІ ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "21026, м. Вінниця , вул. Тарногродського, буд. 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-08T12:49:00.261128+03:00"
+        },
+        {
+          "bidder": "28ca46e9372a4ee9bb239446bfda07f7",
+          "amount": 11490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672744640",
+                "name": "Владимир Кобыш",
+                "email": "euroteh5@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38180812",
+                "legalName": "ТОВ \"Евротех Груп\""
+              },
+              "name": "ТОВ \"Евротех Груп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61001",
+                "region": "Харьковская",
+                "streetAddress": "ул. Конева, д.21",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-06-10T11:11:13.280893+03:00"
+        }
+      ],
+      "time": "2015-06-10T08:21:04.821897+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T23:11:25.141911+03:00",
+          "amount": 11996.52,
+          "bidder": "28ca46e9372a4ee9bb239446bfda07f7"
+        },
+        {
+          "date": "2015-06-08T12:49:00.261128+03:00",
+          "amount": 11500.0,
+          "bidder": "dd50a0de75644133b961ad4ff68d065b"
+        }
+      ],
+      "time": "2015-06-10T08:00:00.038537+00:00"
+    }
+  },
+  "id": "377c98c3e2d94627b73fb081bae51124",
+  "tenderId": "UA-2015-05-26-000030"
+}

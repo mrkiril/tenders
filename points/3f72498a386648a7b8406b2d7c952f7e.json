@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "acd9f03c72f4424d8e97ec8122fd0a53",
+        "time": "2015-11-05T10:16:57.007484+00:00"
+      },
+      "turn_1": {
+        "bidder": "ca1899e07b5f43e584e23d1c0dae8c45",
+        "time": "2015-11-05T10:14:57.007466+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "acd9f03c72f4424d8e97ec8122fd0a53",
+        "time": "2015-11-05T10:22:57.008197+00:00"
+      },
+      "turn_1": {
+        "bidder": "ca1899e07b5f43e584e23d1c0dae8c45",
+        "time": "2015-11-05T10:20:57.015960+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 854400.0,
+        "bid_time": "2015-11-05T12:10:04.673131+02:00",
+        "bidder": "acd9f03c72f4424d8e97ec8122fd0a53",
+        "time": "2015-11-05T10:10:57.026322+00:00"
+      },
+      "turn_1": {
+        "amount": 861000.0,
+        "bid_time": "2015-11-05T12:08:45.249551+02:00",
+        "bidder": "ca1899e07b5f43e584e23d1c0dae8c45",
+        "time": "2015-11-05T10:08:57.009760+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ca1899e07b5f43e584e23d1c0dae8c45",
+          "amount": 861000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.everest.ua/",
+                "telephone": "0445035555",
+                "name": "Юрий Пастухов ",
+                "email": "info@everest.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38980356",
+                "legalName": ""
+              },
+              "name": "ООО ЕВЕРЕСТ ЛИМИТЕД",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "03170"
+              }
+            }
+          ],
+          "time": "2015-11-05T12:08:45.249551+02:00"
+        },
+        {
+          "bidder": "acd9f03c72f4424d8e97ec8122fd0a53",
+          "amount": 854400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503911341",
+                "name": "Дмитрий Городецкий",
+                "email": "allo-ds26@cifrotech.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ГК АЛЛО\"",
+                "id": "30012848",
+                "uri": "http://allo.ua"
+              },
+              "name": "ТОВ \"ГК АЛЛО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул.Баррикадная 15.б",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-05T12:10:04.673131+02:00"
+        }
+      ],
+      "time": "2015-11-05T10:22:58.565298+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T16:57:38.761496+02:00",
+          "amount": 936000.0,
+          "bidder": "ca1899e07b5f43e584e23d1c0dae8c45"
+        },
+        {
+          "date": "2015-11-04T16:10:03.718504+02:00",
+          "amount": 864000.0,
+          "bidder": "acd9f03c72f4424d8e97ec8122fd0a53"
+        }
+      ],
+      "time": "2015-11-05T10:01:57.004152+00:00"
+    }
+  },
+  "id": "3f72498a386648a7b8406b2d7c952f7e",
+  "tenderId": "UA-2015-10-22-000172"
+}

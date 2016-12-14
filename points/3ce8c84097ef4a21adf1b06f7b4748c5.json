@@ -1,0 +1,205 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "dfe3f5dbdcc94971bfe9fdfb7b541e8c",
+        "time": "2015-09-15T08:53:00.067405+00:00"
+      },
+      "turn_2": {
+        "bidder": "0d60e619bd53451abbdeb51602cccbb1",
+        "time": "2015-09-15T08:49:00.065103+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9fbc788b7cf46a98aa23aca818cc852",
+        "time": "2015-09-15T08:51:00.123460+00:00"
+      },
+      "turn_1": {
+        "bidder": "ad161b9904424ff585815832d28e3c48",
+        "time": "2015-09-15T08:47:00.075525+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "dfe3f5dbdcc94971bfe9fdfb7b541e8c",
+        "time": "2015-09-15T09:03:00.048410+00:00"
+      },
+      "turn_2": {
+        "bidder": "0d60e619bd53451abbdeb51602cccbb1",
+        "time": "2015-09-15T08:59:00.032713+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9fbc788b7cf46a98aa23aca818cc852",
+        "time": "2015-09-15T09:01:00.046378+00:00"
+      },
+      "turn_1": {
+        "bidder": "ad161b9904424ff585815832d28e3c48",
+        "time": "2015-09-15T08:57:00.050457+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "d9fbc788b7cf46a98aa23aca818cc852",
+        "time": "2015-09-15T08:43:00.078502+00:00"
+      },
+      "turn_2": {
+        "bidder": "ad161b9904424ff585815832d28e3c48",
+        "time": "2015-09-15T08:39:00.093403+00:00"
+      },
+      "turn_3": {
+        "amount": 141000.0,
+        "bid_time": "2015-09-15T11:39:56.506210+03:00",
+        "bidder": "dfe3f5dbdcc94971bfe9fdfb7b541e8c",
+        "time": "2015-09-15T08:41:00.043648+00:00"
+      },
+      "turn_1": {
+        "amount": 330000.0,
+        "bid_time": "2015-09-15T11:35:11.231582+03:00",
+        "bidder": "0d60e619bd53451abbdeb51602cccbb1",
+        "time": "2015-09-15T08:37:00.100601+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ad161b9904424ff585815832d28e3c48",
+          "amount": 336112.96,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spezkran.com",
+                "telephone": "+380577244538",
+                "name": "Товариство з обмеженою відповідальністю \"Спецкран\"",
+                "email": "agro@spezkran.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31341901",
+                "legalName": "Товариство з обмеженою відповідальністю \"Спецкран\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Спецкран\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61166",
+                "region": "",
+                "streetAddress": "проспект Леніна, будинок 40, кімната 37А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T08:59:08.819110+03:00"
+        },
+        {
+          "bidder": "0d60e619bd53451abbdeb51602cccbb1",
+          "amount": 330000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.terkon.at.ua",
+                "telephone": "+380562236155",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГІВЕЛЬНО-ПРОМИСЛОВА ФІНАНСОВА КОМПАНІЯ \"ТЕРКОН\"",
+                "email": "terkon.00@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21866643",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГІВЕЛЬНО-ПРОМИСЛОВА ФІНАНСОВА КОМПАНІЯ \"ТЕРКОН\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТОРГІВЕЛЬНО-ПРОМИСЛОВА ФІНАНСОВА КОМПАНІЯ \"ТЕРКОН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Дніпропетровська область, м. Дніпропетровськ, пр. Воронцова, б. 57, кв. 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T11:35:11.231582+03:00"
+        },
+        {
+          "bidder": "d9fbc788b7cf46a98aa23aca818cc852",
+          "amount": 141384.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.indservice.com.ua",
+                "faxNumber": "+380567943494",
+                "telephone": "+380668853716",
+                "name": "Пилипенко Віталій Володимирович",
+                "email": "vitaliy_pilipenko1982@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39055188"
+              },
+              "name": "ТОВ Технік Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49041",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул.Стартова, 20/218",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-09-14T16:10:26.965415+03:00"
+        },
+        {
+          "bidder": "dfe3f5dbdcc94971bfe9fdfb7b541e8c",
+          "amount": 141000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T11:39:56.506210+03:00"
+        }
+      ],
+      "time": "2015-09-15T09:03:05.289212+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T12:36:42.082363+03:00",
+          "amount": 344000.0,
+          "bidder": "0d60e619bd53451abbdeb51602cccbb1"
+        },
+        {
+          "date": "2015-09-14T08:59:08.819110+03:00",
+          "amount": 336112.96,
+          "bidder": "ad161b9904424ff585815832d28e3c48"
+        },
+        {
+          "date": "2015-09-14T14:51:06.182673+03:00",
+          "amount": 219600.0,
+          "bidder": "dfe3f5dbdcc94971bfe9fdfb7b541e8c"
+        },
+        {
+          "date": "2015-09-14T16:10:26.965415+03:00",
+          "amount": 141384.0,
+          "bidder": "d9fbc788b7cf46a98aa23aca818cc852"
+        }
+      ],
+      "time": "2015-09-15T08:30:00.030283+00:00"
+    }
+  },
+  "id": "3ce8c84097ef4a21adf1b06f7b4748c5",
+  "tenderId": "UA-2015-09-03-000033"
+}

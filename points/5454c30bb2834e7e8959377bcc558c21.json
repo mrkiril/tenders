@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "03a8d00dfd9e4245ab473c6358c04b0f",
+        "time": "2015-11-23T13:24:03.017866+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2ff7a8e896c4a79adacec044b872167",
+        "time": "2015-11-23T13:22:03.009259+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "03a8d00dfd9e4245ab473c6358c04b0f",
+        "time": "2015-11-23T13:30:03.008182+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2ff7a8e896c4a79adacec044b872167",
+        "time": "2015-11-23T13:28:03.008268+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "03a8d00dfd9e4245ab473c6358c04b0f",
+        "time": "2015-11-23T13:18:03.011672+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2ff7a8e896c4a79adacec044b872167",
+        "time": "2015-11-23T13:16:03.008748+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a2ff7a8e896c4a79adacec044b872167",
+          "amount": 23888.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://waxauto.net",
+                "telephone": "+380443628176",
+                "name": "Чук Євгеній Олегович",
+                "email": "waxauto@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3188814659"
+              },
+              "name": "ФОП Чук Євгеній Олегович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська область",
+                "streetAddress": "м.Київ вул.Російська 35 кв.1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T12:54:57.849290+02:00"
+        },
+        {
+          "bidder": "03a8d00dfd9e4245ab473c6358c04b0f",
+          "amount": 18777.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380500301425",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\"",
+                "email": "sigulda1979@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31610444",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ - 02225, вул. Драйзера, 8-А, кв. 40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-19T14:31:11.425820+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:30:07.029775+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T12:54:57.849290+02:00",
+          "amount": 23888.0,
+          "bidder": "a2ff7a8e896c4a79adacec044b872167"
+        },
+        {
+          "date": "2015-11-19T14:31:11.425820+02:00",
+          "amount": 18777.0,
+          "bidder": "03a8d00dfd9e4245ab473c6358c04b0f"
+        }
+      ],
+      "time": "2015-11-23T13:09:03.003761+00:00"
+    }
+  },
+  "id": "5454c30bb2834e7e8959377bcc558c21",
+  "tenderId": "UA-2015-11-13-000118-b"
+}

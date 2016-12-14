@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "df3c8799d57c4deebadd82783faf70a7",
+        "time": "2015-11-13T12:47:22.008431+00:00"
+      },
+      "turn_3": {
+        "bidder": "6e5fdee2cdbc444f8a00eb92cea94d2a",
+        "time": "2015-11-13T12:49:22.008786+00:00"
+      },
+      "turn_1": {
+        "bidder": "9dbc442a978241e0b2ae01974e834938",
+        "time": "2015-11-13T12:45:22.009015+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "df3c8799d57c4deebadd82783faf70a7",
+        "time": "2015-11-13T12:55:22.015848+00:00"
+      },
+      "turn_3": {
+        "bidder": "6e5fdee2cdbc444f8a00eb92cea94d2a",
+        "time": "2015-11-13T12:57:22.010877+00:00"
+      },
+      "turn_1": {
+        "bidder": "9dbc442a978241e0b2ae01974e834938",
+        "time": "2015-11-13T12:53:22.008514+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1690.0,
+        "bid_time": "2015-11-13T14:38:20.824205+02:00",
+        "bidder": "6e5fdee2cdbc444f8a00eb92cea94d2a",
+        "time": "2015-11-13T12:39:22.010269+00:00"
+      },
+      "turn_3": {
+        "bidder": "df3c8799d57c4deebadd82783faf70a7",
+        "time": "2015-11-13T12:41:22.008483+00:00"
+      },
+      "turn_1": {
+        "bidder": "9dbc442a978241e0b2ae01974e834938",
+        "time": "2015-11-13T12:37:22.009700+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9dbc442a978241e0b2ae01974e834938",
+          "amount": 2115.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-12T13:50:12.528871+02:00"
+        },
+        {
+          "bidder": "df3c8799d57c4deebadd82783faf70a7",
+          "amount": 1780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://korsuncity.com.ua/",
+                "telephone": "0968486767",
+                "name": "Виталий Мацюк ",
+                "email": "nice_price@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3154313356",
+                "legalName": "ФОП Мацюк В.С."
+              },
+              "name": "ФОП Мацюк В.С.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Черкасская область",
+                "streetAddress": "19400,м. Корсунь-Шевчекікський, Черкаська обл., Леніна 323 а"
+              }
+            }
+          ],
+          "time": "2015-11-10T14:24:31.920174+02:00"
+        },
+        {
+          "bidder": "6e5fdee2cdbc444f8a00eb92cea94d2a",
+          "amount": 1690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://korsuncity.com.ua/",
+                "telephone": "0968486767",
+                "name": "Виталий Мацюк ",
+                "email": "nice_price@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3154313356",
+                "legalName": "ФОП Мацюк В.С."
+              },
+              "name": "ФОП Мацюк В.С.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Черкасская область",
+                "streetAddress": "19400,м. Корсунь-Шевчекікський, Черкаська обл., Леніна 323 а"
+              }
+            }
+          ],
+          "time": "2015-11-13T14:38:20.824205+02:00"
+        }
+      ],
+      "time": "2015-11-13T12:57:24.546873+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T13:50:12.528871+02:00",
+          "amount": 2115.0,
+          "bidder": "9dbc442a978241e0b2ae01974e834938"
+        },
+        {
+          "date": "2015-11-10T14:24:31.920174+02:00",
+          "amount": 1780.0,
+          "bidder": "df3c8799d57c4deebadd82783faf70a7"
+        },
+        {
+          "date": "2015-11-10T14:24:48.845836+02:00",
+          "amount": 1780.0,
+          "bidder": "6e5fdee2cdbc444f8a00eb92cea94d2a"
+        }
+      ],
+      "time": "2015-11-13T12:30:22.005378+00:00"
+    }
+  },
+  "id": "07a74dcdd57b4782a0b65a12564fb1f4",
+  "tenderId": "UA-2015-11-10-000062-a"
+}

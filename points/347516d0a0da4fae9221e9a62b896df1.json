@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fded42773bc548798285ad1f2fda5d73",
+        "time": "2015-09-09T10:17:00.016621+00:00"
+      },
+      "turn_3": {
+        "amount": 328614.0,
+        "bid_time": "2015-09-09T13:17:55.429235+03:00",
+        "bidder": "ea490bfb22a444879a8c8e830a39c983",
+        "time": "2015-09-09T10:19:00.028645+00:00"
+      },
+      "turn_1": {
+        "amount": 340000.0,
+        "bid_time": "2015-09-09T13:13:53.506179+03:00",
+        "bidder": "1f437b8f8f97408bb39eec3274bb49bd",
+        "time": "2015-09-09T10:15:00.047214+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1f437b8f8f97408bb39eec3274bb49bd",
+        "time": "2015-09-09T10:25:00.020432+00:00"
+      },
+      "turn_3": {
+        "bidder": "ea490bfb22a444879a8c8e830a39c983",
+        "time": "2015-09-09T10:27:00.017086+00:00"
+      },
+      "turn_1": {
+        "bidder": "fded42773bc548798285ad1f2fda5d73",
+        "time": "2015-09-09T10:23:00.010908+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 351780.0,
+        "bid_time": "2015-09-09T13:08:09.667208+03:00",
+        "bidder": "fded42773bc548798285ad1f2fda5d73",
+        "time": "2015-09-09T10:09:00.019383+00:00"
+      },
+      "turn_3": {
+        "amount": 340197.0,
+        "bid_time": "2015-09-09T13:09:56.988811+03:00",
+        "bidder": "ea490bfb22a444879a8c8e830a39c983",
+        "time": "2015-09-09T10:11:00.031303+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f437b8f8f97408bb39eec3274bb49bd",
+        "time": "2015-09-09T10:07:00.018748+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fded42773bc548798285ad1f2fda5d73",
+          "amount": 351780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503431840",
+                "name": "Фізична особа - підприємець Гливка Лариса Григорівна",
+                "email": "glivkaya@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556006463",
+                "legalName": "Фізична особа - підприємець Гливка Лариса Григорівна"
+              },
+              "name": "Фізична особа - підприємець Гливка Лариса Григорівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61105, м.Харків, вул. Киргизька, б. 1, кв. 30",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-09T13:08:09.667208+03:00"
+        },
+        {
+          "bidder": "1f437b8f8f97408bb39eec3274bb49bd",
+          "amount": 340000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972676305, +380432557470",
+                "name": "Людмила директор",
+                "email": "irinaurdzik@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Гелутекс\"",
+                "id": "31324975",
+                "uri": "http://patrick-factory.com"
+              },
+              "name": "ТОВ \"Гелутекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21000",
+                "region": "Виницкая",
+                "streetAddress": "ул.Чехова 11",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-09-09T13:13:53.506179+03:00"
+        },
+        {
+          "bidder": "ea490bfb22a444879a8c8e830a39c983",
+          "amount": 328614.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380937681269",
+                "name": "Лисенко Наталія",
+                "email": "449103@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ІТАЛТЕКС МЕРІНО\"",
+                "id": "39262403",
+                "uri": "http://italtex-merino.com/"
+              },
+              "name": "ТОВ \"ІТАЛТЕКС МЕРІНО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "14014",
+                "region": "Черниговская",
+                "streetAddress": "вул. Щорса, 66",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-09-09T13:17:55.429235+03:00"
+        }
+      ],
+      "time": "2015-09-09T10:27:02.772958+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T17:24:11.616143+03:00",
+          "amount": 382800.0,
+          "bidder": "1f437b8f8f97408bb39eec3274bb49bd"
+        },
+        {
+          "date": "2015-09-07T13:23:02.451845+03:00",
+          "amount": 379500.0,
+          "bidder": "fded42773bc548798285ad1f2fda5d73"
+        },
+        {
+          "date": "2015-09-06T15:45:30.327898+03:00",
+          "amount": 351780.0,
+          "bidder": "ea490bfb22a444879a8c8e830a39c983"
+        }
+      ],
+      "time": "2015-09-09T10:00:00.001920+00:00"
+    }
+  },
+  "id": "347516d0a0da4fae9221e9a62b896df1",
+  "tenderId": "UA-2015-08-31-000192"
+}

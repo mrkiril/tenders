@@ -1,0 +1,153 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c4660d01d6084b8697c965fd2bfdcfd6",
+        "time": "2015-12-08T10:26:55.008490+00:00"
+      },
+      "turn_3": {
+        "bidder": "52ca93160af545f0bac2491c1ea1efe2",
+        "time": "2015-12-08T10:28:55.008220+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f315e35cecd4c6ba61611fd6e6f0ea8",
+        "time": "2015-12-08T10:24:55.008085+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c4660d01d6084b8697c965fd2bfdcfd6",
+        "time": "2015-12-08T10:34:55.008116+00:00"
+      },
+      "turn_3": {
+        "bidder": "52ca93160af545f0bac2491c1ea1efe2",
+        "time": "2015-12-08T10:36:55.008025+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f315e35cecd4c6ba61611fd6e6f0ea8",
+        "time": "2015-12-08T10:32:55.009444+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c4660d01d6084b8697c965fd2bfdcfd6",
+        "time": "2015-12-08T10:18:55.009037+00:00"
+      },
+      "turn_3": {
+        "bidder": "52ca93160af545f0bac2491c1ea1efe2",
+        "time": "2015-12-08T10:20:55.009243+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f315e35cecd4c6ba61611fd6e6f0ea8",
+        "time": "2015-12-08T10:16:55.008930+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5f315e35cecd4c6ba61611fd6e6f0ea8",
+          "amount": 817.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968019838",
+                "name": "Кривіцький В'ячеслав Олександрович",
+                "email": "dimknugi-kanc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3035918974"
+              },
+              "name": "ФОП Кривицький В.О.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35600",
+                "region": "Рівненська область",
+                "streetAddress": "вул. Космонавтів, 50",
+                "locality": "Дубно"
+              }
+            }
+          ],
+          "time": "2015-12-07T16:09:58.291327+02:00"
+        },
+        {
+          "bidder": "c4660d01d6084b8697c965fd2bfdcfd6",
+          "amount": 800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "097-064-39-16",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "project.a.ukraine@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-03T13:26:10.476778+02:00"
+        },
+        {
+          "bidder": "52ca93160af545f0bac2491c1ea1efe2",
+          "amount": 612.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503415974",
+                "name": "Товариство з обмеженою відповідальністю \"Біном\"",
+                "email": "binomzap@ukrpost.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19271888",
+                "legalName": "Товариство з обмеженою відповідальністю \"Біном\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Біном\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Руставі. 5, к. 99 м Запоріжжя 69093",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-07T01:04:27.430645+02:00"
+        }
+      ],
+      "time": "2015-12-08T10:36:55.754782+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T16:09:58.291327+02:00",
+          "amount": 817.0,
+          "bidder": "5f315e35cecd4c6ba61611fd6e6f0ea8"
+        },
+        {
+          "date": "2015-12-03T13:26:10.476778+02:00",
+          "amount": 800.0,
+          "bidder": "c4660d01d6084b8697c965fd2bfdcfd6"
+        },
+        {
+          "date": "2015-12-07T01:04:27.430645+02:00",
+          "amount": 612.0,
+          "bidder": "52ca93160af545f0bac2491c1ea1efe2"
+        }
+      ],
+      "time": "2015-12-08T10:09:55.004627+00:00"
+    }
+  },
+  "id": "40f46c3de978435ebc22215f6517e2be",
+  "tenderId": "UA-2015-11-30-000113-a"
+}

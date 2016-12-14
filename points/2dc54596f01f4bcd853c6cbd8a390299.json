@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9ee13b95a4054fb9aee435411691161f",
+        "time": "2015-09-23T09:47:00.031970+00:00"
+      },
+      "turn_3": {
+        "bidder": "0137c9af7c10433a9b088aa3ae44eb31",
+        "time": "2015-09-23T09:49:00.063130+00:00"
+      },
+      "turn_1": {
+        "bidder": "7188989adc5c44ec95d2be924667dacd",
+        "time": "2015-09-23T09:45:00.112963+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9ee13b95a4054fb9aee435411691161f",
+        "time": "2015-09-23T09:55:00.027765+00:00"
+      },
+      "turn_3": {
+        "bidder": "0137c9af7c10433a9b088aa3ae44eb31",
+        "time": "2015-09-23T09:57:00.017608+00:00"
+      },
+      "turn_1": {
+        "bidder": "7188989adc5c44ec95d2be924667dacd",
+        "time": "2015-09-23T09:53:00.018016+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9ee13b95a4054fb9aee435411691161f",
+        "time": "2015-09-23T09:39:00.032263+00:00"
+      },
+      "turn_3": {
+        "bidder": "0137c9af7c10433a9b088aa3ae44eb31",
+        "time": "2015-09-23T09:41:00.053056+00:00"
+      },
+      "turn_1": {
+        "bidder": "7188989adc5c44ec95d2be924667dacd",
+        "time": "2015-09-23T09:37:00.070233+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7188989adc5c44ec95d2be924667dacd",
+          "amount": 9395100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677247608",
+                "name": "Тарас Юськів",
+                "email": "tyuskiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23965846",
+                "legalName": "ПВТП \"Акрополіс\""
+              },
+              "name": "ПВТП \"Акрополіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79018",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Залізнична,18",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-09-22T14:41:23.042160+03:00"
+        },
+        {
+          "bidder": "9ee13b95a4054fb9aee435411691161f",
+          "amount": 9390000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503514178",
+                "name": "Иннокентий Троян",
+                "email": "derbykiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"АіК\"",
+                "id": "24726351",
+                "uri": "http://derby.ua"
+              },
+              "name": "ПП \"АіК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "проспект Гагарина 23",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-22T16:12:34.989636+03:00"
+        },
+        {
+          "bidder": "0137c9af7c10433a9b088aa3ae44eb31",
+          "amount": 7995000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T14:00:39.593075+03:00"
+        }
+      ],
+      "time": "2015-09-23T09:57:05.180732+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T14:41:23.042160+03:00",
+          "amount": 9395100.0,
+          "bidder": "7188989adc5c44ec95d2be924667dacd"
+        },
+        {
+          "date": "2015-09-22T16:12:34.989636+03:00",
+          "amount": 9390000.0,
+          "bidder": "9ee13b95a4054fb9aee435411691161f"
+        },
+        {
+          "date": "2015-09-22T14:00:39.593075+03:00",
+          "amount": 7995000.0,
+          "bidder": "0137c9af7c10433a9b088aa3ae44eb31"
+        }
+      ],
+      "time": "2015-09-23T09:30:00.007826+00:00"
+    }
+  },
+  "id": "2dc54596f01f4bcd853c6cbd8a390299",
+  "tenderId": "UA-2015-09-09-000143"
+}

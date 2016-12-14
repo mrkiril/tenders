@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f5b581319dd84901b32fe0cc90ff1b10",
+        "time": "2015-09-23T09:15:00.086892+00:00"
+      },
+      "turn_1": {
+        "bidder": "33205f64ff684dce9df93c5b028c76fa",
+        "time": "2015-09-23T09:13:00.060237+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f5b581319dd84901b32fe0cc90ff1b10",
+        "time": "2015-09-23T09:21:00.082998+00:00"
+      },
+      "turn_1": {
+        "bidder": "33205f64ff684dce9df93c5b028c76fa",
+        "time": "2015-09-23T09:19:00.043429+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f5b581319dd84901b32fe0cc90ff1b10",
+        "time": "2015-09-23T09:09:00.067435+00:00"
+      },
+      "turn_1": {
+        "bidder": "33205f64ff684dce9df93c5b028c76fa",
+        "time": "2015-09-23T09:07:00.068155+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33205f64ff684dce9df93c5b028c76fa",
+          "amount": 83000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-22T15:20:04.017193+03:00"
+        },
+        {
+          "bidder": "f5b581319dd84901b32fe0cc90ff1b10",
+          "amount": 82000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512362404",
+                "telephone": "0512362404",
+                "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+                "email": "vera121186@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172710986",
+                "legalName": "Фізична особа підприємства Шпиль Віра Олександрівна"
+              },
+              "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "Фрунзе 50, кв.79",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-17T17:00:32.826213+03:00"
+        }
+      ],
+      "time": "2015-09-23T09:21:09.935721+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T15:20:04.017193+03:00",
+          "amount": 83000.0,
+          "bidder": "33205f64ff684dce9df93c5b028c76fa"
+        },
+        {
+          "date": "2015-09-17T17:00:32.826213+03:00",
+          "amount": 82000.0,
+          "bidder": "f5b581319dd84901b32fe0cc90ff1b10"
+        }
+      ],
+      "time": "2015-09-23T09:00:00.008927+00:00"
+    }
+  },
+  "id": "4865e98c4def48b1af3179804871e197",
+  "tenderId": "UA-2015-09-14-000041"
+}

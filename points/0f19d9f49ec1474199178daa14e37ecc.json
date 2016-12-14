@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6eca7fc1090f4d58bf765e313235838f",
+        "time": "2015-09-16T08:45:00.277359+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c44ea6d4c9144f2beb22395e5e577c9",
+        "time": "2015-09-16T08:43:00.110909+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6eca7fc1090f4d58bf765e313235838f",
+        "time": "2015-09-16T08:51:00.217854+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c44ea6d4c9144f2beb22395e5e577c9",
+        "time": "2015-09-16T08:49:00.100939+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6eca7fc1090f4d58bf765e313235838f",
+        "time": "2015-09-16T08:39:00.090234+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c44ea6d4c9144f2beb22395e5e577c9",
+        "time": "2015-09-16T08:37:00.064232+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0c44ea6d4c9144f2beb22395e5e577c9",
+          "amount": 300361.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.instruments.com.ua",
+                "telephone": "+3800503115545",
+                "name": "Фирма \"Инструменты\" ООО",
+                "email": "v.boyarenko@instruments.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24772345",
+                "legalName": "Фирма \"Инструменты\" ООО"
+              },
+              "name": "Фирма \"Инструменты\" ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "г. Киев, ул. Петропавловская, 54-А, 04086",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-10T11:33:37.690475+03:00"
+        },
+        {
+          "bidder": "6eca7fc1090f4d58bf765e313235838f",
+          "amount": 297262.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "telephone": "0501022400",
+                "name": "Ізосімов Сергій Михайлович",
+                "email": "invitgryp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39870071",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інвіт груп\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інвіт груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65020",
+                "region": "Одеська",
+                "streetAddress": "вул. Велика Арнаутська, 84",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T15:00:58.089263+03:00"
+        }
+      ],
+      "time": "2015-09-16T08:51:19.302056+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T11:33:37.690475+03:00",
+          "amount": 300361.0,
+          "bidder": "0c44ea6d4c9144f2beb22395e5e577c9"
+        },
+        {
+          "date": "2015-09-11T15:00:58.089263+03:00",
+          "amount": 297262.0,
+          "bidder": "6eca7fc1090f4d58bf765e313235838f"
+        }
+      ],
+      "time": "2015-09-16T08:30:00.021722+00:00"
+    }
+  },
+  "id": "0f19d9f49ec1474199178daa14e37ecc",
+  "tenderId": "UA-2015-09-04-000070"
+}

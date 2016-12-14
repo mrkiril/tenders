@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 28300.0,
+        "bid_time": "2015-11-18T12:18:25.911028+02:00",
+        "bidder": "e8383b3c00374bcb84c2e28d3237eb93",
+        "time": "2015-11-18T10:20:18.013005+00:00"
+      },
+      "turn_1": {
+        "bidder": "34490fe552f749e9b50acf5de899c6dd",
+        "time": "2015-11-18T10:18:18.010672+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e8383b3c00374bcb84c2e28d3237eb93",
+        "time": "2015-11-18T10:26:18.009808+00:00"
+      },
+      "turn_1": {
+        "amount": 28299.0,
+        "bid_time": "2015-11-18T12:24:06.632433+02:00",
+        "bidder": "34490fe552f749e9b50acf5de899c6dd",
+        "time": "2015-11-18T10:24:18.011449+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e8383b3c00374bcb84c2e28d3237eb93",
+        "time": "2015-11-18T10:14:18.007462+00:00"
+      },
+      "turn_1": {
+        "bidder": "34490fe552f749e9b50acf5de899c6dd",
+        "time": "2015-11-18T10:12:18.006308+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e8383b3c00374bcb84c2e28d3237eb93",
+          "amount": 28300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675177705",
+                "name": "Виталий Терещенко",
+                "email": "amazon.ca.ukr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37758457",
+                "legalName": "ТОВ \"Форса-Украина\""
+              },
+              "name": "ТОВ \"Форса-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "вул. Лучева, 19",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:18:25.911028+02:00"
+        },
+        {
+          "bidder": "34490fe552f749e9b50acf5de899c6dd",
+          "amount": 28299.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:24:06.632433+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:26:19.669589+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T09:58:15.302544+02:00",
+          "amount": 28939.0,
+          "bidder": "34490fe552f749e9b50acf5de899c6dd"
+        },
+        {
+          "date": "2015-11-16T12:59:32.581589+02:00",
+          "amount": 28500.0,
+          "bidder": "e8383b3c00374bcb84c2e28d3237eb93"
+        }
+      ],
+      "time": "2015-11-18T10:05:18.002649+00:00"
+    }
+  },
+  "id": "3d31667417f34083b0e0eeca867c87c7",
+  "tenderId": "UA-2015-11-05-000147"
+}

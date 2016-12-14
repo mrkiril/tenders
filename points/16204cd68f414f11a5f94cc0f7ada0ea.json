@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e51407b32f694bb98fde842fc251e973",
+        "time": "2015-12-15T13:48:08.008544+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6379fa7626b4dda934a7403d847eb3d",
+        "time": "2015-12-15T13:46:08.008502+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e51407b32f694bb98fde842fc251e973",
+        "time": "2015-12-15T13:54:08.006905+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6379fa7626b4dda934a7403d847eb3d",
+        "time": "2015-12-15T13:52:08.008346+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b6379fa7626b4dda934a7403d847eb3d",
+        "time": "2015-12-15T13:42:08.008391+00:00"
+      },
+      "turn_1": {
+        "amount": 198900.0,
+        "bid_time": "2015-12-15T15:38:24.961494+02:00",
+        "bidder": "e51407b32f694bb98fde842fc251e973",
+        "time": "2015-12-15T13:40:08.017549+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6379fa7626b4dda934a7403d847eb3d",
+          "amount": 199000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380965126009",
+                "name": "Ганна Єрмола",
+                "email": "kiev.talan@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39436073",
+                "legalName": "ТОВ \"Талан-Пожтех\""
+              },
+              "name": "ТОВ \"Талан-Пожтех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07401",
+                "region": "Киевская",
+                "streetAddress": "вул.Київська буд.154, оф.14",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:47:53.328991+02:00"
+        },
+        {
+          "bidder": "e51407b32f694bb98fde842fc251e973",
+          "amount": 198900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444922704",
+                "name": "Олександр Мосєєв",
+                "email": "info@post-01.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32960947",
+                "legalName": "ТОВ \"ПОСТ-01\""
+              },
+              "name": "ТОВ \"ПОСТ-01\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04071",
+                "region": "Киевская",
+                "streetAddress": "вул.Введенська, 29/58, оф.93",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:38:24.961494+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:54:08.941712+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T13:47:53.328991+02:00",
+          "amount": 199000.0,
+          "bidder": "b6379fa7626b4dda934a7403d847eb3d"
+        },
+        {
+          "date": "2015-12-14T15:07:30.494355+02:00",
+          "amount": 199000.0,
+          "bidder": "e51407b32f694bb98fde842fc251e973"
+        }
+      ],
+      "time": "2015-12-15T13:33:08.004451+00:00"
+    }
+  },
+  "id": "16204cd68f414f11a5f94cc0f7ada0ea",
+  "tenderId": "UA-2015-12-03-000175"
+}

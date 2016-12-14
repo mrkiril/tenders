@@ -1,0 +1,206 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "1e0fd62f05d8469ba3a784972a790f11",
+        "time": "2015-12-04T12:54:59.006887+00:00"
+      },
+      "turn_2": {
+        "bidder": "74ac615a616a4cbd9916a7481a66804a",
+        "time": "2015-12-04T12:50:59.008541+00:00"
+      },
+      "turn_3": {
+        "amount": 461250.0,
+        "bid_time": "2015-12-04T14:51:16.383181+02:00",
+        "bidder": "987a7c6459a24e548ed709ff56d4b097",
+        "time": "2015-12-04T12:52:59.009658+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cae6d5613734db38f20f5ec7246f427",
+        "time": "2015-12-04T12:48:59.008559+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "987a7c6459a24e548ed709ff56d4b097",
+        "time": "2015-12-04T13:04:59.007550+00:00"
+      },
+      "turn_2": {
+        "bidder": "74ac615a616a4cbd9916a7481a66804a",
+        "time": "2015-12-04T13:00:59.007610+00:00"
+      },
+      "turn_3": {
+        "bidder": "1e0fd62f05d8469ba3a784972a790f11",
+        "time": "2015-12-04T13:02:59.007892+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cae6d5613734db38f20f5ec7246f427",
+        "time": "2015-12-04T12:58:59.007745+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "74ac615a616a4cbd9916a7481a66804a",
+        "time": "2015-12-04T12:44:59.009354+00:00"
+      },
+      "turn_2": {
+        "amount": 506000.0,
+        "bid_time": "2015-12-04T14:39:50.716458+02:00",
+        "bidder": "987a7c6459a24e548ed709ff56d4b097",
+        "time": "2015-12-04T12:40:59.010940+00:00"
+      },
+      "turn_3": {
+        "amount": 496250.0,
+        "bid_time": "2015-12-04T14:41:57.775505+02:00",
+        "bidder": "1e0fd62f05d8469ba3a784972a790f11",
+        "time": "2015-12-04T12:42:59.012176+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cae6d5613734db38f20f5ec7246f427",
+        "time": "2015-12-04T12:38:59.008850+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7cae6d5613734db38f20f5ec7246f427",
+          "amount": 540000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445937286",
+                "telephone": "+380504196396",
+                "name": "Олійник Максим Володимирович",
+                "email": "22oleynikmv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37045047"
+              },
+              "name": "ТОВ Укрімпексбуд",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01024",
+                "region": "Київська область",
+                "streetAddress": "Круглоуніверситецька 14",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T10:05:32.210378+02:00"
+        },
+        {
+          "bidder": "74ac615a616a4cbd9916a7481a66804a",
+          "amount": 506250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380627482650",
+                "telephone": "+380956035214",
+                "name": "Гарбузова Олена Володимирівна",
+                "email": "elena.artsole@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39476556"
+              },
+              "name": "ТОВ БАХМУТ СІЛЬ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "84500",
+                "region": "Донецька область",
+                "streetAddress": "Пушкіна,42/3",
+                "locality": "Артемівськ"
+              }
+            }
+          ],
+          "time": "2015-12-02T11:56:18.077646+02:00"
+        },
+        {
+          "bidder": "1e0fd62f05d8469ba3a784972a790f11",
+          "amount": 496250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dimior-salt.all.biz",
+                "telephone": "+380990908149",
+                "name": "ТОВ \"ДІМІОР\"",
+                "email": "dimior@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38285566",
+                "legalName": "ТОВ \"ДІМІОР\""
+              },
+              "name": "ТОВ \"ДІМІОР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Запоріжжя, вул. Артема, б. 67, кв. 51",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T14:41:57.775505+02:00"
+        },
+        {
+          "bidder": "987a7c6459a24e548ed709ff56d4b097",
+          "amount": 461250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444564678, +380634199585, +380443315639, +380507340263, +380965066005",
+                "name": "Ольга Марченко",
+                "email": "tovar10@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО «ТД «Меркурий-Т»\"",
+                "id": "37139192",
+                "uri": "http://td-merkurij-t.prom.ua"
+              },
+              "name": "ТОВ \"ООО «ТД «Меркурий-Т»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04114",
+                "region": "Киевская",
+                "streetAddress": "г. Киев, ул. Вышгородская, 38, кв.117",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:51:16.383181+02:00"
+        }
+      ],
+      "time": "2015-12-04T13:05:04.909841+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T17:03:24.570018+02:00",
+          "amount": 540000.0,
+          "bidder": "987a7c6459a24e548ed709ff56d4b097"
+        },
+        {
+          "date": "2015-12-03T10:05:32.210378+02:00",
+          "amount": 540000.0,
+          "bidder": "7cae6d5613734db38f20f5ec7246f427"
+        },
+        {
+          "date": "2015-12-02T11:56:18.077646+02:00",
+          "amount": 506250.0,
+          "bidder": "74ac615a616a4cbd9916a7481a66804a"
+        },
+        {
+          "date": "2015-12-03T16:10:54.333951+02:00",
+          "amount": 506250.0,
+          "bidder": "1e0fd62f05d8469ba3a784972a790f11"
+        }
+      ],
+      "time": "2015-12-04T12:31:59.004524+00:00"
+    }
+  },
+  "id": "1526aba5f83c4d5ba2d3a0fa886955f0",
+  "tenderId": "UA-2015-11-19-000069"
+}

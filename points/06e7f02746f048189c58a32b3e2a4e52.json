@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fa7040c228204f3f958ebf4e088fcd2d",
+        "time": "2015-12-04T13:28:48.008485+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec1af6eb0bf7486f8b70cc81dfcee7a7",
+        "time": "2015-12-04T13:26:48.008382+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fa7040c228204f3f958ebf4e088fcd2d",
+        "time": "2015-12-04T13:34:48.015733+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec1af6eb0bf7486f8b70cc81dfcee7a7",
+        "time": "2015-12-04T13:32:48.008034+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fa7040c228204f3f958ebf4e088fcd2d",
+        "time": "2015-12-04T13:22:48.031171+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec1af6eb0bf7486f8b70cc81dfcee7a7",
+        "time": "2015-12-04T13:20:48.008146+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ec1af6eb0bf7486f8b70cc81dfcee7a7",
+          "amount": 4843.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-04T09:04:05.570390+02:00"
+        },
+        {
+          "bidder": "fa7040c228204f3f958ebf4e088fcd2d",
+          "amount": 3320.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444957575",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»",
+                "email": "kovalenko@filur.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21462503",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ГОЛОСІЇВСЬКИЙ Р-Н, ВУЛ. ТЕРЕМКІВСЬКА, БУД. 2-А, КВ 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T10:45:51.121054+02:00"
+        }
+      ],
+      "time": "2015-12-04T13:34:48.696494+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T09:04:05.570390+02:00",
+          "amount": 4843.0,
+          "bidder": "ec1af6eb0bf7486f8b70cc81dfcee7a7"
+        },
+        {
+          "date": "2015-12-03T10:45:51.121054+02:00",
+          "amount": 3320.0,
+          "bidder": "fa7040c228204f3f958ebf4e088fcd2d"
+        }
+      ],
+      "time": "2015-12-04T13:13:48.004374+00:00"
+    }
+  },
+  "id": "06e7f02746f048189c58a32b3e2a4e52",
+  "tenderId": "UA-2015-12-02-000011-a"
+}

@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 10800.0,
+        "bid_time": "2015-09-18T11:45:13.170274+03:00",
+        "bidder": "2a8cba6cbd6d40889c15c1d380ce989a",
+        "time": "2015-09-18T08:47:00.119440+00:00"
+      },
+      "turn_3": {
+        "amount": 10759.0,
+        "bid_time": "2015-09-18T11:47:18.792752+03:00",
+        "bidder": "98002f0b9cc243bdba742028bdfe2bae",
+        "time": "2015-09-18T08:49:00.053400+00:00"
+      },
+      "turn_1": {
+        "amount": 13542.0,
+        "bid_time": "2015-09-18T11:43:35.007403+03:00",
+        "bidder": "8f6f40f3cdfd47e2a435f7a8bc26aa20",
+        "time": "2015-09-18T08:45:00.246560+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 10400.0,
+        "bid_time": "2015-09-18T11:53:14.917733+03:00",
+        "bidder": "2a8cba6cbd6d40889c15c1d380ce989a",
+        "time": "2015-09-18T08:55:00.043068+00:00"
+      },
+      "turn_3": {
+        "amount": 10389.0,
+        "bid_time": "2015-09-18T11:56:09.620732+03:00",
+        "bidder": "98002f0b9cc243bdba742028bdfe2bae",
+        "time": "2015-09-18T08:57:00.095300+00:00"
+      },
+      "turn_1": {
+        "amount": 13252.0,
+        "bid_time": "2015-09-18T11:51:54.533252+03:00",
+        "bidder": "8f6f40f3cdfd47e2a435f7a8bc26aa20",
+        "time": "2015-09-18T08:53:00.031767+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2a8cba6cbd6d40889c15c1d380ce989a",
+        "time": "2015-09-18T08:39:00.241431+00:00"
+      },
+      "turn_3": {
+        "bidder": "98002f0b9cc243bdba742028bdfe2bae",
+        "time": "2015-09-18T08:41:00.153586+00:00"
+      },
+      "turn_1": {
+        "amount": 14122.0,
+        "bid_time": "2015-09-18T11:35:51.148857+03:00",
+        "bidder": "8f6f40f3cdfd47e2a435f7a8bc26aa20",
+        "time": "2015-09-18T08:37:00.177389+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8f6f40f3cdfd47e2a435f7a8bc26aa20",
+          "amount": 13252.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504447239",
+                "name": "Павел Никитенко",
+                "email": "pavel.nikitenko@pepsico.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22430008",
+                "legalName": "ТОВ \"\"САНДОРА\"\""
+              },
+              "name": "ТОВ \"\"САНДОРА\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "57262",
+                "region": "Николаевская",
+                "streetAddress": "с.Миколаївське, Жовтневий р-н, Миколаївської обл.",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:51:54.533252+03:00"
+        },
+        {
+          "bidder": "2a8cba6cbd6d40889c15c1d380ce989a",
+          "amount": 10400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442229829",
+                "name": "Приватне підприємство \"Ранок К\"",
+                "email": "24264459@mail.gov.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24264459",
+                "legalName": "Приватне підприємство \"Ранок К\""
+              },
+              "name": "Приватне підприємство \"Ранок К\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08131, Київська область, Києво-Святошинський р-н, с. Хотів, вул. Московська, 81",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T11:53:14.917733+03:00"
+        },
+        {
+          "bidder": "98002f0b9cc243bdba742028bdfe2bae",
+          "amount": 10389.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:56:09.620732+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:57:13.163936+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T10:43:55.307105+03:00",
+          "amount": 14412.0,
+          "bidder": "8f6f40f3cdfd47e2a435f7a8bc26aa20"
+        },
+        {
+          "date": "2015-09-16T14:32:35.893549+03:00",
+          "amount": 12100.0,
+          "bidder": "2a8cba6cbd6d40889c15c1d380ce989a"
+        },
+        {
+          "date": "2015-09-17T12:32:24.014162+03:00",
+          "amount": 11049.2,
+          "bidder": "98002f0b9cc243bdba742028bdfe2bae"
+        }
+      ],
+      "time": "2015-09-18T08:30:00.019540+00:00"
+    }
+  },
+  "id": "42e4042644864375b9011dec999d40fa",
+  "tenderId": "UA-2015-09-11-000171"
+}

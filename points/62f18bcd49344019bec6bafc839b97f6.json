@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9311c9b0332f4a82a37c70acc71ee45d",
+        "time": "2015-09-25T10:17:00.048694+00:00"
+      },
+      "turn_3": {
+        "bidder": "4d057c16935b43799e8713a8efde6614",
+        "time": "2015-09-25T10:19:00.029584+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fdb34b4331b46b7ae3c78bb3830b727",
+        "time": "2015-09-25T10:15:00.088171+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9311c9b0332f4a82a37c70acc71ee45d",
+        "time": "2015-09-25T10:25:00.019000+00:00"
+      },
+      "turn_3": {
+        "bidder": "4d057c16935b43799e8713a8efde6614",
+        "time": "2015-09-25T10:27:00.020198+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fdb34b4331b46b7ae3c78bb3830b727",
+        "time": "2015-09-25T10:23:00.030538+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 29950.0,
+        "bid_time": "2015-09-25T13:07:59.831359+03:00",
+        "bidder": "4d057c16935b43799e8713a8efde6614",
+        "time": "2015-09-25T10:09:00.071402+00:00"
+      },
+      "turn_3": {
+        "bidder": "9311c9b0332f4a82a37c70acc71ee45d",
+        "time": "2015-09-25T10:11:00.019374+00:00"
+      },
+      "turn_1": {
+        "bidder": "2fdb34b4331b46b7ae3c78bb3830b727",
+        "time": "2015-09-25T10:07:00.057005+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2fdb34b4331b46b7ae3c78bb3830b727",
+          "amount": 32000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sportmir.dp.ua",
+                "faxNumber": "+380563716989",
+                "telephone": "+380969394637",
+                "name": "БІЛОУС ЮРІЙ ВАСИЛЬОВИЧ",
+                "email": "dneprsportservis@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2201122015"
+              },
+              "name": "ФОП БІЛОУС Ю.В.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "ВУЛ. КОСІОРА БУД. 47-А КВ. 166",
+                "locality": "ДНІПРОПЕТРОВСЬК"
+              }
+            }
+          ],
+          "time": "2015-09-22T10:26:07.917676+03:00"
+        },
+        {
+          "bidder": "9311c9b0332f4a82a37c70acc71ee45d",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0506876037",
+                "name": "Гач Світлана Григорівна",
+                "email": "gachsg@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1866010746",
+                "legalName": "Фізична особа підприємець Гач Світлана Григорівна"
+              },
+              "name": "Фізична особа підприємець Гач Світлана Григорівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02100",
+                "region": "Київська",
+                "streetAddress": "Бажова, 2, кв.74",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T15:08:23.959779+03:00"
+        },
+        {
+          "bidder": "4d057c16935b43799e8713a8efde6614",
+          "amount": 29950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679719191",
+                "name": "Середа Віталій Вікторович",
+                "email": "rentsport@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36865748"
+              },
+              "name": "ТОВ Українська торгово-інвестиційна компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Почайнинська, 28-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-25T13:07:59.831359+03:00"
+        }
+      ],
+      "time": "2015-09-25T10:27:04.463420+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T10:26:07.917676+03:00",
+          "amount": 32000.0,
+          "bidder": "2fdb34b4331b46b7ae3c78bb3830b727"
+        },
+        {
+          "date": "2015-09-22T15:46:26.655971+03:00",
+          "amount": 31272.0,
+          "bidder": "4d057c16935b43799e8713a8efde6614"
+        },
+        {
+          "date": "2015-09-22T15:08:23.959779+03:00",
+          "amount": 30000.0,
+          "bidder": "9311c9b0332f4a82a37c70acc71ee45d"
+        }
+      ],
+      "time": "2015-09-25T10:00:00.013683+00:00"
+    }
+  },
+  "id": "62f18bcd49344019bec6bafc839b97f6",
+  "tenderId": "UA-2015-09-21-000147"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "54445f2cfe0547f685744294bc14f8aa",
+        "time": "2015-08-27T09:45:00.027377+00:00"
+      },
+      "turn_1": {
+        "bidder": "16c65ae488174758bdff74e4714ce813",
+        "time": "2015-08-27T09:43:00.026957+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "54445f2cfe0547f685744294bc14f8aa",
+        "time": "2015-08-27T09:51:00.014593+00:00"
+      },
+      "turn_1": {
+        "bidder": "16c65ae488174758bdff74e4714ce813",
+        "time": "2015-08-27T09:49:00.024736+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "54445f2cfe0547f685744294bc14f8aa",
+        "time": "2015-08-27T09:39:00.033582+00:00"
+      },
+      "turn_1": {
+        "bidder": "16c65ae488174758bdff74e4714ce813",
+        "time": "2015-08-27T09:37:00.025028+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "16c65ae488174758bdff74e4714ce813",
+          "amount": 17196.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671274886",
+                "name": "Владимир Колосан",
+                "email": "kolosan@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32938047",
+                "legalName": "ТОВ \"\"КВОРУМ-НАФТА\"\""
+              },
+              "name": "ТОВ \"\"КВОРУМ-НАФТА\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54003",
+                "region": "Николаевская",
+                "streetAddress": "",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-08-26T10:16:23.968232+03:00"
+        },
+        {
+          "bidder": "54445f2cfe0547f685744294bc14f8aa",
+          "amount": 17190.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://artoil.agronovator.ua",
+                "telephone": "+380676983888",
+                "name": "ТОВ \"АРТ ОЙЛ\"",
+                "email": "trader77@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39132801",
+                "legalName": "ТОВ \"АРТ ОЙЛ\""
+              },
+              "name": "ТОВ \"АРТ ОЙЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, Україна, місто Київ, бульвар Лесі Українки, буд. 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T08:04:22.851084+03:00"
+        }
+      ],
+      "time": "2015-08-27T09:51:00.876962+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-26T10:16:23.968232+03:00",
+          "amount": 17196.7,
+          "bidder": "16c65ae488174758bdff74e4714ce813"
+        },
+        {
+          "date": "2015-08-27T08:04:22.851084+03:00",
+          "amount": 17190.0,
+          "bidder": "54445f2cfe0547f685744294bc14f8aa"
+        }
+      ],
+      "time": "2015-08-27T09:30:00.009052+00:00"
+    }
+  },
+  "id": "e86531a29f4f48ae8402fcb9fa3ddc51",
+  "tenderId": "UA-2015-08-25-000002"
+}

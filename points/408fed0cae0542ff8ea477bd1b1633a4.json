@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "060ab5149ceb4614a8e9b51b32a5e9ba",
+        "time": "2015-12-16T11:24:43.008067+00:00"
+      },
+      "turn_1": {
+        "bidder": "13fda100a85149fdbc3e5b86ec631545",
+        "time": "2015-12-16T11:22:43.008413+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "060ab5149ceb4614a8e9b51b32a5e9ba",
+        "time": "2015-12-16T11:30:43.022418+00:00"
+      },
+      "turn_1": {
+        "bidder": "13fda100a85149fdbc3e5b86ec631545",
+        "time": "2015-12-16T11:28:43.007911+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 12600.0,
+        "bid_time": "2015-12-16T13:18:16.362827+02:00",
+        "bidder": "060ab5149ceb4614a8e9b51b32a5e9ba",
+        "time": "2015-12-16T11:18:43.010366+00:00"
+      },
+      "turn_1": {
+        "bidder": "13fda100a85149fdbc3e5b86ec631545",
+        "time": "2015-12-16T11:16:43.009471+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "13fda100a85149fdbc3e5b86ec631545",
+          "amount": 13000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0955024577",
+                "name": "Сосновский Андрій Олександрович",
+                "email": "info@bvdc.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3323615275",
+                "legalName": "ФОП Сосновский Андрій Олександрович"
+              },
+              "name": "ФОП Сосновский Андрій Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09332",
+                "region": "Київська",
+                "streetAddress": "провулок 9-го травня буд 11",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T09:14:40.380483+02:00"
+        },
+        {
+          "bidder": "060ab5149ceb4614a8e9b51b32a5e9ba",
+          "amount": 12600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380953472073",
+                "name": "Борис Полажинец",
+                "email": "pboris@eurhythmics.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33463803",
+                "legalName": "ТОВ \"Юритмикс\""
+              },
+              "name": "ТОВ \"Юритмикс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "89600",
+                "region": "Закарпатская",
+                "streetAddress": "89600, Закарпатська область, місто Мукачево, вул Недеції 30",
+                "locality": "Мукачево"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:18:16.362827+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:30:45.053854+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T09:14:40.380483+02:00",
+          "amount": 13000.0,
+          "bidder": "13fda100a85149fdbc3e5b86ec631545"
+        },
+        {
+          "date": "2015-12-14T11:18:35.224888+02:00",
+          "amount": 12800.0,
+          "bidder": "060ab5149ceb4614a8e9b51b32a5e9ba"
+        }
+      ],
+      "time": "2015-12-16T11:09:43.004502+00:00"
+    }
+  },
+  "id": "408fed0cae0542ff8ea477bd1b1633a4",
+  "tenderId": "UA-2015-12-10-000208-b"
+}

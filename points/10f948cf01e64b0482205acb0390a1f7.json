@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e46d32b135234848a61043517a7635d7",
+        "time": "2015-07-03T09:47:00.027217+00:00"
+      },
+      "turn_3": {
+        "bidder": "2247c7bb2de9446eb53ff194a748c1aa",
+        "time": "2015-07-03T09:49:00.025535+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd496b7a89b0481f8322ed809fdb3c1f",
+        "time": "2015-07-03T09:45:00.010035+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e46d32b135234848a61043517a7635d7",
+        "time": "2015-07-03T09:55:00.022655+00:00"
+      },
+      "turn_3": {
+        "bidder": "2247c7bb2de9446eb53ff194a748c1aa",
+        "time": "2015-07-03T09:57:00.022146+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd496b7a89b0481f8322ed809fdb3c1f",
+        "time": "2015-07-03T09:53:00.022200+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2500.0,
+        "bid_time": "2015-07-03T12:37:23.039746+03:00",
+        "bidder": "2247c7bb2de9446eb53ff194a748c1aa",
+        "time": "2015-07-03T09:39:00.028684+00:00"
+      },
+      "turn_3": {
+        "bidder": "e46d32b135234848a61043517a7635d7",
+        "time": "2015-07-03T09:41:00.045385+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd496b7a89b0481f8322ed809fdb3c1f",
+        "time": "2015-07-03T09:37:00.044846+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fd496b7a89b0481f8322ed809fdb3c1f",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380963147404",
+                "name": "ООО \"Майком\"",
+                "email": "yana.d@axiomplus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37311301",
+                "legalName": "ООО \"Майком\""
+              },
+              "name": "ООО \"Майком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03142",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "ул. Академика Крымского, 27-А",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-03T09:54:13.343849+03:00"
+        },
+        {
+          "bidder": "e46d32b135234848a61043517a7635d7",
+          "amount": 2970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://debut.ua/",
+                "faxNumber": "3900393",
+                "telephone": "0990725005",
+                "name": "ТОВ\"Дебют-Центр\"",
+                "email": "zhukovskayadebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "ТОВ\"Дебют-Центр\""
+              },
+              "name": "ТОВ\"Дебют-Центр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська",
+                "streetAddress": "Чапаєва",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T15:24:05.916240+03:00"
+        },
+        {
+          "bidder": "2247c7bb2de9446eb53ff194a748c1aa",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T12:37:23.039746+03:00"
+        }
+      ],
+      "time": "2015-07-03T09:57:01.551141+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-03T09:54:13.343849+03:00",
+          "amount": 3500.0,
+          "bidder": "fd496b7a89b0481f8322ed809fdb3c1f"
+        },
+        {
+          "date": "2015-07-01T13:44:48.450745+03:00",
+          "amount": 3000.0,
+          "bidder": "2247c7bb2de9446eb53ff194a748c1aa"
+        },
+        {
+          "date": "2015-07-02T15:24:05.916240+03:00",
+          "amount": 2970.0,
+          "bidder": "e46d32b135234848a61043517a7635d7"
+        }
+      ],
+      "time": "2015-07-03T09:30:00.004949+00:00"
+    }
+  },
+  "id": "10f948cf01e64b0482205acb0390a1f7",
+  "tenderId": "UA-2015-06-25-000108"
+}

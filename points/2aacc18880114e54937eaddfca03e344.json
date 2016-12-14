@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bad1bff404b74420b5cd021386953913",
+        "time": "2015-05-15T08:15:00.169513+00:00"
+      },
+      "turn_1": {
+        "bidder": "a372db2ae8aa46a090cc157577677952",
+        "time": "2015-05-15T08:13:00.335679+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bad1bff404b74420b5cd021386953913",
+        "time": "2015-05-15T08:21:00.598333+00:00"
+      },
+      "turn_1": {
+        "bidder": "a372db2ae8aa46a090cc157577677952",
+        "time": "2015-05-15T08:19:00.404954+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bad1bff404b74420b5cd021386953913",
+        "time": "2015-05-15T08:09:00.133764+00:00"
+      },
+      "turn_1": {
+        "bidder": "a372db2ae8aa46a090cc157577677952",
+        "time": "2015-05-15T08:07:00.306949+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a372db2ae8aa46a090cc157577677952",
+          "amount": 19500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512-36-91-77",
+                "email": "automag247@mail.ru",
+                "name": "ТОВ Автозапчастини 24/7"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39149679",
+                "legalName": "ТОВ Автозапчастини 24/7"
+              },
+              "name": "ТОВ Автозапчастини 24/7",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54030",
+                "region": "Миколаївська",
+                "streetAddress": "Потьомкiнська 41/3",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-05-13T12:04:45.541347+03:00"
+        },
+        {
+          "bidder": "bad1bff404b74420b5cd021386953913",
+          "amount": 18550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.autogrand.com.ua",
+                "faxNumber": "76-86-96",
+                "telephone": "76-95-95",
+                "name": "ТОВ \" Автогранд Миколаїв\"",
+                "email": "victor.kluev@autogrand.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35722785",
+                "legalName": "ТОВ \" Автогранд Миколаїв\""
+              },
+              "name": "ТОВ \" Автогранд Миколаїв\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54037",
+                "region": "Миколаївська",
+                "streetAddress": "проспект Жовтневий, 234/7",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-05-12T15:31:04.506634+03:00"
+        }
+      ],
+      "time": "2015-05-15T08:21:07.430856+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-13T12:04:45.541347+03:00",
+          "amount": 19500.0,
+          "bidder": "a372db2ae8aa46a090cc157577677952"
+        },
+        {
+          "date": "2015-05-12T15:31:04.506634+03:00",
+          "amount": 18550.0,
+          "bidder": "bad1bff404b74420b5cd021386953913"
+        }
+      ],
+      "time": "2015-05-15T08:00:00.215833+00:00"
+    }
+  },
+  "id": "2aacc18880114e54937eaddfca03e344",
+  "tenderId": "UA-2015-05-05-000001"
+}

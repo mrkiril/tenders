@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1c08d1d00456484c99cfde74ce5a7505",
+        "time": "2015-10-30T12:51:35.006110+00:00"
+      },
+      "turn_1": {
+        "bidder": "b869dc7c1e1a491798e476b961e49a54",
+        "time": "2015-10-30T12:49:35.006787+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1c08d1d00456484c99cfde74ce5a7505",
+        "time": "2015-10-30T12:57:35.009965+00:00"
+      },
+      "turn_1": {
+        "bidder": "b869dc7c1e1a491798e476b961e49a54",
+        "time": "2015-10-30T12:55:35.006179+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1c08d1d00456484c99cfde74ce5a7505",
+        "time": "2015-10-30T12:45:35.006656+00:00"
+      },
+      "turn_1": {
+        "bidder": "b869dc7c1e1a491798e476b961e49a54",
+        "time": "2015-10-30T12:43:35.006361+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b869dc7c1e1a491798e476b961e49a54",
+          "amount": 5450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vindek.net",
+                "telephone": "+380442214710",
+                "name": "Соколов Віталій Юрійович",
+                "email": "vindekua@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2806805811"
+              },
+              "name": "ФОП Соколов Віталій Юрійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09100",
+                "region": "Київська область",
+                "streetAddress": "вул. Гайок, буд. 237, кв. 42",
+                "locality": "місто Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-10-27T16:33:57.941510+02:00"
+        },
+        {
+          "bidder": "1c08d1d00456484c99cfde74ce5a7505",
+          "amount": 5400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://trial.ua",
+                "telephone": "+380445372768",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ТРІАЛ КИЇВ ГРУП\"",
+                "email": "trial2000@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39751977",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ТРІАЛ КИЇВ ГРУП\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ТРІАЛ КИЇВ ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02090, м.Київ, ВУЛИЦЯ АЛМА-АТИНСЬКА, будинок 2/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T10:40:56.035996+02:00"
+        }
+      ],
+      "time": "2015-10-30T12:57:37.441182+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T16:33:57.941510+02:00",
+          "amount": 5450.0,
+          "bidder": "b869dc7c1e1a491798e476b961e49a54"
+        },
+        {
+          "date": "2015-10-27T10:40:56.035996+02:00",
+          "amount": 5400.0,
+          "bidder": "1c08d1d00456484c99cfde74ce5a7505"
+        }
+      ],
+      "time": "2015-10-30T12:36:35.003604+00:00"
+    }
+  },
+  "id": "a1ddb5364f734d0fa534d17a5cb20d7a",
+  "tenderId": "UA-2015-10-21-000391"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "48afd8049a0d4c58bca67f2a1bf443d1",
+        "time": "2015-10-29T11:21:12.008164+00:00"
+      },
+      "turn_1": {
+        "amount": 1450.0,
+        "bid_time": "2015-10-29T13:19:01.641685+02:00",
+        "bidder": "fcfa1ec5d2f449b4a48c0b3959454787",
+        "time": "2015-10-29T11:19:12.008439+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fcfa1ec5d2f449b4a48c0b3959454787",
+        "time": "2015-10-29T11:27:12.008209+00:00"
+      },
+      "turn_1": {
+        "bidder": "48afd8049a0d4c58bca67f2a1bf443d1",
+        "time": "2015-10-29T11:25:12.006630+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "48afd8049a0d4c58bca67f2a1bf443d1",
+        "time": "2015-10-29T11:15:12.010221+00:00"
+      },
+      "turn_1": {
+        "bidder": "fcfa1ec5d2f449b4a48c0b3959454787",
+        "time": "2015-10-29T11:13:12.011888+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "48afd8049a0d4c58bca67f2a1bf443d1",
+          "amount": 1500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://agapit.com.ua",
+                "telephone": "+380445010021",
+                "name": "Приватне підприємство \"Агапіт\"",
+                "email": "agapitkanc@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32734033",
+                "legalName": "Приватне підприємство \"Агапіт\""
+              },
+              "name": "Приватне підприємство \"Агапіт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03134 м.Київ, вул.Симиренка, 24 оф.8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T12:20:23.364056+02:00"
+        },
+        {
+          "bidder": "fcfa1ec5d2f449b4a48c0b3959454787",
+          "amount": 1450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:19:01.641685+02:00"
+        }
+      ],
+      "time": "2015-10-29T11:27:14.892590+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T14:47:56.855592+02:00",
+          "amount": 1600.0,
+          "bidder": "fcfa1ec5d2f449b4a48c0b3959454787"
+        },
+        {
+          "date": "2015-10-28T12:20:23.364056+02:00",
+          "amount": 1500.0,
+          "bidder": "48afd8049a0d4c58bca67f2a1bf443d1"
+        }
+      ],
+      "time": "2015-10-29T11:06:12.003608+00:00"
+    }
+  },
+  "id": "04a249d76ebf4575a9c88c9af9259fdc",
+  "tenderId": "UA-2015-10-23-000049"
+}

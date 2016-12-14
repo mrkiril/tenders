@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "83efd4940aa84a68b397881a427587e6",
+        "time": "2015-06-26T08:45:00.260735+00:00"
+      },
+      "turn_1": {
+        "bidder": "eef1387c9b854f3a8d954d5b2408b12e",
+        "time": "2015-06-26T08:43:00.116456+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "83efd4940aa84a68b397881a427587e6",
+        "time": "2015-06-26T08:51:00.124755+00:00"
+      },
+      "turn_1": {
+        "bidder": "eef1387c9b854f3a8d954d5b2408b12e",
+        "time": "2015-06-26T08:49:00.169833+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "83efd4940aa84a68b397881a427587e6",
+        "time": "2015-06-26T08:39:00.181018+00:00"
+      },
+      "turn_1": {
+        "bidder": "eef1387c9b854f3a8d954d5b2408b12e",
+        "time": "2015-06-26T08:37:00.354990+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eef1387c9b854f3a8d954d5b2408b12e",
+          "amount": 63.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T14:50:47.058366+03:00"
+        },
+        {
+          "bidder": "83efd4940aa84a68b397881a427587e6",
+          "amount": 59.88,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-25T12:38:19.952272+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:51:06.896248+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-25T14:50:47.058366+03:00",
+          "amount": 63.84,
+          "bidder": "eef1387c9b854f3a8d954d5b2408b12e"
+        },
+        {
+          "date": "2015-06-25T12:38:19.952272+03:00",
+          "amount": 59.88,
+          "bidder": "83efd4940aa84a68b397881a427587e6"
+        }
+      ],
+      "time": "2015-06-26T08:30:00.116859+00:00"
+    }
+  },
+  "id": "d1621907f2ad4f3c8d6a675dd59aaf9a",
+  "tenderId": "UA-2015-06-19-000012"
+}

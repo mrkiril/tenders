@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 286335.0,
+        "bid_time": "2015-07-09T11:14:48.689414+03:00",
+        "bidder": "d1546fa7ba3c4b1d9423f0f3c03e7fcb",
+        "time": "2015-07-09T08:15:00.253325+00:00"
+      },
+      "turn_1": {
+        "bidder": "a94ab96df1904bd29437933ec649594f",
+        "time": "2015-07-09T08:13:00.457677+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d1546fa7ba3c4b1d9423f0f3c03e7fcb",
+        "time": "2015-07-09T08:21:01.037168+00:00"
+      },
+      "turn_1": {
+        "bidder": "a94ab96df1904bd29437933ec649594f",
+        "time": "2015-07-09T08:19:00.813978+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d1546fa7ba3c4b1d9423f0f3c03e7fcb",
+        "time": "2015-07-09T08:09:00.159392+00:00"
+      },
+      "turn_1": {
+        "bidder": "a94ab96df1904bd29437933ec649594f",
+        "time": "2015-07-09T08:07:00.878243+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a94ab96df1904bd29437933ec649594f",
+          "amount": 287461.35,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gazovik.kiev.ua",
+                "faxNumber": "0444063362",
+                "telephone": "0970870450",
+                "name": "Білокопитий Олексій Миколайович",
+                "email": "bilokom@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30161072",
+                "legalName": "ТОВ \"Газовик\""
+              },
+              "name": "ТОВ \"Газовик\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "Київська",
+                "streetAddress": "буд. 35, кв.26.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-08T10:19:19.231695+03:00"
+        },
+        {
+          "bidder": "d1546fa7ba3c4b1d9423f0f3c03e7fcb",
+          "amount": 286335.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "ev_sky@ukr.net",
+                "name": "Семененко Олена Вікторівна"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30928236",
+                "legalName": "ДП \"ПРОПАН\""
+              },
+              "name": "ДП \"ПРОПАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська",
+                "streetAddress": "вул.Молодогвардійська,,буд. 22",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T11:14:48.689414+03:00"
+        }
+      ],
+      "time": "2015-07-09T08:21:24.723243+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-08T10:19:19.231695+03:00",
+          "amount": 287461.35,
+          "bidder": "a94ab96df1904bd29437933ec649594f"
+        },
+        {
+          "date": "2015-07-07T15:11:59.080595+03:00",
+          "amount": 287335.0,
+          "bidder": "d1546fa7ba3c4b1d9423f0f3c03e7fcb"
+        }
+      ],
+      "time": "2015-07-09T08:00:00.010474+00:00"
+    }
+  },
+  "id": "3974f627c9a84082acc74e1094cf5b85",
+  "tenderId": "UA-2015-06-29-000005"
+}

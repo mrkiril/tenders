@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "92d5157db1334291896787a9834595ba",
+        "time": "2015-07-27T08:15:00.122650+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af137b3847b448fb20c261e9c10b71f",
+        "time": "2015-07-27T08:13:00.053497+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "92d5157db1334291896787a9834595ba",
+        "time": "2015-07-27T08:21:00.046555+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af137b3847b448fb20c261e9c10b71f",
+        "time": "2015-07-27T08:19:00.073985+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "92d5157db1334291896787a9834595ba",
+        "time": "2015-07-27T08:09:00.059250+00:00"
+      },
+      "turn_1": {
+        "bidder": "3af137b3847b448fb20c261e9c10b71f",
+        "time": "2015-07-27T08:07:00.066744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3af137b3847b448fb20c261e9c10b71f",
+          "amount": 6300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-24T11:26:26.045046+03:00"
+        },
+        {
+          "bidder": "92d5157db1334291896787a9834595ba",
+          "amount": 6200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooorit.com",
+                "telephone": "+380679378294",
+                "name": "ТОВ РІТ",
+                "email": "rit22@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32242883",
+                "legalName": "ТОВ РІТ"
+              },
+              "name": "ТОВ РІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69035 м. Запоріжжя вул. Лермонтова буд. 14 кв. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-22T16:33:28.136595+03:00"
+        }
+      ],
+      "time": "2015-07-27T08:21:04.468147+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-24T11:26:26.045046+03:00",
+          "amount": 6300.0,
+          "bidder": "3af137b3847b448fb20c261e9c10b71f"
+        },
+        {
+          "date": "2015-07-22T16:33:28.136595+03:00",
+          "amount": 6200.0,
+          "bidder": "92d5157db1334291896787a9834595ba"
+        }
+      ],
+      "time": "2015-07-27T08:00:00.048931+00:00"
+    }
+  },
+  "id": "554b2982f64946059c73cf397fbeb4f4",
+  "tenderId": "UA-2015-07-22-000059"
+}

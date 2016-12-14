@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "22638ca7e0ce472e8449fa579cec91e4",
+        "time": "2015-10-21T08:58:12.009360+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c9cfcaad0ae423eab5dae20b624a2f0",
+        "time": "2015-10-21T08:56:12.008825+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "22638ca7e0ce472e8449fa579cec91e4",
+        "time": "2015-10-21T09:04:12.008226+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c9cfcaad0ae423eab5dae20b624a2f0",
+        "time": "2015-10-21T09:02:12.008511+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "22638ca7e0ce472e8449fa579cec91e4",
+        "time": "2015-10-21T08:52:12.012282+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c9cfcaad0ae423eab5dae20b624a2f0",
+        "time": "2015-10-21T08:50:12.016167+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c9cfcaad0ae423eab5dae20b624a2f0",
+          "amount": 998580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0503095115",
+                "name": "Боцман Сергій Іванович",
+                "email": "sergeybotsman1987@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3195106752",
+                "legalName": "Фізична особа-підприємець Боцман Сергій Іванович"
+              },
+              "name": "Фізична особа-підприємець Боцман Сергій Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61171",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе д 242 а кв 130",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T10:29:06.807392+03:00"
+        },
+        {
+          "bidder": "22638ca7e0ce472e8449fa579cec91e4",
+          "amount": 990944.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0990987488",
+                "name": "Шахов Анатолій Сергійович",
+                "email": "7488@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2961619853",
+                "legalName": "Фізична особа-підприємець Шахов Анатолій Сергійович"
+              },
+              "name": "Фізична особа-підприємець Шахов Анатолій Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61033",
+                "region": "Харківська",
+                "streetAddress": "пров. Гладкий, 11",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T10:27:06.566238+03:00"
+        }
+      ],
+      "time": "2015-10-21T09:04:15.052501+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T10:29:06.807392+03:00",
+          "amount": 998580.0,
+          "bidder": "6c9cfcaad0ae423eab5dae20b624a2f0"
+        },
+        {
+          "date": "2015-10-20T10:27:06.566238+03:00",
+          "amount": 990944.5,
+          "bidder": "22638ca7e0ce472e8449fa579cec91e4"
+        }
+      ],
+      "time": "2015-10-21T08:43:12.006856+00:00"
+    }
+  },
+  "id": "0ade5d20a0574d9ab0553a111d5b6e4d",
+  "tenderId": "UA-2015-10-12-000270"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d6f2ca26ebbf4424be6966121e124dd4",
+        "time": "2015-06-19T08:15:00.145697+00:00"
+      },
+      "turn_1": {
+        "bidder": "a618f22bbdc0413c9af2af54890b1e17",
+        "time": "2015-06-19T08:13:00.277680+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d6f2ca26ebbf4424be6966121e124dd4",
+        "time": "2015-06-19T08:21:00.275059+00:00"
+      },
+      "turn_1": {
+        "bidder": "a618f22bbdc0413c9af2af54890b1e17",
+        "time": "2015-06-19T08:19:00.160557+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 144200.5,
+        "bid_time": "2015-06-19T11:08:13.526018+03:00",
+        "bidder": "d6f2ca26ebbf4424be6966121e124dd4",
+        "time": "2015-06-19T08:09:00.427181+00:00"
+      },
+      "turn_1": {
+        "bidder": "a618f22bbdc0413c9af2af54890b1e17",
+        "time": "2015-06-19T08:07:00.126718+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a618f22bbdc0413c9af2af54890b1e17",
+          "amount": 154198.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prostil.com.ua/",
+                "telephone": "+380676175622",
+                "name": "ООО Простиль",
+                "email": "torg@prostil.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38520368",
+                "legalName": "ООО Простиль"
+              },
+              "name": "ООО Простиль",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69006,г.Запорожье, ул.Северное шоссе 12-А, оф.2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-19T08:53:14.732306+03:00"
+        },
+        {
+          "bidder": "d6f2ca26ebbf4424be6966121e124dd4",
+          "amount": 144200.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://uitc.kiev.ua",
+                "telephone": "+380503154808",
+                "name": "ООО\"Украинская   международная  торговая  компания \"",
+                "email": "gromovech@uitc.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36046631",
+                "legalName": "ООО\"Украинская   международная  торговая  компания \""
+              },
+              "name": "ООО\"Украинская   международная  торговая  компания \"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02068 г.Киев  ул. А. Ахматовой  13д оф462",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-19T11:08:13.526018+03:00"
+        }
+      ],
+      "time": "2015-06-19T08:21:23.517552+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-19T08:53:14.732306+03:00",
+          "amount": 154198.8,
+          "bidder": "a618f22bbdc0413c9af2af54890b1e17"
+        },
+        {
+          "date": "2015-06-19T08:55:57.933649+03:00",
+          "amount": 145000.5,
+          "bidder": "d6f2ca26ebbf4424be6966121e124dd4"
+        }
+      ],
+      "time": "2015-06-19T08:00:00.112604+00:00"
+    }
+  },
+  "id": "c1d874e216a04f23b3cc9d35286cdb08",
+  "tenderId": "UA-2015-06-15-000005"
+}

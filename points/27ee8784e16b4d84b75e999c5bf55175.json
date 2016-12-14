@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a706f0deb05544a6806e1ca736c42caa",
+        "time": "2015-12-07T13:49:55.010805+00:00"
+      },
+      "turn_3": {
+        "bidder": "0a5ec5c9a7374fef8fe3fd58318b0c7c",
+        "time": "2015-12-07T13:51:55.013283+00:00"
+      },
+      "turn_1": {
+        "bidder": "582cc6fa405e4e94878d2f4bc22717e6",
+        "time": "2015-12-07T13:47:55.011985+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a706f0deb05544a6806e1ca736c42caa",
+        "time": "2015-12-07T13:57:55.009414+00:00"
+      },
+      "turn_3": {
+        "bidder": "0a5ec5c9a7374fef8fe3fd58318b0c7c",
+        "time": "2015-12-07T13:59:55.008763+00:00"
+      },
+      "turn_1": {
+        "bidder": "582cc6fa405e4e94878d2f4bc22717e6",
+        "time": "2015-12-07T13:55:55.009374+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a706f0deb05544a6806e1ca736c42caa",
+        "time": "2015-12-07T13:41:55.009946+00:00"
+      },
+      "turn_3": {
+        "bidder": "0a5ec5c9a7374fef8fe3fd58318b0c7c",
+        "time": "2015-12-07T13:43:55.008576+00:00"
+      },
+      "turn_1": {
+        "bidder": "582cc6fa405e4e94878d2f4bc22717e6",
+        "time": "2015-12-07T13:39:55.009717+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "582cc6fa405e4e94878d2f4bc22717e6",
+          "amount": 1045.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112, +380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-06T15:18:54.404911+02:00"
+        },
+        {
+          "bidder": "a706f0deb05544a6806e1ca736c42caa",
+          "amount": 998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Михайло  Синюченко",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T07:18:45.112037+02:00"
+        },
+        {
+          "bidder": "0a5ec5c9a7374fef8fe3fd58318b0c7c",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677032413",
+                "name": "ФОП Литвинчук Максим Олександрович",
+                "email": "maks_l@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2921005339",
+                "legalName": "ФОП Литвинчук Максим Олександрович"
+              },
+              "name": "ФОП Литвинчук Максим Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Луцьк. вул.Сагайдачного 1 кв18\r\nіндекс 43020",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-05T17:15:54.805757+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:59:58.080782+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-06T15:18:54.404911+02:00",
+          "amount": 1045.0,
+          "bidder": "582cc6fa405e4e94878d2f4bc22717e6"
+        },
+        {
+          "date": "2015-12-04T07:18:45.112037+02:00",
+          "amount": 998.0,
+          "bidder": "a706f0deb05544a6806e1ca736c42caa"
+        },
+        {
+          "date": "2015-12-05T17:15:54.805757+02:00",
+          "amount": 900.0,
+          "bidder": "0a5ec5c9a7374fef8fe3fd58318b0c7c"
+        }
+      ],
+      "time": "2015-12-07T13:32:55.005521+00:00"
+    }
+  },
+  "id": "27ee8784e16b4d84b75e999c5bf55175",
+  "tenderId": "UA-2015-11-30-000029-a"
+}

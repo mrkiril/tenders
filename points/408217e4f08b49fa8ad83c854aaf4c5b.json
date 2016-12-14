@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d459ba381fd840d891b28c2ceb6526a7",
+        "time": "2015-12-11T13:26:24.008456+00:00"
+      },
+      "turn_1": {
+        "bidder": "86e3667c9c024073aeccc37eee949ecb",
+        "time": "2015-12-11T13:24:24.008673+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d459ba381fd840d891b28c2ceb6526a7",
+        "time": "2015-12-11T13:32:24.008538+00:00"
+      },
+      "turn_1": {
+        "bidder": "86e3667c9c024073aeccc37eee949ecb",
+        "time": "2015-12-11T13:30:24.013364+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d459ba381fd840d891b28c2ceb6526a7",
+        "time": "2015-12-11T13:20:24.006455+00:00"
+      },
+      "turn_1": {
+        "bidder": "86e3667c9c024073aeccc37eee949ecb",
+        "time": "2015-12-11T13:18:24.008972+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "86e3667c9c024073aeccc37eee949ecb",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972810970",
+                "name": "Елена Коновалова",
+                "email": "keg83-83@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3046417041",
+                "legalName": "ФОП \"КОНОВАЛОВА О.Г.\""
+              },
+              "name": "ФОП \"КОНОВАЛОВА О.Г.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "49000, Дніпропетровська область, місто Дніпропетровськ, пр.Карла Маркса 96а. кв.3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-09T16:51:02.266355+02:00"
+        },
+        {
+          "bidder": "d459ba381fd840d891b28c2ceb6526a7",
+          "amount": 3420.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970075165",
+                "name": "Олена Тендітник",
+                "email": "tenditnay@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2918501547",
+                "legalName": "ФОП \"Тендітник Олена\""
+              },
+              "name": "ФОП \"Тендітник Олена\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52000",
+                "region": "Днепропетровская",
+                "streetAddress": "вул. Пушкіна, 18",
+                "locality": "Підгородне"
+              }
+            }
+          ],
+          "time": "2015-12-09T16:46:36.846288+02:00"
+        }
+      ],
+      "time": "2015-12-11T13:32:26.616909+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T16:51:02.266355+02:00",
+          "amount": 3500.0,
+          "bidder": "86e3667c9c024073aeccc37eee949ecb"
+        },
+        {
+          "date": "2015-12-09T16:46:36.846288+02:00",
+          "amount": 3420.0,
+          "bidder": "d459ba381fd840d891b28c2ceb6526a7"
+        }
+      ],
+      "time": "2015-12-11T13:11:24.004492+00:00"
+    }
+  },
+  "id": "408217e4f08b49fa8ad83c854aaf4c5b",
+  "tenderId": "UA-2015-12-04-000086"
+}

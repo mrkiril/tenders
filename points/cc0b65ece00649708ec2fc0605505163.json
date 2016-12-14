@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 44499.0,
+        "bid_time": "2015-10-09T12:44:31.583945+03:00",
+        "bidder": "7f2d16fa57f149f7a8005ddaac78ee77",
+        "time": "2015-10-09T09:45:59.007526+00:00"
+      },
+      "turn_1": {
+        "amount": 44500.0,
+        "bid_time": "2015-10-09T12:42:36.125463+03:00",
+        "bidder": "9af32c027f574b7485db23e07561ff5b",
+        "time": "2015-10-09T09:43:59.007076+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7f2d16fa57f149f7a8005ddaac78ee77",
+        "time": "2015-10-09T09:51:59.007497+00:00"
+      },
+      "turn_1": {
+        "amount": 25000.0,
+        "bid_time": "2015-10-09T12:49:06.443601+03:00",
+        "bidder": "9af32c027f574b7485db23e07561ff5b",
+        "time": "2015-10-09T09:49:59.007538+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 54999.0,
+        "bid_time": "2015-10-09T12:38:33.356616+03:00",
+        "bidder": "7f2d16fa57f149f7a8005ddaac78ee77",
+        "time": "2015-10-09T09:39:59.007961+00:00"
+      },
+      "turn_1": {
+        "amount": 55000.0,
+        "bid_time": "2015-10-09T12:36:35.504693+03:00",
+        "bidder": "9af32c027f574b7485db23e07561ff5b",
+        "time": "2015-10-09T09:37:59.006664+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7f2d16fa57f149f7a8005ddaac78ee77",
+          "amount": 44499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443649611",
+                "name": "ТОВ \"БМУ№4\"",
+                "email": "bmy4@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39424780",
+                "legalName": "ТОВ \"БМУ№4\""
+              },
+              "name": "ТОВ \"БМУ№4\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04117, м.Київ, вул.Шолуденка, 1-Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T12:44:31.583945+03:00"
+        },
+        {
+          "bidder": "9af32c027f574b7485db23e07561ff5b",
+          "amount": 25000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675404113",
+                "name": "Игорь",
+                "email": "tdelider@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36626037",
+                "legalName": "ТОВ \"КОМПАНИЯ МИКО\""
+              },
+              "name": "ТОВ \"КОМПАНИЯ МИКО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61022",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-09T12:49:06.443601+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:52:02.149608+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T16:44:12.962805+03:00",
+          "amount": 76990.02,
+          "bidder": "9af32c027f574b7485db23e07561ff5b"
+        },
+        {
+          "date": "2015-10-06T17:07:00.780266+03:00",
+          "amount": 59664.0,
+          "bidder": "7f2d16fa57f149f7a8005ddaac78ee77"
+        }
+      ],
+      "time": "2015-10-09T09:30:59.002463+00:00"
+    }
+  },
+  "id": "cc0b65ece00649708ec2fc0605505163",
+  "tenderId": "UA-2015-09-30-000246"
+}

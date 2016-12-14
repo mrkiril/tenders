@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "97fa5fc89aa842549b292443d0c487dc",
+        "time": "2015-08-10T10:45:00.009367+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d199ef15a914a40839d7a738b09dedf",
+        "time": "2015-08-10T10:43:00.009889+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "97fa5fc89aa842549b292443d0c487dc",
+        "time": "2015-08-10T10:51:00.008997+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d199ef15a914a40839d7a738b09dedf",
+        "time": "2015-08-10T10:49:00.008875+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "97fa5fc89aa842549b292443d0c487dc",
+        "time": "2015-08-10T10:39:00.020737+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d199ef15a914a40839d7a738b09dedf",
+        "time": "2015-08-10T10:37:00.018778+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9d199ef15a914a40839d7a738b09dedf",
+          "amount": 17305.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380951630263",
+                "name": "ТОВ «УКРБУДОПТ»",
+                "email": "ddd.melnikov@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39166872",
+                "legalName": "ТОВ «УКРБУДОПТ»"
+              },
+              "name": "ТОВ «УКРБУДОПТ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022, м. Суми, вул. Тополянська, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-06T10:27:49.836180+03:00"
+        },
+        {
+          "bidder": "97fa5fc89aa842549b292443d0c487dc",
+          "amount": 5000.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-06T11:00:07.166279+03:00"
+        }
+      ],
+      "time": "2015-08-10T10:51:01.924371+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-06T10:27:49.836180+03:00",
+          "amount": 17305.2,
+          "bidder": "9d199ef15a914a40839d7a738b09dedf"
+        },
+        {
+          "date": "2015-08-06T11:00:07.166279+03:00",
+          "amount": 5000.2,
+          "bidder": "97fa5fc89aa842549b292443d0c487dc"
+        }
+      ],
+      "time": "2015-08-10T10:30:00.003850+00:00"
+    }
+  },
+  "id": "71b7484e5dda4fa594c09f92157a964b",
+  "tenderId": "UA-2015-07-29-000082"
+}

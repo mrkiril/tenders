@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5b1d0be44a29488fbe406c58ec6080c8",
+        "time": "2015-11-10T09:50:20.012075+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7202a60e8874f11bac1fa6a14ea6660",
+        "time": "2015-11-10T09:48:20.008540+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5b1d0be44a29488fbe406c58ec6080c8",
+        "time": "2015-11-10T09:56:20.007661+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7202a60e8874f11bac1fa6a14ea6660",
+        "time": "2015-11-10T09:54:20.007370+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5b1d0be44a29488fbe406c58ec6080c8",
+        "time": "2015-11-10T09:44:20.009041+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7202a60e8874f11bac1fa6a14ea6660",
+        "time": "2015-11-10T09:42:20.009029+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e7202a60e8874f11bac1fa6a14ea6660",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-09T14:31:06.306362+02:00"
+        },
+        {
+          "bidder": "5b1d0be44a29488fbe406c58ec6080c8",
+          "amount": 943.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dtv-group.com",
+                "telephone": "+380626742631",
+                "name": "ТОВ \"ДТВ-ГРУП\"",
+                "email": "alexey_rybka@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38475221",
+                "legalName": "ТОВ \"ДТВ-ГРУП\""
+              },
+              "name": "ТОВ \"ДТВ-ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Мира, буд. 1/1, м. Дружківка, Донецка обл., Україна 84200",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T10:24:32.074439+02:00"
+        }
+      ],
+      "time": "2015-11-10T09:56:49.755711+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T14:31:06.306362+02:00",
+          "amount": 1300.0,
+          "bidder": "e7202a60e8874f11bac1fa6a14ea6660"
+        },
+        {
+          "date": "2015-11-09T10:24:32.074439+02:00",
+          "amount": 943.2,
+          "bidder": "5b1d0be44a29488fbe406c58ec6080c8"
+        }
+      ],
+      "time": "2015-11-10T09:35:20.003232+00:00"
+    }
+  },
+  "id": "a87736162b4a48bab391f6e3e51032ea",
+  "tenderId": "UA-2015-11-02-000111"
+}

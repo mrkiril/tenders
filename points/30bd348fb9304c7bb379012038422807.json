@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aa0a6c5e23a747fe808b1e56f5c9b675",
+        "time": "2015-09-29T09:15:00.015870+00:00"
+      },
+      "turn_1": {
+        "bidder": "cae83543d5b74b1c87e755b78c8baad7",
+        "time": "2015-09-29T09:13:00.031598+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aa0a6c5e23a747fe808b1e56f5c9b675",
+        "time": "2015-09-29T09:21:00.016699+00:00"
+      },
+      "turn_1": {
+        "bidder": "cae83543d5b74b1c87e755b78c8baad7",
+        "time": "2015-09-29T09:19:00.014393+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "aa0a6c5e23a747fe808b1e56f5c9b675",
+        "time": "2015-09-29T09:09:00.059265+00:00"
+      },
+      "turn_1": {
+        "bidder": "cae83543d5b74b1c87e755b78c8baad7",
+        "time": "2015-09-29T09:07:00.021234+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cae83543d5b74b1c87e755b78c8baad7",
+          "amount": 2583.33,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://virgosnab.com.ua",
+                "telephone": "+380503023100",
+                "name": "ПП \"Вірго Инвест Украина\"",
+                "email": "prom@virgosnab.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35476725",
+                "legalName": "ПП \"Вірго Инвест Украина\""
+              },
+              "name": "ПП \"Вірго Инвест Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61140, Харківська обл., Харків, пр. Гагаріна, буд.№94 кв.136",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T17:25:22.697668+03:00"
+        },
+        {
+          "bidder": "aa0a6c5e23a747fe808b1e56f5c9b675",
+          "amount": 2582.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrservice.biz",
+                "telephone": "+380973528244",
+                "name": "ФОП Лук'ян Михайло Федорович",
+                "email": "znopp@ukrservice.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "260431235",
+                "legalName": "ФОП Лук'ян Михайло Федорович"
+              },
+              "name": "ФОП Лук'ян Михайло Федорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "23227, Вінницька обл., Вінницький р-н с.Агрономічне, вул. .Мудрого, 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T16:25:59.679663+03:00"
+        }
+      ],
+      "time": "2015-09-29T09:21:01.778789+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T17:25:22.697668+03:00",
+          "amount": 2583.33,
+          "bidder": "cae83543d5b74b1c87e755b78c8baad7"
+        },
+        {
+          "date": "2015-09-25T16:25:59.679663+03:00",
+          "amount": 2582.5,
+          "bidder": "aa0a6c5e23a747fe808b1e56f5c9b675"
+        }
+      ],
+      "time": "2015-09-29T09:00:00.005460+00:00"
+    }
+  },
+  "id": "30bd348fb9304c7bb379012038422807",
+  "tenderId": "UA-2015-09-18-000130"
+}

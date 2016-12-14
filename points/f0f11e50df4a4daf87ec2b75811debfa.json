@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ce7666344b084cdb977b3c024cc7ee33",
+        "time": "2015-12-14T10:19:57.013537+00:00"
+      },
+      "turn_1": {
+        "bidder": "20520e26a84245a8b17a21f2bd4b0b80",
+        "time": "2015-12-14T10:17:57.006863+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ce7666344b084cdb977b3c024cc7ee33",
+        "time": "2015-12-14T10:25:57.013520+00:00"
+      },
+      "turn_1": {
+        "bidder": "20520e26a84245a8b17a21f2bd4b0b80",
+        "time": "2015-12-14T10:23:57.008998+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ce7666344b084cdb977b3c024cc7ee33",
+        "time": "2015-12-14T10:13:57.007733+00:00"
+      },
+      "turn_1": {
+        "bidder": "20520e26a84245a8b17a21f2bd4b0b80",
+        "time": "2015-12-14T10:11:57.008230+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "20520e26a84245a8b17a21f2bd4b0b80",
+          "amount": 150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T16:44:11.158863+02:00"
+        },
+        {
+          "bidder": "ce7666344b084cdb977b3c024cc7ee33",
+          "amount": 117.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-11T19:46:38.927811+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:25:58.809259+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T16:44:11.158863+02:00",
+          "amount": 150.0,
+          "bidder": "20520e26a84245a8b17a21f2bd4b0b80"
+        },
+        {
+          "date": "2015-12-11T19:46:38.927811+02:00",
+          "amount": 117.0,
+          "bidder": "ce7666344b084cdb977b3c024cc7ee33"
+        }
+      ],
+      "time": "2015-12-14T10:04:57.003821+00:00"
+    }
+  },
+  "id": "f0f11e50df4a4daf87ec2b75811debfa",
+  "tenderId": "UA-2015-12-08-000157-b"
+}

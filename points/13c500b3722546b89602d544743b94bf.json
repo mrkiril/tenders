@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 449.0,
+        "bid_time": "2015-12-14T12:48:11.229602+02:00",
+        "bidder": "8bc90db6dc7a498cb790fc60033b9f2b",
+        "time": "2015-12-14T10:48:56.010952+00:00"
+      },
+      "turn_3": {
+        "bidder": "3c0f7abb2de843ed8bf319ded316d7e7",
+        "time": "2015-12-14T10:50:56.009638+00:00"
+      },
+      "turn_1": {
+        "bidder": "a1c36d143e0146d0b46c13d46c35962d",
+        "time": "2015-12-14T10:46:56.016081+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 420.0,
+        "bid_time": "2015-12-14T12:56:23.303526+02:00",
+        "bidder": "3c0f7abb2de843ed8bf319ded316d7e7",
+        "time": "2015-12-14T10:56:56.009665+00:00"
+      },
+      "turn_3": {
+        "amount": 419.0,
+        "bid_time": "2015-12-14T12:57:45.304756+02:00",
+        "bidder": "8bc90db6dc7a498cb790fc60033b9f2b",
+        "time": "2015-12-14T10:58:56.011318+00:00"
+      },
+      "turn_1": {
+        "bidder": "a1c36d143e0146d0b46c13d46c35962d",
+        "time": "2015-12-14T10:54:56.009777+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 480.0,
+        "bid_time": "2015-12-14T12:39:20.562102+02:00",
+        "bidder": "8bc90db6dc7a498cb790fc60033b9f2b",
+        "time": "2015-12-14T10:40:56.008295+00:00"
+      },
+      "turn_3": {
+        "amount": 450.0,
+        "bid_time": "2015-12-14T12:42:03.568767+02:00",
+        "bidder": "3c0f7abb2de843ed8bf319ded316d7e7",
+        "time": "2015-12-14T10:42:56.009314+00:00"
+      },
+      "turn_1": {
+        "amount": 480.24,
+        "bid_time": "2015-12-14T12:38:34.502810+02:00",
+        "bidder": "a1c36d143e0146d0b46c13d46c35962d",
+        "time": "2015-12-14T10:38:56.059801+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a1c36d143e0146d0b46c13d46c35962d",
+          "amount": 480.24,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:38:34.502810+02:00"
+        },
+        {
+          "bidder": "3c0f7abb2de843ed8bf319ded316d7e7",
+          "amount": 420.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T12:56:23.303526+02:00"
+        },
+        {
+          "bidder": "8bc90db6dc7a498cb790fc60033b9f2b",
+          "amount": 419.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:57:45.304756+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:58:57.831778+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T13:54:58.311595+02:00",
+          "amount": 698.0,
+          "bidder": "a1c36d143e0146d0b46c13d46c35962d"
+        },
+        {
+          "date": "2015-12-11T13:19:27.851274+02:00",
+          "amount": 600.0,
+          "bidder": "8bc90db6dc7a498cb790fc60033b9f2b"
+        },
+        {
+          "date": "2015-12-11T13:22:22.974691+02:00",
+          "amount": 490.0,
+          "bidder": "3c0f7abb2de843ed8bf319ded316d7e7"
+        }
+      ],
+      "time": "2015-12-14T10:31:56.003832+00:00"
+    }
+  },
+  "id": "13c500b3722546b89602d544743b94bf",
+  "tenderId": "UA-2015-12-08-000061-a"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "54cad88e965e49a9914c5876ec5b9434",
+        "time": "2015-10-15T08:19:24.007128+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ee2c34b6d484a71a6d183480edbdbe8",
+        "time": "2015-10-15T08:17:24.007379+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "54cad88e965e49a9914c5876ec5b9434",
+        "time": "2015-10-15T08:25:24.005757+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ee2c34b6d484a71a6d183480edbdbe8",
+        "time": "2015-10-15T08:23:24.006787+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "54cad88e965e49a9914c5876ec5b9434",
+        "time": "2015-10-15T08:13:24.008370+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ee2c34b6d484a71a6d183480edbdbe8",
+        "time": "2015-10-15T08:11:24.007415+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1ee2c34b6d484a71a6d183480edbdbe8",
+          "amount": 6495.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T20:15:07.102005+03:00"
+        },
+        {
+          "bidder": "54cad88e965e49a9914c5876ec5b9434",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-09T22:46:10.852874+03:00"
+        }
+      ],
+      "time": "2015-10-15T08:25:38.460283+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T20:15:07.102005+03:00",
+          "amount": 6495.0,
+          "bidder": "1ee2c34b6d484a71a6d183480edbdbe8"
+        },
+        {
+          "date": "2015-10-09T22:46:10.852874+03:00",
+          "amount": 5900.0,
+          "bidder": "54cad88e965e49a9914c5876ec5b9434"
+        }
+      ],
+      "time": "2015-10-15T08:04:24.004145+00:00"
+    }
+  },
+  "id": "a7eb25ba1bf846609239fb4b481471e7",
+  "tenderId": "UA-2015-10-06-000118"
+}

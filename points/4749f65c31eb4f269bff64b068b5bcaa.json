@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1617.88,
+        "bid_time": "2015-12-14T13:19:31.080018+02:00",
+        "bidder": "8142e0282c3e4088ade7e7c17b936a11",
+        "time": "2015-12-14T11:21:04.009096+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7fb086d9ff24808bf18047cbbcd67a6",
+        "time": "2015-12-14T11:19:04.008653+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1601.88,
+        "bid_time": "2015-12-14T13:25:34.683515+02:00",
+        "bidder": "8142e0282c3e4088ade7e7c17b936a11",
+        "time": "2015-12-14T11:27:04.030337+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7fb086d9ff24808bf18047cbbcd67a6",
+        "time": "2015-12-14T11:25:04.072359+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1633.88,
+        "bid_time": "2015-12-14T13:14:32.875991+02:00",
+        "bidder": "8142e0282c3e4088ade7e7c17b936a11",
+        "time": "2015-12-14T11:15:04.009889+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7fb086d9ff24808bf18047cbbcd67a6",
+        "time": "2015-12-14T11:13:04.008612+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a7fb086d9ff24808bf18047cbbcd67a6",
+          "amount": 1666.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://profmoda.com.ua/",
+                "faxNumber": "+380612240429",
+                "telephone": "+380685176833",
+                "name": "Ставницька Оксана Вікторівна",
+                "email": "mp2@profmoda.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33134426"
+              },
+              "name": "ТОВ ПРОФМОДА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69000",
+                "region": "Запорізька область",
+                "streetAddress": "Україна, Запорізька область, місто Запоріжжя, вул. Перемоги, буд.75б, кв.16",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:08:17.932312+02:00"
+        },
+        {
+          "bidder": "8142e0282c3e4088ade7e7c17b936a11",
+          "amount": 1601.88,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ledvsem.com.ua/",
+                "telephone": "380685894709, 380665593083, 0665593083",
+                "name": "Игорь Посаженников ",
+                "email": "dsv-gr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39669322",
+                "legalName": ""
+              },
+              "name": "ООО ЭЛСИЗ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Янгеля, 35 оф.315"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:25:34.683515+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:27:05.964399+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T11:08:17.932312+02:00",
+          "amount": 1666.0,
+          "bidder": "a7fb086d9ff24808bf18047cbbcd67a6"
+        },
+        {
+          "date": "2015-12-10T19:20:25.448951+02:00",
+          "amount": 1649.88,
+          "bidder": "8142e0282c3e4088ade7e7c17b936a11"
+        }
+      ],
+      "time": "2015-12-14T11:06:04.004618+00:00"
+    }
+  },
+  "id": "4749f65c31eb4f269bff64b068b5bcaa",
+  "tenderId": "UA-2015-12-07-000010-b"
+}

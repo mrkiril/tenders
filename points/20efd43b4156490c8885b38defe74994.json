@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 56100.0,
+        "bid_time": "2015-06-26T11:43:47.137111+03:00",
+        "bidder": "25f2b0f52d084b719a1f2d5c1994a644",
+        "time": "2015-06-26T08:45:00.145772+00:00"
+      },
+      "turn_1": {
+        "amount": 56900.0,
+        "bid_time": "2015-06-26T11:42:06.167823+03:00",
+        "bidder": "f1897ae6057a43aea53edae72bdf0a70",
+        "time": "2015-06-26T08:43:00.203434+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 55200.0,
+        "bid_time": "2015-06-26T11:50:09.178434+03:00",
+        "bidder": "25f2b0f52d084b719a1f2d5c1994a644",
+        "time": "2015-06-26T08:51:00.091735+00:00"
+      },
+      "turn_1": {
+        "amount": 56000.0,
+        "bid_time": "2015-06-26T11:47:10.459244+03:00",
+        "bidder": "f1897ae6057a43aea53edae72bdf0a70",
+        "time": "2015-06-26T08:49:00.223781+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 57000.0,
+        "bid_time": "2015-06-26T11:37:46.878804+03:00",
+        "bidder": "25f2b0f52d084b719a1f2d5c1994a644",
+        "time": "2015-06-26T08:39:00.153316+00:00"
+      },
+      "turn_1": {
+        "amount": 59514.0,
+        "bid_time": "2015-06-26T11:35:36.853131+03:00",
+        "bidder": "f1897ae6057a43aea53edae72bdf0a70",
+        "time": "2015-06-26T08:37:00.418672+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f1897ae6057a43aea53edae72bdf0a70",
+          "amount": 56000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676233014",
+                "name": "Виктор Николаевич Стронский",
+                "email": "vasha1apteka@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2441915138",
+                "legalName": "ФОП \"Стронский В.Н.\""
+              },
+              "name": "ФОП \"Стронский В.Н.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87515",
+                "region": "Донецкая",
+                "streetAddress": "",
+                "locality": "Мариуполь"
+              }
+            }
+          ],
+          "time": "2015-06-26T11:47:10.459244+03:00"
+        },
+        {
+          "bidder": "25f2b0f52d084b719a1f2d5c1994a644",
+          "amount": 55200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442392461",
+                "telephone": "+380442392461",
+                "name": "Бондаренко Леся Павлівна",
+                "email": "lesya_bondarenko@daren-invest.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37356672"
+              },
+              "name": "ТОВ Дарен-Інвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03061",
+                "region": "Київська область",
+                "streetAddress": "просп. Відрадний, 95",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-06-26T11:50:09.178434+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:51:06.248034+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-25T16:42:46.069839+03:00",
+          "amount": 60414.25,
+          "bidder": "f1897ae6057a43aea53edae72bdf0a70"
+        },
+        {
+          "date": "2015-06-25T17:16:15.987347+03:00",
+          "amount": 59700.0,
+          "bidder": "25f2b0f52d084b719a1f2d5c1994a644"
+        }
+      ],
+      "time": "2015-06-26T08:30:00.028363+00:00"
+    }
+  },
+  "id": "20efd43b4156490c8885b38defe74994",
+  "tenderId": "UA-2015-06-19-000011"
+}

@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5f4bfa2e44e24e3283e51b73482f1590",
+        "time": "2015-12-14T10:58:27.008741+00:00"
+      },
+      "turn_1": {
+        "bidder": "c228e5d0b54943e88e6195e38902662b",
+        "time": "2015-12-14T10:56:27.009527+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 198.7,
+        "bid_time": "2015-12-14T13:03:28.027788+02:00",
+        "bidder": "5f4bfa2e44e24e3283e51b73482f1590",
+        "time": "2015-12-14T11:04:27.010839+00:00"
+      },
+      "turn_1": {
+        "amount": 200.0,
+        "bid_time": "2015-12-14T13:02:23.995845+02:00",
+        "bidder": "c228e5d0b54943e88e6195e38902662b",
+        "time": "2015-12-14T11:02:27.022079+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5f4bfa2e44e24e3283e51b73482f1590",
+        "time": "2015-12-14T10:52:27.010746+00:00"
+      },
+      "turn_1": {
+        "bidder": "c228e5d0b54943e88e6195e38902662b",
+        "time": "2015-12-14T10:50:27.010050+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c228e5d0b54943e88e6195e38902662b",
+          "amount": 200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:02:23.995845+02:00"
+        },
+        {
+          "bidder": "5f4bfa2e44e24e3283e51b73482f1590",
+          "amount": 198.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380685163003",
+                "name": "Іван",
+                "email": "pp_tesla@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39549613",
+                "legalName": "ПП \"Тесла УА\""
+              },
+              "name": "ПП \"Тесла УА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "46012",
+                "region": "Тернопольская",
+                "streetAddress": "",
+                "locality": "Тернопіль"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:03:28.027788+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:04:29.933635+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T14:06:41.098012+02:00",
+          "amount": 210.0,
+          "bidder": "c228e5d0b54943e88e6195e38902662b"
+        },
+        {
+          "date": "2015-12-10T20:29:11.016909+02:00",
+          "amount": 205.2,
+          "bidder": "5f4bfa2e44e24e3283e51b73482f1590"
+        }
+      ],
+      "time": "2015-12-14T10:43:27.003542+00:00"
+    }
+  },
+  "id": "ffaf300750c54c06a931a910194e3113",
+  "tenderId": "UA-2015-12-10-000112-b"
+}

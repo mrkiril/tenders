@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b1bfbb23e87c42b182496a0d3c08a8e6",
+        "time": "2015-12-11T09:29:59.006273+00:00"
+      },
+      "turn_1": {
+        "bidder": "458149fcbdf9494db285d6ff10681aa3",
+        "time": "2015-12-11T09:27:59.008445+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b1bfbb23e87c42b182496a0d3c08a8e6",
+        "time": "2015-12-11T09:35:59.008034+00:00"
+      },
+      "turn_1": {
+        "bidder": "458149fcbdf9494db285d6ff10681aa3",
+        "time": "2015-12-11T09:33:59.021221+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b1bfbb23e87c42b182496a0d3c08a8e6",
+        "time": "2015-12-11T09:23:59.008094+00:00"
+      },
+      "turn_1": {
+        "bidder": "458149fcbdf9494db285d6ff10681aa3",
+        "time": "2015-12-11T09:21:59.007607+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "458149fcbdf9494db285d6ff10681aa3",
+          "amount": 31800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502665422",
+                "name": "ТОВ ГОРСТАЛЬ",
+                "email": "0502665422@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39229958",
+                "legalName": "ТОВ ГОРСТАЛЬ"
+              },
+              "name": "ТОВ ГОРСТАЛЬ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "01013\r\nг.Киев \r\nГолосеевский район \r\nул. Стройиндустрии дом 6",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T09:03:35.966041+02:00"
+        },
+        {
+          "bidder": "b1bfbb23e87c42b182496a0d3c08a8e6",
+          "amount": 26600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://staldim.com.ua/",
+                "telephone": "+380443641613",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\"",
+                "email": "y.makedonskiy@staldim.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39963148",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03179, м.Київ, ПРОСПЕКТ ПЕРЕМОГИ, будинок 131, приміщення 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T11:16:05.522145+02:00"
+        }
+      ],
+      "time": "2015-12-11T09:36:01.459372+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T09:03:35.966041+02:00",
+          "amount": 31800.0,
+          "bidder": "458149fcbdf9494db285d6ff10681aa3"
+        },
+        {
+          "date": "2015-12-10T11:16:05.522145+02:00",
+          "amount": 26600.0,
+          "bidder": "b1bfbb23e87c42b182496a0d3c08a8e6"
+        }
+      ],
+      "time": "2015-12-11T09:14:59.004560+00:00"
+    }
+  },
+  "id": "26817b4d60024896a8b9d44dd50d61a8",
+  "tenderId": "UA-2015-12-04-000059"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c2ec76262ecb4cde9aa7075a54244b8d",
+        "time": "2015-07-01T12:15:00.093133+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f19f54c252946c2b70875d171306114",
+        "time": "2015-07-01T12:13:00.046250+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c2ec76262ecb4cde9aa7075a54244b8d",
+        "time": "2015-07-01T12:21:00.049531+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f19f54c252946c2b70875d171306114",
+        "time": "2015-07-01T12:19:00.060398+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c2ec76262ecb4cde9aa7075a54244b8d",
+        "time": "2015-07-01T12:09:00.042048+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f19f54c252946c2b70875d171306114",
+        "time": "2015-07-01T12:07:00.048332+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2f19f54c252946c2b70875d171306114",
+          "amount": 220.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ledlighting.com.ua/",
+                "telephone": "+380577021687",
+                "name": "ТОВ \"СУ 24\"",
+                "email": "info@ledlighting.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35974575",
+                "legalName": "ТОВ \"СУ 24\""
+              },
+              "name": "ТОВ \"СУ 24\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Г. Харьков ул. Чернышевского 40 61002",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-30T09:37:05.662517+03:00"
+        },
+        {
+          "bidder": "c2ec76262ecb4cde9aa7075a54244b8d",
+          "amount": 160.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689818204",
+                "name": "Дана Мироненко",
+                "email": "mirondana@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38069357",
+                "legalName": "ТОВ \"Торговый Дом Светоприбор\""
+              },
+              "name": "ТОВ \"Торговый Дом Светоприбор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69035",
+                "region": "Запорожская",
+                "streetAddress": "ул. 40 лет Советской Украины, 82",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-06-27T10:12:20.514435+03:00"
+        }
+      ],
+      "time": "2015-07-01T12:21:01.264692+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-30T09:37:05.662517+03:00",
+          "amount": 220.0,
+          "bidder": "2f19f54c252946c2b70875d171306114"
+        },
+        {
+          "date": "2015-06-27T10:12:20.514435+03:00",
+          "amount": 160.0,
+          "bidder": "c2ec76262ecb4cde9aa7075a54244b8d"
+        }
+      ],
+      "time": "2015-07-01T12:00:00.007995+00:00"
+    }
+  },
+  "id": "36512d0b02e94ff29a268cd400250389",
+  "tenderId": "UA-2015-06-24-000066"
+}

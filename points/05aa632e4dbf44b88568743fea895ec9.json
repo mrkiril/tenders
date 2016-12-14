@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9cb95b1cfa1a443583baba1e8095275f",
+        "time": "2015-10-28T09:21:12.008567+00:00"
+      },
+      "turn_1": {
+        "bidder": "4013ccd37595441d91e7725bb92ae6c2",
+        "time": "2015-10-28T09:19:12.008372+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9cb95b1cfa1a443583baba1e8095275f",
+        "time": "2015-10-28T09:27:12.006542+00:00"
+      },
+      "turn_1": {
+        "bidder": "4013ccd37595441d91e7725bb92ae6c2",
+        "time": "2015-10-28T09:25:12.007167+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9cb95b1cfa1a443583baba1e8095275f",
+        "time": "2015-10-28T09:15:12.008426+00:00"
+      },
+      "turn_1": {
+        "bidder": "4013ccd37595441d91e7725bb92ae6c2",
+        "time": "2015-10-28T09:13:12.008341+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4013ccd37595441d91e7725bb92ae6c2",
+          "amount": 10737.25,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993657728",
+                "name": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА",
+                "email": "farmadom@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3027600104",
+                "legalName": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА"
+              },
+              "name": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "74900, Херсонська обл., м. Нова Каховка, вул. Паризької Комуни, 1А, кв 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T00:53:42.417795+02:00"
+        },
+        {
+          "bidder": "9cb95b1cfa1a443583baba1e8095275f",
+          "amount": 9841.18,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-26T19:48:46.206074+02:00"
+        }
+      ],
+      "time": "2015-10-28T09:27:13.489867+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T00:53:42.417795+02:00",
+          "amount": 10737.25,
+          "bidder": "4013ccd37595441d91e7725bb92ae6c2"
+        },
+        {
+          "date": "2015-10-26T19:48:46.206074+02:00",
+          "amount": 9841.18,
+          "bidder": "9cb95b1cfa1a443583baba1e8095275f"
+        }
+      ],
+      "time": "2015-10-28T09:06:12.003791+00:00"
+    }
+  },
+  "id": "05aa632e4dbf44b88568743fea895ec9",
+  "tenderId": "UA-2015-10-19-000356"
+}

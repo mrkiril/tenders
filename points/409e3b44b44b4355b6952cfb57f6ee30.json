@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "f00beb8cab5f4e78b71f63f7b6dfd33c",
+        "time": "2015-12-01T12:30:30.011245+00:00"
+      },
+      "turn_2": {
+        "bidder": "19584211c9e14052bc6fef284a8fab7f",
+        "time": "2015-12-01T12:26:30.013371+00:00"
+      },
+      "turn_3": {
+        "bidder": "ce2e53d06f93435eadda9da329a2d652",
+        "time": "2015-12-01T12:28:30.012854+00:00"
+      },
+      "turn_1": {
+        "bidder": "a49486d5808f46a8a307ea1a49ff150c",
+        "time": "2015-12-01T12:24:30.011513+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "f00beb8cab5f4e78b71f63f7b6dfd33c",
+        "time": "2015-12-01T12:40:30.012820+00:00"
+      },
+      "turn_2": {
+        "bidder": "19584211c9e14052bc6fef284a8fab7f",
+        "time": "2015-12-01T12:36:30.012537+00:00"
+      },
+      "turn_3": {
+        "bidder": "ce2e53d06f93435eadda9da329a2d652",
+        "time": "2015-12-01T12:38:30.012688+00:00"
+      },
+      "turn_1": {
+        "bidder": "a49486d5808f46a8a307ea1a49ff150c",
+        "time": "2015-12-01T12:34:30.012428+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "f00beb8cab5f4e78b71f63f7b6dfd33c",
+        "time": "2015-12-01T12:20:30.028301+00:00"
+      },
+      "turn_2": {
+        "bidder": "19584211c9e14052bc6fef284a8fab7f",
+        "time": "2015-12-01T12:16:30.012266+00:00"
+      },
+      "turn_3": {
+        "bidder": "ce2e53d06f93435eadda9da329a2d652",
+        "time": "2015-12-01T12:18:30.014091+00:00"
+      },
+      "turn_1": {
+        "bidder": "a49486d5808f46a8a307ea1a49ff150c",
+        "time": "2015-12-01T12:14:30.013727+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a49486d5808f46a8a307ea1a49ff150c",
+          "amount": 1328.76,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444015646, +380444030024, +380505435090",
+                "name": "Вячеслав Воробьев",
+                "email": "s.partner@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"СЕРВІС ПАРТНЕР\"",
+                "id": "36852807",
+                "uri": "http://s-partner.uaprom.net/"
+              },
+              "name": "ПП \"СЕРВІС ПАРТНЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Киев ул. Якутская, 8 офис 105",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-30T11:41:14.086629+02:00"
+        },
+        {
+          "bidder": "19584211c9e14052bc6fef284a8fab7f",
+          "amount": 1250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-30T11:52:53.904954+02:00"
+        },
+        {
+          "bidder": "ce2e53d06f93435eadda9da329a2d652",
+          "amount": 1185.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-29T23:27:31.544444+02:00"
+        },
+        {
+          "bidder": "f00beb8cab5f4e78b71f63f7b6dfd33c",
+          "amount": 1184.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503370490",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-30T09:40:51.321067+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:40:32.699194+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T11:41:14.086629+02:00",
+          "amount": 1328.76,
+          "bidder": "a49486d5808f46a8a307ea1a49ff150c"
+        },
+        {
+          "date": "2015-11-30T11:52:53.904954+02:00",
+          "amount": 1250.0,
+          "bidder": "19584211c9e14052bc6fef284a8fab7f"
+        },
+        {
+          "date": "2015-11-29T23:27:31.544444+02:00",
+          "amount": 1185.0,
+          "bidder": "ce2e53d06f93435eadda9da329a2d652"
+        },
+        {
+          "date": "2015-11-30T09:40:51.321067+02:00",
+          "amount": 1184.48,
+          "bidder": "f00beb8cab5f4e78b71f63f7b6dfd33c"
+        }
+      ],
+      "time": "2015-12-01T12:07:30.008838+00:00"
+    }
+  },
+  "id": "409e3b44b44b4355b6952cfb57f6ee30",
+  "tenderId": "UA-2015-11-19-000006-b"
+}

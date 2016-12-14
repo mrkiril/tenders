@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "443976af81ba42e5a702ebd6a20be3f1",
+        "time": "2015-04-28T08:15:00.718534+00:00"
+      },
+      "turn_1": {
+        "bidder": "22b3557ceede44b1a95374c83c8a051e",
+        "time": "2015-04-28T08:13:00.416360+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "443976af81ba42e5a702ebd6a20be3f1",
+        "time": "2015-04-28T08:21:00.161478+00:00"
+      },
+      "turn_1": {
+        "bidder": "22b3557ceede44b1a95374c83c8a051e",
+        "time": "2015-04-28T08:19:00.087103+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "22b3557ceede44b1a95374c83c8a051e",
+        "time": "2015-04-28T08:09:00.205616+00:00"
+      },
+      "turn_1": {
+        "amount": 10677.0,
+        "bid_time": "2015-04-28T11:05:51.242541+03:00",
+        "bidder": "443976af81ba42e5a702ebd6a20be3f1",
+        "time": "2015-04-28T08:07:00.574291+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "22b3557ceede44b1a95374c83c8a051e",
+          "amount": 10772.49,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prosvit.com.ua",
+                "telephone": "+380443511121",
+                "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+                "email": "ibrand@prosvit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "355721131",
+                "legalName": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м.Київ вул.Машинобудівна,42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-27T15:06:13.669465+03:00"
+        },
+        {
+          "bidder": "443976af81ba42e5a702ebd6a20be3f1",
+          "amount": 10677.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380963147404",
+                "name": "ООО \"Майком\"",
+                "email": "yana.d@axiomplus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37311301",
+                "legalName": "ООО \"Майком\""
+              },
+              "name": "ООО \"Майком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03142",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "ул. Академика Крымского, 27-А",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-04-28T11:05:51.242541+03:00"
+        }
+      ],
+      "time": "2015-04-28T08:21:06.079310+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-04-27T11:34:38.607999+03:00",
+          "amount": 10797.0,
+          "bidder": "443976af81ba42e5a702ebd6a20be3f1"
+        },
+        {
+          "date": "2015-04-27T15:06:13.669465+03:00",
+          "amount": 10772.49,
+          "bidder": "22b3557ceede44b1a95374c83c8a051e"
+        }
+      ],
+      "time": "2015-04-28T08:00:00.070326+00:00"
+    }
+  },
+  "id": "098c0c1159c54a5e8465eccb28ab2575",
+  "tenderId": "UA-2015-04-14-000023"
+}

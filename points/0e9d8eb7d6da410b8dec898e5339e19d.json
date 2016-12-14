@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 964.0,
+        "bid_time": "2015-12-09T15:04:52.503998+02:00",
+        "bidder": "f6d1eea48bc1475aa03fe225e1c67e55",
+        "time": "2015-12-09T13:06:42.024989+00:00"
+      },
+      "turn_2": {
+        "amount": 998.0,
+        "bid_time": "2015-12-09T15:02:06.102071+02:00",
+        "bidder": "84f23d8fca554aa6a1f46d5e1aacc9e5",
+        "time": "2015-12-09T13:02:42.012008+00:00"
+      },
+      "turn_3": {
+        "bidder": "d7735340eae4436a9e6febbfe99d0993",
+        "time": "2015-12-09T13:04:42.008028+00:00"
+      },
+      "turn_1": {
+        "bidder": "64b2267cb30c4c149af8196c89a7d93e",
+        "time": "2015-12-09T13:00:42.031385+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "f6d1eea48bc1475aa03fe225e1c67e55",
+        "time": "2015-12-09T13:16:42.011155+00:00"
+      },
+      "turn_2": {
+        "bidder": "d7735340eae4436a9e6febbfe99d0993",
+        "time": "2015-12-09T13:12:42.019692+00:00"
+      },
+      "turn_3": {
+        "bidder": "84f23d8fca554aa6a1f46d5e1aacc9e5",
+        "time": "2015-12-09T13:14:42.015064+00:00"
+      },
+      "turn_1": {
+        "bidder": "64b2267cb30c4c149af8196c89a7d93e",
+        "time": "2015-12-09T13:10:42.031058+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "f6d1eea48bc1475aa03fe225e1c67e55",
+        "time": "2015-12-09T12:56:42.007429+00:00"
+      },
+      "turn_2": {
+        "bidder": "84f23d8fca554aa6a1f46d5e1aacc9e5",
+        "time": "2015-12-09T12:52:42.030595+00:00"
+      },
+      "turn_3": {
+        "bidder": "d7735340eae4436a9e6febbfe99d0993",
+        "time": "2015-12-09T12:54:42.010596+00:00"
+      },
+      "turn_1": {
+        "bidder": "64b2267cb30c4c149af8196c89a7d93e",
+        "time": "2015-12-09T12:50:42.014433+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "64b2267cb30c4c149af8196c89a7d93e",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0677712870",
+                "name": "Марія Свинарчук ",
+                "email": "35800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2973412627",
+                "legalName": "ФОП Свинарчук М.А."
+              },
+              "name": "ФОП Свинарчук М.А.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Ровенская область",
+                "streetAddress": "35800 Рівненська обл., м. Острог"
+              }
+            }
+          ],
+          "time": "2015-12-07T22:41:44.006031+02:00"
+        },
+        {
+          "bidder": "d7735340eae4436a9e6febbfe99d0993",
+          "amount": 1129.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-07T10:15:49.526624+02:00"
+        },
+        {
+          "bidder": "84f23d8fca554aa6a1f46d5e1aacc9e5",
+          "amount": 998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:02:06.102071+02:00"
+        },
+        {
+          "bidder": "f6d1eea48bc1475aa03fe225e1c67e55",
+          "amount": 964.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:04:52.503998+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:16:45.653662+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T22:41:44.006031+02:00",
+          "amount": 1200.0,
+          "bidder": "64b2267cb30c4c149af8196c89a7d93e"
+        },
+        {
+          "date": "2015-12-07T21:59:59.890861+02:00",
+          "amount": 1193.0,
+          "bidder": "84f23d8fca554aa6a1f46d5e1aacc9e5"
+        },
+        {
+          "date": "2015-12-07T10:15:49.526624+02:00",
+          "amount": 1129.2,
+          "bidder": "d7735340eae4436a9e6febbfe99d0993"
+        },
+        {
+          "date": "2015-12-03T18:21:54.611501+02:00",
+          "amount": 999.0,
+          "bidder": "f6d1eea48bc1475aa03fe225e1c67e55"
+        }
+      ],
+      "time": "2015-12-09T12:43:42.004740+00:00"
+    }
+  },
+  "id": "0e9d8eb7d6da410b8dec898e5339e19d",
+  "tenderId": "UA-2015-12-01-000146-a"
+}

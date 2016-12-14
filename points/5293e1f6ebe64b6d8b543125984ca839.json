@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1d05d8ba0e7f43eeb1c63b46c3b89fa8",
+        "time": "2015-12-14T12:25:00.009543+00:00"
+      },
+      "turn_3": {
+        "bidder": "3dad0d38b47b45238ddd9f0171d9ded0",
+        "time": "2015-12-14T12:27:00.008827+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6600a8ecc154e12bb81020fea464a6f",
+        "time": "2015-12-14T12:23:00.013249+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1d05d8ba0e7f43eeb1c63b46c3b89fa8",
+        "time": "2015-12-14T12:33:00.088165+00:00"
+      },
+      "turn_3": {
+        "bidder": "3dad0d38b47b45238ddd9f0171d9ded0",
+        "time": "2015-12-14T12:35:00.007957+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6600a8ecc154e12bb81020fea464a6f",
+        "time": "2015-12-14T12:31:00.010075+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1d05d8ba0e7f43eeb1c63b46c3b89fa8",
+        "time": "2015-12-14T12:17:00.084780+00:00"
+      },
+      "turn_3": {
+        "bidder": "3dad0d38b47b45238ddd9f0171d9ded0",
+        "time": "2015-12-14T12:19:00.009300+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6600a8ecc154e12bb81020fea464a6f",
+        "time": "2015-12-14T12:15:00.007434+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c6600a8ecc154e12bb81020fea464a6f",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T16:20:04.410730+02:00"
+        },
+        {
+          "bidder": "1d05d8ba0e7f43eeb1c63b46c3b89fa8",
+          "amount": 2100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T16:33:08.345237+02:00"
+        },
+        {
+          "bidder": "3dad0d38b47b45238ddd9f0171d9ded0",
+          "amount": 1774.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.instrumentdp.com",
+                "faxNumber": "+380563725249",
+                "telephone": "+380969899392",
+                "name": "Бонгарь Денис Анатолійович",
+                "email": "d.bongar@instrumentdp.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39831051"
+              },
+              "name": "ТОВ ІНСТРУМЕНТ ДІПІ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вулиця Будівельників 25, офіс 314",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:03:22.428491+02:00"
+        }
+      ],
+      "time": "2015-12-14T12:35:01.423765+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T16:20:04.410730+02:00",
+          "amount": 3000.0,
+          "bidder": "c6600a8ecc154e12bb81020fea464a6f"
+        },
+        {
+          "date": "2015-12-07T16:33:08.345237+02:00",
+          "amount": 2100.0,
+          "bidder": "1d05d8ba0e7f43eeb1c63b46c3b89fa8"
+        },
+        {
+          "date": "2015-12-10T11:03:22.428491+02:00",
+          "amount": 1774.0,
+          "bidder": "3dad0d38b47b45238ddd9f0171d9ded0"
+        }
+      ],
+      "time": "2015-12-14T12:08:00.002921+00:00"
+    }
+  },
+  "id": "5293e1f6ebe64b6d8b543125984ca839",
+  "tenderId": "UA-2015-12-07-000120-a"
+}

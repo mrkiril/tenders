@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 224900.0,
+        "bid_time": "2015-11-10T15:25:26.742651+02:00",
+        "bidder": "c8bef123443044b9baf95b6cb181ed41",
+        "time": "2015-11-10T13:26:03.008853+00:00"
+      },
+      "turn_1": {
+        "amount": 225000.0,
+        "bid_time": "2015-11-10T15:22:45.627395+02:00",
+        "bidder": "9f0eea40b9ce4796804cdd1c89c1c78d",
+        "time": "2015-11-10T13:24:03.010971+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 200000.0,
+        "bid_time": "2015-11-10T15:30:50.151415+02:00",
+        "bidder": "c8bef123443044b9baf95b6cb181ed41",
+        "time": "2015-11-10T13:32:03.008627+00:00"
+      },
+      "turn_1": {
+        "amount": 201000.0,
+        "bid_time": "2015-11-10T15:29:13.181610+02:00",
+        "bidder": "9f0eea40b9ce4796804cdd1c89c1c78d",
+        "time": "2015-11-10T13:30:03.011706+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 236913.0,
+        "bid_time": "2015-11-10T15:18:49.816187+02:00",
+        "bidder": "c8bef123443044b9baf95b6cb181ed41",
+        "time": "2015-11-10T13:20:03.015991+00:00"
+      },
+      "turn_1": {
+        "amount": 239900.0,
+        "bid_time": "2015-11-10T15:16:39.245997+02:00",
+        "bidder": "9f0eea40b9ce4796804cdd1c89c1c78d",
+        "time": "2015-11-10T13:18:03.009898+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9f0eea40b9ce4796804cdd1c89c1c78d",
+          "amount": 201000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ztm-arian.com.ua/",
+                "faxNumber": "+380442734157",
+                "telephone": "+380442734157",
+                "name": "Юбкін Микола Іванович",
+                "email": "ztmarian_zbut@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20574128"
+              },
+              "name": "ТОВ ЗТМ Аріан",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08500",
+                "region": "Київська область",
+                "streetAddress": "Фастів, вул. Поліграфічна,12",
+                "locality": "Фастів"
+              }
+            }
+          ],
+          "time": "2015-11-10T15:29:13.181610+02:00"
+        },
+        {
+          "bidder": "c8bef123443044b9baf95b6cb181ed41",
+          "amount": 200000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380507783063, +380615360732",
+                "name": "Юрий Буховец",
+                "email": "ybuhovets@berdyansk.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТД Агринол\"",
+                "id": "32365436",
+                "uri": "http://www.agrinol.com.ua/"
+              },
+              "name": "ТОВ \"ТД Агринол\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "71100",
+                "region": "Запорожская",
+                "streetAddress": "Украина, 71100, Запорожская область, г. Бердянск, Мелитопольськое шоссе, дом 84/1",
+                "locality": "Бердянск"
+              }
+            }
+          ],
+          "time": "2015-11-10T15:30:50.151415+02:00"
+        }
+      ],
+      "time": "2015-11-10T13:32:06.971722+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T21:47:03.999266+02:00",
+          "amount": 303900.0,
+          "bidder": "9f0eea40b9ce4796804cdd1c89c1c78d"
+        },
+        {
+          "date": "2015-11-09T13:20:32.517603+02:00",
+          "amount": 240000.0,
+          "bidder": "c8bef123443044b9baf95b6cb181ed41"
+        }
+      ],
+      "time": "2015-11-10T13:11:03.002336+00:00"
+    }
+  },
+  "id": "548d7293a7eb482e902891c611bb468b",
+  "tenderId": "UA-2015-11-03-000096"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a71033e68cc34644b298c5d789b4c490",
+        "time": "2015-12-11T09:59:36.006942+00:00"
+      },
+      "turn_1": {
+        "bidder": "ccc5a5801d8d426995085b82fce0e160",
+        "time": "2015-12-11T09:57:36.006893+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 91100.0,
+        "bid_time": "2015-12-11T12:04:57.637358+02:00",
+        "bidder": "a71033e68cc34644b298c5d789b4c490",
+        "time": "2015-12-11T10:05:36.012797+00:00"
+      },
+      "turn_1": {
+        "amount": 91114.0,
+        "bid_time": "2015-12-11T12:01:59.850205+02:00",
+        "bidder": "ccc5a5801d8d426995085b82fce0e160",
+        "time": "2015-12-11T10:03:36.011356+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a71033e68cc34644b298c5d789b4c490",
+        "time": "2015-12-11T09:53:36.006951+00:00"
+      },
+      "turn_1": {
+        "bidder": "ccc5a5801d8d426995085b82fce0e160",
+        "time": "2015-12-11T09:51:36.006724+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ccc5a5801d8d426995085b82fce0e160",
+          "amount": 91114.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380964279109",
+                "name": "Владимир Бабик",
+                "email": "ukrteploservice@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35548307",
+                "legalName": "Укртеплоліфтсервіс"
+              },
+              "name": "Укртеплоліфтсервіс",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T12:01:59.850205+02:00"
+        },
+        {
+          "bidder": "a71033e68cc34644b298c5d789b4c490",
+          "amount": 91100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935278966",
+                "name": "Лариса Горбовая",
+                "email": "gorbovayal@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "14357579",
+                "legalName": "ПрАТ \"ОТИС\""
+              },
+              "name": "ПрАТ \"ОТИС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Чистяковская, 32",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:04:57.637358+02:00"
+        }
+      ],
+      "time": "2015-12-11T10:05:40.455985+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T14:14:17.662752+02:00",
+          "amount": 105000.0,
+          "bidder": "ccc5a5801d8d426995085b82fce0e160"
+        },
+        {
+          "date": "2015-12-10T09:53:13.223795+02:00",
+          "amount": 92164.08,
+          "bidder": "a71033e68cc34644b298c5d789b4c490"
+        }
+      ],
+      "time": "2015-12-11T09:44:36.002733+00:00"
+    }
+  },
+  "id": "0245f87dd8624c9abdad25679c2febfd",
+  "tenderId": "UA-2015-12-01-000219"
+}

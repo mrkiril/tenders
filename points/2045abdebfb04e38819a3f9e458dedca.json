@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a190389360e24899810c61700b089c91",
+        "time": "2015-12-09T10:53:20.007542+00:00"
+      },
+      "turn_3": {
+        "amount": 44191.0,
+        "bid_time": "2015-12-09T12:53:59.584095+02:00",
+        "bidder": "47fbac5c825c45caaeb1f07500ac6077",
+        "time": "2015-12-09T10:55:20.009601+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1c8d3581f6b4e81b8981ba38e0c01ea",
+        "time": "2015-12-09T10:51:20.033186+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a190389360e24899810c61700b089c91",
+        "time": "2015-12-09T11:01:20.007078+00:00"
+      },
+      "turn_3": {
+        "amount": 43941.0,
+        "bid_time": "2015-12-09T13:01:34.703868+02:00",
+        "bidder": "47fbac5c825c45caaeb1f07500ac6077",
+        "time": "2015-12-09T11:03:20.029263+00:00"
+      },
+      "turn_1": {
+        "amount": 50150.0,
+        "bid_time": "2015-12-09T12:58:10.457148+02:00",
+        "bidder": "b1c8d3581f6b4e81b8981ba38e0c01ea",
+        "time": "2015-12-09T10:59:20.009000+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a190389360e24899810c61700b089c91",
+        "time": "2015-12-09T10:45:20.013630+00:00"
+      },
+      "turn_3": {
+        "amount": 44441.0,
+        "bid_time": "2015-12-09T12:47:18.543906+02:00",
+        "bidder": "47fbac5c825c45caaeb1f07500ac6077",
+        "time": "2015-12-09T10:47:20.008633+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1c8d3581f6b4e81b8981ba38e0c01ea",
+        "time": "2015-12-09T10:43:20.029101+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a190389360e24899810c61700b089c91",
+          "amount": 50154.75,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:59:56.511961+02:00"
+        },
+        {
+          "bidder": "b1c8d3581f6b4e81b8981ba38e0c01ea",
+          "amount": 50150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442392461",
+                "telephone": "+380442392461",
+                "name": "Бондаренко Леся Павлівна",
+                "email": "office@daren-invest.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37356672"
+              },
+              "name": "ТОВ Дарен-Інвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03061",
+                "region": "Київська область",
+                "streetAddress": "просп. Відрадний, 95",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:58:10.457148+02:00"
+        },
+        {
+          "bidder": "47fbac5c825c45caaeb1f07500ac6077",
+          "amount": 43941.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://paniapteka.ua",
+                "telephone": "+380443915081",
+                "name": "ТОВ ПАНІ АПТЕКА",
+                "email": "proglyada.oksana@paniapteka.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32920616",
+                "legalName": "ТОВ ПАНІ АПТЕКА"
+              },
+              "name": "ТОВ ПАНІ АПТЕКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08128, Київська область, Києво-Святошинський район, с. Мила, вул. Комарова, 23Л",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T13:01:34.703868+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:03:23.796742+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T14:45:05.472285+02:00",
+          "amount": 52379.5,
+          "bidder": "b1c8d3581f6b4e81b8981ba38e0c01ea"
+        },
+        {
+          "date": "2015-12-08T14:59:56.511961+02:00",
+          "amount": 50154.75,
+          "bidder": "a190389360e24899810c61700b089c91"
+        },
+        {
+          "date": "2015-12-04T12:46:05.626007+02:00",
+          "amount": 44691.5,
+          "bidder": "47fbac5c825c45caaeb1f07500ac6077"
+        }
+      ],
+      "time": "2015-12-09T10:36:20.003120+00:00"
+    }
+  },
+  "id": "2045abdebfb04e38819a3f9e458dedca",
+  "tenderId": "UA-2015-11-27-000030"
+}

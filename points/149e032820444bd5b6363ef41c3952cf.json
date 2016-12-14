@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "af3faa2820df4fbdb6c6370ca8534394",
+        "time": "2015-10-19T10:52:22.008936+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fedbb36b99947c783b30001174ef2bf",
+        "time": "2015-10-19T10:50:22.015176+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "af3faa2820df4fbdb6c6370ca8534394",
+        "time": "2015-10-19T10:58:22.007374+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fedbb36b99947c783b30001174ef2bf",
+        "time": "2015-10-19T10:56:22.007862+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "af3faa2820df4fbdb6c6370ca8534394",
+        "time": "2015-10-19T10:46:22.007456+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fedbb36b99947c783b30001174ef2bf",
+        "time": "2015-10-19T10:44:22.009462+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6fedbb36b99947c783b30001174ef2bf",
+          "amount": 10744.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487280755",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\"",
+                "email": "idel@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31253577",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65011, Одеська обл., м. Одеса, вул. Осипова, буд. 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T09:57:34.826891+03:00"
+        },
+        {
+          "bidder": "af3faa2820df4fbdb6c6370ca8534394",
+          "amount": 9416.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elmo.ua/",
+                "telephone": "+380960001050",
+                "name": "ТОВ Дніпроресурс",
+                "email": "380960001050@ya.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24112229",
+                "legalName": "ТОВ Дніпроресурс"
+              },
+              "name": "ТОВ Дніпроресурс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "74900",
+                "region": "",
+                "streetAddress": "Індустріальна 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T09:42:23.433929+03:00"
+        }
+      ],
+      "time": "2015-10-19T10:58:24.132763+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T09:57:34.826891+03:00",
+          "amount": 10744.0,
+          "bidder": "6fedbb36b99947c783b30001174ef2bf"
+        },
+        {
+          "date": "2015-10-16T09:42:23.433929+03:00",
+          "amount": 9416.0,
+          "bidder": "af3faa2820df4fbdb6c6370ca8534394"
+        }
+      ],
+      "time": "2015-10-19T10:37:22.004664+00:00"
+    }
+  },
+  "id": "149e032820444bd5b6363ef41c3952cf",
+  "tenderId": "UA-2015-10-07-000080"
+}

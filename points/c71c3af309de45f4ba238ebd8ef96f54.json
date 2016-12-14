@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f11c2f4d05f24574a37c7fb7d746f08c",
+        "time": "2015-08-13T08:45:00.081249+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a563d350634447e9369ae7303c1c5eb",
+        "time": "2015-08-13T08:43:00.051169+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f11c2f4d05f24574a37c7fb7d746f08c",
+        "time": "2015-08-13T08:51:00.100485+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a563d350634447e9369ae7303c1c5eb",
+        "time": "2015-08-13T08:49:00.061845+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f11c2f4d05f24574a37c7fb7d746f08c",
+        "time": "2015-08-13T08:39:00.038313+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a563d350634447e9369ae7303c1c5eb",
+        "time": "2015-08-13T08:37:00.129799+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2a563d350634447e9369ae7303c1c5eb",
+          "amount": 24483.72,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380462613602",
+                "name": "ПП Грантекс",
+                "email": "den_est.78@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32729285",
+                "legalName": "ПП Грантекс"
+              },
+              "name": "ПП Грантекс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "15520, Украіна, Чернігівська обл, Чернігівський район, с. Роїще, вул. Молодіжна буд. №7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-12T17:31:44.603594+03:00"
+        },
+        {
+          "bidder": "f11c2f4d05f24574a37c7fb7d746f08c",
+          "amount": 24000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-11T15:51:47.472635+03:00"
+        }
+      ],
+      "time": "2015-08-13T08:51:09.483468+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-12T17:31:44.603594+03:00",
+          "amount": 24483.72,
+          "bidder": "2a563d350634447e9369ae7303c1c5eb"
+        },
+        {
+          "date": "2015-08-11T15:51:47.472635+03:00",
+          "amount": 24000.0,
+          "bidder": "f11c2f4d05f24574a37c7fb7d746f08c"
+        }
+      ],
+      "time": "2015-08-13T08:30:00.081556+00:00"
+    }
+  },
+  "id": "c71c3af309de45f4ba238ebd8ef96f54",
+  "tenderId": "UA-2015-08-07-000014"
+}

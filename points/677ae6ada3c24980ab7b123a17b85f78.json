@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4f78f859c979495088163083bf421aaa",
+        "time": "2015-10-23T11:50:39.008489+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b8a78e50f474749a5d7c0a80f6f267e",
+        "time": "2015-10-23T11:48:39.011401+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4f78f859c979495088163083bf421aaa",
+        "time": "2015-10-23T11:56:39.008777+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b8a78e50f474749a5d7c0a80f6f267e",
+        "time": "2015-10-23T11:54:39.008262+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4f78f859c979495088163083bf421aaa",
+        "time": "2015-10-23T11:44:39.010522+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b8a78e50f474749a5d7c0a80f6f267e",
+        "time": "2015-10-23T11:42:39.009743+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7b8a78e50f474749a5d7c0a80f6f267e",
+          "amount": 26775.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380664563396",
+                "name": "Анна миронова",
+                "email": "mironova@kc.epicentrk.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32490244",
+                "legalName": "ТОВ \"Эпицентр К\""
+              },
+              "name": "ТОВ \"Эпицентр К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04655",
+                "region": "Киевская",
+                "streetAddress": "Берковецкая 6в",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-20T09:07:38.604803+03:00"
+        },
+        {
+          "bidder": "4f78f859c979495088163083bf421aaa",
+          "amount": 23000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T16:00:41.075348+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:56:43.126898+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T09:07:38.604803+03:00",
+          "amount": 26775.0,
+          "bidder": "7b8a78e50f474749a5d7c0a80f6f267e"
+        },
+        {
+          "date": "2015-10-20T16:00:41.075348+03:00",
+          "amount": 23000.0,
+          "bidder": "4f78f859c979495088163083bf421aaa"
+        }
+      ],
+      "time": "2015-10-23T11:35:39.004410+00:00"
+    }
+  },
+  "id": "677ae6ada3c24980ab7b123a17b85f78",
+  "tenderId": "UA-2015-10-12-000056"
+}

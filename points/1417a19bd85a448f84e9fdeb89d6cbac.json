@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dc2d1139847e4fc4af5fa5fe23f80afd",
+        "time": "2015-06-26T08:15:00.917064+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9b4db5042d44a23bd1a9fc4408f23e0",
+        "time": "2015-06-26T08:13:00.496473+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dc2d1139847e4fc4af5fa5fe23f80afd",
+        "time": "2015-06-26T08:21:00.353521+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9b4db5042d44a23bd1a9fc4408f23e0",
+        "time": "2015-06-26T08:19:00.607318+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dc2d1139847e4fc4af5fa5fe23f80afd",
+        "time": "2015-06-26T08:09:00.350606+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9b4db5042d44a23bd1a9fc4408f23e0",
+        "time": "2015-06-26T08:07:00.220217+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f9b4db5042d44a23bd1a9fc4408f23e0",
+          "amount": 28014.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0972778686",
+                "name": "Фізична особа-підприємець Аскаров Станіслав Рустамович",
+                "email": "rud.sr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3043400475",
+                "legalName": "Фізична особа-підприємець Аскаров Станіслав Рустамович"
+              },
+              "name": "Фізична особа-підприємець Аскаров Станіслав Рустамович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "68600",
+                "region": "Одеська",
+                "streetAddress": "Червоноармійська.51/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T09:59:11.941640+03:00"
+        },
+        {
+          "bidder": "dc2d1139847e4fc4af5fa5fe23f80afd",
+          "amount": 26835.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0484178283",
+                "telephone": "0484178282",
+                "name": "Приватне Підприемство \" Таврия Плюс \"",
+                "email": "i.maslinkov@tavriav.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31929492",
+                "legalName": "Приватне Підприемство \" Таврия Плюс \""
+              },
+              "name": "Приватне Підприемство \" Таврия Плюс \"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65091",
+                "region": "Одеська",
+                "streetAddress": "вул.м'ясоїдівська,буд14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T09:53:37.898531+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:21:11.046364+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-26T09:59:11.941640+03:00",
+          "amount": 28014.0,
+          "bidder": "f9b4db5042d44a23bd1a9fc4408f23e0"
+        },
+        {
+          "date": "2015-06-26T09:53:37.898531+03:00",
+          "amount": 26835.1,
+          "bidder": "dc2d1139847e4fc4af5fa5fe23f80afd"
+        }
+      ],
+      "time": "2015-06-26T08:00:00.090528+00:00"
+    }
+  },
+  "id": "1417a19bd85a448f84e9fdeb89d6cbac",
+  "tenderId": "UA-2015-06-18-000005"
+}

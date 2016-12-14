@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3f335589400245b483eae0607fdc0c4b",
+        "time": "2015-09-11T08:17:00.063211+00:00"
+      },
+      "turn_3": {
+        "bidder": "6b19fb7320c5437daec2fe4df6ba9e4c",
+        "time": "2015-09-11T08:19:00.061539+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bbc3227e51d4e68a4a6022624959e16",
+        "time": "2015-09-11T08:15:00.074505+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 27324.0,
+        "bid_time": "2015-09-11T11:23:10.950249+03:00",
+        "bidder": "3f335589400245b483eae0607fdc0c4b",
+        "time": "2015-09-11T08:25:00.025295+00:00"
+      },
+      "turn_3": {
+        "amount": 27279.0,
+        "bid_time": "2015-09-11T11:25:20.969515+03:00",
+        "bidder": "6b19fb7320c5437daec2fe4df6ba9e4c",
+        "time": "2015-09-11T08:27:00.036902+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bbc3227e51d4e68a4a6022624959e16",
+        "time": "2015-09-11T08:23:00.032948+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3f335589400245b483eae0607fdc0c4b",
+        "time": "2015-09-11T08:09:00.094902+00:00"
+      },
+      "turn_3": {
+        "bidder": "6b19fb7320c5437daec2fe4df6ba9e4c",
+        "time": "2015-09-11T08:11:00.052951+00:00"
+      },
+      "turn_1": {
+        "bidder": "2bbc3227e51d4e68a4a6022624959e16",
+        "time": "2015-09-11T08:07:00.045733+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2bbc3227e51d4e68a4a6022624959e16",
+          "amount": 27600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380992349979",
+                "name": "ТОВ \"СІ-ЕЛ\"",
+                "email": "ci-el@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404738",
+                "legalName": "ТОВ \"СІ-ЕЛ\""
+              },
+              "name": "ТОВ \"СІ-ЕЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03151, Київ, Народного ополчення,1 Україна",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T11:51:35.435164+03:00"
+        },
+        {
+          "bidder": "3f335589400245b483eae0607fdc0c4b",
+          "amount": 27324.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ci-el.com.ua",
+                "faxNumber": "+380442061565",
+                "telephone": "+380442061565",
+                "name": "Пикалова Ольга Федоровна",
+                "email": "olga.pikalova@ci-el.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404738"
+              },
+              "name": "ТОВ СІ-ЕЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул. Народного ополчення, 1,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-11T11:23:10.950249+03:00"
+        },
+        {
+          "bidder": "6b19fb7320c5437daec2fe4df6ba9e4c",
+          "amount": 27279.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380507087978, +380679008976",
+                "name": "Олег Юрченко",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-11T11:25:20.969515+03:00"
+        }
+      ],
+      "time": "2015-09-11T08:27:01.462987+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-09T17:28:40.547023+03:00",
+          "amount": 27600.0,
+          "bidder": "3f335589400245b483eae0607fdc0c4b"
+        },
+        {
+          "date": "2015-09-10T11:51:35.435164+03:00",
+          "amount": 27600.0,
+          "bidder": "2bbc3227e51d4e68a4a6022624959e16"
+        },
+        {
+          "date": "2015-09-05T16:40:03.717727+03:00",
+          "amount": 27555.0,
+          "bidder": "6b19fb7320c5437daec2fe4df6ba9e4c"
+        }
+      ],
+      "time": "2015-09-11T08:00:00.015091+00:00"
+    }
+  },
+  "id": "ab0f7d437c1c4c399d8af438690c957b",
+  "tenderId": "UA-2015-08-31-000197"
+}

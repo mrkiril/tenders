@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9df058dff8c2424dad082da695a19abd",
+        "time": "2015-03-26T13:17:00.030181+00:00"
+      },
+      "turn_3": {
+        "bidder": "3be9c4c4516d45f39f6fd5848f6db172",
+        "time": "2015-03-26T13:19:00.025739+00:00"
+      },
+      "turn_1": {
+        "bidder": "165f82e86970468dae2521fd67264c69",
+        "time": "2015-03-26T13:15:00.047789+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9df058dff8c2424dad082da695a19abd",
+        "time": "2015-03-26T13:25:00.026823+00:00"
+      },
+      "turn_3": {
+        "bidder": "3be9c4c4516d45f39f6fd5848f6db172",
+        "time": "2015-03-26T13:27:00.054173+00:00"
+      },
+      "turn_1": {
+        "bidder": "165f82e86970468dae2521fd67264c69",
+        "time": "2015-03-26T13:23:00.027464+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 570000.0,
+        "bid_time": "2015-03-26T15:08:27.295313+02:00",
+        "bidder": "9df058dff8c2424dad082da695a19abd",
+        "time": "2015-03-26T13:09:00.033491+00:00"
+      },
+      "turn_3": {
+        "bidder": "165f82e86970468dae2521fd67264c69",
+        "time": "2015-03-26T13:11:00.150654+00:00"
+      },
+      "turn_1": {
+        "amount": 550000.0,
+        "bid_time": "2015-03-26T15:05:11.851357+02:00",
+        "bidder": "3be9c4c4516d45f39f6fd5848f6db172",
+        "time": "2015-03-26T13:07:00.035062+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "165f82e86970468dae2521fd67264c69",
+          "amount": 576000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-25T18:39:00.945543+02:00"
+        },
+        {
+          "bidder": "9df058dff8c2424dad082da695a19abd",
+          "amount": 570000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://legio.all.biz/",
+                "telephone": "+380686104825",
+                "name": "ООО LEGIO",
+                "email": "i.kosar2012@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947782",
+                "legalName": "ООО LEGIO"
+              },
+              "name": "ООО LEGIO",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Энгельса 114",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-26T15:08:27.295313+02:00"
+        },
+        {
+          "bidder": "3be9c4c4516d45f39f6fd5848f6db172",
+          "amount": 550000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677247608",
+                "name": "Тарас Юськів",
+                "email": "tyuskiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23965846",
+                "legalName": "ПВТП \"Акрополіс\""
+              },
+              "name": "ПВТП \"Акрополіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79018",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Залізнична,18",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-03-26T15:05:11.851357+02:00"
+        }
+      ],
+      "time": "2015-03-26T13:27:01.871778+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-24T17:15:00.569530+02:00",
+          "amount": 600000.0,
+          "bidder": "3be9c4c4516d45f39f6fd5848f6db172"
+        },
+        {
+          "date": "2015-03-25T09:48:26.516301+02:00",
+          "amount": 590000.0,
+          "bidder": "9df058dff8c2424dad082da695a19abd"
+        },
+        {
+          "date": "2015-03-25T18:39:00.945543+02:00",
+          "amount": 576000.0,
+          "bidder": "165f82e86970468dae2521fd67264c69"
+        }
+      ],
+      "time": "2015-03-26T13:00:00.011468+00:00"
+    }
+  },
+  "id": "e9335beaaaf74e82a1abe0e3cb7b3fdd",
+  "tenderId": "UA-2015-03-17-000006"
+}

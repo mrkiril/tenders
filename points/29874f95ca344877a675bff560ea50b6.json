@@ -1,0 +1,210 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 9750.0,
+        "bid_time": "2015-08-25T11:51:34.633496+03:00",
+        "bidder": "75b77ea3fe4d4ea5b2181c3341d05044",
+        "time": "2015-08-25T08:53:00.056944+00:00"
+      },
+      "turn_2": {
+        "bidder": "3aa3a3d62ac24ca084364bc69a1f2710",
+        "time": "2015-08-25T08:49:00.102131+00:00"
+      },
+      "turn_3": {
+        "amount": 9800.0,
+        "bid_time": "2015-08-25T11:49:48.793641+03:00",
+        "bidder": "b60d74c5df1d48dea6eca227da93ccf1",
+        "time": "2015-08-25T08:51:00.050181+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b43d63b7804f419f2a5aac9b1f9b8e",
+        "time": "2015-08-25T08:47:00.101745+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 9450.0,
+        "bid_time": "2015-08-25T12:01:48.440024+03:00",
+        "bidder": "75b77ea3fe4d4ea5b2181c3341d05044",
+        "time": "2015-08-25T09:03:00.028344+00:00"
+      },
+      "turn_2": {
+        "bidder": "3aa3a3d62ac24ca084364bc69a1f2710",
+        "time": "2015-08-25T08:59:00.018340+00:00"
+      },
+      "turn_3": {
+        "amount": 9500.0,
+        "bid_time": "2015-08-25T11:59:17.715516+03:00",
+        "bidder": "b60d74c5df1d48dea6eca227da93ccf1",
+        "time": "2015-08-25T09:01:00.028620+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b43d63b7804f419f2a5aac9b1f9b8e",
+        "time": "2015-08-25T08:57:00.023485+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "3aa3a3d62ac24ca084364bc69a1f2710",
+        "time": "2015-08-25T08:43:00.030768+00:00"
+      },
+      "turn_2": {
+        "amount": 11450.0,
+        "bid_time": "2015-08-25T11:37:22.833212+03:00",
+        "bidder": "b60d74c5df1d48dea6eca227da93ccf1",
+        "time": "2015-08-25T08:39:00.192888+00:00"
+      },
+      "turn_3": {
+        "amount": 10600.0,
+        "bid_time": "2015-08-25T11:39:34.952371+03:00",
+        "bidder": "75b77ea3fe4d4ea5b2181c3341d05044",
+        "time": "2015-08-25T08:41:00.100891+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2b43d63b7804f419f2a5aac9b1f9b8e",
+        "time": "2015-08-25T08:37:00.104430+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c2b43d63b7804f419f2a5aac9b1f9b8e",
+          "amount": 14150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "В'ячеслав  Нікітін",
+                "email": "btek@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36926351",
+                "legalName": "ТОВ \"Бранд Трайдинг енд Консалт\""
+              },
+              "name": "ТОВ \"Бранд Трайдинг енд Консалт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01024",
+                "region": "Киевская",
+                "streetAddress": "вул. Лютеранська 15, оф. 14",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-20T18:25:46.884898+03:00"
+        },
+        {
+          "bidder": "3aa3a3d62ac24ca084364bc69a1f2710",
+          "amount": 11610.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961925380",
+                "name": "Гринкевич Станіслав Олександрович",
+                "email": "hrynkevych@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3388406796"
+              },
+              "name": "ФОП Гринкевич",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "Маршала Малиновського 27/23, к.220",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-20T12:39:23.677580+03:00"
+        },
+        {
+          "bidder": "b60d74c5df1d48dea6eca227da93ccf1",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672409263",
+                "name": "Дмитрий Юрьевич",
+                "email": "mbs-group@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37098774",
+                "legalName": "ТОВ \"Максимус Буд Сервис\""
+              },
+              "name": "ТОВ \"Максимус Буд Сервис\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03148",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-25T11:59:17.715516+03:00"
+        },
+        {
+          "bidder": "75b77ea3fe4d4ea5b2181c3341d05044",
+          "amount": 9450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674667298",
+                "name": "Анатолій Якімечко",
+                "email": "yakimechko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Аероконд І.К.\"",
+                "id": "38687995",
+                "uri": "http://www.aerocondik.kiev.ua"
+              },
+              "name": "ТОВ \"Аероконд І.К.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04136",
+                "region": "Киевская",
+                "streetAddress": "вул. Стеценка,3 оф.3.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-25T12:01:48.440024+03:00"
+        }
+      ],
+      "time": "2015-08-25T09:03:02.178953+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T18:25:46.884898+03:00",
+          "amount": 14150.0,
+          "bidder": "c2b43d63b7804f419f2a5aac9b1f9b8e"
+        },
+        {
+          "date": "2015-08-21T10:25:45.582376+03:00",
+          "amount": 12347.42,
+          "bidder": "b60d74c5df1d48dea6eca227da93ccf1"
+        },
+        {
+          "date": "2015-08-20T17:05:04.290169+03:00",
+          "amount": 11772.0,
+          "bidder": "75b77ea3fe4d4ea5b2181c3341d05044"
+        },
+        {
+          "date": "2015-08-20T12:39:23.677580+03:00",
+          "amount": 11610.0,
+          "bidder": "3aa3a3d62ac24ca084364bc69a1f2710"
+        }
+      ],
+      "time": "2015-08-25T08:30:00.062551+00:00"
+    }
+  },
+  "id": "29874f95ca344877a675bff560ea50b6",
+  "tenderId": "UA-2015-08-13-000052"
+}

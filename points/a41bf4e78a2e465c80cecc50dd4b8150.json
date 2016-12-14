@@ -1,0 +1,123 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 31850.0,
+        "bid_time": "2015-12-15T15:48:48.766832+02:00",
+        "bidder": "523751d2249d43da80e52557eb9b792c",
+        "time": "2015-12-15T13:49:59.008631+00:00"
+      },
+      "turn_1": {
+        "amount": 32000.0,
+        "bid_time": "2015-12-15T15:46:20.152205+02:00",
+        "bidder": "17b6555fc44f4d1e9d0d2a1ceeb6d24c",
+        "time": "2015-12-15T13:47:59.008712+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 28600.0,
+        "bid_time": "2015-12-15T15:55:25.352753+02:00",
+        "bidder": "523751d2249d43da80e52557eb9b792c",
+        "time": "2015-12-15T13:55:59.009609+00:00"
+      },
+      "turn_1": {
+        "amount": 28900.0,
+        "bid_time": "2015-12-15T15:52:16.372239+02:00",
+        "bidder": "17b6555fc44f4d1e9d0d2a1ceeb6d24c",
+        "time": "2015-12-15T13:53:59.009039+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 34250.0,
+        "bid_time": "2015-12-15T15:42:59.976424+02:00",
+        "bidder": "523751d2249d43da80e52557eb9b792c",
+        "time": "2015-12-15T13:43:59.009731+00:00"
+      },
+      "turn_1": {
+        "amount": 34300.0,
+        "bid_time": "2015-12-15T15:40:14.166291+02:00",
+        "bidder": "17b6555fc44f4d1e9d0d2a1ceeb6d24c",
+        "time": "2015-12-15T13:41:59.009654+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "17b6555fc44f4d1e9d0d2a1ceeb6d24c",
+          "amount": 28900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alterpress.com.ua",
+                "telephone": "+380445012459",
+                "name": "тов\"Алтерпрес\"",
+                "email": "info@alterpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13683555",
+                "legalName": "тов\"Алтерпрес\""
+              },
+              "name": "тов\"Алтерпрес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04112 Київвул.Шамрипа 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T15:52:16.372239+02:00"
+        },
+        {
+          "bidder": "523751d2249d43da80e52557eb9b792c",
+          "amount": 28600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bregin.in.ua",
+                "telephone": "+380984760097",
+                "name": "Брегін Андрій Романович",
+                "email": "bregin@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2942003178"
+              },
+              "name": "ФОП Брегін Андрій Романович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35408",
+                "region": "Рівненська область",
+                "streetAddress": "село Симонів, вулиця Юзикевичів 27",
+                "locality": "Гощанський район"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:55:25.352753+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:55:59.756300+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-13T23:57:31.487820+02:00",
+          "amount": 36300.0,
+          "bidder": "17b6555fc44f4d1e9d0d2a1ceeb6d24c"
+        },
+        {
+          "date": "2015-12-14T12:34:08.307428+02:00",
+          "amount": 35900.0,
+          "bidder": "523751d2249d43da80e52557eb9b792c"
+        }
+      ],
+      "time": "2015-12-15T13:34:59.005166+00:00"
+    }
+  },
+  "id": "a41bf4e78a2e465c80cecc50dd4b8150",
+  "tenderId": "UA-2015-12-07-000070-a"
+}

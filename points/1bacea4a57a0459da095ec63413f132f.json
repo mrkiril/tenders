@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0d629d2e38b04c69bfee03e4d5ebb056",
+        "time": "2015-06-30T08:45:00.120518+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0cc213a814a4f25b5178a3f5765e064",
+        "time": "2015-06-30T08:43:00.350532+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0d629d2e38b04c69bfee03e4d5ebb056",
+        "time": "2015-06-30T08:51:00.512041+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0cc213a814a4f25b5178a3f5765e064",
+        "time": "2015-06-30T08:49:00.238647+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0d629d2e38b04c69bfee03e4d5ebb056",
+        "time": "2015-06-30T08:39:00.170877+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0cc213a814a4f25b5178a3f5765e064",
+        "time": "2015-06-30T08:37:00.050752+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f0cc213a814a4f25b5178a3f5765e064",
+          "amount": 5750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445024404, +380445024402, +380997669889",
+                "name": "Егор",
+                "email": "spektr.met@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39068553",
+                "legalName": "ТОВ \"Спектр Металл\""
+              },
+              "name": "ТОВ \"Спектр Металл\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02206",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул. Миропільска, 19",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-24T15:59:23.320099+03:00"
+        },
+        {
+          "bidder": "0d629d2e38b04c69bfee03e4d5ebb056",
+          "amount": 5512.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679050905",
+                "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+                "email": "entikon.pp@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33439979",
+                "legalName": "Приватне підприємство \"ЕН-ТІКОН\""
+              },
+              "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03056 м.Київ,вул.Борщагівська 117,к.234",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T09:53:40.951146+03:00"
+        }
+      ],
+      "time": "2015-06-30T08:51:06.322563+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-24T15:59:23.320099+03:00",
+          "amount": 5750.0,
+          "bidder": "f0cc213a814a4f25b5178a3f5765e064"
+        },
+        {
+          "date": "2015-06-25T09:53:40.951146+03:00",
+          "amount": 5512.68,
+          "bidder": "0d629d2e38b04c69bfee03e4d5ebb056"
+        }
+      ],
+      "time": "2015-06-30T08:30:00.012833+00:00"
+    }
+  },
+  "id": "1bacea4a57a0459da095ec63413f132f",
+  "tenderId": "UA-2015-06-24-000049"
+}

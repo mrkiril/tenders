@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 24421.0,
+        "bid_time": "2015-12-09T15:56:27.668346+02:00",
+        "bidder": "2724dee2a93747bcbd32ce29cd49bace",
+        "time": "2015-12-09T13:56:55.011480+00:00"
+      },
+      "turn_3": {
+        "amount": 24071.0,
+        "bid_time": "2015-12-09T15:57:16.064847+02:00",
+        "bidder": "6a6caf1f49bf4603835247d217ca4b12",
+        "time": "2015-12-09T13:58:55.023260+00:00"
+      },
+      "turn_1": {
+        "bidder": "2cca350ab2754c079fc5e98ffa129bdc",
+        "time": "2015-12-09T13:54:55.012084+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 24066.0,
+        "bid_time": "2015-12-09T16:03:21.636918+02:00",
+        "bidder": "2724dee2a93747bcbd32ce29cd49bace",
+        "time": "2015-12-09T14:04:55.009569+00:00"
+      },
+      "turn_3": {
+        "amount": 23721.0,
+        "bid_time": "2015-12-09T16:05:15.346390+02:00",
+        "bidder": "6a6caf1f49bf4603835247d217ca4b12",
+        "time": "2015-12-09T14:06:55.062689+00:00"
+      },
+      "turn_1": {
+        "bidder": "2cca350ab2754c079fc5e98ffa129bdc",
+        "time": "2015-12-09T14:02:55.017128+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2724dee2a93747bcbd32ce29cd49bace",
+        "time": "2015-12-09T13:48:55.009981+00:00"
+      },
+      "turn_3": {
+        "bidder": "6a6caf1f49bf4603835247d217ca4b12",
+        "time": "2015-12-09T13:50:55.012364+00:00"
+      },
+      "turn_1": {
+        "bidder": "2cca350ab2754c079fc5e98ffa129bdc",
+        "time": "2015-12-09T13:46:55.013930+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2cca350ab2754c079fc5e98ffa129bdc",
+          "amount": 33666.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T17:29:20.243607+02:00"
+        },
+        {
+          "bidder": "2724dee2a93747bcbd32ce29cd49bace",
+          "amount": 24066.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442192200",
+                "telephone": "+380679132826",
+                "name": "Мельник Лілія Миколаївна",
+                "email": "fortuna_m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2963009588"
+              },
+              "name": "ФОП Мельник",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08320",
+                "region": "Київська область",
+                "streetAddress": "Гагаріна 52",
+                "locality": "Велика Олександрівка"
+              }
+            }
+          ],
+          "time": "2015-12-09T16:03:21.636918+02:00"
+        },
+        {
+          "bidder": "6a6caf1f49bf4603835247d217ca4b12",
+          "amount": 23721.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T16:05:15.346390+02:00"
+        }
+      ],
+      "time": "2015-12-09T14:06:57.457833+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T17:29:20.243607+02:00",
+          "amount": 33666.0,
+          "bidder": "2cca350ab2754c079fc5e98ffa129bdc"
+        },
+        {
+          "date": "2015-12-08T16:26:24.027350+02:00",
+          "amount": 27000.0,
+          "bidder": "2724dee2a93747bcbd32ce29cd49bace"
+        },
+        {
+          "date": "2015-12-08T09:27:22.418348+02:00",
+          "amount": 24421.5,
+          "bidder": "6a6caf1f49bf4603835247d217ca4b12"
+        }
+      ],
+      "time": "2015-12-09T13:39:55.004557+00:00"
+    }
+  },
+  "id": "315e8ddeab7f45c2b5325ebc3d8cc366",
+  "tenderId": "UA-2015-12-07-000072-b"
+}

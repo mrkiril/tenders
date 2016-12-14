@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1232.0,
+        "bid_time": "2015-11-26T12:59:10.230565+02:00",
+        "bidder": "0cfc5063192b47dfa419dd966da4f089",
+        "time": "2015-11-26T11:00:34.011068+00:00"
+      },
+      "turn_3": {
+        "bidder": "c089390713cd4ce88d43f2493d91ddca",
+        "time": "2015-11-26T11:02:34.014409+00:00"
+      },
+      "turn_1": {
+        "bidder": "f695cc84271c42b8968ec0df7eddd622",
+        "time": "2015-11-26T10:58:34.008324+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1176.0,
+        "bid_time": "2015-11-26T13:07:25.480083+02:00",
+        "bidder": "c089390713cd4ce88d43f2493d91ddca",
+        "time": "2015-11-26T11:08:34.009669+00:00"
+      },
+      "turn_3": {
+        "bidder": "0cfc5063192b47dfa419dd966da4f089",
+        "time": "2015-11-26T11:10:34.008172+00:00"
+      },
+      "turn_1": {
+        "bidder": "f695cc84271c42b8968ec0df7eddd622",
+        "time": "2015-11-26T11:06:34.008220+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1323.0,
+        "bid_time": "2015-11-26T12:52:09.593381+02:00",
+        "bidder": "0cfc5063192b47dfa419dd966da4f089",
+        "time": "2015-11-26T10:52:34.021561+00:00"
+      },
+      "turn_3": {
+        "amount": 1268.0,
+        "bid_time": "2015-11-26T12:53:22.022798+02:00",
+        "bidder": "c089390713cd4ce88d43f2493d91ddca",
+        "time": "2015-11-26T10:54:34.010373+00:00"
+      },
+      "turn_1": {
+        "amount": 1350.0,
+        "bid_time": "2015-11-26T12:48:47.213582+02:00",
+        "bidder": "f695cc84271c42b8968ec0df7eddd622",
+        "time": "2015-11-26T10:50:34.024932+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f695cc84271c42b8968ec0df7eddd622",
+          "amount": 1350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445002086",
+                "telephone": "+380442292408",
+                "name": "Олійник Олександр Петрович",
+                "email": "0672348985@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38390363"
+              },
+              "name": "ТОВ Стартрейдінг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська область",
+                "streetAddress": "вул. Лаврська 9 корпус 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T12:48:47.213582+02:00"
+        },
+        {
+          "bidder": "0cfc5063192b47dfa419dd966da4f089",
+          "amount": 1232.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T12:59:10.230565+02:00"
+        },
+        {
+          "bidder": "c089390713cd4ce88d43f2493d91ddca",
+          "amount": 1176.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T13:07:25.480083+02:00"
+        }
+      ],
+      "time": "2015-11-26T11:10:37.749892+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T15:00:46.764925+02:00",
+          "amount": 1456.0,
+          "bidder": "f695cc84271c42b8968ec0df7eddd622"
+        },
+        {
+          "date": "2015-11-24T09:27:55.989226+02:00",
+          "amount": 1414.0,
+          "bidder": "0cfc5063192b47dfa419dd966da4f089"
+        },
+        {
+          "date": "2015-11-24T09:48:51.696916+02:00",
+          "amount": 1360.0,
+          "bidder": "c089390713cd4ce88d43f2493d91ddca"
+        }
+      ],
+      "time": "2015-11-26T10:43:34.004680+00:00"
+    }
+  },
+  "id": "0cba6c2b7a4642db9bdaf83c54560ddd",
+  "tenderId": "UA-2015-11-19-000089"
+}

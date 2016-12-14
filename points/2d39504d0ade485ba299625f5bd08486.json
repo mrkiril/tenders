@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "88d4a6b4bef246b3a6c74ba56ecececf",
+        "time": "2015-12-04T12:47:39.008424+00:00"
+      },
+      "turn_3": {
+        "bidder": "52275716a5484560944d2f706cf9b389",
+        "time": "2015-12-04T12:49:39.008887+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee55db8e05084b6dbc1b67c75a728b3b",
+        "time": "2015-12-04T12:45:39.008011+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "88d4a6b4bef246b3a6c74ba56ecececf",
+        "time": "2015-12-04T12:55:39.010434+00:00"
+      },
+      "turn_3": {
+        "bidder": "52275716a5484560944d2f706cf9b389",
+        "time": "2015-12-04T12:57:39.008075+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee55db8e05084b6dbc1b67c75a728b3b",
+        "time": "2015-12-04T12:53:39.010330+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "88d4a6b4bef246b3a6c74ba56ecececf",
+        "time": "2015-12-04T12:39:39.008685+00:00"
+      },
+      "turn_3": {
+        "bidder": "52275716a5484560944d2f706cf9b389",
+        "time": "2015-12-04T12:41:39.018655+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee55db8e05084b6dbc1b67c75a728b3b",
+        "time": "2015-12-04T12:37:39.008299+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ee55db8e05084b6dbc1b67c75a728b3b",
+          "amount": 210.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979264896",
+                "name": "Котлубай Сергій Іванович",
+                "email": "kotly@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2318906193"
+              },
+              "name": "ФОП Котлубай",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "41300",
+                "region": "Сумська область",
+                "streetAddress": "вул. Щорса, 51",
+                "locality": "Кролевець"
+              }
+            }
+          ],
+          "time": "2015-12-02T20:21:44.996368+02:00"
+        },
+        {
+          "bidder": "88d4a6b4bef246b3a6c74ba56ecececf",
+          "amount": 210.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445019001, +380444105984",
+                "name": "Вячеслав Суский",
+                "email": "ka-re@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"КА-РЕ\"",
+                "id": "30375112",
+                "uri": "http://ka-re.com.ua"
+              },
+              "name": "ТОВ \"КА-РЕ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04074",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул. Лугова 13",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-02T18:03:00.872400+02:00"
+        },
+        {
+          "bidder": "52275716a5484560944d2f706cf9b389",
+          "amount": 165.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-02T19:04:36.214044+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:57:40.386516+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T18:03:00.872400+02:00",
+          "amount": 210.0,
+          "bidder": "88d4a6b4bef246b3a6c74ba56ecececf"
+        },
+        {
+          "date": "2015-12-02T20:21:44.996368+02:00",
+          "amount": 210.0,
+          "bidder": "ee55db8e05084b6dbc1b67c75a728b3b"
+        },
+        {
+          "date": "2015-12-02T19:04:36.214044+02:00",
+          "amount": 165.0,
+          "bidder": "52275716a5484560944d2f706cf9b389"
+        }
+      ],
+      "time": "2015-12-04T12:30:39.004926+00:00"
+    }
+  },
+  "id": "2d39504d0ade485ba299625f5bd08486",
+  "tenderId": "UA-2015-12-01-000133-a"
+}

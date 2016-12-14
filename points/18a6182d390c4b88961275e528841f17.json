@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1f3cbd9d1d2f4c8a9365ccc79d1e5872",
+        "time": "2015-11-23T13:17:25.010520+00:00"
+      },
+      "turn_1": {
+        "amount": 4900.0,
+        "bid_time": "2015-11-23T15:14:35.857792+02:00",
+        "bidder": "2f05ab6c9540431cb1042bcec4f83989",
+        "time": "2015-11-23T13:15:25.012564+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4490.0,
+        "bid_time": "2015-11-23T15:21:58.653160+02:00",
+        "bidder": "2f05ab6c9540431cb1042bcec4f83989",
+        "time": "2015-11-23T13:23:25.009186+00:00"
+      },
+      "turn_1": {
+        "amount": 4500.0,
+        "bid_time": "2015-11-23T15:20:25.207669+02:00",
+        "bidder": "1f3cbd9d1d2f4c8a9365ccc79d1e5872",
+        "time": "2015-11-23T13:21:25.009284+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1f3cbd9d1d2f4c8a9365ccc79d1e5872",
+        "time": "2015-11-23T13:11:25.009167+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f05ab6c9540431cb1042bcec4f83989",
+        "time": "2015-11-23T13:09:25.016278+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1f3cbd9d1d2f4c8a9365ccc79d1e5872",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "URA Олейников",
+                "email": "sin725@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34806111",
+                "legalName": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "пр Визволителів буд. 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-23T15:20:25.207669+02:00"
+        },
+        {
+          "bidder": "2f05ab6c9540431cb1042bcec4f83989",
+          "amount": 4490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T15:21:58.653160+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:23:26.258055+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T12:01:27.075307+02:00",
+          "amount": 5378.0,
+          "bidder": "2f05ab6c9540431cb1042bcec4f83989"
+        },
+        {
+          "date": "2015-11-20T08:29:07.143563+02:00",
+          "amount": 4999.0,
+          "bidder": "1f3cbd9d1d2f4c8a9365ccc79d1e5872"
+        }
+      ],
+      "time": "2015-11-23T13:02:25.004523+00:00"
+    }
+  },
+  "id": "18a6182d390c4b88961275e528841f17",
+  "tenderId": "UA-2015-11-13-000155"
+}

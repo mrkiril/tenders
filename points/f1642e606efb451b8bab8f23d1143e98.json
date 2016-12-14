@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "07bf3cbbc2734691bf39e12e204f547c",
+        "time": "2015-11-04T12:54:49.009171+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ae4d89cb1a1400b865a4afdd684d44c",
+        "time": "2015-11-04T12:52:49.008884+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "07bf3cbbc2734691bf39e12e204f547c",
+        "time": "2015-11-04T13:00:49.007727+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ae4d89cb1a1400b865a4afdd684d44c",
+        "time": "2015-11-04T12:58:49.009001+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2ae4d89cb1a1400b865a4afdd684d44c",
+        "time": "2015-11-04T12:48:49.009089+00:00"
+      },
+      "turn_1": {
+        "amount": 24998.0,
+        "bid_time": "2015-11-04T14:46:35.303761+02:00",
+        "bidder": "07bf3cbbc2734691bf39e12e204f547c",
+        "time": "2015-11-04T12:46:49.009905+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2ae4d89cb1a1400b865a4afdd684d44c",
+          "amount": 25000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська !79-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T03:49:41.987900+02:00"
+        },
+        {
+          "bidder": "07bf3cbbc2734691bf39e12e204f547c",
+          "amount": 24998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-04T14:46:35.303761+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:01:01.185583+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T15:13:11.762829+02:00",
+          "amount": 29415.0,
+          "bidder": "07bf3cbbc2734691bf39e12e204f547c"
+        },
+        {
+          "date": "2015-10-30T03:49:41.987900+02:00",
+          "amount": 25000.0,
+          "bidder": "2ae4d89cb1a1400b865a4afdd684d44c"
+        }
+      ],
+      "time": "2015-11-04T12:39:49.003862+00:00"
+    }
+  },
+  "id": "f1642e606efb451b8bab8f23d1143e98",
+  "tenderId": "UA-2015-10-28-000166"
+}

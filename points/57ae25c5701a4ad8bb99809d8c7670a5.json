@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3700.0,
+        "bid_time": "2015-08-03T11:15:56.834897+03:00",
+        "bidder": "bec09d983fb44dd8b724ef666a9cc824",
+        "time": "2015-08-03T08:17:00.070008+00:00"
+      },
+      "turn_3": {
+        "amount": 3600.0,
+        "bid_time": "2015-08-03T11:18:38.189948+03:00",
+        "bidder": "4bd62cc608614864b35bd762fa809f90",
+        "time": "2015-08-03T08:19:00.139212+00:00"
+      },
+      "turn_1": {
+        "bidder": "dfa0d873af0c4a3280d451d07c5ef081",
+        "time": "2015-08-03T08:15:00.074913+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3500.0,
+        "bid_time": "2015-08-03T11:23:24.996067+03:00",
+        "bidder": "bec09d983fb44dd8b724ef666a9cc824",
+        "time": "2015-08-03T08:25:00.049444+00:00"
+      },
+      "turn_3": {
+        "bidder": "4bd62cc608614864b35bd762fa809f90",
+        "time": "2015-08-03T08:27:00.041384+00:00"
+      },
+      "turn_1": {
+        "bidder": "dfa0d873af0c4a3280d451d07c5ef081",
+        "time": "2015-08-03T08:23:00.065609+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3900.0,
+        "bid_time": "2015-08-03T11:07:12.056386+03:00",
+        "bidder": "4bd62cc608614864b35bd762fa809f90",
+        "time": "2015-08-03T08:09:00.124664+00:00"
+      },
+      "turn_3": {
+        "bidder": "dfa0d873af0c4a3280d451d07c5ef081",
+        "time": "2015-08-03T08:11:00.136377+00:00"
+      },
+      "turn_1": {
+        "amount": 3999.0,
+        "bid_time": "2015-08-03T11:05:20.524322+03:00",
+        "bidder": "bec09d983fb44dd8b724ef666a9cc824",
+        "time": "2015-08-03T08:07:00.101107+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dfa0d873af0c4a3280d451d07c5ef081",
+          "amount": 4000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380919009389, +380638525162",
+                "name": "Олег Скипакевич",
+                "email": "220molotkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3424006890",
+                "legalName": "Интернет-магазин \"220M\""
+              },
+              "name": "Интернет-магазин \"220M\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49087",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. С. Ковалевской 75, 20",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-07-29T22:11:35.253572+03:00"
+        },
+        {
+          "bidder": "4bd62cc608614864b35bd762fa809f90",
+          "amount": 3600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T11:18:38.189948+03:00"
+        },
+        {
+          "bidder": "bec09d983fb44dd8b724ef666a9cc824",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.climatmarka.com.ua/",
+                "faxNumber": "0444952101",
+                "telephone": "0442226000",
+                "name": "Куліш Сергій Васильович",
+                "email": "sc06@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34619481",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІТЮ \"СК ВІКОНД\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІТЮ \"СК ВІКОНД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04112",
+                "region": "Київська",
+                "streetAddress": "Оранжерейна, 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T11:23:24.996067+03:00"
+        }
+      ],
+      "time": "2015-08-03T08:27:01.979311+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T09:48:37.862914+03:00",
+          "amount": 4899.0,
+          "bidder": "bec09d983fb44dd8b724ef666a9cc824"
+        },
+        {
+          "date": "2015-07-27T21:21:59.389011+03:00",
+          "amount": 4800.0,
+          "bidder": "4bd62cc608614864b35bd762fa809f90"
+        },
+        {
+          "date": "2015-07-29T22:11:35.253572+03:00",
+          "amount": 4000.0,
+          "bidder": "dfa0d873af0c4a3280d451d07c5ef081"
+        }
+      ],
+      "time": "2015-08-03T08:00:00.008037+00:00"
+    }
+  },
+  "id": "57ae25c5701a4ad8bb99809d8c7670a5",
+  "tenderId": "UA-2015-07-23-000067"
+}

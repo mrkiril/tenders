@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1f8a284164da486da54a94f8e5f31de8",
+        "time": "2015-12-08T10:27:55.009068+00:00"
+      },
+      "turn_3": {
+        "bidder": "fcaf86af3b6c4fa6ba1a19e00fd65c01",
+        "time": "2015-12-08T10:29:55.008132+00:00"
+      },
+      "turn_1": {
+        "bidder": "331555e0399b430b8ada54254e900d6c",
+        "time": "2015-12-08T10:25:55.010903+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1f8a284164da486da54a94f8e5f31de8",
+        "time": "2015-12-08T10:35:55.007947+00:00"
+      },
+      "turn_3": {
+        "bidder": "fcaf86af3b6c4fa6ba1a19e00fd65c01",
+        "time": "2015-12-08T10:37:55.008108+00:00"
+      },
+      "turn_1": {
+        "bidder": "331555e0399b430b8ada54254e900d6c",
+        "time": "2015-12-08T10:33:55.007608+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 8600.0,
+        "bid_time": "2015-12-08T12:19:24.669433+02:00",
+        "bidder": "fcaf86af3b6c4fa6ba1a19e00fd65c01",
+        "time": "2015-12-08T10:19:55.017508+00:00"
+      },
+      "turn_3": {
+        "bidder": "331555e0399b430b8ada54254e900d6c",
+        "time": "2015-12-08T10:21:55.011796+00:00"
+      },
+      "turn_1": {
+        "amount": 8789.0,
+        "bid_time": "2015-12-08T12:16:46.898703+02:00",
+        "bidder": "1f8a284164da486da54a94f8e5f31de8",
+        "time": "2015-12-08T10:17:55.016343+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "331555e0399b430b8ada54254e900d6c",
+          "amount": 8790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112, +380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-06T15:17:38.932063+02:00"
+        },
+        {
+          "bidder": "1f8a284164da486da54a94f8e5f31de8",
+          "amount": 8789.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-08T12:16:46.898703+02:00"
+        },
+        {
+          "bidder": "fcaf86af3b6c4fa6ba1a19e00fd65c01",
+          "amount": 8600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677118031",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+                "email": "agcsc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32765826",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03061 Київ вул. Шепелєва 7-А к.51",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T12:19:24.669433+02:00"
+        }
+      ],
+      "time": "2015-12-08T10:37:56.856861+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-06T20:23:20.268002+02:00",
+          "amount": 8984.0,
+          "bidder": "1f8a284164da486da54a94f8e5f31de8"
+        },
+        {
+          "date": "2015-12-07T00:30:38.436967+02:00",
+          "amount": 8910.0,
+          "bidder": "fcaf86af3b6c4fa6ba1a19e00fd65c01"
+        },
+        {
+          "date": "2015-12-06T15:17:38.932063+02:00",
+          "amount": 8790.0,
+          "bidder": "331555e0399b430b8ada54254e900d6c"
+        }
+      ],
+      "time": "2015-12-08T10:10:55.004817+00:00"
+    }
+  },
+  "id": "17d9a28a61734c03940985cdbb509b1f",
+  "tenderId": "UA-2015-11-30-000104-b"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6243afa3c99643dc84ced596b5176f97",
+        "time": "2015-05-28T08:15:00.557403+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f7242e2ee2d4860810787865872ea4c",
+        "time": "2015-05-28T08:13:00.253212+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6243afa3c99643dc84ced596b5176f97",
+        "time": "2015-05-28T08:21:00.458732+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f7242e2ee2d4860810787865872ea4c",
+        "time": "2015-05-28T08:19:00.566040+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6243afa3c99643dc84ced596b5176f97",
+        "time": "2015-05-28T08:09:00.215897+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f7242e2ee2d4860810787865872ea4c",
+        "time": "2015-05-28T08:07:00.491971+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1f7242e2ee2d4860810787865872ea4c",
+          "amount": 17900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380964941397",
+                "name": "Андрей Павловский",
+                "email": "pavlovskiy@salvigroup.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38526993",
+                "legalName": "ТОВ \"Салви Груп\""
+              },
+              "name": "ТОВ \"Салви Груп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Краснознаменная, 34",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-22T09:47:31.112542+03:00"
+        },
+        {
+          "bidder": "6243afa3c99643dc84ced596b5176f97",
+          "amount": 11388.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-27T17:32:01.917646+03:00"
+        }
+      ],
+      "time": "2015-05-28T08:21:11.609094+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-22T09:47:31.112542+03:00",
+          "amount": 17900.0,
+          "bidder": "1f7242e2ee2d4860810787865872ea4c"
+        },
+        {
+          "date": "2015-05-27T17:32:01.917646+03:00",
+          "amount": 11388.0,
+          "bidder": "6243afa3c99643dc84ced596b5176f97"
+        }
+      ],
+      "time": "2015-05-28T08:00:00.100626+00:00"
+    }
+  },
+  "id": "1739c77fa2d9436793593a11ffd17da7",
+  "tenderId": "UA-2015-05-18-000005"
+}

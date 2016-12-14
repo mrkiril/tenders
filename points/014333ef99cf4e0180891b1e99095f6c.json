@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "545d57becaeb4514aa7099b86a6c9c60",
+        "time": "2015-11-16T12:57:37.010800+00:00"
+      },
+      "turn_3": {
+        "bidder": "938aec8393f34b62b6e32dd6bdb68011",
+        "time": "2015-11-16T12:59:37.011000+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3d1e3e763ba47c5b31d910ae490623f",
+        "time": "2015-11-16T12:55:37.010265+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "545d57becaeb4514aa7099b86a6c9c60",
+        "time": "2015-11-16T13:05:37.007173+00:00"
+      },
+      "turn_3": {
+        "bidder": "938aec8393f34b62b6e32dd6bdb68011",
+        "time": "2015-11-16T13:07:37.009464+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3d1e3e763ba47c5b31d910ae490623f",
+        "time": "2015-11-16T13:03:37.012018+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "545d57becaeb4514aa7099b86a6c9c60",
+        "time": "2015-11-16T12:49:37.012294+00:00"
+      },
+      "turn_3": {
+        "bidder": "938aec8393f34b62b6e32dd6bdb68011",
+        "time": "2015-11-16T12:51:37.008964+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3d1e3e763ba47c5b31d910ae490623f",
+        "time": "2015-11-16T12:47:37.008530+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e3d1e3e763ba47c5b31d910ae490623f",
+          "amount": 74568.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vpgelios.com.ua",
+                "telephone": "+3800442292780",
+                "name": "Товариство з обмеженною відповідальністю  ВП Геліос",
+                "email": "Gelios-vp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34902426",
+                "legalName": "Товариство з обмеженною відповідальністю  ВП Геліос"
+              },
+              "name": "Товариство з обмеженною відповідальністю  ВП Геліос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Факт. Адреса 08298 Київська обл., смт. Коцюбинське вул. Залізнична, 7 РСУ ГУ МВС\r\nЮ/а: 08132 Київська обл., Києво - Святошинський район м. Вишневе вул. Київска 27/Т",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T15:03:56.064744+02:00"
+        },
+        {
+          "bidder": "545d57becaeb4514aa7099b86a6c9c60",
+          "amount": 60992.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671242838",
+                "name": "Алла Янчицкая",
+                "email": "malvatextile@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2341702326",
+                "legalName": "ФОП \"ЯНЧИЦЬКА АЛЛА ГРИГОРІВНА\""
+              },
+              "name": "ФОП \"ЯНЧИЦЬКА АЛЛА ГРИГОРІВНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "29000",
+                "region": "Хмельницкая",
+                "streetAddress": "ул.Заводская 155",
+                "locality": "Хмельницкий"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:11:05.468715+02:00"
+        },
+        {
+          "bidder": "938aec8393f34b62b6e32dd6bdb68011",
+          "amount": 55846.36,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442392003",
+                "name": "Дмитрий",
+                "email": "dio@tk-domtex.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТК-Домашній Текстиль\"",
+                "id": "38192655",
+                "uri": "http://www.tk-domtex.com.ua"
+              },
+              "name": "ТОВ \"ТК-Домашній Текстиль\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02081",
+                "region": "Киевская",
+                "streetAddress": "ул. Сортировочная, 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-13T15:31:46.157842+02:00"
+        }
+      ],
+      "time": "2015-11-16T13:07:39.400499+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T15:03:56.064744+02:00",
+          "amount": 74568.0,
+          "bidder": "e3d1e3e763ba47c5b31d910ae490623f"
+        },
+        {
+          "date": "2015-11-12T14:11:05.468715+02:00",
+          "amount": 60992.0,
+          "bidder": "545d57becaeb4514aa7099b86a6c9c60"
+        },
+        {
+          "date": "2015-11-13T15:31:46.157842+02:00",
+          "amount": 55846.36,
+          "bidder": "938aec8393f34b62b6e32dd6bdb68011"
+        }
+      ],
+      "time": "2015-11-16T12:40:37.003848+00:00"
+    }
+  },
+  "id": "014333ef99cf4e0180891b1e99095f6c",
+  "tenderId": "UA-2015-11-06-000008-a"
+}

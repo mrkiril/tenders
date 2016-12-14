@@ -1,0 +1,204 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "b6920daa565441f3b0cb79f5991edacc",
+        "time": "2015-03-30T11:23:00.059255+00:00"
+      },
+      "turn_2": {
+        "bidder": "9cea359b968d462a8eef50b4b8d9230e",
+        "time": "2015-03-30T11:19:00.029200+00:00"
+      },
+      "turn_3": {
+        "amount": 819600.0,
+        "bid_time": "2015-03-30T14:19:09.849856+03:00",
+        "bidder": "d1949801fc9544239387a45ce4be29c2",
+        "time": "2015-03-30T11:21:00.041602+00:00"
+      },
+      "turn_1": {
+        "bidder": "d173ba31f4b14ce6bdcd63958ad57e29",
+        "time": "2015-03-30T11:17:00.037148+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "b6920daa565441f3b0cb79f5991edacc",
+        "time": "2015-03-30T11:33:00.026520+00:00"
+      },
+      "turn_2": {
+        "bidder": "9cea359b968d462a8eef50b4b8d9230e",
+        "time": "2015-03-30T11:29:00.028221+00:00"
+      },
+      "turn_3": {
+        "amount": 819000.0,
+        "bid_time": "2015-03-30T14:29:36.315994+03:00",
+        "bidder": "d1949801fc9544239387a45ce4be29c2",
+        "time": "2015-03-30T11:31:00.029828+00:00"
+      },
+      "turn_1": {
+        "bidder": "d173ba31f4b14ce6bdcd63958ad57e29",
+        "time": "2015-03-30T11:27:00.049472+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "b6920daa565441f3b0cb79f5991edacc",
+        "time": "2015-03-30T11:13:00.028694+00:00"
+      },
+      "turn_2": {
+        "bidder": "9cea359b968d462a8eef50b4b8d9230e",
+        "time": "2015-03-30T11:09:00.057107+00:00"
+      },
+      "turn_3": {
+        "amount": 819800.0,
+        "bid_time": "2015-03-30T14:09:21.408423+03:00",
+        "bidder": "d1949801fc9544239387a45ce4be29c2",
+        "time": "2015-03-30T11:11:00.037804+00:00"
+      },
+      "turn_1": {
+        "bidder": "d173ba31f4b14ce6bdcd63958ad57e29",
+        "time": "2015-03-30T11:07:00.029819+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d173ba31f4b14ce6bdcd63958ad57e29",
+          "amount": 820500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442094950",
+                "name": "Elena",
+                "email": "vimpel_pg@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360717",
+                "legalName": "ТОВ \"ПРОМИСЛОВА ГРУПА \"ВИМПЕЛ\""
+              },
+              "name": "ТОВ \"ПРОМИСЛОВА ГРУПА \"ВИМПЕЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "вул. М. Раскової, 21, офіс 804",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-27T19:46:16.427425+02:00"
+        },
+        {
+          "bidder": "9cea359b968d462a8eef50b4b8d9230e",
+          "amount": 820500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Нільга Костянтин",
+                "email": "tallegprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360806",
+                "legalName": "ТОВ \"ВО \"Таллегпром\""
+              },
+              "name": "ТОВ \"ВО \"Таллегпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. М. Раскової, 21, оф. 801-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-27T21:09:29.169193+02:00"
+        },
+        {
+          "bidder": "d1949801fc9544239387a45ce4be29c2",
+          "amount": 819000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984206220",
+                "name": "Елена Пвтерцева",
+                "email": "lena_19021984@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38032200",
+                "legalName": "ТОВ \"ФАБРИКА ТЕКСТИЛЯ \"МІРАТЕКС\""
+              },
+              "name": "ТОВ \"ФАБРИКА ТЕКСТИЛЯ \"МІРАТЕКС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "50071",
+                "region": "Днепропетровская",
+                "streetAddress": "Дніпропетровська область, м.Кривий Ріг, вул. Мелешкіна. 29/В,офіс 1",
+                "locality": "Кривой Рог"
+              }
+            }
+          ],
+          "time": "2015-03-30T14:29:36.315994+03:00"
+        },
+        {
+          "bidder": "b6920daa565441f3b0cb79f5991edacc",
+          "amount": 817570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935753895",
+                "name": "Оксана Булатецкая",
+                "email": "spaceforladies@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35493232",
+                "legalName": "ТОВ \"Триумф-плюс\""
+              },
+              "name": "ТОВ \"Триумф-плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "18023",
+                "region": "Черкасская",
+                "streetAddress": "м. Черкаси, вул. Одеська, 42",
+                "locality": "Черкассы"
+              }
+            }
+          ],
+          "time": "2015-03-27T16:17:58.975423+02:00"
+        }
+      ],
+      "time": "2015-03-30T11:33:01.381368+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-27T19:46:16.427425+02:00",
+          "amount": 820500.0,
+          "bidder": "d173ba31f4b14ce6bdcd63958ad57e29"
+        },
+        {
+          "date": "2015-03-27T21:09:29.169193+02:00",
+          "amount": 820500.0,
+          "bidder": "9cea359b968d462a8eef50b4b8d9230e"
+        },
+        {
+          "date": "2015-03-27T21:10:58.690162+02:00",
+          "amount": 820000.0,
+          "bidder": "d1949801fc9544239387a45ce4be29c2"
+        },
+        {
+          "date": "2015-03-27T16:17:58.975423+02:00",
+          "amount": 817570.0,
+          "bidder": "b6920daa565441f3b0cb79f5991edacc"
+        }
+      ],
+      "time": "2015-03-30T11:00:00.009682+00:00"
+    }
+  },
+  "id": "ee701dbcc3534bf28e921163f2cf201e",
+  "tenderId": "UA-2015-03-18-000021"
+}

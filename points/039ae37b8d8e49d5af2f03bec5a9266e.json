@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0d45b870f2254eb9be5aac5ba3506935",
+        "time": "2015-12-07T10:59:53.008522+00:00"
+      },
+      "turn_1": {
+        "bidder": "c86087bfa1984ca98c2687005cb1d940",
+        "time": "2015-12-07T10:57:53.008016+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0d45b870f2254eb9be5aac5ba3506935",
+        "time": "2015-12-07T11:05:53.008718+00:00"
+      },
+      "turn_1": {
+        "bidder": "c86087bfa1984ca98c2687005cb1d940",
+        "time": "2015-12-07T11:03:53.008310+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c86087bfa1984ca98c2687005cb1d940",
+        "time": "2015-12-07T10:53:53.008599+00:00"
+      },
+      "turn_1": {
+        "amount": 7000.0,
+        "bid_time": "2015-12-07T12:50:04.612935+02:00",
+        "bidder": "0d45b870f2254eb9be5aac5ba3506935",
+        "time": "2015-12-07T10:51:53.009129+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c86087bfa1984ca98c2687005cb1d940",
+          "amount": 8496.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501981290",
+                "name": "Василь Миколаевич Микитин",
+                "email": "ztsif@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "08588725",
+                "legalName": "ДП \"АРЗ СП У ДСНС України в Івано-Франківській обл.\""
+              },
+              "name": "ДП \"АРЗ СП У ДСНС України в Івано-Франківській обл.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "76006",
+                "region": "Ивано-Франковская",
+                "streetAddress": "вул. Б.Хмельницького, 92 А",
+                "locality": "Івано-Франківськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:34:11.133020+02:00"
+        },
+        {
+          "bidder": "0d45b870f2254eb9be5aac5ba3506935",
+          "amount": 7000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508579624",
+                "name": "Инна Стешенко",
+                "email": "tehnorma@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Технорма\"",
+                "id": "34525137",
+                "uri": "http://tehnorma.com.ua"
+              },
+              "name": "ТОВ \"Технорма\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01015",
+                "region": "Киевская",
+                "streetAddress": "вул. Цитадельна 7",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:50:04.612935+02:00"
+        }
+      ],
+      "time": "2015-12-07T11:05:54.094890+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T12:23:00.523541+02:00",
+          "amount": 9048.0,
+          "bidder": "0d45b870f2254eb9be5aac5ba3506935"
+        },
+        {
+          "date": "2015-12-04T12:34:11.133020+02:00",
+          "amount": 8496.0,
+          "bidder": "c86087bfa1984ca98c2687005cb1d940"
+        }
+      ],
+      "time": "2015-12-07T10:44:53.004071+00:00"
+    }
+  },
+  "id": "039ae37b8d8e49d5af2f03bec5a9266e",
+  "tenderId": "UA-2015-11-27-000205"
+}

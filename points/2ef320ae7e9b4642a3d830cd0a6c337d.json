@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e50fa9a9a36c4b9a85e0da7eec1a23c5",
+        "time": "2015-10-27T11:54:06.010580+00:00"
+      },
+      "turn_1": {
+        "bidder": "35a616f1287c4b37818ab657a69cee68",
+        "time": "2015-10-27T11:52:06.013554+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e50fa9a9a36c4b9a85e0da7eec1a23c5",
+        "time": "2015-10-27T12:00:06.010344+00:00"
+      },
+      "turn_1": {
+        "bidder": "35a616f1287c4b37818ab657a69cee68",
+        "time": "2015-10-27T11:58:06.008627+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "35a616f1287c4b37818ab657a69cee68",
+        "time": "2015-10-27T11:48:06.008803+00:00"
+      },
+      "turn_1": {
+        "amount": 9630.0,
+        "bid_time": "2015-10-27T13:44:13.109361+02:00",
+        "bidder": "e50fa9a9a36c4b9a85e0da7eec1a23c5",
+        "time": "2015-10-27T11:46:06.013194+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "35a616f1287c4b37818ab657a69cee68",
+          "amount": 9654.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-26T10:08:04.018181+02:00"
+        },
+        {
+          "bidder": "e50fa9a9a36c4b9a85e0da7eec1a23c5",
+          "amount": 9630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577563604",
+                "telephone": "0577563603",
+                "name": "Лисенко Олександр Олексійович",
+                "email": "apteka095@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38218086",
+                "legalName": "ТОВ \"Аметрін ФК\""
+              },
+              "name": "ТОВ \"Аметрін ФК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська",
+                "streetAddress": "Юріївська, 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T13:44:13.109361+02:00"
+        }
+      ],
+      "time": "2015-10-27T12:01:24.538919+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T15:18:46.313923+03:00",
+          "amount": 10272.0,
+          "bidder": "e50fa9a9a36c4b9a85e0da7eec1a23c5"
+        },
+        {
+          "date": "2015-10-26T10:08:04.018181+02:00",
+          "amount": 9654.0,
+          "bidder": "35a616f1287c4b37818ab657a69cee68"
+        }
+      ],
+      "time": "2015-10-27T11:39:06.004539+00:00"
+    }
+  },
+  "id": "2ef320ae7e9b4642a3d830cd0a6c337d",
+  "tenderId": "UA-2015-10-20-000106"
+}

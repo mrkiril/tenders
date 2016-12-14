@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1cfb12f915c04c67ad577be6abed624a",
+        "time": "2015-11-25T11:58:06.035304+00:00"
+      },
+      "turn_1": {
+        "bidder": "4e206eb416aa411ca7eb10e55d4805e4",
+        "time": "2015-11-25T11:56:06.008852+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1cfb12f915c04c67ad577be6abed624a",
+        "time": "2015-11-25T12:04:06.008946+00:00"
+      },
+      "turn_1": {
+        "bidder": "4e206eb416aa411ca7eb10e55d4805e4",
+        "time": "2015-11-25T12:02:06.008472+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 111673.0,
+        "bid_time": "2015-11-25T13:51:22.097428+02:00",
+        "bidder": "1cfb12f915c04c67ad577be6abed624a",
+        "time": "2015-11-25T11:52:06.011323+00:00"
+      },
+      "turn_1": {
+        "amount": 111936.0,
+        "bid_time": "2015-11-25T13:48:24.350889+02:00",
+        "bidder": "4e206eb416aa411ca7eb10e55d4805e4",
+        "time": "2015-11-25T11:50:06.009875+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4e206eb416aa411ca7eb10e55d4805e4",
+          "amount": 111936.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://metaltrader.com.ua",
+                "telephone": "+380676117787",
+                "name": "ООО \"ТД \"Содружество\"",
+                "email": "manager16@metaltrader.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34245231",
+                "legalName": "ООО \"ТД \"Содружество\""
+              },
+              "name": "ООО \"ТД \"Содружество\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Украина, г. Днепропетровск, ул. Гаванская, 17/Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-25T13:48:24.350889+02:00"
+        },
+        {
+          "bidder": "1cfb12f915c04c67ad577be6abed624a",
+          "amount": 111673.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957007871",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «КОЙЛБОКС»,",
+                "email": "a.kireev-coilbox@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39660450",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «КОЙЛБОКС»,"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «КОЙЛБОКС»,",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69005, м. Запоріжжя, вул. Волгоградська 26-А, адмін, будівля Б7,офіс 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-25T13:51:22.097428+02:00"
+        }
+      ],
+      "time": "2015-11-25T12:04:07.546034+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T11:24:47.564411+02:00",
+          "amount": 116444.0,
+          "bidder": "4e206eb416aa411ca7eb10e55d4805e4"
+        },
+        {
+          "date": "2015-11-23T14:11:51.900198+02:00",
+          "amount": 112850.0,
+          "bidder": "1cfb12f915c04c67ad577be6abed624a"
+        }
+      ],
+      "time": "2015-11-25T11:43:06.004527+00:00"
+    }
+  },
+  "id": "f08b5a0b45b140f5a4b07d0d718578cc",
+  "tenderId": "UA-2015-11-17-000187-a"
+}

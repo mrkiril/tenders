@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f7c9a04b1a5a480cb64ddb274c93d1be",
+        "time": "2015-11-25T13:57:18.009074+00:00"
+      },
+      "turn_1": {
+        "bidder": "b000869841f34edab085f8c228d77734",
+        "time": "2015-11-25T13:55:18.008922+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f7c9a04b1a5a480cb64ddb274c93d1be",
+        "time": "2015-11-25T14:03:18.008583+00:00"
+      },
+      "turn_1": {
+        "amount": 1380.0,
+        "bid_time": "2015-11-25T16:01:01.555482+02:00",
+        "bidder": "b000869841f34edab085f8c228d77734",
+        "time": "2015-11-25T14:01:18.009403+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f7c9a04b1a5a480cb64ddb274c93d1be",
+        "time": "2015-11-25T13:51:18.008834+00:00"
+      },
+      "turn_1": {
+        "bidder": "b000869841f34edab085f8c228d77734",
+        "time": "2015-11-25T13:49:18.009222+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f7c9a04b1a5a480cb64ddb274c93d1be",
+          "amount": 1410.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380432522017",
+                "telephone": "+380964503371",
+                "name": "Потупалова Діна Олексіївна",
+                "email": "v-p-t@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34886897"
+              },
+              "name": "ТОВ \"Вінпродтрейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21034",
+                "region": "Вінницька область",
+                "streetAddress": "вулиця А.Іванова,51а",
+                "locality": "Вінниця"
+              }
+            }
+          ],
+          "time": "2015-11-24T10:24:16.876311+02:00"
+        },
+        {
+          "bidder": "b000869841f34edab085f8c228d77734",
+          "amount": 1380.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380988379397",
+                "name": "Александр Малиновский",
+                "email": "mail.alextrade@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Малиновський Олександр Леонідович\"",
+                "id": "3256706236",
+                "uri": "http://www.alex-trade.com.ua"
+              },
+              "name": "ФОП \"Малиновський Олександр Леонідович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21050",
+                "region": "Виницкая",
+                "streetAddress": "ул. Стеценка, 75-А, оф. №52",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-11-25T16:01:01.555482+02:00"
+        }
+      ],
+      "time": "2015-11-25T14:03:26.174300+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T18:14:31.014974+02:00",
+          "amount": 1440.0,
+          "bidder": "b000869841f34edab085f8c228d77734"
+        },
+        {
+          "date": "2015-11-24T10:24:16.876311+02:00",
+          "amount": 1410.0,
+          "bidder": "f7c9a04b1a5a480cb64ddb274c93d1be"
+        }
+      ],
+      "time": "2015-11-25T13:42:18.004449+00:00"
+    }
+  },
+  "id": "2143ae5c0b274589ad70b2b0bb16739b",
+  "tenderId": "UA-2015-11-16-000138"
+}

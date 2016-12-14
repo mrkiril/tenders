@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2c036a393c804dd7940a13c2cd121058",
+        "time": "2015-12-01T13:23:32.012343+00:00"
+      },
+      "turn_3": {
+        "bidder": "c02f15393cc0429fb0c3d8b6ce32dec2",
+        "time": "2015-12-01T13:25:32.008415+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba05aadfd9a04e15ad4497cda37aa3cd",
+        "time": "2015-12-01T13:21:32.008291+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2c036a393c804dd7940a13c2cd121058",
+        "time": "2015-12-01T13:31:32.008496+00:00"
+      },
+      "turn_3": {
+        "bidder": "c02f15393cc0429fb0c3d8b6ce32dec2",
+        "time": "2015-12-01T13:33:32.008161+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba05aadfd9a04e15ad4497cda37aa3cd",
+        "time": "2015-12-01T13:29:32.008527+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2c036a393c804dd7940a13c2cd121058",
+        "time": "2015-12-01T13:15:32.009536+00:00"
+      },
+      "turn_3": {
+        "bidder": "c02f15393cc0429fb0c3d8b6ce32dec2",
+        "time": "2015-12-01T13:17:32.009275+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba05aadfd9a04e15ad4497cda37aa3cd",
+        "time": "2015-12-01T13:13:32.010208+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ba05aadfd9a04e15ad4497cda37aa3cd",
+          "amount": 41230.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968128218",
+                "name": "Фізична особа-підприємець Чабан Анатолій Вікторович",
+                "email": "chaban_natan@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3143019051",
+                "legalName": "Фізична особа-підприємець Чабан Анатолій Вікторович"
+              },
+              "name": "Фізична особа-підприємець Чабан Анатолій Вікторович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Миколаївська обл., м. Первомайськ, вул. Київська, буд. 22",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T12:44:24.750662+02:00"
+        },
+        {
+          "bidder": "2c036a393c804dd7940a13c2cd121058",
+          "amount": 40392.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-468-99-74",
+                "telephone": "044-468-99-74",
+                "name": "Манжуріна Ірина Валентинівна",
+                "email": "miv.himiya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39530974",
+                "legalName": "Товариство з обмеженою відповідальністю Промтехторг-Україна"
+              },
+              "name": "Товариство з обмеженою відповідальністю Промтехторг-Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська",
+                "streetAddress": "м. Київ, вул. Автозаводська, 24/2, оф.402",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T23:36:59.733100+02:00"
+        },
+        {
+          "bidder": "c02f15393cc0429fb0c3d8b6ce32dec2",
+          "amount": 35300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-30T20:32:46.963744+02:00"
+        }
+      ],
+      "time": "2015-12-01T13:33:34.858280+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T12:44:24.750662+02:00",
+          "amount": 41230.0,
+          "bidder": "ba05aadfd9a04e15ad4497cda37aa3cd"
+        },
+        {
+          "date": "2015-11-30T23:36:59.733100+02:00",
+          "amount": 40392.0,
+          "bidder": "2c036a393c804dd7940a13c2cd121058"
+        },
+        {
+          "date": "2015-11-30T20:32:46.963744+02:00",
+          "amount": 35300.0,
+          "bidder": "c02f15393cc0429fb0c3d8b6ce32dec2"
+        }
+      ],
+      "time": "2015-12-01T13:06:32.004424+00:00"
+    }
+  },
+  "id": "18ad02f6ea5847b3a03304e9254124fc",
+  "tenderId": "UA-2015-11-20-000073-b"
+}

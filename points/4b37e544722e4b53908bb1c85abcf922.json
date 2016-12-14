@@ -1,0 +1,217 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 3660.0,
+        "bid_time": "2015-07-08T13:51:14.888558+03:00",
+        "bidder": "866e37b1cbca4b63addcd072b3c37a16",
+        "time": "2015-07-08T10:53:00.031913+00:00"
+      },
+      "turn_2": {
+        "amount": 4500.0,
+        "bid_time": "2015-07-08T13:48:46.748997+03:00",
+        "bidder": "e196203b08364bac9fa82fcfb6867a43",
+        "time": "2015-07-08T10:49:00.034069+00:00"
+      },
+      "turn_3": {
+        "amount": 4495.0,
+        "bid_time": "2015-07-08T13:50:22.645733+03:00",
+        "bidder": "aa34c1ca5f474e21bdc5a27b2aee7998",
+        "time": "2015-07-08T10:51:00.073827+00:00"
+      },
+      "turn_1": {
+        "bidder": "17e5a01ac7204f91a482639f40cf47ef",
+        "time": "2015-07-08T10:47:00.149538+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 3620.0,
+        "bid_time": "2015-07-08T14:01:34.023784+03:00",
+        "bidder": "866e37b1cbca4b63addcd072b3c37a16",
+        "time": "2015-07-08T11:03:00.032207+00:00"
+      },
+      "turn_2": {
+        "amount": 3625.0,
+        "bid_time": "2015-07-08T13:58:46.971231+03:00",
+        "bidder": "e196203b08364bac9fa82fcfb6867a43",
+        "time": "2015-07-08T10:59:00.029431+00:00"
+      },
+      "turn_3": {
+        "bidder": "aa34c1ca5f474e21bdc5a27b2aee7998",
+        "time": "2015-07-08T11:01:00.146397+00:00"
+      },
+      "turn_1": {
+        "bidder": "17e5a01ac7204f91a482639f40cf47ef",
+        "time": "2015-07-08T10:57:00.032854+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 3665.0,
+        "bid_time": "2015-07-08T13:41:36.372907+03:00",
+        "bidder": "866e37b1cbca4b63addcd072b3c37a16",
+        "time": "2015-07-08T10:43:00.059944+00:00"
+      },
+      "turn_2": {
+        "amount": 4977.0,
+        "bid_time": "2015-07-08T13:38:16.762397+03:00",
+        "bidder": "e196203b08364bac9fa82fcfb6867a43",
+        "time": "2015-07-08T10:39:00.073878+00:00"
+      },
+      "turn_3": {
+        "amount": 4750.0,
+        "bid_time": "2015-07-08T13:39:37.881796+03:00",
+        "bidder": "aa34c1ca5f474e21bdc5a27b2aee7998",
+        "time": "2015-07-08T10:41:00.216096+00:00"
+      },
+      "turn_1": {
+        "bidder": "17e5a01ac7204f91a482639f40cf47ef",
+        "time": "2015-07-08T10:37:00.050781+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "17e5a01ac7204f91a482639f40cf47ef",
+          "amount": 4994.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://biakom.com",
+                "telephone": "+380445070202",
+                "name": "ТОВ Віаком",
+                "email": "oleksandr.maksymovych@biakom.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24937160",
+                "legalName": "ТОВ Віаком"
+              },
+              "name": "ТОВ Віаком",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02091, м. Київ,                                 вул. Тростянецька, 49",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-06T14:51:21.504370+03:00"
+        },
+        {
+          "bidder": "aa34c1ca5f474e21bdc5a27b2aee7998",
+          "amount": 4495.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kt.com.ua",
+                "telephone": "+380362635525",
+                "name": "Товариство з обмеженою відповідальністю підприємство \"Кварц-Тел\"",
+                "email": "kt@utel.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25318720",
+                "legalName": "Товариство з обмеженою відповідальністю підприємство \"Кварц-Тел\""
+              },
+              "name": "Товариство з обмеженою відповідальністю підприємство \"Кварц-Тел\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "33023",
+                "region": "",
+                "streetAddress": "вул. Транспортна, 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-08T13:50:22.645733+03:00"
+        },
+        {
+          "bidder": "e196203b08364bac9fa82fcfb6867a43",
+          "amount": 3625.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567890217",
+                "name": "Частное предприятие \"ЭЛИН-2007\"",
+                "email": "ATarasenko.elin@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35577263",
+                "legalName": "Частное предприятие \"ЭЛИН-2007\""
+              },
+              "name": "Частное предприятие \"ЭЛИН-2007\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "51925, г. Днепродзержинск, Проходной тупик, д. 2 оф. 9Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-08T13:58:46.971231+03:00"
+        },
+        {
+          "bidder": "866e37b1cbca4b63addcd072b3c37a16",
+          "amount": 3620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.volta-a.com.ua",
+                "telephone": "+380443511882",
+                "name": "Товариство з обмеженою відповідальністю \"Вольта - А\"",
+                "email": "volta-a@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36336791",
+                "legalName": "Товариство з обмеженою відповідальністю \"Вольта - А\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Вольта - А\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080, м. Київ, вул.Юрківська 42-А, кв. 36",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-08T14:01:34.023784+03:00"
+        }
+      ],
+      "time": "2015-07-08T11:03:03.306529+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-06T14:51:21.504370+03:00",
+          "amount": 4994.0,
+          "bidder": "17e5a01ac7204f91a482639f40cf47ef"
+        },
+        {
+          "date": "2015-07-06T16:22:40.801177+03:00",
+          "amount": 4982.4,
+          "bidder": "e196203b08364bac9fa82fcfb6867a43"
+        },
+        {
+          "date": "2015-07-06T10:04:42.276126+03:00",
+          "amount": 4909.2,
+          "bidder": "aa34c1ca5f474e21bdc5a27b2aee7998"
+        },
+        {
+          "date": "2015-07-06T10:47:25.929097+03:00",
+          "amount": 3670.0,
+          "bidder": "866e37b1cbca4b63addcd072b3c37a16"
+        }
+      ],
+      "time": "2015-07-08T10:30:00.010012+00:00"
+    }
+  },
+  "id": "4b37e544722e4b53908bb1c85abcf922",
+  "tenderId": "UA-2015-07-02-000172"
+}

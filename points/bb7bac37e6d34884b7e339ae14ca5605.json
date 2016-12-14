@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c633670d457046c3862a1d25b6fdc730",
+        "time": "2015-10-26T09:26:22.007905+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd3d7b4c08cf48328e222546eff26f5f",
+        "time": "2015-10-26T09:24:22.007538+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c633670d457046c3862a1d25b6fdc730",
+        "time": "2015-10-26T09:32:22.006549+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd3d7b4c08cf48328e222546eff26f5f",
+        "time": "2015-10-26T09:30:22.008552+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c633670d457046c3862a1d25b6fdc730",
+        "time": "2015-10-26T09:20:22.011155+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd3d7b4c08cf48328e222546eff26f5f",
+        "time": "2015-10-26T09:18:22.007278+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bd3d7b4c08cf48328e222546eff26f5f",
+          "amount": 6680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-23T17:11:54.562597+03:00"
+        },
+        {
+          "bidder": "c633670d457046c3862a1d25b6fdc730",
+          "amount": 4370.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.wesma.kiev.ua",
+                "telephone": "+380504465891",
+                "name": "Сергєєв Сергій Олександрович",
+                "email": "s.sergeev@wesma.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32250025"
+              },
+              "name": "ТОВ ТД ВЕСМА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01021",
+                "region": "Київська область",
+                "streetAddress": "вул.М.Грушевського, 28/2, к.43",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-22T19:00:06.545219+03:00"
+        }
+      ],
+      "time": "2015-10-26T09:32:23.136509+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T17:11:54.562597+03:00",
+          "amount": 6680.0,
+          "bidder": "bd3d7b4c08cf48328e222546eff26f5f"
+        },
+        {
+          "date": "2015-10-22T19:00:06.545219+03:00",
+          "amount": 4370.0,
+          "bidder": "c633670d457046c3862a1d25b6fdc730"
+        }
+      ],
+      "time": "2015-10-26T09:11:22.003550+00:00"
+    }
+  },
+  "id": "bb7bac37e6d34884b7e339ae14ca5605",
+  "tenderId": "UA-2015-10-20-000150"
+}

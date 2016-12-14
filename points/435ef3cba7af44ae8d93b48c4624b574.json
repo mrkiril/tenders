@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 17000.0,
+        "bid_time": "2015-11-16T15:44:52.146581+02:00",
+        "bidder": "84a98ef470e044f08cc5d95cf3a9b009",
+        "time": "2015-11-16T13:45:54.009404+00:00"
+      },
+      "turn_1": {
+        "bidder": "1bc5a9aab57443d2960cb65d12268cbe",
+        "time": "2015-11-16T13:43:54.007812+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 16800.0,
+        "bid_time": "2015-11-16T15:51:07.192355+02:00",
+        "bidder": "84a98ef470e044f08cc5d95cf3a9b009",
+        "time": "2015-11-16T13:51:54.009885+00:00"
+      },
+      "turn_1": {
+        "bidder": "1bc5a9aab57443d2960cb65d12268cbe",
+        "time": "2015-11-16T13:49:54.008549+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 17600.0,
+        "bid_time": "2015-11-16T15:38:40.304644+02:00",
+        "bidder": "84a98ef470e044f08cc5d95cf3a9b009",
+        "time": "2015-11-16T13:39:54.010129+00:00"
+      },
+      "turn_1": {
+        "bidder": "1bc5a9aab57443d2960cb65d12268cbe",
+        "time": "2015-11-16T13:37:54.009003+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1bc5a9aab57443d2960cb65d12268cbe",
+          "amount": 18762.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "Ramzes-76@bigmir.net",
+                "name": "Дяченко Роман Михайлович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2765510933",
+                "legalName": "ФО-П Рахманов Олександр Володимирович"
+              },
+              "name": "ФО-П Рахманов Олександр Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська",
+                "streetAddress": "вул. Тимошенка, буд.29",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-10T10:04:37.007456+02:00"
+        },
+        {
+          "bidder": "84a98ef470e044f08cc5d95cf3a9b009",
+          "amount": 16800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.muztorg.ua",
+                "faxNumber": "+380444120793",
+                "telephone": "+380444942794",
+                "name": "Поліщук Ольга Володимирівна",
+                "email": "pov@attrade.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30572162"
+              },
+              "name": "ДП АТ Трейд",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04071",
+                "region": "Київська область",
+                "streetAddress": "вулиця Костянтинівська ,б.15А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:51:07.192355+02:00"
+        }
+      ],
+      "time": "2015-11-16T13:51:58.184755+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T10:04:37.007456+02:00",
+          "amount": 18762.0,
+          "bidder": "1bc5a9aab57443d2960cb65d12268cbe"
+        },
+        {
+          "date": "2015-11-11T10:45:59.087415+02:00",
+          "amount": 18000.0,
+          "bidder": "84a98ef470e044f08cc5d95cf3a9b009"
+        }
+      ],
+      "time": "2015-11-16T13:30:54.004287+00:00"
+    }
+  },
+  "id": "435ef3cba7af44ae8d93b48c4624b574",
+  "tenderId": "UA-2015-11-05-000331"
+}

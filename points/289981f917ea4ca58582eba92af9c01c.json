@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3750.0,
+        "bid_time": "2015-11-09T12:49:27.746763+02:00",
+        "bidder": "e3f22dd4e1c84e469f3ebcc133dcefaf",
+        "time": "2015-11-09T10:50:51.008823+00:00"
+      },
+      "turn_3": {
+        "bidder": "399e087d7e8840578b767044afcfefdb",
+        "time": "2015-11-09T10:52:51.007936+00:00"
+      },
+      "turn_1": {
+        "bidder": "75846bdb4ed24e4bb0bda044faccc81d",
+        "time": "2015-11-09T10:48:51.010741+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "399e087d7e8840578b767044afcfefdb",
+        "time": "2015-11-09T10:58:51.008367+00:00"
+      },
+      "turn_3": {
+        "amount": 3680.0,
+        "bid_time": "2015-11-09T12:59:47.925029+02:00",
+        "bidder": "e3f22dd4e1c84e469f3ebcc133dcefaf",
+        "time": "2015-11-09T11:00:51.008658+00:00"
+      },
+      "turn_1": {
+        "bidder": "75846bdb4ed24e4bb0bda044faccc81d",
+        "time": "2015-11-09T10:56:51.008333+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3880.0,
+        "bid_time": "2015-11-09T12:41:09.763139+02:00",
+        "bidder": "399e087d7e8840578b767044afcfefdb",
+        "time": "2015-11-09T10:42:51.011064+00:00"
+      },
+      "turn_3": {
+        "bidder": "75846bdb4ed24e4bb0bda044faccc81d",
+        "time": "2015-11-09T10:44:51.010207+00:00"
+      },
+      "turn_1": {
+        "amount": 3920.0,
+        "bid_time": "2015-11-09T12:39:30.514267+02:00",
+        "bidder": "e3f22dd4e1c84e469f3ebcc133dcefaf",
+        "time": "2015-11-09T10:40:51.010745+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "75846bdb4ed24e4bb0bda044faccc81d",
+          "amount": 3980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380663117140",
+                "name": "Илья",
+                "email": "sell.well@yahoo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1409812507",
+                "legalName": "ФОП Захарова Г.I."
+              },
+              "name": "ФОП Захарова Г.I.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-08T23:23:38.171733+02:00"
+        },
+        {
+          "bidder": "399e087d7e8840578b767044afcfefdb",
+          "amount": 3880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-262-44-66",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "potato@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:41:09.763139+02:00"
+        },
+        {
+          "bidder": "e3f22dd4e1c84e469f3ebcc133dcefaf",
+          "amount": 3680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509179445",
+                "name": "Тканов Олександр васильович",
+                "email": "alenushka89@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24490039"
+              },
+              "name": "ТОВ ФОП ТКАНОВ О В",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "25014",
+                "region": "Кіровоградська область",
+                "streetAddress": "кіровоград кільцева 11",
+                "locality": "Кіровоград"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:59:47.925029+02:00"
+        }
+      ],
+      "time": "2015-11-09T11:01:20.784621+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T19:32:57.664494+02:00",
+          "amount": 4000.0,
+          "bidder": "399e087d7e8840578b767044afcfefdb"
+        },
+        {
+          "date": "2015-11-07T14:36:37.426619+02:00",
+          "amount": 4000.0,
+          "bidder": "e3f22dd4e1c84e469f3ebcc133dcefaf"
+        },
+        {
+          "date": "2015-11-08T23:23:38.171733+02:00",
+          "amount": 3980.0,
+          "bidder": "75846bdb4ed24e4bb0bda044faccc81d"
+        }
+      ],
+      "time": "2015-11-09T10:33:51.004413+00:00"
+    }
+  },
+  "id": "289981f917ea4ca58582eba92af9c01c",
+  "tenderId": "UA-2015-10-30-000231"
+}

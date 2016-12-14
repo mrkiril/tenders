@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ef2df90ad567467ebc6e46a18a8fd3ab",
+        "time": "2015-12-10T12:17:58.007126+00:00"
+      },
+      "turn_1": {
+        "bidder": "9039e2d81a174748ab589a16267cabca",
+        "time": "2015-12-10T12:15:58.006751+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 93999.0,
+        "bid_time": "2015-12-10T14:23:20.866697+02:00",
+        "bidder": "ef2df90ad567467ebc6e46a18a8fd3ab",
+        "time": "2015-12-10T12:23:58.007984+00:00"
+      },
+      "turn_1": {
+        "amount": 94000.0,
+        "bid_time": "2015-12-10T14:20:24.032884+02:00",
+        "bidder": "9039e2d81a174748ab589a16267cabca",
+        "time": "2015-12-10T12:21:58.009944+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ef2df90ad567467ebc6e46a18a8fd3ab",
+        "time": "2015-12-10T12:11:58.007141+00:00"
+      },
+      "turn_1": {
+        "bidder": "9039e2d81a174748ab589a16267cabca",
+        "time": "2015-12-10T12:09:58.007769+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9039e2d81a174748ab589a16267cabca",
+          "amount": 94000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gamayun.org.ua",
+                "faxNumber": "+380442009415",
+                "telephone": "+380442009415",
+                "name": "Захарчук Тетяна Володимирівна",
+                "email": "volkovgamayun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39537875"
+              },
+              "name": "ТОВ Гамаюн Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04136",
+                "region": "Київська область",
+                "streetAddress": "вул.Північно-Сирецька, буд.3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T14:20:24.032884+02:00"
+        },
+        {
+          "bidder": "ef2df90ad567467ebc6e46a18a8fd3ab",
+          "amount": 93999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meblevuk.prom.ua",
+                "faxNumber": "+380445017040",
+                "telephone": "+380672398819",
+                "name": "Неділько Тетяна Михайлівна",
+                "email": "0672398819@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2852907688"
+              },
+              "name": "ФОП Неділько Тетяна Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03194",
+                "region": "Київська область",
+                "streetAddress": "вул. Зодчих 6 а кв. 113",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T14:23:20.866697+02:00"
+        }
+      ],
+      "time": "2015-12-10T12:24:00.551530+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T10:07:32.117309+02:00",
+          "amount": 98012.0,
+          "bidder": "9039e2d81a174748ab589a16267cabca"
+        },
+        {
+          "date": "2015-12-09T10:42:45.109553+02:00",
+          "amount": 95230.0,
+          "bidder": "ef2df90ad567467ebc6e46a18a8fd3ab"
+        }
+      ],
+      "time": "2015-12-10T12:02:58.005449+00:00"
+    }
+  },
+  "id": "0effb721a88e48f395ad9e6e262e2f69",
+  "tenderId": "UA-2015-12-07-000030-a"
+}

@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "26bf2fcb1b1a498099d33806207eeb26",
+        "time": "2015-11-24T10:50:52.015952+00:00"
+      },
+      "turn_1": {
+        "amount": 1680.0,
+        "bid_time": "2015-11-24T12:47:08.070976+02:00",
+        "bidder": "ee47a3d55f4346cf9ea6dc70764bc2da",
+        "time": "2015-11-24T10:48:52.010791+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ee47a3d55f4346cf9ea6dc70764bc2da",
+        "time": "2015-11-24T10:56:52.017386+00:00"
+      },
+      "turn_1": {
+        "bidder": "26bf2fcb1b1a498099d33806207eeb26",
+        "time": "2015-11-24T10:54:52.006560+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "26bf2fcb1b1a498099d33806207eeb26",
+        "time": "2015-11-24T10:44:52.008400+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee47a3d55f4346cf9ea6dc70764bc2da",
+        "time": "2015-11-24T10:42:52.008644+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "26bf2fcb1b1a498099d33806207eeb26",
+          "amount": 1680.77,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-19T11:01:54.002709+02:00"
+        },
+        {
+          "bidder": "ee47a3d55f4346cf9ea6dc70764bc2da",
+          "amount": 1680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nika.vin.ua/",
+                "faxNumber": "0432554188",
+                "telephone": "0504611387",
+                "name": "Мудраченко Віктор Григорович",
+                "email": "mvic@vinnitsa.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13304598",
+                "legalName": "ТОВ НІКА"
+              },
+              "name": "ТОВ НІКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21009",
+                "region": "Вінницька",
+                "streetAddress": "Київська 14Б",
+                "locality": "Вінниця"
+              }
+            }
+          ],
+          "time": "2015-11-24T12:47:08.070976+02:00"
+        }
+      ],
+      "time": "2015-11-24T10:56:52.822931+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T11:47:19.804791+02:00",
+          "amount": 1720.0,
+          "bidder": "ee47a3d55f4346cf9ea6dc70764bc2da"
+        },
+        {
+          "date": "2015-11-19T11:01:54.002709+02:00",
+          "amount": 1680.77,
+          "bidder": "26bf2fcb1b1a498099d33806207eeb26"
+        }
+      ],
+      "time": "2015-11-24T10:35:52.004056+00:00"
+    }
+  },
+  "id": "78b8a9c31d3f473f82116beab2aacece",
+  "tenderId": "UA-2015-11-17-000111-b"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2d7a7e1dd1ca4f5da7624f044fbf256b",
+        "time": "2015-11-25T11:21:05.008228+00:00"
+      },
+      "turn_1": {
+        "bidder": "e78652cae87345c9827d02a735dc17d6",
+        "time": "2015-11-25T11:19:05.008561+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2d7a7e1dd1ca4f5da7624f044fbf256b",
+        "time": "2015-11-25T11:27:05.007666+00:00"
+      },
+      "turn_1": {
+        "bidder": "e78652cae87345c9827d02a735dc17d6",
+        "time": "2015-11-25T11:25:05.008428+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2d7a7e1dd1ca4f5da7624f044fbf256b",
+        "time": "2015-11-25T11:15:05.009425+00:00"
+      },
+      "turn_1": {
+        "bidder": "e78652cae87345c9827d02a735dc17d6",
+        "time": "2015-11-25T11:13:05.009728+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e78652cae87345c9827d02a735dc17d6",
+          "amount": 18060.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lireco.com.ua",
+                "faxNumber": "+380567447606",
+                "telephone": "+380676320993",
+                "name": "Свідунов Ігор Юрійович",
+                "email": "info@lireco.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39997507"
+              },
+              "name": "ТОВ Ліреко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49044",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Шевченко 37",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-18T15:04:43.954020+02:00"
+        },
+        {
+          "bidder": "2d7a7e1dd1ca4f5da7624f044fbf256b",
+          "amount": 18050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380569031053",
+                "telephone": "+380980910919",
+                "name": "Кучугурний Віктор Іванович",
+                "email": "Viktor_K@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2780106332"
+              },
+              "name": "ФОП Кучугурний В.І.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "51010",
+                "region": "Дніпропетровська область",
+                "streetAddress": "с. Івано-Яризівка, вул. Цвіточна, б.5",
+                "locality": "Царичанський район"
+              }
+            }
+          ],
+          "time": "2015-11-16T12:44:07.437092+02:00"
+        }
+      ],
+      "time": "2015-11-25T11:27:06.198245+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T15:04:43.954020+02:00",
+          "amount": 18060.0,
+          "bidder": "e78652cae87345c9827d02a735dc17d6"
+        },
+        {
+          "date": "2015-11-16T12:44:07.437092+02:00",
+          "amount": 18050.0,
+          "bidder": "2d7a7e1dd1ca4f5da7624f044fbf256b"
+        }
+      ],
+      "time": "2015-11-25T11:06:05.004397+00:00"
+    }
+  },
+  "id": "13e80ef830844188b13ce26237160855",
+  "tenderId": "UA-2015-11-10-000113-b"
+}

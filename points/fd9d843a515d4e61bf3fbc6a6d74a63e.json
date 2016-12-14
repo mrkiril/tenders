@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bb9bd2354ab7409e8c749c6081b0eace",
+        "time": "2015-10-15T11:49:38.006996+00:00"
+      },
+      "turn_1": {
+        "bidder": "e6417e30e951497d82042e8b05f0a2e7",
+        "time": "2015-10-15T11:47:38.005856+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bb9bd2354ab7409e8c749c6081b0eace",
+        "time": "2015-10-15T11:55:38.007915+00:00"
+      },
+      "turn_1": {
+        "bidder": "e6417e30e951497d82042e8b05f0a2e7",
+        "time": "2015-10-15T11:53:38.007682+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e6417e30e951497d82042e8b05f0a2e7",
+        "time": "2015-10-15T11:43:38.008436+00:00"
+      },
+      "turn_1": {
+        "amount": 294.0,
+        "bid_time": "2015-10-15T14:39:46.511904+03:00",
+        "bidder": "bb9bd2354ab7409e8c749c6081b0eace",
+        "time": "2015-10-15T11:41:38.010101+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e6417e30e951497d82042e8b05f0a2e7",
+          "amount": 299.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ucnovator.kiev.ua",
+                "telephone": "+380444070457",
+                "name": "ТОВ \"Навчально-виробничий центр Новатор\"",
+                "email": "ucnovator@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35402145",
+                "legalName": "ТОВ \"Навчально-виробничий центр Новатор\""
+              },
+              "name": "ТОВ \"Навчально-виробничий центр Новатор\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03148",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "м.Київ, вул.Строкача,7, офіс 144",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-12T15:35:14.646539+03:00"
+        },
+        {
+          "bidder": "bb9bd2354ab7409e8c749c6081b0eace",
+          "amount": 294.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.nvc.kiev.ua",
+                "faxNumber": "+380442726556",
+                "telephone": "+380442726563",
+                "name": "Годік Алла Володимирівна",
+                "email": "godik@nvc.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "04013666"
+              },
+              "name": "Навчальний заклад комунальної форми власності \" Навчально-виробничий центр \" Професіонал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "вул. Велика Житомирська, буд. № 19 літ. Б,Б'",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-15T14:39:46.511904+03:00"
+        }
+      ],
+      "time": "2015-10-15T11:55:40.017183+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-12T13:48:42.168935+03:00",
+          "amount": 440.0,
+          "bidder": "bb9bd2354ab7409e8c749c6081b0eace"
+        },
+        {
+          "date": "2015-10-12T15:35:14.646539+03:00",
+          "amount": 299.0,
+          "bidder": "e6417e30e951497d82042e8b05f0a2e7"
+        }
+      ],
+      "time": "2015-10-15T11:34:38.004139+00:00"
+    }
+  },
+  "id": "fd9d843a515d4e61bf3fbc6a6d74a63e",
+  "tenderId": "UA-2015-10-09-000231"
+}

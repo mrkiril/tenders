@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d0e613a1a7124bc89b049724adf2bea0",
+        "time": "2015-10-12T10:21:17.009381+00:00"
+      },
+      "turn_3": {
+        "bidder": "6c882e5910c9473985e2aef67af65fde",
+        "time": "2015-10-12T10:23:17.008326+00:00"
+      },
+      "turn_1": {
+        "bidder": "b79d004bda364aada456fad51ce751e7",
+        "time": "2015-10-12T10:19:17.011729+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d0e613a1a7124bc89b049724adf2bea0",
+        "time": "2015-10-12T10:29:17.011669+00:00"
+      },
+      "turn_3": {
+        "bidder": "6c882e5910c9473985e2aef67af65fde",
+        "time": "2015-10-12T10:31:17.014876+00:00"
+      },
+      "turn_1": {
+        "bidder": "b79d004bda364aada456fad51ce751e7",
+        "time": "2015-10-12T10:27:17.009312+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 9948.0,
+        "bid_time": "2015-10-12T13:12:02.300029+03:00",
+        "bidder": "d0e613a1a7124bc89b049724adf2bea0",
+        "time": "2015-10-12T10:13:17.008168+00:00"
+      },
+      "turn_3": {
+        "amount": 9945.0,
+        "bid_time": "2015-10-12T13:13:48.561681+03:00",
+        "bidder": "6c882e5910c9473985e2aef67af65fde",
+        "time": "2015-10-12T10:15:17.008472+00:00"
+      },
+      "turn_1": {
+        "bidder": "b79d004bda364aada456fad51ce751e7",
+        "time": "2015-10-12T10:11:17.011298+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b79d004bda364aada456fad51ce751e7",
+          "amount": 10000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://artoil.agronovator.ua",
+                "telephone": "+380676983888",
+                "name": "ТОВ \"АРТ ОЙЛ\"",
+                "email": "trader77@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39132801",
+                "legalName": "ТОВ \"АРТ ОЙЛ\""
+              },
+              "name": "ТОВ \"АРТ ОЙЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, Україна, місто Київ, бульвар Лесі Українки, буд. 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T15:57:53.882587+03:00"
+        },
+        {
+          "bidder": "d0e613a1a7124bc89b049724adf2bea0",
+          "amount": 9948.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-12T13:12:02.300029+03:00"
+        },
+        {
+          "bidder": "6c882e5910c9473985e2aef67af65fde",
+          "amount": 9945.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675075242",
+                "name": "Александр",
+                "email": "tollensgroup@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39321767",
+                "legalName": "ТОВ \"ТОЛЛЕНС ГРУП\""
+              },
+              "name": "ТОВ \"ТОЛЛЕНС ГРУП\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03036",
+                "region": "Киевская",
+                "streetAddress": "проспект Повітрофлотський, 90",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-12T13:13:48.561681+03:00"
+        }
+      ],
+      "time": "2015-10-12T10:31:25.133312+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T15:57:53.882587+03:00",
+          "amount": 10000.0,
+          "bidder": "b79d004bda364aada456fad51ce751e7"
+        },
+        {
+          "date": "2015-10-07T02:31:36.780762+03:00",
+          "amount": 9998.0,
+          "bidder": "d0e613a1a7124bc89b049724adf2bea0"
+        },
+        {
+          "date": "2015-10-09T11:33:13.948988+03:00",
+          "amount": 9995.0,
+          "bidder": "6c882e5910c9473985e2aef67af65fde"
+        }
+      ],
+      "time": "2015-10-12T10:04:17.003545+00:00"
+    }
+  },
+  "id": "19b075b2dde74c1ba7bf8dde87a4a14f",
+  "tenderId": "UA-2015-10-02-000265"
+}

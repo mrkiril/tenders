@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 20060.0,
+        "bid_time": "2015-10-29T13:22:06.930260+02:00",
+        "bidder": "0615cf5049b740cdbe214c591891756d",
+        "time": "2015-10-29T11:23:05.009514+00:00"
+      },
+      "turn_1": {
+        "amount": 20099.0,
+        "bid_time": "2015-10-29T13:20:10.691419+02:00",
+        "bidder": "bf85b09fe78e4b47b292e177d7dea67a",
+        "time": "2015-10-29T11:21:05.011592+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 16950.0,
+        "bid_time": "2015-10-29T13:28:57.543102+02:00",
+        "bidder": "0615cf5049b740cdbe214c591891756d",
+        "time": "2015-10-29T11:29:05.010009+00:00"
+      },
+      "turn_1": {
+        "amount": 16990.0,
+        "bid_time": "2015-10-29T13:26:52.685053+02:00",
+        "bidder": "bf85b09fe78e4b47b292e177d7dea67a",
+        "time": "2015-10-29T11:27:05.012058+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bf85b09fe78e4b47b292e177d7dea67a",
+        "time": "2015-10-29T11:17:05.009652+00:00"
+      },
+      "turn_1": {
+        "amount": 20550.0,
+        "bid_time": "2015-10-29T13:13:17.265532+02:00",
+        "bidder": "0615cf5049b740cdbe214c591891756d",
+        "time": "2015-10-29T11:15:05.011642+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bf85b09fe78e4b47b292e177d7dea67a",
+          "amount": 16990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T13:26:52.685053+02:00"
+        },
+        {
+          "bidder": "0615cf5049b740cdbe214c591891756d",
+          "amount": 16950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0486322530",
+                "telephone": "0675588151",
+                "name": "Найфлейш Давид Володимирович",
+                "email": "naifleish@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1774709573",
+                "legalName": "ФОП Найфлейш Давид Володимирович"
+              },
+              "name": "ФОП Найфлейш Давид Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська",
+                "streetAddress": "Нелазежності 10а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T13:28:57.543102+02:00"
+        }
+      ],
+      "time": "2015-10-29T11:29:06.494576+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T11:15:05.042332+02:00",
+          "amount": 24508.0,
+          "bidder": "0615cf5049b740cdbe214c591891756d"
+        },
+        {
+          "date": "2015-10-27T16:59:36.742488+02:00",
+          "amount": 20600.0,
+          "bidder": "bf85b09fe78e4b47b292e177d7dea67a"
+        }
+      ],
+      "time": "2015-10-29T11:08:05.002643+00:00"
+    }
+  },
+  "id": "b8f76725b89e4baba4eca38be6356800",
+  "tenderId": "UA-2015-10-22-000098"
+}

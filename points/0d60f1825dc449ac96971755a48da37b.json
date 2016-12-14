@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a6e1c15cf0224368ac4cfb3a93dcb066",
+        "time": "2015-11-26T09:21:20.009060+00:00"
+      },
+      "turn_1": {
+        "bidder": "0a26d20191a946d4bc5022d71ad8278b",
+        "time": "2015-11-26T09:19:20.011941+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 598.0,
+        "bid_time": "2015-11-26T11:26:28.924926+02:00",
+        "bidder": "a6e1c15cf0224368ac4cfb3a93dcb066",
+        "time": "2015-11-26T09:27:20.009948+00:00"
+      },
+      "turn_1": {
+        "amount": 599.0,
+        "bid_time": "2015-11-26T11:23:41.788212+02:00",
+        "bidder": "0a26d20191a946d4bc5022d71ad8278b",
+        "time": "2015-11-26T09:25:20.013193+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 625.0,
+        "bid_time": "2015-11-26T11:13:49.316212+02:00",
+        "bidder": "a6e1c15cf0224368ac4cfb3a93dcb066",
+        "time": "2015-11-26T09:15:20.010352+00:00"
+      },
+      "turn_1": {
+        "bidder": "0a26d20191a946d4bc5022d71ad8278b",
+        "time": "2015-11-26T09:13:20.008477+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0a26d20191a946d4bc5022d71ad8278b",
+          "amount": 599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T11:23:41.788212+02:00"
+        },
+        {
+          "bidder": "a6e1c15cf0224368ac4cfb3a93dcb066",
+          "amount": 598.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0444989011",
+                "name": "Дацюк Олена Миколаївна",
+                "email": "omega-office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39367665",
+                "legalName": "ТОВ \"ОФІС СТАЙЛ-УКРАЇНА\""
+              },
+              "name": "ТОВ \"ОФІС СТАЙЛ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "бульв.Л.Українки,буд.26",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T11:26:28.924926+02:00"
+        }
+      ],
+      "time": "2015-11-26T09:27:21.714198+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T13:39:43.379318+02:00",
+          "amount": 630.0,
+          "bidder": "a6e1c15cf0224368ac4cfb3a93dcb066"
+        },
+        {
+          "date": "2015-11-25T12:27:56.653585+02:00",
+          "amount": 630.0,
+          "bidder": "0a26d20191a946d4bc5022d71ad8278b"
+        }
+      ],
+      "time": "2015-11-26T09:06:20.004431+00:00"
+    }
+  },
+  "id": "0d60f1825dc449ac96971755a48da37b",
+  "tenderId": "UA-2015-11-18-000059-b"
+}

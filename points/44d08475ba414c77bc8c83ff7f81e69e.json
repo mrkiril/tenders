@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "32a4e6075b234d1eb4a5c70a64c9eb5c",
+        "time": "2015-10-28T11:00:37.008535+00:00"
+      },
+      "turn_3": {
+        "bidder": "33dd6aa22fa94df49de15addc1df52cd",
+        "time": "2015-10-28T11:02:37.013070+00:00"
+      },
+      "turn_1": {
+        "bidder": "1e46b935f5d244a9983259484ce10913",
+        "time": "2015-10-28T10:58:37.009598+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "32a4e6075b234d1eb4a5c70a64c9eb5c",
+        "time": "2015-10-28T11:08:37.009902+00:00"
+      },
+      "turn_3": {
+        "bidder": "33dd6aa22fa94df49de15addc1df52cd",
+        "time": "2015-10-28T11:10:37.014556+00:00"
+      },
+      "turn_1": {
+        "bidder": "1e46b935f5d244a9983259484ce10913",
+        "time": "2015-10-28T11:06:37.011742+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "32a4e6075b234d1eb4a5c70a64c9eb5c",
+        "time": "2015-10-28T10:52:37.009945+00:00"
+      },
+      "turn_3": {
+        "bidder": "33dd6aa22fa94df49de15addc1df52cd",
+        "time": "2015-10-28T10:54:37.013420+00:00"
+      },
+      "turn_1": {
+        "bidder": "1e46b935f5d244a9983259484ce10913",
+        "time": "2015-10-28T10:50:37.013087+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1e46b935f5d244a9983259484ce10913",
+          "amount": 52442.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509022244",
+                "name": "Оксана",
+                "email": "promukrtara@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Промукртара ВКК\"",
+                "id": "24078142",
+                "uri": "http://promukrtara.at.ua"
+              },
+              "name": "ТОВ \"Промукртара ВКК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04150",
+                "region": "Киевская",
+                "streetAddress": "Мельникова 12",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-27T10:34:47.941248+02:00"
+        },
+        {
+          "bidder": "32a4e6075b234d1eb4a5c70a64c9eb5c",
+          "amount": 49768.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800444072086",
+                "name": "Фізична особа-підприємець Шпакович Петро Миколайович",
+                "email": "4072086@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1923015576",
+                "legalName": "Фізична особа-підприємець Шпакович Петро Миколайович"
+              },
+              "name": "Фізична особа-підприємець Шпакович Петро Миколайович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08112,Київська обл.,Києво-Святошинський район,село Дмитрівка,вулиця Октябрська,будинок 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T12:59:53.915137+02:00"
+        },
+        {
+          "bidder": "33dd6aa22fa94df49de15addc1df52cd",
+          "amount": 46486.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют-центр ООО",
+                "email": "elena.ooo.debut@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "Дебют-центр ООО"
+              },
+              "name": "Дебют-центр ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08290, Киевская обл., г. Ирпень, пгт Гостомель, ул. Чапаева, 1-О",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T11:14:59.689341+02:00"
+        }
+      ],
+      "time": "2015-10-28T11:10:39.430846+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T10:34:47.941248+02:00",
+          "amount": 52442.0,
+          "bidder": "1e46b935f5d244a9983259484ce10913"
+        },
+        {
+          "date": "2015-10-26T12:59:53.915137+02:00",
+          "amount": 49768.0,
+          "bidder": "32a4e6075b234d1eb4a5c70a64c9eb5c"
+        },
+        {
+          "date": "2015-10-27T11:14:59.689341+02:00",
+          "amount": 46486.0,
+          "bidder": "33dd6aa22fa94df49de15addc1df52cd"
+        }
+      ],
+      "time": "2015-10-28T10:43:37.005517+00:00"
+    }
+  },
+  "id": "44d08475ba414c77bc8c83ff7f81e69e",
+  "tenderId": "UA-2015-10-16-000296"
+}

@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ff6ffc1a5952495bac4fcb18aa2b812a",
+        "time": "2015-10-22T10:52:28.009765+00:00"
+      },
+      "turn_3": {
+        "bidder": "be71d65b03e44d628ad1cc167dbf9270",
+        "time": "2015-10-22T10:54:28.008172+00:00"
+      },
+      "turn_1": {
+        "bidder": "b8fb735bd6524e199e6b56a43129fc52",
+        "time": "2015-10-22T10:50:28.008061+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ff6ffc1a5952495bac4fcb18aa2b812a",
+        "time": "2015-10-22T11:00:28.007877+00:00"
+      },
+      "turn_3": {
+        "bidder": "be71d65b03e44d628ad1cc167dbf9270",
+        "time": "2015-10-22T11:02:28.007164+00:00"
+      },
+      "turn_1": {
+        "bidder": "b8fb735bd6524e199e6b56a43129fc52",
+        "time": "2015-10-22T10:58:28.007846+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 139000.0,
+        "bid_time": "2015-10-22T13:43:19.544104+03:00",
+        "bidder": "be71d65b03e44d628ad1cc167dbf9270",
+        "time": "2015-10-22T10:44:28.012156+00:00"
+      },
+      "turn_3": {
+        "bidder": "ff6ffc1a5952495bac4fcb18aa2b812a",
+        "time": "2015-10-22T10:46:28.006782+00:00"
+      },
+      "turn_1": {
+        "bidder": "b8fb735bd6524e199e6b56a43129fc52",
+        "time": "2015-10-22T10:42:28.007215+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b8fb735bd6524e199e6b56a43129fc52",
+          "amount": 155407.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674401371",
+                "name": "Погибенко Олександр Іванович",
+                "email": "radioelektronika@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "16280421",
+                "legalName": "ТОВ \"Радіоелектроніка\""
+              },
+              "name": "ТОВ \"Радіоелектроніка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03127",
+                "region": "Київська",
+                "streetAddress": "проспект 40-річчя жовтня 120, кімната 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T11:54:08.013986+03:00"
+        },
+        {
+          "bidder": "ff6ffc1a5952495bac4fcb18aa2b812a",
+          "amount": 139700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська !79-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T22:08:47.251432+03:00"
+        },
+        {
+          "bidder": "be71d65b03e44d628ad1cc167dbf9270",
+          "amount": 139000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445457405",
+                "name": "Глобал Буд Інвест",
+                "email": "trush_1980@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39245058",
+                "legalName": "Глобал Буд Інвест"
+              },
+              "name": "Глобал Буд Інвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ вул. Смирнова-Ласточкіна, буд. 14, кім 16/8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T13:43:19.544104+03:00"
+        }
+      ],
+      "time": "2015-10-22T11:02:32.570031+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T11:54:08.013986+03:00",
+          "amount": 155407.0,
+          "bidder": "b8fb735bd6524e199e6b56a43129fc52"
+        },
+        {
+          "date": "2015-10-21T12:49:07.156370+03:00",
+          "amount": 145000.0,
+          "bidder": "be71d65b03e44d628ad1cc167dbf9270"
+        },
+        {
+          "date": "2015-10-16T22:08:47.251432+03:00",
+          "amount": 139700.0,
+          "bidder": "ff6ffc1a5952495bac4fcb18aa2b812a"
+        }
+      ],
+      "time": "2015-10-22T10:35:28.003715+00:00"
+    }
+  },
+  "id": "08387cf28dbf4c55aa792cdc6675384a",
+  "tenderId": "UA-2015-10-13-000069"
+}

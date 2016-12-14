@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 4639.0,
+        "bid_time": "2015-09-21T13:13:25.343738+03:00",
+        "bidder": "13dad51ee0354e379d64d002a8b64c6a",
+        "time": "2015-09-21T10:15:00.056275+00:00"
+      },
+      "turn_1": {
+        "amount": 4688.0,
+        "bid_time": "2015-09-21T13:11:12.724764+03:00",
+        "bidder": "fe92da4f5cbb4b4d9b4ccb40de71504b",
+        "time": "2015-09-21T10:13:00.019537+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4550.0,
+        "bid_time": "2015-09-21T13:19:21.445439+03:00",
+        "bidder": "13dad51ee0354e379d64d002a8b64c6a",
+        "time": "2015-09-21T10:21:00.048210+00:00"
+      },
+      "turn_1": {
+        "amount": 4600.0,
+        "bid_time": "2015-09-21T13:17:07.020192+03:00",
+        "bidder": "fe92da4f5cbb4b4d9b4ccb40de71504b",
+        "time": "2015-09-21T10:19:00.038469+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "13dad51ee0354e379d64d002a8b64c6a",
+        "time": "2015-09-21T10:09:00.083108+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe92da4f5cbb4b4d9b4ccb40de71504b",
+        "time": "2015-09-21T10:07:00.039460+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fe92da4f5cbb4b4d9b4ccb40de71504b",
+          "amount": 4600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-21T13:17:07.020192+03:00"
+        },
+        {
+          "bidder": "13dad51ee0354e379d64d002a8b64c6a",
+          "amount": 4550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380443777849",
+                "telephone": "+380443777849",
+                "name": "Базилевич Юрій Анатолійович",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988"
+              },
+              "name": "ТОВ ПРИВАТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська область",
+                "streetAddress": "пр-т Оболонський, 18",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-21T13:19:21.445439+03:00"
+        }
+      ],
+      "time": "2015-09-21T10:21:04.537935+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-18T14:31:01.280148+03:00",
+          "amount": 4780.0,
+          "bidder": "fe92da4f5cbb4b4d9b4ccb40de71504b"
+        },
+        {
+          "date": "2015-09-18T17:14:38.392771+03:00",
+          "amount": 4689.0,
+          "bidder": "13dad51ee0354e379d64d002a8b64c6a"
+        }
+      ],
+      "time": "2015-09-21T10:00:00.004939+00:00"
+    }
+  },
+  "id": "bf7bf921358a4e4a867f6cf22529e635",
+  "tenderId": "UA-2015-09-14-000246"
+}

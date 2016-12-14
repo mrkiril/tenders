@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "28ab6e6afc5746c194ba0cca2bb25660",
+        "time": "2015-06-24T08:45:00.201537+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f46f118567419f8e0596c2344b1858",
+        "time": "2015-06-24T08:43:00.169465+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "28ab6e6afc5746c194ba0cca2bb25660",
+        "time": "2015-06-24T08:51:00.106200+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f46f118567419f8e0596c2344b1858",
+        "time": "2015-06-24T08:49:00.047250+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "28ab6e6afc5746c194ba0cca2bb25660",
+        "time": "2015-06-24T08:39:00.303609+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f46f118567419f8e0596c2344b1858",
+        "time": "2015-06-24T08:37:00.126208+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "70f46f118567419f8e0596c2344b1858",
+          "amount": 39500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "455-70-09",
+                "telephone": "067-502-64-10",
+                "name": "ТОВ АНКОР ПЛЮС",
+                "email": "polycarbonate@ankor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31011143",
+                "legalName": "ТОВ АНКОР ПЛЮС"
+              },
+              "name": "ТОВ АНКОР ПЛЮС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03148",
+                "region": "Київська",
+                "streetAddress": "Пшенична,2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-23T10:12:11.621159+03:00"
+        },
+        {
+          "bidder": "28ab6e6afc5746c194ba0cca2bb25660",
+          "amount": 36000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-22T10:29:58.672549+03:00"
+        }
+      ],
+      "time": "2015-06-24T08:51:02.253330+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-23T10:12:11.621159+03:00",
+          "amount": 39500.0,
+          "bidder": "70f46f118567419f8e0596c2344b1858"
+        },
+        {
+          "date": "2015-06-22T10:29:58.672549+03:00",
+          "amount": 36000.0,
+          "bidder": "28ab6e6afc5746c194ba0cca2bb25660"
+        }
+      ],
+      "time": "2015-06-24T08:30:00.012708+00:00"
+    }
+  },
+  "id": "268aaf9ecb874e94b9f86c88c5567701",
+  "tenderId": "UA-2015-06-17-000049"
+}

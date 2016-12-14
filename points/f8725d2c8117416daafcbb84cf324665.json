@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 739.0,
+        "bid_time": "2015-10-07T13:48:41.492818+03:00",
+        "bidder": "0ed7fc800136421492a742b4b81c2a27",
+        "time": "2015-10-07T10:50:19.007595+00:00"
+      },
+      "turn_1": {
+        "amount": 740.0,
+        "bid_time": "2015-10-07T13:48:14.977160+03:00",
+        "bidder": "24a343dd1525475f9dfa9180a64e49fa",
+        "time": "2015-10-07T10:48:19.024716+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 689.0,
+        "bid_time": "2015-10-07T13:55:42.046728+03:00",
+        "bidder": "0ed7fc800136421492a742b4b81c2a27",
+        "time": "2015-10-07T10:56:19.013548+00:00"
+      },
+      "turn_1": {
+        "amount": 690.0,
+        "bid_time": "2015-10-07T13:54:05.673690+03:00",
+        "bidder": "24a343dd1525475f9dfa9180a64e49fa",
+        "time": "2015-10-07T10:54:19.010316+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0ed7fc800136421492a742b4b81c2a27",
+        "time": "2015-10-07T10:44:19.007873+00:00"
+      },
+      "turn_1": {
+        "bidder": "24a343dd1525475f9dfa9180a64e49fa",
+        "time": "2015-10-07T10:42:19.006353+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "24a343dd1525475f9dfa9180a64e49fa",
+          "amount": 690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674736780",
+                "name": "Максим",
+                "email": "maksim.svsmarket@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "Товариство з обмеженою відповідальністю \"СВІТ ВАШОГО СЕРВІСУ\" ",
+                "id": "38991944",
+                "uri": "http://svsmarket.com.ua/"
+              },
+              "name": "Товариство з обмеженою відповідальністю \"СВІТ ВАШОГО СЕРВІСУ\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01135",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-07T13:54:05.673690+03:00"
+        },
+        {
+          "bidder": "0ed7fc800136421492a742b4b81c2a27",
+          "amount": 689.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-07T13:55:42.046728+03:00"
+        }
+      ],
+      "time": "2015-10-07T10:56:22.366450+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T09:53:45.779687+03:00",
+          "amount": 795.0,
+          "bidder": "24a343dd1525475f9dfa9180a64e49fa"
+        },
+        {
+          "date": "2015-10-05T14:11:37.545397+03:00",
+          "amount": 745.2,
+          "bidder": "0ed7fc800136421492a742b4b81c2a27"
+        }
+      ],
+      "time": "2015-10-07T10:35:19.001852+00:00"
+    }
+  },
+  "id": "f8725d2c8117416daafcbb84cf324665",
+  "tenderId": "UA-2015-09-30-000029"
+}

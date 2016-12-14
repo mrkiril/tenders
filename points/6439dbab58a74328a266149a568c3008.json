@@ -1,0 +1,217 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 119.0,
+        "bid_time": "2015-11-27T14:54:43.160550+02:00",
+        "bidder": "dde43100ec3b409e9fb4b40a904ae2be",
+        "time": "2015-11-27T12:56:33.020791+00:00"
+      },
+      "turn_2": {
+        "bidder": "5bf9214f4dfb4220b3ccafc91b03e5f4",
+        "time": "2015-11-27T12:52:33.031672+00:00"
+      },
+      "turn_3": {
+        "amount": 120.0,
+        "bid_time": "2015-11-27T14:52:46.954946+02:00",
+        "bidder": "26a3e511d6f44b848ed7ab02d686afd2",
+        "time": "2015-11-27T12:54:33.012388+00:00"
+      },
+      "turn_1": {
+        "bidder": "1d8152ec39cd4b65a6c2966869f8592e",
+        "time": "2015-11-27T12:50:33.025008+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 107.0,
+        "bid_time": "2015-11-27T15:04:43.409867+02:00",
+        "bidder": "dde43100ec3b409e9fb4b40a904ae2be",
+        "time": "2015-11-27T13:06:33.010146+00:00"
+      },
+      "turn_2": {
+        "bidder": "5bf9214f4dfb4220b3ccafc91b03e5f4",
+        "time": "2015-11-27T13:02:33.010752+00:00"
+      },
+      "turn_3": {
+        "amount": 108.0,
+        "bid_time": "2015-11-27T15:03:14.924455+02:00",
+        "bidder": "26a3e511d6f44b848ed7ab02d686afd2",
+        "time": "2015-11-27T13:04:33.025613+00:00"
+      },
+      "turn_1": {
+        "amount": 115.0,
+        "bid_time": "2015-11-27T14:58:41.998678+02:00",
+        "bidder": "1d8152ec39cd4b65a6c2966869f8592e",
+        "time": "2015-11-27T13:00:33.018323+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 173.0,
+        "bid_time": "2015-11-27T14:44:42.222287+02:00",
+        "bidder": "dde43100ec3b409e9fb4b40a904ae2be",
+        "time": "2015-11-27T12:46:33.019189+00:00"
+      },
+      "turn_2": {
+        "amount": 174.0,
+        "bid_time": "2015-11-27T14:40:46.893919+02:00",
+        "bidder": "26a3e511d6f44b848ed7ab02d686afd2",
+        "time": "2015-11-27T12:42:33.009660+00:00"
+      },
+      "turn_3": {
+        "bidder": "1d8152ec39cd4b65a6c2966869f8592e",
+        "time": "2015-11-27T12:44:33.009046+00:00"
+      },
+      "turn_1": {
+        "amount": 195.0,
+        "bid_time": "2015-11-27T14:40:10.306816+02:00",
+        "bidder": "5bf9214f4dfb4220b3ccafc91b03e5f4",
+        "time": "2015-11-27T12:40:33.011609+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5bf9214f4dfb4220b3ccafc91b03e5f4",
+          "amount": 195.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kotefi.com",
+                "telephone": "+380954049557",
+                "name": "Приватне підприємство \"КОТЕФІ\"",
+                "email": "it.kotefi@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25390769",
+                "legalName": "Приватне підприємство \"КОТЕФІ\""
+              },
+              "name": "Приватне підприємство \"КОТЕФІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04116",
+                "region": "",
+                "streetAddress": "вул. Ванди Василевської, 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-27T14:40:10.306816+02:00"
+        },
+        {
+          "bidder": "1d8152ec39cd4b65a6c2966869f8592e",
+          "amount": 115.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ksime.com.ua",
+                "faxNumber": "+380442464753",
+                "telephone": "+380442881662",
+                "name": "Іваненко ігор Леонідович",
+                "email": "ksyma@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "03003996"
+              },
+              "name": "ТОВ Учбовий центр \"КСИМЕ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська область",
+                "streetAddress": "провулок Госпітальний, буд. 1-А",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T14:58:41.998678+02:00"
+        },
+        {
+          "bidder": "26a3e511d6f44b848ed7ab02d686afd2",
+          "amount": 108.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380636782014, +380667583407, +380971036798",
+                "name": "Галина Володимирівна Гарбар",
+                "email": "nvk.profcenter@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34290085",
+                "legalName": "ТОВ \"НВК \"Профцентр\""
+              },
+              "name": "ТОВ \"НВК \"Профцентр\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02068",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "г.Киев"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:03:14.924455+02:00"
+        },
+        {
+          "bidder": "dde43100ec3b409e9fb4b40a904ae2be",
+          "amount": 107.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.nvc.kiev.ua",
+                "faxNumber": "+380442726556",
+                "telephone": "+380442726563",
+                "name": "Годік Алла Володимирівна",
+                "email": "godik@nvc.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "04013666"
+              },
+              "name": "Навчальний заклад комунальної форми власності \" Навчально-виробничий центр \" Професіонал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "вул. Велика Житомирська, буд. № 19 літ. Б,Б'",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:04:43.409867+02:00"
+        }
+      ],
+      "time": "2015-11-27T13:06:35.022525+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T15:11:28.607151+02:00",
+          "amount": 320.0,
+          "bidder": "5bf9214f4dfb4220b3ccafc91b03e5f4"
+        },
+        {
+          "date": "2015-11-26T16:49:43.515338+02:00",
+          "amount": 298.0,
+          "bidder": "26a3e511d6f44b848ed7ab02d686afd2"
+        },
+        {
+          "date": "2015-11-25T15:29:08.267686+02:00",
+          "amount": 218.0,
+          "bidder": "1d8152ec39cd4b65a6c2966869f8592e"
+        },
+        {
+          "date": "2015-11-26T14:18:03.115959+02:00",
+          "amount": 199.0,
+          "bidder": "dde43100ec3b409e9fb4b40a904ae2be"
+        }
+      ],
+      "time": "2015-11-27T12:33:33.003524+00:00"
+    }
+  },
+  "id": "6439dbab58a74328a266149a568c3008",
+  "tenderId": "UA-2015-11-25-000051-b"
+}

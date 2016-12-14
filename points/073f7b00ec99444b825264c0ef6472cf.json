@@ -1,0 +1,216 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 1040000.0,
+        "bid_time": "2015-09-18T11:21:23.290967+03:00",
+        "bidder": "1f3d152c3bfc467da7a78be8bd8c5d72",
+        "time": "2015-09-18T08:23:00.099740+00:00"
+      },
+      "turn_2": {
+        "amount": 1080000.0,
+        "bid_time": "2015-09-18T11:17:52.917885+03:00",
+        "bidder": "2e94eedd583d4d4a869cee123f346cb3",
+        "time": "2015-09-18T08:19:00.075529+00:00"
+      },
+      "turn_3": {
+        "amount": 1050000.0,
+        "bid_time": "2015-09-18T11:19:28.991369+03:00",
+        "bidder": "c94983a5028a4f5c890830b5dc9e3351",
+        "time": "2015-09-18T08:21:00.129230+00:00"
+      },
+      "turn_1": {
+        "bidder": "3b3d2915d4df46fab09061bcc685b080",
+        "time": "2015-09-18T08:17:00.146288+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 1005000.0,
+        "bid_time": "2015-09-18T11:31:33.991167+03:00",
+        "bidder": "1f3d152c3bfc467da7a78be8bd8c5d72",
+        "time": "2015-09-18T08:33:00.127352+00:00"
+      },
+      "turn_2": {
+        "amount": 1040000.0,
+        "bid_time": "2015-09-18T11:27:25.249363+03:00",
+        "bidder": "2e94eedd583d4d4a869cee123f346cb3",
+        "time": "2015-09-18T08:29:00.030301+00:00"
+      },
+      "turn_3": {
+        "amount": 1015000.0,
+        "bid_time": "2015-09-18T11:29:53.432220+03:00",
+        "bidder": "c94983a5028a4f5c890830b5dc9e3351",
+        "time": "2015-09-18T08:31:00.025849+00:00"
+      },
+      "turn_1": {
+        "bidder": "3b3d2915d4df46fab09061bcc685b080",
+        "time": "2015-09-18T08:27:00.149201+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 1060000.0,
+        "bid_time": "2015-09-18T11:12:18.765954+03:00",
+        "bidder": "1f3d152c3bfc467da7a78be8bd8c5d72",
+        "time": "2015-09-18T08:13:00.129476+00:00"
+      },
+      "turn_2": {
+        "amount": 1090000.0,
+        "bid_time": "2015-09-18T11:07:40.144876+03:00",
+        "bidder": "2e94eedd583d4d4a869cee123f346cb3",
+        "time": "2015-09-18T08:09:00.128091+00:00"
+      },
+      "turn_3": {
+        "amount": 1080000.0,
+        "bid_time": "2015-09-18T11:10:01.326159+03:00",
+        "bidder": "c94983a5028a4f5c890830b5dc9e3351",
+        "time": "2015-09-18T08:11:00.144232+00:00"
+      },
+      "turn_1": {
+        "bidder": "3b3d2915d4df46fab09061bcc685b080",
+        "time": "2015-09-18T08:07:00.092699+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3b3d2915d4df46fab09061bcc685b080",
+          "amount": 1147074.96,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380974407431",
+                "name": "Артем Кореньков",
+                "email": "td.korund@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38653332",
+                "legalName": "ТОВ \"Торговый Дом Корунд\""
+              },
+              "name": "ТОВ \"Торговый Дом Корунд\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "83049",
+                "region": "Донецкая",
+                "streetAddress": "Куйбышева, 68",
+                "locality": "Донецк"
+              }
+            }
+          ],
+          "time": "2015-09-16T13:10:28.055614+03:00"
+        },
+        {
+          "bidder": "2e94eedd583d4d4a869cee123f346cb3",
+          "amount": 1040000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.promresurs.kiev.uua/",
+                "telephone": "380508806220",
+                "name": "Руслан Особенко ",
+                "email": "ruos@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32823992",
+                "legalName": "ТОВ Промисловий ресурс"
+              },
+              "name": "ТОВ Промисловий ресурс",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "02660 Киев ул. Ялтинская 5-б"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:27:25.249363+03:00"
+        },
+        {
+          "bidder": "c94983a5028a4f5c890830b5dc9e3351",
+          "amount": 1015000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955773547",
+                "name": "Сергей Киричек",
+                "email": "slavpg@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Славянская промышленная группа\"",
+                "id": "34611414",
+                "uri": "http://slavpg.com.ua"
+              },
+              "name": "ТОВ \"Славянская промышленная группа\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "85400",
+                "region": "Донецкая",
+                "streetAddress": "Донецкая область г. Селидово ул. Красноармейская,39",
+                "locality": "Донецк"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:29:53.432220+03:00"
+        },
+        {
+          "bidder": "1f3d152c3bfc467da7a78be8bd8c5d72",
+          "amount": 1005000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667158003",
+                "name": "Valeriy Makarenkov",
+                "email": "altena.ltd@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38568846",
+                "legalName": "ТОВ \"альтена\""
+              },
+              "name": "ТОВ \"альтена\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65026",
+                "region": "Одесская",
+                "streetAddress": "Польская, 18             ",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:31:33.991167+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:33:07.557717+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T13:10:28.055614+03:00",
+          "amount": 1147074.96,
+          "bidder": "3b3d2915d4df46fab09061bcc685b080"
+        },
+        {
+          "date": "2015-09-16T16:18:46.957569+03:00",
+          "amount": 1145184.0,
+          "bidder": "2e94eedd583d4d4a869cee123f346cb3"
+        },
+        {
+          "date": "2015-09-16T13:44:36.853151+03:00",
+          "amount": 1143986.88,
+          "bidder": "c94983a5028a4f5c890830b5dc9e3351"
+        },
+        {
+          "date": "2015-09-16T13:43:09.517297+03:00",
+          "amount": 1100000.0,
+          "bidder": "1f3d152c3bfc467da7a78be8bd8c5d72"
+        }
+      ],
+      "time": "2015-09-18T08:00:00.010099+00:00"
+    }
+  },
+  "id": "073f7b00ec99444b825264c0ef6472cf",
+  "tenderId": "UA-2015-09-02-000103"
+}

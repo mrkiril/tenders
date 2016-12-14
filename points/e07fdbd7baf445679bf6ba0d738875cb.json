@@ -1,0 +1,151 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8fd3d648d81e4168b310839d7d0919b0",
+        "time": "2015-12-14T11:31:10.006700+00:00"
+      },
+      "turn_3": {
+        "bidder": "797510af0e9a4fe5a89a851e157fe6bf",
+        "time": "2015-12-14T11:33:10.009646+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b145a0e2f024b5dbc23c19caea4b21c",
+        "time": "2015-12-14T11:29:10.012348+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8fd3d648d81e4168b310839d7d0919b0",
+        "time": "2015-12-14T11:39:10.012936+00:00"
+      },
+      "turn_3": {
+        "bidder": "797510af0e9a4fe5a89a851e157fe6bf",
+        "time": "2015-12-14T11:41:10.010815+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b145a0e2f024b5dbc23c19caea4b21c",
+        "time": "2015-12-14T11:37:10.010054+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8fd3d648d81e4168b310839d7d0919b0",
+        "time": "2015-12-14T11:23:10.007618+00:00"
+      },
+      "turn_3": {
+        "bidder": "797510af0e9a4fe5a89a851e157fe6bf",
+        "time": "2015-12-14T11:25:10.009082+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b145a0e2f024b5dbc23c19caea4b21c",
+        "time": "2015-12-14T11:21:10.009026+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6b145a0e2f024b5dbc23c19caea4b21c",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0996505838, 380504205556",
+                "name": "Сергей Валентинович Ткаченко Валентинович",
+                "email": "erg4@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31136877",
+                "legalName": "ПП \"Протон\""
+              },
+              "name": "Приватне підприємство \"Протон\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "м. Дніпропетровськ, 49000, вул. Войцеховича, 35"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:29:55.700128+02:00"
+        },
+        {
+          "bidder": "8fd3d648d81e4168b310839d7d0919b0",
+          "amount": 12498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632843978",
+                "name": "Пісоцький Олександр Олександрович",
+                "email": "fop_oo@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3058508831"
+              },
+              "name": "ФОП Пісоцький Олександр Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "52005",
+                "region": "Дніпропетровська область",
+                "streetAddress": "смт. Ювілейне, вул. Фрунзе, буд. 28, оф. 99",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:29:38.048648+02:00"
+        },
+        {
+          "bidder": "797510af0e9a4fe5a89a851e157fe6bf",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Максим",
+                "email": "favon19@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3105000652",
+                "legalName": "ФОП \"ФОП Зенькович\""
+              },
+              "name": "ФОП \"ФОП Зенькович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "51900",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепродзержинск"
+              }
+            }
+          ],
+          "time": "2015-12-11T15:49:03.564602+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:41:10.952272+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T11:29:55.700128+02:00",
+          "amount": 12500.0,
+          "bidder": "6b145a0e2f024b5dbc23c19caea4b21c"
+        },
+        {
+          "date": "2015-12-10T11:29:38.048648+02:00",
+          "amount": 12498.0,
+          "bidder": "8fd3d648d81e4168b310839d7d0919b0"
+        },
+        {
+          "date": "2015-12-11T15:49:03.564602+02:00",
+          "amount": 10500.0,
+          "bidder": "797510af0e9a4fe5a89a851e157fe6bf"
+        }
+      ],
+      "time": "2015-12-14T11:14:10.002162+00:00"
+    }
+  },
+  "id": "e07fdbd7baf445679bf6ba0d738875cb",
+  "tenderId": "UA-2015-12-03-000109-a"
+}

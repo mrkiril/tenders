@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7da0b4337448445290b05ae6e442dd10",
+        "time": "2015-12-08T10:47:10.010456+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a1def7daf144a9e93483a05e89a318e",
+        "time": "2015-12-08T10:45:10.013059+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7da0b4337448445290b05ae6e442dd10",
+        "time": "2015-12-08T10:53:10.014979+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a1def7daf144a9e93483a05e89a318e",
+        "time": "2015-12-08T10:51:10.010569+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7da0b4337448445290b05ae6e442dd10",
+        "time": "2015-12-08T10:41:10.010427+00:00"
+      },
+      "turn_1": {
+        "bidder": "1a1def7daf144a9e93483a05e89a318e",
+        "time": "2015-12-08T10:39:10.024417+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1a1def7daf144a9e93483a05e89a318e",
+          "amount": 1099.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975643556, +380506438267",
+                "name": "Максим Міщенко",
+                "email": "max@kompa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Міщенко О. А.\"",
+                "id": "2978900762",
+                "uri": "http://kompa.com.ua"
+              },
+              "name": "ФОП \"Міщенко О. А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-05T11:26:25.147507+02:00"
+        },
+        {
+          "bidder": "7da0b4337448445290b05ae6e442dd10",
+          "amount": 1083.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-06T22:06:20.525944+02:00"
+        }
+      ],
+      "time": "2015-12-08T10:53:12.992651+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-05T11:26:25.147507+02:00",
+          "amount": 1099.0,
+          "bidder": "1a1def7daf144a9e93483a05e89a318e"
+        },
+        {
+          "date": "2015-12-06T22:06:20.525944+02:00",
+          "amount": 1083.0,
+          "bidder": "7da0b4337448445290b05ae6e442dd10"
+        }
+      ],
+      "time": "2015-12-08T10:32:10.004371+00:00"
+    }
+  },
+  "id": "286e573aebc544b69d43a5119de7b578",
+  "tenderId": "UA-2015-11-30-000029"
+}

@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "eb99eb1fdbc3488082924f79bef76aa8",
+        "time": "2015-10-30T12:54:28.008107+00:00"
+      },
+      "turn_3": {
+        "bidder": "148c30923d064273aa2adaff0d43fe11",
+        "time": "2015-10-30T12:56:28.011970+00:00"
+      },
+      "turn_1": {
+        "bidder": "51357f47ea444b659aa6819810153e30",
+        "time": "2015-10-30T12:52:28.009952+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "eb99eb1fdbc3488082924f79bef76aa8",
+        "time": "2015-10-30T13:02:28.007421+00:00"
+      },
+      "turn_3": {
+        "bidder": "148c30923d064273aa2adaff0d43fe11",
+        "time": "2015-10-30T13:04:28.007360+00:00"
+      },
+      "turn_1": {
+        "amount": 2580.0,
+        "bid_time": "2015-10-30T14:58:42.018513+02:00",
+        "bidder": "51357f47ea444b659aa6819810153e30",
+        "time": "2015-10-30T13:00:28.008870+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "eb99eb1fdbc3488082924f79bef76aa8",
+        "time": "2015-10-30T12:46:28.011041+00:00"
+      },
+      "turn_3": {
+        "bidder": "148c30923d064273aa2adaff0d43fe11",
+        "time": "2015-10-30T12:48:28.007572+00:00"
+      },
+      "turn_1": {
+        "bidder": "51357f47ea444b659aa6819810153e30",
+        "time": "2015-10-30T12:44:28.008192+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eb99eb1fdbc3488082924f79bef76aa8",
+          "amount": 2800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672381783",
+                "name": "Журавель Євген Валерійович",
+                "email": "evgenzuravel@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3189918412"
+              },
+              "name": "ФОП Журавель Євген Валерійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська область",
+                "streetAddress": "вул.Драгоманова 3А кв.82",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-29T16:50:36.636571+02:00"
+        },
+        {
+          "bidder": "51357f47ea444b659aa6819810153e30",
+          "amount": 2580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-409-06-19",
+                "telephone": "044-409-06-19",
+                "name": "Лісова Лариса Степанівна",
+                "email": "info@aksept.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38506076",
+                "legalName": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Підлісна, 6 кв.151",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T14:58:42.018513+02:00"
+        },
+        {
+          "bidder": "148c30923d064273aa2adaff0d43fe11",
+          "amount": 2206.13,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-28T15:57:15.495696+02:00"
+        }
+      ],
+      "time": "2015-10-30T13:04:32.544209+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T15:04:50.674560+02:00",
+          "amount": 2840.0,
+          "bidder": "51357f47ea444b659aa6819810153e30"
+        },
+        {
+          "date": "2015-10-29T16:50:36.636571+02:00",
+          "amount": 2800.0,
+          "bidder": "eb99eb1fdbc3488082924f79bef76aa8"
+        },
+        {
+          "date": "2015-10-28T15:57:15.495696+02:00",
+          "amount": 2206.13,
+          "bidder": "148c30923d064273aa2adaff0d43fe11"
+        }
+      ],
+      "time": "2015-10-30T12:37:28.003442+00:00"
+    }
+  },
+  "id": "8cd95d3b39a14f6686d92692cfc8f41c",
+  "tenderId": "UA-2015-10-22-000040"
+}

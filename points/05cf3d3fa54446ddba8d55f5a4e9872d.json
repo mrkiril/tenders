@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "da227fe4f2ed45f48affcc50e7d269c5",
+        "time": "2015-09-24T10:17:00.035437+00:00"
+      },
+      "turn_3": {
+        "bidder": "cae7d59fd2974711b0745152662dc06a",
+        "time": "2015-09-24T10:19:00.059832+00:00"
+      },
+      "turn_1": {
+        "amount": 19900.0,
+        "bid_time": "2015-09-24T13:13:16.822396+03:00",
+        "bidder": "82ec569a57ad4465a291f5a9c93ae0f3",
+        "time": "2015-09-24T10:15:00.068564+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "82ec569a57ad4465a291f5a9c93ae0f3",
+        "time": "2015-09-24T10:25:00.025398+00:00"
+      },
+      "turn_3": {
+        "bidder": "cae7d59fd2974711b0745152662dc06a",
+        "time": "2015-09-24T10:27:00.041689+00:00"
+      },
+      "turn_1": {
+        "bidder": "da227fe4f2ed45f48affcc50e7d269c5",
+        "time": "2015-09-24T10:23:00.045108+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 18500.0,
+        "bid_time": "2015-09-24T13:07:33.864350+03:00",
+        "bidder": "cae7d59fd2974711b0745152662dc06a",
+        "time": "2015-09-24T10:09:00.023602+00:00"
+      },
+      "turn_3": {
+        "bidder": "da227fe4f2ed45f48affcc50e7d269c5",
+        "time": "2015-09-24T10:11:00.058915+00:00"
+      },
+      "turn_1": {
+        "amount": 20900.0,
+        "bid_time": "2015-09-24T13:05:21.461425+03:00",
+        "bidder": "82ec569a57ad4465a291f5a9c93ae0f3",
+        "time": "2015-09-24T10:07:00.083795+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "da227fe4f2ed45f48affcc50e7d269c5",
+          "amount": 19930.25,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443326404, +380502820273, +380973799220",
+                "name": "Зореслава Игнатенко",
+                "email": "zignatenko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ФАРМЛіДЕР\"",
+                "id": "38193051",
+                "uri": "http://pharmlider.uaprom.net/"
+              },
+              "name": "ТОВ \"ФАРМЛіДЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02140",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, проспект М.Бажана, 16, кв.144",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-22T10:58:02.951299+03:00"
+        },
+        {
+          "bidder": "82ec569a57ad4465a291f5a9c93ae0f3",
+          "amount": 19900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0442460440",
+                "name": "Павлюк Надія Олександрівна",
+                "email": "medical.commers@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38737679",
+                "legalName": "Товариство з обмеженою відповідальністю \"МЕДІКАЛ КОМЕРС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"МЕДІКАЛ КОМЕРС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "Київська",
+                "streetAddress": "вулиця Балукова, будинок 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T13:13:16.822396+03:00"
+        },
+        {
+          "bidder": "cae7d59fd2974711b0745152662dc06a",
+          "amount": 18500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380936018499",
+                "name": "ТОВ \"ЧІЛА\"",
+                "email": "valyuha-x5@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38435147",
+                "legalName": "ТОВ \"ЧІЛА\""
+              },
+              "name": "ТОВ \"ЧІЛА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200 м.Ірпінь,  вул.3-го інтернаціоналу 68-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T13:07:33.864350+03:00"
+        }
+      ],
+      "time": "2015-09-24T10:27:07.443320+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T17:51:03.304140+03:00",
+          "amount": 22077.0,
+          "bidder": "82ec569a57ad4465a291f5a9c93ae0f3"
+        },
+        {
+          "date": "2015-09-23T11:16:29.675029+03:00",
+          "amount": 21000.0,
+          "bidder": "cae7d59fd2974711b0745152662dc06a"
+        },
+        {
+          "date": "2015-09-22T10:58:02.951299+03:00",
+          "amount": 19930.25,
+          "bidder": "da227fe4f2ed45f48affcc50e7d269c5"
+        }
+      ],
+      "time": "2015-09-24T10:00:00.035381+00:00"
+    }
+  },
+  "id": "05cf3d3fa54446ddba8d55f5a4e9872d",
+  "tenderId": "UA-2015-09-16-000282"
+}

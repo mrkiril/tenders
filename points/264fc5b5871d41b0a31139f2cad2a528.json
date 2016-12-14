@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ec8e9540bead4368bc976f74124f2320",
+        "time": "2015-07-02T08:45:00.097950+00:00"
+      },
+      "turn_1": {
+        "amount": 18800.0,
+        "bid_time": "2015-07-02T11:41:15.346344+03:00",
+        "bidder": "62a61c0c2af9436d9bcaf3ac3b9e04a9",
+        "time": "2015-07-02T08:43:00.049655+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "62a61c0c2af9436d9bcaf3ac3b9e04a9",
+        "time": "2015-07-02T08:51:00.159121+00:00"
+      },
+      "turn_1": {
+        "bidder": "ec8e9540bead4368bc976f74124f2320",
+        "time": "2015-07-02T08:49:00.041681+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 22027.0,
+        "bid_time": "2015-07-02T11:38:06.765496+03:00",
+        "bidder": "ec8e9540bead4368bc976f74124f2320",
+        "time": "2015-07-02T08:39:00.074305+00:00"
+      },
+      "turn_1": {
+        "amount": 22028.0,
+        "bid_time": "2015-07-02T11:36:25.225825+03:00",
+        "bidder": "62a61c0c2af9436d9bcaf3ac3b9e04a9",
+        "time": "2015-07-02T08:37:00.100664+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ec8e9540bead4368bc976f74124f2320",
+          "amount": 22027.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-02T11:38:06.765496+03:00"
+        },
+        {
+          "bidder": "62a61c0c2af9436d9bcaf3ac3b9e04a9",
+          "amount": 18800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://herson-standart.pulscen.com.ua",
+                "faxNumber": "337128",
+                "telephone": "0675501649",
+                "name": "Фізична Особа-Підприємець Новаковський Олександр Павлович",
+                "email": "ua2013@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2591501676",
+                "legalName": "Фізична Особа-Підприємець Новаковський Олександр Павлович"
+              },
+              "name": "Фізична Особа-Підприємець Новаковський Олександр Павлович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "проспект Сенявіна  №166 кв.56",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T11:41:15.346344+03:00"
+        }
+      ],
+      "time": "2015-07-02T08:51:02.633063+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-30T16:55:00.838796+03:00",
+          "amount": 22250.0,
+          "bidder": "62a61c0c2af9436d9bcaf3ac3b9e04a9"
+        },
+        {
+          "date": "2015-07-01T20:46:52.815120+03:00",
+          "amount": 22249.0,
+          "bidder": "ec8e9540bead4368bc976f74124f2320"
+        }
+      ],
+      "time": "2015-07-02T08:30:00.011677+00:00"
+    }
+  },
+  "id": "264fc5b5871d41b0a31139f2cad2a528",
+  "tenderId": "UA-2015-06-23-000138"
+}

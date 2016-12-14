@@ -1,0 +1,250 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "91e9121ee88a4581ba1c01d905af2332",
+        "time": "2015-11-18T10:03:55.007642+00:00"
+      },
+      "turn_5": {
+        "bidder": "61920953ed7344a3bbe85d21da1d2fe4",
+        "time": "2015-11-18T10:05:55.124660+00:00"
+      },
+      "turn_2": {
+        "bidder": "8a57cf50b2844621b4b46800688c78fc",
+        "time": "2015-11-18T09:59:55.007406+00:00"
+      },
+      "turn_3": {
+        "amount": 840.0,
+        "bid_time": "2015-11-18T12:00:19.151674+02:00",
+        "bidder": "8e5200968ec944089ee63d40ac776fcf",
+        "time": "2015-11-18T10:01:55.010698+00:00"
+      },
+      "turn_1": {
+        "amount": 850.0,
+        "bid_time": "2015-11-18T11:56:02.756905+02:00",
+        "bidder": "607f15057fff4c368ed8faf2c82f082e",
+        "time": "2015-11-18T09:57:55.009190+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "91e9121ee88a4581ba1c01d905af2332",
+        "time": "2015-11-18T10:15:55.007372+00:00"
+      },
+      "turn_5": {
+        "bidder": "61920953ed7344a3bbe85d21da1d2fe4",
+        "time": "2015-11-18T10:17:55.006728+00:00"
+      },
+      "turn_2": {
+        "bidder": "607f15057fff4c368ed8faf2c82f082e",
+        "time": "2015-11-18T10:11:55.006809+00:00"
+      },
+      "turn_3": {
+        "bidder": "8e5200968ec944089ee63d40ac776fcf",
+        "time": "2015-11-18T10:13:55.007001+00:00"
+      },
+      "turn_1": {
+        "bidder": "8a57cf50b2844621b4b46800688c78fc",
+        "time": "2015-11-18T10:09:55.011548+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "91e9121ee88a4581ba1c01d905af2332",
+        "time": "2015-11-18T09:51:55.011387+00:00"
+      },
+      "turn_5": {
+        "bidder": "61920953ed7344a3bbe85d21da1d2fe4",
+        "time": "2015-11-18T09:53:55.010963+00:00"
+      },
+      "turn_2": {
+        "bidder": "8a57cf50b2844621b4b46800688c78fc",
+        "time": "2015-11-18T09:47:55.010829+00:00"
+      },
+      "turn_3": {
+        "amount": 900.0,
+        "bid_time": "2015-11-18T11:48:25.347984+02:00",
+        "bidder": "8e5200968ec944089ee63d40ac776fcf",
+        "time": "2015-11-18T09:49:55.013045+00:00"
+      },
+      "turn_1": {
+        "bidder": "607f15057fff4c368ed8faf2c82f082e",
+        "time": "2015-11-18T09:45:55.011542+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8a57cf50b2844621b4b46800688c78fc",
+          "amount": 997.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T17:12:34.981548+02:00"
+        },
+        {
+          "bidder": "607f15057fff4c368ed8faf2c82f082e",
+          "amount": 850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.duet2010.com.ua",
+                "telephone": "+3800445020618",
+                "name": "ЧП \"Дуэт 2010\"",
+                "email": "yes@duet2010.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37195566",
+                "legalName": "ЧП \"Дуэт 2010\""
+              },
+              "name": "ЧП \"Дуэт 2010\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, ул. Дубровицкая, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T11:56:02.756905+02:00"
+        },
+        {
+          "bidder": "8e5200968ec944089ee63d40ac776fcf",
+          "amount": 840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502457570",
+                "name": "Алина",
+                "email": "alina.harvest@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39438657",
+                "legalName": "ТОВ \"Харвест 2014\""
+              },
+              "name": "ТОВ \"Харвест 2014\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T12:00:19.151674+02:00"
+        },
+        {
+          "bidder": "91e9121ee88a4581ba1c01d905af2332",
+          "amount": 687.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T14:37:30.835572+02:00"
+        },
+        {
+          "bidder": "61920953ed7344a3bbe85d21da1d2fe4",
+          "amount": 603.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T16:42:36.767503+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:17:59.620198+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T15:00:31.254942+02:00",
+          "amount": 999.0,
+          "bidder": "607f15057fff4c368ed8faf2c82f082e"
+        },
+        {
+          "date": "2015-11-17T17:12:34.981548+02:00",
+          "amount": 997.5,
+          "bidder": "8a57cf50b2844621b4b46800688c78fc"
+        },
+        {
+          "date": "2015-11-16T14:02:00.001667+02:00",
+          "amount": 970.0,
+          "bidder": "8e5200968ec944089ee63d40ac776fcf"
+        },
+        {
+          "date": "2015-11-17T14:37:30.835572+02:00",
+          "amount": 687.0,
+          "bidder": "91e9121ee88a4581ba1c01d905af2332"
+        },
+        {
+          "date": "2015-11-17T16:42:36.767503+02:00",
+          "amount": 603.0,
+          "bidder": "61920953ed7344a3bbe85d21da1d2fe4"
+        }
+      ],
+      "time": "2015-11-18T09:38:55.004671+00:00"
+    }
+  },
+  "id": "fa2c0aec78884bdab4e10dfa8616c326",
+  "tenderId": "UA-2015-11-13-000139-b"
+}

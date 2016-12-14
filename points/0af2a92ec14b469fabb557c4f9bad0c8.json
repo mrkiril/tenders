@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cff878523a9749fa8e3aa91d5d76a093",
+        "time": "2015-07-17T08:15:00.170293+00:00"
+      },
+      "turn_1": {
+        "bidder": "bedc3e0f39e64ffeae485bb0c74b330c",
+        "time": "2015-07-17T08:13:00.106238+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cff878523a9749fa8e3aa91d5d76a093",
+        "time": "2015-07-17T08:21:00.047438+00:00"
+      },
+      "turn_1": {
+        "bidder": "bedc3e0f39e64ffeae485bb0c74b330c",
+        "time": "2015-07-17T08:19:00.113835+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bedc3e0f39e64ffeae485bb0c74b330c",
+        "time": "2015-07-17T08:09:00.079529+00:00"
+      },
+      "turn_1": {
+        "amount": 22000.0,
+        "bid_time": "2015-07-17T11:05:14.342146+03:00",
+        "bidder": "cff878523a9749fa8e3aa91d5d76a093",
+        "time": "2015-07-17T08:07:00.076303+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bedc3e0f39e64ffeae485bb0c74b330c",
+          "amount": 22327.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689818204",
+                "name": "Дана Мироненко",
+                "email": "mirondana@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38069357",
+                "legalName": "ТОВ \"Торговый Дом Светоприбор\""
+              },
+              "name": "ТОВ \"Торговый Дом Светоприбор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69035",
+                "region": "Запорожская",
+                "streetAddress": "ул. 40 лет Советской Украины, 82",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-07-15T15:05:15.993185+03:00"
+        },
+        {
+          "bidder": "cff878523a9749fa8e3aa91d5d76a093",
+          "amount": 22000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prosvit.com.ua",
+                "telephone": "+380443511121",
+                "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+                "email": "ibrand@prosvit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "355721131",
+                "legalName": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м.Київ вул.Машинобудівна,42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-17T11:05:14.342146+03:00"
+        }
+      ],
+      "time": "2015-07-17T08:21:03.475808+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-17T09:50:15.615712+03:00",
+          "amount": 28854.0,
+          "bidder": "cff878523a9749fa8e3aa91d5d76a093"
+        },
+        {
+          "date": "2015-07-15T15:05:15.993185+03:00",
+          "amount": 22327.5,
+          "bidder": "bedc3e0f39e64ffeae485bb0c74b330c"
+        }
+      ],
+      "time": "2015-07-17T08:00:00.027707+00:00"
+    }
+  },
+  "id": "0af2a92ec14b469fabb557c4f9bad0c8",
+  "tenderId": "UA-2015-07-09-000053"
+}

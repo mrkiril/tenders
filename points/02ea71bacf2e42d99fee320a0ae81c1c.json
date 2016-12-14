@@ -1,0 +1,250 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 10387.8,
+        "bid_time": "2015-05-06T14:23:44.739947+03:00",
+        "bidder": "25d1bf69e2dc48f0a012e1361cb64065",
+        "time": "2015-05-06T11:25:00.041676+00:00"
+      },
+      "turn_5": {
+        "bidder": "460b83827c0c4214a3afcfcdc2b566bd",
+        "time": "2015-05-06T11:27:00.027262+00:00"
+      },
+      "turn_2": {
+        "bidder": "80cdf249160b42daa25ca497ddd02770",
+        "time": "2015-05-06T11:21:00.012314+00:00"
+      },
+      "turn_3": {
+        "bidder": "15920b15c92f4d4f841d286b5ea2ed4c",
+        "time": "2015-05-06T11:23:00.063178+00:00"
+      },
+      "turn_1": {
+        "bidder": "463ffbfa15464e259cb0d804e206b904",
+        "time": "2015-05-06T11:19:00.031197+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 10097.0,
+        "bid_time": "2015-05-06T14:36:52.518539+03:00",
+        "bidder": "460b83827c0c4214a3afcfcdc2b566bd",
+        "time": "2015-05-06T11:37:00.074165+00:00"
+      },
+      "turn_5": {
+        "amount": 10095.0,
+        "bid_time": "2015-05-06T14:38:55.003674+03:00",
+        "bidder": "25d1bf69e2dc48f0a012e1361cb64065",
+        "time": "2015-05-06T11:39:00.031755+00:00"
+      },
+      "turn_2": {
+        "bidder": "80cdf249160b42daa25ca497ddd02770",
+        "time": "2015-05-06T11:33:00.037253+00:00"
+      },
+      "turn_3": {
+        "bidder": "15920b15c92f4d4f841d286b5ea2ed4c",
+        "time": "2015-05-06T11:35:00.088023+00:00"
+      },
+      "turn_1": {
+        "bidder": "463ffbfa15464e259cb0d804e206b904",
+        "time": "2015-05-06T11:31:00.016902+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "25d1bf69e2dc48f0a012e1361cb64065",
+        "time": "2015-05-06T11:13:00.013062+00:00"
+      },
+      "turn_5": {
+        "bidder": "460b83827c0c4214a3afcfcdc2b566bd",
+        "time": "2015-05-06T11:15:00.094074+00:00"
+      },
+      "turn_2": {
+        "bidder": "80cdf249160b42daa25ca497ddd02770",
+        "time": "2015-05-06T11:09:00.036587+00:00"
+      },
+      "turn_3": {
+        "bidder": "15920b15c92f4d4f841d286b5ea2ed4c",
+        "time": "2015-05-06T11:11:00.013419+00:00"
+      },
+      "turn_1": {
+        "bidder": "463ffbfa15464e259cb0d804e206b904",
+        "time": "2015-05-06T11:07:00.017855+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "463ffbfa15464e259cb0d804e206b904",
+          "amount": 12999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380964941397",
+                "name": "Андрей Павловский",
+                "email": "pavlovskiy@salvigroup.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38526993",
+                "legalName": "ТОВ \"Салви Груп\""
+              },
+              "name": "ТОВ \"Салви Груп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Краснознаменная, 34",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-05T19:27:41.656161+03:00"
+        },
+        {
+          "bidder": "80cdf249160b42daa25ca497ddd02770",
+          "amount": 12963.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679699119",
+                "name": "ТОВ \"Сампринт\"",
+                "email": "170383@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36677330",
+                "legalName": "ТОВ \"Сампринт\""
+              },
+              "name": "ТОВ \"Сампринт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601, м. Київ, вул. Червоноармійська, 13, оф. 405",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-05T13:19:40.426452+03:00"
+        },
+        {
+          "bidder": "15920b15c92f4d4f841d286b5ea2ed4c",
+          "amount": 11099.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://insit.com.ua",
+                "telephone": "+380503840101",
+                "name": "Современные информационные технологии ИНСИТ",
+                "email": "almik@insit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21607462",
+                "legalName": "Современные информационные технологии ИНСИТ"
+              },
+              "name": "Современные информационные технологии ИНСИТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601 Киев, ул.Красноармейская 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-30T15:42:48.064880+03:00"
+        },
+        {
+          "bidder": "460b83827c0c4214a3afcfcdc2b566bd",
+          "amount": 10097.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrpapir.com.ua",
+                "telephone": "+380444685006",
+                "name": "Общество с ограниченной ответственностью  \"Украинский папир\"",
+                "email": "o.krivitchenko@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Общество с ограниченной ответственностью  \"Украинский папир\""
+              },
+              "name": "Общество с ограниченной ответственностью  \"Украинский папир\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 04073, г. Киев, ул. Куреневская, 2Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-06T14:36:52.518539+03:00"
+        },
+        {
+          "bidder": "25d1bf69e2dc48f0a012e1361cb64065",
+          "amount": 10095.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-06T14:38:55.003674+03:00"
+        }
+      ],
+      "time": "2015-05-06T11:39:01.374197+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-05T19:27:41.656161+03:00",
+          "amount": 12999.0,
+          "bidder": "463ffbfa15464e259cb0d804e206b904"
+        },
+        {
+          "date": "2015-05-05T13:19:40.426452+03:00",
+          "amount": 12963.0,
+          "bidder": "80cdf249160b42daa25ca497ddd02770"
+        },
+        {
+          "date": "2015-04-30T15:42:48.064880+03:00",
+          "amount": 11099.0,
+          "bidder": "15920b15c92f4d4f841d286b5ea2ed4c"
+        },
+        {
+          "date": "2015-05-05T18:38:49.423366+03:00",
+          "amount": 11008.0,
+          "bidder": "25d1bf69e2dc48f0a012e1361cb64065"
+        },
+        {
+          "date": "2015-05-05T17:03:12.687365+03:00",
+          "amount": 10422.6,
+          "bidder": "460b83827c0c4214a3afcfcdc2b566bd"
+        }
+      ],
+      "time": "2015-05-06T11:00:00.006207+00:00"
+    }
+  },
+  "id": "02ea71bacf2e42d99fee320a0ae81c1c",
+  "tenderId": "UA-2015-04-28-000005"
+}

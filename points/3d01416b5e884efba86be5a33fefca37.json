@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2abde169a03a4dfab29323a5e1b40b77",
+        "time": "2015-09-18T08:45:00.180912+00:00"
+      },
+      "turn_1": {
+        "bidder": "f445c99925d941b4b6b939376daeeb96",
+        "time": "2015-09-18T08:43:00.157212+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2abde169a03a4dfab29323a5e1b40b77",
+        "time": "2015-09-18T08:51:00.162827+00:00"
+      },
+      "turn_1": {
+        "bidder": "f445c99925d941b4b6b939376daeeb96",
+        "time": "2015-09-18T08:49:00.128720+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f445c99925d941b4b6b939376daeeb96",
+        "time": "2015-09-18T08:39:00.167024+00:00"
+      },
+      "turn_1": {
+        "amount": 9500.0,
+        "bid_time": "2015-09-18T11:35:10.482944+03:00",
+        "bidder": "2abde169a03a4dfab29323a5e1b40b77",
+        "time": "2015-09-18T08:37:00.189062+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f445c99925d941b4b6b939376daeeb96",
+          "amount": 10000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-17T13:43:54.905692+03:00"
+        },
+        {
+          "bidder": "2abde169a03a4dfab29323a5e1b40b77",
+          "amount": 9500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-409-06-19",
+                "telephone": "044-409-06-19",
+                "name": "Лісова Лариса Степанівна",
+                "email": "info@aksept.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38506076",
+                "legalName": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Підлісна, 6 кв.151",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T11:35:10.482944+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:51:30.066860+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T09:21:38.988470+03:00",
+          "amount": 10218.0,
+          "bidder": "2abde169a03a4dfab29323a5e1b40b77"
+        },
+        {
+          "date": "2015-09-17T13:43:54.905692+03:00",
+          "amount": 10000.0,
+          "bidder": "f445c99925d941b4b6b939376daeeb96"
+        }
+      ],
+      "time": "2015-09-18T08:30:00.038232+00:00"
+    }
+  },
+  "id": "3d01416b5e884efba86be5a33fefca37",
+  "tenderId": "UA-2015-09-09-000270"
+}

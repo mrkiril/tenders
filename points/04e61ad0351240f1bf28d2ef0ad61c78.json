@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1c1ebf2b3bbc4ba38a8062849d30c4fe",
+        "time": "2015-08-04T08:47:00.052901+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d8afa4c52ce446ba85d23dcfe3e0545",
+        "time": "2015-08-04T08:49:00.046305+00:00"
+      },
+      "turn_1": {
+        "bidder": "59108b30986547378f0f0aa782178a8c",
+        "time": "2015-08-04T08:45:00.053940+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1c1ebf2b3bbc4ba38a8062849d30c4fe",
+        "time": "2015-08-04T08:55:00.042956+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d8afa4c52ce446ba85d23dcfe3e0545",
+        "time": "2015-08-04T08:57:00.023335+00:00"
+      },
+      "turn_1": {
+        "bidder": "59108b30986547378f0f0aa782178a8c",
+        "time": "2015-08-04T08:53:00.036579+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1c1ebf2b3bbc4ba38a8062849d30c4fe",
+        "time": "2015-08-04T08:39:00.050720+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d8afa4c52ce446ba85d23dcfe3e0545",
+        "time": "2015-08-04T08:41:00.023536+00:00"
+      },
+      "turn_1": {
+        "bidder": "59108b30986547378f0f0aa782178a8c",
+        "time": "2015-08-04T08:37:00.071569+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "59108b30986547378f0f0aa782178a8c",
+          "amount": 19771.91,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.arti.com.ua",
+                "telephone": "+380577575156",
+                "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\"",
+                "email": "dozenkooi@arti.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25185087",
+                "legalName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\""
+              },
+              "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРТИ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61001, г. Харьков,  ул. Плехановская, д.16-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T14:38:58.489111+03:00"
+        },
+        {
+          "bidder": "1c1ebf2b3bbc4ba38a8062849d30c4fe",
+          "amount": 19000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T15:28:09.277278+03:00"
+        },
+        {
+          "bidder": "3d8afa4c52ce446ba85d23dcfe3e0545",
+          "amount": 15984.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.runo.dn.ua",
+                "telephone": "+380502924189",
+                "name": "Общество с ограниченной ответственностью ТД Руно",
+                "email": "info@runo.dn.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35457147",
+                "legalName": "Общество с ограниченной ответственностью ТД Руно"
+              },
+              "name": "Общество с ограниченной ответственностью ТД Руно",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "51400. Украина, Днепропетровская обл. г. Павлоград. ул. Терновская 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T10:43:49.823863+03:00"
+        }
+      ],
+      "time": "2015-08-04T08:57:04.051699+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T14:38:58.489111+03:00",
+          "amount": 19771.91,
+          "bidder": "59108b30986547378f0f0aa782178a8c"
+        },
+        {
+          "date": "2015-07-31T15:28:09.277278+03:00",
+          "amount": 19000.0,
+          "bidder": "1c1ebf2b3bbc4ba38a8062849d30c4fe"
+        },
+        {
+          "date": "2015-08-03T10:43:49.823863+03:00",
+          "amount": 15984.8,
+          "bidder": "3d8afa4c52ce446ba85d23dcfe3e0545"
+        }
+      ],
+      "time": "2015-08-04T08:30:00.008068+00:00"
+    }
+  },
+  "id": "04e61ad0351240f1bf28d2ef0ad61c78",
+  "tenderId": "UA-2015-07-28-000043"
+}

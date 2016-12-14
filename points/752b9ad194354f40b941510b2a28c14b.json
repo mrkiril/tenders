@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "25a9defbfb2c49d0a7e14a613e549b02",
+        "time": "2015-08-17T08:15:00.135324+00:00"
+      },
+      "turn_1": {
+        "bidder": "aa6e727a61814fb199bd1a9a6375dd83",
+        "time": "2015-08-17T08:13:00.138204+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "25a9defbfb2c49d0a7e14a613e549b02",
+        "time": "2015-08-17T08:21:00.037546+00:00"
+      },
+      "turn_1": {
+        "bidder": "aa6e727a61814fb199bd1a9a6375dd83",
+        "time": "2015-08-17T08:19:00.119726+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "25a9defbfb2c49d0a7e14a613e549b02",
+        "time": "2015-08-17T08:09:00.138996+00:00"
+      },
+      "turn_1": {
+        "bidder": "aa6e727a61814fb199bd1a9a6375dd83",
+        "time": "2015-08-17T08:07:00.057371+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "aa6e727a61814fb199bd1a9a6375dd83",
+          "amount": 9960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972780218",
+                "name": "ТОВ \"ШИНА-МОТОР\"",
+                "email": "sspv@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37004723",
+                "legalName": "ТОВ \"ШИНА-МОТОР\""
+              },
+              "name": "ТОВ \"ШИНА-МОТОР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Україна, Дніпропетровська обл., м. Дніпропетровськ, вул. Прохорова, б.40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T10:14:39.008768+03:00"
+        },
+        {
+          "bidder": "25a9defbfb2c49d0a7e14a613e549b02",
+          "amount": 9945.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vikartrade.com.ua",
+                "faxNumber": "0562348000",
+                "telephone": "0672162374",
+                "name": "Карпань Віктор Миколайович",
+                "email": "abc@vikar.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36574296",
+                "legalName": "Товариство з обмеженою відповідальністю \"Вікар трейд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Вікар трейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська",
+                "streetAddress": "Білостоцького 143",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T15:25:31.490035+03:00"
+        }
+      ],
+      "time": "2015-08-17T08:21:11.230122+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-14T10:14:39.008768+03:00",
+          "amount": 9960.0,
+          "bidder": "aa6e727a61814fb199bd1a9a6375dd83"
+        },
+        {
+          "date": "2015-08-14T15:25:31.490035+03:00",
+          "amount": 9945.0,
+          "bidder": "25a9defbfb2c49d0a7e14a613e549b02"
+        }
+      ],
+      "time": "2015-08-17T08:00:00.065588+00:00"
+    }
+  },
+  "id": "752b9ad194354f40b941510b2a28c14b",
+  "tenderId": "UA-2015-08-07-000055"
+}

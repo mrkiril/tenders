@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bd9a2d6cf75246279f5f43e70b8e9bf8",
+        "time": "2015-10-12T10:20:29.006386+00:00"
+      },
+      "turn_1": {
+        "bidder": "8db6c6f85a054fc3ae2e43ac0f316641",
+        "time": "2015-10-12T10:18:29.011453+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bd9a2d6cf75246279f5f43e70b8e9bf8",
+        "time": "2015-10-12T10:26:29.012104+00:00"
+      },
+      "turn_1": {
+        "bidder": "8db6c6f85a054fc3ae2e43ac0f316641",
+        "time": "2015-10-12T10:24:29.013469+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 896000.0,
+        "bid_time": "2015-10-12T13:12:45.872286+03:00",
+        "bidder": "bd9a2d6cf75246279f5f43e70b8e9bf8",
+        "time": "2015-10-12T10:14:29.008680+00:00"
+      },
+      "turn_1": {
+        "amount": 980000.0,
+        "bid_time": "2015-10-12T13:10:54.794061+03:00",
+        "bidder": "8db6c6f85a054fc3ae2e43ac0f316641",
+        "time": "2015-10-12T10:12:29.011934+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8db6c6f85a054fc3ae2e43ac0f316641",
+          "amount": 980000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://euroformat.com/",
+                "faxNumber": "044-459-03-86",
+                "telephone": "044-494-35-35",
+                "name": "Лучицький Вячеслав Борисович",
+                "email": "v.luchytskyi@euroformat.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31724919",
+                "legalName": "Товариство з обмеженою відповідальністю \"Завод Євроформат\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Завод Євроформат\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "вул. Куренівська, 21 літ.Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T13:10:54.794061+03:00"
+        },
+        {
+          "bidder": "bd9a2d6cf75246279f5f43e70b8e9bf8",
+          "amount": 896000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://masterlift.com.ua",
+                "faxNumber": "498-43-32",
+                "telephone": "498-43-32",
+                "name": "Бондар Вячєслав Іванович",
+                "email": "v.i.bondar@masterlift.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33308688",
+                "legalName": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "провулок Куренівський, 17, літера Ш",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T13:12:45.872286+03:00"
+        }
+      ],
+      "time": "2015-10-12T10:26:33.502177+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T10:11:29.519045+03:00",
+          "amount": 1024082.0,
+          "bidder": "8db6c6f85a054fc3ae2e43ac0f316641"
+        },
+        {
+          "date": "2015-10-09T09:36:24.879118+03:00",
+          "amount": 981137.0,
+          "bidder": "bd9a2d6cf75246279f5f43e70b8e9bf8"
+        }
+      ],
+      "time": "2015-10-12T10:05:29.001629+00:00"
+    }
+  },
+  "id": "22bc51faa007469eb4dffd8c03f07f23",
+  "tenderId": "UA-2015-10-07-000399"
+}

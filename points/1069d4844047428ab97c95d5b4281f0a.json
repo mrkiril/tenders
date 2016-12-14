@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "12e7b03f54514b03b54619bddef22560",
+        "time": "2015-09-07T08:17:00.042075+00:00"
+      },
+      "turn_3": {
+        "bidder": "76fc5b87f3b441888ddef7facd7ddd8c",
+        "time": "2015-09-07T08:19:00.048513+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ce9b94febf54c7cb4151ab5f3bc74e8",
+        "time": "2015-09-07T08:15:00.062017+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "12e7b03f54514b03b54619bddef22560",
+        "time": "2015-09-07T08:25:00.044425+00:00"
+      },
+      "turn_3": {
+        "bidder": "76fc5b87f3b441888ddef7facd7ddd8c",
+        "time": "2015-09-07T08:27:00.062223+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ce9b94febf54c7cb4151ab5f3bc74e8",
+        "time": "2015-09-07T08:23:00.034146+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "12e7b03f54514b03b54619bddef22560",
+        "time": "2015-09-07T08:09:00.096097+00:00"
+      },
+      "turn_3": {
+        "bidder": "76fc5b87f3b441888ddef7facd7ddd8c",
+        "time": "2015-09-07T08:11:00.086060+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ce9b94febf54c7cb4151ab5f3bc74e8",
+        "time": "2015-09-07T08:07:00.133442+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5ce9b94febf54c7cb4151ab5f3bc74e8",
+          "amount": 137.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-03T15:15:11.359362+03:00"
+        },
+        {
+          "bidder": "12e7b03f54514b03b54619bddef22560",
+          "amount": 136.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380664075993",
+                "name": "Сергей Сергеевич Булкин",
+                "email": "brabus-set@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3174718150",
+                "legalName": "ФОП \"Булкін Сергій Сергійович\""
+              },
+              "name": "ФОП \"Булкін Сергій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54000",
+                "region": "Николаевская",
+                "streetAddress": "Миколаїв.пров.Піонерський 44",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-09-03T22:11:11.669011+03:00"
+        },
+        {
+          "bidder": "76fc5b87f3b441888ddef7facd7ddd8c",
+          "amount": 125.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380919173625",
+                "name": "ФОП Колісник Олександр Олександрович",
+                "email": "0919173625@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3012216915",
+                "legalName": "ФОП Колісник Олександр Олександрович"
+              },
+              "name": "ФОП Колісник Олександр Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03169 м.Київ, вул. Яблунева, №2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T14:31:12.540418+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:27:11.638734+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T15:15:11.359362+03:00",
+          "amount": 137.0,
+          "bidder": "5ce9b94febf54c7cb4151ab5f3bc74e8"
+        },
+        {
+          "date": "2015-09-03T22:11:11.669011+03:00",
+          "amount": 136.0,
+          "bidder": "12e7b03f54514b03b54619bddef22560"
+        },
+        {
+          "date": "2015-09-03T14:31:12.540418+03:00",
+          "amount": 125.0,
+          "bidder": "76fc5b87f3b441888ddef7facd7ddd8c"
+        }
+      ],
+      "time": "2015-09-07T08:00:00.043130+00:00"
+    }
+  },
+  "id": "1069d4844047428ab97c95d5b4281f0a",
+  "tenderId": "UA-2015-09-02-000168"
+}

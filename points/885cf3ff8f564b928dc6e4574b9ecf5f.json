@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3fab56a0c4e84b6c94122be22453fb4e",
+        "time": "2015-11-02T13:29:48.009242+00:00"
+      },
+      "turn_1": {
+        "bidder": "9faa30a66aaf4b50be8bf839bd0e3cbd",
+        "time": "2015-11-02T13:27:48.007233+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3fab56a0c4e84b6c94122be22453fb4e",
+        "time": "2015-11-02T13:35:48.007096+00:00"
+      },
+      "turn_1": {
+        "bidder": "9faa30a66aaf4b50be8bf839bd0e3cbd",
+        "time": "2015-11-02T13:33:48.006754+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 156886.0,
+        "bid_time": "2015-11-02T15:23:16.698453+02:00",
+        "bidder": "3fab56a0c4e84b6c94122be22453fb4e",
+        "time": "2015-11-02T13:23:48.009353+00:00"
+      },
+      "turn_1": {
+        "amount": 157000.0,
+        "bid_time": "2015-11-02T15:20:00.065557+02:00",
+        "bidder": "9faa30a66aaf4b50be8bf839bd0e3cbd",
+        "time": "2015-11-02T13:21:48.009206+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9faa30a66aaf4b50be8bf839bd0e3cbd",
+          "amount": 157000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alphatelecom.com.ua",
+                "faxNumber": "048719-60-19",
+                "telephone": "048249-50-57",
+                "name": "Болотніков Петро Іванович",
+                "email": "petr@alphatelecom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37109613",
+                "legalName": "Товариство з обмеженою відповідальністю \"АЛЬФАТЕЛЕКОМ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АЛЬФАТЕЛЕКОМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65104",
+                "region": "Одеська",
+                "streetAddress": "Академіка Корольова, 92а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T15:20:00.065557+02:00"
+        },
+        {
+          "bidder": "3fab56a0c4e84b6c94122be22453fb4e",
+          "amount": 156886.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.eurosvyaz.com.ua",
+                "telephone": "+380577142172",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»",
+                "email": "mtv@eurosvyaz.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33119083",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61204, м. Харків, вул. Ахсарова 13, кв. 398",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T15:23:16.698453+02:00"
+        }
+      ],
+      "time": "2015-11-02T13:35:52.716029+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T13:05:43.836994+02:00",
+          "amount": 157200.0,
+          "bidder": "9faa30a66aaf4b50be8bf839bd0e3cbd"
+        },
+        {
+          "date": "2015-10-30T15:26:35.985013+02:00",
+          "amount": 157086.0,
+          "bidder": "3fab56a0c4e84b6c94122be22453fb4e"
+        }
+      ],
+      "time": "2015-11-02T13:14:48.004087+00:00"
+    }
+  },
+  "id": "885cf3ff8f564b928dc6e4574b9ecf5f",
+  "tenderId": "UA-2015-10-23-000060"
+}

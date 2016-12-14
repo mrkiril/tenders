@@ -1,0 +1,294 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "79eeff5e2c0842a2992017954b757ecf",
+        "time": "2015-11-09T10:15:03.011114+00:00"
+      },
+      "turn_4": {
+        "bidder": "c37c063aad854c6ba34f560f63815f0c",
+        "time": "2015-11-09T10:11:03.012186+00:00"
+      },
+      "turn_5": {
+        "bidder": "eaeb060e14c549419fc1a5fe40ab0534",
+        "time": "2015-11-09T10:13:03.008279+00:00"
+      },
+      "turn_2": {
+        "bidder": "46a9413040274101949c94305ca3f983",
+        "time": "2015-11-09T10:07:03.007593+00:00"
+      },
+      "turn_3": {
+        "bidder": "ab211aa53cd3451eb88b79540a25b05d",
+        "time": "2015-11-09T10:09:03.007490+00:00"
+      },
+      "turn_1": {
+        "bidder": "a68186af54db464fb5652e441d04cc17",
+        "time": "2015-11-09T10:05:03.006461+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "79eeff5e2c0842a2992017954b757ecf",
+        "time": "2015-11-09T10:29:03.010946+00:00"
+      },
+      "turn_4": {
+        "bidder": "c37c063aad854c6ba34f560f63815f0c",
+        "time": "2015-11-09T10:25:03.010752+00:00"
+      },
+      "turn_5": {
+        "bidder": "eaeb060e14c549419fc1a5fe40ab0534",
+        "time": "2015-11-09T10:27:03.010479+00:00"
+      },
+      "turn_2": {
+        "bidder": "46a9413040274101949c94305ca3f983",
+        "time": "2015-11-09T10:21:03.010476+00:00"
+      },
+      "turn_3": {
+        "bidder": "ab211aa53cd3451eb88b79540a25b05d",
+        "time": "2015-11-09T10:23:03.007976+00:00"
+      },
+      "turn_1": {
+        "amount": 25740.0,
+        "bid_time": "2015-11-09T12:17:24.164342+02:00",
+        "bidder": "a68186af54db464fb5652e441d04cc17",
+        "time": "2015-11-09T10:19:03.013600+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "79eeff5e2c0842a2992017954b757ecf",
+        "time": "2015-11-09T10:01:03.007853+00:00"
+      },
+      "turn_4": {
+        "bidder": "ab211aa53cd3451eb88b79540a25b05d",
+        "time": "2015-11-09T09:57:03.008195+00:00"
+      },
+      "turn_5": {
+        "bidder": "eaeb060e14c549419fc1a5fe40ab0534",
+        "time": "2015-11-09T09:59:03.007863+00:00"
+      },
+      "turn_2": {
+        "amount": 25870.0,
+        "bid_time": "2015-11-09T11:51:13.756938+02:00",
+        "bidder": "a68186af54db464fb5652e441d04cc17",
+        "time": "2015-11-09T09:53:03.010379+00:00"
+      },
+      "turn_3": {
+        "bidder": "46a9413040274101949c94305ca3f983",
+        "time": "2015-11-09T09:55:03.008014+00:00"
+      },
+      "turn_1": {
+        "amount": 22500.0,
+        "bid_time": "2015-11-09T11:50:56.544329+02:00",
+        "bidder": "c37c063aad854c6ba34f560f63815f0c",
+        "time": "2015-11-09T09:51:03.032882+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a68186af54db464fb5652e441d04cc17",
+          "amount": 25740.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://butsa.ua/",
+                "telephone": "0676567431",
+                "name": "СКРИПКА ГРИГОРІЙ ФЕДОРОВИЧ",
+                "email": "BUH@BUTSA.UA"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38005424",
+                "legalName": "ТОВ УКРЄВРОПОСТАЧ"
+              },
+              "name": "ТОВ УКРЄВРОПОСТАЧ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03150",
+                "region": "Київська",
+                "streetAddress": "ВУЛ. ПРЕДСЛАВИНСЬКА,34Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T12:17:24.164342+02:00"
+        },
+        {
+          "bidder": "46a9413040274101949c94305ca3f983",
+          "amount": 24000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-05T08:57:41.754575+02:00"
+        },
+        {
+          "bidder": "ab211aa53cd3451eb88b79540a25b05d",
+          "amount": 22998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sportmir.dp.ua",
+                "faxNumber": "+380563716989",
+                "telephone": "+380969394637",
+                "name": "БІЛОУС ЮРІЙ ВАСИЛЬОВИЧ",
+                "email": "dneprsportservis@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2201122015"
+              },
+              "name": "ФОП БІЛОУС Ю.В.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "ВУЛ. КОСІОРА БУД. 47-А КВ. 166",
+                "locality": "ДНІПРОПЕТРОВСЬК"
+              }
+            }
+          ],
+          "time": "2015-11-04T01:16:12.763763+02:00"
+        },
+        {
+          "bidder": "c37c063aad854c6ba34f560f63815f0c",
+          "amount": 22500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-09T11:50:56.544329+02:00"
+        },
+        {
+          "bidder": "eaeb060e14c549419fc1a5fe40ab0534",
+          "amount": 16375.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679719191",
+                "name": "Середа Віталій Вікторович",
+                "email": "rentsport@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36865748"
+              },
+              "name": "ТОВ Українська торгово-інвестиційна компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Почайнинська, 28-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-06T13:55:31.125950+02:00"
+        },
+        {
+          "bidder": "79eeff5e2c0842a2992017954b757ecf",
+          "amount": 15748.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977373160",
+                "name": "Бабанський Роман Вікторович",
+                "email": "mangustoff@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2976012147"
+              },
+              "name": "ФОП Овакимян Наталія Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська область",
+                "streetAddress": "Айзербайджанська 8-А, кв. 122",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-06T13:13:26.711312+02:00"
+        }
+      ],
+      "time": "2015-11-09T10:29:07.895323+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T12:53:15.518578+02:00",
+          "amount": 26000.0,
+          "bidder": "a68186af54db464fb5652e441d04cc17"
+        },
+        {
+          "date": "2015-11-05T02:23:48.406552+02:00",
+          "amount": 26000.0,
+          "bidder": "c37c063aad854c6ba34f560f63815f0c"
+        },
+        {
+          "date": "2015-11-05T08:57:41.754575+02:00",
+          "amount": 24000.0,
+          "bidder": "46a9413040274101949c94305ca3f983"
+        },
+        {
+          "date": "2015-11-04T01:16:12.763763+02:00",
+          "amount": 22998.0,
+          "bidder": "ab211aa53cd3451eb88b79540a25b05d"
+        },
+        {
+          "date": "2015-11-06T13:55:31.125950+02:00",
+          "amount": 16375.0,
+          "bidder": "eaeb060e14c549419fc1a5fe40ab0534"
+        },
+        {
+          "date": "2015-11-06T13:13:26.711312+02:00",
+          "amount": 15748.0,
+          "bidder": "79eeff5e2c0842a2992017954b757ecf"
+        }
+      ],
+      "time": "2015-11-09T09:44:03.002364+00:00"
+    }
+  },
+  "id": "5561b5d354f747fe9808a496f6c4a2dc",
+  "tenderId": "UA-2015-10-28-000250"
+}

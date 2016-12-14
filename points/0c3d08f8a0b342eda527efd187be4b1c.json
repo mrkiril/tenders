@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dc91dc955aab42c09569b27003a19e61",
+        "time": "2015-12-09T13:58:07.011307+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef62fcd032b647249c06d1bec6347cbc",
+        "time": "2015-12-09T13:56:07.010589+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dc91dc955aab42c09569b27003a19e61",
+        "time": "2015-12-09T14:04:07.007626+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef62fcd032b647249c06d1bec6347cbc",
+        "time": "2015-12-09T14:02:07.011351+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dc91dc955aab42c09569b27003a19e61",
+        "time": "2015-12-09T13:52:07.012436+00:00"
+      },
+      "turn_1": {
+        "bidder": "ef62fcd032b647249c06d1bec6347cbc",
+        "time": "2015-12-09T13:50:07.025298+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ef62fcd032b647249c06d1bec6347cbc",
+          "amount": 303.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0675023258",
+                "telephone": "0675023258",
+                "name": "Туровець Петро Дмитрович",
+                "email": "uk2005@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2384718812",
+                "legalName": "ФОП Туровець Петро Дмитрович"
+              },
+              "name": "ФОП Туровець Петро Дмитрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07403",
+                "region": "Київська",
+                "streetAddress": "Олімпійська, буд.10-А,кв.8",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:14:40.551631+02:00"
+        },
+        {
+          "bidder": "dc91dc955aab42c09569b27003a19e61",
+          "amount": 300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-292-45-27",
+                "telephone": "044-292-11-46",
+                "name": "Білокриницька Катерина Михайлівна",
+                "email": "mgranat@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21620913",
+                "legalName": "Товариство з обмеженою відповідальністю “Гранат”"
+              },
+              "name": "Товариство з обмеженою відповідальністю “Гранат”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "вул. Краківська, 18-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T15:34:17.155024+02:00"
+        }
+      ],
+      "time": "2015-12-09T14:04:12.858703+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T14:14:40.551631+02:00",
+          "amount": 303.0,
+          "bidder": "ef62fcd032b647249c06d1bec6347cbc"
+        },
+        {
+          "date": "2015-12-08T15:34:17.155024+02:00",
+          "amount": 300.0,
+          "bidder": "dc91dc955aab42c09569b27003a19e61"
+        }
+      ],
+      "time": "2015-12-09T13:43:07.004487+00:00"
+    }
+  },
+  "id": "0c3d08f8a0b342eda527efd187be4b1c",
+  "tenderId": "UA-2015-12-07-000069-b"
+}

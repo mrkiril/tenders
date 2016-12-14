@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 145500.0,
+        "bid_time": "2015-10-26T12:25:23.679853+02:00",
+        "bidder": "b282d9fb4cd449af8e148281e287b7e1",
+        "time": "2015-10-26T10:26:46.010632+00:00"
+      },
+      "turn_1": {
+        "bidder": "09f0f171f1fc4f2fb561466b36e9afd1",
+        "time": "2015-10-26T10:24:46.009964+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 144000.0,
+        "bid_time": "2015-10-26T12:31:14.070359+02:00",
+        "bidder": "b282d9fb4cd449af8e148281e287b7e1",
+        "time": "2015-10-26T10:32:46.013985+00:00"
+      },
+      "turn_1": {
+        "bidder": "09f0f171f1fc4f2fb561466b36e9afd1",
+        "time": "2015-10-26T10:30:46.009945+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "09f0f171f1fc4f2fb561466b36e9afd1",
+        "time": "2015-10-26T10:20:46.009875+00:00"
+      },
+      "turn_1": {
+        "amount": 147000.0,
+        "bid_time": "2015-10-26T12:17:12.676711+02:00",
+        "bidder": "b282d9fb4cd449af8e148281e287b7e1",
+        "time": "2015-10-26T10:18:46.011701+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "09f0f171f1fc4f2fb561466b36e9afd1",
+          "amount": 148000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380342777372",
+                "telephone": "+380662822860",
+                "name": "Горук Сергій Ігорович",
+                "email": "sergij.goruk@pvz.if.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38554931"
+              },
+              "name": "ТОВ Перший віконний завод ІФ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "76010",
+                "region": "Івано-Франківська область",
+                "streetAddress": "вул. Бельведерська 8/1",
+                "locality": "Івано-Франківськ"
+              }
+            }
+          ],
+          "time": "2015-10-24T13:28:23.185295+03:00"
+        },
+        {
+          "bidder": "b282d9fb4cd449af8e148281e287b7e1",
+          "amount": 144000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380936974277",
+                "name": "Ярослав Сливканич",
+                "email": "ol-bud@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"ОЛ-БУД\"",
+                "id": "35490839",
+                "uri": "http://ol-bud.if.ua"
+              },
+              "name": "ПП \"ОЛ-БУД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "77701",
+                "region": "Ивано-Франковская",
+                "streetAddress": "ул.Шевченка , 49-г",
+                "locality": "Богородчани"
+              }
+            }
+          ],
+          "time": "2015-10-26T12:31:14.070359+02:00"
+        }
+      ],
+      "time": "2015-10-26T10:32:49.901788+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T16:16:36.695030+03:00",
+          "amount": 149777.0,
+          "bidder": "b282d9fb4cd449af8e148281e287b7e1"
+        },
+        {
+          "date": "2015-10-24T13:28:23.185295+03:00",
+          "amount": 148000.0,
+          "bidder": "09f0f171f1fc4f2fb561466b36e9afd1"
+        }
+      ],
+      "time": "2015-10-26T10:11:46.001722+00:00"
+    }
+  },
+  "id": "d4c810880dac4c17aba83610730f1946",
+  "tenderId": "UA-2015-10-20-000365"
+}

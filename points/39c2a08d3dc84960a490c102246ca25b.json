@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "63ff2d9456214cd69309ecd5991e476d",
+        "time": "2015-10-08T12:53:01.009004+00:00"
+      },
+      "turn_1": {
+        "bidder": "eeac29904aef41159c06c2d46cd920f2",
+        "time": "2015-10-08T12:51:01.008734+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "63ff2d9456214cd69309ecd5991e476d",
+        "time": "2015-10-08T12:59:01.009017+00:00"
+      },
+      "turn_1": {
+        "bidder": "eeac29904aef41159c06c2d46cd920f2",
+        "time": "2015-10-08T12:57:01.008773+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "63ff2d9456214cd69309ecd5991e476d",
+        "time": "2015-10-08T12:47:01.009149+00:00"
+      },
+      "turn_1": {
+        "bidder": "eeac29904aef41159c06c2d46cd920f2",
+        "time": "2015-10-08T12:45:01.008320+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eeac29904aef41159c06c2d46cd920f2",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676753275",
+                "name": "Кірічок Марина Яківна",
+                "email": "3729292@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2806204751"
+              },
+              "name": "ФОП Браславець Олег Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "20700",
+                "region": "Черкаська область",
+                "streetAddress": "вул.Леніна, 22/8",
+                "locality": "Сміла"
+              }
+            }
+          ],
+          "time": "2015-10-07T14:04:01.146277+03:00"
+        },
+        {
+          "bidder": "63ff2d9456214cd69309ecd5991e476d",
+          "amount": 1989.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0442358788",
+                "telephone": "0503581751",
+                "name": "Максимова Інна Василівна",
+                "email": "maccom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22939887",
+                "legalName": "МПП МАККОМ"
+              },
+              "name": "МПП МАККОМ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01135",
+                "region": "Київська",
+                "streetAddress": "площа Перемоги, 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T13:22:34.113190+03:00"
+        }
+      ],
+      "time": "2015-10-08T12:59:06.240299+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T14:04:01.146277+03:00",
+          "amount": 3500.0,
+          "bidder": "eeac29904aef41159c06c2d46cd920f2"
+        },
+        {
+          "date": "2015-10-07T13:22:34.113190+03:00",
+          "amount": 1989.0,
+          "bidder": "63ff2d9456214cd69309ecd5991e476d"
+        }
+      ],
+      "time": "2015-10-08T12:38:01.003910+00:00"
+    }
+  },
+  "id": "39c2a08d3dc84960a490c102246ca25b",
+  "tenderId": "UA-2015-10-01-000096"
+}

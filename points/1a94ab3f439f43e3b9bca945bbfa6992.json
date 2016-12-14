@@ -1,0 +1,170 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 282.0,
+        "bid_time": "2015-09-23T11:15:27.165721+03:00",
+        "bidder": "ccbfcdf1176641dcad81595ba0de91de",
+        "time": "2015-09-23T08:17:00.063413+00:00"
+      },
+      "turn_3": {
+        "amount": 280.0,
+        "bid_time": "2015-09-23T11:18:12.936741+03:00",
+        "bidder": "f6d7cfa4b5a54c719fe4f46eb2ccf23b",
+        "time": "2015-09-23T08:19:00.149760+00:00"
+      },
+      "turn_1": {
+        "bidder": "290aaaaefa9548508acadce066c64f34",
+        "time": "2015-09-23T08:15:00.219127+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 270.0,
+        "bid_time": "2015-09-23T11:23:21.950726+03:00",
+        "bidder": "ccbfcdf1176641dcad81595ba0de91de",
+        "time": "2015-09-23T08:25:00.073894+00:00"
+      },
+      "turn_3": {
+        "bidder": "f6d7cfa4b5a54c719fe4f46eb2ccf23b",
+        "time": "2015-09-23T08:27:00.074517+00:00"
+      },
+      "turn_1": {
+        "bidder": "290aaaaefa9548508acadce066c64f34",
+        "time": "2015-09-23T08:23:00.085319+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 294.0,
+        "bid_time": "2015-09-23T11:07:52.350893+03:00",
+        "bidder": "f6d7cfa4b5a54c719fe4f46eb2ccf23b",
+        "time": "2015-09-23T08:09:00.157867+00:00"
+      },
+      "turn_3": {
+        "bidder": "290aaaaefa9548508acadce066c64f34",
+        "time": "2015-09-23T08:11:00.143179+00:00"
+      },
+      "turn_1": {
+        "amount": 300.0,
+        "bid_time": "2015-09-23T11:05:12.093048+03:00",
+        "bidder": "ccbfcdf1176641dcad81595ba0de91de",
+        "time": "2015-09-23T08:07:00.215381+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "290aaaaefa9548508acadce066c64f34",
+          "amount": 310.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kotefi.com",
+                "faxNumber": "4892633",
+                "telephone": "5680541",
+                "name": "Грамарчук Юрій Олександрович",
+                "email": "it.kotefi@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25390769",
+                "legalName": "Приватне підприємство \"КОТЕФІ\""
+              },
+              "name": "Приватне підприємство \"КОТЕФІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04116",
+                "region": "Київська",
+                "streetAddress": "вул. Ванди Василевської, 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T15:56:25.389083+03:00"
+        },
+        {
+          "bidder": "f6d7cfa4b5a54c719fe4f46eb2ccf23b",
+          "amount": 280.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "Http://www.bqk.kiev.ua",
+                "faxNumber": "044-277-47-59",
+                "telephone": "044-277-47-59",
+                "name": "Кунгурова Ольга Вікторівна",
+                "email": "kungurova-olga@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30300419",
+                "legalName": "Мале приватне підприємство \"Будкваліфкадри\""
+              },
+              "name": "Мале приватне підприємство \"Будкваліфкадри\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03056",
+                "region": "Київська",
+                "streetAddress": "провулок Ковальський, 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T11:18:12.936741+03:00"
+        },
+        {
+          "bidder": "ccbfcdf1176641dcad81595ba0de91de",
+          "amount": 270.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukk.kiev.ua/",
+                "faxNumber": "400-01-36",
+                "telephone": "097-664-86-75",
+                "name": "Тарчук Николай Петрович",
+                "email": "manager@ukk.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "03363465",
+                "legalName": "Комунальне Підприємство \"Київжитлоспецексплуатация\" Учбово-Курсовий Комбінат"
+              },
+              "name": "Комунальне Підприємство \"Київжитлоспецексплуатация\" Учбово-Курсовий Комбінат",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03190",
+                "region": "Київська",
+                "streetAddress": "вул. Баумана, 32",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T11:23:21.950726+03:00"
+        }
+      ],
+      "time": "2015-09-23T08:27:05.461976+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-21T10:22:33.993397+03:00",
+          "amount": 320.0,
+          "bidder": "ccbfcdf1176641dcad81595ba0de91de"
+        },
+        {
+          "date": "2015-09-22T06:25:51.689685+03:00",
+          "amount": 312.0,
+          "bidder": "f6d7cfa4b5a54c719fe4f46eb2ccf23b"
+        },
+        {
+          "date": "2015-09-22T15:56:25.389083+03:00",
+          "amount": 310.0,
+          "bidder": "290aaaaefa9548508acadce066c64f34"
+        }
+      ],
+      "time": "2015-09-23T08:00:00.077259+00:00"
+    }
+  },
+  "id": "1a94ab3f439f43e3b9bca945bbfa6992",
+  "tenderId": "UA-2015-09-17-000082"
+}

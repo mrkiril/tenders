@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "467e80a07e7a440ea8fea769ef96fba2",
+        "time": "2015-09-14T09:15:00.069486+00:00"
+      },
+      "turn_1": {
+        "bidder": "6e11d7da480841438e6cd9b97ddd8c80",
+        "time": "2015-09-14T09:13:00.054358+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "467e80a07e7a440ea8fea769ef96fba2",
+        "time": "2015-09-14T09:21:00.029720+00:00"
+      },
+      "turn_1": {
+        "bidder": "6e11d7da480841438e6cd9b97ddd8c80",
+        "time": "2015-09-14T09:19:00.018684+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "467e80a07e7a440ea8fea769ef96fba2",
+        "time": "2015-09-14T09:09:00.026168+00:00"
+      },
+      "turn_1": {
+        "bidder": "6e11d7da480841438e6cd9b97ddd8c80",
+        "time": "2015-09-14T09:07:00.018959+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6e11d7da480841438e6cd9b97ddd8c80",
+          "amount": 13900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interresurs.com.ua",
+                "telephone": "+380969977347",
+                "name": "ТОВ \"ІК ІнтерРесурс\"",
+                "email": "interresurs2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39531475",
+                "legalName": "ТОВ \"ІК ІнтерРесурс\""
+              },
+              "name": "ТОВ \"ІК ІнтерРесурс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03179 м. Київ вул. Миколи Ушакова буд. 16-А кв. 35",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T12:40:52.152722+03:00"
+        },
+        {
+          "bidder": "467e80a07e7a440ea8fea769ef96fba2",
+          "amount": 13300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-09T14:30:40.285601+03:00"
+        }
+      ],
+      "time": "2015-09-14T09:21:04.385275+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T12:40:52.152722+03:00",
+          "amount": 13900.0,
+          "bidder": "6e11d7da480841438e6cd9b97ddd8c80"
+        },
+        {
+          "date": "2015-09-09T14:30:40.285601+03:00",
+          "amount": 13300.0,
+          "bidder": "467e80a07e7a440ea8fea769ef96fba2"
+        }
+      ],
+      "time": "2015-09-14T09:00:00.020226+00:00"
+    }
+  },
+  "id": "4155a13c56974444827c1bfd0bca0ff4",
+  "tenderId": "UA-2015-09-03-000035"
+}

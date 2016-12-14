@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1df8ac6cad824981919c11587684c21e",
+        "time": "2015-11-11T13:27:15.010848+00:00"
+      },
+      "turn_3": {
+        "bidder": "fce0a9fd3ac24244893b0aed470bce47",
+        "time": "2015-11-11T13:29:15.018717+00:00"
+      },
+      "turn_1": {
+        "bidder": "21d6ab3ad06f4007a09eb375c551021b",
+        "time": "2015-11-11T13:25:15.009082+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1df8ac6cad824981919c11587684c21e",
+        "time": "2015-11-11T13:35:15.008219+00:00"
+      },
+      "turn_3": {
+        "bidder": "fce0a9fd3ac24244893b0aed470bce47",
+        "time": "2015-11-11T13:37:15.008929+00:00"
+      },
+      "turn_1": {
+        "bidder": "21d6ab3ad06f4007a09eb375c551021b",
+        "time": "2015-11-11T13:33:15.008329+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 790.0,
+        "bid_time": "2015-11-11T15:18:54.823938+02:00",
+        "bidder": "fce0a9fd3ac24244893b0aed470bce47",
+        "time": "2015-11-11T13:19:15.013052+00:00"
+      },
+      "turn_3": {
+        "bidder": "1df8ac6cad824981919c11587684c21e",
+        "time": "2015-11-11T13:21:15.009140+00:00"
+      },
+      "turn_1": {
+        "bidder": "21d6ab3ad06f4007a09eb375c551021b",
+        "time": "2015-11-11T13:17:15.009330+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "21d6ab3ad06f4007a09eb375c551021b",
+          "amount": 1350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380986986426, +380443611717",
+                "name": "Вадим Стадник",
+                "email": "info@robotun.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39079675",
+                "legalName": "ТОВ \"Роботун Про\""
+              },
+              "name": "ТОВ \"Роботун Про\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04070",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Спасская, 31-Б, офис 102",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-08T15:55:02.706862+02:00"
+        },
+        {
+          "bidder": "1df8ac6cad824981919c11587684c21e",
+          "amount": 799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380932951154",
+                "name": "Александр Алексеевич",
+                "email": "1001drib@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19171498",
+                "legalName": "ТОВ \"1001дрібниця\""
+              },
+              "name": "ТОВ \"1001дрібниця\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61000",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "г.Харьков, ул. Котлова 106"
+              }
+            }
+          ],
+          "time": "2015-11-09T16:31:46.153597+02:00"
+        },
+        {
+          "bidder": "fce0a9fd3ac24244893b0aed470bce47",
+          "amount": 790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380971659140",
+                "name": "Топчий Валерий",
+                "email": "valeriy.topchiy@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2241015276",
+                "legalName": "ФОП \"Топчий\""
+              },
+              "name": "ФОП \"Топчий\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52600",
+                "region": "Днепропетровская",
+                "streetAddress": "п. Васильковка ул. Воровского 11",
+                "locality": "Украина"
+              }
+            }
+          ],
+          "time": "2015-11-11T15:18:54.823938+02:00"
+        }
+      ],
+      "time": "2015-11-11T13:37:21.646048+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-08T15:55:02.706862+02:00",
+          "amount": 1350.0,
+          "bidder": "21d6ab3ad06f4007a09eb375c551021b"
+        },
+        {
+          "date": "2015-11-09T23:14:31.252660+02:00",
+          "amount": 1000.0,
+          "bidder": "fce0a9fd3ac24244893b0aed470bce47"
+        },
+        {
+          "date": "2015-11-09T16:31:46.153597+02:00",
+          "amount": 799.0,
+          "bidder": "1df8ac6cad824981919c11587684c21e"
+        }
+      ],
+      "time": "2015-11-11T13:10:15.004752+00:00"
+    }
+  },
+  "id": "182f97e1171942b9be8cfc080e8296c0",
+  "tenderId": "UA-2015-11-03-000292"
+}

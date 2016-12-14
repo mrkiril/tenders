@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a6aa74e8bdc34288885f304444463ffc",
+        "time": "2015-12-08T11:22:49.018177+00:00"
+      },
+      "turn_1": {
+        "bidder": "a768aceea228430ebd3bb6892754e170",
+        "time": "2015-12-08T11:20:49.009581+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a6aa74e8bdc34288885f304444463ffc",
+        "time": "2015-12-08T11:28:49.008892+00:00"
+      },
+      "turn_1": {
+        "bidder": "a768aceea228430ebd3bb6892754e170",
+        "time": "2015-12-08T11:26:49.007984+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a6aa74e8bdc34288885f304444463ffc",
+        "time": "2015-12-08T11:16:49.007988+00:00"
+      },
+      "turn_1": {
+        "bidder": "a768aceea228430ebd3bb6892754e170",
+        "time": "2015-12-08T11:14:49.008665+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a768aceea228430ebd3bb6892754e170",
+          "amount": 11800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675000335",
+                "name": "Парадюк Вікторія Миколаївна",
+                "email": "paraduk.v@expressapteka.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38916982"
+              },
+              "name": "ТОВ АПТЕКА ЕКСПРЕС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03189",
+                "region": "Київська область",
+                "streetAddress": "вул. Академіка Вільямса 13 корп. 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:29:43.161231+02:00"
+        },
+        {
+          "bidder": "a6aa74e8bdc34288885f304444463ffc",
+          "amount": 11784.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T14:02:19.498674+02:00"
+        }
+      ],
+      "time": "2015-12-08T11:28:50.227097+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T14:29:43.161231+02:00",
+          "amount": 11800.0,
+          "bidder": "a768aceea228430ebd3bb6892754e170"
+        },
+        {
+          "date": "2015-12-07T14:02:19.498674+02:00",
+          "amount": 11784.2,
+          "bidder": "a6aa74e8bdc34288885f304444463ffc"
+        }
+      ],
+      "time": "2015-12-08T11:07:49.001806+00:00"
+    }
+  },
+  "id": "3880b9e5d4bc469d818caf9948fccc5b",
+  "tenderId": "UA-2015-11-30-000026"
+}

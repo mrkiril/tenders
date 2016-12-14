@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7ed066e2c3f94af9b241103f3e653a83",
+        "time": "2015-10-05T10:54:06.009480+00:00"
+      },
+      "turn_1": {
+        "bidder": "907552a8bdf545958fab8d9b0aac0db7",
+        "time": "2015-10-05T10:52:06.006568+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7ed066e2c3f94af9b241103f3e653a83",
+        "time": "2015-10-05T11:00:06.005661+00:00"
+      },
+      "turn_1": {
+        "bidder": "907552a8bdf545958fab8d9b0aac0db7",
+        "time": "2015-10-05T10:58:06.006482+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "907552a8bdf545958fab8d9b0aac0db7",
+        "time": "2015-10-05T10:48:06.007257+00:00"
+      },
+      "turn_1": {
+        "amount": 65100.0,
+        "bid_time": "2015-10-05T13:45:06.549807+03:00",
+        "bidder": "7ed066e2c3f94af9b241103f3e653a83",
+        "time": "2015-10-05T10:46:06.008740+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "907552a8bdf545958fab8d9b0aac0db7",
+          "amount": 66000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pkk-unitech.com/",
+                "telephone": "+380487374751",
+                "name": "Промышленно-коммерческая компания  \"Унитех\"",
+                "email": "pkk.unitech@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37350199",
+                "legalName": "Промышленно-коммерческая компания  \"Унитех\""
+              },
+              "name": "Промышленно-коммерческая компания  \"Унитех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Стара Люстдорфська дорога, 20Б, сщ/рада Таїровська, Овідіопольський р-н, Одеська обл., 65496",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T11:09:00.698895+03:00"
+        },
+        {
+          "bidder": "7ed066e2c3f94af9b241103f3e653a83",
+          "amount": 65100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pkk-unitech.com",
+                "faxNumber": "0482-37-02-62",
+                "telephone": "0482-37-02-62",
+                "name": "Бугай Ігор Анатолійович",
+                "email": "pkk.unitech@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37350199",
+                "legalName": "ТОВ \"Виробничо-комерційна компанія \"УНІТЕХ\""
+              },
+              "name": "ТОВ \"Виробничо-комерційна компанія \"УНІТЕХ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65496",
+                "region": "Одеська",
+                "streetAddress": "вулиця Стара Люстдорфська дорога, 20Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T13:45:06.549807+03:00"
+        }
+      ],
+      "time": "2015-10-05T11:00:13.585367+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T11:09:00.698895+03:00",
+          "amount": 66000.0,
+          "bidder": "907552a8bdf545958fab8d9b0aac0db7"
+        },
+        {
+          "date": "2015-09-30T11:17:12.936771+03:00",
+          "amount": 66000.0,
+          "bidder": "7ed066e2c3f94af9b241103f3e653a83"
+        }
+      ],
+      "time": "2015-10-05T10:39:06.003308+00:00"
+    }
+  },
+  "id": "09281d736212440da83ec5bdf2a3c2d4",
+  "tenderId": "UA-2015-09-23-000332"
+}

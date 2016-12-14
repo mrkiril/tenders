@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a7a947a18a754f95ba4975768bf5ac44",
+        "time": "2015-12-15T10:51:05.008041+00:00"
+      },
+      "turn_1": {
+        "bidder": "2db0ab02f06945f39ab16a9958a4c270",
+        "time": "2015-12-15T10:49:05.009681+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a7a947a18a754f95ba4975768bf5ac44",
+        "time": "2015-12-15T10:57:05.007992+00:00"
+      },
+      "turn_1": {
+        "bidder": "2db0ab02f06945f39ab16a9958a4c270",
+        "time": "2015-12-15T10:55:05.008094+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a7a947a18a754f95ba4975768bf5ac44",
+        "time": "2015-12-15T10:45:05.008664+00:00"
+      },
+      "turn_1": {
+        "bidder": "2db0ab02f06945f39ab16a9958a4c270",
+        "time": "2015-12-15T10:43:05.009368+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2db0ab02f06945f39ab16a9958a4c270",
+          "amount": 13062.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sirius.ua",
+                "faxNumber": "044-401-01-51",
+                "telephone": "044-331-888-0",
+                "name": "Удовенко Валерія Валентинівна",
+                "email": "408@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32344175",
+                "legalName": "Приватне підприємство \"СІРІУС\""
+              },
+              "name": "Приватне підприємство \"СІРІУС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03061",
+                "region": "Київська",
+                "streetAddress": "Вул. Одеська, буд. 14",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T17:26:10.163779+02:00"
+        },
+        {
+          "bidder": "a7a947a18a754f95ba4975768bf5ac44",
+          "amount": 13000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445319363",
+                "name": "Любов",
+                "email": "tjmakar@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37153018",
+                "legalName": "ПП \"ШЕРИФ-ЗАХИСТ\""
+              },
+              "name": "ПП \"ШЕРИФ-ЗАХИСТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "Поліська 22, к.126",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-14T09:36:10.556637+02:00"
+        }
+      ],
+      "time": "2015-12-15T10:57:05.952784+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T17:26:10.163779+02:00",
+          "amount": 13062.0,
+          "bidder": "2db0ab02f06945f39ab16a9958a4c270"
+        },
+        {
+          "date": "2015-12-14T09:36:10.556637+02:00",
+          "amount": 13000.0,
+          "bidder": "a7a947a18a754f95ba4975768bf5ac44"
+        }
+      ],
+      "time": "2015-12-15T10:36:05.004280+00:00"
+    }
+  },
+  "id": "62b320b58a64457ca3468db0f7116f58",
+  "tenderId": "UA-2015-12-11-000012-a"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1e4e61aae06c4f878cc19736935fff56",
+        "time": "2015-12-14T09:25:51.015970+00:00"
+      },
+      "turn_1": {
+        "bidder": "e884fcad70174ddcb65ef8f31de83e35",
+        "time": "2015-12-14T09:23:51.010383+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1e4e61aae06c4f878cc19736935fff56",
+        "time": "2015-12-14T09:31:51.013843+00:00"
+      },
+      "turn_1": {
+        "bidder": "e884fcad70174ddcb65ef8f31de83e35",
+        "time": "2015-12-14T09:29:51.009796+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1e4e61aae06c4f878cc19736935fff56",
+        "time": "2015-12-14T09:19:51.011695+00:00"
+      },
+      "turn_1": {
+        "bidder": "e884fcad70174ddcb65ef8f31de83e35",
+        "time": "2015-12-14T09:17:51.010398+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e884fcad70174ddcb65ef8f31de83e35",
+          "amount": 238.44,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uaz-upi.com",
+                "telephone": "+380443905678",
+                "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+                "email": "Popovich@uaz-upi.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33541399",
+                "legalName": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\""
+              },
+              "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Горлівська 226/228",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T13:44:46.826308+02:00"
+        },
+        {
+          "bidder": "1e4e61aae06c4f878cc19736935fff56",
+          "amount": 182.88,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://arlanda.com.ua/",
+                "faxNumber": "0444500745",
+                "telephone": "0445013759",
+                "name": "Евтеев Валерий Валентинович",
+                "email": "arlanda@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39123425",
+                "legalName": "ТОВ ТД Арланда"
+              },
+              "name": "ТОВ ТД Арланда",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Святошинська,20",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T08:51:43.181625+02:00"
+        }
+      ],
+      "time": "2015-12-14T09:31:53.236066+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T13:44:46.826308+02:00",
+          "amount": 238.44,
+          "bidder": "e884fcad70174ddcb65ef8f31de83e35"
+        },
+        {
+          "date": "2015-12-10T08:51:43.181625+02:00",
+          "amount": 182.88,
+          "bidder": "1e4e61aae06c4f878cc19736935fff56"
+        }
+      ],
+      "time": "2015-12-14T09:10:51.003927+00:00"
+    }
+  },
+  "id": "1309435fef714f4d8c7e70276fc779f6",
+  "tenderId": "UA-2015-12-02-000154"
+}

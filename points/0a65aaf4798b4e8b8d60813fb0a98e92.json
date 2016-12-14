@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 188.0,
+        "bid_time": "2015-11-05T12:27:22.701947+02:00",
+        "bidder": "2af9d6fdfc96418b84dfb93de6f369fc",
+        "time": "2015-11-05T10:28:00.008998+00:00"
+      },
+      "turn_1": {
+        "amount": 194.0,
+        "bid_time": "2015-11-05T12:24:13.352370+02:00",
+        "bidder": "b7ac9fb9d2334c5882af2172cc746402",
+        "time": "2015-11-05T10:26:00.009379+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2af9d6fdfc96418b84dfb93de6f369fc",
+        "time": "2015-11-05T10:34:00.010854+00:00"
+      },
+      "turn_1": {
+        "bidder": "b7ac9fb9d2334c5882af2172cc746402",
+        "time": "2015-11-05T10:32:00.007616+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2af9d6fdfc96418b84dfb93de6f369fc",
+        "time": "2015-11-05T10:22:00.008305+00:00"
+      },
+      "turn_1": {
+        "bidder": "b7ac9fb9d2334c5882af2172cc746402",
+        "time": "2015-11-05T10:20:00.007724+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b7ac9fb9d2334c5882af2172cc746402",
+          "amount": 194.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T12:24:13.352370+02:00"
+        },
+        {
+          "bidder": "2af9d6fdfc96418b84dfb93de6f369fc",
+          "amount": 188.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T12:27:22.701947+02:00"
+        }
+      ],
+      "time": "2015-11-05T10:34:01.969997+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T13:27:47.977603+02:00",
+          "amount": 219.0,
+          "bidder": "b7ac9fb9d2334c5882af2172cc746402"
+        },
+        {
+          "date": "2015-11-03T13:51:29.282023+02:00",
+          "amount": 195.0,
+          "bidder": "2af9d6fdfc96418b84dfb93de6f369fc"
+        }
+      ],
+      "time": "2015-11-05T10:13:00.002202+00:00"
+    }
+  },
+  "id": "0a65aaf4798b4e8b8d60813fb0a98e92",
+  "tenderId": "UA-2015-10-30-000255"
+}

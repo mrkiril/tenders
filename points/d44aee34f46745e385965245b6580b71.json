@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aaafd64ba9794f7fb0dc825d9c2b3cee",
+        "time": "2015-09-23T08:17:00.240855+00:00"
+      },
+      "turn_3": {
+        "bidder": "c031eac425d140d081c3b18d3a41b3a5",
+        "time": "2015-09-23T08:19:00.123057+00:00"
+      },
+      "turn_1": {
+        "bidder": "45471e5e6dc5475a8e4549891b69da7b",
+        "time": "2015-09-23T08:15:00.117072+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aaafd64ba9794f7fb0dc825d9c2b3cee",
+        "time": "2015-09-23T08:25:00.144527+00:00"
+      },
+      "turn_3": {
+        "bidder": "c031eac425d140d081c3b18d3a41b3a5",
+        "time": "2015-09-23T08:27:00.158286+00:00"
+      },
+      "turn_1": {
+        "bidder": "45471e5e6dc5475a8e4549891b69da7b",
+        "time": "2015-09-23T08:23:00.067847+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 8995000.0,
+        "bid_time": "2015-09-23T11:08:17.352135+03:00",
+        "bidder": "c031eac425d140d081c3b18d3a41b3a5",
+        "time": "2015-09-23T08:09:00.059032+00:00"
+      },
+      "turn_3": {
+        "bidder": "45471e5e6dc5475a8e4549891b69da7b",
+        "time": "2015-09-23T08:11:00.276622+00:00"
+      },
+      "turn_1": {
+        "amount": 9000000.0,
+        "bid_time": "2015-09-23T11:05:18.407486+03:00",
+        "bidder": "aaafd64ba9794f7fb0dc825d9c2b3cee",
+        "time": "2015-09-23T08:07:00.102572+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "45471e5e6dc5475a8e4549891b69da7b",
+          "amount": 9249900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T14:04:13.302100+03:00"
+        },
+        {
+          "bidder": "aaafd64ba9794f7fb0dc825d9c2b3cee",
+          "amount": 9000000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677247608",
+                "name": "Тарас Юськів",
+                "email": "tyuskiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23965846",
+                "legalName": "ПВТП \"Акрополіс\""
+              },
+              "name": "ПВТП \"Акрополіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79018",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Залізнична,18",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-09-23T11:05:18.407486+03:00"
+        },
+        {
+          "bidder": "c031eac425d140d081c3b18d3a41b3a5",
+          "amount": 8995000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.kiev.ua",
+                "telephone": "+380502643178",
+                "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+                "email": "tornado.uvi@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21582561",
+                "legalName": "Общество с ограниченой ответственностью \"Торнадо\""
+              },
+              "name": "Общество с ограниченой ответственностью \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074,  г. Киев, ул. Сокальськая, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T11:08:17.352135+03:00"
+        }
+      ],
+      "time": "2015-09-23T08:27:18.782633+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T14:48:32.697213+03:00",
+          "amount": 9395100.0,
+          "bidder": "aaafd64ba9794f7fb0dc825d9c2b3cee"
+        },
+        {
+          "date": "2015-09-22T14:04:13.302100+03:00",
+          "amount": 9249900.0,
+          "bidder": "45471e5e6dc5475a8e4549891b69da7b"
+        },
+        {
+          "date": "2015-09-22T14:04:19.554613+03:00",
+          "amount": 9249900.0,
+          "bidder": "c031eac425d140d081c3b18d3a41b3a5"
+        }
+      ],
+      "time": "2015-09-23T08:00:00.104611+00:00"
+    }
+  },
+  "id": "d44aee34f46745e385965245b6580b71",
+  "tenderId": "UA-2015-09-09-000145"
+}

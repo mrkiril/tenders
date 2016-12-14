@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9b0f9ded3aec485ea2c19e91b722f5c5",
+        "time": "2015-09-03T08:15:00.141637+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6eeb0931f894ef18fc89b310d431743",
+        "time": "2015-09-03T08:13:00.129002+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9b0f9ded3aec485ea2c19e91b722f5c5",
+        "time": "2015-09-03T08:21:00.144304+00:00"
+      },
+      "turn_1": {
+        "amount": 19000.0,
+        "bid_time": "2015-09-03T11:18:17.635434+03:00",
+        "bidder": "b6eeb0931f894ef18fc89b310d431743",
+        "time": "2015-09-03T08:19:00.106543+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9b0f9ded3aec485ea2c19e91b722f5c5",
+        "time": "2015-09-03T08:09:00.077656+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6eeb0931f894ef18fc89b310d431743",
+        "time": "2015-09-03T08:07:00.100094+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9b0f9ded3aec485ea2c19e91b722f5c5",
+          "amount": 19925.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interresurs.com.ua",
+                "telephone": "+380969977347",
+                "name": "ТОВ \"ІК ІнтерРесурс\"",
+                "email": "interresurs2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39531475",
+                "legalName": "ТОВ \"ІК ІнтерРесурс\""
+              },
+              "name": "ТОВ \"ІК ІнтерРесурс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03179 м. Київ вул. Миколи Ушакова буд. 16-А кв. 35",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-02T11:06:13.107937+03:00"
+        },
+        {
+          "bidder": "b6eeb0931f894ef18fc89b310d431743",
+          "amount": 19000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meranova.com.ua",
+                "telephone": "+380577281365",
+                "name": "Мера Нова",
+                "email": "gevrasov@meranova.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36455879",
+                "legalName": "Мера Нова"
+              },
+              "name": "Мера Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61052, Украина, г. Харьков, \r\nпер. Симферопольский 6, оф. 702/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T11:18:17.635434+03:00"
+        }
+      ],
+      "time": "2015-09-03T08:21:06.074829+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-01T19:01:02.194195+03:00",
+          "amount": 29000.0,
+          "bidder": "b6eeb0931f894ef18fc89b310d431743"
+        },
+        {
+          "date": "2015-09-02T11:06:13.107937+03:00",
+          "amount": 19925.0,
+          "bidder": "9b0f9ded3aec485ea2c19e91b722f5c5"
+        }
+      ],
+      "time": "2015-09-03T08:00:00.032640+00:00"
+    }
+  },
+  "id": "adbbda92bdd64a7d93ea996c0e4fb294",
+  "tenderId": "UA-2015-08-26-000036"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dbfc4f9cc3474e18ba2e309ba72f9bac",
+        "time": "2015-07-27T09:45:00.033846+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebf4d0b125934d2192ed6d6f074d986b",
+        "time": "2015-07-27T09:43:00.092766+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dbfc4f9cc3474e18ba2e309ba72f9bac",
+        "time": "2015-07-27T09:51:00.041848+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebf4d0b125934d2192ed6d6f074d986b",
+        "time": "2015-07-27T09:49:00.040193+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dbfc4f9cc3474e18ba2e309ba72f9bac",
+        "time": "2015-07-27T09:39:00.056205+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebf4d0b125934d2192ed6d6f074d986b",
+        "time": "2015-07-27T09:37:00.026266+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ebf4d0b125934d2192ed6d6f074d986b",
+          "amount": 7261.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380612129630",
+                "name": "Фізична особа-підприємець Галич Сергій Іванович",
+                "email": "lakokraski68@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2499510439",
+                "legalName": "Фізична особа-підприємець Галич Сергій Іванович"
+              },
+              "name": "Фізична особа-підприємець Галич Сергій Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69068, Запорізька обл., місто Запоріжжя, вулиця Кругова, будинок 132, квартира 32",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-24T13:27:07.906116+03:00"
+        },
+        {
+          "bidder": "dbfc4f9cc3474e18ba2e309ba72f9bac",
+          "amount": 7130.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooorit.com",
+                "telephone": "+380679378294",
+                "name": "ТОВ РІТ",
+                "email": "rit22@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32242883",
+                "legalName": "ТОВ РІТ"
+              },
+              "name": "ТОВ РІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69035 м. Запоріжжя вул. Лермонтова буд. 14 кв. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-22T16:54:36.549590+03:00"
+        }
+      ],
+      "time": "2015-07-27T09:51:00.899700+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-24T13:27:07.906116+03:00",
+          "amount": 7261.2,
+          "bidder": "ebf4d0b125934d2192ed6d6f074d986b"
+        },
+        {
+          "date": "2015-07-22T16:54:36.549590+03:00",
+          "amount": 7130.5,
+          "bidder": "dbfc4f9cc3474e18ba2e309ba72f9bac"
+        }
+      ],
+      "time": "2015-07-27T09:30:00.011750+00:00"
+    }
+  },
+  "id": "b4c9c5fdd41a4a54a566f79d51190a87",
+  "tenderId": "UA-2015-07-22-000084"
+}

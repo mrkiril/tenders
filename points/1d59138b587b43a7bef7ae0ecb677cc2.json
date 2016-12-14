@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ca3af495a76e4135b679b6a966c00a19",
+        "time": "2015-11-12T12:24:51.006848+00:00"
+      },
+      "turn_1": {
+        "bidder": "9eae184403094cd98c7e3236d24736c1",
+        "time": "2015-11-12T12:22:51.021896+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ca3af495a76e4135b679b6a966c00a19",
+        "time": "2015-11-12T12:30:51.031681+00:00"
+      },
+      "turn_1": {
+        "bidder": "9eae184403094cd98c7e3236d24736c1",
+        "time": "2015-11-12T12:28:51.008120+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9eae184403094cd98c7e3236d24736c1",
+        "time": "2015-11-12T12:18:51.009304+00:00"
+      },
+      "turn_1": {
+        "amount": 3045425.0,
+        "bid_time": "2015-11-12T14:16:03.022243+02:00",
+        "bidder": "ca3af495a76e4135b679b6a966c00a19",
+        "time": "2015-11-12T12:16:51.009380+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9eae184403094cd98c7e3236d24736c1",
+          "amount": 3079170.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487298224, +380482336009",
+                "name": "Галіна Каурова",
+                "email": "blasdari@optima.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "011281100",
+                "legalName": "ДП \"ЧОРНОМОРНДІПРОЕКТ\""
+              },
+              "name": "ДП \"ЧОРНОМОРНДІПРОЕКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65058",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, пр-т Шевченка, 12",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-11T16:37:13.419406+02:00"
+        },
+        {
+          "bidder": "ca3af495a76e4135b679b6a966c00a19",
+          "amount": 3045425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Николай",
+                "email": "gt.zakupki@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25033733",
+                "legalName": "ТОВ \"ГТ ПРОЕКТ-УКРАЇНА\""
+              },
+              "name": "ТОВ \"ГТ ПРОЕКТ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65058",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:16:03.022243+02:00"
+        }
+      ],
+      "time": "2015-11-12T12:30:53.043907+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T11:08:21.774630+02:00",
+          "amount": 3103757.83,
+          "bidder": "ca3af495a76e4135b679b6a966c00a19"
+        },
+        {
+          "date": "2015-11-11T16:37:13.419406+02:00",
+          "amount": 3079170.0,
+          "bidder": "9eae184403094cd98c7e3236d24736c1"
+        }
+      ],
+      "time": "2015-11-12T12:09:51.003852+00:00"
+    }
+  },
+  "id": "1d59138b587b43a7bef7ae0ecb677cc2",
+  "tenderId": "UA-2015-11-04-000354"
+}

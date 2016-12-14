@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "d0a8c560a6884363ba09d9326e868068",
+        "time": "2015-11-11T11:05:41.019255+00:00"
+      },
+      "turn_2": {
+        "bidder": "c1ad5b6dbc444530b6ace01ab2f653b5",
+        "time": "2015-11-11T11:01:41.010970+00:00"
+      },
+      "turn_3": {
+        "bidder": "b838f082585b4539bf5e5ffbd3905fd9",
+        "time": "2015-11-11T11:03:41.010595+00:00"
+      },
+      "turn_1": {
+        "bidder": "df289a82b197450f99fc3f56d00c2f27",
+        "time": "2015-11-11T10:59:41.006499+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "d0a8c560a6884363ba09d9326e868068",
+        "time": "2015-11-11T11:15:41.010676+00:00"
+      },
+      "turn_2": {
+        "bidder": "c1ad5b6dbc444530b6ace01ab2f653b5",
+        "time": "2015-11-11T11:11:41.013029+00:00"
+      },
+      "turn_3": {
+        "bidder": "b838f082585b4539bf5e5ffbd3905fd9",
+        "time": "2015-11-11T11:13:41.009973+00:00"
+      },
+      "turn_1": {
+        "bidder": "df289a82b197450f99fc3f56d00c2f27",
+        "time": "2015-11-11T11:09:41.010780+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "d0a8c560a6884363ba09d9326e868068",
+        "time": "2015-11-11T10:55:41.007026+00:00"
+      },
+      "turn_2": {
+        "bidder": "c1ad5b6dbc444530b6ace01ab2f653b5",
+        "time": "2015-11-11T10:51:41.006387+00:00"
+      },
+      "turn_3": {
+        "bidder": "b838f082585b4539bf5e5ffbd3905fd9",
+        "time": "2015-11-11T10:53:41.006323+00:00"
+      },
+      "turn_1": {
+        "bidder": "df289a82b197450f99fc3f56d00c2f27",
+        "time": "2015-11-11T10:49:41.007033+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "df289a82b197450f99fc3f56d00c2f27",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://waxauto.net",
+                "telephone": "+380443628176",
+                "name": "Чук Євгеній Олегович",
+                "email": "waxauto@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3188814659"
+              },
+              "name": "ФОП Чук Євгеній Олегович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська область",
+                "streetAddress": "м.Київ вул.Російська 35 кв.1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-06T12:16:12.572918+02:00"
+        },
+        {
+          "bidder": "c1ad5b6dbc444530b6ace01ab2f653b5",
+          "amount": 2030.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442060946",
+                "name": "ТОВ \"КПГ\"",
+                "email": "kpg_kiev@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32919024",
+                "legalName": "ТОВ \"КПГ\""
+              },
+              "name": "ТОВ \"КПГ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ ,вул..П.Лумумби 4/6,оф .1205",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T16:30:13.254025+02:00"
+        },
+        {
+          "bidder": "b838f082585b4539bf5e5ffbd3905fd9",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503803596, +380445911003",
+                "name": "Юрий Лысенко",
+                "email": "lysenko76@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО ОилТрейдБатери\"",
+                "id": "39302697",
+                "uri": "http://oiltreydbateri.prom.ua"
+              },
+              "name": "ТОВ \"ООО ОилТрейдБатери\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Транспортная,1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T13:30:40.391167+02:00"
+        },
+        {
+          "bidder": "d0a8c560a6884363ba09d9326e868068",
+          "amount": 1620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-09T18:23:23.796254+02:00"
+        }
+      ],
+      "time": "2015-11-11T11:15:43.817434+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T12:16:12.572918+02:00",
+          "amount": 2500.0,
+          "bidder": "df289a82b197450f99fc3f56d00c2f27"
+        },
+        {
+          "date": "2015-11-09T16:30:13.254025+02:00",
+          "amount": 2030.0,
+          "bidder": "c1ad5b6dbc444530b6ace01ab2f653b5"
+        },
+        {
+          "date": "2015-11-06T13:30:40.391167+02:00",
+          "amount": 1800.0,
+          "bidder": "b838f082585b4539bf5e5ffbd3905fd9"
+        },
+        {
+          "date": "2015-11-09T18:23:23.796254+02:00",
+          "amount": 1620.0,
+          "bidder": "d0a8c560a6884363ba09d9326e868068"
+        }
+      ],
+      "time": "2015-11-11T10:42:41.002503+00:00"
+    }
+  },
+  "id": "038a9056d8bb4579acc4fcf31b3804c2",
+  "tenderId": "UA-2015-11-02-000258"
+}

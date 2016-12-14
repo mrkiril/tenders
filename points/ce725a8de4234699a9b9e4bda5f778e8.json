@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3be18a8bc080402f878ba7eab47c7b2c",
+        "time": "2015-11-30T13:27:34.008558+00:00"
+      },
+      "turn_1": {
+        "bidder": "dddee0b2326a4a7185c54131b063b205",
+        "time": "2015-11-30T13:25:34.006838+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3be18a8bc080402f878ba7eab47c7b2c",
+        "time": "2015-11-30T13:33:34.012097+00:00"
+      },
+      "turn_1": {
+        "bidder": "dddee0b2326a4a7185c54131b063b205",
+        "time": "2015-11-30T13:31:34.008329+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3be18a8bc080402f878ba7eab47c7b2c",
+        "time": "2015-11-30T13:21:34.009398+00:00"
+      },
+      "turn_1": {
+        "bidder": "dddee0b2326a4a7185c54131b063b205",
+        "time": "2015-11-30T13:19:34.008674+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dddee0b2326a4a7185c54131b063b205",
+          "amount": 53166.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diso.interatletika.com/",
+                "faxNumber": "044-391-33-99",
+                "telephone": "050-355-21-55",
+                "name": "Білан Олексій Володимирович",
+                "email": "dio@interatletika.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37095763",
+                "legalName": "Товариство з обмеженою відповідальністю \"Дитячі та спортивні майданчики\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Дитячі та спортивні майданчики\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська",
+                "streetAddress": "проспект Героїв Сталінграду, 21/38 А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T14:19:39.388681+02:00"
+        },
+        {
+          "bidder": "3be18a8bc080402f878ba7eab47c7b2c",
+          "amount": 37249.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gamayun.org.ua",
+                "faxNumber": "+380442009415",
+                "telephone": "+380442009415",
+                "name": "Захарчук Тетяна Володимирівна",
+                "email": "volkovgamayun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39537875"
+              },
+              "name": "ТОВ Гамаюн Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04136",
+                "region": "Київська область",
+                "streetAddress": "вул.Північно-Сирецька, буд.3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:41:27.310365+02:00"
+        }
+      ],
+      "time": "2015-11-30T13:33:37.217037+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T14:19:39.388681+02:00",
+          "amount": 53166.0,
+          "bidder": "dddee0b2326a4a7185c54131b063b205"
+        },
+        {
+          "date": "2015-11-27T15:41:27.310365+02:00",
+          "amount": 37249.0,
+          "bidder": "3be18a8bc080402f878ba7eab47c7b2c"
+        }
+      ],
+      "time": "2015-11-30T13:12:34.004187+00:00"
+    }
+  },
+  "id": "ce725a8de4234699a9b9e4bda5f778e8",
+  "tenderId": "UA-2015-11-19-000105-b"
+}

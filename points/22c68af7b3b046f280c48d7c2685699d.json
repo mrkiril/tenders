@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9dff6c0ea6c94beca8c53ebc77e63255",
+        "time": "2015-10-13T10:54:49.008541+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd6d3ec099c64da4871f04a34fec594e",
+        "time": "2015-10-13T10:52:49.007270+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9dff6c0ea6c94beca8c53ebc77e63255",
+        "time": "2015-10-13T11:00:49.011435+00:00"
+      },
+      "turn_1": {
+        "amount": 8121.85,
+        "bid_time": "2015-10-13T13:57:18.803195+03:00",
+        "bidder": "dd6d3ec099c64da4871f04a34fec594e",
+        "time": "2015-10-13T10:58:49.008602+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9dff6c0ea6c94beca8c53ebc77e63255",
+        "time": "2015-10-13T10:48:49.009149+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd6d3ec099c64da4871f04a34fec594e",
+        "time": "2015-10-13T10:46:49.009179+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9dff6c0ea6c94beca8c53ebc77e63255",
+          "amount": 8281.43,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": ", 380567470266",
+                "name": "Юлия Французан ",
+                "email": "yufrancuzan@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31816235",
+                "legalName": "ТОВ \"БаДМ\""
+              },
+              "name": "ТОВ \"БаДМ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005, Днепропетровская обл., Жовтневый р-н, ул. Паникахи, д. 2"
+              }
+            }
+          ],
+          "time": "2015-10-08T12:17:15.665859+03:00"
+        },
+        {
+          "bidder": "dd6d3ec099c64da4871f04a34fec594e",
+          "amount": 8121.85,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-13T13:57:18.803195+03:00"
+        }
+      ],
+      "time": "2015-10-13T11:01:08.630791+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T16:27:24.807497+03:00",
+          "amount": 8376.85,
+          "bidder": "dd6d3ec099c64da4871f04a34fec594e"
+        },
+        {
+          "date": "2015-10-08T12:17:15.665859+03:00",
+          "amount": 8281.43,
+          "bidder": "9dff6c0ea6c94beca8c53ebc77e63255"
+        }
+      ],
+      "time": "2015-10-13T10:39:49.004594+00:00"
+    }
+  },
+  "id": "22c68af7b3b046f280c48d7c2685699d",
+  "tenderId": "UA-2015-10-01-000133"
+}

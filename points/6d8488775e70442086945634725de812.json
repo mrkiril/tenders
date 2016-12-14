@@ -1,0 +1,206 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "4c7885114ee04a7a976dc21bc849c890",
+        "time": "2015-12-02T14:05:49.010604+00:00"
+      },
+      "turn_2": {
+        "bidder": "316e21a594b842a4ae263459c52cc4ef",
+        "time": "2015-12-02T14:01:49.011811+00:00"
+      },
+      "turn_3": {
+        "bidder": "e547366aa3fb44b9a242999d9dfdf428",
+        "time": "2015-12-02T14:03:49.012718+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e4412e563844a6cbc0e66cfe7cab019",
+        "time": "2015-12-02T13:59:49.010233+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "4c7885114ee04a7a976dc21bc849c890",
+        "time": "2015-12-02T14:15:49.013802+00:00"
+      },
+      "turn_2": {
+        "amount": 4380.0,
+        "bid_time": "2015-12-02T16:11:40.351053+02:00",
+        "bidder": "316e21a594b842a4ae263459c52cc4ef",
+        "time": "2015-12-02T14:11:49.015283+00:00"
+      },
+      "turn_3": {
+        "bidder": "e547366aa3fb44b9a242999d9dfdf428",
+        "time": "2015-12-02T14:13:49.012315+00:00"
+      },
+      "turn_1": {
+        "bidder": "3e4412e563844a6cbc0e66cfe7cab019",
+        "time": "2015-12-02T14:09:49.011561+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "4c7885114ee04a7a976dc21bc849c890",
+        "time": "2015-12-02T13:55:49.014001+00:00"
+      },
+      "turn_2": {
+        "amount": 4487.88,
+        "bid_time": "2015-12-02T15:50:39.751211+02:00",
+        "bidder": "e547366aa3fb44b9a242999d9dfdf428",
+        "time": "2015-12-02T13:51:49.012721+00:00"
+      },
+      "turn_3": {
+        "bidder": "3e4412e563844a6cbc0e66cfe7cab019",
+        "time": "2015-12-02T13:53:49.011380+00:00"
+      },
+      "turn_1": {
+        "amount": 4497.0,
+        "bid_time": "2015-12-02T15:49:12.282449+02:00",
+        "bidder": "316e21a594b842a4ae263459c52cc4ef",
+        "time": "2015-12-02T13:49:49.013495+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3e4412e563844a6cbc0e66cfe7cab019",
+          "amount": 4498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-01T04:52:08.235243+02:00"
+        },
+        {
+          "bidder": "e547366aa3fb44b9a242999d9dfdf428",
+          "amount": 4487.88,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.lds.com.ua/",
+                "telephone": "+380442341047",
+                "name": "ОДО \" ИСФ \"ЛДС\"",
+                "email": "n.lysenko@lds.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22906244",
+                "legalName": "ОДО \" ИСФ \"ЛДС\""
+              },
+              "name": "ОДО \" ИСФ \"ЛДС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01004, г. Киев, ул. пушкинская, 41",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T15:50:39.751211+02:00"
+        },
+        {
+          "bidder": "316e21a594b842a4ae263459c52cc4ef",
+          "amount": 4380.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677118031",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+                "email": "agcsc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32765826",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЗІРКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03061 Київ вул. Шепелєва 7-А к.51",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T16:11:40.351053+02:00"
+        },
+        {
+          "bidder": "4c7885114ee04a7a976dc21bc849c890",
+          "amount": 3777.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-30T19:15:52.878123+02:00"
+        }
+      ],
+      "time": "2015-12-02T14:15:52.427123+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T22:47:24.047603+02:00",
+          "amount": 4548.0,
+          "bidder": "316e21a594b842a4ae263459c52cc4ef"
+        },
+        {
+          "date": "2015-12-01T11:27:55.594155+02:00",
+          "amount": 4542.66,
+          "bidder": "e547366aa3fb44b9a242999d9dfdf428"
+        },
+        {
+          "date": "2015-12-01T04:52:08.235243+02:00",
+          "amount": 4498.0,
+          "bidder": "3e4412e563844a6cbc0e66cfe7cab019"
+        },
+        {
+          "date": "2015-11-30T19:15:52.878123+02:00",
+          "amount": 3777.0,
+          "bidder": "4c7885114ee04a7a976dc21bc849c890"
+        }
+      ],
+      "time": "2015-12-02T13:42:49.004519+00:00"
+    }
+  },
+  "id": "6d8488775e70442086945634725de812",
+  "tenderId": "UA-2015-11-27-000140-a"
+}

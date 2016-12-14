@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5005.76,
+        "bid_time": "2015-11-12T14:49:32.729297+02:00",
+        "bidder": "d2fbb479bc28414a8402af7cc1003864",
+        "time": "2015-11-12T12:49:36.029131+00:00"
+      },
+      "turn_1": {
+        "amount": 5125.3,
+        "bid_time": "2015-11-12T14:47:00.456871+02:00",
+        "bidder": "6849aee37e3a46fb88a3baf6f4b4c681",
+        "time": "2015-11-12T12:47:36.013067+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d2fbb479bc28414a8402af7cc1003864",
+        "time": "2015-11-12T12:55:36.017904+00:00"
+      },
+      "turn_1": {
+        "amount": 4868.5,
+        "bid_time": "2015-11-12T14:52:25.916355+02:00",
+        "bidder": "6849aee37e3a46fb88a3baf6f4b4c681",
+        "time": "2015-11-12T12:53:36.008996+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5185.76,
+        "bid_time": "2015-11-12T14:42:08.823033+02:00",
+        "bidder": "d2fbb479bc28414a8402af7cc1003864",
+        "time": "2015-11-12T12:43:36.010010+00:00"
+      },
+      "turn_1": {
+        "amount": 5403.5,
+        "bid_time": "2015-11-12T14:39:47.739293+02:00",
+        "bidder": "6849aee37e3a46fb88a3baf6f4b4c681",
+        "time": "2015-11-12T12:41:36.013996+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d2fbb479bc28414a8402af7cc1003864",
+          "amount": 5005.76,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567470245",
+                "name": "Екатерина Буряк",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": "ТОВ \"БАДМ-Б\""
+              },
+              "name": "ТОВ \"БАДМ-Б\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49005",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:49:32.729297+02:00"
+        },
+        {
+          "bidder": "6849aee37e3a46fb88a3baf6f4b4c681",
+          "amount": 4868.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0637610506",
+                "name": "Владимир Пугачов ",
+                "email": "vitatest25@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37090770",
+                "legalName": "ТОВ \"Валанж-Фарм\""
+              },
+              "name": "ТОВ \"Валанж-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Харьковская область",
+                "streetAddress": "м.Харків 61098 вул. Барікадна № 53"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:52:25.916355+02:00"
+        }
+      ],
+      "time": "2015-11-12T12:55:38.787944+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T13:05:50.486278+02:00",
+          "amount": 5600.0,
+          "bidder": "6849aee37e3a46fb88a3baf6f4b4c681"
+        },
+        {
+          "date": "2015-11-10T14:41:19.712577+02:00",
+          "amount": 5598.51,
+          "bidder": "d2fbb479bc28414a8402af7cc1003864"
+        }
+      ],
+      "time": "2015-11-12T12:34:36.003952+00:00"
+    }
+  },
+  "id": "35498f1632094c83b49e20c774b6c17c",
+  "tenderId": "UA-2015-11-06-000167-a"
+}

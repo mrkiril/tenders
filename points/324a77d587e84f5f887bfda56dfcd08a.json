@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "27d489287d2745c6a690ce68b47f59ad",
+        "time": "2015-10-15T09:58:48.007984+00:00"
+      },
+      "turn_3": {
+        "bidder": "a1ce7a59a1114306833218d36c236c5f",
+        "time": "2015-10-15T10:00:48.008198+00:00"
+      },
+      "turn_1": {
+        "bidder": "149c38bd51244ea98e1176eadf3360b9",
+        "time": "2015-10-15T09:56:48.007348+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "27d489287d2745c6a690ce68b47f59ad",
+        "time": "2015-10-15T10:06:48.007377+00:00"
+      },
+      "turn_3": {
+        "bidder": "a1ce7a59a1114306833218d36c236c5f",
+        "time": "2015-10-15T10:08:48.007998+00:00"
+      },
+      "turn_1": {
+        "bidder": "149c38bd51244ea98e1176eadf3360b9",
+        "time": "2015-10-15T10:04:48.010256+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "27d489287d2745c6a690ce68b47f59ad",
+        "time": "2015-10-15T09:50:48.010221+00:00"
+      },
+      "turn_3": {
+        "bidder": "a1ce7a59a1114306833218d36c236c5f",
+        "time": "2015-10-15T09:52:48.008801+00:00"
+      },
+      "turn_1": {
+        "bidder": "149c38bd51244ea98e1176eadf3360b9",
+        "time": "2015-10-15T09:48:48.009444+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "149c38bd51244ea98e1176eadf3360b9",
+          "amount": 26980.28,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-09T14:54:57.329063+03:00"
+        },
+        {
+          "bidder": "27d489287d2745c6a690ce68b47f59ad",
+          "amount": 25881.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444510868",
+                "telephone": "+380444658759",
+                "name": "Гримашевич Роман Сергійович",
+                "email": "roman-prod@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3115620335"
+              },
+              "name": "ФОП Гримашевич Роман Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "12601",
+                "region": "Житомирська область",
+                "streetAddress": "вул. К. Маркса, б. 124",
+                "locality": "смт Брусилів"
+              }
+            }
+          ],
+          "time": "2015-10-12T20:51:49.430249+03:00"
+        },
+        {
+          "bidder": "a1ce7a59a1114306833218d36c236c5f",
+          "amount": 5.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442579486",
+                "telephone": "+380674324555",
+                "name": "Шикалов Тимур Олегович",
+                "email": "zshika@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38393411"
+              },
+              "name": "ТОВ ВЕЛ 2012",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "Народного Ополчення 2, 48",
+                "locality": "Киів"
+              }
+            }
+          ],
+          "time": "2015-10-13T09:22:28.333967+03:00"
+        }
+      ],
+      "time": "2015-10-15T10:08:50.321561+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T14:54:57.329063+03:00",
+          "amount": 26980.28,
+          "bidder": "149c38bd51244ea98e1176eadf3360b9"
+        },
+        {
+          "date": "2015-10-12T20:51:49.430249+03:00",
+          "amount": 25881.2,
+          "bidder": "27d489287d2745c6a690ce68b47f59ad"
+        },
+        {
+          "date": "2015-10-13T09:22:28.333967+03:00",
+          "amount": 5.0,
+          "bidder": "a1ce7a59a1114306833218d36c236c5f"
+        }
+      ],
+      "time": "2015-10-15T09:41:48.004371+00:00"
+    }
+  },
+  "id": "324a77d587e84f5f887bfda56dfcd08a",
+  "tenderId": "UA-2015-10-06-000077"
+}

@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ca92ac22ec3841b6b25241f94a071c9c",
+        "time": "2015-08-25T09:47:00.061363+00:00"
+      },
+      "turn_3": {
+        "bidder": "bd6ccf74d4e3411bbedb37ed72c59fcf",
+        "time": "2015-08-25T09:49:00.023151+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf6165e80250469c98a07ed3fc8be6c2",
+        "time": "2015-08-25T09:45:00.060796+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ca92ac22ec3841b6b25241f94a071c9c",
+        "time": "2015-08-25T09:55:00.039845+00:00"
+      },
+      "turn_3": {
+        "bidder": "bd6ccf74d4e3411bbedb37ed72c59fcf",
+        "time": "2015-08-25T09:57:00.019635+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf6165e80250469c98a07ed3fc8be6c2",
+        "time": "2015-08-25T09:53:00.018923+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ca92ac22ec3841b6b25241f94a071c9c",
+        "time": "2015-08-25T09:39:00.044382+00:00"
+      },
+      "turn_3": {
+        "bidder": "bd6ccf74d4e3411bbedb37ed72c59fcf",
+        "time": "2015-08-25T09:41:00.038654+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf6165e80250469c98a07ed3fc8be6c2",
+        "time": "2015-08-25T09:37:00.074783+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bf6165e80250469c98a07ed3fc8be6c2",
+          "amount": 4999.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T10:58:21.897945+03:00"
+        },
+        {
+          "bidder": "ca92ac22ec3841b6b25241f94a071c9c",
+          "amount": 4900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-17T19:08:07.703686+03:00"
+        },
+        {
+          "bidder": "bd6ccf74d4e3411bbedb37ed72c59fcf",
+          "amount": 4700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800563737905",
+                "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+                "email": "exe2013@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38837068",
+                "legalName": "Товариство з обмеженою відповідальністю \"Експерт Енерго\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Каштанова, буд. 11-Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T16:00:52.678049+03:00"
+        }
+      ],
+      "time": "2015-08-25T09:57:06.691161+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T10:58:21.897945+03:00",
+          "amount": 4999.99,
+          "bidder": "bf6165e80250469c98a07ed3fc8be6c2"
+        },
+        {
+          "date": "2015-08-17T19:08:07.703686+03:00",
+          "amount": 4900.0,
+          "bidder": "ca92ac22ec3841b6b25241f94a071c9c"
+        },
+        {
+          "date": "2015-08-18T16:00:52.678049+03:00",
+          "amount": 4700.0,
+          "bidder": "bd6ccf74d4e3411bbedb37ed72c59fcf"
+        }
+      ],
+      "time": "2015-08-25T09:30:00.010847+00:00"
+    }
+  },
+  "id": "83fcacc6263940bfaea96d8e9e7c2651",
+  "tenderId": "UA-2015-08-17-000077"
+}

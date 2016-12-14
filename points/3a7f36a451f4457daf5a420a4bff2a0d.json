@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0b7aa64a28bd459aa02d015a32bb7856",
+        "time": "2015-11-05T12:57:57.008004+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e2d9ff44ccd4a7793bdb49c88740390",
+        "time": "2015-11-05T12:55:57.008254+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0b7aa64a28bd459aa02d015a32bb7856",
+        "time": "2015-11-05T13:03:57.008078+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e2d9ff44ccd4a7793bdb49c88740390",
+        "time": "2015-11-05T13:01:57.007436+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0b7aa64a28bd459aa02d015a32bb7856",
+        "time": "2015-11-05T12:51:57.008210+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e2d9ff44ccd4a7793bdb49c88740390",
+        "time": "2015-11-05T12:49:57.008965+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9e2d9ff44ccd4a7793bdb49c88740390",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679898606",
+                "name": "Елена Кучеренко",
+                "email": "avanti-art1@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37426435",
+                "legalName": "ТОВ \"Аванті-арт\""
+              },
+              "name": "ТОВ \"Аванті-арт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87514",
+                "region": "Донецкая",
+                "streetAddress": "ул. Гранітна,162, кв. 15",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-11-03T15:57:10.995508+02:00"
+        },
+        {
+          "bidder": "0b7aa64a28bd459aa02d015a32bb7856",
+          "amount": 1798.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-03T23:51:15.699428+02:00"
+        }
+      ],
+      "time": "2015-11-05T13:04:01.542252+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T15:57:10.995508+02:00",
+          "amount": 1800.0,
+          "bidder": "9e2d9ff44ccd4a7793bdb49c88740390"
+        },
+        {
+          "date": "2015-11-03T23:51:15.699428+02:00",
+          "amount": 1798.0,
+          "bidder": "0b7aa64a28bd459aa02d015a32bb7856"
+        }
+      ],
+      "time": "2015-11-05T12:42:57.004608+00:00"
+    }
+  },
+  "id": "3a7f36a451f4457daf5a420a4bff2a0d",
+  "tenderId": "UA-2015-10-27-000018"
+}

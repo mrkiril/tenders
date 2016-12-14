@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "004b258f4d3e447cbdc88e5d4599a634",
+        "time": "2015-09-28T09:45:00.028634+00:00"
+      },
+      "turn_1": {
+        "bidder": "95b9e894fbcd452488efd3a9697edb3c",
+        "time": "2015-09-28T09:43:00.028110+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "004b258f4d3e447cbdc88e5d4599a634",
+        "time": "2015-09-28T09:51:00.036926+00:00"
+      },
+      "turn_1": {
+        "bidder": "95b9e894fbcd452488efd3a9697edb3c",
+        "time": "2015-09-28T09:49:00.035541+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "004b258f4d3e447cbdc88e5d4599a634",
+        "time": "2015-09-28T09:39:00.067869+00:00"
+      },
+      "turn_1": {
+        "bidder": "95b9e894fbcd452488efd3a9697edb3c",
+        "time": "2015-09-28T09:37:00.027792+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "95b9e894fbcd452488efd3a9697edb3c",
+          "amount": 183.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675788282",
+                "name": "ТОВ \"Професійне світло\"",
+                "email": "info@prosvitlo.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38915381",
+                "legalName": "ТОВ \"Професійне світло\""
+              },
+              "name": "ТОВ \"Професійне світло\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ вул.Вишгородська 40\\14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T10:24:29.136119+03:00"
+        },
+        {
+          "bidder": "004b258f4d3e447cbdc88e5d4599a634",
+          "amount": 167.76,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sofit.com.ua",
+                "telephone": "+380445946707",
+                "name": "Товариство з обмеженою відповідальністю СОФІЛАЙТ",
+                "email": "malichenko.yana@sofit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39364360",
+                "legalName": "Товариство з обмеженою відповідальністю СОФІЛАЙТ"
+              },
+              "name": "Товариство з обмеженою відповідальністю СОФІЛАЙТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04119, м. Київ, вул. Сім'ї Хохлових, буд. 8А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T12:35:35.773471+03:00"
+        }
+      ],
+      "time": "2015-09-28T09:51:06.371431+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T10:24:29.136119+03:00",
+          "amount": 183.0,
+          "bidder": "95b9e894fbcd452488efd3a9697edb3c"
+        },
+        {
+          "date": "2015-09-24T12:35:35.773471+03:00",
+          "amount": 167.76,
+          "bidder": "004b258f4d3e447cbdc88e5d4599a634"
+        }
+      ],
+      "time": "2015-09-28T09:30:00.002633+00:00"
+    }
+  },
+  "id": "37a7d91211004778bab71116d0bfb798",
+  "tenderId": "UA-2015-09-23-000033"
+}

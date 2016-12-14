@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 9970.0,
+        "bid_time": "2015-10-19T11:22:06.939276+03:00",
+        "bidder": "83e7aff0bed3443e8a9d54a7312a54a6",
+        "time": "2015-10-19T08:23:16.013507+00:00"
+      },
+      "turn_1": {
+        "bidder": "ce51f62230b74592902f81232beb777d",
+        "time": "2015-10-19T08:21:16.008579+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 9850.0,
+        "bid_time": "2015-10-19T11:27:41.418114+03:00",
+        "bidder": "83e7aff0bed3443e8a9d54a7312a54a6",
+        "time": "2015-10-19T08:29:16.011145+00:00"
+      },
+      "turn_1": {
+        "bidder": "ce51f62230b74592902f81232beb777d",
+        "time": "2015-10-19T08:27:16.009057+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ce51f62230b74592902f81232beb777d",
+        "time": "2015-10-19T08:17:16.009617+00:00"
+      },
+      "turn_1": {
+        "amount": 9980.0,
+        "bid_time": "2015-10-19T11:14:55.755434+03:00",
+        "bidder": "83e7aff0bed3443e8a9d54a7312a54a6",
+        "time": "2015-10-19T08:15:16.011236+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ce51f62230b74592902f81232beb777d",
+          "amount": 9999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-18T12:49:40.267019+03:00"
+        },
+        {
+          "bidder": "83e7aff0bed3443e8a9d54a7312a54a6",
+          "amount": 9850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "380990065871",
+                "name": "Андрей Зуб ",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593",
+                "legalName": ""
+              },
+              "name": "ФОП Зуб А. О.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Полтавская область",
+                "streetAddress": "36014"
+              }
+            }
+          ],
+          "time": "2015-10-19T11:27:41.418114+03:00"
+        }
+      ],
+      "time": "2015-10-19T08:29:17.638563+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T21:46:46.978594+03:00",
+          "amount": 10000.0,
+          "bidder": "83e7aff0bed3443e8a9d54a7312a54a6"
+        },
+        {
+          "date": "2015-10-18T12:49:40.267019+03:00",
+          "amount": 9999.0,
+          "bidder": "ce51f62230b74592902f81232beb777d"
+        }
+      ],
+      "time": "2015-10-19T08:08:16.003724+00:00"
+    }
+  },
+  "id": "bdbf48f429c3471ca8cedc3e951cdf65",
+  "tenderId": "UA-2015-10-08-000015"
+}

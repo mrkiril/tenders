@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2c12deba323f41d3997d5f0597c023da",
+        "time": "2015-11-05T13:26:16.008594+00:00"
+      },
+      "turn_1": {
+        "amount": 50000.0,
+        "bid_time": "2015-11-05T15:22:29.426405+02:00",
+        "bidder": "5d6527c5d3b74369b7990c9a7bcd68f3",
+        "time": "2015-11-05T13:24:16.008912+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5d6527c5d3b74369b7990c9a7bcd68f3",
+        "time": "2015-11-05T13:32:16.008080+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c12deba323f41d3997d5f0597c023da",
+        "time": "2015-11-05T13:30:16.006808+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 54500.0,
+        "bid_time": "2015-11-05T15:18:51.746704+02:00",
+        "bidder": "2c12deba323f41d3997d5f0597c023da",
+        "time": "2015-11-05T13:20:16.009527+00:00"
+      },
+      "turn_1": {
+        "amount": 55000.0,
+        "bid_time": "2015-11-05T15:16:32.847498+02:00",
+        "bidder": "5d6527c5d3b74369b7990c9a7bcd68f3",
+        "time": "2015-11-05T13:18:16.009798+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2c12deba323f41d3997d5f0597c023da",
+          "amount": 54500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T15:18:51.746704+02:00"
+        },
+        {
+          "bidder": "5d6527c5d3b74369b7990c9a7bcd68f3",
+          "amount": 50000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509815241",
+                "name": "ПАВЕЛ",
+                "email": "pavel@neftek.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39251941",
+                "legalName": "ТОВ \"НЄФТЕК\""
+              },
+              "name": "ТОВ \"НЄФТЕК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49094",
+                "region": "Днепропетровская",
+                "streetAddress": "ВУЛ. НАБЕРЕЖНА ПЕРЕМОГИ 10-Д",
+                "locality": "ДНІПРОПЕТРОВСЬК"
+              }
+            }
+          ],
+          "time": "2015-11-05T15:22:29.426405+02:00"
+        }
+      ],
+      "time": "2015-11-05T13:32:19.917812+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T09:58:53.463121+02:00",
+          "amount": 62000.0,
+          "bidder": "5d6527c5d3b74369b7990c9a7bcd68f3"
+        },
+        {
+          "date": "2015-11-03T11:51:18.665120+02:00",
+          "amount": 56000.0,
+          "bidder": "2c12deba323f41d3997d5f0597c023da"
+        }
+      ],
+      "time": "2015-11-05T13:11:16.004314+00:00"
+    }
+  },
+  "id": "02394ff8a77540a58700da23566b5c12",
+  "tenderId": "UA-2015-10-29-000033"
+}

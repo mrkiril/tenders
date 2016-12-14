@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4b1e02925a0b4d9aafae3debafd0ab77",
+        "time": "2015-11-18T09:56:47.021268+00:00"
+      },
+      "turn_1": {
+        "bidder": "cce6aa36eaa7467ab6c34d9a57263767",
+        "time": "2015-11-18T09:54:47.007557+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1800.0,
+        "bid_time": "2015-11-18T12:02:40.000847+02:00",
+        "bidder": "4b1e02925a0b4d9aafae3debafd0ab77",
+        "time": "2015-11-18T10:02:47.007952+00:00"
+      },
+      "turn_1": {
+        "amount": 1805.0,
+        "bid_time": "2015-11-18T11:59:13.124446+02:00",
+        "bidder": "cce6aa36eaa7467ab6c34d9a57263767",
+        "time": "2015-11-18T10:00:47.007551+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1812.0,
+        "bid_time": "2015-11-18T11:50:38.741358+02:00",
+        "bidder": "4b1e02925a0b4d9aafae3debafd0ab77",
+        "time": "2015-11-18T09:50:47.008605+00:00"
+      },
+      "turn_1": {
+        "amount": 1815.0,
+        "bid_time": "2015-11-18T11:47:33.785880+02:00",
+        "bidder": "cce6aa36eaa7467ab6c34d9a57263767",
+        "time": "2015-11-18T09:48:47.008300+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cce6aa36eaa7467ab6c34d9a57263767",
+          "amount": 1805.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ofis-centr.ua/",
+                "faxNumber": "0382718581",
+                "telephone": "0382718593",
+                "name": "Витюк Татьяна Васильевна",
+                "email": "L.Cherepahina@ofis-centr.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21337459",
+                "legalName": "ТОВ Корвет"
+              },
+              "name": "ТОВ Корвет",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "29013",
+                "region": "Хмельницька",
+                "streetAddress": "Подільська, 93",
+                "locality": "Хмельницький"
+              }
+            }
+          ],
+          "time": "2015-11-18T11:59:13.124446+02:00"
+        },
+        {
+          "bidder": "4b1e02925a0b4d9aafae3debafd0ab77",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:02:40.000847+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:03:06.680133+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T13:28:30.693734+02:00",
+          "amount": 1875.0,
+          "bidder": "cce6aa36eaa7467ab6c34d9a57263767"
+        },
+        {
+          "date": "2015-11-17T10:24:35.312132+02:00",
+          "amount": 1845.0,
+          "bidder": "4b1e02925a0b4d9aafae3debafd0ab77"
+        }
+      ],
+      "time": "2015-11-18T09:41:47.003331+00:00"
+    }
+  },
+  "id": "d87a48134530449caa3e5b1b15e0d74b",
+  "tenderId": "UA-2015-11-12-000020"
+}

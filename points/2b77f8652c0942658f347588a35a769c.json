@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5520.0,
+        "bid_time": "2015-10-02T11:15:45.995062+03:00",
+        "bidder": "80c2e7f3bd1b4b71ab64b54fdd19eb52",
+        "time": "2015-10-02T08:17:00.012440+00:00"
+      },
+      "turn_3": {
+        "bidder": "9476863610d94d468923b2537a6e3513",
+        "time": "2015-10-02T08:19:00.009252+00:00"
+      },
+      "turn_1": {
+        "bidder": "cd2920d77fef40eb9ef4527030c98cc5",
+        "time": "2015-10-02T08:15:00.014365+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 5519.0,
+        "bid_time": "2015-10-02T11:23:27.510003+03:00",
+        "bidder": "9476863610d94d468923b2537a6e3513",
+        "time": "2015-10-02T08:25:00.009592+00:00"
+      },
+      "turn_3": {
+        "bidder": "80c2e7f3bd1b4b71ab64b54fdd19eb52",
+        "time": "2015-10-02T08:27:00.008324+00:00"
+      },
+      "turn_1": {
+        "amount": 5400.0,
+        "bid_time": "2015-10-02T11:21:49.498241+03:00",
+        "bidder": "cd2920d77fef40eb9ef4527030c98cc5",
+        "time": "2015-10-02T08:23:00.010579+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5699.0,
+        "bid_time": "2015-10-02T11:08:46.256149+03:00",
+        "bidder": "9476863610d94d468923b2537a6e3513",
+        "time": "2015-10-02T08:09:00.007005+00:00"
+      },
+      "turn_3": {
+        "bidder": "80c2e7f3bd1b4b71ab64b54fdd19eb52",
+        "time": "2015-10-02T08:11:00.006705+00:00"
+      },
+      "turn_1": {
+        "bidder": "cd2920d77fef40eb9ef4527030c98cc5",
+        "time": "2015-10-02T08:07:00.007078+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "80c2e7f3bd1b4b71ab64b54fdd19eb52",
+          "amount": 5520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T11:15:45.995062+03:00"
+        },
+        {
+          "bidder": "9476863610d94d468923b2537a6e3513",
+          "amount": 5519.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-02T11:23:27.510003+03:00"
+        },
+        {
+          "bidder": "cd2920d77fef40eb9ef4527030c98cc5",
+          "amount": 5400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T11:21:49.498241+03:00"
+        }
+      ],
+      "time": "2015-10-02T08:27:02.331058+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T21:06:45.518848+03:00",
+          "amount": 6000.0,
+          "bidder": "cd2920d77fef40eb9ef4527030c98cc5"
+        },
+        {
+          "date": "2015-09-23T05:35:21.760065+03:00",
+          "amount": 5999.0,
+          "bidder": "9476863610d94d468923b2537a6e3513"
+        },
+        {
+          "date": "2015-09-24T13:01:43.646821+03:00",
+          "amount": 5700.0,
+          "bidder": "80c2e7f3bd1b4b71ab64b54fdd19eb52"
+        }
+      ],
+      "time": "2015-10-02T08:00:00.001518+00:00"
+    }
+  },
+  "id": "2b77f8652c0942658f347588a35a769c",
+  "tenderId": "UA-2015-09-17-000084"
+}

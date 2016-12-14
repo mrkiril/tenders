@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1094302b108149d2a2615656a3f7a9c4",
+        "time": "2015-09-11T08:45:00.034017+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1a06328ebc34df3952692909c072e27",
+        "time": "2015-09-11T08:43:00.030905+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1094302b108149d2a2615656a3f7a9c4",
+        "time": "2015-09-11T08:51:00.037406+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1a06328ebc34df3952692909c072e27",
+        "time": "2015-09-11T08:49:00.062784+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c1a06328ebc34df3952692909c072e27",
+        "time": "2015-09-11T08:39:00.041400+00:00"
+      },
+      "turn_1": {
+        "amount": 44918.0,
+        "bid_time": "2015-09-11T11:35:14.973230+03:00",
+        "bidder": "1094302b108149d2a2615656a3f7a9c4",
+        "time": "2015-09-11T08:37:00.039247+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c1a06328ebc34df3952692909c072e27",
+          "amount": 45918.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.hlr.com.ua",
+                "telephone": "+380675492917",
+                "name": "ООО\"Химлаборреактив\"",
+                "email": "galyaeva@chemlab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23522853",
+                "legalName": "ООО\"Химлаборреактив\""
+              },
+              "name": "ООО\"Химлаборреактив\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03150 г. Киев, ул. Красноармейская, 57/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T09:29:40.633498+03:00"
+        },
+        {
+          "bidder": "1094302b108149d2a2615656a3f7a9c4",
+          "amount": 44918.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "2453224",
+                "telephone": "5200505",
+                "name": "Саковська Василівна Леся",
+                "email": "lesya_sakovska@alsi.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21632299",
+                "legalName": "ТОВ \"АЛСІ\" ЛТД"
+              },
+              "name": "ТОВ \"АЛСІ\" ЛТД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03049",
+                "region": "Київська",
+                "streetAddress": "вул. Шовкуненка, 8/20, оф.51",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T11:35:14.973230+03:00"
+        }
+      ],
+      "time": "2015-09-11T08:51:11.277199+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T15:50:40.804465+03:00",
+          "amount": 85419.0,
+          "bidder": "1094302b108149d2a2615656a3f7a9c4"
+        },
+        {
+          "date": "2015-09-10T09:29:40.633498+03:00",
+          "amount": 45918.0,
+          "bidder": "c1a06328ebc34df3952692909c072e27"
+        }
+      ],
+      "time": "2015-09-11T08:30:00.009927+00:00"
+    }
+  },
+  "id": "07cb1c5b905f476cb35f200c8a2ef53f",
+  "tenderId": "UA-2015-08-31-000094"
+}

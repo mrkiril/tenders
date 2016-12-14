@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d421cfab05c143a4b5d597068bd02b10",
+        "time": "2015-11-18T09:56:11.007984+00:00"
+      },
+      "turn_1": {
+        "bidder": "402040b936654baa99f73b60638a8e00",
+        "time": "2015-11-18T09:54:11.006942+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d421cfab05c143a4b5d597068bd02b10",
+        "time": "2015-11-18T10:02:11.006502+00:00"
+      },
+      "turn_1": {
+        "bidder": "402040b936654baa99f73b60638a8e00",
+        "time": "2015-11-18T10:00:11.007254+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d421cfab05c143a4b5d597068bd02b10",
+        "time": "2015-11-18T09:50:11.006934+00:00"
+      },
+      "turn_1": {
+        "bidder": "402040b936654baa99f73b60638a8e00",
+        "time": "2015-11-18T09:48:11.006972+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "402040b936654baa99f73b60638a8e00",
+          "amount": 1244.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577298218",
+                "telephone": "+380577298218",
+                "name": "Нужний Геннадій Борисович",
+                "email": "suputnik-oktan@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34755584"
+              },
+              "name": "ТОВ \"СУПУТНИК-ОКТАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "62489",
+                "region": "Харківська область",
+                "streetAddress": "вул. Чайковського, 210-Б",
+                "locality": "смт Безлюдівка Харківського району"
+              }
+            }
+          ],
+          "time": "2015-11-17T14:57:49.396366+02:00"
+        },
+        {
+          "bidder": "d421cfab05c143a4b5d597068bd02b10",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T09:33:27.647205+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:02:38.615183+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T14:57:49.396366+02:00",
+          "amount": 1244.0,
+          "bidder": "402040b936654baa99f73b60638a8e00"
+        },
+        {
+          "date": "2015-11-17T09:33:27.647205+02:00",
+          "amount": 1000.0,
+          "bidder": "d421cfab05c143a4b5d597068bd02b10"
+        }
+      ],
+      "time": "2015-11-18T09:41:11.002661+00:00"
+    }
+  },
+  "id": "07b9000961f64e15bcc3978047333ffb",
+  "tenderId": "UA-2015-11-11-000101"
+}

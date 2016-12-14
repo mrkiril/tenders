@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "726ae8253c4f44f1b1621be472720217",
+        "time": "2015-10-08T09:50:52.017771+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab047fcd81fd42c6aa7f8d9fd998fef8",
+        "time": "2015-10-08T09:48:52.010783+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "726ae8253c4f44f1b1621be472720217",
+        "time": "2015-10-08T09:56:52.015796+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab047fcd81fd42c6aa7f8d9fd998fef8",
+        "time": "2015-10-08T09:54:52.017329+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "726ae8253c4f44f1b1621be472720217",
+        "time": "2015-10-08T09:44:52.008322+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab047fcd81fd42c6aa7f8d9fd998fef8",
+        "time": "2015-10-08T09:42:52.007315+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab047fcd81fd42c6aa7f8d9fd998fef8",
+          "amount": 17947.29,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-05T00:52:29.465178+03:00"
+        },
+        {
+          "bidder": "726ae8253c4f44f1b1621be472720217",
+          "amount": 16475.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-04T19:44:40.108902+03:00"
+        }
+      ],
+      "time": "2015-10-08T09:56:55.921741+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T00:52:29.465178+03:00",
+          "amount": 17947.29,
+          "bidder": "ab047fcd81fd42c6aa7f8d9fd998fef8"
+        },
+        {
+          "date": "2015-10-04T19:44:40.108902+03:00",
+          "amount": 16475.0,
+          "bidder": "726ae8253c4f44f1b1621be472720217"
+        }
+      ],
+      "time": "2015-10-08T09:35:52.002946+00:00"
+    }
+  },
+  "id": "282356ca4e8d40f6b59dd9fca0a7e539",
+  "tenderId": "UA-2015-09-28-000169"
+}

@@ -1,0 +1,207 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 5171.9,
+        "bid_time": "2015-10-19T14:03:04.266085+03:00",
+        "bidder": "ec2732025c3b4ddfa3bf62ebb766cd03",
+        "time": "2015-10-19T11:04:07.013052+00:00"
+      },
+      "turn_2": {
+        "bidder": "5edf3684e5274bbfa378ae7f15aae879",
+        "time": "2015-10-19T11:00:07.007617+00:00"
+      },
+      "turn_3": {
+        "amount": 5300.08,
+        "bid_time": "2015-10-19T14:00:28.497098+03:00",
+        "bidder": "6be501aead374eb19782feb25ba2599c",
+        "time": "2015-10-19T11:02:07.010604+00:00"
+      },
+      "turn_1": {
+        "bidder": "81c5b8ad45bf4b2f99175e617fba4c47",
+        "time": "2015-10-19T10:58:07.008039+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ec2732025c3b4ddfa3bf62ebb766cd03",
+        "time": "2015-10-19T11:14:07.009565+00:00"
+      },
+      "turn_2": {
+        "bidder": "5edf3684e5274bbfa378ae7f15aae879",
+        "time": "2015-10-19T11:10:07.006912+00:00"
+      },
+      "turn_3": {
+        "bidder": "6be501aead374eb19782feb25ba2599c",
+        "time": "2015-10-19T11:12:07.007809+00:00"
+      },
+      "turn_1": {
+        "bidder": "81c5b8ad45bf4b2f99175e617fba4c47",
+        "time": "2015-10-19T11:08:07.008439+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 5413.45,
+        "bid_time": "2015-10-19T13:53:11.888658+03:00",
+        "bidder": "ec2732025c3b4ddfa3bf62ebb766cd03",
+        "time": "2015-10-19T10:54:07.011943+00:00"
+      },
+      "turn_2": {
+        "bidder": "81c5b8ad45bf4b2f99175e617fba4c47",
+        "time": "2015-10-19T10:50:07.011876+00:00"
+      },
+      "turn_3": {
+        "bidder": "5edf3684e5274bbfa378ae7f15aae879",
+        "time": "2015-10-19T10:52:07.007794+00:00"
+      },
+      "turn_1": {
+        "amount": 5708.83,
+        "bid_time": "2015-10-19T13:46:21.805607+03:00",
+        "bidder": "6be501aead374eb19782feb25ba2599c",
+        "time": "2015-10-19T10:48:07.009886+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "81c5b8ad45bf4b2f99175e617fba4c47",
+          "amount": 6278.44,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577563604",
+                "telephone": "0577563603",
+                "name": "Лисенко Олександр Олексійович",
+                "email": "apteka095@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38218086",
+                "legalName": "ТОВ \"Аметрін ФК\""
+              },
+              "name": "ТОВ \"Аметрін ФК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська",
+                "streetAddress": "Юріївська, 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T11:06:02.688683+03:00"
+        },
+        {
+          "bidder": "5edf3684e5274bbfa378ae7f15aae879",
+          "amount": 6220.65,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-16T12:55:27.670667+03:00"
+        },
+        {
+          "bidder": "6be501aead374eb19782feb25ba2599c",
+          "amount": 5300.08,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": "БаДМ-Б"
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-10-19T14:00:28.497098+03:00"
+        },
+        {
+          "bidder": "ec2732025c3b4ddfa3bf62ebb766cd03",
+          "amount": 5171.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504405128",
+                "name": "Товариство з обмеженою відповідальністю \" Медичний Центр \"М.Т.К.\"",
+                "email": "franko@uf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21633086",
+                "legalName": "Товариство з обмеженою відповідальністю \" Медичний Центр \"М.Т.К.\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" Медичний Центр \"М.Т.К.\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03110, місто Київ, вул. Миколи Амосова, 10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T14:03:04.266085+03:00"
+        }
+      ],
+      "time": "2015-10-19T11:14:09.859158+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T11:49:56.317563+03:00",
+          "amount": 6623.89,
+          "bidder": "6be501aead374eb19782feb25ba2599c"
+        },
+        {
+          "date": "2015-10-16T11:06:02.688683+03:00",
+          "amount": 6278.44,
+          "bidder": "81c5b8ad45bf4b2f99175e617fba4c47"
+        },
+        {
+          "date": "2015-10-16T12:55:27.670667+03:00",
+          "amount": 6220.65,
+          "bidder": "5edf3684e5274bbfa378ae7f15aae879"
+        },
+        {
+          "date": "2015-10-16T10:59:17.176837+03:00",
+          "amount": 5954.8,
+          "bidder": "ec2732025c3b4ddfa3bf62ebb766cd03"
+        }
+      ],
+      "time": "2015-10-19T10:41:07.004036+00:00"
+    }
+  },
+  "id": "0ec2bd041f254e82a083ce7c38fb001d",
+  "tenderId": "UA-2015-10-13-000147"
+}

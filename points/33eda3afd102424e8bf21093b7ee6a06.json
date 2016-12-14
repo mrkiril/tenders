@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "03fc8c12f1904d8da840c9bba5c78985",
+        "time": "2015-12-17T11:54:13.008682+00:00"
+      },
+      "turn_3": {
+        "bidder": "f38a895920ca46e69ba832f369094960",
+        "time": "2015-12-17T11:56:13.007868+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a5850a992d48f0adc3ef40853ef6ea",
+        "time": "2015-12-17T11:52:13.009885+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "03fc8c12f1904d8da840c9bba5c78985",
+        "time": "2015-12-17T12:02:13.009521+00:00"
+      },
+      "turn_3": {
+        "bidder": "f38a895920ca46e69ba832f369094960",
+        "time": "2015-12-17T12:04:13.009651+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a5850a992d48f0adc3ef40853ef6ea",
+        "time": "2015-12-17T12:00:13.009675+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "03fc8c12f1904d8da840c9bba5c78985",
+        "time": "2015-12-17T11:46:13.010764+00:00"
+      },
+      "turn_3": {
+        "bidder": "f38a895920ca46e69ba832f369094960",
+        "time": "2015-12-17T11:48:13.007830+00:00"
+      },
+      "turn_1": {
+        "bidder": "33a5850a992d48f0adc3ef40853ef6ea",
+        "time": "2015-12-17T11:44:13.018709+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33a5850a992d48f0adc3ef40853ef6ea",
+          "amount": 1710.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444618912",
+                "telephone": "0674053612",
+                "name": "Корзенюк Олексій Юрійович",
+                "email": "status_luks@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37432323",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02093",
+                "region": "Київська",
+                "streetAddress": "вул.Бориспільська,11а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T14:21:55.053555+02:00"
+        },
+        {
+          "bidder": "03fc8c12f1904d8da840c9bba5c78985",
+          "amount": 1695.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://etam.etov.ua/",
+                "telephone": "+380445018811",
+                "name": "ТОВ ЕТАМ",
+                "email": "Energoaliance@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38379381",
+                "legalName": "ТОВ ЕТАМ"
+              },
+              "name": "ТОВ ЕТАМ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Вишневое, 08132, Киевскаяобл., Киево-Святошинский р-он, ул. Черновола, 1а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-16T12:26:13.477187+02:00"
+        },
+        {
+          "bidder": "f38a895920ca46e69ba832f369094960",
+          "amount": 1350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T14:25:27.702199+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:04:14.038249+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T14:21:55.053555+02:00",
+          "amount": 1710.0,
+          "bidder": "33a5850a992d48f0adc3ef40853ef6ea"
+        },
+        {
+          "date": "2015-12-16T12:26:13.477187+02:00",
+          "amount": 1695.6,
+          "bidder": "03fc8c12f1904d8da840c9bba5c78985"
+        },
+        {
+          "date": "2015-12-16T14:25:27.702199+02:00",
+          "amount": 1350.0,
+          "bidder": "f38a895920ca46e69ba832f369094960"
+        }
+      ],
+      "time": "2015-12-17T11:37:13.003175+00:00"
+    }
+  },
+  "id": "33eda3afd102424e8bf21093b7ee6a06",
+  "tenderId": "UA-2015-12-14-000087-b"
+}

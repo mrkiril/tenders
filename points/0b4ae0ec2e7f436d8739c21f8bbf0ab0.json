@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5d9a9ab061df42c1ba602c6cc7980e62",
+        "time": "2015-11-25T12:25:33.012069+00:00"
+      },
+      "turn_1": {
+        "amount": 197500.0,
+        "bid_time": "2015-11-25T14:23:14.268602+02:00",
+        "bidder": "b6f2b665cb954114a567be9735b7152c",
+        "time": "2015-11-25T12:23:33.009121+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b6f2b665cb954114a567be9735b7152c",
+        "time": "2015-11-25T12:31:33.008037+00:00"
+      },
+      "turn_1": {
+        "bidder": "5d9a9ab061df42c1ba602c6cc7980e62",
+        "time": "2015-11-25T12:29:33.007640+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5d9a9ab061df42c1ba602c6cc7980e62",
+        "time": "2015-11-25T12:19:33.008196+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6f2b665cb954114a567be9735b7152c",
+        "time": "2015-11-25T12:17:33.009679+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5d9a9ab061df42c1ba602c6cc7980e62",
+          "amount": 198000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://leater.ua",
+                "telephone": "+380445021019",
+                "name": "Частное акционерное общество \"Литер\"",
+                "email": "burangulov@leater.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24720880",
+                "legalName": "Частное акционерное общество \"Литер\""
+              },
+              "name": "Частное акционерное общество \"Литер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "Украина г. Киев-03150, \r\nул. Горького, 102 А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T15:07:05.735096+02:00"
+        },
+        {
+          "bidder": "b6f2b665cb954114a567be9735b7152c",
+          "amount": 197500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://englerllc.com/",
+                "faxNumber": "0443511868",
+                "telephone": "0443511868",
+                "name": "Ільєнко Олег Борисович",
+                "email": "o.ilyenko@englerllc.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36938941",
+                "legalName": "ТОВ \"НВП Енглер\""
+              },
+              "name": "ТОВ \"НВП Енглер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03113",
+                "region": "Київська",
+                "streetAddress": "Скляренка, б. 5 , оф. 305А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T14:23:14.268602+02:00"
+        }
+      ],
+      "time": "2015-11-25T12:31:35.457917+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T16:20:00.377778+02:00",
+          "amount": 198600.0,
+          "bidder": "b6f2b665cb954114a567be9735b7152c"
+        },
+        {
+          "date": "2015-11-24T15:07:05.735096+02:00",
+          "amount": 198000.0,
+          "bidder": "5d9a9ab061df42c1ba602c6cc7980e62"
+        }
+      ],
+      "time": "2015-11-25T12:10:33.004305+00:00"
+    }
+  },
+  "id": "0b4ae0ec2e7f436d8739c21f8bbf0ab0",
+  "tenderId": "UA-2015-11-11-000093"
+}

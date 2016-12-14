@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "85e2b695353547c89a01bb2e5f72f9b0",
+        "time": "2015-10-26T10:46:26.005543+00:00"
+      },
+      "turn_1": {
+        "bidder": "d0fff1a793cb4feab8de6dbd3707491e",
+        "time": "2015-10-26T10:44:26.007558+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "85e2b695353547c89a01bb2e5f72f9b0",
+        "time": "2015-10-26T10:52:26.008152+00:00"
+      },
+      "turn_1": {
+        "bidder": "d0fff1a793cb4feab8de6dbd3707491e",
+        "time": "2015-10-26T10:50:26.005727+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "85e2b695353547c89a01bb2e5f72f9b0",
+        "time": "2015-10-26T10:40:26.005599+00:00"
+      },
+      "turn_1": {
+        "bidder": "d0fff1a793cb4feab8de6dbd3707491e",
+        "time": "2015-10-26T10:38:26.006378+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d0fff1a793cb4feab8de6dbd3707491e",
+          "amount": 2495.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T17:27:17.522319+03:00"
+        },
+        {
+          "bidder": "85e2b695353547c89a01bb2e5f72f9b0",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674418135",
+                "name": "Вячеслав",
+                "email": "uss2015baget@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"ЧП Бакулин\"",
+                "id": "2644600175",
+                "uri": "http://ukrskloservis.prom.ua/"
+              },
+              "name": "ФОП \"ЧП Бакулин\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08130",
+                "region": "Киевская",
+                "streetAddress": "с.Петропавловская Борщаговка, ул.Ленина 7-б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T09:17:08.620065+03:00"
+        }
+      ],
+      "time": "2015-10-26T10:52:38.719885+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T17:27:17.522319+03:00",
+          "amount": 2495.0,
+          "bidder": "d0fff1a793cb4feab8de6dbd3707491e"
+        },
+        {
+          "date": "2015-10-23T09:17:08.620065+03:00",
+          "amount": 2000.0,
+          "bidder": "85e2b695353547c89a01bb2e5f72f9b0"
+        }
+      ],
+      "time": "2015-10-26T10:31:26.002624+00:00"
+    }
+  },
+  "id": "0929fa36df594f7fa9fbefd0fca45cd9",
+  "tenderId": "UA-2015-10-21-000308"
+}

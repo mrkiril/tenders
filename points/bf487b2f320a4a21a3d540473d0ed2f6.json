@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "62ca1fee2cee473087b1c1a54e7c3d25",
+        "time": "2015-11-05T12:48:49.008383+00:00"
+      },
+      "turn_1": {
+        "amount": 4498.0,
+        "bid_time": "2015-11-05T14:45:28.125059+02:00",
+        "bidder": "bf0e0a2ee90643b6ba0337af4b567ba1",
+        "time": "2015-11-05T12:46:49.009449+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bf0e0a2ee90643b6ba0337af4b567ba1",
+        "time": "2015-11-05T12:54:49.007627+00:00"
+      },
+      "turn_1": {
+        "bidder": "62ca1fee2cee473087b1c1a54e7c3d25",
+        "time": "2015-11-05T12:52:49.007751+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "62ca1fee2cee473087b1c1a54e7c3d25",
+        "time": "2015-11-05T12:42:49.011438+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf0e0a2ee90643b6ba0337af4b567ba1",
+        "time": "2015-11-05T12:40:49.008873+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "62ca1fee2cee473087b1c1a54e7c3d25",
+          "amount": 5000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooorit.com",
+                "telephone": "+380679378294",
+                "name": "ТОВ РІТ",
+                "email": "rit22@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32242883",
+                "legalName": "ТОВ РІТ"
+              },
+              "name": "ТОВ РІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69035 м. Запоріжжя вул. Лермонтова буд. 14 кв. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T14:42:41.382954+02:00"
+        },
+        {
+          "bidder": "bf0e0a2ee90643b6ba0337af4b567ba1",
+          "amount": 4498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T14:45:28.125059+02:00"
+        }
+      ],
+      "time": "2015-11-05T12:54:51.420891+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T16:46:23.317735+02:00",
+          "amount": 5286.0,
+          "bidder": "bf0e0a2ee90643b6ba0337af4b567ba1"
+        },
+        {
+          "date": "2015-10-30T14:42:41.382954+02:00",
+          "amount": 5000.0,
+          "bidder": "62ca1fee2cee473087b1c1a54e7c3d25"
+        }
+      ],
+      "time": "2015-11-05T12:33:49.005312+00:00"
+    }
+  },
+  "id": "bf487b2f320a4a21a3d540473d0ed2f6",
+  "tenderId": "UA-2015-10-25-000010"
+}

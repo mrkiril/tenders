@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8e25734e4de9457a8b2942de74cd48b3",
+        "time": "2015-06-22T08:15:00.343267+00:00"
+      },
+      "turn_1": {
+        "bidder": "d73634ed6a3d4b99812ef667b1fb3a71",
+        "time": "2015-06-22T08:13:00.346488+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8e25734e4de9457a8b2942de74cd48b3",
+        "time": "2015-06-22T08:21:01.016986+00:00"
+      },
+      "turn_1": {
+        "bidder": "d73634ed6a3d4b99812ef667b1fb3a71",
+        "time": "2015-06-22T08:19:00.541489+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8e25734e4de9457a8b2942de74cd48b3",
+        "time": "2015-06-22T08:09:00.461404+00:00"
+      },
+      "turn_1": {
+        "bidder": "d73634ed6a3d4b99812ef667b1fb3a71",
+        "time": "2015-06-22T08:07:00.836552+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d73634ed6a3d4b99812ef667b1fb3a71",
+          "amount": 3990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.it-resources.com.ua",
+                "telephone": "+380444578550",
+                "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+                "email": "sale@it-resources.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31814531",
+                "legalName": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «IT РЕСУРСИ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04128, м. Київ, вул. Туполєва, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-22T09:43:26.890197+03:00"
+        },
+        {
+          "bidder": "8e25734e4de9457a8b2942de74cd48b3",
+          "amount": 3897.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.komplektuha.com.ua/",
+                "telephone": "+380577802541",
+                "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+                "email": "zakaz@komplektuha.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39260516",
+                "legalName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\""
+              },
+              "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61070, г. Харьков, пер. Электроинструментальный, д. 6А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-20T21:26:58.767017+03:00"
+        }
+      ],
+      "time": "2015-06-22T08:21:18.576588+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-22T09:43:26.890197+03:00",
+          "amount": 3990.0,
+          "bidder": "d73634ed6a3d4b99812ef667b1fb3a71"
+        },
+        {
+          "date": "2015-06-20T21:26:58.767017+03:00",
+          "amount": 3897.0,
+          "bidder": "8e25734e4de9457a8b2942de74cd48b3"
+        }
+      ],
+      "time": "2015-06-22T08:00:00.330523+00:00"
+    }
+  },
+  "id": "aac6948d417646299fd11caab5912afd",
+  "tenderId": "UA-2015-06-18-000048"
+}

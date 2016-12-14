@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "60308f6b7f7947148089acbc69c4fcfe",
+        "time": "2015-11-02T12:18:29.006809+00:00"
+      },
+      "turn_1": {
+        "bidder": "334636ec1e4746d3b5aacd3da49ad245",
+        "time": "2015-11-02T12:16:29.008782+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "60308f6b7f7947148089acbc69c4fcfe",
+        "time": "2015-11-02T12:24:29.009811+00:00"
+      },
+      "turn_1": {
+        "bidder": "334636ec1e4746d3b5aacd3da49ad245",
+        "time": "2015-11-02T12:22:29.009173+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "60308f6b7f7947148089acbc69c4fcfe",
+        "time": "2015-11-02T12:12:29.008806+00:00"
+      },
+      "turn_1": {
+        "bidder": "334636ec1e4746d3b5aacd3da49ad245",
+        "time": "2015-11-02T12:10:29.010061+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "334636ec1e4746d3b5aacd3da49ad245",
+          "amount": 6200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3080504454236",
+                "name": "ООО \"ТД \"Техно-Синтез\"",
+                "email": "office@sintez-oil.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38364904",
+                "legalName": "ООО \"ТД \"Техно-Синтез\""
+              },
+              "name": "ООО \"ТД \"Техно-Синтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Подлесная 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T13:55:46.731555+02:00"
+        },
+        {
+          "bidder": "60308f6b7f7947148089acbc69c4fcfe",
+          "amount": 5667.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.klo.kiev.ua/",
+                "telephone": "0633788788",
+                "name": "Віталій Сірик ",
+                "email": "sirik.v@klo.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32214641",
+                "legalName": ""
+              },
+              "name": "ООО \"ПРЕМЬЕР-ЛИГА\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "03134, г.Киев, ул. Николая Трублаини, 1Б"
+              }
+            }
+          ],
+          "time": "2015-10-28T12:03:25.322790+02:00"
+        }
+      ],
+      "time": "2015-11-02T12:24:29.691928+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T13:55:46.731555+02:00",
+          "amount": 6200.0,
+          "bidder": "334636ec1e4746d3b5aacd3da49ad245"
+        },
+        {
+          "date": "2015-10-28T12:03:25.322790+02:00",
+          "amount": 5667.0,
+          "bidder": "60308f6b7f7947148089acbc69c4fcfe"
+        }
+      ],
+      "time": "2015-11-02T12:03:29.003737+00:00"
+    }
+  },
+  "id": "0c009fe64cbb43aa904770fcbf86d10b",
+  "tenderId": "UA-2015-10-21-000309"
+}

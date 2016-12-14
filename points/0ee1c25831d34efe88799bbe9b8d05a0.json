@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b3bab4ecdb4f42ad93ed679cab062a61",
+        "time": "2015-11-17T09:22:59.007587+00:00"
+      },
+      "turn_1": {
+        "bidder": "59762a0cadd6432093af5882a6eed391",
+        "time": "2015-11-17T09:20:59.006519+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b3bab4ecdb4f42ad93ed679cab062a61",
+        "time": "2015-11-17T09:28:59.019018+00:00"
+      },
+      "turn_1": {
+        "bidder": "59762a0cadd6432093af5882a6eed391",
+        "time": "2015-11-17T09:26:59.007473+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b3bab4ecdb4f42ad93ed679cab062a61",
+        "time": "2015-11-17T09:16:59.007945+00:00"
+      },
+      "turn_1": {
+        "bidder": "59762a0cadd6432093af5882a6eed391",
+        "time": "2015-11-17T09:14:59.017509+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "59762a0cadd6432093af5882a6eed391",
+          "amount": 3209.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444073239",
+                "name": "ТОВ \"Парсек\"",
+                "email": "tanya_pogolska@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22967470",
+                "legalName": "ТОВ \"Парсек\""
+              },
+              "name": "ТОВ \"Парсек\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03148, м. Київ, вул. Якуба Коласа, 23, кв. 279",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-16T15:51:41.992110+02:00"
+        },
+        {
+          "bidder": "b3bab4ecdb4f42ad93ed679cab062a61",
+          "amount": 2645.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz/",
+                "faxNumber": "0442331676",
+                "telephone": "0442331676",
+                "name": "Дмитрів Ігор Андрійович",
+                "email": "kokki2004@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36257034",
+                "legalName": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "Щорса, 31, офіс 314",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T17:36:25.286210+02:00"
+        }
+      ],
+      "time": "2015-11-17T09:29:01.618755+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T15:51:41.992110+02:00",
+          "amount": 3209.99,
+          "bidder": "59762a0cadd6432093af5882a6eed391"
+        },
+        {
+          "date": "2015-11-16T17:36:25.286210+02:00",
+          "amount": 2645.04,
+          "bidder": "b3bab4ecdb4f42ad93ed679cab062a61"
+        }
+      ],
+      "time": "2015-11-17T09:07:59.002676+00:00"
+    }
+  },
+  "id": "0ee1c25831d34efe88799bbe9b8d05a0",
+  "tenderId": "UA-2015-11-11-000018-b"
+}

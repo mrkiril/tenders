@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 15600.0,
+        "bid_time": "2015-12-02T15:56:59.109099+02:00",
+        "bidder": "43ec5cfbeda848c19fb014cd02098d2d",
+        "time": "2015-12-02T13:57:18.008920+00:00"
+      },
+      "turn_3": {
+        "amount": 15434.0,
+        "bid_time": "2015-12-02T15:57:50.966366+02:00",
+        "bidder": "0c95ee3ff9344194931dfc622b22c6d4",
+        "time": "2015-12-02T13:59:18.009145+00:00"
+      },
+      "turn_1": {
+        "bidder": "5763ce8c333240429fb3c46147a6574f",
+        "time": "2015-12-02T13:55:18.007619+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "43ec5cfbeda848c19fb014cd02098d2d",
+        "time": "2015-12-02T14:05:18.007829+00:00"
+      },
+      "turn_3": {
+        "bidder": "0c95ee3ff9344194931dfc622b22c6d4",
+        "time": "2015-12-02T14:07:18.007738+00:00"
+      },
+      "turn_1": {
+        "bidder": "5763ce8c333240429fb3c46147a6574f",
+        "time": "2015-12-02T14:03:18.009135+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "43ec5cfbeda848c19fb014cd02098d2d",
+        "time": "2015-12-02T13:49:18.008621+00:00"
+      },
+      "turn_3": {
+        "bidder": "0c95ee3ff9344194931dfc622b22c6d4",
+        "time": "2015-12-02T13:51:18.008226+00:00"
+      },
+      "turn_1": {
+        "bidder": "5763ce8c333240429fb3c46147a6574f",
+        "time": "2015-12-02T13:47:18.028869+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5763ce8c333240429fb3c46147a6574f",
+          "amount": 16440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675584440",
+                "name": "ООО \"Фабрикант ХХI\"",
+                "email": "fabrikant2008@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36039844",
+                "legalName": "ООО \"Фабрикант ХХI\""
+              },
+              "name": "ООО \"Фабрикант ХХI\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев,Чоколовский бульвар, 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T23:16:53.765939+02:00"
+        },
+        {
+          "bidder": "43ec5cfbeda848c19fb014cd02098d2d",
+          "amount": 15600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:56:59.109099+02:00"
+        },
+        {
+          "bidder": "0c95ee3ff9344194931dfc622b22c6d4",
+          "amount": 15434.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:57:50.966366+02:00"
+        }
+      ],
+      "time": "2015-12-02T14:07:21.569235+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T23:16:53.765939+02:00",
+          "amount": 16440.0,
+          "bidder": "5763ce8c333240429fb3c46147a6574f"
+        },
+        {
+          "date": "2015-12-01T12:45:24.416509+02:00",
+          "amount": 16436.0,
+          "bidder": "43ec5cfbeda848c19fb014cd02098d2d"
+        },
+        {
+          "date": "2015-12-01T14:36:13.474597+02:00",
+          "amount": 16270.0,
+          "bidder": "0c95ee3ff9344194931dfc622b22c6d4"
+        }
+      ],
+      "time": "2015-12-02T13:40:18.003943+00:00"
+    }
+  },
+  "id": "249cfb979864451a9f2248fd794daf0d",
+  "tenderId": "UA-2015-11-27-000240"
+}

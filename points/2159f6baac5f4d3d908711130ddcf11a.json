@@ -1,0 +1,247 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "52f7a5c08f0e41d595da3500175fe2d0",
+        "time": "2015-07-31T09:55:00.017281+00:00"
+      },
+      "turn_5": {
+        "bidder": "d5eaa3e1f8b34569ab1a3d988d91b7d6",
+        "time": "2015-07-31T09:57:00.009262+00:00"
+      },
+      "turn_2": {
+        "bidder": "dc25be45908944cfa63b2214293f8c73",
+        "time": "2015-07-31T09:51:00.021807+00:00"
+      },
+      "turn_3": {
+        "bidder": "540ba4824abc47b8b8a6bc0f32d3db94",
+        "time": "2015-07-31T09:53:00.019276+00:00"
+      },
+      "turn_1": {
+        "bidder": "a180bd7f0c4f4a35a567d2daccd3ae56",
+        "time": "2015-07-31T09:49:00.016749+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "52f7a5c08f0e41d595da3500175fe2d0",
+        "time": "2015-07-31T10:07:00.014514+00:00"
+      },
+      "turn_5": {
+        "bidder": "d5eaa3e1f8b34569ab1a3d988d91b7d6",
+        "time": "2015-07-31T10:09:00.012578+00:00"
+      },
+      "turn_2": {
+        "bidder": "dc25be45908944cfa63b2214293f8c73",
+        "time": "2015-07-31T10:03:00.010763+00:00"
+      },
+      "turn_3": {
+        "bidder": "540ba4824abc47b8b8a6bc0f32d3db94",
+        "time": "2015-07-31T10:05:00.011368+00:00"
+      },
+      "turn_1": {
+        "bidder": "a180bd7f0c4f4a35a567d2daccd3ae56",
+        "time": "2015-07-31T10:01:00.010037+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "540ba4824abc47b8b8a6bc0f32d3db94",
+        "time": "2015-07-31T09:43:00.023880+00:00"
+      },
+      "turn_5": {
+        "bidder": "52f7a5c08f0e41d595da3500175fe2d0",
+        "time": "2015-07-31T09:45:00.032618+00:00"
+      },
+      "turn_2": {
+        "bidder": "a180bd7f0c4f4a35a567d2daccd3ae56",
+        "time": "2015-07-31T09:39:00.027263+00:00"
+      },
+      "turn_3": {
+        "bidder": "dc25be45908944cfa63b2214293f8c73",
+        "time": "2015-07-31T09:41:00.022678+00:00"
+      },
+      "turn_1": {
+        "amount": 2300.0,
+        "bid_time": "2015-07-31T12:35:10.377798+03:00",
+        "bidder": "d5eaa3e1f8b34569ab1a3d988d91b7d6",
+        "time": "2015-07-31T09:37:00.026226+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a180bd7f0c4f4a35a567d2daccd3ae56",
+          "amount": 2950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442000578",
+                "name": "Приватне Підприємство \"Купфер\"",
+                "email": "bulahy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35920949",
+                "legalName": "Приватне Підприємство \"Купфер\""
+              },
+              "name": "Приватне Підприємство \"Купфер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01103 м. Київ, вул. Кіквідзе, буд. 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-30T09:19:26.906192+03:00"
+        },
+        {
+          "bidder": "dc25be45908944cfa63b2214293f8c73",
+          "amount": 2826.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:33:02.239245+03:00"
+        },
+        {
+          "bidder": "540ba4824abc47b8b8a6bc0f32d3db94",
+          "amount": 2650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577164882",
+                "name": "ООО \"Цветметпрокат\"",
+                "email": "tsvetmetprokat@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31152223",
+                "legalName": "ООО \"Цветметпрокат\""
+              },
+              "name": "ООО \"Цветметпрокат\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128,г.Харьков, пр.50-летия СССР,\r\nд.16, кв.396",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-25T16:42:16.520380+03:00"
+        },
+        {
+          "bidder": "52f7a5c08f0e41d595da3500175fe2d0",
+          "amount": 2376.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz/",
+                "telephone": "80675481000",
+                "name": "Найда Володимирівна Алина",
+                "email": "0675481000@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38962562",
+                "legalName": "Организация с ограниченной ответственностью Технолинии"
+              },
+              "name": "Организация с ограниченной ответственностью Технолинии",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03150",
+                "region": "Київська",
+                "streetAddress": "Красноармейская 139 оф. 351/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-28T12:03:59.693520+03:00"
+        },
+        {
+          "bidder": "d5eaa3e1f8b34569ab1a3d988d91b7d6",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://impera.com.ua",
+                "telephone": "+380563704603",
+                "name": "ООО Импера Групп",
+                "email": "serg.impera@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38677154",
+                "legalName": "ООО Импера Групп"
+              },
+              "name": "ООО Импера Групп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49098, г. Днепропетровск, ул. Белостоцкого, д. 159",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T12:35:10.377798+03:00"
+        }
+      ],
+      "time": "2015-07-31T10:09:01.963634+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T11:47:18.483483+03:00",
+          "amount": 3000.0,
+          "bidder": "d5eaa3e1f8b34569ab1a3d988d91b7d6"
+        },
+        {
+          "date": "2015-07-30T09:19:26.906192+03:00",
+          "amount": 2950.0,
+          "bidder": "a180bd7f0c4f4a35a567d2daccd3ae56"
+        },
+        {
+          "date": "2015-07-29T11:33:02.239245+03:00",
+          "amount": 2826.0,
+          "bidder": "dc25be45908944cfa63b2214293f8c73"
+        },
+        {
+          "date": "2015-07-25T16:42:16.520380+03:00",
+          "amount": 2650.0,
+          "bidder": "540ba4824abc47b8b8a6bc0f32d3db94"
+        },
+        {
+          "date": "2015-07-28T12:03:59.693520+03:00",
+          "amount": 2376.0,
+          "bidder": "52f7a5c08f0e41d595da3500175fe2d0"
+        }
+      ],
+      "time": "2015-07-31T09:30:00.001451+00:00"
+    }
+  },
+  "id": "2159f6baac5f4d3d908711130ddcf11a",
+  "tenderId": "UA-2015-07-23-000037"
+}

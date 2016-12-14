@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "79b174d6d341415da98e06c69dfc2440",
+        "time": "2015-11-23T13:52:41.007250+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4e002d88b9e4f51a126f5fba48cbf8a",
+        "time": "2015-11-23T13:50:41.007404+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "79b174d6d341415da98e06c69dfc2440",
+        "time": "2015-11-23T13:58:41.006508+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4e002d88b9e4f51a126f5fba48cbf8a",
+        "time": "2015-11-23T13:56:41.006840+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "79b174d6d341415da98e06c69dfc2440",
+        "time": "2015-11-23T13:46:41.025092+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4e002d88b9e4f51a126f5fba48cbf8a",
+        "time": "2015-11-23T13:44:41.023983+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c4e002d88b9e4f51a126f5fba48cbf8a",
+          "amount": 89700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961577205",
+                "name": "Олександр Коновалов",
+                "email": "konovalov2007@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172108378",
+                "legalName": "ФОП \"ПП Коновалов С.В.\""
+              },
+              "name": "ФОП \"ПП Коновалов С.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "35100",
+                "region": "Ровенская",
+                "streetAddress": "смт. Млинів вул Рівненська 9\\32",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-11-19T17:04:40.253261+02:00"
+        },
+        {
+          "bidder": "79b174d6d341415da98e06c69dfc2440",
+          "amount": 118.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.electro.zp.ua",
+                "faxNumber": "061-787-44-57",
+                "telephone": "061-787-52-21",
+                "name": "Деркач Світлана Анатоліївна",
+                "email": "info@electro.zp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30408416",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СПІЛЬНЕ ПІДПРИЄМСТВО \"ЕЛЕКТРО\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СПІЛЬНЕ ПІДПРИЄМСТВО \"ЕЛЕКТРО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69095",
+                "region": "Запорізька",
+                "streetAddress": "Дніпропетровська б.5",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-11-17T15:24:58.069304+02:00"
+        }
+      ],
+      "time": "2015-11-23T13:58:42.651839+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T17:04:40.253261+02:00",
+          "amount": 89700.0,
+          "bidder": "c4e002d88b9e4f51a126f5fba48cbf8a"
+        },
+        {
+          "date": "2015-11-17T15:24:58.069304+02:00",
+          "amount": 118.5,
+          "bidder": "79b174d6d341415da98e06c69dfc2440"
+        }
+      ],
+      "time": "2015-11-23T13:37:41.004011+00:00"
+    }
+  },
+  "id": "1f4f5542d96d4ba88876304c2fe3e763",
+  "tenderId": "UA-2015-11-05-000105"
+}

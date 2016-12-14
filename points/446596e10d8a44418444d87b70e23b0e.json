@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f4e7c8f6013e4709b68a4b9734c9905a",
+        "time": "2015-12-16T11:46:54.008322+00:00"
+      },
+      "turn_1": {
+        "bidder": "03af1619cc5f4ca382c93a9f390e3967",
+        "time": "2015-12-16T11:44:54.008317+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f4e7c8f6013e4709b68a4b9734c9905a",
+        "time": "2015-12-16T11:52:54.008589+00:00"
+      },
+      "turn_1": {
+        "bidder": "03af1619cc5f4ca382c93a9f390e3967",
+        "time": "2015-12-16T11:50:54.008880+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f4e7c8f6013e4709b68a4b9734c9905a",
+        "time": "2015-12-16T11:40:54.007924+00:00"
+      },
+      "turn_1": {
+        "bidder": "03af1619cc5f4ca382c93a9f390e3967",
+        "time": "2015-12-16T11:38:54.009256+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03af1619cc5f4ca382c93a9f390e3967",
+          "amount": 1490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0971514343",
+                "telephone": "0939978045",
+                "name": "Моллазеінал Вікторія анатоліївна",
+                "email": "info.officeq@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39340952",
+                "legalName": "ТОВ \"ТК \"АСА\""
+              },
+              "name": "ТОВ \"ТК \"АСА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "Краківска 18 А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T17:10:46.542619+02:00"
+        },
+        {
+          "bidder": "f4e7c8f6013e4709b68a4b9734c9905a",
+          "amount": 1488.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T17:23:57.791955+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:52:55.107668+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T17:10:46.542619+02:00",
+          "amount": 1490.0,
+          "bidder": "03af1619cc5f4ca382c93a9f390e3967"
+        },
+        {
+          "date": "2015-12-14T17:23:57.791955+02:00",
+          "amount": 1488.0,
+          "bidder": "f4e7c8f6013e4709b68a4b9734c9905a"
+        }
+      ],
+      "time": "2015-12-16T11:31:54.005007+00:00"
+    }
+  },
+  "id": "446596e10d8a44418444d87b70e23b0e",
+  "tenderId": "UA-2015-12-11-000136-b"
+}

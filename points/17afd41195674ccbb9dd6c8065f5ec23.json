@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 22112.0,
+        "bid_time": "2015-10-26T11:18:05.781168+02:00",
+        "bidder": "e5bc965bfc5c42b2958e75e108b20cee",
+        "time": "2015-10-26T09:18:41.010899+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9cdf9922885405586b87d22aec23129",
+        "time": "2015-10-26T09:20:41.006174+00:00"
+      },
+      "turn_1": {
+        "bidder": "c525b0cf09b54f178c2ebcf5ee05c7c0",
+        "time": "2015-10-26T09:16:41.008441+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 17700.0,
+        "bid_time": "2015-10-26T11:25:55.784859+02:00",
+        "bidder": "e5bc965bfc5c42b2958e75e108b20cee",
+        "time": "2015-10-26T09:26:41.010046+00:00"
+      },
+      "turn_3": {
+        "amount": 17699.0,
+        "bid_time": "2015-10-26T11:27:20.163900+02:00",
+        "bidder": "a9cdf9922885405586b87d22aec23129",
+        "time": "2015-10-26T09:28:41.009697+00:00"
+      },
+      "turn_1": {
+        "bidder": "c525b0cf09b54f178c2ebcf5ee05c7c0",
+        "time": "2015-10-26T09:24:41.007715+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 22343.0,
+        "bid_time": "2015-10-26T11:09:16.746028+02:00",
+        "bidder": "e5bc965bfc5c42b2958e75e108b20cee",
+        "time": "2015-10-26T09:10:41.011223+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9cdf9922885405586b87d22aec23129",
+        "time": "2015-10-26T09:12:41.011530+00:00"
+      },
+      "turn_1": {
+        "bidder": "c525b0cf09b54f178c2ebcf5ee05c7c0",
+        "time": "2015-10-26T09:08:41.008648+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c525b0cf09b54f178c2ebcf5ee05c7c0",
+          "amount": 23009.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0482365740",
+                "telephone": "0482365747",
+                "name": "Смаглій Вадим Станіславович",
+                "email": "rtvz@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38479839",
+                "legalName": "ТОВ \" Фарма-Світ\""
+              },
+              "name": "ТОВ \" Фарма-Світ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65114",
+                "region": "Одеська",
+                "streetAddress": "ул.Левітана 123/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T10:23:33.963318+03:00"
+        },
+        {
+          "bidder": "e5bc965bfc5c42b2958e75e108b20cee",
+          "amount": 17700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380432554328, +380504779463, +380637283770, +380432554328",
+                "name": "Александр Лещенко",
+                "email": "al-le2009@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2560512357",
+                "legalName": "ФОП \"ФОП Лещенко\""
+              },
+              "name": "ФОП \"ФОП Лещенко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21011",
+                "region": "Виницкая",
+                "streetAddress": "г. Винница, ул. Садовая,10",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:25:55.784859+02:00"
+        },
+        {
+          "bidder": "a9cdf9922885405586b87d22aec23129",
+          "amount": 17699.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:27:20.163900+02:00"
+        }
+      ],
+      "time": "2015-10-26T09:28:43.610518+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T10:23:33.963318+03:00",
+          "amount": 23009.84,
+          "bidder": "c525b0cf09b54f178c2ebcf5ee05c7c0"
+        },
+        {
+          "date": "2015-10-22T09:59:33.284151+03:00",
+          "amount": 22574.0,
+          "bidder": "e5bc965bfc5c42b2958e75e108b20cee"
+        },
+        {
+          "date": "2015-10-23T09:17:32.802619+03:00",
+          "amount": 18012.16,
+          "bidder": "a9cdf9922885405586b87d22aec23129"
+        }
+      ],
+      "time": "2015-10-26T09:01:41.003348+00:00"
+    }
+  },
+  "id": "17afd41195674ccbb9dd6c8065f5ec23",
+  "tenderId": "UA-2015-10-09-000106"
+}

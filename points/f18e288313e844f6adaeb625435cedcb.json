@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dd6e279d167345e8be1b14cda2e39f2e",
+        "time": "2015-11-16T13:23:07.007228+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1430ab666ce4daa90f8c35868f47c0a",
+        "time": "2015-11-16T13:25:07.008297+00:00"
+      },
+      "turn_1": {
+        "bidder": "d72017e9deed4d828e703bf319914164",
+        "time": "2015-11-16T13:21:07.007898+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dd6e279d167345e8be1b14cda2e39f2e",
+        "time": "2015-11-16T13:31:07.007844+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1430ab666ce4daa90f8c35868f47c0a",
+        "time": "2015-11-16T13:33:07.024794+00:00"
+      },
+      "turn_1": {
+        "bidder": "d72017e9deed4d828e703bf319914164",
+        "time": "2015-11-16T13:29:07.009446+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dd6e279d167345e8be1b14cda2e39f2e",
+        "time": "2015-11-16T13:15:07.008271+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1430ab666ce4daa90f8c35868f47c0a",
+        "time": "2015-11-16T13:17:07.009234+00:00"
+      },
+      "turn_1": {
+        "bidder": "d72017e9deed4d828e703bf319914164",
+        "time": "2015-11-16T13:13:07.007536+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d72017e9deed4d828e703bf319914164",
+          "amount": 2350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444618912",
+                "telephone": "0674053612",
+                "name": "Корзенюк Олексій Юрійович",
+                "email": "status_luks@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37432323",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02093",
+                "region": "Київська",
+                "streetAddress": "вул.Бориспільська,11а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-12T19:19:15.659026+02:00"
+        },
+        {
+          "bidder": "dd6e279d167345e8be1b14cda2e39f2e",
+          "amount": 2301.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://topolyok.com.ua/",
+                "faxNumber": "80573388686",
+                "telephone": "80577573886",
+                "name": "Мірошникова Ольга Олександрівна",
+                "email": "o.myroshnykova@topolyok.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25181304",
+                "legalName": "Приватна Фірма Бригантина"
+              },
+              "name": "Приватна Фірма Бригантина",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61204",
+                "region": "Харківська",
+                "streetAddress": "вул. Ахсарова 21",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-11T15:36:25.106559+02:00"
+        },
+        {
+          "bidder": "b1430ab666ce4daa90f8c35868f47c0a",
+          "amount": 2156.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-13T11:11:22.956695+02:00"
+        }
+      ],
+      "time": "2015-11-16T13:33:09.912188+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T19:19:15.659026+02:00",
+          "amount": 2350.0,
+          "bidder": "d72017e9deed4d828e703bf319914164"
+        },
+        {
+          "date": "2015-11-11T15:36:25.106559+02:00",
+          "amount": 2301.84,
+          "bidder": "dd6e279d167345e8be1b14cda2e39f2e"
+        },
+        {
+          "date": "2015-11-13T11:11:22.956695+02:00",
+          "amount": 2156.4,
+          "bidder": "b1430ab666ce4daa90f8c35868f47c0a"
+        }
+      ],
+      "time": "2015-11-16T13:06:07.003918+00:00"
+    }
+  },
+  "id": "f18e288313e844f6adaeb625435cedcb",
+  "tenderId": "UA-2015-11-09-000087-b"
+}

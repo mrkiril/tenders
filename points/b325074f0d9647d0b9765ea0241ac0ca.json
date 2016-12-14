@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 4100.0,
+        "bid_time": "2015-10-23T13:50:33.438640+03:00",
+        "bidder": "561e307e8cf44785a38c0fb63dd3c7de",
+        "time": "2015-10-23T10:50:35.011227+00:00"
+      },
+      "turn_3": {
+        "amount": 4050.0,
+        "bid_time": "2015-10-23T13:51:13.751310+03:00",
+        "bidder": "f64283cfe1064523be2111a64b9c6a47",
+        "time": "2015-10-23T10:52:35.008443+00:00"
+      },
+      "turn_1": {
+        "bidder": "db2ff03a46c343239861a65e3f9fa4da",
+        "time": "2015-10-23T10:48:35.007863+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "561e307e8cf44785a38c0fb63dd3c7de",
+        "time": "2015-10-23T10:58:35.007955+00:00"
+      },
+      "turn_3": {
+        "bidder": "f64283cfe1064523be2111a64b9c6a47",
+        "time": "2015-10-23T11:00:35.010222+00:00"
+      },
+      "turn_1": {
+        "bidder": "db2ff03a46c343239861a65e3f9fa4da",
+        "time": "2015-10-23T10:56:35.009981+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5000.0,
+        "bid_time": "2015-10-23T13:40:56.916522+03:00",
+        "bidder": "f64283cfe1064523be2111a64b9c6a47",
+        "time": "2015-10-23T10:42:35.009810+00:00"
+      },
+      "turn_3": {
+        "bidder": "db2ff03a46c343239861a65e3f9fa4da",
+        "time": "2015-10-23T10:44:35.013220+00:00"
+      },
+      "turn_1": {
+        "amount": 5025.0,
+        "bid_time": "2015-10-23T13:39:43.120032+03:00",
+        "bidder": "561e307e8cf44785a38c0fb63dd3c7de",
+        "time": "2015-10-23T10:40:35.009583+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "db2ff03a46c343239861a65e3f9fa4da",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38(048)789-48-30",
+                "name": "Татьяна",
+                "email": "7433589@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"ВЄЛЬЧЕВ ОЛЕКСІЙ ВОЛОДИМИРОВИЧ\"",
+                "id": "2921002295",
+                "uri": "http://viveski.prom.ua"
+              },
+              "name": "ФОП \"ВЄЛЬЧЕВ ОЛЕКСІЙ ВОЛОДИМИРОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65123",
+                "region": "Одесская",
+                "streetAddress": "Бугаевская, 41",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-21T13:17:07.461577+03:00"
+        },
+        {
+          "bidder": "561e307e8cf44785a38c0fb63dd3c7de",
+          "amount": 4100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380991670177",
+                "name": "Антон Цысь",
+                "email": "tsysanton90@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕЙ ДІ\"",
+                "id": "39142982",
+                "uri": "http://addirections.com.ua/"
+              },
+              "name": "ТОВ \"ЕЙ ДІ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04212",
+                "region": "Киевская",
+                "streetAddress": "вул. Маршала Малиновського, буд. 15/3, офіс 110",
+                "locality": "г. Киев"
+              }
+            }
+          ],
+          "time": "2015-10-23T13:50:33.438640+03:00"
+        },
+        {
+          "bidder": "f64283cfe1064523be2111a64b9c6a47",
+          "amount": 4050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380544947995",
+                "name": "Приватне підприємство «Науково-технічний ліцей «Фабрика»",
+                "email": "ntl.fabrika@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39332873",
+                "legalName": "Приватне підприємство «Науково-технічний ліцей «Фабрика»"
+              },
+              "name": "Приватне підприємство «Науково-технічний ліцей «Фабрика»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "41100 Сумська обл, м. Шостка, вул. Леніна, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T13:51:13.751310+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:00:57.771428+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T11:45:46.044318+03:00",
+          "amount": 6510.0,
+          "bidder": "561e307e8cf44785a38c0fb63dd3c7de"
+        },
+        {
+          "date": "2015-10-21T14:56:53.389067+03:00",
+          "amount": 6300.0,
+          "bidder": "f64283cfe1064523be2111a64b9c6a47"
+        },
+        {
+          "date": "2015-10-21T13:17:07.461577+03:00",
+          "amount": 5900.0,
+          "bidder": "db2ff03a46c343239861a65e3f9fa4da"
+        }
+      ],
+      "time": "2015-10-23T10:33:35.003823+00:00"
+    }
+  },
+  "id": "b325074f0d9647d0b9765ea0241ac0ca",
+  "tenderId": "UA-2015-10-20-000122"
+}

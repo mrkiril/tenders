@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e4ecffcc3fb14870af8912a9d214fcd6",
+        "time": "2015-11-30T11:52:23.011138+00:00"
+      },
+      "turn_1": {
+        "bidder": "5867a21a976742c684a5786a0f0f1675",
+        "time": "2015-11-30T11:50:23.010334+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1494.0,
+        "bid_time": "2015-11-30T13:58:11.124345+02:00",
+        "bidder": "e4ecffcc3fb14870af8912a9d214fcd6",
+        "time": "2015-11-30T11:58:23.010865+00:00"
+      },
+      "turn_1": {
+        "amount": 1495.0,
+        "bid_time": "2015-11-30T13:55:02.975469+02:00",
+        "bidder": "5867a21a976742c684a5786a0f0f1675",
+        "time": "2015-11-30T11:56:23.010448+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1579.0,
+        "bid_time": "2015-11-30T13:45:06.994173+02:00",
+        "bidder": "e4ecffcc3fb14870af8912a9d214fcd6",
+        "time": "2015-11-30T11:46:23.013098+00:00"
+      },
+      "turn_1": {
+        "amount": 1580.0,
+        "bid_time": "2015-11-30T13:42:56.030834+02:00",
+        "bidder": "5867a21a976742c684a5786a0f0f1675",
+        "time": "2015-11-30T11:44:23.012064+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5867a21a976742c684a5786a0f0f1675",
+          "amount": 1495.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444073239",
+                "name": "ТОВ \"Парсек\"",
+                "email": "tanya_pogolska@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22967470",
+                "legalName": "ТОВ \"Парсек\""
+              },
+              "name": "ТОВ \"Парсек\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03148, м. Київ, вул. Якуба Коласа, 23, кв. 279",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T13:55:02.975469+02:00"
+        },
+        {
+          "bidder": "e4ecffcc3fb14870af8912a9d214fcd6",
+          "amount": 1494.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.oniko.ua",
+                "telephone": "+380445022446",
+                "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+                "email": "oleksandr.tkalych@oniko.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19242964",
+                "legalName": "Малое частное торгово-промышленное предприятие \"ОНИКО\""
+              },
+              "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070, г. Киев, ул. Волошская, 55/57",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T13:58:11.124345+02:00"
+        }
+      ],
+      "time": "2015-11-30T11:58:25.051223+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T15:04:13.305195+02:00",
+          "amount": 1695.0,
+          "bidder": "5867a21a976742c684a5786a0f0f1675"
+        },
+        {
+          "date": "2015-11-24T12:19:16.387734+02:00",
+          "amount": 1609.65,
+          "bidder": "e4ecffcc3fb14870af8912a9d214fcd6"
+        }
+      ],
+      "time": "2015-11-30T11:37:23.003949+00:00"
+    }
+  },
+  "id": "0dfb5bae84ec4b9ba041384c4ef3a5a3",
+  "tenderId": "UA-2015-11-23-000113-b"
+}

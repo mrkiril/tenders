@@ -1,0 +1,250 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "c361d00713c943e0aa1a599531229e75",
+        "time": "2015-11-03T12:57:47.006521+00:00"
+      },
+      "turn_5": {
+        "bidder": "ba93f30d40fd47cf9efddcdca70a396e",
+        "time": "2015-11-03T12:59:47.007850+00:00"
+      },
+      "turn_2": {
+        "bidder": "34f91b1c554a45b7a0f10325d6800214",
+        "time": "2015-11-03T12:53:47.007417+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e165fe4c0364ec486916922f23cb1da",
+        "time": "2015-11-03T12:55:47.009886+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffda6163d850490c8eec39b9bf7fb3a7",
+        "time": "2015-11-03T12:51:47.007509+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "c361d00713c943e0aa1a599531229e75",
+        "time": "2015-11-03T13:09:47.007559+00:00"
+      },
+      "turn_5": {
+        "bidder": "ba93f30d40fd47cf9efddcdca70a396e",
+        "time": "2015-11-03T13:11:47.007472+00:00"
+      },
+      "turn_2": {
+        "bidder": "34f91b1c554a45b7a0f10325d6800214",
+        "time": "2015-11-03T13:05:47.008119+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e165fe4c0364ec486916922f23cb1da",
+        "time": "2015-11-03T13:07:47.006028+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffda6163d850490c8eec39b9bf7fb3a7",
+        "time": "2015-11-03T13:03:47.009853+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "7e165fe4c0364ec486916922f23cb1da",
+        "time": "2015-11-03T12:45:47.009401+00:00"
+      },
+      "turn_5": {
+        "amount": 4067.0,
+        "bid_time": "2015-11-03T14:46:29.901256+02:00",
+        "bidder": "ba93f30d40fd47cf9efddcdca70a396e",
+        "time": "2015-11-03T12:47:47.010675+00:00"
+      },
+      "turn_2": {
+        "bidder": "ffda6163d850490c8eec39b9bf7fb3a7",
+        "time": "2015-11-03T12:41:47.008302+00:00"
+      },
+      "turn_3": {
+        "bidder": "34f91b1c554a45b7a0f10325d6800214",
+        "time": "2015-11-03T12:43:47.010168+00:00"
+      },
+      "turn_1": {
+        "amount": 4127.0,
+        "bid_time": "2015-11-03T14:39:20.378170+02:00",
+        "bidder": "c361d00713c943e0aa1a599531229e75",
+        "time": "2015-11-03T12:39:47.010848+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ffda6163d850490c8eec39b9bf7fb3a7",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kadr.lviv.ua",
+                "telephone": "+380322611545",
+                "name": "Приватне підприємство \"Кадр\"",
+                "email": "ppkadr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23271204",
+                "legalName": "Приватне підприємство \"Кадр\""
+              },
+              "name": "Приватне підприємство \"Кадр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.С.Бандери,67\\6, м.Львів, 79013",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T15:23:08.083037+02:00"
+        },
+        {
+          "bidder": "34f91b1c554a45b7a0f10325d6800214",
+          "amount": 5678.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-31T16:49:35.501486+02:00"
+        },
+        {
+          "bidder": "7e165fe4c0364ec486916922f23cb1da",
+          "amount": 5121.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://eps.kiev.ua",
+                "faxNumber": "044-531-96-46",
+                "telephone": "044-531-96-46",
+                "name": "Шейка Олена Анатоліївна",
+                "email": "alena@eps.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34574252",
+                "legalName": "Приватне підприємство \"ЕПС-СЕРВІС\""
+              },
+              "name": "Приватне підприємство \"ЕПС-СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська",
+                "streetAddress": "пр-т Бажана, 7Д",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T10:55:24.446125+02:00"
+        },
+        {
+          "bidder": "c361d00713c943e0aa1a599531229e75",
+          "amount": 4127.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-03T14:39:20.378170+02:00"
+        },
+        {
+          "bidder": "ba93f30d40fd47cf9efddcdca70a396e",
+          "amount": 4067.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.printer.com.ua",
+                "faxNumber": "+380444849000",
+                "telephone": "+380503588033",
+                "name": "Андреєв Сергій Віктрович",
+                "email": "andriyur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37634298"
+              },
+              "name": "ТОВ Вічний картридж",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Шота Руставелі, б15 б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-03T14:46:29.901256+02:00"
+        }
+      ],
+      "time": "2015-11-03T13:11:57.369749+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-31T18:40:59.912087+02:00",
+          "amount": 5988.0,
+          "bidder": "c361d00713c943e0aa1a599531229e75"
+        },
+        {
+          "date": "2015-10-29T15:23:08.083037+02:00",
+          "amount": 5900.0,
+          "bidder": "ffda6163d850490c8eec39b9bf7fb3a7"
+        },
+        {
+          "date": "2015-10-31T16:49:35.501486+02:00",
+          "amount": 5678.0,
+          "bidder": "34f91b1c554a45b7a0f10325d6800214"
+        },
+        {
+          "date": "2015-11-02T10:55:24.446125+02:00",
+          "amount": 5121.0,
+          "bidder": "7e165fe4c0364ec486916922f23cb1da"
+        },
+        {
+          "date": "2015-10-28T17:51:09.329390+02:00",
+          "amount": 4290.0,
+          "bidder": "ba93f30d40fd47cf9efddcdca70a396e"
+        }
+      ],
+      "time": "2015-11-03T12:32:47.004491+00:00"
+    }
+  },
+  "id": "0731965280544a4a8fd650578c683ec4",
+  "tenderId": "UA-2015-10-23-000346"
+}

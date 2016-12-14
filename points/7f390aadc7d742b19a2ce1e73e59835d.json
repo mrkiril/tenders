@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cf8a213cc36d41eaaaa679f225b6cc0d",
+        "time": "2015-10-06T08:56:26.006456+00:00"
+      },
+      "turn_1": {
+        "bidder": "8355b02029ce4215bed17e9f21d43c41",
+        "time": "2015-10-06T08:54:26.007080+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cf8a213cc36d41eaaaa679f225b6cc0d",
+        "time": "2015-10-06T09:02:26.007367+00:00"
+      },
+      "turn_1": {
+        "bidder": "8355b02029ce4215bed17e9f21d43c41",
+        "time": "2015-10-06T09:00:26.007884+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cf8a213cc36d41eaaaa679f225b6cc0d",
+        "time": "2015-10-06T08:50:26.007484+00:00"
+      },
+      "turn_1": {
+        "bidder": "8355b02029ce4215bed17e9f21d43c41",
+        "time": "2015-10-06T08:48:26.007023+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8355b02029ce4215bed17e9f21d43c41",
+          "amount": 216954.09,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.pst-ua.com",
+                "telephone": "+380676306262",
+                "name": "Товариство з обмеженою відповідальністю \"ПСТ Автоматик\"",
+                "email": "azza@pst-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32688019",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПСТ Автоматик\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПСТ Автоматик\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49100, м. Дніпропетровськ, б-р Слави 18/40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T16:43:48.293876+03:00"
+        },
+        {
+          "bidder": "cf8a213cc36d41eaaaa679f225b6cc0d",
+          "amount": 216500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://eridan.dp.ua",
+                "telephone": "+380990844533",
+                "name": "ТОВ \"Компанія Ерідан\"",
+                "email": "serjsmirnov@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35395767",
+                "legalName": "ТОВ \"Компанія Ерідан\""
+              },
+              "name": "ТОВ \"Компанія Ерідан\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Дніпропетровськ,\r\nпроспект Героїв , буд 23, кв 42.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T16:53:17.017070+03:00"
+        }
+      ],
+      "time": "2015-10-06T09:02:30.472231+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T16:43:48.293876+03:00",
+          "amount": 216954.09,
+          "bidder": "8355b02029ce4215bed17e9f21d43c41"
+        },
+        {
+          "date": "2015-10-05T16:53:17.017070+03:00",
+          "amount": 216500.0,
+          "bidder": "cf8a213cc36d41eaaaa679f225b6cc0d"
+        }
+      ],
+      "time": "2015-10-06T08:41:26.003308+00:00"
+    }
+  },
+  "id": "7f390aadc7d742b19a2ce1e73e59835d",
+  "tenderId": "UA-2015-09-24-000144"
+}

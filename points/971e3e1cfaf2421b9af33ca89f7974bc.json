@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4f0f4579037b4492acef97fb68ccfdea",
+        "time": "2015-09-28T08:15:00.146908+00:00"
+      },
+      "turn_1": {
+        "amount": 15390.0,
+        "bid_time": "2015-09-28T11:12:53.175598+03:00",
+        "bidder": "a14a8b953db344b29b16fda221787624",
+        "time": "2015-09-28T08:13:00.044588+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4f0f4579037b4492acef97fb68ccfdea",
+        "time": "2015-09-28T08:21:00.031394+00:00"
+      },
+      "turn_1": {
+        "bidder": "a14a8b953db344b29b16fda221787624",
+        "time": "2015-09-28T08:19:00.095864+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4f0f4579037b4492acef97fb68ccfdea",
+        "time": "2015-09-28T08:09:00.099493+00:00"
+      },
+      "turn_1": {
+        "bidder": "a14a8b953db344b29b16fda221787624",
+        "time": "2015-09-28T08:07:00.093284+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a14a8b953db344b29b16fda221787624",
+          "amount": 15390.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-28T11:12:53.175598+03:00"
+        },
+        {
+          "bidder": "4f0f4579037b4492acef97fb68ccfdea",
+          "amount": 12969.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445833339, +380445833550, +380442464353",
+                "name": "Андрій Олександрович Черевко",
+                "email": "spec@tdsecurity.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТОРГОВИЙ ДІМ ОХОРОННІ СИСТЕМИ\"",
+                "id": "38964444",
+                "uri": "http://tdsecurity.com.ua"
+              },
+              "name": "ТОВ \"ТОРГОВИЙ ДІМ ОХОРОННІ СИСТЕМИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Еспланадна 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-28T08:50:02.187118+03:00"
+        }
+      ],
+      "time": "2015-09-28T08:21:07.503072+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T15:02:08.691516+03:00",
+          "amount": 15685.2,
+          "bidder": "a14a8b953db344b29b16fda221787624"
+        },
+        {
+          "date": "2015-09-28T08:50:02.187118+03:00",
+          "amount": 12969.0,
+          "bidder": "4f0f4579037b4492acef97fb68ccfdea"
+        }
+      ],
+      "time": "2015-09-28T08:00:00.058596+00:00"
+    }
+  },
+  "id": "971e3e1cfaf2421b9af33ca89f7974bc",
+  "tenderId": "UA-2015-09-16-000128"
+}

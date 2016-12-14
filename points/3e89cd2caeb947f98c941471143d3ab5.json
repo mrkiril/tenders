@@ -1,0 +1,173 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5881.22,
+        "bid_time": "2015-11-09T14:27:21.158793+02:00",
+        "bidder": "850367a3df244334a380aff4d16fc18d",
+        "time": "2015-11-09T12:28:56.010270+00:00"
+      },
+      "turn_3": {
+        "amount": 5880.0,
+        "bid_time": "2015-11-09T14:29:21.739193+02:00",
+        "bidder": "cb6d649adb954e7ea440f451475f7926",
+        "time": "2015-11-09T12:30:56.010619+00:00"
+      },
+      "turn_1": {
+        "amount": 6000.0,
+        "bid_time": "2015-11-09T14:26:05.939478+02:00",
+        "bidder": "609ba090aa59448dad0faa0418dad8f9",
+        "time": "2015-11-09T12:26:56.009971+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 5589.1,
+        "bid_time": "2015-11-09T14:36:03.255957+02:00",
+        "bidder": "850367a3df244334a380aff4d16fc18d",
+        "time": "2015-11-09T12:36:56.015792+00:00"
+      },
+      "turn_3": {
+        "amount": 5588.0,
+        "bid_time": "2015-11-09T14:37:17.812770+02:00",
+        "bidder": "cb6d649adb954e7ea440f451475f7926",
+        "time": "2015-11-09T12:38:56.017749+00:00"
+      },
+      "turn_1": {
+        "bidder": "609ba090aa59448dad0faa0418dad8f9",
+        "time": "2015-11-09T12:34:56.008488+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6109.52,
+        "bid_time": "2015-11-09T14:19:44.166370+02:00",
+        "bidder": "850367a3df244334a380aff4d16fc18d",
+        "time": "2015-11-09T12:20:56.010378+00:00"
+      },
+      "turn_3": {
+        "amount": 6100.0,
+        "bid_time": "2015-11-09T14:21:19.527503+02:00",
+        "bidder": "cb6d649adb954e7ea440f451475f7926",
+        "time": "2015-11-09T12:22:56.010302+00:00"
+      },
+      "turn_1": {
+        "amount": 6300.0,
+        "bid_time": "2015-11-09T14:18:17.003027+02:00",
+        "bidder": "609ba090aa59448dad0faa0418dad8f9",
+        "time": "2015-11-09T12:18:56.010450+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "609ba090aa59448dad0faa0418dad8f9",
+          "amount": 6000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-11-09T14:26:05.939478+02:00"
+        },
+        {
+          "bidder": "850367a3df244334a380aff4d16fc18d",
+          "amount": 5589.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380562347131",
+                "telephone": "+380562316006",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-09T14:36:03.255957+02:00"
+        },
+        {
+          "bidder": "cb6d649adb954e7ea440f451475f7926",
+          "amount": 5588.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lireco.com.ua",
+                "faxNumber": "+380567447606",
+                "telephone": "+380676320993",
+                "name": "Свідунов Ігор Юрійович",
+                "email": "info@lireco.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39997507"
+              },
+              "name": "ТОВ Ліреко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49044",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Шевченко 37",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-09T14:37:17.812770+02:00"
+        }
+      ],
+      "time": "2015-11-09T12:39:15.778760+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T17:45:52.282365+02:00",
+          "amount": 7027.68,
+          "bidder": "609ba090aa59448dad0faa0418dad8f9"
+        },
+        {
+          "date": "2015-11-06T14:57:02.000221+02:00",
+          "amount": 6441.78,
+          "bidder": "850367a3df244334a380aff4d16fc18d"
+        },
+        {
+          "date": "2015-11-05T09:37:13.916690+02:00",
+          "amount": 6361.02,
+          "bidder": "cb6d649adb954e7ea440f451475f7926"
+        }
+      ],
+      "time": "2015-11-09T12:11:56.004783+00:00"
+    }
+  },
+  "id": "3e89cd2caeb947f98c941471143d3ab5",
+  "tenderId": "UA-2015-10-29-000029"
+}

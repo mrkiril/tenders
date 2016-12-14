@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8090e203edd2471e903f517d2ac68d2a",
+        "time": "2015-11-04T10:27:40.011174+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab14e081a4e847fc82a9a5640a647f42",
+        "time": "2015-11-04T10:25:40.011153+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2867.0,
+        "bid_time": "2015-11-04T12:32:09.915414+02:00",
+        "bidder": "8090e203edd2471e903f517d2ac68d2a",
+        "time": "2015-11-04T10:33:40.010740+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab14e081a4e847fc82a9a5640a647f42",
+        "time": "2015-11-04T10:31:40.010946+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ab14e081a4e847fc82a9a5640a647f42",
+        "time": "2015-11-04T10:21:40.011139+00:00"
+      },
+      "turn_1": {
+        "amount": 2900.0,
+        "bid_time": "2015-11-04T12:18:18.562432+02:00",
+        "bidder": "8090e203edd2471e903f517d2ac68d2a",
+        "time": "2015-11-04T10:19:40.010697+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab14e081a4e847fc82a9a5640a647f42",
+          "amount": 2950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intermedica.com.ua/",
+                "faxNumber": "044-5012172",
+                "telephone": "067-3412172",
+                "name": "Бурцева Діана Сергіївна",
+                "email": "burtsevad@intermedica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38716182",
+                "legalName": "ТОВ \"Інтермедика-Україна\""
+              },
+              "name": "ТОВ \"Інтермедика-Україна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Гарматна 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T15:48:23.199788+02:00"
+        },
+        {
+          "bidder": "8090e203edd2471e903f517d2ac68d2a",
+          "amount": 2867.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567652750",
+                "telephone": "+380567891438",
+                "name": "Ребріна Вікторія Олександрівна",
+                "email": "alef-akkord@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1675206144"
+              },
+              "name": "ФОП Авдєєва Ангеліна Василіївна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49040",
+                "region": "Дніпропетровська область",
+                "streetAddress": "жм Тополя 2 буд.2 кор.5 кв.18",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:32:09.915414+02:00"
+        }
+      ],
+      "time": "2015-11-04T10:33:40.765922+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T12:02:23.350311+02:00",
+          "amount": 3100.0,
+          "bidder": "8090e203edd2471e903f517d2ac68d2a"
+        },
+        {
+          "date": "2015-11-02T15:48:23.199788+02:00",
+          "amount": 2950.0,
+          "bidder": "ab14e081a4e847fc82a9a5640a647f42"
+        }
+      ],
+      "time": "2015-11-04T10:12:40.005574+00:00"
+    }
+  },
+  "id": "14d909e4a43f4de68c84dd1a36504494",
+  "tenderId": "UA-2015-10-26-000259"
+}

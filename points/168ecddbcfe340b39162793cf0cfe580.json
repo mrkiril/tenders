@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 800.0,
+        "bid_time": "2015-08-20T11:16:03.203034+03:00",
+        "bidder": "ab09fe3091d549cf89fc4fbb68de630a",
+        "time": "2015-08-20T08:17:00.037661+00:00"
+      },
+      "turn_3": {
+        "bidder": "10d5a244ced340c0a48f2876057d1b5d",
+        "time": "2015-08-20T08:19:00.034451+00:00"
+      },
+      "turn_1": {
+        "bidder": "76870cc47b484e69857ad4d8250e166e",
+        "time": "2015-08-20T08:15:00.042732+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "10d5a244ced340c0a48f2876057d1b5d",
+        "time": "2015-08-20T08:25:00.091413+00:00"
+      },
+      "turn_3": {
+        "bidder": "ab09fe3091d549cf89fc4fbb68de630a",
+        "time": "2015-08-20T08:27:00.047461+00:00"
+      },
+      "turn_1": {
+        "bidder": "76870cc47b484e69857ad4d8250e166e",
+        "time": "2015-08-20T08:23:00.097749+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "76870cc47b484e69857ad4d8250e166e",
+        "time": "2015-08-20T08:09:00.100048+00:00"
+      },
+      "turn_3": {
+        "amount": 900.0,
+        "bid_time": "2015-08-20T11:09:28.170503+03:00",
+        "bidder": "10d5a244ced340c0a48f2876057d1b5d",
+        "time": "2015-08-20T08:11:00.125650+00:00"
+      },
+      "turn_1": {
+        "amount": 1100.0,
+        "bid_time": "2015-08-20T11:06:17.237179+03:00",
+        "bidder": "ab09fe3091d549cf89fc4fbb68de630a",
+        "time": "2015-08-20T08:07:00.117199+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "76870cc47b484e69857ad4d8250e166e",
+          "amount": 1700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.pareto.kiiev.ua/",
+                "telephone": "+380443619979",
+                "name": "ТОВ \"Центр оцінки власності \"ПАРЕТО\"",
+                "email": "development@pareto.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38138307",
+                "legalName": "ТОВ \"Центр оцінки власності \"ПАРЕТО\""
+              },
+              "name": "ТОВ \"Центр оцінки власності \"ПАРЕТО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03065 Україна  м. Київ, бульвар Лепсе, буд. 47/15, офіс 36",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T14:57:58.582280+03:00"
+        },
+        {
+          "bidder": "10d5a244ced340c0a48f2876057d1b5d",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ocenka-mariupol.com",
+                "telephone": "+380963018277",
+                "name": "Когут Дмитро Миколайович",
+                "email": "azov_garret@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2294910270"
+              },
+              "name": "ФОП Баранов В.В,",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87500",
+                "region": "Донецька область",
+                "streetAddress": "пр. Металургів, 113. кв.66",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-08-20T11:09:28.170503+03:00"
+        },
+        {
+          "bidder": "ab09fe3091d549cf89fc4fbb68de630a",
+          "amount": 800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380544947995",
+                "name": "Приватне підприємство «Науково-технічний ліцей «Фабрика»",
+                "email": "ntl.fabrika@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39332873",
+                "legalName": "Приватне підприємство «Науково-технічний ліцей «Фабрика»"
+              },
+              "name": "Приватне підприємство «Науково-технічний ліцей «Фабрика»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "41100 Сумська обл, м. Шостка, вул. Леніна, буд. 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T11:16:03.203034+03:00"
+        }
+      ],
+      "time": "2015-08-20T08:27:02.461322+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-14T14:57:58.582280+03:00",
+          "amount": 1700.0,
+          "bidder": "76870cc47b484e69857ad4d8250e166e"
+        },
+        {
+          "date": "2015-08-19T12:11:11.291769+03:00",
+          "amount": 1700.0,
+          "bidder": "ab09fe3091d549cf89fc4fbb68de630a"
+        },
+        {
+          "date": "2015-08-18T11:23:09.900409+03:00",
+          "amount": 1200.0,
+          "bidder": "10d5a244ced340c0a48f2876057d1b5d"
+        }
+      ],
+      "time": "2015-08-20T08:00:00.020622+00:00"
+    }
+  },
+  "id": "168ecddbcfe340b39162793cf0cfe580",
+  "tenderId": "UA-2015-08-10-000041"
+}

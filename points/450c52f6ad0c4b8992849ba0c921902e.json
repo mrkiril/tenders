@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "feaa2341b9414db3a602f1a4d3389fcd",
+        "time": "2015-08-07T08:17:00.047977+00:00"
+      },
+      "turn_3": {
+        "bidder": "96b3ea4cd75b4cb2adc207fc7fc6cfc4",
+        "time": "2015-08-07T08:19:00.081202+00:00"
+      },
+      "turn_1": {
+        "bidder": "277bfb5348314f28a749fa77d7d85fec",
+        "time": "2015-08-07T08:15:00.118648+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "feaa2341b9414db3a602f1a4d3389fcd",
+        "time": "2015-08-07T08:25:00.054275+00:00"
+      },
+      "turn_3": {
+        "bidder": "96b3ea4cd75b4cb2adc207fc7fc6cfc4",
+        "time": "2015-08-07T08:27:00.041238+00:00"
+      },
+      "turn_1": {
+        "bidder": "277bfb5348314f28a749fa77d7d85fec",
+        "time": "2015-08-07T08:23:00.053904+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "277bfb5348314f28a749fa77d7d85fec",
+        "time": "2015-08-07T08:09:00.078926+00:00"
+      },
+      "turn_3": {
+        "amount": 13950.0,
+        "bid_time": "2015-08-07T11:09:20.945559+03:00",
+        "bidder": "96b3ea4cd75b4cb2adc207fc7fc6cfc4",
+        "time": "2015-08-07T08:11:00.073810+00:00"
+      },
+      "turn_1": {
+        "amount": 14200.0,
+        "bid_time": "2015-08-07T11:05:57.671939+03:00",
+        "bidder": "feaa2341b9414db3a602f1a4d3389fcd",
+        "time": "2015-08-07T08:07:00.048875+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "277bfb5348314f28a749fa77d7d85fec",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sea.com.ua",
+                "telephone": "+380442910041",
+                "name": " Электроникс Украина",
+                "email": "ums@sea.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38013262",
+                "legalName": " Электроникс Украина"
+              },
+              "name": " Электроникс Украина",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Краківська,  буд.13-Б, корп. 2,  м. Київ, 02094",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T16:03:04.279735+03:00"
+        },
+        {
+          "bidder": "feaa2341b9414db3a602f1a4d3389fcd",
+          "amount": 14200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elfarfor.com.ua/",
+                "telephone": "+380442732978",
+                "name": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\"",
+                "email": "olga@elfarfor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34729004",
+                "legalName": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\""
+              },
+              "name": "Частное предприятие \"ЭЛЕКТРОФАРФОР 2000\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01103, г.Киев, бульвар Дружбы Народов, 10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-07T11:05:57.671939+03:00"
+        },
+        {
+          "bidder": "96b3ea4cd75b4cb2adc207fc7fc6cfc4",
+          "amount": 13950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.evocom.ua",
+                "telephone": "+380445201913",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА",
+                "email": "info@evocom.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38606994",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03110, м. Київ, вул. СОЛОМ'ЯНСЬКА, буд. 3-Б оф. 104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-07T11:09:20.945559+03:00"
+        }
+      ],
+      "time": "2015-08-07T08:27:03.541282+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-04T16:03:04.279735+03:00",
+          "amount": 15000.0,
+          "bidder": "277bfb5348314f28a749fa77d7d85fec"
+        },
+        {
+          "date": "2015-08-06T10:56:19.235630+03:00",
+          "amount": 15000.0,
+          "bidder": "feaa2341b9414db3a602f1a4d3389fcd"
+        },
+        {
+          "date": "2015-08-05T14:29:16.754258+03:00",
+          "amount": 14400.0,
+          "bidder": "96b3ea4cd75b4cb2adc207fc7fc6cfc4"
+        }
+      ],
+      "time": "2015-08-07T08:00:00.050720+00:00"
+    }
+  },
+  "id": "450c52f6ad0c4b8992849ba0c921902e",
+  "tenderId": "UA-2015-07-24-000027"
+}

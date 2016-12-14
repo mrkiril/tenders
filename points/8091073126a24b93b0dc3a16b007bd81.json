@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "ae5cc94a22e142ddac275a9fcdada3d2",
+        "time": "2015-10-27T12:34:54.008563+00:00"
+      },
+      "turn_2": {
+        "bidder": "7d2a8520089f449dbf138663f6b801c4",
+        "time": "2015-10-27T12:30:54.006518+00:00"
+      },
+      "turn_3": {
+        "bidder": "b5c62c49141044a991f51c2839b26fc7",
+        "time": "2015-10-27T12:32:54.007053+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e814b760fc47f39bd081db54c3ad2e",
+        "time": "2015-10-27T12:28:54.006284+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ae5cc94a22e142ddac275a9fcdada3d2",
+        "time": "2015-10-27T12:44:54.006574+00:00"
+      },
+      "turn_2": {
+        "bidder": "7d2a8520089f449dbf138663f6b801c4",
+        "time": "2015-10-27T12:40:54.006884+00:00"
+      },
+      "turn_3": {
+        "bidder": "b5c62c49141044a991f51c2839b26fc7",
+        "time": "2015-10-27T12:42:54.010207+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e814b760fc47f39bd081db54c3ad2e",
+        "time": "2015-10-27T12:38:54.005303+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "ae5cc94a22e142ddac275a9fcdada3d2",
+        "time": "2015-10-27T12:24:54.006881+00:00"
+      },
+      "turn_2": {
+        "bidder": "7d2a8520089f449dbf138663f6b801c4",
+        "time": "2015-10-27T12:20:54.006528+00:00"
+      },
+      "turn_3": {
+        "bidder": "b5c62c49141044a991f51c2839b26fc7",
+        "time": "2015-10-27T12:22:54.008327+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6e814b760fc47f39bd081db54c3ad2e",
+        "time": "2015-10-27T12:18:54.007421+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6e814b760fc47f39bd081db54c3ad2e",
+          "amount": 2340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aeq.su",
+                "faxNumber": "+380617070959",
+                "telephone": "+380679979779",
+                "name": "Титаренко Роман Валентинович",
+                "email": "4585999@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23850511"
+              },
+              "name": "ТОВ Екватор",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69120",
+                "region": "Запорізька область",
+                "streetAddress": "вул. Авраменка, 6",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-10-23T17:12:09.878313+03:00"
+        },
+        {
+          "bidder": "7d2a8520089f449dbf138663f6b801c4",
+          "amount": 2100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961066666",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕНЕРГОМЕРЕЖА\"",
+                "email": "alugovets@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38923104",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕНЕРГОМЕРЕЖА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕНЕРГОМЕРЕЖА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01033, м. Київ, вул. Саксаганського Буд.83а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T10:35:09.693906+02:00"
+        },
+        {
+          "bidder": "b5c62c49141044a991f51c2839b26fc7",
+          "amount": 1848.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-23T14:49:15.294027+03:00"
+        },
+        {
+          "bidder": "ae5cc94a22e142ddac275a9fcdada3d2",
+          "amount": 1080.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445370138",
+                "name": "ООО \"Ойл Груп ЛТД\"",
+                "email": "tender@oilgroup.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31485605",
+                "legalName": "ООО \"Ойл Груп ЛТД\""
+              },
+              "name": "ООО \"Ойл Груп ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02160, г. Киев, ул. Фанерная, 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T14:22:39.997145+03:00"
+        }
+      ],
+      "time": "2015-10-27T12:44:55.841743+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T17:12:09.878313+03:00",
+          "amount": 2340.0,
+          "bidder": "b6e814b760fc47f39bd081db54c3ad2e"
+        },
+        {
+          "date": "2015-10-26T10:35:09.693906+02:00",
+          "amount": 2100.0,
+          "bidder": "7d2a8520089f449dbf138663f6b801c4"
+        },
+        {
+          "date": "2015-10-23T14:49:15.294027+03:00",
+          "amount": 1848.0,
+          "bidder": "b5c62c49141044a991f51c2839b26fc7"
+        },
+        {
+          "date": "2015-10-23T14:22:39.997145+03:00",
+          "amount": 1080.0,
+          "bidder": "ae5cc94a22e142ddac275a9fcdada3d2"
+        }
+      ],
+      "time": "2015-10-27T12:11:54.003538+00:00"
+    }
+  },
+  "id": "8091073126a24b93b0dc3a16b007bd81",
+  "tenderId": "UA-2015-10-21-000263"
+}

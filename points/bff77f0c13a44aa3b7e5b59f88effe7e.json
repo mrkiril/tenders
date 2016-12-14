@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c735594e24f9403dbe9d39874ad0419f",
+        "time": "2015-12-15T12:58:24.008105+00:00"
+      },
+      "turn_1": {
+        "bidder": "eae303ddb6994ddd8ab82e2640b3730c",
+        "time": "2015-12-15T12:56:24.008496+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c735594e24f9403dbe9d39874ad0419f",
+        "time": "2015-12-15T13:04:24.030503+00:00"
+      },
+      "turn_1": {
+        "bidder": "eae303ddb6994ddd8ab82e2640b3730c",
+        "time": "2015-12-15T13:02:24.008203+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c735594e24f9403dbe9d39874ad0419f",
+        "time": "2015-12-15T12:52:24.008850+00:00"
+      },
+      "turn_1": {
+        "bidder": "eae303ddb6994ddd8ab82e2640b3730c",
+        "time": "2015-12-15T12:50:24.010439+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eae303ddb6994ddd8ab82e2640b3730c",
+          "amount": 860.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.imidgbud.com/",
+                "faxNumber": "0444677845",
+                "telephone": "0674084869",
+                "name": "Паламарчук Надія Леонідівна",
+                "email": "imidg.oficce@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33153538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул. Кирилівська, буд. 40/42",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T10:26:40.395658+02:00"
+        },
+        {
+          "bidder": "c735594e24f9403dbe9d39874ad0419f",
+          "amount": 711.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://owel-shop.com.ua/",
+                "telephone": "+380637173591",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОВЕЛЬ\"",
+                "email": "lexxxusik@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37756528",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОВЕЛЬ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОВЕЛЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Петропавловская Борщаговка, СК \"Чайка\", ул. Антонова, 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T16:37:02.668626+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:04:27.751920+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T10:26:40.395658+02:00",
+          "amount": 860.0,
+          "bidder": "eae303ddb6994ddd8ab82e2640b3730c"
+        },
+        {
+          "date": "2015-12-11T16:37:02.668626+02:00",
+          "amount": 711.0,
+          "bidder": "c735594e24f9403dbe9d39874ad0419f"
+        }
+      ],
+      "time": "2015-12-15T12:43:24.005047+00:00"
+    }
+  },
+  "id": "bff77f0c13a44aa3b7e5b59f88effe7e",
+  "tenderId": "UA-2015-12-04-000148-b"
+}

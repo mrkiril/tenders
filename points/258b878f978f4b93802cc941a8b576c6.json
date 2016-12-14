@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b369c3006492425ea9257ad2bf3aa773",
+        "time": "2015-12-01T09:20:58.010580+00:00"
+      },
+      "turn_1": {
+        "bidder": "16bf80cefab34cd2ac29760a129fda1c",
+        "time": "2015-12-01T09:18:58.009409+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b369c3006492425ea9257ad2bf3aa773",
+        "time": "2015-12-01T09:26:58.013617+00:00"
+      },
+      "turn_1": {
+        "bidder": "16bf80cefab34cd2ac29760a129fda1c",
+        "time": "2015-12-01T09:24:58.009994+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b369c3006492425ea9257ad2bf3aa773",
+        "time": "2015-12-01T09:14:58.010934+00:00"
+      },
+      "turn_1": {
+        "bidder": "16bf80cefab34cd2ac29760a129fda1c",
+        "time": "2015-12-01T09:12:58.009903+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "16bf80cefab34cd2ac29760a129fda1c",
+          "amount": 37203.02,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uml.com.ua",
+                "faxNumber": "0445483432",
+                "telephone": "0674073642",
+                "name": "Дашкевич Сергій Валентинович",
+                "email": "ukrmontagelux@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33147770",
+                "legalName": "Товариство з обмеженою відповідльністю \"Укрмонтажлюкс\""
+              },
+              "name": "Товариство з обмеженою відповідльністю \"Укрмонтажлюкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська",
+                "streetAddress": "вул. Зрошувальна, буд. 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T13:18:21.331501+02:00"
+        },
+        {
+          "bidder": "b369c3006492425ea9257ad2bf3aa773",
+          "amount": 35000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.contractpol.com.ua",
+                "faxNumber": "+380444943361",
+                "telephone": "+380962030897",
+                "name": "Кривошея Руслан Володимирович",
+                "email": "krv1410@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38891979"
+              },
+              "name": "ТОВ ТОВ «ТБК Атлант»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02166",
+                "region": "Київська область",
+                "streetAddress": "проспект Лісовий 41,кім. 200",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T13:47:35.308175+02:00"
+        }
+      ],
+      "time": "2015-12-01T09:26:59.716226+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T13:18:21.331501+02:00",
+          "amount": 37203.02,
+          "bidder": "16bf80cefab34cd2ac29760a129fda1c"
+        },
+        {
+          "date": "2015-11-26T13:47:35.308175+02:00",
+          "amount": 35000.0,
+          "bidder": "b369c3006492425ea9257ad2bf3aa773"
+        }
+      ],
+      "time": "2015-12-01T09:05:58.004543+00:00"
+    }
+  },
+  "id": "258b878f978f4b93802cc941a8b576c6",
+  "tenderId": "UA-2015-11-24-000015-b"
+}

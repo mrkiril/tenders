@@ -1,0 +1,297 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "ee6d34ccf3e14f39a0ea56c51d5da01b",
+        "time": "2015-09-28T09:01:00.020184+00:00"
+      },
+      "turn_4": {
+        "bidder": "f3e71b67d41b463d971bd6d0509c7aa4",
+        "time": "2015-09-28T08:57:00.030496+00:00"
+      },
+      "turn_5": {
+        "bidder": "b3e0b359e89d4078be1dd97de5196ed3",
+        "time": "2015-09-28T08:59:00.031587+00:00"
+      },
+      "turn_2": {
+        "bidder": "bfcba2d76af8407480f4ec34e81d55ee",
+        "time": "2015-09-28T08:53:00.034725+00:00"
+      },
+      "turn_3": {
+        "bidder": "cd8c32ee812448749cfb643cf3f01f2f",
+        "time": "2015-09-28T08:55:00.054922+00:00"
+      },
+      "turn_1": {
+        "bidder": "420a0bb79a374913961c3075961b6750",
+        "time": "2015-09-28T08:51:00.043448+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "amount": 10110.0,
+        "bid_time": "2015-09-28T12:13:28.991433+03:00",
+        "bidder": "ee6d34ccf3e14f39a0ea56c51d5da01b",
+        "time": "2015-09-28T09:15:00.153443+00:00"
+      },
+      "turn_4": {
+        "bidder": "f3e71b67d41b463d971bd6d0509c7aa4",
+        "time": "2015-09-28T09:11:00.080200+00:00"
+      },
+      "turn_5": {
+        "amount": 10112.0,
+        "bid_time": "2015-09-28T12:11:42.654932+03:00",
+        "bidder": "b3e0b359e89d4078be1dd97de5196ed3",
+        "time": "2015-09-28T09:13:00.068254+00:00"
+      },
+      "turn_2": {
+        "bidder": "bfcba2d76af8407480f4ec34e81d55ee",
+        "time": "2015-09-28T09:07:00.022954+00:00"
+      },
+      "turn_3": {
+        "bidder": "cd8c32ee812448749cfb643cf3f01f2f",
+        "time": "2015-09-28T09:09:00.074484+00:00"
+      },
+      "turn_1": {
+        "bidder": "420a0bb79a374913961c3075961b6750",
+        "time": "2015-09-28T09:05:00.081446+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "ee6d34ccf3e14f39a0ea56c51d5da01b",
+        "time": "2015-09-28T08:47:00.061004+00:00"
+      },
+      "turn_4": {
+        "bidder": "cd8c32ee812448749cfb643cf3f01f2f",
+        "time": "2015-09-28T08:43:00.038737+00:00"
+      },
+      "turn_5": {
+        "bidder": "b3e0b359e89d4078be1dd97de5196ed3",
+        "time": "2015-09-28T08:45:00.050196+00:00"
+      },
+      "turn_2": {
+        "amount": 17088.0,
+        "bid_time": "2015-09-28T11:37:37.905548+03:00",
+        "bidder": "f3e71b67d41b463d971bd6d0509c7aa4",
+        "time": "2015-09-28T08:39:00.117050+00:00"
+      },
+      "turn_3": {
+        "bidder": "bfcba2d76af8407480f4ec34e81d55ee",
+        "time": "2015-09-28T08:41:00.055253+00:00"
+      },
+      "turn_1": {
+        "amount": 23970.0,
+        "bid_time": "2015-09-28T11:35:14.663910+03:00",
+        "bidder": "420a0bb79a374913961c3075961b6750",
+        "time": "2015-09-28T08:37:00.099030+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "420a0bb79a374913961c3075961b6750",
+          "amount": 23970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380668072753",
+                "name": "Яременко Юлія Михайлівна",
+                "email": "sjm19@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2756300762"
+              },
+              "name": "ФОП Яременко Ю. М,",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61123",
+                "region": "Харківська область",
+                "streetAddress": "вул. Уборевича б.52 кв. 58",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-28T11:35:14.663910+03:00"
+        },
+        {
+          "bidder": "bfcba2d76af8407480f4ec34e81d55ee",
+          "amount": 23808.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interdez.com.ua",
+                "faxNumber": "0442060151",
+                "telephone": "0442060150",
+                "name": "Ямковий Олександр Олексійович",
+                "email": "alexandr@interdez.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37403360",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтердез\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтердез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01011",
+                "region": "Київська",
+                "streetAddress": "Печерський узвіз,15",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T10:44:04.156108+03:00"
+        },
+        {
+          "bidder": "cd8c32ee812448749cfb643cf3f01f2f",
+          "amount": 21696.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0522372451",
+                "telephone": "0522270203",
+                "name": "Приватне підприємство \"ВКФ Аеротандем\"",
+                "email": "himpk@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33877855",
+                "legalName": "Приватне підприємство \"ВКФ Аеротандем\""
+              },
+              "name": "Приватне підприємство \"ВКФ Аеротандем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "25019",
+                "region": "Кіровоградська",
+                "streetAddress": "пров. О. Вишні,18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T14:47:57.211796+03:00"
+        },
+        {
+          "bidder": "f3e71b67d41b463d971bd6d0509c7aa4",
+          "amount": 17088.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38093 70 44 531, +38044 206 08 54",
+                "name": "Татьяна Кузьмина",
+                "email": "tkuzmina01@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Профи МЗ\"",
+                "id": "36147250",
+                "uri": "http://uhc.com.ua"
+              },
+              "name": "ТОВ \"Профи МЗ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "а/с 52",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-28T11:37:37.905548+03:00"
+        },
+        {
+          "bidder": "b3e0b359e89d4078be1dd97de5196ed3",
+          "amount": 10112.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443619777",
+                "name": "Поворознюк Ігор Валентинович",
+                "email": "pilotigor@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2414113430"
+              },
+              "name": "ФОП Поворознюк Ігор Валентинович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14005",
+                "region": "Чернігівська область",
+                "streetAddress": "вул. 1 Гвардійської Армії, буд.4, кв. 143",
+                "locality": "Чернігів"
+              }
+            }
+          ],
+          "time": "2015-09-28T12:11:42.654932+03:00"
+        },
+        {
+          "bidder": "ee6d34ccf3e14f39a0ea56c51d5da01b",
+          "amount": 10110.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.novagrup.com.ua",
+                "telephone": "+380677781547",
+                "name": "Альянс Новагрупп",
+                "email": "novagrup@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37613482",
+                "legalName": "Альянс Новагрупп"
+              },
+              "name": "Альянс Новагрупп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна ,м.Львів ,вул. Наукова 61/55",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-28T12:13:28.991433+03:00"
+        }
+      ],
+      "time": "2015-09-28T09:15:12.042903+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T10:19:44.308704+03:00",
+          "amount": 24000.0,
+          "bidder": "420a0bb79a374913961c3075961b6750"
+        },
+        {
+          "date": "2015-09-24T10:44:04.156108+03:00",
+          "amount": 23808.0,
+          "bidder": "bfcba2d76af8407480f4ec34e81d55ee"
+        },
+        {
+          "date": "2015-09-24T14:37:29.093909+03:00",
+          "amount": 23808.0,
+          "bidder": "f3e71b67d41b463d971bd6d0509c7aa4"
+        },
+        {
+          "date": "2015-09-23T14:47:57.211796+03:00",
+          "amount": 21696.0,
+          "bidder": "cd8c32ee812448749cfb643cf3f01f2f"
+        },
+        {
+          "date": "2015-09-24T16:54:15.900127+03:00",
+          "amount": 11520.0,
+          "bidder": "b3e0b359e89d4078be1dd97de5196ed3"
+        },
+        {
+          "date": "2015-09-22T15:07:02.341663+03:00",
+          "amount": 10240.0,
+          "bidder": "ee6d34ccf3e14f39a0ea56c51d5da01b"
+        }
+      ],
+      "time": "2015-09-28T08:30:00.013318+00:00"
+    }
+  },
+  "id": "2f13301572e94caba9ff313c63725cf3",
+  "tenderId": "UA-2015-09-21-000023"
+}

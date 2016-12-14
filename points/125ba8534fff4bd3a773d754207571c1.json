@@ -1,0 +1,383 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "39ad9f45726a479aa7dabefdf2fbcf04",
+        "time": "2015-07-15T09:05:00.024571+00:00"
+      },
+      "turn_7": {
+        "bidder": "2293ca251ad24c35a266f6f276a56031",
+        "time": "2015-07-15T09:07:00.039418+00:00"
+      },
+      "turn_4": {
+        "bidder": "e477e42fa41044b587b22bcc8ed61c81",
+        "time": "2015-07-15T09:01:00.018273+00:00"
+      },
+      "turn_5": {
+        "bidder": "c4985fb783e946deb5663963821c7fe1",
+        "time": "2015-07-15T09:03:00.025422+00:00"
+      },
+      "turn_2": {
+        "bidder": "03a7f9f28fbe43de8861c686587efc40",
+        "time": "2015-07-15T08:57:00.016872+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9d47cee82c5467a80946bbf5ce64db9",
+        "time": "2015-07-15T08:59:00.023882+00:00"
+      },
+      "turn_1": {
+        "amount": 2280.0,
+        "bid_time": "2015-07-15T11:53:23.769816+03:00",
+        "bidder": "548dfd42ea764b0682399f79ebe0bfbf",
+        "time": "2015-07-15T08:55:00.022858+00:00"
+      },
+      "turn_8": {
+        "bidder": "bbde3ddf2cb04a868f4938f38d5937f2",
+        "time": "2015-07-15T09:09:00.032710+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "39ad9f45726a479aa7dabefdf2fbcf04",
+        "time": "2015-07-15T09:23:00.025584+00:00"
+      },
+      "turn_7": {
+        "bidder": "2293ca251ad24c35a266f6f276a56031",
+        "time": "2015-07-15T09:25:00.026213+00:00"
+      },
+      "turn_4": {
+        "bidder": "c4985fb783e946deb5663963821c7fe1",
+        "time": "2015-07-15T09:19:00.026032+00:00"
+      },
+      "turn_5": {
+        "amount": 2270.0,
+        "bid_time": "2015-07-15T12:20:17.577293+03:00",
+        "bidder": "548dfd42ea764b0682399f79ebe0bfbf",
+        "time": "2015-07-15T09:21:00.043159+00:00"
+      },
+      "turn_2": {
+        "bidder": "d9d47cee82c5467a80946bbf5ce64db9",
+        "time": "2015-07-15T09:15:00.025955+00:00"
+      },
+      "turn_3": {
+        "bidder": "e477e42fa41044b587b22bcc8ed61c81",
+        "time": "2015-07-15T09:17:00.025431+00:00"
+      },
+      "turn_1": {
+        "bidder": "03a7f9f28fbe43de8861c686587efc40",
+        "time": "2015-07-15T09:13:00.027311+00:00"
+      },
+      "turn_8": {
+        "bidder": "bbde3ddf2cb04a868f4938f38d5937f2",
+        "time": "2015-07-15T09:27:00.034756+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "c4985fb783e946deb5663963821c7fe1",
+        "time": "2015-07-15T08:47:00.017481+00:00"
+      },
+      "turn_7": {
+        "bidder": "39ad9f45726a479aa7dabefdf2fbcf04",
+        "time": "2015-07-15T08:49:00.019570+00:00"
+      },
+      "turn_4": {
+        "amount": 2200.0,
+        "bid_time": "2015-07-15T11:41:31.259786+03:00",
+        "bidder": "2293ca251ad24c35a266f6f276a56031",
+        "time": "2015-07-15T08:43:00.030449+00:00"
+      },
+      "turn_5": {
+        "bidder": "e477e42fa41044b587b22bcc8ed61c81",
+        "time": "2015-07-15T08:45:00.049484+00:00"
+      },
+      "turn_2": {
+        "bidder": "03a7f9f28fbe43de8861c686587efc40",
+        "time": "2015-07-15T08:39:00.033288+00:00"
+      },
+      "turn_3": {
+        "bidder": "d9d47cee82c5467a80946bbf5ce64db9",
+        "time": "2015-07-15T08:41:00.035710+00:00"
+      },
+      "turn_1": {
+        "bidder": "548dfd42ea764b0682399f79ebe0bfbf",
+        "time": "2015-07-15T08:37:00.035372+00:00"
+      },
+      "turn_8": {
+        "bidder": "bbde3ddf2cb04a868f4938f38d5937f2",
+        "time": "2015-07-15T08:51:00.033482+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03a7f9f28fbe43de8861c686587efc40",
+          "amount": 2496.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962455533",
+                "name": "Товариство з обмеженою відповідальністю Респект КР",
+                "email": "respekt-kr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34684757",
+                "legalName": "Товариство з обмеженою відповідальністю Респект КР"
+              },
+              "name": "Товариство з обмеженою відповідальністю Респект КР",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Орджонікідзе 25. м. Кривий \r\nРіг. Дніпропетровська обл., 50005",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-13T13:03:32.042516+03:00"
+        },
+        {
+          "bidder": "d9d47cee82c5467a80946bbf5ce64db9",
+          "amount": 2448.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380617875316",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП",
+                "email": "r.e.g@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39385396",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ ЕНЕРДЖІ ГРУП",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69600, м.Запоріжжя пр.Леніна буд. 152, оф.174",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T11:48:42.490317+03:00"
+        },
+        {
+          "bidder": "e477e42fa41044b587b22bcc8ed61c81",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380963147404",
+                "name": "ООО \"Майком\"",
+                "email": "yana.d@axiomplus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37311301",
+                "legalName": "ООО \"Майком\""
+              },
+              "name": "ООО \"Майком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03142",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "ул. Академика Крымского, 27-А",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-14T18:01:23.920151+03:00"
+        },
+        {
+          "bidder": "c4985fb783e946deb5663963821c7fe1",
+          "amount": 2298.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689818204",
+                "name": "Дана Мироненко",
+                "email": "mirondana@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38069357",
+                "legalName": "ТОВ \"Торговый Дом Светоприбор\""
+              },
+              "name": "ТОВ \"Торговый Дом Светоприбор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69035",
+                "region": "Запорожская",
+                "streetAddress": "ул. 40 лет Советской Украины, 82",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-07-15T08:21:36.687061+03:00"
+        },
+        {
+          "bidder": "548dfd42ea764b0682399f79ebe0bfbf",
+          "amount": 2270.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T12:20:17.577293+03:00"
+        },
+        {
+          "bidder": "39ad9f45726a479aa7dabefdf2fbcf04",
+          "amount": 2219.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prosvit.com.ua",
+                "telephone": "+380443511121",
+                "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+                "email": "ibrand@prosvit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "355721131",
+                "legalName": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м.Київ вул.Машинобудівна,42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-10T11:31:18.599357+03:00"
+        },
+        {
+          "bidder": "2293ca251ad24c35a266f6f276a56031",
+          "amount": 2200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962428468",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+                "email": "art-medvedkov@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31166456",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Запоріжжя вул.Макаренко. буд.9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T11:41:31.259786+03:00"
+        },
+        {
+          "bidder": "bbde3ddf2cb04a868f4938f38d5937f2",
+          "amount": 55.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ledteplo.com.ua/",
+                "telephone": "+380503813528",
+                "name": "Товариство з обмеженою вiдповiдальнiстю \"СТЕМ-АВТО\"",
+                "email": "kop@stemavto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34884004",
+                "legalName": "Товариство з обмеженою вiдповiдальнiстю \"СТЕМ-АВТО\""
+              },
+              "name": "Товариство з обмеженою вiдповiдальнiстю \"СТЕМ-АВТО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, м. Дніпропетровськ, пр.Героїв, б.11, кв. 57",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-10T12:27:25.394991+03:00"
+        }
+      ],
+      "time": "2015-07-15T09:27:03.221222+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-10T11:02:49.119946+03:00",
+          "amount": 2524.0,
+          "bidder": "548dfd42ea764b0682399f79ebe0bfbf"
+        },
+        {
+          "date": "2015-07-13T13:03:32.042516+03:00",
+          "amount": 2496.0,
+          "bidder": "03a7f9f28fbe43de8861c686587efc40"
+        },
+        {
+          "date": "2015-07-14T11:48:42.490317+03:00",
+          "amount": 2448.0,
+          "bidder": "d9d47cee82c5467a80946bbf5ce64db9"
+        },
+        {
+          "date": "2015-07-14T16:20:50.524089+03:00",
+          "amount": 2304.0,
+          "bidder": "2293ca251ad24c35a266f6f276a56031"
+        },
+        {
+          "date": "2015-07-14T18:01:23.920151+03:00",
+          "amount": 2300.0,
+          "bidder": "e477e42fa41044b587b22bcc8ed61c81"
+        },
+        {
+          "date": "2015-07-15T08:21:36.687061+03:00",
+          "amount": 2298.4,
+          "bidder": "c4985fb783e946deb5663963821c7fe1"
+        },
+        {
+          "date": "2015-07-10T11:31:18.599357+03:00",
+          "amount": 2219.04,
+          "bidder": "39ad9f45726a479aa7dabefdf2fbcf04"
+        },
+        {
+          "date": "2015-07-10T12:27:25.394991+03:00",
+          "amount": 55.4,
+          "bidder": "bbde3ddf2cb04a868f4938f38d5937f2"
+        }
+      ],
+      "time": "2015-07-15T08:30:00.002088+00:00"
+    }
+  },
+  "id": "125ba8534fff4bd3a773d754207571c1",
+  "tenderId": "UA-2015-07-09-000076"
+}

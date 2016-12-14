@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "077333cec48641a8b32a3ccb12da5238",
+        "time": "2015-12-10T09:24:43.009825+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a54560f62904bbda10cd7a097a64a86",
+        "time": "2015-12-10T09:22:43.008273+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "077333cec48641a8b32a3ccb12da5238",
+        "time": "2015-12-10T09:30:43.010114+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a54560f62904bbda10cd7a097a64a86",
+        "time": "2015-12-10T09:28:43.007741+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "077333cec48641a8b32a3ccb12da5238",
+        "time": "2015-12-10T09:18:43.006459+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a54560f62904bbda10cd7a097a64a86",
+        "time": "2015-12-10T09:16:43.008753+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4a54560f62904bbda10cd7a097a64a86",
+          "amount": 4650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:55:56.476578+02:00"
+        },
+        {
+          "bidder": "077333cec48641a8b32a3ccb12da5238",
+          "amount": 4108.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "756-34-51",
+                "telephone": "0662316336",
+                "name": "Петренко Інна Вячеславівна",
+                "email": "petrenkoinna@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38492870",
+                "legalName": "Товариство з обмеженою відповідальністю \" Аптека №5+\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" Аптека №5+\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61050",
+                "region": "Харківська",
+                "streetAddress": "вул. Франківська , 4",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-07T17:09:06.973843+02:00"
+        }
+      ],
+      "time": "2015-12-10T09:30:44.791026+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T13:55:56.476578+02:00",
+          "amount": 4650.0,
+          "bidder": "4a54560f62904bbda10cd7a097a64a86"
+        },
+        {
+          "date": "2015-12-07T17:09:06.973843+02:00",
+          "amount": 4108.8,
+          "bidder": "077333cec48641a8b32a3ccb12da5238"
+        }
+      ],
+      "time": "2015-12-10T09:09:43.004123+00:00"
+    }
+  },
+  "id": "25894efe915d4d2abe42b9ea174cd5cf",
+  "tenderId": "UA-2015-12-03-000113-b"
+}

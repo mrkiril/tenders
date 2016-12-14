@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "738beb40e3454ebd914c16f2d837480f",
+        "time": "2015-10-02T10:54:39.009829+00:00"
+      },
+      "turn_3": {
+        "bidder": "cfcb8f72395344acbbb00399ad5ca2d7",
+        "time": "2015-10-02T10:56:39.012514+00:00"
+      },
+      "turn_1": {
+        "bidder": "291dac9b389842299fb3f60568976d10",
+        "time": "2015-10-02T10:52:39.007952+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "738beb40e3454ebd914c16f2d837480f",
+        "time": "2015-10-02T11:02:39.006810+00:00"
+      },
+      "turn_3": {
+        "bidder": "cfcb8f72395344acbbb00399ad5ca2d7",
+        "time": "2015-10-02T11:04:39.006212+00:00"
+      },
+      "turn_1": {
+        "bidder": "291dac9b389842299fb3f60568976d10",
+        "time": "2015-10-02T11:00:39.008556+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "738beb40e3454ebd914c16f2d837480f",
+        "time": "2015-10-02T10:46:39.008037+00:00"
+      },
+      "turn_3": {
+        "bidder": "cfcb8f72395344acbbb00399ad5ca2d7",
+        "time": "2015-10-02T10:48:39.007876+00:00"
+      },
+      "turn_1": {
+        "bidder": "291dac9b389842299fb3f60568976d10",
+        "time": "2015-10-02T10:44:39.007331+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "291dac9b389842299fb3f60568976d10",
+          "amount": 70378.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-01T17:02:42.438566+03:00"
+        },
+        {
+          "bidder": "738beb40e3454ebd914c16f2d837480f",
+          "amount": 68001.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://averlend.com.ua/",
+                "faxNumber": "+380444909226",
+                "telephone": "+380963621211",
+                "name": "Чекменьова Світлана Петрівна",
+                "email": "chekmeneva.s@averlend.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37313707"
+              },
+              "name": "ТОВ АВЕРЛЕНД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03186",
+                "region": "Київська область",
+                "streetAddress": "вул. Ав. Антонова 5-Б, оф. 408",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-01T15:57:48.560119+03:00"
+        },
+        {
+          "bidder": "cfcb8f72395344acbbb00399ad5ca2d7",
+          "amount": 62580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kalita.kiev.ua/",
+                "faxNumber": "+380442054239",
+                "telephone": "+380442054238",
+                "name": "Оніпченко Ольга Олександрівна",
+                "email": "2054238@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33156937"
+              },
+              "name": "ТОВ «Торгово – виробнича компанія «Марля Клуб «Калита»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04116",
+                "region": "Київська область",
+                "streetAddress": "вул. В.Василевської, буд. 27-29",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-01T12:36:05.638425+03:00"
+        }
+      ],
+      "time": "2015-10-02T11:04:42.997825+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-01T17:02:42.438566+03:00",
+          "amount": 70378.2,
+          "bidder": "291dac9b389842299fb3f60568976d10"
+        },
+        {
+          "date": "2015-10-01T15:57:48.560119+03:00",
+          "amount": 68001.1,
+          "bidder": "738beb40e3454ebd914c16f2d837480f"
+        },
+        {
+          "date": "2015-10-01T12:36:05.638425+03:00",
+          "amount": 62580.0,
+          "bidder": "cfcb8f72395344acbbb00399ad5ca2d7"
+        }
+      ],
+      "time": "2015-10-02T10:37:39.003899+00:00"
+    }
+  },
+  "id": "3cc7cb4c3977414bb8b8de4910fc1282",
+  "tenderId": "UA-2015-09-30-000074"
+}

@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f80e3636d43b46169cdfd872dd452992",
+        "time": "2015-12-01T09:54:02.009878+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f073c099b4745a0a551f1e8e9006c65",
+        "time": "2015-12-01T09:52:02.010686+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f80e3636d43b46169cdfd872dd452992",
+        "time": "2015-12-01T10:00:02.030732+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f073c099b4745a0a551f1e8e9006c65",
+        "time": "2015-12-01T09:58:02.010573+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f80e3636d43b46169cdfd872dd452992",
+        "time": "2015-12-01T09:48:02.011054+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f073c099b4745a0a551f1e8e9006c65",
+        "time": "2015-12-01T09:46:02.020584+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2f073c099b4745a0a551f1e8e9006c65",
+          "amount": 4950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380635698080",
+                "name": "Мамоніка Михайло Луіндула",
+                "email": "nomerodun77@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39406709"
+              },
+              "name": "ТОВ АВТОГАРАНТСВІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Сагайдачного, буд. 29 літ А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T12:17:32.172656+02:00"
+        },
+        {
+          "bidder": "f80e3636d43b46169cdfd872dd452992",
+          "amount": 4890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443446776",
+                "name": "Шевчук Михайло Петрович",
+                "email": "7MADMAX77@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40029122"
+              },
+              "name": "ТОВ СОЛЮШИН АТОЛС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська область",
+                "streetAddress": "вул. Васильківська 14",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T12:27:12.251655+02:00"
+        }
+      ],
+      "time": "2015-12-01T10:00:07.970360+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T12:17:32.172656+02:00",
+          "amount": 4950.0,
+          "bidder": "2f073c099b4745a0a551f1e8e9006c65"
+        },
+        {
+          "date": "2015-11-30T12:27:12.251655+02:00",
+          "amount": 4890.0,
+          "bidder": "f80e3636d43b46169cdfd872dd452992"
+        }
+      ],
+      "time": "2015-12-01T09:39:02.003943+00:00"
+    }
+  },
+  "id": "1c3b67a1dd404e399c839147c15174ec",
+  "tenderId": "UA-2015-11-20-000046"
+}

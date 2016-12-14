@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "01d5e9ecb3074c1b8d58493c9b5cccbc",
+        "time": "2015-11-10T10:57:34.008621+00:00"
+      },
+      "turn_1": {
+        "bidder": "6a60eddd1ea9420591eafc74b1cefa26",
+        "time": "2015-11-10T10:55:34.008901+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2400.0,
+        "bid_time": "2015-11-10T13:01:51.717088+02:00",
+        "bidder": "01d5e9ecb3074c1b8d58493c9b5cccbc",
+        "time": "2015-11-10T11:03:34.009539+00:00"
+      },
+      "turn_1": {
+        "bidder": "6a60eddd1ea9420591eafc74b1cefa26",
+        "time": "2015-11-10T11:01:34.008242+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2580.0,
+        "bid_time": "2015-11-10T12:50:03.892549+02:00",
+        "bidder": "01d5e9ecb3074c1b8d58493c9b5cccbc",
+        "time": "2015-11-10T10:51:34.010187+00:00"
+      },
+      "turn_1": {
+        "bidder": "6a60eddd1ea9420591eafc74b1cefa26",
+        "time": "2015-11-10T10:49:34.008415+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6a60eddd1ea9420591eafc74b1cefa26",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-08T17:26:20.593106+02:00"
+        },
+        {
+          "bidder": "01d5e9ecb3074c1b8d58493c9b5cccbc",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679601187",
+                "name": "Колісник Тетяна Василівна",
+                "email": "tkolisnyk@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2830002867"
+              },
+              "name": "ФОП Барвіцька Богдана Василівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03162",
+                "region": "Київська область",
+                "streetAddress": "вул. Зодчих, 46, кв.11",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-10T13:01:51.717088+02:00"
+        }
+      ],
+      "time": "2015-11-10T11:03:35.083423+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-08T17:26:20.593106+02:00",
+          "amount": 3000.0,
+          "bidder": "6a60eddd1ea9420591eafc74b1cefa26"
+        },
+        {
+          "date": "2015-11-09T10:25:42.238909+02:00",
+          "amount": 2670.0,
+          "bidder": "01d5e9ecb3074c1b8d58493c9b5cccbc"
+        }
+      ],
+      "time": "2015-11-10T10:42:34.004661+00:00"
+    }
+  },
+  "id": "255e886242c04b57a6bc8553a9afffc7",
+  "tenderId": "UA-2015-10-30-000119"
+}

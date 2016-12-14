@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "588b40daf11c44cf9ae4596fee81f91a",
+        "time": "2015-11-12T13:28:24.008020+00:00"
+      },
+      "turn_1": {
+        "bidder": "ea040a1e09a74770b0ed3d2f351ad4ff",
+        "time": "2015-11-12T13:26:24.010399+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "588b40daf11c44cf9ae4596fee81f91a",
+        "time": "2015-11-12T13:34:24.010107+00:00"
+      },
+      "turn_1": {
+        "bidder": "ea040a1e09a74770b0ed3d2f351ad4ff",
+        "time": "2015-11-12T13:32:24.008020+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "588b40daf11c44cf9ae4596fee81f91a",
+        "time": "2015-11-12T13:22:24.008444+00:00"
+      },
+      "turn_1": {
+        "bidder": "ea040a1e09a74770b0ed3d2f351ad4ff",
+        "time": "2015-11-12T13:20:24.009082+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ea040a1e09a74770b0ed3d2f351ad4ff",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380635873805",
+                "name": "КОСТЯНТИН",
+                "email": "kitneo57@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3416015276",
+                "legalName": "ФОП \"НЕРИБАЛЬСЬКИЙ КОСТЯНТИН СЕРГІЙОВИЧ\""
+              },
+              "name": "ФОП \"НЕРИБАЛЬСЬКИЙ КОСТЯНТИН СЕРГІЙОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54000",
+                "region": "Николаевская",
+                "streetAddress": "",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-09T17:16:22.239779+02:00"
+        },
+        {
+          "bidder": "588b40daf11c44cf9ae4596fee81f91a",
+          "amount": 3450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T09:06:15.943298+02:00"
+        }
+      ],
+      "time": "2015-11-12T13:34:26.638719+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T17:16:22.239779+02:00",
+          "amount": 3500.0,
+          "bidder": "ea040a1e09a74770b0ed3d2f351ad4ff"
+        },
+        {
+          "date": "2015-11-11T09:06:15.943298+02:00",
+          "amount": 3450.0,
+          "bidder": "588b40daf11c44cf9ae4596fee81f91a"
+        }
+      ],
+      "time": "2015-11-12T13:13:24.003817+00:00"
+    }
+  },
+  "id": "275c075d997443bc84d6d240567bf5ce",
+  "tenderId": "UA-2015-11-05-000269"
+}

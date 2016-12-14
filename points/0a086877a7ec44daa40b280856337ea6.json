@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a9edaaab82034e4ba37ef82356b38bcb",
+        "time": "2015-12-07T13:15:31.032126+00:00"
+      },
+      "turn_1": {
+        "bidder": "f5e60b284afe4866be2b7f7fd12722b5",
+        "time": "2015-12-07T13:13:31.015479+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a9edaaab82034e4ba37ef82356b38bcb",
+        "time": "2015-12-07T13:21:31.008784+00:00"
+      },
+      "turn_1": {
+        "bidder": "f5e60b284afe4866be2b7f7fd12722b5",
+        "time": "2015-12-07T13:19:31.007625+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a9edaaab82034e4ba37ef82356b38bcb",
+        "time": "2015-12-07T13:09:31.008198+00:00"
+      },
+      "turn_1": {
+        "bidder": "f5e60b284afe4866be2b7f7fd12722b5",
+        "time": "2015-12-07T13:07:31.009461+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f5e60b284afe4866be2b7f7fd12722b5",
+          "amount": 17378.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": "БаДМ-Б"
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:02:25.139157+02:00"
+        },
+        {
+          "bidder": "a9edaaab82034e4ba37ef82356b38bcb",
+          "amount": 15752.87,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:52:04.425167+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:21:31.777632+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T16:02:25.139157+02:00",
+          "amount": 17378.16,
+          "bidder": "f5e60b284afe4866be2b7f7fd12722b5"
+        },
+        {
+          "date": "2015-12-04T16:52:04.425167+02:00",
+          "amount": 15752.87,
+          "bidder": "a9edaaab82034e4ba37ef82356b38bcb"
+        }
+      ],
+      "time": "2015-12-07T13:00:31.003047+00:00"
+    }
+  },
+  "id": "0a086877a7ec44daa40b280856337ea6",
+  "tenderId": "UA-2015-11-27-000039"
+}

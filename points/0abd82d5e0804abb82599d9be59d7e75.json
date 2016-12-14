@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ad45ae28931243188ba6ea8acebd84ff",
+        "time": "2015-12-17T12:19:19.010973+00:00"
+      },
+      "turn_1": {
+        "bidder": "07b268f1512b456d84f8356d480b7bd6",
+        "time": "2015-12-17T12:17:19.009995+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ad45ae28931243188ba6ea8acebd84ff",
+        "time": "2015-12-17T12:25:19.010308+00:00"
+      },
+      "turn_1": {
+        "bidder": "07b268f1512b456d84f8356d480b7bd6",
+        "time": "2015-12-17T12:23:19.008526+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4725.0,
+        "bid_time": "2015-12-17T14:12:19.535302+02:00",
+        "bidder": "ad45ae28931243188ba6ea8acebd84ff",
+        "time": "2015-12-17T12:13:19.011990+00:00"
+      },
+      "turn_1": {
+        "amount": 4970.0,
+        "bid_time": "2015-12-17T14:09:59.089958+02:00",
+        "bidder": "07b268f1512b456d84f8356d480b7bd6",
+        "time": "2015-12-17T12:11:19.010903+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "07b268f1512b456d84f8356d480b7bd6",
+          "amount": 4970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990979123",
+                "name": "Романова Світлана Вікторівна",
+                "email": "svitlana_romanova@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2726914346"
+              },
+              "name": "ФОП Романова Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "85321",
+                "region": "Донецька область",
+                "streetAddress": "кв-л. 40, б.1, кв.21",
+                "locality": "місто Димитров"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:09:59.089958+02:00"
+        },
+        {
+          "bidder": "ad45ae28931243188ba6ea8acebd84ff",
+          "amount": 4725.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:12:19.535302+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:25:21.754181+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T16:45:34.053689+02:00",
+          "amount": 5950.0,
+          "bidder": "07b268f1512b456d84f8356d480b7bd6"
+        },
+        {
+          "date": "2015-12-15T17:32:10.976480+02:00",
+          "amount": 5040.0,
+          "bidder": "ad45ae28931243188ba6ea8acebd84ff"
+        }
+      ],
+      "time": "2015-12-17T12:04:19.004751+00:00"
+    }
+  },
+  "id": "0abd82d5e0804abb82599d9be59d7e75",
+  "tenderId": "UA-2015-12-10-000090"
+}

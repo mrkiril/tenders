@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 8496.66,
+        "bid_time": "2015-11-10T11:48:21.346946+02:00",
+        "bidder": "9f27884914d2451bbfefc37ec1524155",
+        "time": "2015-11-10T09:49:35.007791+00:00"
+      },
+      "turn_1": {
+        "amount": 8595.0,
+        "bid_time": "2015-11-10T11:46:19.347276+02:00",
+        "bidder": "f4ab1762a71b48de8850c9eacacbf70d",
+        "time": "2015-11-10T09:47:35.009361+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 8396.66,
+        "bid_time": "2015-11-10T11:53:54.186478+02:00",
+        "bidder": "9f27884914d2451bbfefc37ec1524155",
+        "time": "2015-11-10T09:55:35.010003+00:00"
+      },
+      "turn_1": {
+        "amount": 8450.0,
+        "bid_time": "2015-11-10T11:53:01.095244+02:00",
+        "bidder": "f4ab1762a71b48de8850c9eacacbf70d",
+        "time": "2015-11-10T09:53:35.008227+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9f27884914d2451bbfefc37ec1524155",
+        "time": "2015-11-10T09:43:35.008603+00:00"
+      },
+      "turn_1": {
+        "amount": 9000.0,
+        "bid_time": "2015-11-10T11:40:01.693144+02:00",
+        "bidder": "f4ab1762a71b48de8850c9eacacbf70d",
+        "time": "2015-11-10T09:41:35.008153+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f4ab1762a71b48de8850c9eacacbf70d",
+          "amount": 8450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380535556220",
+                "telephone": "+380503046812",
+                "name": "Марченко Тетяна Анатоліївна",
+                "email": "aptekamr.mirgorod@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34277174"
+              },
+              "name": "ТОВ Факультет-Ф",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "51100",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна,1",
+                "locality": "смт Магдалинівка"
+              }
+            }
+          ],
+          "time": "2015-11-10T11:53:01.095244+02:00"
+        },
+        {
+          "bidder": "9f27884914d2451bbfefc37ec1524155",
+          "amount": 8396.66,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-10T11:53:54.186478+02:00"
+        }
+      ],
+      "time": "2015-11-10T09:56:03.990536+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T12:28:28.950026+02:00",
+          "amount": 9244.0,
+          "bidder": "f4ab1762a71b48de8850c9eacacbf70d"
+        },
+        {
+          "date": "2015-11-09T08:40:03.187757+02:00",
+          "amount": 8596.66,
+          "bidder": "9f27884914d2451bbfefc37ec1524155"
+        }
+      ],
+      "time": "2015-11-10T09:34:35.002944+00:00"
+    }
+  },
+  "id": "375ca07189204b248d54f68b4c063635",
+  "tenderId": "UA-2015-11-02-000272"
+}

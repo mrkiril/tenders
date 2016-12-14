@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6e33ddde03fe439293c7296329bfbd75",
+        "time": "2015-11-25T09:46:06.010398+00:00"
+      },
+      "turn_1": {
+        "bidder": "df9b59f51810416a8ce0851d9f4bee77",
+        "time": "2015-11-25T09:44:06.007846+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6e33ddde03fe439293c7296329bfbd75",
+        "time": "2015-11-25T09:52:06.009974+00:00"
+      },
+      "turn_1": {
+        "bidder": "df9b59f51810416a8ce0851d9f4bee77",
+        "time": "2015-11-25T09:50:06.010067+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6e33ddde03fe439293c7296329bfbd75",
+        "time": "2015-11-25T09:40:06.010053+00:00"
+      },
+      "turn_1": {
+        "bidder": "df9b59f51810416a8ce0851d9f4bee77",
+        "time": "2015-11-25T09:38:06.010616+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "df9b59f51810416a8ce0851d9f4bee77",
+          "amount": 75150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T12:10:38.093850+02:00"
+        },
+        {
+          "bidder": "6e33ddde03fe439293c7296329bfbd75",
+          "amount": 71900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442541591",
+                "telephone": "+380442541591",
+                "name": "Густі Валентина Олександрівна",
+                "email": "gusti@geront.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2202416922"
+              },
+              "name": "ФОП Густі Валентина Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02125",
+                "region": "Київська область",
+                "streetAddress": "вул.Петра Запорожця, б.14/3, кв.111",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:32:44.894027+02:00"
+        }
+      ],
+      "time": "2015-11-25T09:52:08.011731+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T12:10:38.093850+02:00",
+          "amount": 75150.0,
+          "bidder": "df9b59f51810416a8ce0851d9f4bee77"
+        },
+        {
+          "date": "2015-11-23T11:32:44.894027+02:00",
+          "amount": 71900.0,
+          "bidder": "6e33ddde03fe439293c7296329bfbd75"
+        }
+      ],
+      "time": "2015-11-25T09:31:06.002145+00:00"
+    }
+  },
+  "id": "3b9dfeb0a62445e2837e14a5b64b3740",
+  "tenderId": "UA-2015-11-12-000159-b"
+}

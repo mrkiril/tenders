@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 799400.0,
+        "bid_time": "2015-03-16T12:13:36.953986+02:00",
+        "bidder": "43634e18cb7a4dc2bab8e890373cfb9b",
+        "time": "2015-03-16T10:15:00.038053+00:00"
+      },
+      "turn_1": {
+        "bidder": "3443ece8f60749fb84cf07ee53865a2a",
+        "time": "2015-03-16T10:13:00.026860+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 799200.0,
+        "bid_time": "2015-03-16T12:19:21.545353+02:00",
+        "bidder": "43634e18cb7a4dc2bab8e890373cfb9b",
+        "time": "2015-03-16T10:21:00.032829+00:00"
+      },
+      "turn_1": {
+        "bidder": "3443ece8f60749fb84cf07ee53865a2a",
+        "time": "2015-03-16T10:19:00.024117+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3443ece8f60749fb84cf07ee53865a2a",
+        "time": "2015-03-16T10:09:00.030473+00:00"
+      },
+      "turn_1": {
+        "amount": 799600.0,
+        "bid_time": "2015-03-16T12:05:20.020340+02:00",
+        "bidder": "43634e18cb7a4dc2bab8e890373cfb9b",
+        "time": "2015-03-16T10:07:00.037327+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3443ece8f60749fb84cf07ee53865a2a",
+          "amount": 799800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672096903",
+                "name": "Руслан Яновский",
+                "email": "yrus777@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32660061",
+                "legalName": "ООО \"Термоизол-К\""
+              },
+              "name": "ООО \"Термоизол-К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Ленина, 34",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-12T11:09:01.272585+02:00"
+        },
+        {
+          "bidder": "43634e18cb7a4dc2bab8e890373cfb9b",
+          "amount": 799200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38067-235-93-51, +38044-451-48-37, +38067-235-93-13",
+                "name": "Анна Демичева",
+                "email": "anna.multifoam@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32850881",
+                "legalName": "ООО \"Малтифом\""
+              },
+              "name": "ООО \"Малтифом\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "ул. Магнитогорская, 1, FIM Center",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-16T12:19:21.545353+02:00"
+        }
+      ],
+      "time": "2015-03-16T10:21:01.284563+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-13T16:11:01.166969+02:00",
+          "amount": 999600.0,
+          "bidder": "43634e18cb7a4dc2bab8e890373cfb9b"
+        },
+        {
+          "date": "2015-03-12T11:09:01.272585+02:00",
+          "amount": 799800.0,
+          "bidder": "3443ece8f60749fb84cf07ee53865a2a"
+        }
+      ],
+      "time": "2015-03-16T10:00:00.011545+00:00"
+    }
+  },
+  "id": "a07b5a57de04403a982e83e851de6ef1",
+  "tenderId": "UA-2015-03-04-000008"
+}

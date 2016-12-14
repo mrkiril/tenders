@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bc31bb5dbee34b6e8dd6d9bebdfe652b",
+        "time": "2015-10-16T10:22:14.009405+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f97a41e7f484067817a019dc75ce9ab",
+        "time": "2015-10-16T10:20:14.009723+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bc31bb5dbee34b6e8dd6d9bebdfe652b",
+        "time": "2015-10-16T10:28:14.006759+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f97a41e7f484067817a019dc75ce9ab",
+        "time": "2015-10-16T10:26:14.008759+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bc31bb5dbee34b6e8dd6d9bebdfe652b",
+        "time": "2015-10-16T10:16:14.013438+00:00"
+      },
+      "turn_1": {
+        "amount": 38249.0,
+        "bid_time": "2015-10-16T13:14:02.400414+03:00",
+        "bidder": "3f97a41e7f484067817a019dc75ce9ab",
+        "time": "2015-10-16T10:14:14.011174+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f97a41e7f484067817a019dc75ce9ab",
+          "amount": 38249.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.wylan.com.ua/",
+                "faxNumber": "0442490440",
+                "telephone": "0442490440",
+                "name": "Висоцька Марина Кирилівна",
+                "email": "info@wylan.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21589190",
+                "legalName": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04053",
+                "region": "Київська",
+                "streetAddress": "Воровського, 7 Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T13:14:02.400414+03:00"
+        },
+        {
+          "bidder": "bc31bb5dbee34b6e8dd6d9bebdfe652b",
+          "amount": 27750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380976688057",
+                "name": "ФОП Корольова Анжела Василівна",
+                "email": "derhalo.nick@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2651809500",
+                "legalName": "ФОП Корольова Анжела Василівна"
+              },
+              "name": "ФОП Корольова Анжела Василівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Львів вул.Наукова б.61 ,кв. 55",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T13:26:49.574091+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:28:15.492912+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T10:07:02.393511+03:00",
+          "amount": 46289.4,
+          "bidder": "3f97a41e7f484067817a019dc75ce9ab"
+        },
+        {
+          "date": "2015-10-13T13:26:49.574091+03:00",
+          "amount": 27750.0,
+          "bidder": "bc31bb5dbee34b6e8dd6d9bebdfe652b"
+        }
+      ],
+      "time": "2015-10-16T10:07:14.004613+00:00"
+    }
+  },
+  "id": "2322981926fb43fb9d1fe1c9415c1a5d",
+  "tenderId": "UA-2015-10-07-000363"
+}

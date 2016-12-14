@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "32b90c9df9454ae6a92b2a9ff358e55a",
+        "time": "2015-10-22T09:51:40.007034+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e9de5b9dc04932b8eb4f5ddaf27cc9",
+        "time": "2015-10-22T09:49:40.007694+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "32b90c9df9454ae6a92b2a9ff358e55a",
+        "time": "2015-10-22T09:57:40.007781+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e9de5b9dc04932b8eb4f5ddaf27cc9",
+        "time": "2015-10-22T09:55:40.011633+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 698.0,
+        "bid_time": "2015-10-22T12:44:26.604204+03:00",
+        "bidder": "32b90c9df9454ae6a92b2a9ff358e55a",
+        "time": "2015-10-22T09:45:40.014931+00:00"
+      },
+      "turn_1": {
+        "bidder": "33e9de5b9dc04932b8eb4f5ddaf27cc9",
+        "time": "2015-10-22T09:43:40.006571+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33e9de5b9dc04932b8eb4f5ddaf27cc9",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512362404",
+                "telephone": "0512362404",
+                "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+                "email": "vera121186@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172710986",
+                "legalName": "Фізична особа підприємства Шпиль Віра Олександрівна"
+              },
+              "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "Фрунзе 50, кв.79",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T17:38:05.794145+03:00"
+        },
+        {
+          "bidder": "32b90c9df9454ae6a92b2a9ff358e55a",
+          "amount": 698.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380512374682",
+                "name": "Божкова Ганна Федорівна",
+                "email": "bozhkov23@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2139002144"
+              },
+              "name": "ФОП Божкова Ганна Федорівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська область",
+                "streetAddress": "Фалєєвська 1 кв 15",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-10-22T12:44:26.604204+03:00"
+        }
+      ],
+      "time": "2015-10-22T09:57:41.632993+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T10:26:03.269064+03:00",
+          "amount": 700.0,
+          "bidder": "32b90c9df9454ae6a92b2a9ff358e55a"
+        },
+        {
+          "date": "2015-10-20T17:38:05.794145+03:00",
+          "amount": 700.0,
+          "bidder": "33e9de5b9dc04932b8eb4f5ddaf27cc9"
+        }
+      ],
+      "time": "2015-10-22T09:36:40.004792+00:00"
+    }
+  },
+  "id": "f54234ebf82d428cacae26d68ca2923f",
+  "tenderId": "UA-2015-10-19-000014"
+}

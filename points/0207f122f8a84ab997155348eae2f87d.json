@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "948709ebc490478b86c52705d92c6401",
+        "time": "2015-10-12T12:26:46.007844+00:00"
+      },
+      "turn_1": {
+        "amount": 82725.0,
+        "bid_time": "2015-10-12T15:24:18.511582+03:00",
+        "bidder": "09c8db319e024d0287d3f8f083610b02",
+        "time": "2015-10-12T12:24:46.008721+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "09c8db319e024d0287d3f8f083610b02",
+        "time": "2015-10-12T12:32:46.006092+00:00"
+      },
+      "turn_1": {
+        "bidder": "948709ebc490478b86c52705d92c6401",
+        "time": "2015-10-12T12:30:46.007398+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "948709ebc490478b86c52705d92c6401",
+        "time": "2015-10-12T12:20:46.011390+00:00"
+      },
+      "turn_1": {
+        "bidder": "09c8db319e024d0287d3f8f083610b02",
+        "time": "2015-10-12T12:18:46.008418+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "948709ebc490478b86c52705d92c6401",
+          "amount": 83565.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrprompostavka.com.ua/",
+                "telephone": "+380577835763",
+                "name": "ТОВ \"СП Укрпромпоставка\"",
+                "email": "info@prompribor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38878062",
+                "legalName": "ТОВ \"СП Укрпромпоставка\""
+              },
+              "name": "ТОВ \"СП Укрпромпоставка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61177, Харківська обл., м.Харків, пров.Пластичний, буд.9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T17:11:17.416178+03:00"
+        },
+        {
+          "bidder": "09c8db319e024d0287d3f8f083610b02",
+          "amount": 82725.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prompribor.com.ua",
+                "telephone": "+380577597713",
+                "name": "ООО Промприбор",
+                "email": "sales_6@prompribor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32760503",
+                "legalName": "ООО Промприбор"
+              },
+              "name": "ООО Промприбор",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61001, г.  Харьков, ул. Ганны, 13 д.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T15:24:18.511582+03:00"
+        }
+      ],
+      "time": "2015-10-12T12:32:48.866475+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T17:15:41.227682+03:00",
+          "amount": 83565.6,
+          "bidder": "09c8db319e024d0287d3f8f083610b02"
+        },
+        {
+          "date": "2015-10-08T17:11:17.416178+03:00",
+          "amount": 83565.0,
+          "bidder": "948709ebc490478b86c52705d92c6401"
+        }
+      ],
+      "time": "2015-10-12T12:11:46.003265+00:00"
+    }
+  },
+  "id": "0207f122f8a84ab997155348eae2f87d",
+  "tenderId": "UA-2015-10-02-000048"
+}

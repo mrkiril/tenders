@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2417bd6ff8434014b1440b62039fbe79",
+        "time": "2015-09-15T12:45:00.007958+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ff2c544b427473db2eca6c737c11eff",
+        "time": "2015-09-15T12:43:00.008877+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 15950.0,
+        "bid_time": "2015-09-15T15:49:32.199201+03:00",
+        "bidder": "2417bd6ff8434014b1440b62039fbe79",
+        "time": "2015-09-15T12:51:00.013353+00:00"
+      },
+      "turn_1": {
+        "amount": 16000.0,
+        "bid_time": "2015-09-15T15:47:06.498964+03:00",
+        "bidder": "1ff2c544b427473db2eca6c737c11eff",
+        "time": "2015-09-15T12:49:00.012540+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2417bd6ff8434014b1440b62039fbe79",
+        "time": "2015-09-15T12:39:00.009806+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ff2c544b427473db2eca6c737c11eff",
+        "time": "2015-09-15T12:37:00.008999+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1ff2c544b427473db2eca6c737c11eff",
+          "amount": 16000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-15T15:47:06.498964+03:00"
+        },
+        {
+          "bidder": "2417bd6ff8434014b1440b62039fbe79",
+          "amount": 15950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577521716",
+                "telephone": "+380964253328",
+                "name": "Ханенко Вадим Миколайович",
+                "email": "snab.marina.gen@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3163822195"
+              },
+              "name": "ФОП Ханенко Вадим Миколайович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61170",
+                "region": "Харківська область",
+                "streetAddress": "вул.Блюхера, дом № 20, кв.122,",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-15T15:49:32.199201+03:00"
+        }
+      ],
+      "time": "2015-09-15T12:51:02.500509+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T14:36:16.756760+03:00",
+          "amount": 16585.92,
+          "bidder": "1ff2c544b427473db2eca6c737c11eff"
+        },
+        {
+          "date": "2015-09-14T17:21:12.357942+03:00",
+          "amount": 16227.6,
+          "bidder": "2417bd6ff8434014b1440b62039fbe79"
+        }
+      ],
+      "time": "2015-09-15T12:30:00.001854+00:00"
+    }
+  },
+  "id": "357c478aa6234f64a67e36aa998e3a4e",
+  "tenderId": "UA-2015-09-10-000096"
+}

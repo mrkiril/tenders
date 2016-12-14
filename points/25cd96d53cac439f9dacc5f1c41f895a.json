@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f780f01fa2c94353940b3f9f13da21cb",
+        "time": "2015-12-15T13:58:03.008397+00:00"
+      },
+      "turn_3": {
+        "bidder": "701706efd64546628d971dfafbb86504",
+        "time": "2015-12-15T14:00:03.009180+00:00"
+      },
+      "turn_1": {
+        "bidder": "5eea8010be514f41a77e39a8ed38c444",
+        "time": "2015-12-15T13:56:03.008407+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f780f01fa2c94353940b3f9f13da21cb",
+        "time": "2015-12-15T14:06:03.013801+00:00"
+      },
+      "turn_3": {
+        "bidder": "701706efd64546628d971dfafbb86504",
+        "time": "2015-12-15T14:08:03.008148+00:00"
+      },
+      "turn_1": {
+        "bidder": "5eea8010be514f41a77e39a8ed38c444",
+        "time": "2015-12-15T14:04:03.008639+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5eea8010be514f41a77e39a8ed38c444",
+        "time": "2015-12-15T13:50:03.009430+00:00"
+      },
+      "turn_3": {
+        "bidder": "f780f01fa2c94353940b3f9f13da21cb",
+        "time": "2015-12-15T13:52:03.009303+00:00"
+      },
+      "turn_1": {
+        "amount": 600.0,
+        "bid_time": "2015-12-15T15:46:28.339155+02:00",
+        "bidder": "701706efd64546628d971dfafbb86504",
+        "time": "2015-12-15T13:48:03.010754+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5eea8010be514f41a77e39a8ed38c444",
+          "amount": 762.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T00:24:59.886233+02:00"
+        },
+        {
+          "bidder": "f780f01fa2c94353940b3f9f13da21cb",
+          "amount": 760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380343222289",
+                "name": "Шкіндюк Василь Васильович",
+                "email": "kontact_verch@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2517107838"
+              },
+              "name": "ФОП Шкіндюк В В",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "78700",
+                "region": "Івано-Франківська область",
+                "streetAddress": "вул Гуцульського повстання 33",
+                "locality": "Верховина"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:04:17.569497+02:00"
+        },
+        {
+          "bidder": "701706efd64546628d971dfafbb86504",
+          "amount": 600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380961938386",
+                "telephone": "+380961938386",
+                "name": "Михальчук Людмила Михайлівна",
+                "email": "nata_hondurak@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31972048"
+              },
+              "name": "ПП Михальчук Людмила Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "78712",
+                "region": "Івано-Франківська область",
+                "streetAddress": "Верховинського району",
+                "locality": "село Верхній Ясенів"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:46:28.339155+02:00"
+        }
+      ],
+      "time": "2015-12-15T14:08:04.724989+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T00:24:59.886233+02:00",
+          "amount": 762.0,
+          "bidder": "5eea8010be514f41a77e39a8ed38c444"
+        },
+        {
+          "date": "2015-12-14T14:51:18.563685+02:00",
+          "amount": 762.0,
+          "bidder": "701706efd64546628d971dfafbb86504"
+        },
+        {
+          "date": "2015-12-14T12:04:17.569497+02:00",
+          "amount": 760.0,
+          "bidder": "f780f01fa2c94353940b3f9f13da21cb"
+        }
+      ],
+      "time": "2015-12-15T13:41:03.002289+00:00"
+    }
+  },
+  "id": "25cd96d53cac439f9dacc5f1c41f895a",
+  "tenderId": "UA-2015-12-08-000120-b"
+}

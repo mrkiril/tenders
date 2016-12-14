@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "49dd9d22c9bc44c4b3249003e25cb81e",
+        "time": "2015-11-30T10:52:48.014083+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd055fae55124ce19d826e74654849ea",
+        "time": "2015-11-30T10:50:48.008306+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "49dd9d22c9bc44c4b3249003e25cb81e",
+        "time": "2015-11-30T10:58:48.007434+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd055fae55124ce19d826e74654849ea",
+        "time": "2015-11-30T10:56:48.006261+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "49dd9d22c9bc44c4b3249003e25cb81e",
+        "time": "2015-11-30T10:46:48.007983+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd055fae55124ce19d826e74654849ea",
+        "time": "2015-11-30T10:44:48.009391+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bd055fae55124ce19d826e74654849ea",
+          "amount": 10000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "project.a.ukraine@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-26T13:29:53.406525+02:00"
+        },
+        {
+          "bidder": "49dd9d22c9bc44c4b3249003e25cb81e",
+          "amount": 9153.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://blagodarochka.com",
+                "telephone": "+380671501001",
+                "name": "ТОВ \"ООО \"Благодарочка\"\"",
+                "email": "osadchiy@blagodarochka.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38814103",
+                "legalName": "ТОВ \"ООО \"Благодарочка\"\""
+              },
+              "name": "ТОВ \"ООО \"Благодарочка\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська обл.",
+                "streetAddress": "03186, Київ, вул Авіаконструктора Антонова 15-а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T16:58:48.224559+02:00"
+        }
+      ],
+      "time": "2015-11-30T10:58:49.316552+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T13:29:53.406525+02:00",
+          "amount": 10000.0,
+          "bidder": "bd055fae55124ce19d826e74654849ea"
+        },
+        {
+          "date": "2015-11-27T16:58:48.224559+02:00",
+          "amount": 9153.32,
+          "bidder": "49dd9d22c9bc44c4b3249003e25cb81e"
+        }
+      ],
+      "time": "2015-11-30T10:37:48.004808+00:00"
+    }
+  },
+  "id": "1516280ce3b648cba25ec9052341f566",
+  "tenderId": "UA-2015-11-24-000017"
+}

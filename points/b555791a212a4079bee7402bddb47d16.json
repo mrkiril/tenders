@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c28feefbc6204139bd1a18b83c4bce80",
+        "time": "2015-11-03T09:47:47.008411+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b4e2824d8d48128b2554087fb1cca2",
+        "time": "2015-11-03T09:45:47.009794+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c28feefbc6204139bd1a18b83c4bce80",
+        "time": "2015-11-03T09:53:47.012630+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b4e2824d8d48128b2554087fb1cca2",
+        "time": "2015-11-03T09:51:47.010289+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c28feefbc6204139bd1a18b83c4bce80",
+        "time": "2015-11-03T09:41:47.009354+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b4e2824d8d48128b2554087fb1cca2",
+        "time": "2015-11-03T09:39:47.008761+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "34b4e2824d8d48128b2554087fb1cca2",
+          "amount": 500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-31T16:58:48.674598+02:00"
+        },
+        {
+          "bidder": "c28feefbc6204139bd1a18b83c4bce80",
+          "amount": 390.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-28T00:30:38.663359+02:00"
+        }
+      ],
+      "time": "2015-11-03T09:53:47.650168+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-31T16:58:48.674598+02:00",
+          "amount": 500.0,
+          "bidder": "34b4e2824d8d48128b2554087fb1cca2"
+        },
+        {
+          "date": "2015-10-28T00:30:38.663359+02:00",
+          "amount": 390.0,
+          "bidder": "c28feefbc6204139bd1a18b83c4bce80"
+        }
+      ],
+      "time": "2015-11-03T09:32:47.003972+00:00"
+    }
+  },
+  "id": "b555791a212a4079bee7402bddb47d16",
+  "tenderId": "UA-2015-10-20-000269"
+}

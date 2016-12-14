@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fe89525aa0a6449fa0ecadeb4ca318aa",
+        "time": "2015-12-17T13:26:18.008712+00:00"
+      },
+      "turn_1": {
+        "bidder": "3208e2a58d5d4fa6be413bf4d7509160",
+        "time": "2015-12-17T13:24:18.011619+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fe89525aa0a6449fa0ecadeb4ca318aa",
+        "time": "2015-12-17T13:32:18.008951+00:00"
+      },
+      "turn_1": {
+        "bidder": "3208e2a58d5d4fa6be413bf4d7509160",
+        "time": "2015-12-17T13:30:18.008478+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fe89525aa0a6449fa0ecadeb4ca318aa",
+        "time": "2015-12-17T13:20:18.010792+00:00"
+      },
+      "turn_1": {
+        "bidder": "3208e2a58d5d4fa6be413bf4d7509160",
+        "time": "2015-12-17T13:18:18.011565+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3208e2a58d5d4fa6be413bf4d7509160",
+          "amount": 32040.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380638136414",
+                "name": "ТОВ \"Вендер Україна\"",
+                "email": "vender.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39989454",
+                "legalName": "ТОВ \"Вендер Україна\""
+              },
+              "name": "ТОВ \"Вендер Україна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ, вул. Миропільська, буд. 19,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T13:12:42.085142+02:00"
+        },
+        {
+          "bidder": "fe89525aa0a6449fa0ecadeb4ca318aa",
+          "amount": 25389.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://staldim.com.ua/",
+                "telephone": "+380443641613",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\"",
+                "email": "y.makedonskiy@staldim.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39963148",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СТАЛЬНИЙ ДІМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03179, м.Київ, ПРОСПЕКТ ПЕРЕМОГИ, будинок 131, приміщення 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T10:43:33.271663+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:32:18.992011+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T13:12:42.085142+02:00",
+          "amount": 32040.0,
+          "bidder": "3208e2a58d5d4fa6be413bf4d7509160"
+        },
+        {
+          "date": "2015-12-15T10:43:33.271663+02:00",
+          "amount": 25389.5,
+          "bidder": "fe89525aa0a6449fa0ecadeb4ca318aa"
+        }
+      ],
+      "time": "2015-12-17T13:11:18.003158+00:00"
+    }
+  },
+  "id": "19aafa8cf2254e36a17afb117ef93690",
+  "tenderId": "UA-2015-12-14-000026-b"
+}

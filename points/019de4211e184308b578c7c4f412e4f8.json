@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7874856ab48e4dc6aef50b1c7baf7b13",
+        "time": "2015-12-01T12:27:54.008038+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f74af44c3834551bf4e6006748135a8",
+        "time": "2015-12-01T12:25:54.007699+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7874856ab48e4dc6aef50b1c7baf7b13",
+        "time": "2015-12-01T12:33:54.007619+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f74af44c3834551bf4e6006748135a8",
+        "time": "2015-12-01T12:31:54.006986+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7874856ab48e4dc6aef50b1c7baf7b13",
+        "time": "2015-12-01T12:21:54.007941+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f74af44c3834551bf4e6006748135a8",
+        "time": "2015-12-01T12:19:54.007932+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2f74af44c3834551bf4e6006748135a8",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503370490",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-27T14:45:24.599148+02:00"
+        },
+        {
+          "bidder": "7874856ab48e4dc6aef50b1c7baf7b13",
+          "amount": 2968.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T17:34:25.026309+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:33:55.951509+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T14:45:24.599148+02:00",
+          "amount": 3000.0,
+          "bidder": "2f74af44c3834551bf4e6006748135a8"
+        },
+        {
+          "date": "2015-11-26T17:34:25.026309+02:00",
+          "amount": 2968.2,
+          "bidder": "7874856ab48e4dc6aef50b1c7baf7b13"
+        }
+      ],
+      "time": "2015-12-01T12:12:54.004242+00:00"
+    }
+  },
+  "id": "019de4211e184308b578c7c4f412e4f8",
+  "tenderId": "UA-2015-11-18-000103-a"
+}

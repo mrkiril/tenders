@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "72bb385c6ec64728afbd31ac9f1274bf",
+        "time": "2015-08-28T09:45:00.045921+00:00"
+      },
+      "turn_1": {
+        "amount": 440000.0,
+        "bid_time": "2015-08-28T12:41:39.102695+03:00",
+        "bidder": "d1a185d2d5f64edfb1147f51f8e95509",
+        "time": "2015-08-28T09:43:00.029078+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 385000.0,
+        "bid_time": "2015-08-28T12:50:55.177322+03:00",
+        "bidder": "d1a185d2d5f64edfb1147f51f8e95509",
+        "time": "2015-08-28T09:51:00.016242+00:00"
+      },
+      "turn_1": {
+        "amount": 395000.0,
+        "bid_time": "2015-08-28T12:47:26.069382+03:00",
+        "bidder": "72bb385c6ec64728afbd31ac9f1274bf",
+        "time": "2015-08-28T09:49:00.019084+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "72bb385c6ec64728afbd31ac9f1274bf",
+        "time": "2015-08-28T09:39:00.013816+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1a185d2d5f64edfb1147f51f8e95509",
+        "time": "2015-08-28T09:37:00.033242+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "72bb385c6ec64728afbd31ac9f1274bf",
+          "amount": 395000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aurora.com.ua/",
+                "telephone": "380503363308",
+                "name": "Иван Губченко  ",
+                "email": "i.gubchenko@aurora.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24933245",
+                "legalName": ""
+              },
+              "name": "ООО Аврора",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "г.Киев 03062, А/с 110"
+              }
+            }
+          ],
+          "time": "2015-08-28T12:47:26.069382+03:00"
+        },
+        {
+          "bidder": "d1a185d2d5f64edfb1147f51f8e95509",
+          "amount": 385000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ais-ua.com/",
+                "telephone": "0639170011",
+                "name": "Валерій Соколов ",
+                "email": "valeriy.sokolov@ais-ua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37210395",
+                "legalName": ""
+              },
+              "name": "АІС Софтвер Україна",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "03110, м. Київ, вул. Пироговського 19, оф.1"
+              }
+            }
+          ],
+          "time": "2015-08-28T12:50:55.177322+03:00"
+        }
+      ],
+      "time": "2015-08-28T09:51:10.220656+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-26T16:49:55.147734+03:00",
+          "amount": 840000.0,
+          "bidder": "d1a185d2d5f64edfb1147f51f8e95509"
+        },
+        {
+          "date": "2015-08-26T15:31:03.254410+03:00",
+          "amount": 450000.0,
+          "bidder": "72bb385c6ec64728afbd31ac9f1274bf"
+        }
+      ],
+      "time": "2015-08-28T09:30:00.002183+00:00"
+    }
+  },
+  "id": "d4430f8a8837437989502475f3c9218f",
+  "tenderId": "UA-2015-08-13-000074"
+}

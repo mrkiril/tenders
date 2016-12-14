@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a228a0d4bddf4b3385abe3ff5ac5c97e",
+        "time": "2015-12-03T13:48:07.007825+00:00"
+      },
+      "turn_1": {
+        "bidder": "63ff2e6137b3484fb687c4bd4f0ecec5",
+        "time": "2015-12-03T13:46:07.012934+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a228a0d4bddf4b3385abe3ff5ac5c97e",
+        "time": "2015-12-03T13:54:07.007509+00:00"
+      },
+      "turn_1": {
+        "bidder": "63ff2e6137b3484fb687c4bd4f0ecec5",
+        "time": "2015-12-03T13:52:07.008665+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a228a0d4bddf4b3385abe3ff5ac5c97e",
+        "time": "2015-12-03T13:42:07.008112+00:00"
+      },
+      "turn_1": {
+        "bidder": "63ff2e6137b3484fb687c4bd4f0ecec5",
+        "time": "2015-12-03T13:40:07.008930+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "63ff2e6137b3484fb687c4bd4f0ecec5",
+          "amount": 6450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380506378352",
+                "name": "Вячеслав",
+                "email": "koluzaev1@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2937701017",
+                "legalName": "ФОП Колузаев Вячеслав"
+              },
+              "name": "ФОП Колузаев Вячеслав",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T15:49:03.351495+02:00"
+        },
+        {
+          "bidder": "a228a0d4bddf4b3385abe3ff5ac5c97e",
+          "amount": 5254.63,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": ", 380567470266",
+                "name": "Юлия Французан ",
+                "email": "yufrancuzan@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31816235",
+                "legalName": "ТОВ \"БаДМ\""
+              },
+              "name": "ТОВ \"БаДМ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005, Днепропетровская обл., Жовтневый р-н, ул. Паникахи, д. 2"
+              }
+            }
+          ],
+          "time": "2015-12-02T10:15:39.005684+02:00"
+        }
+      ],
+      "time": "2015-12-03T13:54:09.040403+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T15:49:03.351495+02:00",
+          "amount": 6450.0,
+          "bidder": "63ff2e6137b3484fb687c4bd4f0ecec5"
+        },
+        {
+          "date": "2015-12-02T10:15:39.005684+02:00",
+          "amount": 5254.63,
+          "bidder": "a228a0d4bddf4b3385abe3ff5ac5c97e"
+        }
+      ],
+      "time": "2015-12-03T13:33:07.004433+00:00"
+    }
+  },
+  "id": "6c840133bbbf49a3b6087dd0f999b82c",
+  "tenderId": "UA-2015-11-27-000013-a"
+}

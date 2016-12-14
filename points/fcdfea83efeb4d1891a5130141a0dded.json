@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "257f098520ce4f1bb7a2e12c46cfc923",
+        "time": "2015-09-18T08:45:00.054960+00:00"
+      },
+      "turn_1": {
+        "bidder": "16bc6c7c0ff34b26965ef56a10f89068",
+        "time": "2015-09-18T08:43:00.064158+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 731.0,
+        "bid_time": "2015-09-18T11:50:10.706626+03:00",
+        "bidder": "257f098520ce4f1bb7a2e12c46cfc923",
+        "time": "2015-09-18T08:51:00.129777+00:00"
+      },
+      "turn_1": {
+        "amount": 732.0,
+        "bid_time": "2015-09-18T11:47:14.818577+03:00",
+        "bidder": "16bc6c7c0ff34b26965ef56a10f89068",
+        "time": "2015-09-18T08:49:00.071162+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "16bc6c7c0ff34b26965ef56a10f89068",
+        "time": "2015-09-18T08:39:00.092808+00:00"
+      },
+      "turn_1": {
+        "amount": 737.0,
+        "bid_time": "2015-09-18T11:35:55.476069+03:00",
+        "bidder": "257f098520ce4f1bb7a2e12c46cfc923",
+        "time": "2015-09-18T08:37:00.203886+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "16bc6c7c0ff34b26965ef56a10f89068",
+          "amount": 732.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:47:14.818577+03:00"
+        },
+        {
+          "bidder": "257f098520ce4f1bb7a2e12c46cfc923",
+          "amount": 731.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562335699, +380562335698, +380504501680, +380986475727",
+                "name": "Рамета Владимировна Желтобрюхова",
+                "email": "pack_plast@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Пак Пласт Украина\"",
+                "id": "24236012",
+                "uri": "http://packplast.com.ua"
+              },
+              "name": "ТОВ \"Пак Пласт Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "г.Днепропетровск, пл. Островского,3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:50:10.706626+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:51:21.321048+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T13:15:03.270577+03:00",
+          "amount": 745.0,
+          "bidder": "257f098520ce4f1bb7a2e12c46cfc923"
+        },
+        {
+          "date": "2015-09-17T14:25:15.724270+03:00",
+          "amount": 737.28,
+          "bidder": "16bc6c7c0ff34b26965ef56a10f89068"
+        }
+      ],
+      "time": "2015-09-18T08:30:00.004916+00:00"
+    }
+  },
+  "id": "fcdfea83efeb4d1891a5130141a0dded",
+  "tenderId": "UA-2015-09-17-000089"
+}

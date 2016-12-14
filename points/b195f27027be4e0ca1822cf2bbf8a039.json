@@ -1,0 +1,168 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bdff769733f14a61900e6e50cc5bfda2",
+        "time": "2015-11-09T10:56:19.007849+00:00"
+      },
+      "turn_3": {
+        "amount": 6597.0,
+        "bid_time": "2015-11-09T12:56:41.079545+02:00",
+        "bidder": "11cb0a13e4b64a268bd3c497c2abec7c",
+        "time": "2015-11-09T10:58:19.008827+00:00"
+      },
+      "turn_1": {
+        "amount": 6600.0,
+        "bid_time": "2015-11-09T12:52:31.412655+02:00",
+        "bidder": "d5ec5fbfecc44e0fb6ebd4403bc9e4eb",
+        "time": "2015-11-09T10:54:19.008630+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 6150.0,
+        "bid_time": "2015-11-09T13:02:29.860283+02:00",
+        "bidder": "d5ec5fbfecc44e0fb6ebd4403bc9e4eb",
+        "time": "2015-11-09T11:04:19.007005+00:00"
+      },
+      "turn_3": {
+        "bidder": "11cb0a13e4b64a268bd3c497c2abec7c",
+        "time": "2015-11-09T11:06:19.006377+00:00"
+      },
+      "turn_1": {
+        "bidder": "bdff769733f14a61900e6e50cc5bfda2",
+        "time": "2015-11-09T11:02:19.007137+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6899.0,
+        "bid_time": "2015-11-09T12:48:10.038494+02:00",
+        "bidder": "d5ec5fbfecc44e0fb6ebd4403bc9e4eb",
+        "time": "2015-11-09T10:48:19.009443+00:00"
+      },
+      "turn_3": {
+        "amount": 6850.0,
+        "bid_time": "2015-11-09T12:48:36.036532+02:00",
+        "bidder": "11cb0a13e4b64a268bd3c497c2abec7c",
+        "time": "2015-11-09T10:50:19.008093+00:00"
+      },
+      "turn_1": {
+        "amount": 6899.0,
+        "bid_time": "2015-11-09T12:46:10.046083+02:00",
+        "bidder": "bdff769733f14a61900e6e50cc5bfda2",
+        "time": "2015-11-09T10:46:19.009409+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bdff769733f14a61900e6e50cc5bfda2",
+          "amount": 6899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:46:10.046083+02:00"
+        },
+        {
+          "bidder": "11cb0a13e4b64a268bd3c497c2abec7c",
+          "amount": 6597.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mixtrade.com.ua",
+                "faxNumber": "0542775920",
+                "telephone": "0542775920",
+                "name": "Ковальчук Віктор Михайлович",
+                "email": "mixtrade@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36437577",
+                "legalName": "Тов \"Мікс Трейд 2009\""
+              },
+              "name": "Тов \"Мікс Трейд 2009\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "40020",
+                "region": "Сумська",
+                "streetAddress": "вул. Воровського, 21а, оф.6",
+                "locality": "Суми"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:56:41.079545+02:00"
+        },
+        {
+          "bidder": "d5ec5fbfecc44e0fb6ebd4403bc9e4eb",
+          "amount": 6150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676300452",
+                "name": "Игорь Кухарь",
+                "email": "svetlovodsk_mebel@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2959011296",
+                "legalName": "ФОП \"Печений Володимир Борисович\""
+              },
+              "name": "ФОП \"Печений Володимир Борисович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "27500",
+                "region": "Кировоградская",
+                "streetAddress": "27500 Кіровоградська обл. м.Світловодськ вул.9 Січня буд.100/А кв.4",
+                "locality": "Светловодск"
+              }
+            }
+          ],
+          "time": "2015-11-09T13:02:29.860283+02:00"
+        }
+      ],
+      "time": "2015-11-09T11:06:35.822881+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T23:18:16.987937+02:00",
+          "amount": 6999.0,
+          "bidder": "bdff769733f14a61900e6e50cc5bfda2"
+        },
+        {
+          "date": "2015-11-06T14:13:42.959870+02:00",
+          "amount": 6949.4,
+          "bidder": "d5ec5fbfecc44e0fb6ebd4403bc9e4eb"
+        },
+        {
+          "date": "2015-11-06T10:14:15.158662+02:00",
+          "amount": 6900.0,
+          "bidder": "11cb0a13e4b64a268bd3c497c2abec7c"
+        }
+      ],
+      "time": "2015-11-09T10:39:19.003082+00:00"
+    }
+  },
+  "id": "b195f27027be4e0ca1822cf2bbf8a039",
+  "tenderId": "UA-2015-11-04-000114"
+}

@@ -1,0 +1,297 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "7dd07954bfe0418db587333b7022ca1b",
+        "time": "2015-12-07T10:42:41.011805+00:00"
+      },
+      "turn_4": {
+        "bidder": "7da155fe50084978ae9f5d8192cdcceb",
+        "time": "2015-12-07T10:38:41.008672+00:00"
+      },
+      "turn_5": {
+        "amount": 22290.0,
+        "bid_time": "2015-12-07T12:39:04.087009+02:00",
+        "bidder": "4c94fd5e242d49038757e4db40ec0638",
+        "time": "2015-12-07T10:40:41.012106+00:00"
+      },
+      "turn_2": {
+        "bidder": "dd4d915996f84ccc802f50146436ad5c",
+        "time": "2015-12-07T10:34:41.010362+00:00"
+      },
+      "turn_3": {
+        "bidder": "a68ca2bb78044cb1bd2d104fa8be83c4",
+        "time": "2015-12-07T10:36:41.010540+00:00"
+      },
+      "turn_1": {
+        "amount": 22295.0,
+        "bid_time": "2015-12-07T12:30:52.576079+02:00",
+        "bidder": "c290df2bda2d4ac7988cea091a450ebb",
+        "time": "2015-12-07T10:32:41.015243+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "4c94fd5e242d49038757e4db40ec0638",
+        "time": "2015-12-07T10:56:41.007690+00:00"
+      },
+      "turn_4": {
+        "bidder": "7dd07954bfe0418db587333b7022ca1b",
+        "time": "2015-12-07T10:52:41.010310+00:00"
+      },
+      "turn_5": {
+        "bidder": "c290df2bda2d4ac7988cea091a450ebb",
+        "time": "2015-12-07T10:54:41.029474+00:00"
+      },
+      "turn_2": {
+        "bidder": "a68ca2bb78044cb1bd2d104fa8be83c4",
+        "time": "2015-12-07T10:48:41.012994+00:00"
+      },
+      "turn_3": {
+        "amount": 21600.0,
+        "bid_time": "2015-12-07T12:48:58.400060+02:00",
+        "bidder": "7da155fe50084978ae9f5d8192cdcceb",
+        "time": "2015-12-07T10:50:41.074593+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd4d915996f84ccc802f50146436ad5c",
+        "time": "2015-12-07T10:46:41.009173+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "amount": 24989.0,
+        "bid_time": "2015-12-07T12:27:46.228327+02:00",
+        "bidder": "7dd07954bfe0418db587333b7022ca1b",
+        "time": "2015-12-07T10:28:41.027700+00:00"
+      },
+      "turn_4": {
+        "bidder": "a68ca2bb78044cb1bd2d104fa8be83c4",
+        "time": "2015-12-07T10:24:41.007842+00:00"
+      },
+      "turn_5": {
+        "amount": 24990.0,
+        "bid_time": "2015-12-07T12:24:59.168378+02:00",
+        "bidder": "4c94fd5e242d49038757e4db40ec0638",
+        "time": "2015-12-07T10:26:41.011303+00:00"
+      },
+      "turn_2": {
+        "bidder": "dd4d915996f84ccc802f50146436ad5c",
+        "time": "2015-12-07T10:20:41.034333+00:00"
+      },
+      "turn_3": {
+        "amount": 25000.0,
+        "bid_time": "2015-12-07T12:21:11.227859+02:00",
+        "bidder": "7da155fe50084978ae9f5d8192cdcceb",
+        "time": "2015-12-07T10:22:41.012857+00:00"
+      },
+      "turn_1": {
+        "bidder": "c290df2bda2d4ac7988cea091a450ebb",
+        "time": "2015-12-07T10:18:41.008292+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dd4d915996f84ccc802f50146436ad5c",
+          "amount": 29438.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T13:08:22.618307+02:00"
+        },
+        {
+          "bidder": "a68ca2bb78044cb1bd2d104fa8be83c4",
+          "amount": 28469.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972770745, +380630122745",
+                "name": "Олена Хомченко",
+                "email": "ukrkrasa@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2903000425",
+                "legalName": "ФОП \"Хомченко Олена Леонідівна\""
+              },
+              "name": "ФОП \"Хомченко Олена Леонідівна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "57000",
+                "region": "Николаевская",
+                "streetAddress": "вул. 6-ма Слобідська, 70-Б",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-02T20:37:59.918399+02:00"
+        },
+        {
+          "bidder": "7dd07954bfe0418db587333b7022ca1b",
+          "amount": 24989.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380985464006",
+                "name": "Качинський Віктор Леонідович",
+                "email": "vl.kachinskiy@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3022204650"
+              },
+              "name": "ФОП Качинський В.Л.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "23015",
+                "region": "Вінницька область",
+                "streetAddress": "провулок Жовтневий, 2",
+                "locality": "село Васютинці"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:27:46.228327+02:00"
+        },
+        {
+          "bidder": "c290df2bda2d4ac7988cea091a450ebb",
+          "amount": 22295.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990979123",
+                "name": "Романова Світлана Вікторівна",
+                "email": "svitlana_romanova@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2726914346"
+              },
+              "name": "ФОП Романова Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "85321",
+                "region": "Донецька область",
+                "streetAddress": "кв-л. 40, б.1, кв.21",
+                "locality": "місто Димитров"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:30:52.576079+02:00"
+        },
+        {
+          "bidder": "4c94fd5e242d49038757e4db40ec0638",
+          "amount": 22290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675651416",
+                "name": "Елена Смельчанская",
+                "email": "kaskadtenders@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30746089",
+                "legalName": "ТОВ \"КАСКАД\""
+              },
+              "name": "ТОВ \"КАСКАД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Комсомольская, д. 52а",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:39:04.087009+02:00"
+        },
+        {
+          "bidder": "7da155fe50084978ae9f5d8192cdcceb",
+          "amount": 21600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675630057",
+                "name": "Вячеслав Подгорный",
+                "email": "podgor_slav@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2824003072",
+                "legalName": "ФОП \"Підгорний\""
+              },
+              "name": "ФОП \"Підгорний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49087",
+                "region": "Днепропетровская",
+                "streetAddress": "Днепропетровск",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:48:58.400060+02:00"
+        }
+      ],
+      "time": "2015-12-07T10:56:44.107000+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T14:02:14.556196+02:00",
+          "amount": 30527.0,
+          "bidder": "c290df2bda2d4ac7988cea091a450ebb"
+        },
+        {
+          "date": "2015-12-04T13:08:22.618307+02:00",
+          "amount": 29438.0,
+          "bidder": "dd4d915996f84ccc802f50146436ad5c"
+        },
+        {
+          "date": "2015-12-04T13:52:16.826817+02:00",
+          "amount": 29155.0,
+          "bidder": "7da155fe50084978ae9f5d8192cdcceb"
+        },
+        {
+          "date": "2015-12-02T16:32:46.276875+02:00",
+          "amount": 28469.0,
+          "bidder": "4c94fd5e242d49038757e4db40ec0638"
+        },
+        {
+          "date": "2015-12-02T20:37:59.918399+02:00",
+          "amount": 28469.0,
+          "bidder": "a68ca2bb78044cb1bd2d104fa8be83c4"
+        },
+        {
+          "date": "2015-12-04T15:37:02.052254+02:00",
+          "amount": 27620.0,
+          "bidder": "7dd07954bfe0418db587333b7022ca1b"
+        }
+      ],
+      "time": "2015-12-07T10:11:41.004101+00:00"
+    }
+  },
+  "id": "39d78b4848054ad38105803473d7d9d4",
+  "tenderId": "UA-2015-12-01-000062"
+}

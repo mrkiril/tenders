@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "36a7143eb7094f55b4f887194eda17f7",
+        "time": "2015-11-09T11:53:53.007735+00:00"
+      },
+      "turn_1": {
+        "bidder": "741b656820944655a785bcc76a0263da",
+        "time": "2015-11-09T11:51:53.027644+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "36a7143eb7094f55b4f887194eda17f7",
+        "time": "2015-11-09T11:59:53.008770+00:00"
+      },
+      "turn_1": {
+        "bidder": "741b656820944655a785bcc76a0263da",
+        "time": "2015-11-09T11:57:53.007282+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "36a7143eb7094f55b4f887194eda17f7",
+        "time": "2015-11-09T11:47:53.008970+00:00"
+      },
+      "turn_1": {
+        "bidder": "741b656820944655a785bcc76a0263da",
+        "time": "2015-11-09T11:45:53.026399+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "741b656820944655a785bcc76a0263da",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz/",
+                "telephone": "0462651493",
+                "name": "Гриневич Валентина Анатольевна",
+                "email": "service@service.lagros.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "14220656",
+                "legalName": "ТОВ \"ЛАГРОС ЛТД\""
+              },
+              "name": "ТОВ \"ЛАГРОС ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14005",
+                "region": "ЧЕРНИГОВСКАЯ ОБЛ.",
+                "streetAddress": "Пр.Мира ,80",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-11-05T14:20:25.445830+02:00"
+        },
+        {
+          "bidder": "36a7143eb7094f55b4f887194eda17f7",
+          "amount": 1290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.printer.com.ua",
+                "faxNumber": "+380444849000",
+                "telephone": "+380503588033",
+                "name": "Андреєв Сергій Віктрович",
+                "email": "andriyur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37634298"
+              },
+              "name": "ТОВ Вічний картридж",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Шота Руставелі, б15 б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-05T23:38:27.479503+02:00"
+        }
+      ],
+      "time": "2015-11-09T11:59:54.633238+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T14:20:25.445830+02:00",
+          "amount": 1300.0,
+          "bidder": "741b656820944655a785bcc76a0263da"
+        },
+        {
+          "date": "2015-11-05T23:38:27.479503+02:00",
+          "amount": 1290.0,
+          "bidder": "36a7143eb7094f55b4f887194eda17f7"
+        }
+      ],
+      "time": "2015-11-09T11:38:53.004261+00:00"
+    }
+  },
+  "id": "3c0487dafe524a1fb7eb87511fff8287",
+  "tenderId": "UA-2015-11-03-000214"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2f0ccce330a14986aed588866229a54a",
+        "time": "2015-08-10T08:15:00.212546+00:00"
+      },
+      "turn_1": {
+        "bidder": "35e3b7762dee42ecb56d3945b549e146",
+        "time": "2015-08-10T08:13:00.128957+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2f0ccce330a14986aed588866229a54a",
+        "time": "2015-08-10T08:21:00.082603+00:00"
+      },
+      "turn_1": {
+        "bidder": "35e3b7762dee42ecb56d3945b549e146",
+        "time": "2015-08-10T08:19:00.144101+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2f0ccce330a14986aed588866229a54a",
+        "time": "2015-08-10T08:09:00.201861+00:00"
+      },
+      "turn_1": {
+        "bidder": "35e3b7762dee42ecb56d3945b549e146",
+        "time": "2015-08-10T08:07:00.093634+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "35e3b7762dee42ecb56d3945b549e146",
+          "amount": 63000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380487868280",
+                "telephone": "+380487868280",
+                "name": "Бадюл Олександр Федорович",
+                "email": "otpzdc@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30514975"
+              },
+              "name": "ПрАТ \"ВО \"ОБЛПАЛИВО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65003",
+                "region": "Одеська область",
+                "streetAddress": "вул. Чорноморського козацтва 70/1",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-08-07T13:04:42.469949+03:00"
+        },
+        {
+          "bidder": "2f0ccce330a14986aed588866229a54a",
+          "amount": 62890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380513231617",
+                "telephone": "+380513231617",
+                "name": "Суховій Людмила Василівна",
+                "email": "os-nova2007@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34922107"
+              },
+              "name": "ТОВ \"OC-НОВА 2007\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "55310",
+                "region": "Миколаївська область",
+                "streetAddress": "с. Кавуни, вул. Павлика Морозова, буд. 41",
+                "locality": "Арбузинський район"
+              }
+            }
+          ],
+          "time": "2015-08-07T14:32:50.783961+03:00"
+        }
+      ],
+      "time": "2015-08-10T08:21:05.147700+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-07T13:04:42.469949+03:00",
+          "amount": 63000.0,
+          "bidder": "35e3b7762dee42ecb56d3945b549e146"
+        },
+        {
+          "date": "2015-08-07T14:32:50.783961+03:00",
+          "amount": 62890.0,
+          "bidder": "2f0ccce330a14986aed588866229a54a"
+        }
+      ],
+      "time": "2015-08-10T08:00:00.063717+00:00"
+    }
+  },
+  "id": "01d6a1fc66ac4ec09d9097413cf54ddd",
+  "tenderId": "UA-2015-07-29-000072"
+}

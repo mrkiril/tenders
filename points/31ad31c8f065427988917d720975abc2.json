@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9255d4cef64846089dd15cbac1ef4d06",
+        "time": "2015-10-30T09:54:21.007364+00:00"
+      },
+      "turn_1": {
+        "bidder": "f2729131152d4a4387982612764f0004",
+        "time": "2015-10-30T09:52:21.011066+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9255d4cef64846089dd15cbac1ef4d06",
+        "time": "2015-10-30T10:00:21.007952+00:00"
+      },
+      "turn_1": {
+        "bidder": "f2729131152d4a4387982612764f0004",
+        "time": "2015-10-30T09:58:21.007892+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9255d4cef64846089dd15cbac1ef4d06",
+        "time": "2015-10-30T09:48:21.007030+00:00"
+      },
+      "turn_1": {
+        "bidder": "f2729131152d4a4387982612764f0004",
+        "time": "2015-10-30T09:46:21.009950+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f2729131152d4a4387982612764f0004",
+          "amount": 19987.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972801395",
+                "name": "Денис",
+                "email": "shurup_online@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"ВАСЕНКО ОЛЕКСАНДР ВІКТОРОВИЧ\"",
+                "id": "3054709332",
+                "uri": "http://magazin-shurup.com.ua"
+              },
+              "name": "ФОП \"ВАСЕНКО ОЛЕКСАНДР ВІКТОРОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61183",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:18:55.052984+02:00"
+        },
+        {
+          "bidder": "9255d4cef64846089dd15cbac1ef4d06",
+          "amount": 13748.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avmg.com.ua",
+                "telephone": "+380676340510",
+                "name": "АВ Металл групп",
+                "email": "m.gilmanov@avmg.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36441934",
+                "legalName": "АВ Металл групп"
+              },
+              "name": "АВ Металл групп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "4900,г. Днепрпетровск, ул. Шолом- Алейхема, д. 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T08:44:23.113335+02:00"
+        }
+      ],
+      "time": "2015-10-30T10:01:01.860705+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T13:18:55.052984+02:00",
+          "amount": 19987.2,
+          "bidder": "f2729131152d4a4387982612764f0004"
+        },
+        {
+          "date": "2015-10-28T08:44:23.113335+02:00",
+          "amount": 13748.0,
+          "bidder": "9255d4cef64846089dd15cbac1ef4d06"
+        }
+      ],
+      "time": "2015-10-30T09:39:21.004204+00:00"
+    }
+  },
+  "id": "31ad31c8f065427988917d720975abc2",
+  "tenderId": "UA-2015-10-22-000200"
+}

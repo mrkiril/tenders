@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c859c18dcb5c4467953ca8e8450c7434",
+        "time": "2015-11-26T10:22:42.006279+00:00"
+      },
+      "turn_3": {
+        "bidder": "f4710fc3aa6a49c99fcb69ec0905eb7c",
+        "time": "2015-11-26T10:24:42.008920+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f1cd0d7bbfb4126ba31a1d5f5bfbed2",
+        "time": "2015-11-26T10:20:42.006874+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c859c18dcb5c4467953ca8e8450c7434",
+        "time": "2015-11-26T10:30:42.008905+00:00"
+      },
+      "turn_3": {
+        "bidder": "f4710fc3aa6a49c99fcb69ec0905eb7c",
+        "time": "2015-11-26T10:32:42.009010+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f1cd0d7bbfb4126ba31a1d5f5bfbed2",
+        "time": "2015-11-26T10:28:42.008730+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5520.0,
+        "bid_time": "2015-11-26T12:13:22.654561+02:00",
+        "bidder": "c859c18dcb5c4467953ca8e8450c7434",
+        "time": "2015-11-26T10:14:42.010119+00:00"
+      },
+      "turn_3": {
+        "amount": 5519.0,
+        "bid_time": "2015-11-26T12:15:10.457224+02:00",
+        "bidder": "f4710fc3aa6a49c99fcb69ec0905eb7c",
+        "time": "2015-11-26T10:16:42.011246+00:00"
+      },
+      "turn_1": {
+        "amount": 6072.0,
+        "bid_time": "2015-11-26T12:10:53.883761+02:00",
+        "bidder": "0f1cd0d7bbfb4126ba31a1d5f5bfbed2",
+        "time": "2015-11-26T10:12:42.007908+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f1cd0d7bbfb4126ba31a1d5f5bfbed2",
+          "amount": 6072.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445002086",
+                "telephone": "+380442292408",
+                "name": "Олійник Олександр Петрович",
+                "email": "0672348985@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38390363"
+              },
+              "name": "ТОВ Стартрейдінг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська область",
+                "streetAddress": "вул. Лаврська 9 корпус 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T12:10:53.883761+02:00"
+        },
+        {
+          "bidder": "c859c18dcb5c4467953ca8e8450c7434",
+          "amount": 5520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T12:13:22.654561+02:00"
+        },
+        {
+          "bidder": "f4710fc3aa6a49c99fcb69ec0905eb7c",
+          "amount": 5519.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T12:15:10.457224+02:00"
+        }
+      ],
+      "time": "2015-11-26T10:32:43.744689+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T15:17:25.548661+02:00",
+          "amount": 6864.0,
+          "bidder": "0f1cd0d7bbfb4126ba31a1d5f5bfbed2"
+        },
+        {
+          "date": "2015-11-24T09:44:38.572082+02:00",
+          "amount": 6240.0,
+          "bidder": "c859c18dcb5c4467953ca8e8450c7434"
+        },
+        {
+          "date": "2015-11-24T09:28:26.834966+02:00",
+          "amount": 6108.0,
+          "bidder": "f4710fc3aa6a49c99fcb69ec0905eb7c"
+        }
+      ],
+      "time": "2015-11-26T10:05:42.004325+00:00"
+    }
+  },
+  "id": "30398dc5ab2c453faf743dc53619b4f8",
+  "tenderId": "UA-2015-11-19-000124"
+}

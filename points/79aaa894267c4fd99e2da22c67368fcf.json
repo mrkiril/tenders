@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "41344a3258d54dff97b602d71c8a86b2",
+        "time": "2015-06-11T08:15:00.404811+00:00"
+      },
+      "turn_1": {
+        "bidder": "1117c8dc7e374de7917eb7a9a4d993e8",
+        "time": "2015-06-11T08:13:00.235280+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "41344a3258d54dff97b602d71c8a86b2",
+        "time": "2015-06-11T08:21:01.334504+00:00"
+      },
+      "turn_1": {
+        "bidder": "1117c8dc7e374de7917eb7a9a4d993e8",
+        "time": "2015-06-11T08:19:00.305863+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1117c8dc7e374de7917eb7a9a4d993e8",
+        "time": "2015-06-11T08:09:00.558121+00:00"
+      },
+      "turn_1": {
+        "amount": 175480.0,
+        "bid_time": "2015-06-11T11:06:59.347719+03:00",
+        "bidder": "41344a3258d54dff97b602d71c8a86b2",
+        "time": "2015-06-11T08:07:00.247997+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1117c8dc7e374de7917eb7a9a4d993e8",
+          "amount": 177444.24,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503877184",
+                "name": "Василий Макаренко",
+                "email": "vmakarenko@sibis.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕсАй БІС\"",
+                "id": "32553597",
+                "uri": "http://www.sibis.com.ua"
+              },
+              "name": "ТОВ \"ЕсАй БІС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04073",
+                "region": "Киевская",
+                "streetAddress": "вул. Рилєєва, будинок 10-А, корпус 2, літера «А»",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-10T11:42:21.490123+03:00"
+        },
+        {
+          "bidder": "41344a3258d54dff97b602d71c8a86b2",
+          "amount": 175480.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952804062",
+                "name": "Лилия  Николаенко",
+                "email": "liliya.nikolaenko@rim2000.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"РИМ2000\"",
+                "id": "23646710",
+                "uri": "http://www.rim2000.com"
+              },
+              "name": "ТОВ \"РИМ2000\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49600",
+                "region": "Харьковская",
+                "streetAddress": "г. Днепропетровск, ул. Паникахи, дом 2, корпус 12",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-06-11T11:06:59.347719+03:00"
+        }
+      ],
+      "time": "2015-06-11T08:21:20.319271+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T16:13:04.935456+03:00",
+          "amount": 177480.0,
+          "bidder": "41344a3258d54dff97b602d71c8a86b2"
+        },
+        {
+          "date": "2015-06-10T11:42:21.490123+03:00",
+          "amount": 177444.24,
+          "bidder": "1117c8dc7e374de7917eb7a9a4d993e8"
+        }
+      ],
+      "time": "2015-06-11T08:00:00.286124+00:00"
+    }
+  },
+  "id": "79aaa894267c4fd99e2da22c67368fcf",
+  "tenderId": "UA-2015-05-29-000029"
+}

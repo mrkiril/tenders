@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e8efa7f045f746b784dcff68915e9eb0",
+        "time": "2015-10-13T08:54:34.007654+00:00"
+      },
+      "turn_1": {
+        "amount": 3150.0,
+        "bid_time": "2015-10-13T11:51:27.197248+03:00",
+        "bidder": "08400cef9af8422993e4fcdf36d85cf8",
+        "time": "2015-10-13T08:52:34.008765+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "08400cef9af8422993e4fcdf36d85cf8",
+        "time": "2015-10-13T09:00:34.007658+00:00"
+      },
+      "turn_1": {
+        "bidder": "e8efa7f045f746b784dcff68915e9eb0",
+        "time": "2015-10-13T08:58:34.007490+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e8efa7f045f746b784dcff68915e9eb0",
+        "time": "2015-10-13T08:48:34.007353+00:00"
+      },
+      "turn_1": {
+        "bidder": "08400cef9af8422993e4fcdf36d85cf8",
+        "time": "2015-10-13T08:46:34.009801+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e8efa7f045f746b784dcff68915e9eb0",
+          "amount": 3167.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0955158249",
+                "name": "Чепiжко Олександр Виталiйович",
+                "email": "a_chepizhko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34686647",
+                "legalName": "Товариство з обмеженою вiдповiдальнiстю \"Будiвельна компанiя \"ДОНМЕГАСТРОЙ\""
+              },
+              "name": "Товариство з обмеженою вiдповiдальнiстю \"Будiвельна компанiя \"ДОНМЕГАСТРОЙ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "84406",
+                "region": "Донецька",
+                "streetAddress": "Шевченко, 55",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T14:30:02.817316+03:00"
+        },
+        {
+          "bidder": "08400cef9af8422993e4fcdf36d85cf8",
+          "amount": 3150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://berdyansk.biz/",
+                "telephone": "+380667301730",
+                "name": "ТОВ \"Приморський елеватор\"",
+                "email": "pavrianidis84@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32994143",
+                "legalName": "ТОВ \"Приморський елеватор\""
+              },
+              "name": "ТОВ \"Приморський елеватор\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "71101, м.Бердянськ, Запорізька область, Мелітопольське шосе 86",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T11:51:27.197248+03:00"
+        }
+      ],
+      "time": "2015-10-13T09:00:50.896569+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T16:25:58.770881+03:00",
+          "amount": 590000.0,
+          "bidder": "08400cef9af8422993e4fcdf36d85cf8"
+        },
+        {
+          "date": "2015-10-09T14:30:02.817316+03:00",
+          "amount": 3167.0,
+          "bidder": "e8efa7f045f746b784dcff68915e9eb0"
+        }
+      ],
+      "time": "2015-10-13T08:39:34.002678+00:00"
+    }
+  },
+  "id": "22f1cbcb1aa74f8b9302c8783eeb384d",
+  "tenderId": "UA-2015-10-01-000204"
+}

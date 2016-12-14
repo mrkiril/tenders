@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fb1366ec43164f2189d35d53267550dc",
+        "time": "2015-08-25T08:45:00.077230+00:00"
+      },
+      "turn_1": {
+        "bidder": "d70dbb3f2f964c1b82f49d3e6354972d",
+        "time": "2015-08-25T08:43:00.182354+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fb1366ec43164f2189d35d53267550dc",
+        "time": "2015-08-25T08:51:00.094903+00:00"
+      },
+      "turn_1": {
+        "bidder": "d70dbb3f2f964c1b82f49d3e6354972d",
+        "time": "2015-08-25T08:49:00.092228+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d70dbb3f2f964c1b82f49d3e6354972d",
+        "time": "2015-08-25T08:39:00.034962+00:00"
+      },
+      "turn_1": {
+        "amount": 99000.0,
+        "bid_time": "2015-08-25T11:35:31.787041+03:00",
+        "bidder": "fb1366ec43164f2189d35d53267550dc",
+        "time": "2015-08-25T08:37:00.088047+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d70dbb3f2f964c1b82f49d3e6354972d",
+          "amount": 100000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kep-group.net",
+                "telephone": "+380577203230",
+                "name": "Товариство з обмеженою відповідальністю \"КЕП\"",
+                "email": "office@kep.co.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36032037",
+                "legalName": "Товариство з обмеженою відповідальністю \"КЕП\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КЕП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "62441, Харківська обл., Харківський район,\r\nс. Циркуни, вул. Кірова, 179/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T13:30:55.857180+03:00"
+        },
+        {
+          "bidder": "fb1366ec43164f2189d35d53267550dc",
+          "amount": 99000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meranova.com.ua",
+                "telephone": "+380577281365",
+                "name": "Мера Нова",
+                "email": "gevrasov@meranova.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36455879",
+                "legalName": "Мера Нова"
+              },
+              "name": "Мера Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61052, Украина, г. Харьков, \r\nпер. Симферопольский 6, оф. 702/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-25T11:35:31.787041+03:00"
+        }
+      ],
+      "time": "2015-08-25T08:51:12.184036+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T13:30:55.857180+03:00",
+          "amount": 100000.0,
+          "bidder": "d70dbb3f2f964c1b82f49d3e6354972d"
+        },
+        {
+          "date": "2015-08-19T11:33:07.463410+03:00",
+          "amount": 100000.0,
+          "bidder": "fb1366ec43164f2189d35d53267550dc"
+        }
+      ],
+      "time": "2015-08-25T08:30:00.061798+00:00"
+    }
+  },
+  "id": "0f2cfdf006854b07a1ce9ac2e457642d",
+  "tenderId": "UA-2015-08-11-000086"
+}

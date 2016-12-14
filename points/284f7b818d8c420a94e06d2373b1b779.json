@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "083aa83783df4e87b58005a6b593a419",
+        "time": "2015-10-09T09:51:50.006622+00:00"
+      },
+      "turn_1": {
+        "bidder": "e62c9febdc204fe3917566d5602eafc1",
+        "time": "2015-10-09T09:49:50.011438+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "083aa83783df4e87b58005a6b593a419",
+        "time": "2015-10-09T09:57:50.007513+00:00"
+      },
+      "turn_1": {
+        "bidder": "e62c9febdc204fe3917566d5602eafc1",
+        "time": "2015-10-09T09:55:50.007585+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "083aa83783df4e87b58005a6b593a419",
+        "time": "2015-10-09T09:45:50.008728+00:00"
+      },
+      "turn_1": {
+        "bidder": "e62c9febdc204fe3917566d5602eafc1",
+        "time": "2015-10-09T09:43:50.007277+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e62c9febdc204fe3917566d5602eafc1",
+          "amount": 17614.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T12:56:59.627767+03:00"
+        },
+        {
+          "bidder": "083aa83783df4e87b58005a6b593a419",
+          "amount": 2787.89,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442350704",
+                "name": "Литкіна Наталья Юріївна",
+                "email": "lytkina@medigran.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39501990"
+              },
+              "name": "ТОВ Медігран Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01032",
+                "region": "Київська область",
+                "streetAddress": "бульвар Шевченка, 36, офіс 6",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-05T15:56:20.859231+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:57:51.321909+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T12:56:59.627767+03:00",
+          "amount": 17614.04,
+          "bidder": "e62c9febdc204fe3917566d5602eafc1"
+        },
+        {
+          "date": "2015-10-05T15:56:20.859231+03:00",
+          "amount": 2787.89,
+          "bidder": "083aa83783df4e87b58005a6b593a419"
+        }
+      ],
+      "time": "2015-10-09T09:36:50.003819+00:00"
+    }
+  },
+  "id": "284f7b818d8c420a94e06d2373b1b779",
+  "tenderId": "UA-2015-09-28-000234"
+}

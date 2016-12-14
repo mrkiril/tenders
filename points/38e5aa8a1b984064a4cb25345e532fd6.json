@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "22d12186077c4658ac15b54b13e679b6",
+        "time": "2015-12-17T13:27:24.008585+00:00"
+      },
+      "turn_1": {
+        "bidder": "3eb5a4e4c45d4dd8b8d1ebbb106c8fc4",
+        "time": "2015-12-17T13:25:24.009365+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "22d12186077c4658ac15b54b13e679b6",
+        "time": "2015-12-17T13:33:24.008181+00:00"
+      },
+      "turn_1": {
+        "bidder": "3eb5a4e4c45d4dd8b8d1ebbb106c8fc4",
+        "time": "2015-12-17T13:31:24.008851+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "22d12186077c4658ac15b54b13e679b6",
+        "time": "2015-12-17T13:21:24.008616+00:00"
+      },
+      "turn_1": {
+        "bidder": "3eb5a4e4c45d4dd8b8d1ebbb106c8fc4",
+        "time": "2015-12-17T13:19:24.009010+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3eb5a4e4c45d4dd8b8d1ebbb106c8fc4",
+          "amount": 61041.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958882724, +380342502165, +380342509104",
+                "name": "Леся  Білобровко",
+                "email": "foliant.drukarnja@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3101314506",
+                "legalName": "ФОП \"БІЛОБРОВКО ЛЕСЯ ВАСИЛІВНА\""
+              },
+              "name": "ФОП \"БІЛОБРОВКО ЛЕСЯ ВАСИЛІВНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "76018",
+                "region": "Ивано-Франковская",
+                "streetAddress": "вул. Старозамкова, буд. 2 ",
+                "locality": "Ивано-Франковск"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:16:31.934796+02:00"
+        },
+        {
+          "bidder": "22d12186077c4658ac15b54b13e679b6",
+          "amount": 37890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bregin.in.ua",
+                "telephone": "+380984760097",
+                "name": "Брегін Андрій Романович",
+                "email": "bregin@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2942003178"
+              },
+              "name": "ФОП Брегін Андрій Романович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35408",
+                "region": "Рівненська область",
+                "streetAddress": "село Симонів, вулиця Юзикевичів 27",
+                "locality": "Гощанський район"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:54:05.844630+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:33:25.389679+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T12:16:31.934796+02:00",
+          "amount": 61041.0,
+          "bidder": "3eb5a4e4c45d4dd8b8d1ebbb106c8fc4"
+        },
+        {
+          "date": "2015-12-16T13:54:05.844630+02:00",
+          "amount": 37890.0,
+          "bidder": "22d12186077c4658ac15b54b13e679b6"
+        }
+      ],
+      "time": "2015-12-17T13:12:24.005014+00:00"
+    }
+  },
+  "id": "38e5aa8a1b984064a4cb25345e532fd6",
+  "tenderId": "UA-2015-12-11-000110"
+}

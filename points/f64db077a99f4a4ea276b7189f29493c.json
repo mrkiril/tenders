@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "720fb92e6c9947b8b13cbc866307198a",
+        "time": "2015-12-17T12:52:39.008476+00:00"
+      },
+      "turn_3": {
+        "bidder": "7429a5f28496431bbe4bcb97bb12a6f0",
+        "time": "2015-12-17T12:54:39.008551+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c494ad67fb24218afa0d3c569efaf95",
+        "time": "2015-12-17T12:50:39.008930+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "720fb92e6c9947b8b13cbc866307198a",
+        "time": "2015-12-17T13:00:39.008786+00:00"
+      },
+      "turn_3": {
+        "bidder": "7429a5f28496431bbe4bcb97bb12a6f0",
+        "time": "2015-12-17T13:02:39.008115+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c494ad67fb24218afa0d3c569efaf95",
+        "time": "2015-12-17T12:58:39.008072+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "720fb92e6c9947b8b13cbc866307198a",
+        "time": "2015-12-17T12:44:39.008589+00:00"
+      },
+      "turn_3": {
+        "bidder": "7429a5f28496431bbe4bcb97bb12a6f0",
+        "time": "2015-12-17T12:46:39.009265+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c494ad67fb24218afa0d3c569efaf95",
+        "time": "2015-12-17T12:42:39.008733+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2c494ad67fb24218afa0d3c569efaf95",
+          "amount": 1084.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380343222289",
+                "name": "Шкіндюк Василь Васильович",
+                "email": "kontact_verch@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2517107838"
+              },
+              "name": "ФОП Шкіндюк В В",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "78700",
+                "region": "Івано-Франківська область",
+                "streetAddress": "вул Гуцульського повстання 33",
+                "locality": "Верховина"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:25:33.430214+02:00"
+        },
+        {
+          "bidder": "720fb92e6c9947b8b13cbc866307198a",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aircraftspruce.com.ua",
+                "telephone": "+380443832512",
+                "name": "Общество с ограниченной ответственностью \"Эйркрафт Спрус Украина\"",
+                "email": "i.rizvash@aircraftspruce.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39477827",
+                "legalName": "Общество с ограниченной ответственностью \"Эйркрафт Спрус Украина\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Эйркрафт Спрус Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04209, Украина, г. Киев, ул. Героев Днепра, 29, 200",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T16:51:19.941298+02:00"
+        },
+        {
+          "bidder": "7429a5f28496431bbe4bcb97bb12a6f0",
+          "amount": 681.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:00:48.577509+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:02:42.647929+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T12:25:33.430214+02:00",
+          "amount": 1084.0,
+          "bidder": "2c494ad67fb24218afa0d3c569efaf95"
+        },
+        {
+          "date": "2015-12-14T16:51:19.941298+02:00",
+          "amount": 1000.0,
+          "bidder": "720fb92e6c9947b8b13cbc866307198a"
+        },
+        {
+          "date": "2015-12-16T13:00:48.577509+02:00",
+          "amount": 681.0,
+          "bidder": "7429a5f28496431bbe4bcb97bb12a6f0"
+        }
+      ],
+      "time": "2015-12-17T12:35:39.004770+00:00"
+    }
+  },
+  "id": "f64db077a99f4a4ea276b7189f29493c",
+  "tenderId": "UA-2015-12-11-000078-b"
+}

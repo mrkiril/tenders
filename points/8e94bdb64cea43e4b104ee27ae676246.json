@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2c5527bb643e4ea6adc9862e7a8608ac",
+        "time": "2015-12-09T09:52:06.009063+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf07d7d17c34483b7cf83031ccbee44",
+        "time": "2015-12-09T09:50:06.009933+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2c5527bb643e4ea6adc9862e7a8608ac",
+        "time": "2015-12-09T09:58:06.027760+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf07d7d17c34483b7cf83031ccbee44",
+        "time": "2015-12-09T09:56:06.012463+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2c5527bb643e4ea6adc9862e7a8608ac",
+        "time": "2015-12-09T09:46:06.008936+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf07d7d17c34483b7cf83031ccbee44",
+        "time": "2015-12-09T09:44:06.009458+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9cf07d7d17c34483b7cf83031ccbee44",
+          "amount": 58986.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avto-bat.com.ua/",
+                "telephone": "+3800666368235",
+                "name": "ООО \"АВТО-БАТ\"",
+                "email": "avto-bat@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38101458",
+                "legalName": "ООО \"АВТО-БАТ\""
+              },
+              "name": "ООО \"АВТО-БАТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Павлоград ул. Терновская ,4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-07T10:46:38.067816+02:00"
+        },
+        {
+          "bidder": "2c5527bb643e4ea6adc9862e7a8608ac",
+          "amount": 54000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bms.dp.ua",
+                "telephone": "+380675666084",
+                "name": "Боділ Іван Миколайович",
+                "email": "office@bms.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39448796"
+              },
+              "name": "ТОВ Буд Маркет Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49017",
+                "region": "Дніпропетровська область",
+                "streetAddress": "Пр.. Петровського 52/19",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-07T14:34:24.434333+02:00"
+        }
+      ],
+      "time": "2015-12-09T09:58:07.786689+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T10:46:38.067816+02:00",
+          "amount": 58986.0,
+          "bidder": "9cf07d7d17c34483b7cf83031ccbee44"
+        },
+        {
+          "date": "2015-12-07T14:34:24.434333+02:00",
+          "amount": 54000.0,
+          "bidder": "2c5527bb643e4ea6adc9862e7a8608ac"
+        }
+      ],
+      "time": "2015-12-09T09:37:06.005138+00:00"
+    }
+  },
+  "id": "8e94bdb64cea43e4b104ee27ae676246",
+  "tenderId": "UA-2015-12-02-000076"
+}

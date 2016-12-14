@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f34409e9a63841518c83f457992668cc",
+        "time": "2015-10-26T11:26:28.010010+00:00"
+      },
+      "turn_3": {
+        "bidder": "bb1bdbae4f4f43288222511a24a44f28",
+        "time": "2015-10-26T11:28:28.008326+00:00"
+      },
+      "turn_1": {
+        "bidder": "307dc85b31c54ed083cb740d32f8b8e2",
+        "time": "2015-10-26T11:24:28.008556+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f34409e9a63841518c83f457992668cc",
+        "time": "2015-10-26T11:34:28.009767+00:00"
+      },
+      "turn_3": {
+        "bidder": "bb1bdbae4f4f43288222511a24a44f28",
+        "time": "2015-10-26T11:36:28.007720+00:00"
+      },
+      "turn_1": {
+        "bidder": "307dc85b31c54ed083cb740d32f8b8e2",
+        "time": "2015-10-26T11:32:28.008413+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f34409e9a63841518c83f457992668cc",
+        "time": "2015-10-26T11:18:28.008024+00:00"
+      },
+      "turn_3": {
+        "bidder": "bb1bdbae4f4f43288222511a24a44f28",
+        "time": "2015-10-26T11:20:28.012134+00:00"
+      },
+      "turn_1": {
+        "bidder": "307dc85b31c54ed083cb740d32f8b8e2",
+        "time": "2015-10-26T11:16:28.009318+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "307dc85b31c54ed083cb740d32f8b8e2",
+          "amount": 1414.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380562347131",
+                "telephone": "+380562316006",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-23T15:12:30.726028+03:00"
+        },
+        {
+          "bidder": "f34409e9a63841518c83f457992668cc",
+          "amount": 1257.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://express-papir.com.ua",
+                "faxNumber": "5007078",
+                "telephone": "5007078",
+                "name": "Колядко Андрій Михайлович",
+                "email": "express-papir_tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36057863",
+                "legalName": "Товариство з обмеженою відповідальністю\"Експрес Папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"Експрес Папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "Драгоманова 42А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T13:28:03.515967+03:00"
+        },
+        {
+          "bidder": "bb1bdbae4f4f43288222511a24a44f28",
+          "amount": 1180.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-400-22-96",
+                "telephone": "095-767-72-13",
+                "name": "Заїтов Бакірович Тахір",
+                "email": "4@ot.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36265773",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська",
+                "streetAddress": "вул. Миру, будинок 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T16:34:17.427022+03:00"
+        }
+      ],
+      "time": "2015-10-26T11:36:31.652490+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T15:12:30.726028+03:00",
+          "amount": 1414.32,
+          "bidder": "307dc85b31c54ed083cb740d32f8b8e2"
+        },
+        {
+          "date": "2015-10-23T13:28:03.515967+03:00",
+          "amount": 1257.6,
+          "bidder": "f34409e9a63841518c83f457992668cc"
+        },
+        {
+          "date": "2015-10-22T16:34:17.427022+03:00",
+          "amount": 1180.0,
+          "bidder": "bb1bdbae4f4f43288222511a24a44f28"
+        }
+      ],
+      "time": "2015-10-26T11:09:28.004775+00:00"
+    }
+  },
+  "id": "42cbeaa606c247ed9dcb4ad205443041",
+  "tenderId": "UA-2015-10-16-000177"
+}

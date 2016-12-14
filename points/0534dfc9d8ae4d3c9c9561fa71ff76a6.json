@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "52ed12cfdf8140ed80b9b9d2758a53df",
+        "time": "2015-08-10T08:45:00.088308+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f4d7e71afd6444ab0e0d082a4bdc155",
+        "time": "2015-08-10T08:43:00.045474+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "52ed12cfdf8140ed80b9b9d2758a53df",
+        "time": "2015-08-10T08:51:00.088958+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f4d7e71afd6444ab0e0d082a4bdc155",
+        "time": "2015-08-10T08:49:00.064221+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "52ed12cfdf8140ed80b9b9d2758a53df",
+        "time": "2015-08-10T08:39:00.162948+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f4d7e71afd6444ab0e0d082a4bdc155",
+        "time": "2015-08-10T08:37:00.089232+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f4d7e71afd6444ab0e0d082a4bdc155",
+          "amount": 2200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://goldenfleece.com.ua/",
+                "telephone": "+30442551435",
+                "name": "Промышленная компания \"Золотое Руно Украина\"",
+                "email": "a.eremenko@goldenfleece.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39018350",
+                "legalName": "Промышленная компания \"Золотое Руно Украина\""
+              },
+              "name": "Промышленная компания \"Золотое Руно Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, г. Киев, улица Бережанская, 9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T12:54:33.078881+03:00"
+        },
+        {
+          "bidder": "52ed12cfdf8140ed80b9b9d2758a53df",
+          "amount": 2073.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380623828849",
+                "name": "Абразив групп",
+                "email": "missNatali2008@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33703603",
+                "legalName": "Абразив групп"
+              },
+              "name": "Абразив групп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69084, Запорожская область, г. Запорожье, ул. Магистральная, 100А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T10:15:04.960118+03:00"
+        }
+      ],
+      "time": "2015-08-10T08:51:03.255958+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T12:54:33.078881+03:00",
+          "amount": 2200.0,
+          "bidder": "0f4d7e71afd6444ab0e0d082a4bdc155"
+        },
+        {
+          "date": "2015-08-05T10:15:04.960118+03:00",
+          "amount": 2073.0,
+          "bidder": "52ed12cfdf8140ed80b9b9d2758a53df"
+        }
+      ],
+      "time": "2015-08-10T08:30:00.005585+00:00"
+    }
+  },
+  "id": "0534dfc9d8ae4d3c9c9561fa71ff76a6",
+  "tenderId": "UA-2015-07-29-000134"
+}

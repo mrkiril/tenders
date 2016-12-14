@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 5624.0,
+        "bid_time": "2015-11-24T13:54:06.908030+02:00",
+        "bidder": "0bbf7abe44aa434badcbd53e289dcbc7",
+        "time": "2015-11-24T11:54:34.012621+00:00"
+      },
+      "turn_2": {
+        "amount": 6100.0,
+        "bid_time": "2015-11-24T13:48:58.282151+02:00",
+        "bidder": "3066c23e92bb446ba98793e63b8f9153",
+        "time": "2015-11-24T11:50:34.011780+00:00"
+      },
+      "turn_3": {
+        "amount": 5625.0,
+        "bid_time": "2015-11-24T13:51:11.821398+02:00",
+        "bidder": "103b7874b0c84fe6b30556932acbb34d",
+        "time": "2015-11-24T11:52:34.011766+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ddbcad8adaa4cf9813bf4f995cfc443",
+        "time": "2015-11-24T11:48:34.007546+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "0bbf7abe44aa434badcbd53e289dcbc7",
+        "time": "2015-11-24T12:04:34.010242+00:00"
+      },
+      "turn_2": {
+        "bidder": "3066c23e92bb446ba98793e63b8f9153",
+        "time": "2015-11-24T12:00:34.010258+00:00"
+      },
+      "turn_3": {
+        "amount": 5175.0,
+        "bid_time": "2015-11-24T14:01:03.240436+02:00",
+        "bidder": "103b7874b0c84fe6b30556932acbb34d",
+        "time": "2015-11-24T12:02:34.015776+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ddbcad8adaa4cf9813bf4f995cfc443",
+        "time": "2015-11-24T11:58:34.016204+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "3066c23e92bb446ba98793e63b8f9153",
+        "time": "2015-11-24T11:44:34.007504+00:00"
+      },
+      "turn_2": {
+        "amount": 6120.0,
+        "bid_time": "2015-11-24T13:38:49.833055+02:00",
+        "bidder": "103b7874b0c84fe6b30556932acbb34d",
+        "time": "2015-11-24T11:40:34.008198+00:00"
+      },
+      "turn_3": {
+        "amount": 6119.0,
+        "bid_time": "2015-11-24T13:41:09.933456+02:00",
+        "bidder": "0bbf7abe44aa434badcbd53e289dcbc7",
+        "time": "2015-11-24T11:42:34.008435+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ddbcad8adaa4cf9813bf4f995cfc443",
+        "time": "2015-11-24T11:38:34.018546+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ddbcad8adaa4cf9813bf4f995cfc443",
+          "amount": 10000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-23T02:02:22.931921+02:00"
+        },
+        {
+          "bidder": "3066c23e92bb446ba98793e63b8f9153",
+          "amount": 6100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-24T13:48:58.282151+02:00"
+        },
+        {
+          "bidder": "0bbf7abe44aa434badcbd53e289dcbc7",
+          "amount": 5624.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://atlantelektro.prom.ua/",
+                "telephone": "380444557814",
+                "name": "Валерій Сіненко ",
+                "email": "atel2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37013570",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Виробничо-комерційна фірма \"Атлант Електро\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "а/с 64, м.Київ, 03115"
+              }
+            }
+          ],
+          "time": "2015-11-24T13:54:06.908030+02:00"
+        },
+        {
+          "bidder": "103b7874b0c84fe6b30556932acbb34d",
+          "amount": 5175.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intexgroop.kharkov.ua/",
+                "telephone": "+380577665083",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+                "email": "intexgroop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38631848",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр-т Московський, б. 199, корпус Д-5, офіс 233, м. Харків, 61037",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-24T14:01:03.240436+02:00"
+        }
+      ],
+      "time": "2015-11-24T12:04:35.788789+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T02:02:22.931921+02:00",
+          "amount": 10000.0,
+          "bidder": "4ddbcad8adaa4cf9813bf4f995cfc443"
+        },
+        {
+          "date": "2015-11-19T13:31:14.869469+02:00",
+          "amount": 9480.0,
+          "bidder": "103b7874b0c84fe6b30556932acbb34d"
+        },
+        {
+          "date": "2015-11-21T15:04:10.614736+02:00",
+          "amount": 9000.0,
+          "bidder": "0bbf7abe44aa434badcbd53e289dcbc7"
+        },
+        {
+          "date": "2015-11-20T19:25:07.597621+02:00",
+          "amount": 6372.0,
+          "bidder": "3066c23e92bb446ba98793e63b8f9153"
+        }
+      ],
+      "time": "2015-11-24T11:31:34.002350+00:00"
+    }
+  },
+  "id": "1f5cabe54afb465ab5cef948bd57e377",
+  "tenderId": "UA-2015-11-13-000040"
+}

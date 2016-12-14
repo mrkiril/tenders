@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 306000.0,
+        "bid_time": "2015-09-22T11:44:58.859019+03:00",
+        "bidder": "5952ad2ad47f40c49c38ed3fa9f41057",
+        "time": "2015-09-22T08:45:00.141573+00:00"
+      },
+      "turn_1": {
+        "amount": 306100.0,
+        "bid_time": "2015-09-22T11:41:10.065291+03:00",
+        "bidder": "ab5f80f872af40a9a18fbc247843cf71",
+        "time": "2015-09-22T08:43:00.096320+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 302500.0,
+        "bid_time": "2015-09-22T11:49:37.338036+03:00",
+        "bidder": "5952ad2ad47f40c49c38ed3fa9f41057",
+        "time": "2015-09-22T08:51:00.098774+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab5f80f872af40a9a18fbc247843cf71",
+        "time": "2015-09-22T08:49:00.087931+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5952ad2ad47f40c49c38ed3fa9f41057",
+        "time": "2015-09-22T08:39:00.148003+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab5f80f872af40a9a18fbc247843cf71",
+        "time": "2015-09-22T08:37:00.192186+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab5f80f872af40a9a18fbc247843cf71",
+          "amount": 306100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vrp-dormash.uaprom.net",
+                "telephone": "+380445670051",
+                "name": "ТОВ ВРП Дормаш",
+                "email": "dormash05@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33693428",
+                "legalName": "ТОВ ВРП Дормаш"
+              },
+              "name": "ТОВ ВРП Дормаш",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02099, м. Київ, вул. Бориспільська, 9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T11:41:10.065291+03:00"
+        },
+        {
+          "bidder": "5952ad2ad47f40c49c38ed3fa9f41057",
+          "amount": 302500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380985795620",
+                "name": "Товариство з обмеженою відповідальністю «Аерлайн»",
+                "email": "aersnab@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36465159",
+                "legalName": "Товариство з обмеженою відповідальністю «Аерлайн»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Аерлайн»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "71600, вул.Богдана Хмельницького, 3\r\nм. Василівка, Запорізька область",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T11:49:37.338036+03:00"
+        }
+      ],
+      "time": "2015-09-22T08:51:15.736685+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T12:25:47.228628+03:00",
+          "amount": 313440.0,
+          "bidder": "ab5f80f872af40a9a18fbc247843cf71"
+        },
+        {
+          "date": "2015-09-21T16:59:16.748204+03:00",
+          "amount": 309600.0,
+          "bidder": "5952ad2ad47f40c49c38ed3fa9f41057"
+        }
+      ],
+      "time": "2015-09-22T08:30:00.050635+00:00"
+    }
+  },
+  "id": "99253c25716a46cabffec58d6c6b8a0c",
+  "tenderId": "UA-2015-09-09-000034"
+}

@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "522f4814bf214b0ca20d67a2cefa1e6d",
+        "time": "2015-11-17T13:00:48.006902+00:00"
+      },
+      "turn_3": {
+        "bidder": "696cbba5389544e6973267f6089a1129",
+        "time": "2015-11-17T13:02:48.007255+00:00"
+      },
+      "turn_1": {
+        "bidder": "ada9a4be362b4e6c9fe78b917ba842b7",
+        "time": "2015-11-17T12:58:48.007646+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "522f4814bf214b0ca20d67a2cefa1e6d",
+        "time": "2015-11-17T13:08:48.007476+00:00"
+      },
+      "turn_3": {
+        "bidder": "696cbba5389544e6973267f6089a1129",
+        "time": "2015-11-17T13:10:48.007024+00:00"
+      },
+      "turn_1": {
+        "bidder": "ada9a4be362b4e6c9fe78b917ba842b7",
+        "time": "2015-11-17T13:06:48.007396+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "522f4814bf214b0ca20d67a2cefa1e6d",
+        "time": "2015-11-17T12:52:48.033192+00:00"
+      },
+      "turn_3": {
+        "bidder": "696cbba5389544e6973267f6089a1129",
+        "time": "2015-11-17T12:54:48.009230+00:00"
+      },
+      "turn_1": {
+        "bidder": "ada9a4be362b4e6c9fe78b917ba842b7",
+        "time": "2015-11-17T12:50:48.007861+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ada9a4be362b4e6c9fe78b917ba842b7",
+          "amount": 80000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "2588808",
+                "telephone": "2588808",
+                "name": "Герасимчук Тарасівна Юлія",
+                "email": "tehno-snab@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31243650",
+                "legalName": "Товариство з обмеженою відповідальністю \" ТЕХНОСНАБ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ТЕХНОСНАБ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01010",
+                "region": "Київська",
+                "streetAddress": "вул. Суворова, 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T09:49:22.549104+02:00"
+        },
+        {
+          "bidder": "522f4814bf214b0ca20d67a2cefa1e6d",
+          "amount": 62235.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679448615",
+                "name": "Людмила",
+                "email": "nlw@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36060635",
+                "legalName": "ТОВ \"Ольвія-1\""
+              },
+              "name": "ТОВ \"Ольвія-1\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03115",
+                "region": "Киевская",
+                "streetAddress": "проспект Перемоги буд.121-б, кв.116",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:36:15.887403+02:00"
+        },
+        {
+          "bidder": "696cbba5389544e6973267f6089a1129",
+          "amount": 58800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442192200",
+                "telephone": "+380679132826",
+                "name": "Мельник Лілія Миколаївна",
+                "email": "fortuna_m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2963009588"
+              },
+              "name": "ФОП Мельник",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08320",
+                "region": "Київська область",
+                "streetAddress": "Гагаріна 52",
+                "locality": "Велика Олександрівка"
+              }
+            }
+          ],
+          "time": "2015-11-16T15:00:47.135318+02:00"
+        }
+      ],
+      "time": "2015-11-17T13:10:50.974031+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T09:49:22.549104+02:00",
+          "amount": 80000.0,
+          "bidder": "ada9a4be362b4e6c9fe78b917ba842b7"
+        },
+        {
+          "date": "2015-11-16T15:36:15.887403+02:00",
+          "amount": 62235.0,
+          "bidder": "522f4814bf214b0ca20d67a2cefa1e6d"
+        },
+        {
+          "date": "2015-11-16T15:00:47.135318+02:00",
+          "amount": 58800.0,
+          "bidder": "696cbba5389544e6973267f6089a1129"
+        }
+      ],
+      "time": "2015-11-17T12:43:48.003410+00:00"
+    }
+  },
+  "id": "1b79f71ae0744c82aae8b20b1927d1a3",
+  "tenderId": "UA-2015-11-12-000206-b"
+}

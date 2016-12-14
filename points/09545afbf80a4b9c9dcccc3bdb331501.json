@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e90d657c66fc431fa14aacf9639bf788",
+        "time": "2015-10-16T10:27:56.009743+00:00"
+      },
+      "turn_1": {
+        "bidder": "d7d98ddbcf6947af94e57aab0bf3d619",
+        "time": "2015-10-16T10:25:56.011087+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e90d657c66fc431fa14aacf9639bf788",
+        "time": "2015-10-16T10:33:56.008394+00:00"
+      },
+      "turn_1": {
+        "bidder": "d7d98ddbcf6947af94e57aab0bf3d619",
+        "time": "2015-10-16T10:31:56.013787+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e90d657c66fc431fa14aacf9639bf788",
+        "time": "2015-10-16T10:21:56.007801+00:00"
+      },
+      "turn_1": {
+        "bidder": "d7d98ddbcf6947af94e57aab0bf3d619",
+        "time": "2015-10-16T10:19:56.013221+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d7d98ddbcf6947af94e57aab0bf3d619",
+          "amount": 240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T13:08:05.511701+03:00"
+        },
+        {
+          "bidder": "e90d657c66fc431fa14aacf9639bf788",
+          "amount": 235.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.koshik.org.ua",
+                "faxNumber": "+380462651283",
+                "telephone": "+380462651283",
+                "name": "Пивовар Олександр Олексійович",
+                "email": "koshik-cg@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30843273"
+              },
+              "name": "ПП КОШИК",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14013",
+                "region": "Чернігівська область",
+                "streetAddress": "вул. Святомиколаївська, 34",
+                "locality": "Чернігів"
+              }
+            }
+          ],
+          "time": "2015-10-15T11:29:15.023071+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:33:59.336209+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T13:08:05.511701+03:00",
+          "amount": 240.0,
+          "bidder": "d7d98ddbcf6947af94e57aab0bf3d619"
+        },
+        {
+          "date": "2015-10-15T11:29:15.023071+03:00",
+          "amount": 235.0,
+          "bidder": "e90d657c66fc431fa14aacf9639bf788"
+        }
+      ],
+      "time": "2015-10-16T10:12:56.004536+00:00"
+    }
+  },
+  "id": "09545afbf80a4b9c9dcccc3bdb331501",
+  "tenderId": "UA-2015-10-13-000110"
+}

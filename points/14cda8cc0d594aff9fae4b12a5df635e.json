@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a802a7c352ff4588b48c8c225431a71c",
+        "time": "2015-10-06T09:24:43.006829+00:00"
+      },
+      "turn_1": {
+        "bidder": "b72cc71330fa4ecabc70d4b10b45d146",
+        "time": "2015-10-06T09:22:43.006602+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a802a7c352ff4588b48c8c225431a71c",
+        "time": "2015-10-06T09:30:43.006105+00:00"
+      },
+      "turn_1": {
+        "bidder": "b72cc71330fa4ecabc70d4b10b45d146",
+        "time": "2015-10-06T09:28:43.007575+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2654.0,
+        "bid_time": "2015-10-06T12:17:15.272794+03:00",
+        "bidder": "a802a7c352ff4588b48c8c225431a71c",
+        "time": "2015-10-06T09:18:43.008063+00:00"
+      },
+      "turn_1": {
+        "amount": 2655.0,
+        "bid_time": "2015-10-06T12:15:14.674448+03:00",
+        "bidder": "b72cc71330fa4ecabc70d4b10b45d146",
+        "time": "2015-10-06T09:16:43.008859+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b72cc71330fa4ecabc70d4b10b45d146",
+          "amount": 2655.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T12:15:14.674448+03:00"
+        },
+        {
+          "bidder": "a802a7c352ff4588b48c8c225431a71c",
+          "amount": 2654.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-06T12:17:15.272794+03:00"
+        }
+      ],
+      "time": "2015-10-06T09:30:45.305039+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T20:07:04.211430+03:00",
+          "amount": 2710.0,
+          "bidder": "a802a7c352ff4588b48c8c225431a71c"
+        },
+        {
+          "date": "2015-09-30T10:26:26.628517+03:00",
+          "amount": 2710.0,
+          "bidder": "b72cc71330fa4ecabc70d4b10b45d146"
+        }
+      ],
+      "time": "2015-10-06T09:09:43.003163+00:00"
+    }
+  },
+  "id": "14cda8cc0d594aff9fae4b12a5df635e",
+  "tenderId": "UA-2015-09-23-000402"
+}

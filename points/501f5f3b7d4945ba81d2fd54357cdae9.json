@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5fa3648f0965444bb2eba2897fe99011",
+        "time": "2015-12-04T11:59:12.013375+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bee50b99e034801aecd0853d2d4f289",
+        "time": "2015-12-04T11:57:12.010050+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5fa3648f0965444bb2eba2897fe99011",
+        "time": "2015-12-04T12:05:12.015252+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bee50b99e034801aecd0853d2d4f289",
+        "time": "2015-12-04T12:03:12.034264+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5fa3648f0965444bb2eba2897fe99011",
+        "time": "2015-12-04T11:53:12.012137+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bee50b99e034801aecd0853d2d4f289",
+        "time": "2015-12-04T11:51:12.010420+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0bee50b99e034801aecd0853d2d4f289",
+          "amount": 4938.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577601812",
+                "telephone": "+380675712801",
+                "name": "Швінагірь Олена Олександрівна",
+                "email": "dianadryl@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2917401036"
+              },
+              "name": "ФОП Козловський Дмитро Геннадійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61170",
+                "region": "Харківська область",
+                "streetAddress": "вулиця Тимурівців, будинок 25 А, квартира 71",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-03T13:53:22.012651+02:00"
+        },
+        {
+          "bidder": "5fa3648f0965444bb2eba2897fe99011",
+          "amount": 4473.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intermedica.com.ua/",
+                "faxNumber": "044-5012172",
+                "telephone": "067-3412172",
+                "name": "Бурцева Діана Сергіївна",
+                "email": "burtsevad@intermedica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38716182",
+                "legalName": "ТОВ \"Інтермедика-Україна\""
+              },
+              "name": "ТОВ \"Інтермедика-Україна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Гарматна 6",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T17:39:44.261609+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:05:13.366192+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T13:53:22.012651+02:00",
+          "amount": 4938.0,
+          "bidder": "0bee50b99e034801aecd0853d2d4f289"
+        },
+        {
+          "date": "2015-12-02T17:39:44.261609+02:00",
+          "amount": 4473.0,
+          "bidder": "5fa3648f0965444bb2eba2897fe99011"
+        }
+      ],
+      "time": "2015-12-04T11:44:12.004090+00:00"
+    }
+  },
+  "id": "501f5f3b7d4945ba81d2fd54357cdae9",
+  "tenderId": "UA-2015-12-01-000090-b"
+}

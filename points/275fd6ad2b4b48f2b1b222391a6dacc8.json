@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d3105dc4c30b46d888c2b0c45826eafe",
+        "time": "2015-12-11T13:22:39.010054+00:00"
+      },
+      "turn_1": {
+        "bidder": "669d637e472d406eabd75e28c7e37d00",
+        "time": "2015-12-11T13:20:39.011983+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d3105dc4c30b46d888c2b0c45826eafe",
+        "time": "2015-12-11T13:28:39.007210+00:00"
+      },
+      "turn_1": {
+        "bidder": "669d637e472d406eabd75e28c7e37d00",
+        "time": "2015-12-11T13:26:39.007402+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d3105dc4c30b46d888c2b0c45826eafe",
+        "time": "2015-12-11T13:16:39.008969+00:00"
+      },
+      "turn_1": {
+        "bidder": "669d637e472d406eabd75e28c7e37d00",
+        "time": "2015-12-11T13:14:39.009311+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "669d637e472d406eabd75e28c7e37d00",
+          "amount": 21000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444851068, +380444851069, +380442238075",
+                "name": "Дмитрий Чернышенко",
+                "email": "spectrolab79@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"СПЕКТРО ЛАБ\"",
+                "id": "38443692",
+                "uri": "http://spectrolab.com.ua"
+              },
+              "name": "ТОВ \"СПЕКТРО ЛАБ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04074",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул Ярослава Івашкевича, будинок 6-8А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-09T14:25:54.664514+02:00"
+        },
+        {
+          "bidder": "d3105dc4c30b46d888c2b0c45826eafe",
+          "amount": 8100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vesdrob.com.ua",
+                "telephone": "+380505956447",
+                "name": "ЧП ГАЛАТЕЯ",
+                "email": "30608984@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30608984",
+                "legalName": "ЧП ГАЛАТЕЯ"
+              },
+              "name": "ЧП ГАЛАТЕЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ЗАПОРОЖСКАЯ ОБЛ.",
+                "streetAddress": "86133, Макеевка, Ленина,55",
+                "locality": "Бердянск"
+              }
+            }
+          ],
+          "time": "2015-12-10T06:55:51.878128+02:00"
+        }
+      ],
+      "time": "2015-12-11T13:28:40.510777+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T14:25:54.664514+02:00",
+          "amount": 21000.0,
+          "bidder": "669d637e472d406eabd75e28c7e37d00"
+        },
+        {
+          "date": "2015-12-10T06:55:51.878128+02:00",
+          "amount": 8100.0,
+          "bidder": "d3105dc4c30b46d888c2b0c45826eafe"
+        }
+      ],
+      "time": "2015-12-11T13:07:39.004277+00:00"
+    }
+  },
+  "id": "275fd6ad2b4b48f2b1b222391a6dacc8",
+  "tenderId": "UA-2015-12-04-000090-a"
+}

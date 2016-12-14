@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d00c256314de4753bb3ec95474e6392e",
+        "time": "2015-11-11T11:58:29.007078+00:00"
+      },
+      "turn_3": {
+        "bidder": "4b26fe4639bd40e6ae5bd79aaadcac7e",
+        "time": "2015-11-11T12:00:29.021151+00:00"
+      },
+      "turn_1": {
+        "bidder": "d227670f87e04f259cb6e4689ac815c1",
+        "time": "2015-11-11T11:56:29.026835+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 890.0,
+        "bid_time": "2015-11-11T14:04:42.803980+02:00",
+        "bidder": "d00c256314de4753bb3ec95474e6392e",
+        "time": "2015-11-11T12:06:29.007897+00:00"
+      },
+      "turn_3": {
+        "amount": 870.96,
+        "bid_time": "2015-11-11T14:07:16.261962+02:00",
+        "bidder": "4b26fe4639bd40e6ae5bd79aaadcac7e",
+        "time": "2015-11-11T12:08:29.008936+00:00"
+      },
+      "turn_1": {
+        "amount": 910.0,
+        "bid_time": "2015-11-11T14:02:39.716520+02:00",
+        "bidder": "d227670f87e04f259cb6e4689ac815c1",
+        "time": "2015-11-11T12:04:29.010539+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d00c256314de4753bb3ec95474e6392e",
+        "time": "2015-11-11T11:50:29.016870+00:00"
+      },
+      "turn_3": {
+        "bidder": "4b26fe4639bd40e6ae5bd79aaadcac7e",
+        "time": "2015-11-11T11:52:29.011834+00:00"
+      },
+      "turn_1": {
+        "bidder": "d227670f87e04f259cb6e4689ac815c1",
+        "time": "2015-11-11T11:48:29.008649+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d227670f87e04f259cb6e4689ac815c1",
+          "amount": 910.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T14:02:39.716520+02:00"
+        },
+        {
+          "bidder": "d00c256314de4753bb3ec95474e6392e",
+          "amount": 890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445019001, +380444105984",
+                "name": "Вячеслав Суский",
+                "email": "ka-re@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"КА-РЕ\"",
+                "id": "30375112",
+                "uri": "http://ka-re.com.ua"
+              },
+              "name": "ТОВ \"КА-РЕ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04074",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул. Лугова 13",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T14:04:42.803980+02:00"
+        },
+        {
+          "bidder": "4b26fe4639bd40e6ae5bd79aaadcac7e",
+          "amount": 870.96,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-500-00-97",
+                "telephone": "095-767-72-13",
+                "name": "Заїтов Бакірович Тахір",
+                "email": "4@ot.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36265773",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ОТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська",
+                "streetAddress": "вул. Миру, будинок 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T14:07:16.261962+02:00"
+        }
+      ],
+      "time": "2015-11-11T12:08:29.992914+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T16:41:41.056895+02:00",
+          "amount": 999.0,
+          "bidder": "d227670f87e04f259cb6e4689ac815c1"
+        },
+        {
+          "date": "2015-11-10T14:01:56.648678+02:00",
+          "amount": 960.0,
+          "bidder": "d00c256314de4753bb3ec95474e6392e"
+        },
+        {
+          "date": "2015-11-06T15:02:36.455759+02:00",
+          "amount": 911.0,
+          "bidder": "4b26fe4639bd40e6ae5bd79aaadcac7e"
+        }
+      ],
+      "time": "2015-11-11T11:41:29.002951+00:00"
+    }
+  },
+  "id": "a7b3accdbf674f89aa43e2be8267b93f",
+  "tenderId": "UA-2015-11-06-000127-a"
+}

@@ -1,0 +1,259 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 954.0,
+        "bid_time": "2015-11-27T15:06:04.680117+02:00",
+        "bidder": "ee571966cf6d4c4e896d7dd4236cab03",
+        "time": "2015-11-27T13:07:12.012871+00:00"
+      },
+      "turn_5": {
+        "bidder": "c3ee4fa2042a4cf6a443d45f7f29c181",
+        "time": "2015-11-27T13:09:12.011857+00:00"
+      },
+      "turn_2": {
+        "amount": 1034.0,
+        "bid_time": "2015-11-27T15:01:23.385272+02:00",
+        "bidder": "9c7607e470fc4bbf81d80430baffcb85",
+        "time": "2015-11-27T13:03:12.011530+00:00"
+      },
+      "turn_3": {
+        "bidder": "324689d8cacd4bb180db0fadcd887315",
+        "time": "2015-11-27T13:05:12.011179+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d4ed20207ab462eade4cbd9903209bd",
+        "time": "2015-11-27T13:01:12.007999+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 950.0,
+        "bid_time": "2015-11-27T15:17:20.473173+02:00",
+        "bidder": "9c7607e470fc4bbf81d80430baffcb85",
+        "time": "2015-11-27T13:19:12.015437+00:00"
+      },
+      "turn_5": {
+        "amount": 875.0,
+        "bid_time": "2015-11-27T15:21:01.727087+02:00",
+        "bidder": "ee571966cf6d4c4e896d7dd4236cab03",
+        "time": "2015-11-27T13:21:12.012319+00:00"
+      },
+      "turn_2": {
+        "bidder": "324689d8cacd4bb180db0fadcd887315",
+        "time": "2015-11-27T13:15:12.010793+00:00"
+      },
+      "turn_3": {
+        "bidder": "c3ee4fa2042a4cf6a443d45f7f29c181",
+        "time": "2015-11-27T13:17:12.011188+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d4ed20207ab462eade4cbd9903209bd",
+        "time": "2015-11-27T13:13:12.011322+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 1113.0,
+        "bid_time": "2015-11-27T14:53:21.632016+02:00",
+        "bidder": "ee571966cf6d4c4e896d7dd4236cab03",
+        "time": "2015-11-27T12:55:12.010052+00:00"
+      },
+      "turn_5": {
+        "amount": 1075.58,
+        "bid_time": "2015-11-27T14:56:55.074578+02:00",
+        "bidder": "c3ee4fa2042a4cf6a443d45f7f29c181",
+        "time": "2015-11-27T12:57:12.025325+00:00"
+      },
+      "turn_2": {
+        "bidder": "9c7607e470fc4bbf81d80430baffcb85",
+        "time": "2015-11-27T12:51:12.007978+00:00"
+      },
+      "turn_3": {
+        "bidder": "324689d8cacd4bb180db0fadcd887315",
+        "time": "2015-11-27T12:53:12.007562+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d4ed20207ab462eade4cbd9903209bd",
+        "time": "2015-11-27T12:49:12.007925+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8d4ed20207ab462eade4cbd9903209bd",
+          "amount": 1272.36,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672380394",
+                "name": "Олена Пиндюр",
+                "email": "ochepel@universalna.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20113829",
+                "legalName": "ПАТ \"Страхова компанія Універсальна\""
+              },
+              "name": "ПАТ \"Страхова компанія Універсальна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01133",
+                "region": "Киевская",
+                "streetAddress": "бул. Л. Украинки, 9",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T14:47:52.902613+02:00"
+        },
+        {
+          "bidder": "324689d8cacd4bb180db0fadcd887315",
+          "amount": 1272.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aska.com.ua/",
+                "faxNumber": "0445202204",
+                "telephone": "0445202204",
+                "name": "Тарасова Валерія Ігоревна",
+                "email": "tarasova@aska.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13490997",
+                "legalName": "Приватне Акционерне Товариство \"Українська Акціонерна Страхова Компанія \"АСКА\""
+              },
+              "name": "Приватне Акционерне Товариство \"Українська Акціонерна Страхова Компанія \"АСКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03186",
+                "region": "Київська",
+                "streetAddress": "Антонова 5",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T15:25:47.294925+02:00"
+        },
+        {
+          "bidder": "c3ee4fa2042a4cf6a443d45f7f29c181",
+          "amount": 1075.58,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://uosk.com.ua",
+                "faxNumber": "+380444538081",
+                "telephone": "+380444538070",
+                "name": "Ситніков Костянтин Олександрович",
+                "email": "ksitnikov@uosk.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23734213"
+              },
+              "name": "ПрАТ Українська охоронно-страхова компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03056",
+                "region": "Київська область",
+                "streetAddress": "вул. Борщагівська 145",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T14:56:55.074578+02:00"
+        },
+        {
+          "bidder": "9c7607e470fc4bbf81d80430baffcb85",
+          "amount": 950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ksd.net.ua",
+                "telephone": "0502876828",
+                "name": "Годунова Ірина Олександрівна",
+                "email": "irina.godunova@ksd.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25201716",
+                "legalName": "Приватне акціонерне товариство \"Київський страховий дім\""
+              },
+              "name": "Приватне акціонерне товариство \"Київський страховий дім\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01010",
+                "region": "Київська",
+                "streetAddress": "Артема, 37/41, оф. 429",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:17:20.473173+02:00"
+        },
+        {
+          "bidder": "ee571966cf6d4c4e896d7dd4236cab03",
+          "amount": 875.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.pro100.com.ua/",
+                "telephone": "096-269-69-68",
+                "name": "Кучеренко Олександр Борисович",
+                "email": "a.kucherenko@pro100.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24745673",
+                "legalName": "Приватне акціонерне товариство \"ПРОСТО-страхування\""
+              },
+              "name": "Приватне акціонерне товариство \"ПРОСТО-страхування\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04050",
+                "region": "Київська",
+                "streetAddress": "вул. Герцена, буд. 10",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:21:01.727087+02:00"
+        }
+      ],
+      "time": "2015-11-27T13:21:14.906083+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T14:47:52.902613+02:00",
+          "amount": 1272.36,
+          "bidder": "8d4ed20207ab462eade4cbd9903209bd"
+        },
+        {
+          "date": "2015-11-25T15:25:47.294925+02:00",
+          "amount": 1272.0,
+          "bidder": "324689d8cacd4bb180db0fadcd887315"
+        },
+        {
+          "date": "2015-11-26T11:30:48.609607+02:00",
+          "amount": 1272.0,
+          "bidder": "9c7607e470fc4bbf81d80430baffcb85"
+        },
+        {
+          "date": "2015-11-26T15:46:47.039323+02:00",
+          "amount": 1193.0,
+          "bidder": "ee571966cf6d4c4e896d7dd4236cab03"
+        },
+        {
+          "date": "2015-11-25T10:03:14.979416+02:00",
+          "amount": 1181.96,
+          "bidder": "c3ee4fa2042a4cf6a443d45f7f29c181"
+        }
+      ],
+      "time": "2015-11-27T12:42:12.005406+00:00"
+    }
+  },
+  "id": "20f3dded1382441b8768d6ae2b0de353",
+  "tenderId": "UA-2015-11-21-000009"
+}

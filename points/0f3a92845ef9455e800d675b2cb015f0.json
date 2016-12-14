@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1360.0,
+        "bid_time": "2015-11-03T13:15:19.357386+02:00",
+        "bidder": "2ee9423846b247d285c764aa1f34d13d",
+        "time": "2015-11-03T11:16:39.008262+00:00"
+      },
+      "turn_1": {
+        "amount": 1374.0,
+        "bid_time": "2015-11-03T13:13:02.449483+02:00",
+        "bidder": "af79caf8cb894ea9a830068b307f085e",
+        "time": "2015-11-03T11:14:39.008061+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1337.0,
+        "bid_time": "2015-11-03T13:21:08.900941+02:00",
+        "bidder": "2ee9423846b247d285c764aa1f34d13d",
+        "time": "2015-11-03T11:22:39.008047+00:00"
+      },
+      "turn_1": {
+        "amount": 1338.0,
+        "bid_time": "2015-11-03T13:20:05.605334+02:00",
+        "bidder": "af79caf8cb894ea9a830068b307f085e",
+        "time": "2015-11-03T11:20:39.006669+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2ee9423846b247d285c764aa1f34d13d",
+        "time": "2015-11-03T11:10:39.007663+00:00"
+      },
+      "turn_1": {
+        "amount": 1435.0,
+        "bid_time": "2015-11-03T13:07:52.647066+02:00",
+        "bidder": "af79caf8cb894ea9a830068b307f085e",
+        "time": "2015-11-03T11:08:39.008286+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "af79caf8cb894ea9a830068b307f085e",
+          "amount": 1338.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://atlantelektro.prom.ua/",
+                "telephone": "380444557814",
+                "name": "Валерій Сіненко ",
+                "email": "atel2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37013570",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Виробничо-комерційна фірма \"Атлант Електро\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "а/с 64, м.Київ, 03115"
+              }
+            }
+          ],
+          "time": "2015-11-03T13:20:05.605334+02:00"
+        },
+        {
+          "bidder": "2ee9423846b247d285c764aa1f34d13d",
+          "amount": 1337.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-03T13:21:08.900941+02:00"
+        }
+      ],
+      "time": "2015-11-03T11:22:40.183385+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-01T18:04:14.212914+02:00",
+          "amount": 1450.0,
+          "bidder": "af79caf8cb894ea9a830068b307f085e"
+        },
+        {
+          "date": "2015-10-30T16:44:43.514654+02:00",
+          "amount": 1375.0,
+          "bidder": "2ee9423846b247d285c764aa1f34d13d"
+        }
+      ],
+      "time": "2015-11-03T11:01:39.003386+00:00"
+    }
+  },
+  "id": "0f3a92845ef9455e800d675b2cb015f0",
+  "tenderId": "UA-2015-10-27-000078"
+}

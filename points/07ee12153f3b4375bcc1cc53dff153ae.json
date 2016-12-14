@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "54d7f12626524213b71bbbd502add410",
+        "time": "2015-10-23T10:49:11.010922+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddb3804e31fb400da22a0c49268cece9",
+        "time": "2015-10-23T10:51:11.006185+00:00"
+      },
+      "turn_1": {
+        "amount": 311000.0,
+        "bid_time": "2015-10-23T13:45:26.391168+03:00",
+        "bidder": "a39ef497e675438991bc12acd488a47a",
+        "time": "2015-10-23T10:47:11.007906+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ddb3804e31fb400da22a0c49268cece9",
+        "time": "2015-10-23T10:57:11.006063+00:00"
+      },
+      "turn_3": {
+        "bidder": "a39ef497e675438991bc12acd488a47a",
+        "time": "2015-10-23T10:59:11.004865+00:00"
+      },
+      "turn_1": {
+        "bidder": "54d7f12626524213b71bbbd502add410",
+        "time": "2015-10-23T10:55:11.006500+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "54d7f12626524213b71bbbd502add410",
+        "time": "2015-10-23T10:41:11.009791+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddb3804e31fb400da22a0c49268cece9",
+        "time": "2015-10-23T10:43:11.009563+00:00"
+      },
+      "turn_1": {
+        "bidder": "a39ef497e675438991bc12acd488a47a",
+        "time": "2015-10-23T10:39:11.005230+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "54d7f12626524213b71bbbd502add410",
+          "amount": 365000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442290187, +380672340455, +380503111526",
+                "name": "Александр Анатольевич Цыганков",
+                "email": "office@ukrenergyexport.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО «УКРЭНЕРГО ЭКСПОРТ»\"",
+                "id": "39220295",
+                "uri": "http://www.ukenergyexport.com"
+              },
+              "name": "ТОВ \"ООО «УКРЭНЕРГО ЭКСПОРТ»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01030",
+                "region": "Киевская",
+                "streetAddress": "Украина, 01030, г.Киев, ул.Пирогова 2/37",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-20T12:40:03.038784+03:00"
+        },
+        {
+          "bidder": "ddb3804e31fb400da22a0c49268cece9",
+          "amount": 320000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.airgroupltd.com",
+                "telephone": "+380676430343",
+                "name": "Общество с ограниченной ответственностью \"АИРГРУПП\"",
+                "email": "office@airgroupltd.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38263977",
+                "legalName": "Общество с ограниченной ответственностью \"АИРГРУПП\""
+              },
+              "name": "Общество с ограниченной ответственностью \"АИРГРУПП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск ул. Верхняя 2а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T09:52:10.120661+03:00"
+        },
+        {
+          "bidder": "a39ef497e675438991bc12acd488a47a",
+          "amount": 311000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958071382",
+                "name": "Павел Абрамчук",
+                "email": "2014elk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38753531",
+                "legalName": "ТОВ \"\"НВП ЕЛК\"\""
+              },
+              "name": "ТОВ \"\"НВП ЕЛК\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49600",
+                "region": "Днепропетровская",
+                "streetAddress": "Украина, г. Днепропетровск, пр.Героев21 кв.116",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-23T13:45:26.391168+03:00"
+        }
+      ],
+      "time": "2015-10-23T10:59:12.760793+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T16:54:32.335136+03:00",
+          "amount": 368000.0,
+          "bidder": "a39ef497e675438991bc12acd488a47a"
+        },
+        {
+          "date": "2015-10-20T12:40:03.038784+03:00",
+          "amount": 365000.0,
+          "bidder": "54d7f12626524213b71bbbd502add410"
+        },
+        {
+          "date": "2015-10-19T09:52:10.120661+03:00",
+          "amount": 320000.0,
+          "bidder": "ddb3804e31fb400da22a0c49268cece9"
+        }
+      ],
+      "time": "2015-10-23T10:32:11.004747+00:00"
+    }
+  },
+  "id": "07ee12153f3b4375bcc1cc53dff153ae",
+  "tenderId": "UA-2015-10-15-000179"
+}

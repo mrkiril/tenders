@@ -1,0 +1,258 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "38c49430b43d4028b60d1607f62abc3f",
+        "time": "2015-05-12T08:25:00.085703+00:00"
+      },
+      "turn_5": {
+        "amount": 45800.0,
+        "bid_time": "2015-05-12T11:25:13.657342+03:00",
+        "bidder": "66569d0540b34d2c865f6a2071bfdb25",
+        "time": "2015-05-12T08:27:00.106912+00:00"
+      },
+      "turn_2": {
+        "bidder": "93f1e520a5ad408690d80987e4aab8fe",
+        "time": "2015-05-12T08:21:00.342690+00:00"
+      },
+      "turn_3": {
+        "amount": 50000.0,
+        "bid_time": "2015-05-12T11:22:30.750639+03:00",
+        "bidder": "90d71634e3e24fc79274fd3ee017a709",
+        "time": "2015-05-12T08:23:00.148790+00:00"
+      },
+      "turn_1": {
+        "amount": 46600.0,
+        "bid_time": "2015-05-12T11:17:15.092529+03:00",
+        "bidder": "b9f76acd0efc445b85ad476507495a61",
+        "time": "2015-05-12T08:19:00.231510+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 41800.0,
+        "bid_time": "2015-05-12T11:36:56.242789+03:00",
+        "bidder": "b9f76acd0efc445b85ad476507495a61",
+        "time": "2015-05-12T08:37:00.038557+00:00"
+      },
+      "turn_5": {
+        "amount": 41700.0,
+        "bid_time": "2015-05-12T11:37:22.035300+03:00",
+        "bidder": "66569d0540b34d2c865f6a2071bfdb25",
+        "time": "2015-05-12T08:39:00.051771+00:00"
+      },
+      "turn_2": {
+        "amount": 42000.0,
+        "bid_time": "2015-05-12T11:31:20.329496+03:00",
+        "bidder": "90d71634e3e24fc79274fd3ee017a709",
+        "time": "2015-05-12T08:33:00.047109+00:00"
+      },
+      "turn_3": {
+        "bidder": "38c49430b43d4028b60d1607f62abc3f",
+        "time": "2015-05-12T08:35:00.038048+00:00"
+      },
+      "turn_1": {
+        "bidder": "93f1e520a5ad408690d80987e4aab8fe",
+        "time": "2015-05-12T08:31:00.156890+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "38c49430b43d4028b60d1607f62abc3f",
+        "time": "2015-05-12T08:13:00.208116+00:00"
+      },
+      "turn_5": {
+        "bidder": "66569d0540b34d2c865f6a2071bfdb25",
+        "time": "2015-05-12T08:15:00.044725+00:00"
+      },
+      "turn_2": {
+        "bidder": "93f1e520a5ad408690d80987e4aab8fe",
+        "time": "2015-05-12T08:09:00.051609+00:00"
+      },
+      "turn_3": {
+        "bidder": "90d71634e3e24fc79274fd3ee017a709",
+        "time": "2015-05-12T08:11:00.117316+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9f76acd0efc445b85ad476507495a61",
+        "time": "2015-05-12T08:07:00.056712+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "93f1e520a5ad408690d80987e4aab8fe",
+          "amount": 52000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://azov-arsenal.com.ua/",
+                "faxNumber": "0629411560",
+                "telephone": "0629410816",
+                "name": "ПП \"Азов-Арсенал\"",
+                "email": "alexey.dyachenko@azov-arsenal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32320793",
+                "legalName": "ПП \"Азов-Арсенал\""
+              },
+              "name": "ПП \"Азов-Арсенал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87539",
+                "region": "Донецька",
+                "streetAddress": "пр. Металургів, 97",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-05-06T15:29:06.434816+03:00"
+        },
+        {
+          "bidder": "38c49430b43d4028b60d1607f62abc3f",
+          "amount": 49000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-30T10:47:45.492320+03:00"
+        },
+        {
+          "bidder": "90d71634e3e24fc79274fd3ee017a709",
+          "amount": 42000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380486561051",
+                "name": "Сергій Носов",
+                "email": "savtrade@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37015541",
+                "legalName": "ТОВ \"САВТРЕЙД\""
+              },
+              "name": "ТОВ \"САВТРЕЙД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "66200",
+                "region": "Одесская",
+                "streetAddress": "Одеська область, Савранський р-н, смт. Саврань, вул. Жовтневої революції 76Г",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-05-12T11:31:20.329496+03:00"
+        },
+        {
+          "bidder": "b9f76acd0efc445b85ad476507495a61",
+          "amount": 41800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632988397",
+                "name": "Артур Нагапетян",
+                "email": "energostroytrade@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39041903",
+                "legalName": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»"
+              },
+              "name": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65104",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул. Академіка Вільямса, будинок 86",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-05-12T11:36:56.242789+03:00"
+        },
+        {
+          "bidder": "66569d0540b34d2c865f6a2071bfdb25",
+          "amount": 41700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://fibertool.ua",
+                "faxNumber": "380445857313",
+                "email": "kyiv4@fibertool.ua",
+                "name": "Товариство з обмеженою відповідальністю \"ДАГВОЛС\""
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35791822",
+                "legalName": "Товариство з обмеженою відповідальністю \"ДАГВОЛС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ДАГВОЛС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03039",
+                "region": "Київська",
+                "streetAddress": "м. Київ, вул. Байкова, 7",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-05-12T11:37:22.035300+03:00"
+        }
+      ],
+      "time": "2015-05-12T08:39:07.268602+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-06T14:36:56.406827+03:00",
+          "amount": 52000.0,
+          "bidder": "b9f76acd0efc445b85ad476507495a61"
+        },
+        {
+          "date": "2015-05-06T15:29:06.434816+03:00",
+          "amount": 52000.0,
+          "bidder": "93f1e520a5ad408690d80987e4aab8fe"
+        },
+        {
+          "date": "2015-05-05T16:10:49.998903+03:00",
+          "amount": 51000.0,
+          "bidder": "90d71634e3e24fc79274fd3ee017a709"
+        },
+        {
+          "date": "2015-04-30T10:47:45.492320+03:00",
+          "amount": 49000.0,
+          "bidder": "38c49430b43d4028b60d1607f62abc3f"
+        },
+        {
+          "date": "2015-05-05T17:21:39.710435+03:00",
+          "amount": 46800.0,
+          "bidder": "66569d0540b34d2c865f6a2071bfdb25"
+        }
+      ],
+      "time": "2015-05-12T08:00:00.012048+00:00"
+    }
+  },
+  "id": "6c205526ddb64c9b9adc50395c7541da",
+  "tenderId": "UA-2015-04-22-000002"
+}

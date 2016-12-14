@@ -1,0 +1,203 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "65bc7ba6da08457caeb1e7f0ac3e8657",
+        "time": "2015-10-28T11:26:55.004794+00:00"
+      },
+      "turn_2": {
+        "bidder": "e7fe68a243bb49fab1eba3049db6d0e7",
+        "time": "2015-10-28T11:22:55.006555+00:00"
+      },
+      "turn_3": {
+        "bidder": "352a2428b5b34f759ece9dd001b1c85b",
+        "time": "2015-10-28T11:24:55.006335+00:00"
+      },
+      "turn_1": {
+        "bidder": "1605f97e4e6a4da59c650d424393e2f0",
+        "time": "2015-10-28T11:20:55.006311+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "65bc7ba6da08457caeb1e7f0ac3e8657",
+        "time": "2015-10-28T11:36:55.009167+00:00"
+      },
+      "turn_2": {
+        "bidder": "e7fe68a243bb49fab1eba3049db6d0e7",
+        "time": "2015-10-28T11:32:55.015571+00:00"
+      },
+      "turn_3": {
+        "bidder": "352a2428b5b34f759ece9dd001b1c85b",
+        "time": "2015-10-28T11:34:55.015462+00:00"
+      },
+      "turn_1": {
+        "bidder": "1605f97e4e6a4da59c650d424393e2f0",
+        "time": "2015-10-28T11:30:55.012554+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 680000.0,
+        "bid_time": "2015-10-28T13:15:18.434738+02:00",
+        "bidder": "65bc7ba6da08457caeb1e7f0ac3e8657",
+        "time": "2015-10-28T11:16:55.008325+00:00"
+      },
+      "turn_2": {
+        "bidder": "e7fe68a243bb49fab1eba3049db6d0e7",
+        "time": "2015-10-28T11:12:55.006729+00:00"
+      },
+      "turn_3": {
+        "bidder": "352a2428b5b34f759ece9dd001b1c85b",
+        "time": "2015-10-28T11:14:55.008810+00:00"
+      },
+      "turn_1": {
+        "bidder": "1605f97e4e6a4da59c650d424393e2f0",
+        "time": "2015-10-28T11:10:55.011607+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1605f97e4e6a4da59c650d424393e2f0",
+          "amount": 1000000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ey.com/ua",
+                "faxNumber": "+380444903030",
+                "telephone": "+380444903000",
+                "name": "Летік Наталія Вікторівна",
+                "email": "nataliya.letik@ua.ey.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33306921"
+              },
+              "name": "ТОВ Ернст енд Янг Аудиторські послуги",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "вулиця Хрещатик, 19А",
+                "locality": "місто Київ"
+              }
+            }
+          ],
+          "time": "2015-10-27T10:01:44.730389+02:00"
+        },
+        {
+          "bidder": "e7fe68a243bb49fab1eba3049db6d0e7",
+          "amount": 1000000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972713792",
+                "name": "Александр Бородин",
+                "email": "aleksandr.borodin@finassistant.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37955780",
+                "legalName": "ТОВ \"Финассистент\""
+              },
+              "name": "ТОВ \"Финассистент\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01042",
+                "region": "Киевская",
+                "streetAddress": "ул. П. Лумумбы, 20, кв.41",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-26T15:25:02.482580+02:00"
+        },
+        {
+          "bidder": "352a2428b5b34f759ece9dd001b1c85b",
+          "amount": 969408.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38044 284 1865",
+                "name": "Галина Христіанінова",
+                "email": "tendery@bakertilly.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"БЕЙКЕР ТІЛЛІ УКРАЇНА\"",
+                "id": "30373906",
+                "uri": "http://bakertilly.ua"
+              },
+              "name": "ТОВ \"БЕЙКЕР ТІЛЛІ УКРАЇНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "вул. Фізкультури, 28",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-26T13:26:24.878335+02:00"
+        },
+        {
+          "bidder": "65bc7ba6da08457caeb1e7f0ac3e8657",
+          "amount": 680000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.rubanenko.biz.ua",
+                "faxNumber": "+380577285727",
+                "telephone": "+380577285737",
+                "name": "Метелева Світлана Євгенівна",
+                "email": "s.meteleva@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22628041"
+              },
+              "name": "ТОВ Аудиторська фірма \"Харків\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська область",
+                "streetAddress": "вулиця Чигирина Юлія, будинок 5",
+                "locality": "місто Харків"
+              }
+            }
+          ],
+          "time": "2015-10-28T13:15:18.434738+02:00"
+        }
+      ],
+      "time": "2015-10-28T11:36:57.434196+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T15:25:02.482580+02:00",
+          "amount": 1000000.0,
+          "bidder": "e7fe68a243bb49fab1eba3049db6d0e7"
+        },
+        {
+          "date": "2015-10-27T10:01:44.730389+02:00",
+          "amount": 1000000.0,
+          "bidder": "1605f97e4e6a4da59c650d424393e2f0"
+        },
+        {
+          "date": "2015-10-26T13:26:24.878335+02:00",
+          "amount": 969408.0,
+          "bidder": "352a2428b5b34f759ece9dd001b1c85b"
+        },
+        {
+          "date": "2015-10-26T16:50:37.384485+02:00",
+          "amount": 700000.0,
+          "bidder": "65bc7ba6da08457caeb1e7f0ac3e8657"
+        }
+      ],
+      "time": "2015-10-28T11:03:55.001951+00:00"
+    }
+  },
+  "id": "ac038b7971634eb6a01a4f0f0fd2c8fe",
+  "tenderId": "UA-2015-10-15-000350"
+}

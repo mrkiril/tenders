@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b1bfa3d96efe483ab67c247b2b5a6db7",
+        "time": "2015-12-16T11:23:51.013457+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ed7c07fd4984a44b73370e1c65c5bb4",
+        "time": "2015-12-16T11:21:51.015020+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b1bfa3d96efe483ab67c247b2b5a6db7",
+        "time": "2015-12-16T11:29:51.007939+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ed7c07fd4984a44b73370e1c65c5bb4",
+        "time": "2015-12-16T11:27:51.011177+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b1bfa3d96efe483ab67c247b2b5a6db7",
+        "time": "2015-12-16T11:17:51.009739+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ed7c07fd4984a44b73370e1c65c5bb4",
+        "time": "2015-12-16T11:15:51.012918+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9ed7c07fd4984a44b73370e1c65c5bb4",
+          "amount": 243.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://prom.com.ua/",
+                "telephone": "+380989234708",
+                "name": "ООО \"Промпартнер\"",
+                "email": "Lider@prom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "388831561",
+                "legalName": "ООО \"Промпартнер\""
+              },
+              "name": "ООО \"Промпартнер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, г. Киев, ул. бережанская 4ж",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T16:57:20.309915+02:00"
+        },
+        {
+          "bidder": "b1bfa3d96efe483ab67c247b2b5a6db7",
+          "amount": 240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Олександр Яніцький",
+                "email": "yn-sasha@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2755307376",
+                "legalName": "ФОП \"Яніцький О.В.\""
+              },
+              "name": "ФОП \"Яніцький О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Бориспільська буд.49, кв.129",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-14T14:48:16.778128+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:29:51.985434+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T16:57:20.309915+02:00",
+          "amount": 243.0,
+          "bidder": "9ed7c07fd4984a44b73370e1c65c5bb4"
+        },
+        {
+          "date": "2015-12-14T14:48:16.778128+02:00",
+          "amount": 240.0,
+          "bidder": "b1bfa3d96efe483ab67c247b2b5a6db7"
+        }
+      ],
+      "time": "2015-12-16T11:08:51.004455+00:00"
+    }
+  },
+  "id": "14474b275c0f497cab6ccf62833b38e4",
+  "tenderId": "UA-2015-12-09-000183-b"
+}

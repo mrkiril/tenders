@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 124959.0,
+        "bid_time": "2015-09-18T11:43:50.577132+03:00",
+        "bidder": "f869fb2ce8e3452db159ce50ac80b3a3",
+        "time": "2015-09-18T08:45:00.132432+00:00"
+      },
+      "turn_1": {
+        "amount": 126000.0,
+        "bid_time": "2015-09-18T11:41:10.019660+03:00",
+        "bidder": "647d8394ba72435b83a1cd57acb2d78d",
+        "time": "2015-09-18T08:43:00.097641+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 119279.0,
+        "bid_time": "2015-09-18T11:49:20.849824+03:00",
+        "bidder": "f869fb2ce8e3452db159ce50ac80b3a3",
+        "time": "2015-09-18T08:51:00.119942+00:00"
+      },
+      "turn_1": {
+        "amount": 120000.0,
+        "bid_time": "2015-09-18T11:47:10.067777+03:00",
+        "bidder": "647d8394ba72435b83a1cd57acb2d78d",
+        "time": "2015-09-18T08:49:00.106379+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 129219.0,
+        "bid_time": "2015-09-18T11:38:23.715462+03:00",
+        "bidder": "f869fb2ce8e3452db159ce50ac80b3a3",
+        "time": "2015-09-18T08:39:00.333892+00:00"
+      },
+      "turn_1": {
+        "amount": 130000.0,
+        "bid_time": "2015-09-18T11:35:12.494362+03:00",
+        "bidder": "647d8394ba72435b83a1cd57acb2d78d",
+        "time": "2015-09-18T08:37:00.133573+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "647d8394ba72435b83a1cd57acb2d78d",
+          "amount": 120000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487708989",
+                "name": "Щуваріков Юрій Олександрович",
+                "email": "soulfly1986@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38017288"
+              },
+              "name": "ТОВ ЮМА-ПРОМ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65005",
+                "region": "Одеська область",
+                "streetAddress": "Дальницька 25/1",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-18T11:47:10.067777+03:00"
+        },
+        {
+          "bidder": "f869fb2ce8e3452db159ce50ac80b3a3",
+          "amount": 119279.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kvant.odessa.ua",
+                "telephone": "+3800487800202",
+                "name": "ПФ \"Квант\"",
+                "email": "benzotech@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20954500",
+                "legalName": "ПФ \"Квант\""
+              },
+              "name": "ПФ \"Квант\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 65114, Одесса, ул. Левитана, 141. офис 6Н",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T11:49:20.849824+03:00"
+        }
+      ],
+      "time": "2015-09-18T08:51:23.907837+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T11:26:29.177616+03:00",
+          "amount": 137603.4,
+          "bidder": "647d8394ba72435b83a1cd57acb2d78d"
+        },
+        {
+          "date": "2015-09-17T11:31:57.762051+03:00",
+          "amount": 133479.34,
+          "bidder": "f869fb2ce8e3452db159ce50ac80b3a3"
+        }
+      ],
+      "time": "2015-09-18T08:30:00.037102+00:00"
+    }
+  },
+  "id": "f67ef83c67e1418cb9f5586dd10d6cb0",
+  "tenderId": "UA-2015-09-11-000166"
+}

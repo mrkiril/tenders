@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aa5cc0f94b864caca25fddf8601c6a84",
+        "time": "2015-10-12T11:26:27.008217+00:00"
+      },
+      "turn_3": {
+        "bidder": "eecdb68a9f2941ba8cb90bbb6cf5b779",
+        "time": "2015-10-12T11:28:27.007630+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f18e318e289426b8f159d1b2219639e",
+        "time": "2015-10-12T11:24:27.007221+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aa5cc0f94b864caca25fddf8601c6a84",
+        "time": "2015-10-12T11:34:27.006868+00:00"
+      },
+      "turn_3": {
+        "bidder": "eecdb68a9f2941ba8cb90bbb6cf5b779",
+        "time": "2015-10-12T11:36:27.007233+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f18e318e289426b8f159d1b2219639e",
+        "time": "2015-10-12T11:32:27.012665+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 7999.0,
+        "bid_time": "2015-10-12T14:17:47.649082+03:00",
+        "bidder": "eecdb68a9f2941ba8cb90bbb6cf5b779",
+        "time": "2015-10-12T11:18:27.019343+00:00"
+      },
+      "turn_3": {
+        "bidder": "aa5cc0f94b864caca25fddf8601c6a84",
+        "time": "2015-10-12T11:20:27.008348+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f18e318e289426b8f159d1b2219639e",
+        "time": "2015-10-12T11:16:27.012696+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f18e318e289426b8f159d1b2219639e",
+          "amount": 8998.62,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.argogrup.com.ua",
+                "telephone": "+380677643333",
+                "name": "ФОП Бабій С.П.",
+                "email": "olviya_trans@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2452014059",
+                "legalName": "ФОП Бабій С.П."
+              },
+              "name": "ФОП Бабій С.П.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м.Київ , б-р І.Лепсе , 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T16:51:18.225891+03:00"
+        },
+        {
+          "bidder": "aa5cc0f94b864caca25fddf8601c6a84",
+          "amount": 8000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T11:05:15.024406+03:00"
+        },
+        {
+          "bidder": "eecdb68a9f2941ba8cb90bbb6cf5b779",
+          "amount": 7999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T14:17:47.649082+03:00"
+        }
+      ],
+      "time": "2015-10-12T11:36:31.146491+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T16:51:18.225891+03:00",
+          "amount": 8998.62,
+          "bidder": "3f18e318e289426b8f159d1b2219639e"
+        },
+        {
+          "date": "2015-10-02T16:06:54.293264+03:00",
+          "amount": 8500.0,
+          "bidder": "eecdb68a9f2941ba8cb90bbb6cf5b779"
+        },
+        {
+          "date": "2015-10-05T11:05:15.024406+03:00",
+          "amount": 8000.0,
+          "bidder": "aa5cc0f94b864caca25fddf8601c6a84"
+        }
+      ],
+      "time": "2015-10-12T11:09:27.004584+00:00"
+    }
+  },
+  "id": "1d9a64ca8a80419db89c91f9d23cec4b",
+  "tenderId": "UA-2015-09-28-000230"
+}

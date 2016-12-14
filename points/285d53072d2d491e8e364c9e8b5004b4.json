@@ -1,0 +1,208 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "b05e3d67656b42c582e0c31581d02c04",
+        "time": "2015-11-06T11:31:30.032962+00:00"
+      },
+      "turn_2": {
+        "amount": 19500.0,
+        "bid_time": "2015-11-06T13:26:23.395908+02:00",
+        "bidder": "ef970fe4d21e442bb72f1f4c1b882bfa",
+        "time": "2015-11-06T11:27:30.010986+00:00"
+      },
+      "turn_3": {
+        "amount": 19490.0,
+        "bid_time": "2015-11-06T13:27:45.419802+02:00",
+        "bidder": "9f7de69969984d949ddfeb06615aa142",
+        "time": "2015-11-06T11:29:30.014234+00:00"
+      },
+      "turn_1": {
+        "bidder": "a8f0d5cff9fe49f4958470df9ddd6ad6",
+        "time": "2015-11-06T11:25:30.090865+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "b05e3d67656b42c582e0c31581d02c04",
+        "time": "2015-11-06T11:41:30.009203+00:00"
+      },
+      "turn_2": {
+        "bidder": "ef970fe4d21e442bb72f1f4c1b882bfa",
+        "time": "2015-11-06T11:37:30.025150+00:00"
+      },
+      "turn_3": {
+        "bidder": "9f7de69969984d949ddfeb06615aa142",
+        "time": "2015-11-06T11:39:30.011622+00:00"
+      },
+      "turn_1": {
+        "bidder": "a8f0d5cff9fe49f4958470df9ddd6ad6",
+        "time": "2015-11-06T11:35:30.018872+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "b05e3d67656b42c582e0c31581d02c04",
+        "time": "2015-11-06T11:21:30.010570+00:00"
+      },
+      "turn_2": {
+        "amount": 19600.0,
+        "bid_time": "2015-11-06T13:15:53.840788+02:00",
+        "bidder": "9f7de69969984d949ddfeb06615aa142",
+        "time": "2015-11-06T11:17:30.012376+00:00"
+      },
+      "turn_3": {
+        "bidder": "a8f0d5cff9fe49f4958470df9ddd6ad6",
+        "time": "2015-11-06T11:19:30.010074+00:00"
+      },
+      "turn_1": {
+        "amount": 20000.0,
+        "bid_time": "2015-11-06T13:13:47.396169+02:00",
+        "bidder": "ef970fe4d21e442bb72f1f4c1b882bfa",
+        "time": "2015-11-06T11:15:30.012997+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a8f0d5cff9fe49f4958470df9ddd6ad6",
+          "amount": 20897.89,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444514467",
+                "name": "Тетяна Наталенко",
+                "email": "tanya.paper-trade@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38991629",
+                "legalName": "ТОВ \"Група Компаній \"Пейпа Трейд Україна\""
+              },
+              "name": "ТОВ \"Група Компаній \"Пейпа Трейд Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02090",
+                "region": "Киевская",
+                "streetAddress": "вул.Сосюри 7, оф 302",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-05T16:33:19.246734+02:00"
+        },
+        {
+          "bidder": "ef970fe4d21e442bb72f1f4c1b882bfa",
+          "amount": 19500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kot.biz.ua",
+                "telephone": "+380563758907",
+                "name": "Товариство з обмеженою відповідальністю “ІМПАП”",
+                "email": "vyacheslav.fortuna@kot.biz.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30198424",
+                "legalName": "Товариство з обмеженою відповідальністю “ІМПАП”"
+              },
+              "name": "Товариство з обмеженою відповідальністю “ІМПАП”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Московська, буд. 12, Бабушкінський р-н, м. Днiпропетровськ, Дніпропетровська обл., 49000",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T13:26:23.395908+02:00"
+        },
+        {
+          "bidder": "9f7de69969984d949ddfeb06615aa142",
+          "amount": 19490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T13:27:45.419802+02:00"
+        },
+        {
+          "bidder": "b05e3d67656b42c582e0c31581d02c04",
+          "amount": 10692.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.top.dp.ua",
+                "faxNumber": "+380567900708",
+                "telephone": "+380567900708",
+                "name": "Натикан Юлiя Юрiiвна",
+                "email": "gorshkova@top.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39734878"
+              },
+              "name": "ТОВ Торгова компанiя \"Позитив\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "Вiнокурова, 1",
+                "locality": "Днiпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-05T17:28:40.947966+02:00"
+        }
+      ],
+      "time": "2015-11-06T11:41:35.410253+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T12:23:48.287189+02:00",
+          "amount": 22292.22,
+          "bidder": "ef970fe4d21e442bb72f1f4c1b882bfa"
+        },
+        {
+          "date": "2015-11-05T17:46:43.468163+02:00",
+          "amount": 21557.61,
+          "bidder": "9f7de69969984d949ddfeb06615aa142"
+        },
+        {
+          "date": "2015-11-05T16:33:19.246734+02:00",
+          "amount": 20897.89,
+          "bidder": "a8f0d5cff9fe49f4958470df9ddd6ad6"
+        },
+        {
+          "date": "2015-11-05T17:28:40.947966+02:00",
+          "amount": 10692.0,
+          "bidder": "b05e3d67656b42c582e0c31581d02c04"
+        }
+      ],
+      "time": "2015-11-06T11:08:30.006083+00:00"
+    }
+  },
+  "id": "285d53072d2d491e8e364c9e8b5004b4",
+  "tenderId": "UA-2015-10-30-000219"
+}

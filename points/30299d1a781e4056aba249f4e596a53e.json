@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 74125.0,
+        "bid_time": "2015-07-20T11:14:14.897309+03:00",
+        "bidder": "acb08dbc07f34932aeab66702fbbd6fa",
+        "time": "2015-07-20T08:15:00.070525+00:00"
+      },
+      "turn_1": {
+        "amount": 76900.0,
+        "bid_time": "2015-07-20T11:12:46.442892+03:00",
+        "bidder": "e071904535994de3a9aa0a79f00dfb1e",
+        "time": "2015-07-20T08:13:00.155231+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 69500.0,
+        "bid_time": "2015-07-20T11:20:18.246991+03:00",
+        "bidder": "acb08dbc07f34932aeab66702fbbd6fa",
+        "time": "2015-07-20T08:21:00.353380+00:00"
+      },
+      "turn_1": {
+        "amount": 70000.0,
+        "bid_time": "2015-07-20T11:18:35.157814+03:00",
+        "bidder": "e071904535994de3a9aa0a79f00dfb1e",
+        "time": "2015-07-20T08:19:00.218215+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e071904535994de3a9aa0a79f00dfb1e",
+        "time": "2015-07-20T08:09:00.167892+00:00"
+      },
+      "turn_1": {
+        "amount": 77125.0,
+        "bid_time": "2015-07-20T11:05:59.008363+03:00",
+        "bidder": "acb08dbc07f34932aeab66702fbbd6fa",
+        "time": "2015-07-20T08:07:00.113282+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e071904535994de3a9aa0a79f00dfb1e",
+          "amount": 70000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://uvu.com.ua",
+                "telephone": "+380675624964",
+                "name": "ТОВ УКРВТОРУТИЛИЗАЦІЯ",
+                "email": "info@uvu.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38527887",
+                "legalName": "ТОВ УКРВТОРУТИЛИЗАЦІЯ"
+              },
+              "name": "ТОВ УКРВТОРУТИЛИЗАЦІЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "52071, Дніпропетровська обл., Дніпропетровський р-он., \r\nс. Дослідне, вул. Наукова, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-20T11:18:35.157814+03:00"
+        },
+        {
+          "bidder": "acb08dbc07f34932aeab66702fbbd6fa",
+          "amount": 69500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrekogroup.com.ua/",
+                "telephone": "+380976637033",
+                "name": "Товариство з обмеженою відповідвльністю \"УКР ЕКО ГРУП\"",
+                "email": "anyaeko@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38487970",
+                "legalName": "Товариство з обмеженою відповідвльністю \"УКР ЕКО ГРУП\""
+              },
+              "name": "Товариство з обмеженою відповідвльністю \"УКР ЕКО ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08300, м. Бориспіль, вул. Ботанічна 1/5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-20T11:20:18.246991+03:00"
+        }
+      ],
+      "time": "2015-07-20T08:21:11.593868+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-17T16:30:02.872630+03:00",
+          "amount": 82125.0,
+          "bidder": "acb08dbc07f34932aeab66702fbbd6fa"
+        },
+        {
+          "date": "2015-07-17T13:04:12.270027+03:00",
+          "amount": 77778.6,
+          "bidder": "e071904535994de3a9aa0a79f00dfb1e"
+        }
+      ],
+      "time": "2015-07-20T08:00:00.034611+00:00"
+    }
+  },
+  "id": "30299d1a781e4056aba249f4e596a53e",
+  "tenderId": "UA-2015-07-08-000083"
+}

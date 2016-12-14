@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "aae66530ad9a4eb59d963c4fa377661d",
+        "time": "2015-08-26T09:15:00.013900+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba8f4a901b94471eb04cc331f062dd11",
+        "time": "2015-08-26T09:13:00.019615+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "aae66530ad9a4eb59d963c4fa377661d",
+        "time": "2015-08-26T09:21:00.014204+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba8f4a901b94471eb04cc331f062dd11",
+        "time": "2015-08-26T09:19:00.011847+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "aae66530ad9a4eb59d963c4fa377661d",
+        "time": "2015-08-26T09:09:00.021331+00:00"
+      },
+      "turn_1": {
+        "bidder": "ba8f4a901b94471eb04cc331f062dd11",
+        "time": "2015-08-26T09:07:00.017731+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ba8f4a901b94471eb04cc331f062dd11",
+          "amount": 6990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-25T12:53:18.029256+03:00"
+        },
+        {
+          "bidder": "aae66530ad9a4eb59d963c4fa377661d",
+          "amount": 5560.08,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-25T09:13:14.773636+03:00"
+        }
+      ],
+      "time": "2015-08-26T09:21:03.579036+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-25T12:53:18.029256+03:00",
+          "amount": 6990.0,
+          "bidder": "ba8f4a901b94471eb04cc331f062dd11"
+        },
+        {
+          "date": "2015-08-25T09:13:14.773636+03:00",
+          "amount": 5560.08,
+          "bidder": "aae66530ad9a4eb59d963c4fa377661d"
+        }
+      ],
+      "time": "2015-08-26T09:00:00.002130+00:00"
+    }
+  },
+  "id": "901a8104d2d24408b8a1a9c3fccc8a4a",
+  "tenderId": "UA-2015-08-19-000050"
+}

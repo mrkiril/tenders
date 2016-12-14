@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 30900.0,
+        "bid_time": "2015-10-12T12:49:10.661793+03:00",
+        "bidder": "82bff7cab0d945dcbc4cf408c9147c62",
+        "time": "2015-10-12T09:50:47.007304+00:00"
+      },
+      "turn_1": {
+        "amount": 31000.0,
+        "bid_time": "2015-10-12T12:47:26.720117+03:00",
+        "bidder": "5840e7773a80417c92d0453c664ee9d4",
+        "time": "2015-10-12T09:48:47.008316+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "82bff7cab0d945dcbc4cf408c9147c62",
+        "time": "2015-10-12T09:56:47.009653+00:00"
+      },
+      "turn_1": {
+        "amount": 28900.0,
+        "bid_time": "2015-10-12T12:53:19.449897+03:00",
+        "bidder": "5840e7773a80417c92d0453c664ee9d4",
+        "time": "2015-10-12T09:54:47.013862+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 31835.0,
+        "bid_time": "2015-10-12T12:43:33.614972+03:00",
+        "bidder": "82bff7cab0d945dcbc4cf408c9147c62",
+        "time": "2015-10-12T09:44:47.007258+00:00"
+      },
+      "turn_1": {
+        "amount": 32000.0,
+        "bid_time": "2015-10-12T12:42:20.886157+03:00",
+        "bidder": "5840e7773a80417c92d0453c664ee9d4",
+        "time": "2015-10-12T09:42:47.009778+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "82bff7cab0d945dcbc4cf408c9147c62",
+          "amount": 30900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vitlotehnika.com.ua",
+                "telephone": "+380503846720",
+                "name": "ТОВ \"ТОРГОВИЙ ДІМ СВІТЛОТЕХНІКА\"",
+                "email": "denis@svitlotehnika.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30082606",
+                "legalName": "ТОВ \"ТОРГОВИЙ ДІМ СВІТЛОТЕХНІКА\""
+              },
+              "name": "ТОВ \"ТОРГОВИЙ ДІМ СВІТЛОТЕХНІКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07403",
+                "region": "",
+                "streetAddress": "КРАСОВСКОГО 22",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T12:49:10.661793+03:00"
+        },
+        {
+          "bidder": "5840e7773a80417c92d0453c664ee9d4",
+          "amount": 28900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "499-22-50",
+                "telephone": "499-22-50",
+                "name": "Московчук Миколайович Ігор",
+                "email": "inm@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35961869",
+                "legalName": "ТОВ\"Союз-Світло Україна\""
+              },
+              "name": "ТОВ\"Союз-Світло Україна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вулиця Оленівська,34 кор. А,кв.22",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T12:53:19.449897+03:00"
+        }
+      ],
+      "time": "2015-10-12T09:56:51.855383+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T11:34:54.523669+03:00",
+          "amount": 33080.28,
+          "bidder": "5840e7773a80417c92d0453c664ee9d4"
+        },
+        {
+          "date": "2015-10-09T09:06:05.912611+03:00",
+          "amount": 32335.5,
+          "bidder": "82bff7cab0d945dcbc4cf408c9147c62"
+        }
+      ],
+      "time": "2015-10-12T09:35:47.002427+00:00"
+    }
+  },
+  "id": "a13b206356614209872e5cab9e3368d7",
+  "tenderId": "UA-2015-09-29-000095"
+}

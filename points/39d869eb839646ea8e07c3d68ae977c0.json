@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a7e4ad4cf93b46d8993b6d49eb613118",
+        "time": "2015-07-15T09:47:00.031593+00:00"
+      },
+      "turn_3": {
+        "bidder": "6fd046d7b7ba4739921599e82abf9298",
+        "time": "2015-07-15T09:49:00.031279+00:00"
+      },
+      "turn_1": {
+        "bidder": "d44c8da8ae6d4a6eac7e00a0b2f9fd2a",
+        "time": "2015-07-15T09:45:00.021467+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a7e4ad4cf93b46d8993b6d49eb613118",
+        "time": "2015-07-15T09:55:00.006489+00:00"
+      },
+      "turn_3": {
+        "bidder": "6fd046d7b7ba4739921599e82abf9298",
+        "time": "2015-07-15T09:57:00.009573+00:00"
+      },
+      "turn_1": {
+        "bidder": "d44c8da8ae6d4a6eac7e00a0b2f9fd2a",
+        "time": "2015-07-15T09:53:00.007811+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5000.0,
+        "bid_time": "2015-07-15T12:37:35.260281+03:00",
+        "bidder": "a7e4ad4cf93b46d8993b6d49eb613118",
+        "time": "2015-07-15T09:39:00.023841+00:00"
+      },
+      "turn_3": {
+        "amount": 4900.0,
+        "bid_time": "2015-07-15T12:39:26.361581+03:00",
+        "bidder": "6fd046d7b7ba4739921599e82abf9298",
+        "time": "2015-07-15T09:41:00.019077+00:00"
+      },
+      "turn_1": {
+        "bidder": "d44c8da8ae6d4a6eac7e00a0b2f9fd2a",
+        "time": "2015-07-15T09:37:00.031169+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d44c8da8ae6d4a6eac7e00a0b2f9fd2a",
+          "amount": 8467.09,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://toyota.od.ua/",
+                "faxNumber": "0487059393",
+                "telephone": "0990400131",
+                "name": "Костин Виталий Валерьевич",
+                "email": "vitaliy.kostin@ingproject.toyota.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20928262",
+                "legalName": "ООО \"ВТП\" Инжпроект\""
+              },
+              "name": "ООО \"ВТП\" Инжпроект\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65114",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "Люсторфская дорога 140в",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-13T15:47:49.392257+03:00"
+        },
+        {
+          "bidder": "a7e4ad4cf93b46d8993b6d49eb613118",
+          "amount": 5000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0487987464",
+                "name": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\"",
+                "email": "as_service@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35641167",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65013",
+                "region": "Одеська",
+                "streetAddress": "Отамана Головатого, 104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T12:37:35.260281+03:00"
+        },
+        {
+          "bidder": "6fd046d7b7ba4739921599e82abf9298",
+          "amount": 4900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0487725281",
+                "telephone": "0677001284",
+                "name": "Голованов Алексей Васильевич",
+                "email": "Golovanov.mr153@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38156402",
+                "legalName": "ТОВ \"АС-Технік\""
+              },
+              "name": "ТОВ \"АС-Технік\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65059",
+                "region": "Одеська",
+                "streetAddress": "пров. Хвойний 12 кв.212",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T12:39:26.361581+03:00"
+        }
+      ],
+      "time": "2015-07-15T09:57:00.839320+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-13T15:47:49.392257+03:00",
+          "amount": 8467.09,
+          "bidder": "d44c8da8ae6d4a6eac7e00a0b2f9fd2a"
+        },
+        {
+          "date": "2015-07-13T13:58:21.225580+03:00",
+          "amount": 8400.0,
+          "bidder": "a7e4ad4cf93b46d8993b6d49eb613118"
+        },
+        {
+          "date": "2015-07-14T10:34:01.728891+03:00",
+          "amount": 5146.25,
+          "bidder": "6fd046d7b7ba4739921599e82abf9298"
+        }
+      ],
+      "time": "2015-07-15T09:30:00.004932+00:00"
+    }
+  },
+  "id": "39d869eb839646ea8e07c3d68ae977c0",
+  "tenderId": "UA-2015-07-08-000116"
+}

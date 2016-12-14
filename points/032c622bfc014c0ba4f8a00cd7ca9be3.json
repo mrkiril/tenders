@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 7999.0,
+        "bid_time": "2015-12-04T15:58:46.459516+02:00",
+        "bidder": "17f4aa13339b4ff79de3dc234f5731a5",
+        "time": "2015-12-04T13:59:34.009781+00:00"
+      },
+      "turn_1": {
+        "amount": 8000.0,
+        "bid_time": "2015-12-04T15:55:54.716914+02:00",
+        "bidder": "2b33ae10de304e48a4ed11eda8bf6c36",
+        "time": "2015-12-04T13:57:34.012290+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "17f4aa13339b4ff79de3dc234f5731a5",
+        "time": "2015-12-04T14:05:34.013492+00:00"
+      },
+      "turn_1": {
+        "amount": 6800.0,
+        "bid_time": "2015-12-04T16:01:42.756045+02:00",
+        "bidder": "2b33ae10de304e48a4ed11eda8bf6c36",
+        "time": "2015-12-04T14:03:34.023742+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 8150.0,
+        "bid_time": "2015-12-04T15:51:50.422540+02:00",
+        "bidder": "17f4aa13339b4ff79de3dc234f5731a5",
+        "time": "2015-12-04T13:53:34.009721+00:00"
+      },
+      "turn_1": {
+        "amount": 8199.0,
+        "bid_time": "2015-12-04T15:50:09.703671+02:00",
+        "bidder": "2b33ae10de304e48a4ed11eda8bf6c36",
+        "time": "2015-12-04T13:51:34.010855+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "17f4aa13339b4ff79de3dc234f5731a5",
+          "amount": 7999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509891209",
+                "name": "Шерстобитова Дарья Александровная",
+                "email": "pavel.rob@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30195554"
+              },
+              "name": "ПП Розвиток. Індустрія. Планування.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49018",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Моніторна, 7, кв 79",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:58:46.459516+02:00"
+        },
+        {
+          "bidder": "2b33ae10de304e48a4ed11eda8bf6c36",
+          "amount": 6800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:01:42.756045+02:00"
+        }
+      ],
+      "time": "2015-12-04T14:05:40.748502+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T01:32:29.820552+02:00",
+          "amount": 9499.0,
+          "bidder": "2b33ae10de304e48a4ed11eda8bf6c36"
+        },
+        {
+          "date": "2015-12-02T12:59:24.903942+02:00",
+          "amount": 8200.0,
+          "bidder": "17f4aa13339b4ff79de3dc234f5731a5"
+        }
+      ],
+      "time": "2015-12-04T13:44:34.004479+00:00"
+    }
+  },
+  "id": "032c622bfc014c0ba4f8a00cd7ca9be3",
+  "tenderId": "UA-2015-11-27-000015"
+}

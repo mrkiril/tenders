@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2dda3166db114332b7e264557ed963fb",
+        "time": "2015-08-06T09:15:00.049271+00:00"
+      },
+      "turn_1": {
+        "bidder": "809bd2b417e24ba09335509974c187a8",
+        "time": "2015-08-06T09:13:00.035801+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 58750.0,
+        "bid_time": "2015-08-06T12:19:14.575118+03:00",
+        "bidder": "2dda3166db114332b7e264557ed963fb",
+        "time": "2015-08-06T09:21:00.049432+00:00"
+      },
+      "turn_1": {
+        "amount": 88000.0,
+        "bid_time": "2015-08-06T12:18:28.698569+03:00",
+        "bidder": "809bd2b417e24ba09335509974c187a8",
+        "time": "2015-08-06T09:19:00.041922+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2dda3166db114332b7e264557ed963fb",
+        "time": "2015-08-06T09:09:00.035965+00:00"
+      },
+      "turn_1": {
+        "bidder": "809bd2b417e24ba09335509974c187a8",
+        "time": "2015-08-06T09:07:00.031304+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "809bd2b417e24ba09335509974c187a8",
+          "amount": 88000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380661618736",
+                "name": "Ольга",
+                "email": "solo@usz.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36712228",
+                "legalName": "ТОВ \"Укрспецзапчасть\""
+              },
+              "name": "ТОВ \"Укрспецзапчасть\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08141",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-08-06T12:18:28.698569+03:00"
+        },
+        {
+          "bidder": "2dda3166db114332b7e264557ed963fb",
+          "amount": 58750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380639856641",
+                "name": "Станислав",
+                "email": "uszauto@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39611817",
+                "legalName": "ТОВ \"УСЗ Авто\""
+              },
+              "name": "ТОВ \"УСЗ Авто\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08132",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-08-06T12:19:14.575118+03:00"
+        }
+      ],
+      "time": "2015-08-06T09:21:05.751454+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-04T14:50:26.231933+03:00",
+          "amount": 90000.0,
+          "bidder": "809bd2b417e24ba09335509974c187a8"
+        },
+        {
+          "date": "2015-08-05T10:35:17.946983+03:00",
+          "amount": 59000.0,
+          "bidder": "2dda3166db114332b7e264557ed963fb"
+        }
+      ],
+      "time": "2015-08-06T09:00:00.007349+00:00"
+    }
+  },
+  "id": "fd227f8980ff4925a6ecbeb75aba020f",
+  "tenderId": "UA-2015-07-30-000083"
+}

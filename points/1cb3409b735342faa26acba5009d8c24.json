@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1700.0,
+        "bid_time": "2015-12-03T15:52:36.750250+02:00",
+        "bidder": "ebe0d6fdae6845f5bc0f87afef741a01",
+        "time": "2015-12-03T13:54:31.008587+00:00"
+      },
+      "turn_1": {
+        "amount": 1799.0,
+        "bid_time": "2015-12-03T15:51:07.424775+02:00",
+        "bidder": "97b8e3871f344f4d85fc0725a3acf5fd",
+        "time": "2015-12-03T13:52:31.025626+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1600.0,
+        "bid_time": "2015-12-03T15:58:40.188837+02:00",
+        "bidder": "ebe0d6fdae6845f5bc0f87afef741a01",
+        "time": "2015-12-03T14:00:31.008470+00:00"
+      },
+      "turn_1": {
+        "bidder": "97b8e3871f344f4d85fc0725a3acf5fd",
+        "time": "2015-12-03T13:58:31.007908+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1800.0,
+        "bid_time": "2015-12-03T15:47:25.260722+02:00",
+        "bidder": "ebe0d6fdae6845f5bc0f87afef741a01",
+        "time": "2015-12-03T13:48:31.009250+00:00"
+      },
+      "turn_1": {
+        "amount": 1899.0,
+        "bid_time": "2015-12-03T15:44:51.500383+02:00",
+        "bidder": "97b8e3871f344f4d85fc0725a3acf5fd",
+        "time": "2015-12-03T13:46:31.008970+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "97b8e3871f344f4d85fc0725a3acf5fd",
+          "amount": 1799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:51:07.424775+02:00"
+        },
+        {
+          "bidder": "ebe0d6fdae6845f5bc0f87afef741a01",
+          "amount": 1600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:58:40.188837+02:00"
+        }
+      ],
+      "time": "2015-12-03T14:00:41.026468+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T14:32:43.837928+02:00",
+          "amount": 1999.0,
+          "bidder": "97b8e3871f344f4d85fc0725a3acf5fd"
+        },
+        {
+          "date": "2015-12-01T12:24:32.305393+02:00",
+          "amount": 1900.0,
+          "bidder": "ebe0d6fdae6845f5bc0f87afef741a01"
+        }
+      ],
+      "time": "2015-12-03T13:39:31.003335+00:00"
+    }
+  },
+  "id": "1cb3409b735342faa26acba5009d8c24",
+  "tenderId": "UA-2015-11-26-000153"
+}

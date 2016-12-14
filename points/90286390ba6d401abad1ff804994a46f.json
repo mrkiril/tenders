@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c3a866a98e6b4be6a72bb868811a0467",
+        "time": "2015-08-17T08:45:00.092363+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddc5813107ed4b778d9e5643397158d0",
+        "time": "2015-08-17T08:43:00.066501+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c3a866a98e6b4be6a72bb868811a0467",
+        "time": "2015-08-17T08:51:00.132440+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddc5813107ed4b778d9e5643397158d0",
+        "time": "2015-08-17T08:49:00.052937+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c3a866a98e6b4be6a72bb868811a0467",
+        "time": "2015-08-17T08:39:00.045582+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddc5813107ed4b778d9e5643397158d0",
+        "time": "2015-08-17T08:37:00.037883+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ddc5813107ed4b778d9e5643397158d0",
+          "amount": 750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mirmasel.com.ua",
+                "telephone": "+380675463008",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «МИР МАСЕЛ»",
+                "email": "k_shtanko@mobil.kharkov.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30357224",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «МИР МАСЕЛ»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «МИР МАСЕЛ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "62490, Харківська обл., Харківський район, сел. Комунар, вул. Озерна, буд. 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-13T09:33:01.076070+03:00"
+        },
+        {
+          "bidder": "c3a866a98e6b4be6a72bb868811a0467",
+          "amount": 695.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://camion.org.ua/",
+                "telephone": "0503557295",
+                "name": "Игорь  Билоус ",
+                "email": "bik@camion.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23536275",
+                "legalName": ""
+              },
+              "name": "Камион-Оил",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "03151, Киев, пр. Воздухофлотский, 58"
+              }
+            }
+          ],
+          "time": "2015-08-14T17:01:02.458336+03:00"
+        }
+      ],
+      "time": "2015-08-17T08:51:05.216948+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-13T09:33:01.076070+03:00",
+          "amount": 750.0,
+          "bidder": "ddc5813107ed4b778d9e5643397158d0"
+        },
+        {
+          "date": "2015-08-14T17:01:02.458336+03:00",
+          "amount": 695.0,
+          "bidder": "c3a866a98e6b4be6a72bb868811a0467"
+        }
+      ],
+      "time": "2015-08-17T08:30:00.011777+00:00"
+    }
+  },
+  "id": "90286390ba6d401abad1ff804994a46f",
+  "tenderId": "UA-2015-08-12-000070"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6f32e5afd154459a8a81ebf522e61f02",
+        "time": "2015-12-07T13:19:25.007399+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0125a32fe3c4fda889bb95569ac5e61",
+        "time": "2015-12-07T13:17:25.024645+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6f32e5afd154459a8a81ebf522e61f02",
+        "time": "2015-12-07T13:25:25.007649+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0125a32fe3c4fda889bb95569ac5e61",
+        "time": "2015-12-07T13:23:25.008174+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6f32e5afd154459a8a81ebf522e61f02",
+        "time": "2015-12-07T13:13:25.008246+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0125a32fe3c4fda889bb95569ac5e61",
+        "time": "2015-12-07T13:11:25.008115+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c0125a32fe3c4fda889bb95569ac5e61",
+          "amount": 5800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Михайло  Синюченко",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T07:10:34.354895+02:00"
+        },
+        {
+          "bidder": "6f32e5afd154459a8a81ebf522e61f02",
+          "amount": 5455.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "URA Олейников",
+                "email": "sin725@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34806111",
+                "legalName": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"ОЛ-ПРИНТ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "пр Визволителів буд. 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T06:08:56.305518+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:25:27.555050+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T07:10:34.354895+02:00",
+          "amount": 5800.0,
+          "bidder": "c0125a32fe3c4fda889bb95569ac5e61"
+        },
+        {
+          "date": "2015-12-04T06:08:56.305518+02:00",
+          "amount": 5455.0,
+          "bidder": "6f32e5afd154459a8a81ebf522e61f02"
+        }
+      ],
+      "time": "2015-12-07T13:04:25.003978+00:00"
+    }
+  },
+  "id": "7dee75fa387d478f884eeb591eed613a",
+  "tenderId": "UA-2015-12-01-000133"
+}

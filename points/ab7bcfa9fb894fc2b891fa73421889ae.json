@@ -1,0 +1,253 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 2550000.0,
+        "bid_time": "2015-04-01T14:53:25.120582+03:00",
+        "bidder": "86d5c08d77914350be33b4ab0d4412d3",
+        "time": "2015-04-01T11:55:00.043253+00:00"
+      },
+      "turn_5": {
+        "amount": 2455000.0,
+        "bid_time": "2015-04-01T14:55:44.909089+03:00",
+        "bidder": "6df6418c440545afabb2f1037530760b",
+        "time": "2015-04-01T11:57:00.025635+00:00"
+      },
+      "turn_2": {
+        "bidder": "937e9b2244a9451aac872e568f1c34ce",
+        "time": "2015-04-01T11:51:00.024952+00:00"
+      },
+      "turn_3": {
+        "amount": 2560000.0,
+        "bid_time": "2015-04-01T14:51:27.467633+03:00",
+        "bidder": "e6b85a2b4cef4714aa4aa1726079a996",
+        "time": "2015-04-01T11:53:00.097375+00:00"
+      },
+      "turn_1": {
+        "bidder": "64fe1c08dcb34b8c8beff9f1e2f67a0f",
+        "time": "2015-04-01T11:49:00.015897+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "86d5c08d77914350be33b4ab0d4412d3",
+        "time": "2015-04-01T12:07:00.029095+00:00"
+      },
+      "turn_5": {
+        "bidder": "6df6418c440545afabb2f1037530760b",
+        "time": "2015-04-01T12:09:00.032499+00:00"
+      },
+      "turn_2": {
+        "bidder": "937e9b2244a9451aac872e568f1c34ce",
+        "time": "2015-04-01T12:03:00.026017+00:00"
+      },
+      "turn_3": {
+        "amount": 2453000.0,
+        "bid_time": "2015-04-01T15:03:30.875447+03:00",
+        "bidder": "e6b85a2b4cef4714aa4aa1726079a996",
+        "time": "2015-04-01T12:05:00.024927+00:00"
+      },
+      "turn_1": {
+        "bidder": "64fe1c08dcb34b8c8beff9f1e2f67a0f",
+        "time": "2015-04-01T12:01:00.026454+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "e6b85a2b4cef4714aa4aa1726079a996",
+        "time": "2015-04-01T11:43:00.100131+00:00"
+      },
+      "turn_5": {
+        "amount": 2566000.0,
+        "bid_time": "2015-04-01T14:43:31.324058+03:00",
+        "bidder": "6df6418c440545afabb2f1037530760b",
+        "time": "2015-04-01T11:45:00.025987+00:00"
+      },
+      "turn_2": {
+        "bidder": "937e9b2244a9451aac872e568f1c34ce",
+        "time": "2015-04-01T11:39:00.072967+00:00"
+      },
+      "turn_3": {
+        "amount": 2699900.0,
+        "bid_time": "2015-04-01T14:40:41.652249+03:00",
+        "bidder": "86d5c08d77914350be33b4ab0d4412d3",
+        "time": "2015-04-01T11:41:00.026951+00:00"
+      },
+      "turn_1": {
+        "bidder": "64fe1c08dcb34b8c8beff9f1e2f67a0f",
+        "time": "2015-04-01T11:37:00.087424+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "64fe1c08dcb34b8c8beff9f1e2f67a0f",
+          "amount": 3300000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Нільга Костянтин",
+                "email": "tallegprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360806",
+                "legalName": "ТОВ \"ВО \"Таллегпром\""
+              },
+              "name": "ТОВ \"ВО \"Таллегпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. М. Раскової, 21, оф. 801-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-31T14:28:28.659416+00:00"
+        },
+        {
+          "bidder": "937e9b2244a9451aac872e568f1c34ce",
+          "amount": 2900000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "kontora1-2015@ukr.net",
+                "name": "ТОВ Будівельний континент"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32224293",
+                "legalName": "ТОВ Будівельний континент"
+              },
+              "name": "ТОВ Будівельний континент",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08720",
+                "region": "Київська",
+                "streetAddress": "Промислова, 17",
+                "locality": "Українка"
+              }
+            }
+          ],
+          "time": "2015-03-31T07:33:10.525826+00:00"
+        },
+        {
+          "bidder": "86d5c08d77914350be33b4ab0d4412d3",
+          "amount": 2550000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442233911",
+                "name": "ТОВ «УКРАЇНСЬКА БРОНЯ»",
+                "email": "saleinfo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360764",
+                "legalName": "ТОВ «УКРАЇНСЬКА БРОНЯ»"
+              },
+              "name": "ТОВ «УКРАЇНСЬКА БРОНЯ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01054, Україна, м. Київ, вул. Ярославів Вал, 29В",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-01T14:53:25.120582+03:00"
+        },
+        {
+          "bidder": "6df6418c440545afabb2f1037530760b",
+          "amount": 2455000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380441234567",
+                "name": "ТОВ \"Будівельний континент\"",
+                "email": "kontora1-2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32224293",
+                "legalName": "ТОВ \"Будівельний континент\""
+              },
+              "name": "ТОВ \"Будівельний континент\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Українка, Промислова, 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-01T14:55:44.909089+03:00"
+        },
+        {
+          "bidder": "e6b85a2b4cef4714aa4aa1726079a996",
+          "amount": 2453000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Петро Універсалюк",
+                "email": "kontora1-2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32224293",
+                "legalName": "ТОВ \"Будівельний континент\""
+              },
+              "name": "ТОВ \"Будівельний континент\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08720",
+                "region": "Киевская",
+                "streetAddress": "м. Українка, Промислова, 17",
+                "locality": "Обухов"
+              }
+            }
+          ],
+          "time": "2015-04-01T15:03:30.875447+03:00"
+        }
+      ],
+      "time": "2015-04-01T12:09:02.674816+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-31T14:28:28.659416+00:00",
+          "amount": 3300000.0,
+          "bidder": "64fe1c08dcb34b8c8beff9f1e2f67a0f"
+        },
+        {
+          "date": "2015-03-31T07:33:10.525826+00:00",
+          "amount": 2900000.0,
+          "bidder": "937e9b2244a9451aac872e568f1c34ce"
+        },
+        {
+          "date": "2015-03-31T08:57:28.271072+00:00",
+          "amount": 2850000.0,
+          "bidder": "86d5c08d77914350be33b4ab0d4412d3"
+        },
+        {
+          "date": "2015-03-31T07:56:34.608817+00:00",
+          "amount": 2800000.0,
+          "bidder": "e6b85a2b4cef4714aa4aa1726079a996"
+        },
+        {
+          "date": "2015-03-31T11:54:22.307386+00:00",
+          "amount": 2700000.0,
+          "bidder": "6df6418c440545afabb2f1037530760b"
+        }
+      ],
+      "time": "2015-04-01T11:30:00.007363+00:00"
+    }
+  },
+  "id": "ab7bcfa9fb894fc2b891fa73421889ae",
+  "tenderId": "UA-2015-03-20-000002"
+}

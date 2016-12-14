@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 147400.0,
+        "bid_time": "2015-12-02T14:49:07.261375+02:00",
+        "bidder": "8f1f81db8cd54e8eba1ebd6259223aa1",
+        "time": "2015-12-02T12:50:54.008598+00:00"
+      },
+      "turn_1": {
+        "amount": 148000.0,
+        "bid_time": "2015-12-02T14:48:49.817972+02:00",
+        "bidder": "2cafb54f0edb4b098cea877f9de8e402",
+        "time": "2015-12-02T12:48:54.008272+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 146650.0,
+        "bid_time": "2015-12-02T14:56:16.603635+02:00",
+        "bidder": "8f1f81db8cd54e8eba1ebd6259223aa1",
+        "time": "2015-12-02T12:56:54.008494+00:00"
+      },
+      "turn_1": {
+        "amount": 147250.0,
+        "bid_time": "2015-12-02T14:53:03.266758+02:00",
+        "bidder": "2cafb54f0edb4b098cea877f9de8e402",
+        "time": "2015-12-02T12:54:54.017743+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 148150.0,
+        "bid_time": "2015-12-02T14:43:24.284129+02:00",
+        "bidder": "8f1f81db8cd54e8eba1ebd6259223aa1",
+        "time": "2015-12-02T12:44:54.010100+00:00"
+      },
+      "turn_1": {
+        "amount": 148800.0,
+        "bid_time": "2015-12-02T14:41:17.677289+02:00",
+        "bidder": "2cafb54f0edb4b098cea877f9de8e402",
+        "time": "2015-12-02T12:42:54.009764+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2cafb54f0edb4b098cea877f9de8e402",
+          "amount": 147250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "tera202@ukr.net",
+                "name": "Котомкін Вячеслав Олександрович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34617442",
+                "legalName": "ТОВ «ТЕРА КАПІТАЛ»"
+              },
+              "name": "ТОВ «ТЕРА КАПІТАЛ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03022",
+                "region": "Київська",
+                "streetAddress": "Кайсарова, 11",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T14:53:03.266758+02:00"
+        },
+        {
+          "bidder": "8f1f81db8cd54e8eba1ebd6259223aa1",
+          "amount": 146650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380633077084, +380981907477, +380505637687",
+                "name": "Олег Корнеев",
+                "email": "bavariazt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37604944",
+                "legalName": "ПП \"Спавжня імперія вікон\""
+              },
+              "name": "ПП \"Спавжня імперія вікон\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10003",
+                "region": "Житомирская",
+                "streetAddress": "10003, м. Житомир, вул. Домбровського,38",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-12-02T14:56:16.603635+02:00"
+        }
+      ],
+      "time": "2015-12-02T12:56:55.209370+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T15:15:36.105681+02:00",
+          "amount": 149924.0,
+          "bidder": "2cafb54f0edb4b098cea877f9de8e402"
+        },
+        {
+          "date": "2015-12-01T13:36:01.075844+02:00",
+          "amount": 148900.0,
+          "bidder": "8f1f81db8cd54e8eba1ebd6259223aa1"
+        }
+      ],
+      "time": "2015-12-02T12:35:54.006844+00:00"
+    }
+  },
+  "id": "1f2151f56c824f5b9760137b3a16e417",
+  "tenderId": "UA-2015-11-27-000054-b"
+}

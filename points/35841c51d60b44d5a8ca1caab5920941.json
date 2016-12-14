@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0b872d28734f435da03873ad3d61f108",
+        "time": "2015-09-28T08:45:00.094160+00:00"
+      },
+      "turn_1": {
+        "bidder": "a86cfd69329a45e2b3b83f8fd94369d2",
+        "time": "2015-09-28T08:43:00.079559+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0b872d28734f435da03873ad3d61f108",
+        "time": "2015-09-28T08:51:00.173045+00:00"
+      },
+      "turn_1": {
+        "bidder": "a86cfd69329a45e2b3b83f8fd94369d2",
+        "time": "2015-09-28T08:49:00.110478+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0b872d28734f435da03873ad3d61f108",
+        "time": "2015-09-28T08:39:00.114659+00:00"
+      },
+      "turn_1": {
+        "bidder": "a86cfd69329a45e2b3b83f8fd94369d2",
+        "time": "2015-09-28T08:37:00.116782+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a86cfd69329a45e2b3b83f8fd94369d2",
+          "amount": 5850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nosta.com.ua/",
+                "telephone": "+380660960012",
+                "name": "Приватне підприємство «НОСТА»",
+                "email": "finanvahoo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34446862",
+                "legalName": "Приватне підприємство «НОСТА»"
+              },
+              "name": "Приватне підприємство «НОСТА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08500, м. Фастів, вул. Мічуріна, 50",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T12:29:35.488692+03:00"
+        },
+        {
+          "bidder": "0b872d28734f435da03873ad3d61f108",
+          "amount": 5727.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dclink.com.ua/corporation-clients/",
+                "telephone": "+380577178112",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ\"ДіСі Лінк\"",
+                "email": "corp@dclink.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31799566",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ\"ДіСі Лінк\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ\"ДіСі Лінк\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Салтівське Шосе,буд. 260А кв2,м.Харків, 61171",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T12:15:34.137613+03:00"
+        }
+      ],
+      "time": "2015-09-28T08:51:08.749837+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T12:29:35.488692+03:00",
+          "amount": 5850.0,
+          "bidder": "a86cfd69329a45e2b3b83f8fd94369d2"
+        },
+        {
+          "date": "2015-09-22T12:15:34.137613+03:00",
+          "amount": 5727.6,
+          "bidder": "0b872d28734f435da03873ad3d61f108"
+        }
+      ],
+      "time": "2015-09-28T08:30:00.020023+00:00"
+    }
+  },
+  "id": "35841c51d60b44d5a8ca1caab5920941",
+  "tenderId": "UA-2015-09-22-000011"
+}

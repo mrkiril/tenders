@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9cb5e7392f3347bf8f7ee550dde168d1",
+        "time": "2015-08-31T08:15:00.043060+00:00"
+      },
+      "turn_1": {
+        "bidder": "b120c07acd20423a9cb1a2f8f37a0ea6",
+        "time": "2015-08-31T08:13:00.100529+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9cb5e7392f3347bf8f7ee550dde168d1",
+        "time": "2015-08-31T08:21:00.067767+00:00"
+      },
+      "turn_1": {
+        "bidder": "b120c07acd20423a9cb1a2f8f37a0ea6",
+        "time": "2015-08-31T08:19:00.047903+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9cb5e7392f3347bf8f7ee550dde168d1",
+        "time": "2015-08-31T08:09:00.026389+00:00"
+      },
+      "turn_1": {
+        "bidder": "b120c07acd20423a9cb1a2f8f37a0ea6",
+        "time": "2015-08-31T08:07:00.029959+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b120c07acd20423a9cb1a2f8f37a0ea6",
+          "amount": 4970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562318092",
+                "name": "ТОВ \"БК ОН ЛАЙН ДНІПРО\"",
+                "email": "on-line_dnepr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36573156",
+                "legalName": "ТОВ \"БК ОН ЛАЙН ДНІПРО\""
+              },
+              "name": "ТОВ \"БК ОН ЛАЙН ДНІПРО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49006 м. Дніпропетровськ, вул. Чичеріна,25",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T18:36:01.787811+03:00"
+        },
+        {
+          "bidder": "9cb5e7392f3347bf8f7ee550dde168d1",
+          "amount": 4800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://parad-dnepr.com.ua",
+                "telephone": "+3805623728185",
+                "name": "ООО \"ПАРАД-ДНЕПР\"",
+                "email": "com77@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21926747",
+                "legalName": "ООО \"ПАРАД-ДНЕПР\""
+              },
+              "name": "ООО \"ПАРАД-ДНЕПР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000 Украина, г.Днепропетровск, пр. Карал Маркса 60 офис 32",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-25T15:55:23.549118+03:00"
+        }
+      ],
+      "time": "2015-08-31T08:21:04.161637+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-27T18:36:01.787811+03:00",
+          "amount": 4970.0,
+          "bidder": "b120c07acd20423a9cb1a2f8f37a0ea6"
+        },
+        {
+          "date": "2015-08-25T15:55:23.549118+03:00",
+          "amount": 4800.0,
+          "bidder": "9cb5e7392f3347bf8f7ee550dde168d1"
+        }
+      ],
+      "time": "2015-08-31T08:00:00.003925+00:00"
+    }
+  },
+  "id": "a0f17f09ed5d499eb16b0b0160f3092b",
+  "tenderId": "UA-2015-08-20-000028"
+}

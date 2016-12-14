@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5d1083b917444ad19bbd4e1fbef263c6",
+        "time": "2015-10-08T08:52:12.006392+00:00"
+      },
+      "turn_1": {
+        "bidder": "698574f9384847eda1e25fb436bf4cde",
+        "time": "2015-10-08T08:50:12.009653+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5d1083b917444ad19bbd4e1fbef263c6",
+        "time": "2015-10-08T08:58:12.006174+00:00"
+      },
+      "turn_1": {
+        "bidder": "698574f9384847eda1e25fb436bf4cde",
+        "time": "2015-10-08T08:56:12.016175+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5d1083b917444ad19bbd4e1fbef263c6",
+        "time": "2015-10-08T08:46:12.006856+00:00"
+      },
+      "turn_1": {
+        "bidder": "698574f9384847eda1e25fb436bf4cde",
+        "time": "2015-10-08T08:44:12.007680+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "698574f9384847eda1e25fb436bf4cde",
+          "amount": 374.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444676907",
+                "telephone": "+380935126870",
+                "name": "Галицький Іван Іванович",
+                "email": "tender.galytsky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2558204616"
+              },
+              "name": "ФОП Галицький Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02096",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Привокзальна, 8/1, кв. 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-07T14:23:37.330547+03:00"
+        },
+        {
+          "bidder": "5d1083b917444ad19bbd4e1fbef263c6",
+          "amount": 337.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://stomatolog-g.com.ua/",
+                "faxNumber": "044-531-98-90",
+                "telephone": "044-287-10-20",
+                "name": "Жайворонок Микола Миколайович",
+                "email": "stom-zh@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19259806",
+                "legalName": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\""
+              },
+              "name": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03187",
+                "region": "Київська",
+                "streetAddress": "вул. Заболотного, 48 А, блок А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T16:53:22.975115+03:00"
+        }
+      ],
+      "time": "2015-10-08T08:58:13.104566+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T14:23:37.330547+03:00",
+          "amount": 374.5,
+          "bidder": "698574f9384847eda1e25fb436bf4cde"
+        },
+        {
+          "date": "2015-10-07T16:53:22.975115+03:00",
+          "amount": 337.9,
+          "bidder": "5d1083b917444ad19bbd4e1fbef263c6"
+        }
+      ],
+      "time": "2015-10-08T08:37:12.002060+00:00"
+    }
+  },
+  "id": "12e641bab5454df4bc9679c27c6b1bfd",
+  "tenderId": "UA-2015-10-06-000249"
+}

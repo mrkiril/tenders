@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "641c3e0e3fd24860ac0bf05603ebfbf5",
+        "time": "2015-10-27T13:59:53.007052+00:00"
+      },
+      "turn_1": {
+        "bidder": "697499a2bd674a25bb44e9ed804b454f",
+        "time": "2015-10-27T13:57:53.006670+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "641c3e0e3fd24860ac0bf05603ebfbf5",
+        "time": "2015-10-27T14:05:53.006167+00:00"
+      },
+      "turn_1": {
+        "bidder": "697499a2bd674a25bb44e9ed804b454f",
+        "time": "2015-10-27T14:03:53.005942+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "641c3e0e3fd24860ac0bf05603ebfbf5",
+        "time": "2015-10-27T13:53:53.007527+00:00"
+      },
+      "turn_1": {
+        "bidder": "697499a2bd674a25bb44e9ed804b454f",
+        "time": "2015-10-27T13:51:53.006550+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "697499a2bd674a25bb44e9ed804b454f",
+          "amount": 211.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aeq.su",
+                "faxNumber": "+380617070959",
+                "telephone": "+380679979779",
+                "name": "Титаренко Роман Валентинович",
+                "email": "4585999@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23850511"
+              },
+              "name": "ТОВ Екватор",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69120",
+                "region": "Запорізька область",
+                "streetAddress": "вул. Авраменка, 6",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-10-23T17:17:29.589323+03:00"
+        },
+        {
+          "bidder": "641c3e0e3fd24860ac0bf05603ebfbf5",
+          "amount": 155.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-23T14:01:03.451749+03:00"
+        }
+      ],
+      "time": "2015-10-27T14:06:27.213461+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T17:17:29.589323+03:00",
+          "amount": 211.5,
+          "bidder": "697499a2bd674a25bb44e9ed804b454f"
+        },
+        {
+          "date": "2015-10-23T14:01:03.451749+03:00",
+          "amount": 155.2,
+          "bidder": "641c3e0e3fd24860ac0bf05603ebfbf5"
+        }
+      ],
+      "time": "2015-10-27T13:44:53.002871+00:00"
+    }
+  },
+  "id": "c70235fc855d4d798c078f7338124410",
+  "tenderId": "UA-2015-10-21-000217"
+}

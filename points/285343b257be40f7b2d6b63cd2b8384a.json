@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 680.0,
+        "bid_time": "2015-11-04T13:21:31.482121+02:00",
+        "bidder": "a55e001273c144908a9bd2bb16412bd3",
+        "time": "2015-11-04T11:22:31.011920+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0560b583e674813855dfa5d45d13aaf",
+        "time": "2015-11-04T11:24:31.010559+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1b8fc1efb024c4d8d8f82ba07cfa0ff",
+        "time": "2015-11-04T11:20:31.010272+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a55e001273c144908a9bd2bb16412bd3",
+        "time": "2015-11-04T11:30:31.010305+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0560b583e674813855dfa5d45d13aaf",
+        "time": "2015-11-04T11:32:31.010792+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1b8fc1efb024c4d8d8f82ba07cfa0ff",
+        "time": "2015-11-04T11:28:31.009944+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a55e001273c144908a9bd2bb16412bd3",
+        "time": "2015-11-04T11:14:31.010853+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0560b583e674813855dfa5d45d13aaf",
+        "time": "2015-11-04T11:16:31.011447+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1b8fc1efb024c4d8d8f82ba07cfa0ff",
+        "time": "2015-11-04T11:12:31.020650+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f1b8fc1efb024c4d8d8f82ba07cfa0ff",
+          "amount": 1225.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.romus.com.ua",
+                "telephone": "+380322553677",
+                "name": "ТОВ \"Ромус-Поліграф\"",
+                "email": "romus.manager30@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25551379",
+                "legalName": "ТОВ \"Ромус-Поліграф\""
+              },
+              "name": "ТОВ \"Ромус-Поліграф\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79052",
+                "region": "",
+                "streetAddress": "вул. Широка, 81",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T11:15:37.771580+02:00"
+        },
+        {
+          "bidder": "a55e001273c144908a9bd2bb16412bd3",
+          "amount": 680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.papirus.com.ua",
+                "telephone": "+3800982508079",
+                "name": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\"",
+                "email": "avosk@papyrus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37757144",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "Київська, 2-А",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-11-04T13:21:31.482121+02:00"
+        },
+        {
+          "bidder": "a0560b583e674813855dfa5d45d13aaf",
+          "amount": 523.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952793624",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-03T09:13:46.444415+02:00"
+        }
+      ],
+      "time": "2015-11-04T11:32:38.709767+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T11:15:37.771580+02:00",
+          "amount": 1225.0,
+          "bidder": "f1b8fc1efb024c4d8d8f82ba07cfa0ff"
+        },
+        {
+          "date": "2015-11-03T10:27:30.881434+02:00",
+          "amount": 1000.0,
+          "bidder": "a55e001273c144908a9bd2bb16412bd3"
+        },
+        {
+          "date": "2015-11-03T09:13:46.444415+02:00",
+          "amount": 523.8,
+          "bidder": "a0560b583e674813855dfa5d45d13aaf"
+        }
+      ],
+      "time": "2015-11-04T11:05:31.002089+00:00"
+    }
+  },
+  "id": "285343b257be40f7b2d6b63cd2b8384a",
+  "tenderId": "UA-2015-10-29-000337"
+}

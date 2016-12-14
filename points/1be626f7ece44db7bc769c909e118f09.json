@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fb72dd661a974ebeaab6e2bff6cc551f",
+        "time": "2015-07-02T09:15:00.064516+00:00"
+      },
+      "turn_1": {
+        "bidder": "1eae9b3551e04948a7e9500d81735c1d",
+        "time": "2015-07-02T09:13:00.041679+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fb72dd661a974ebeaab6e2bff6cc551f",
+        "time": "2015-07-02T09:21:00.034687+00:00"
+      },
+      "turn_1": {
+        "bidder": "1eae9b3551e04948a7e9500d81735c1d",
+        "time": "2015-07-02T09:19:00.062038+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fb72dd661a974ebeaab6e2bff6cc551f",
+        "time": "2015-07-02T09:09:00.028676+00:00"
+      },
+      "turn_1": {
+        "bidder": "1eae9b3551e04948a7e9500d81735c1d",
+        "time": "2015-07-02T09:07:00.143579+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1eae9b3551e04948a7e9500d81735c1d",
+          "amount": 19687.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380639483520",
+                "name": "Таня Кравченко",
+                "email": "print-master.k@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34706830",
+                "legalName": "ПП \"ПРИНТ-МАСТЕР К\""
+              },
+              "name": "ПП \"ПРИНТ-МАСТЕР К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54028",
+                "region": "Николаевская",
+                "streetAddress": "м.Миколаїв ,Ленінський  район,вулиця Космонавтів,будинок 88,квартира 57",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-06-30T16:52:34.272909+03:00"
+        },
+        {
+          "bidder": "fb72dd661a974ebeaab6e2bff6cc551f",
+          "amount": 18637.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380933964918, +380512580711, +380512580712",
+                "name": "Юлианна Попенко",
+                "email": "office@alpha-group.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35106851",
+                "legalName": "ТОВ \"Альфа Групп-Украина\""
+              },
+              "name": "ТОВ \"Альфа Групп-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "МИКОЛАЇВСЬКА ОБЛ.,М.МИКОЛАЇВ,ПРОСП. ГЕРОЇВ СТАЛІНГРАДУ,БУДИНОК 79,КВАРТИРА 37",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-07-01T10:16:20.973460+03:00"
+        }
+      ],
+      "time": "2015-07-02T09:21:02.801119+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-30T16:52:34.272909+03:00",
+          "amount": 19687.5,
+          "bidder": "1eae9b3551e04948a7e9500d81735c1d"
+        },
+        {
+          "date": "2015-07-01T10:16:20.973460+03:00",
+          "amount": 18637.5,
+          "bidder": "fb72dd661a974ebeaab6e2bff6cc551f"
+        }
+      ],
+      "time": "2015-07-02T09:00:00.013579+00:00"
+    }
+  },
+  "id": "1be626f7ece44db7bc769c909e118f09",
+  "tenderId": "UA-2015-06-23-000047"
+}

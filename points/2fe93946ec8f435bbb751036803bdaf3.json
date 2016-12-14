@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b587cb7d26734922a7d4777ce93c1560",
+        "time": "2015-11-27T09:26:59.008257+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7af8d2628774657bd3adf5cdfc34074",
+        "time": "2015-11-27T09:24:59.007766+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b587cb7d26734922a7d4777ce93c1560",
+        "time": "2015-11-27T09:32:59.013538+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7af8d2628774657bd3adf5cdfc34074",
+        "time": "2015-11-27T09:30:59.012134+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e7af8d2628774657bd3adf5cdfc34074",
+        "time": "2015-11-27T09:20:59.007507+00:00"
+      },
+      "turn_1": {
+        "amount": 196000.0,
+        "bid_time": "2015-11-27T11:17:15.840583+02:00",
+        "bidder": "b587cb7d26734922a7d4777ce93c1560",
+        "time": "2015-11-27T09:18:59.009085+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e7af8d2628774657bd3adf5cdfc34074",
+          "amount": 197640.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pelletua.com/",
+                "faxNumber": "0445037227",
+                "telephone": "0979059973",
+                "name": "Вовк Вадим Миколайович",
+                "email": "vovkvadim1983@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39578513",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТРИ А ПЛЮС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТРИ А ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "пр. Московський, будинок 11, офіс 106.",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:13:51.068315+02:00"
+        },
+        {
+          "bidder": "b587cb7d26734922a7d4777ce93c1560",
+          "amount": 196000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://teploalt.com.ua/",
+                "faxNumber": "044-383-23-30",
+                "telephone": "0673289598",
+                "name": "Конюхова Юлія Євгенівна",
+                "email": "g.konukhova@teploalt.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39929772",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТЕПЛОАЛЬТ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТЕПЛОАЛЬТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська",
+                "streetAddress": "Лебединська, 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T11:17:15.840583+02:00"
+        }
+      ],
+      "time": "2015-11-27T09:33:00.539958+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T11:09:20.102075+02:00",
+          "amount": 198000.0,
+          "bidder": "b587cb7d26734922a7d4777ce93c1560"
+        },
+        {
+          "date": "2015-11-23T11:13:51.068315+02:00",
+          "amount": 197640.0,
+          "bidder": "e7af8d2628774657bd3adf5cdfc34074"
+        }
+      ],
+      "time": "2015-11-27T09:11:59.003803+00:00"
+    }
+  },
+  "id": "2fe93946ec8f435bbb751036803bdaf3",
+  "tenderId": "UA-2015-11-17-000051-a"
+}

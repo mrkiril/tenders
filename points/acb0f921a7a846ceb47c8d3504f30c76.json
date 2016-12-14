@@ -1,0 +1,170 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7692be3383c24bfc863a68dbaf3df8ea",
+        "time": "2015-12-16T11:17:47.008197+00:00"
+      },
+      "turn_3": {
+        "bidder": "744186b88f0b4fa281ba0037ec572ca3",
+        "time": "2015-12-16T11:19:47.008787+00:00"
+      },
+      "turn_1": {
+        "amount": 2815.0,
+        "bid_time": "2015-12-16T13:14:08.720989+02:00",
+        "bidder": "dbe22804c1974147b8a844fc2c672154",
+        "time": "2015-12-16T11:15:47.023285+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2450.0,
+        "bid_time": "2015-12-16T13:24:05.462354+02:00",
+        "bidder": "dbe22804c1974147b8a844fc2c672154",
+        "time": "2015-12-16T11:25:47.008532+00:00"
+      },
+      "turn_3": {
+        "amount": 2300.0,
+        "bid_time": "2015-12-16T13:26:21.209215+02:00",
+        "bidder": "744186b88f0b4fa281ba0037ec572ca3",
+        "time": "2015-12-16T11:27:47.009541+00:00"
+      },
+      "turn_1": {
+        "amount": 2400.0,
+        "bid_time": "2015-12-16T13:22:02.538624+02:00",
+        "bidder": "7692be3383c24bfc863a68dbaf3df8ea",
+        "time": "2015-12-16T11:23:47.009668+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2500.0,
+        "bid_time": "2015-12-16T13:08:11.334236+02:00",
+        "bidder": "744186b88f0b4fa281ba0037ec572ca3",
+        "time": "2015-12-16T11:09:47.009802+00:00"
+      },
+      "turn_3": {
+        "amount": 2915.0,
+        "bid_time": "2015-12-16T13:11:03.505267+02:00",
+        "bidder": "dbe22804c1974147b8a844fc2c672154",
+        "time": "2015-12-16T11:11:47.009971+00:00"
+      },
+      "turn_1": {
+        "amount": 2900.0,
+        "bid_time": "2015-12-16T13:06:05.105074+02:00",
+        "bidder": "7692be3383c24bfc863a68dbaf3df8ea",
+        "time": "2015-12-16T11:07:47.009963+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dbe22804c1974147b8a844fc2c672154",
+          "amount": 2450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380966646464",
+                "name": "Владимир",
+                "email": "vbalashov@me.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38203038",
+                "legalName": "ТИСВУД-СЕРВІС"
+              },
+              "name": "ТИСВУД-СЕРВІС",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-16T13:24:05.462354+02:00"
+        },
+        {
+          "bidder": "7692be3383c24bfc863a68dbaf3df8ea",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.contractpol.com.ua",
+                "faxNumber": "+380444943361",
+                "telephone": "+380962030897",
+                "name": "Кривошея Руслан Володимирович",
+                "email": "krv1410@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38891979"
+              },
+              "name": "ТОВ ТОВ «ТБК Атлант»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02166",
+                "region": "Київська область",
+                "streetAddress": "проспект Лісовий 41,кім. 200",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:22:02.538624+02:00"
+        },
+        {
+          "bidder": "744186b88f0b4fa281ba0037ec572ca3",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0443948149",
+                "telephone": "0443948149",
+                "name": "Рибалко Сергій Олександрович",
+                "email": "brigadir-kiev@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32402975",
+                "legalName": "Товариство з обмеженою відповідальністю \"Будкомплект МГ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Будкомплект МГ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "пров. Куренівський, 17-А, оф. 312",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:26:21.209215+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:27:50.036668+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T14:50:37.058014+02:00",
+          "amount": 5040.0,
+          "bidder": "7692be3383c24bfc863a68dbaf3df8ea"
+        },
+        {
+          "date": "2015-12-15T15:46:25.342580+02:00",
+          "amount": 4000.0,
+          "bidder": "744186b88f0b4fa281ba0037ec572ca3"
+        },
+        {
+          "date": "2015-12-15T11:44:01.997004+02:00",
+          "amount": 3015.6,
+          "bidder": "dbe22804c1974147b8a844fc2c672154"
+        }
+      ],
+      "time": "2015-12-16T11:00:47.004715+00:00"
+    }
+  },
+  "id": "acb0f921a7a846ceb47c8d3504f30c76",
+  "tenderId": "UA-2015-12-07-000027"
+}

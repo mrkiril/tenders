@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "27aca9ca83d843d9a2e9e586a120ed61",
+        "time": "2015-08-10T08:15:00.310737+00:00"
+      },
+      "turn_1": {
+        "bidder": "1fab96335404435b9e20a03bf40dffe9",
+        "time": "2015-08-10T08:13:00.114255+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "27aca9ca83d843d9a2e9e586a120ed61",
+        "time": "2015-08-10T08:21:00.232089+00:00"
+      },
+      "turn_1": {
+        "bidder": "1fab96335404435b9e20a03bf40dffe9",
+        "time": "2015-08-10T08:19:00.169420+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1fab96335404435b9e20a03bf40dffe9",
+        "time": "2015-08-10T08:09:00.035156+00:00"
+      },
+      "turn_1": {
+        "amount": 27500.0,
+        "bid_time": "2015-08-10T11:05:21.260444+03:00",
+        "bidder": "27aca9ca83d843d9a2e9e586a120ed61",
+        "time": "2015-08-10T08:07:00.135958+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1fab96335404435b9e20a03bf40dffe9",
+          "amount": 28195.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-08-07T12:02:11.944234+03:00"
+        },
+        {
+          "bidder": "27aca9ca83d843d9a2e9e586a120ed61",
+          "amount": 27500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-08-10T11:05:21.260444+03:00"
+        }
+      ],
+      "time": "2015-08-10T08:21:03.124349+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-03T13:44:03.263882+03:00",
+          "amount": 31715.52,
+          "bidder": "27aca9ca83d843d9a2e9e586a120ed61"
+        },
+        {
+          "date": "2015-08-07T12:02:11.944234+03:00",
+          "amount": 28195.2,
+          "bidder": "1fab96335404435b9e20a03bf40dffe9"
+        }
+      ],
+      "time": "2015-08-10T08:00:00.004922+00:00"
+    }
+  },
+  "id": "40037e55b7d94d74bd3536a90a8a37e6",
+  "tenderId": "UA-2015-07-27-000024"
+}

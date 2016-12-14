@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f5ad86317d6d4860bfbeebdb85e614a6",
+        "time": "2015-08-03T08:15:00.209014+00:00"
+      },
+      "turn_1": {
+        "bidder": "51dbeb3464de4b48945b5c5ac19fe70a",
+        "time": "2015-08-03T08:13:00.086081+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f5ad86317d6d4860bfbeebdb85e614a6",
+        "time": "2015-08-03T08:21:00.039784+00:00"
+      },
+      "turn_1": {
+        "bidder": "51dbeb3464de4b48945b5c5ac19fe70a",
+        "time": "2015-08-03T08:19:00.206497+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f5ad86317d6d4860bfbeebdb85e614a6",
+        "time": "2015-08-03T08:09:00.096254+00:00"
+      },
+      "turn_1": {
+        "bidder": "51dbeb3464de4b48945b5c5ac19fe70a",
+        "time": "2015-08-03T08:07:00.050484+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "51dbeb3464de4b48945b5c5ac19fe70a",
+          "amount": 178200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://patronservice.ua/",
+                "faxNumber": "0443790403",
+                "telephone": "0443790402",
+                "name": "Руденко Наталія Євгенівна",
+                "email": "Natalya.Rudenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "Товариство з обмеженою відповідальністю \"В.М.\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"В.М.\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01010",
+                "region": "Київська",
+                "streetAddress": "вул. Івана Мазепи, 4/6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T15:52:34.622179+03:00"
+        },
+        {
+          "bidder": "f5ad86317d6d4860bfbeebdb85e614a6",
+          "amount": 178049.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T11:13:30.245218+03:00"
+        }
+      ],
+      "time": "2015-08-03T08:21:09.892572+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T15:52:34.622179+03:00",
+          "amount": 178200.0,
+          "bidder": "51dbeb3464de4b48945b5c5ac19fe70a"
+        },
+        {
+          "date": "2015-07-31T11:13:30.245218+03:00",
+          "amount": 178049.0,
+          "bidder": "f5ad86317d6d4860bfbeebdb85e614a6"
+        }
+      ],
+      "time": "2015-08-03T08:00:00.003929+00:00"
+    }
+  },
+  "id": "1b0f38001f2941e0a5dfb23cc0b927df",
+  "tenderId": "UA-2015-07-23-000008"
+}

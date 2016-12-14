@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "03a5e84f1eb7489aa6680ae9558b0cdf",
+        "time": "2015-08-14T10:45:00.016981+00:00"
+      },
+      "turn_1": {
+        "bidder": "66b3c7f582d04b81a1b40c9445323f57",
+        "time": "2015-08-14T10:43:00.004910+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "03a5e84f1eb7489aa6680ae9558b0cdf",
+        "time": "2015-08-14T10:51:00.007468+00:00"
+      },
+      "turn_1": {
+        "bidder": "66b3c7f582d04b81a1b40c9445323f57",
+        "time": "2015-08-14T10:49:00.007500+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "03a5e84f1eb7489aa6680ae9558b0cdf",
+        "time": "2015-08-14T10:39:00.006607+00:00"
+      },
+      "turn_1": {
+        "amount": 199152.0,
+        "bid_time": "2015-08-14T13:36:30.996219+03:00",
+        "bidder": "66b3c7f582d04b81a1b40c9445323f57",
+        "time": "2015-08-14T10:37:00.006810+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "66b3c7f582d04b81a1b40c9445323f57",
+          "amount": 199152.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504610114",
+                "name": "Валерій Захарчук",
+                "email": "valera@polimer.vn.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23058539",
+                "legalName": "ТОВ \"Полімер\""
+              },
+              "name": "ТОВ \"Полімер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "21034",
+                "region": "Виницкая",
+                "streetAddress": "м.Вінниця, вул.Карла Маркса,50",
+                "locality": "Винница"
+              }
+            }
+          ],
+          "time": "2015-08-14T13:36:30.996219+03:00"
+        },
+        {
+          "bidder": "03a5e84f1eb7489aa6680ae9558b0cdf",
+          "amount": 198687.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют-центр ООО",
+                "email": "elena.ooo.debut@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "Дебют-центр ООО"
+              },
+              "name": "Дебют-центр ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08290, Киевская обл., г. Ирпень, пгт Гостомель, ул. Чапаева, 1-О",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-13T10:19:25.637262+03:00"
+        }
+      ],
+      "time": "2015-08-14T10:51:10.165193+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-11T14:46:10.604433+03:00",
+          "amount": 200160.0,
+          "bidder": "66b3c7f582d04b81a1b40c9445323f57"
+        },
+        {
+          "date": "2015-08-13T10:19:25.637262+03:00",
+          "amount": 198687.1,
+          "bidder": "03a5e84f1eb7489aa6680ae9558b0cdf"
+        }
+      ],
+      "time": "2015-08-14T10:30:00.001838+00:00"
+    }
+  },
+  "id": "20590a0ea26444dcb764b7a93bb566ab",
+  "tenderId": "UA-2015-08-05-000043"
+}

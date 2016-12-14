@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 900.0,
+        "bid_time": "2015-10-28T13:26:32.378791+02:00",
+        "bidder": "e6f3de8b22ae4fafb5add7d731d120bd",
+        "time": "2015-10-28T11:28:22.006683+00:00"
+      },
+      "turn_3": {
+        "amount": 899.0,
+        "bid_time": "2015-10-28T13:29:37.536858+02:00",
+        "bidder": "e484c5b49af34b41a5df0bbd0c170659",
+        "time": "2015-10-28T11:30:22.008561+00:00"
+      },
+      "turn_1": {
+        "bidder": "03fa877a4e544a8993109fc8073e8fb0",
+        "time": "2015-10-28T11:26:22.006461+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 780.0,
+        "bid_time": "2015-10-28T13:34:38.342971+02:00",
+        "bidder": "e6f3de8b22ae4fafb5add7d731d120bd",
+        "time": "2015-10-28T11:36:22.007601+00:00"
+      },
+      "turn_3": {
+        "amount": 775.0,
+        "bid_time": "2015-10-28T13:37:48.331587+02:00",
+        "bidder": "e484c5b49af34b41a5df0bbd0c170659",
+        "time": "2015-10-28T11:38:22.007705+00:00"
+      },
+      "turn_1": {
+        "bidder": "03fa877a4e544a8993109fc8073e8fb0",
+        "time": "2015-10-28T11:34:22.005711+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "03fa877a4e544a8993109fc8073e8fb0",
+        "time": "2015-10-28T11:20:22.007246+00:00"
+      },
+      "turn_3": {
+        "amount": 960.0,
+        "bid_time": "2015-10-28T13:21:10.200375+02:00",
+        "bidder": "e484c5b49af34b41a5df0bbd0c170659",
+        "time": "2015-10-28T11:22:22.008092+00:00"
+      },
+      "turn_1": {
+        "amount": 970.0,
+        "bid_time": "2015-10-28T13:16:29.575858+02:00",
+        "bidder": "e6f3de8b22ae4fafb5add7d731d120bd",
+        "time": "2015-10-28T11:18:22.008714+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03fa877a4e544a8993109fc8073e8fb0",
+          "amount": 987.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-24T03:10:31.692201+03:00"
+        },
+        {
+          "bidder": "e6f3de8b22ae4fafb5add7d731d120bd",
+          "amount": 780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380566688465",
+                "name": "Василенко Геннадій Вікторович",
+                "email": "genvikvasilenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2426506275"
+              },
+              "name": "ФОП Василенко Геннадій Вікторович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53213",
+                "region": "Дніпропетровська область",
+                "streetAddress": "м. Нікополь, пр. Трубників , буд.36 кв. 5",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-10-28T13:34:38.342971+02:00"
+        },
+        {
+          "bidder": "e484c5b49af34b41a5df0bbd0c170659",
+          "amount": 775.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380566232520",
+                "name": "Жмурський Сергй Петрович",
+                "email": "sp-gmur@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3147421332"
+              },
+              "name": "ФОП Жмурський Д.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53200",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул.Шевченка, 185, кв.3",
+                "locality": "місто Нікополь"
+              }
+            }
+          ],
+          "time": "2015-10-28T13:37:48.331587+02:00"
+        }
+      ],
+      "time": "2015-10-28T11:38:25.419755+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T16:17:33.564921+03:00",
+          "amount": 997.8,
+          "bidder": "e6f3de8b22ae4fafb5add7d731d120bd"
+        },
+        {
+          "date": "2015-10-24T03:10:31.692201+03:00",
+          "amount": 987.0,
+          "bidder": "03fa877a4e544a8993109fc8073e8fb0"
+        },
+        {
+          "date": "2015-10-22T16:13:16.763972+03:00",
+          "amount": 980.0,
+          "bidder": "e484c5b49af34b41a5df0bbd0c170659"
+        }
+      ],
+      "time": "2015-10-28T11:11:22.003076+00:00"
+    }
+  },
+  "id": "11db1ee5dc0c40ac9dcf3bb3358898b0",
+  "tenderId": "UA-2015-10-19-000322"
+}

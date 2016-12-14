@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b21cf9fc9a9a428fa1d2bf265657e0a8",
+        "time": "2015-11-18T12:29:08.008730+00:00"
+      },
+      "turn_1": {
+        "bidder": "e4b6d651c3b24379b735884c2def4887",
+        "time": "2015-11-18T12:27:08.037002+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b21cf9fc9a9a428fa1d2bf265657e0a8",
+        "time": "2015-11-18T12:35:08.007792+00:00"
+      },
+      "turn_1": {
+        "bidder": "e4b6d651c3b24379b735884c2def4887",
+        "time": "2015-11-18T12:33:08.006760+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b21cf9fc9a9a428fa1d2bf265657e0a8",
+        "time": "2015-11-18T12:23:08.010490+00:00"
+      },
+      "turn_1": {
+        "bidder": "e4b6d651c3b24379b735884c2def4887",
+        "time": "2015-11-18T12:21:08.009940+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e4b6d651c3b24379b735884c2def4887",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.annapurna.com.ua",
+                "telephone": "093-321-35-19",
+                "name": "Захматова Ганна Олексіївна",
+                "email": "hz@annapurna.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39268625",
+                "legalName": "Товариство з обмеженою відповідальністю \"Аннапурна технолоджи\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Аннапурна технолоджи\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04053",
+                "region": "Київська",
+                "streetAddress": "Артема, 21",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T12:41:44.740638+02:00"
+        },
+        {
+          "bidder": "b21cf9fc9a9a428fa1d2bf265657e0a8",
+          "amount": 2384.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-16T20:15:50.996898+02:00"
+        }
+      ],
+      "time": "2015-11-18T12:35:10.500517+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T12:41:44.740638+02:00",
+          "amount": 2600.0,
+          "bidder": "e4b6d651c3b24379b735884c2def4887"
+        },
+        {
+          "date": "2015-11-16T20:15:50.996898+02:00",
+          "amount": 2384.0,
+          "bidder": "b21cf9fc9a9a428fa1d2bf265657e0a8"
+        }
+      ],
+      "time": "2015-11-18T12:14:08.003443+00:00"
+    }
+  },
+  "id": "2c4cc6859f424b2cb782ab58e1aeea0b",
+  "tenderId": "UA-2015-11-12-000125"
+}

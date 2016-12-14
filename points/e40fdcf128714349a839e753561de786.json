@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "09e2eb868eff40ccbd8b91d394c70bba",
+        "time": "2015-10-29T09:47:13.008537+00:00"
+      },
+      "turn_1": {
+        "bidder": "8bb09113efff473caaf9a76c28d6afde",
+        "time": "2015-10-29T09:45:13.009375+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "09e2eb868eff40ccbd8b91d394c70bba",
+        "time": "2015-10-29T09:53:13.009268+00:00"
+      },
+      "turn_1": {
+        "bidder": "8bb09113efff473caaf9a76c28d6afde",
+        "time": "2015-10-29T09:51:13.007616+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "09e2eb868eff40ccbd8b91d394c70bba",
+        "time": "2015-10-29T09:41:13.013561+00:00"
+      },
+      "turn_1": {
+        "bidder": "8bb09113efff473caaf9a76c28d6afde",
+        "time": "2015-10-29T09:39:13.014027+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8bb09113efff473caaf9a76c28d6afde",
+          "amount": 2450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502987253",
+                "name": "ООО \"Промішленные масла-Восток\"",
+                "email": "Parshyn.OY@ioi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38025126",
+                "legalName": "ООО \"Промішленные масла-Восток\""
+              },
+              "name": "ООО \"Промішленные масла-Восток\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69013 Запорізька обл., м. Запоріжжя, Шевченківський район, \r\nвул. Стартова, буд. 3-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T13:21:33.658645+02:00"
+        },
+        {
+          "bidder": "09e2eb868eff40ccbd8b91d394c70bba",
+          "amount": 2317.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.istok-avto.com.ua",
+                "faxNumber": "+380574473726",
+                "telephone": "+380660540829",
+                "name": "Глєбов Володимир Миколайович",
+                "email": "glebov_v@istok-avto.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36456783"
+              },
+              "name": "ТОВ \"Істок-Автозапчастина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61052",
+                "region": "Харківська область",
+                "streetAddress": "вул. Слов'янська, буд. 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-10-26T14:40:28.881299+02:00"
+        }
+      ],
+      "time": "2015-10-29T09:53:14.138495+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T13:21:33.658645+02:00",
+          "amount": 2450.0,
+          "bidder": "8bb09113efff473caaf9a76c28d6afde"
+        },
+        {
+          "date": "2015-10-26T14:40:28.881299+02:00",
+          "amount": 2317.2,
+          "bidder": "09e2eb868eff40ccbd8b91d394c70bba"
+        }
+      ],
+      "time": "2015-10-29T09:32:13.004435+00:00"
+    }
+  },
+  "id": "e40fdcf128714349a839e753561de786",
+  "tenderId": "UA-2015-10-23-000217"
+}

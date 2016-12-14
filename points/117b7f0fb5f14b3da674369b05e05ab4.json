@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "586bfd075fb6496b892b3e4f86d24fce",
+        "time": "2015-11-24T09:26:02.008367+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b1b237e8ed8474d988f86ed9963626c",
+        "time": "2015-11-24T09:24:02.007893+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "586bfd075fb6496b892b3e4f86d24fce",
+        "time": "2015-11-24T09:32:02.007935+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b1b237e8ed8474d988f86ed9963626c",
+        "time": "2015-11-24T09:30:02.010979+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "586bfd075fb6496b892b3e4f86d24fce",
+        "time": "2015-11-24T09:20:02.009142+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b1b237e8ed8474d988f86ed9963626c",
+        "time": "2015-11-24T09:18:02.008663+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6b1b237e8ed8474d988f86ed9963626c",
+          "amount": 1950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://znannia.com.ua",
+                "faxNumber": "0445811567",
+                "telephone": "0445811567",
+                "name": "Бурдига Петро Констянтинович",
+                "email": "duzhyk@society.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36593041",
+                "legalName": "ТОВ Всеукраїнське спеціалізоване видавництво \"Медицина\""
+              },
+              "name": "ТОВ Всеукраїнське спеціалізоване видавництво \"Медицина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська",
+                "streetAddress": "Стрілецька, 28",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T09:18:56.884542+02:00"
+        },
+        {
+          "bidder": "586bfd075fb6496b892b3e4f86d24fce",
+          "amount": 1920.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567883404",
+                "name": "Фізична особа-підприємець Ніколаєв В.В",
+                "email": "igordpr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1409406871",
+                "legalName": "Фізична особа-підприємець Ніколаєв В.В"
+              },
+              "name": "Фізична особа-підприємець Ніколаєв В.В",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Верхньодніпровськ, вул. Щорса 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T16:35:23.337562+02:00"
+        }
+      ],
+      "time": "2015-11-24T09:32:03.172663+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T09:18:56.884542+02:00",
+          "amount": 1950.0,
+          "bidder": "6b1b237e8ed8474d988f86ed9963626c"
+        },
+        {
+          "date": "2015-11-23T16:35:23.337562+02:00",
+          "amount": 1920.0,
+          "bidder": "586bfd075fb6496b892b3e4f86d24fce"
+        }
+      ],
+      "time": "2015-11-24T09:11:02.003922+00:00"
+    }
+  },
+  "id": "117b7f0fb5f14b3da674369b05e05ab4",
+  "tenderId": "UA-2015-11-19-000111-a"
+}

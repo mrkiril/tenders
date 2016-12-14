@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1100000.0,
+        "bid_time": "2015-11-23T14:17:48.141412+02:00",
+        "bidder": "c965821a92f643f2a204b7da6d69e645",
+        "time": "2015-11-23T12:18:53.009528+00:00"
+      },
+      "turn_3": {
+        "bidder": "58ebb5aa9474431bb79a8a01ec64e6ce",
+        "time": "2015-11-23T12:20:53.007859+00:00"
+      },
+      "turn_1": {
+        "amount": 1029109.0,
+        "bid_time": "2015-11-23T14:16:12.496032+02:00",
+        "bidder": "98bca0f915d243e18925b4d4fda330f0",
+        "time": "2015-11-23T12:16:53.008237+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "98bca0f915d243e18925b4d4fda330f0",
+        "time": "2015-11-23T12:26:53.028562+00:00"
+      },
+      "turn_3": {
+        "bidder": "58ebb5aa9474431bb79a8a01ec64e6ce",
+        "time": "2015-11-23T12:28:53.008652+00:00"
+      },
+      "turn_1": {
+        "amount": 1060635.0,
+        "bid_time": "2015-11-23T14:23:48.054773+02:00",
+        "bidder": "c965821a92f643f2a204b7da6d69e645",
+        "time": "2015-11-23T12:24:53.009312+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1150000.0,
+        "bid_time": "2015-11-23T14:10:26.745074+02:00",
+        "bidder": "98bca0f915d243e18925b4d4fda330f0",
+        "time": "2015-11-23T12:10:53.011466+00:00"
+      },
+      "turn_3": {
+        "amount": 1141847.0,
+        "bid_time": "2015-11-23T14:12:47.537448+02:00",
+        "bidder": "c965821a92f643f2a204b7da6d69e645",
+        "time": "2015-11-23T12:12:53.010056+00:00"
+      },
+      "turn_1": {
+        "amount": 127045.0,
+        "bid_time": "2015-11-23T14:08:52.285668+02:00",
+        "bidder": "58ebb5aa9474431bb79a8a01ec64e6ce",
+        "time": "2015-11-23T12:08:53.010237+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c965821a92f643f2a204b7da6d69e645",
+          "amount": 1060635.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567339600",
+                "name": "ООО \"ПКФ \"Промтехнология\"",
+                "email": "smaksmpa@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34682574",
+                "legalName": "ООО \"ПКФ \"Промтехнология\""
+              },
+              "name": "ООО \"ПКФ \"Промтехнология\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, Днепропетровская область, Днепропетровск, 49024, ул. Гринченка, 54",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T14:23:48.054773+02:00"
+        },
+        {
+          "bidder": "98bca0f915d243e18925b4d4fda330f0",
+          "amount": 1029109.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dpin.com.ua",
+                "telephone": "+380675655441",
+                "name": "ООО \"Днепр-Инструмент\"",
+                "email": "kd@dpin.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30536572",
+                "legalName": "ООО \"Днепр-Инструмент\""
+              },
+              "name": "ООО \"Днепр-Инструмент\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "51931, г. Днепродзержинск, ул. Республиканская, д. 9А, кім.315",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T14:16:12.496032+02:00"
+        },
+        {
+          "bidder": "58ebb5aa9474431bb79a8a01ec64e6ce",
+          "amount": 127045.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503120699",
+                "name": "Климчук Ірина",
+                "email": "slv@lenker.pro"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32414514",
+                "legalName": "ПП Інтер Плюс"
+              },
+              "name": "ПП Інтер Плюс",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T14:08:52.285668+02:00"
+        }
+      ],
+      "time": "2015-11-23T12:28:55.956427+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-20T09:42:22.720035+02:00",
+          "amount": 1269742.0,
+          "bidder": "58ebb5aa9474431bb79a8a01ec64e6ce"
+        },
+        {
+          "date": "2015-11-18T16:38:13.772974+02:00",
+          "amount": 1269741.6,
+          "bidder": "98bca0f915d243e18925b4d4fda330f0"
+        },
+        {
+          "date": "2015-11-19T16:25:31.394864+02:00",
+          "amount": 1154544.0,
+          "bidder": "c965821a92f643f2a204b7da6d69e645"
+        }
+      ],
+      "time": "2015-11-23T12:01:53.004403+00:00"
+    }
+  },
+  "id": "fba7fb3989274bc6b54e1d94ef72d916",
+  "tenderId": "UA-2015-11-13-000077-a"
+}

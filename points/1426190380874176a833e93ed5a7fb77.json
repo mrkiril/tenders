@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6b23c0baaa3344aea28268fb4dfa4e11",
+        "time": "2015-03-19T09:17:00.109608+00:00"
+      },
+      "turn_3": {
+        "bidder": "06623fd18c3c45dbb7ebf7bf07bc692b",
+        "time": "2015-03-19T09:19:00.068319+00:00"
+      },
+      "turn_1": {
+        "bidder": "73d69a4c5d8346f7890167c5558d66f8",
+        "time": "2015-03-19T09:15:00.070854+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6b23c0baaa3344aea28268fb4dfa4e11",
+        "time": "2015-03-19T09:25:00.063730+00:00"
+      },
+      "turn_3": {
+        "bidder": "06623fd18c3c45dbb7ebf7bf07bc692b",
+        "time": "2015-03-19T09:27:00.052653+00:00"
+      },
+      "turn_1": {
+        "amount": 64750.0,
+        "bid_time": "2015-03-19T11:21:17.447021+02:00",
+        "bidder": "73d69a4c5d8346f7890167c5558d66f8",
+        "time": "2015-03-19T09:23:00.022418+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 65800.0,
+        "bid_time": "2015-03-19T11:08:59.791689+02:00",
+        "bidder": "6b23c0baaa3344aea28268fb4dfa4e11",
+        "time": "2015-03-19T09:09:00.097313+00:00"
+      },
+      "turn_3": {
+        "amount": 65472.0,
+        "bid_time": "2015-03-19T11:10:05.661298+02:00",
+        "bidder": "06623fd18c3c45dbb7ebf7bf07bc692b",
+        "time": "2015-03-19T09:11:00.070208+00:00"
+      },
+      "turn_1": {
+        "bidder": "73d69a4c5d8346f7890167c5558d66f8",
+        "time": "2015-03-19T09:07:00.126048+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6b23c0baaa3344aea28268fb4dfa4e11",
+          "amount": 65800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.komplektuha.com.ua/",
+                "telephone": "+380577802541",
+                "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+                "email": "zakaz@komplektuha.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39260516",
+                "legalName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\""
+              },
+              "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61070, г. Харьков, пер. Электроинструментальный, д. 6А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-19T11:08:59.791689+02:00"
+        },
+        {
+          "bidder": "06623fd18c3c45dbb7ebf7bf07bc692b",
+          "amount": 65472.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.electech.com.ua",
+                "faxNumber": "0444512765",
+                "telephone": "0444512802",
+                "name": "Мале Приватне Підприємство \"ЕлекТех\"",
+                "email": "acord@electech.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19487312",
+                "legalName": "Мале Приватне Підприємство \"ЕлекТех\""
+              },
+              "name": "Мале Приватне Підприємство \"ЕлекТех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03115",
+                "region": "Київська",
+                "streetAddress": "Верховинна 6А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-03-19T11:10:05.661298+02:00"
+        },
+        {
+          "bidder": "73d69a4c5d8346f7890167c5558d66f8",
+          "amount": 64750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://it-escort.com.ua",
+                "faxNumber": "454-14-50",
+                "telephone": "454-14-50",
+                "name": "Товариство з обмеженною відповідальністю \"IT Ескорт\"",
+                "email": "o.fedorov@it-escort.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36857810",
+                "legalName": "Товариство з обмеженною відповідальністю \"IT Ескорт\""
+              },
+              "name": "Товариство з обмеженною відповідальністю \"IT Ескорт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04112",
+                "region": "Київська",
+                "streetAddress": "Т.Шамрила 12В, оф.62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-03-19T11:21:17.447021+02:00"
+        }
+      ],
+      "time": "2015-03-19T09:27:01.780217+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-17T13:57:19.113999+02:00",
+          "amount": 66240.0,
+          "bidder": "73d69a4c5d8346f7890167c5558d66f8"
+        },
+        {
+          "date": "2015-03-18T19:40:43.108071+02:00",
+          "amount": 66240.0,
+          "bidder": "6b23c0baaa3344aea28268fb4dfa4e11"
+        },
+        {
+          "date": "2015-03-18T15:47:03.905547+02:00",
+          "amount": 66067.0,
+          "bidder": "06623fd18c3c45dbb7ebf7bf07bc692b"
+        }
+      ],
+      "time": "2015-03-19T09:00:00.018981+00:00"
+    }
+  },
+  "id": "1426190380874176a833e93ed5a7fb77",
+  "tenderId": "UA-2015-03-12-000001"
+}

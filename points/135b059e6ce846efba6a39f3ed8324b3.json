@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 30700.0,
+        "bid_time": "2015-07-14T11:16:09.167049+03:00",
+        "bidder": "9bdd1cf2773047cdbdc92d74833b9e0d",
+        "time": "2015-07-14T08:17:00.029076+00:00"
+      },
+      "turn_3": {
+        "amount": 30686.0,
+        "bid_time": "2015-07-14T11:18:15.627294+03:00",
+        "bidder": "4b23d9c55dab4a28867aaaf93d90b09e",
+        "time": "2015-07-14T08:19:00.045150+00:00"
+      },
+      "turn_1": {
+        "bidder": "1da195cea5124e19a32e601d27e6c964",
+        "time": "2015-07-14T08:15:00.065343+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 29626.0,
+        "bid_time": "2015-07-14T11:23:48.949517+03:00",
+        "bidder": "9bdd1cf2773047cdbdc92d74833b9e0d",
+        "time": "2015-07-14T08:25:00.026878+00:00"
+      },
+      "turn_3": {
+        "bidder": "4b23d9c55dab4a28867aaaf93d90b09e",
+        "time": "2015-07-14T08:27:00.062328+00:00"
+      },
+      "turn_1": {
+        "amount": 29627.0,
+        "bid_time": "2015-07-14T11:22:10.986241+03:00",
+        "bidder": "1da195cea5124e19a32e601d27e6c964",
+        "time": "2015-07-14T08:23:00.029903+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 31300.0,
+        "bid_time": "2015-07-14T11:07:41.499909+03:00",
+        "bidder": "9bdd1cf2773047cdbdc92d74833b9e0d",
+        "time": "2015-07-14T08:09:00.066804+00:00"
+      },
+      "turn_3": {
+        "amount": 31282.0,
+        "bid_time": "2015-07-14T11:10:06.930152+03:00",
+        "bidder": "4b23d9c55dab4a28867aaaf93d90b09e",
+        "time": "2015-07-14T08:11:00.032825+00:00"
+      },
+      "turn_1": {
+        "bidder": "1da195cea5124e19a32e601d27e6c964",
+        "time": "2015-07-14T08:07:00.025616+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4b23d9c55dab4a28867aaaf93d90b09e",
+          "amount": 30686.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33 872 747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-07-14T11:18:15.627294+03:00"
+        },
+        {
+          "bidder": "1da195cea5124e19a32e601d27e6c964",
+          "amount": 29627.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-07-14T11:22:10.986241+03:00"
+        },
+        {
+          "bidder": "9bdd1cf2773047cdbdc92d74833b9e0d",
+          "amount": 29626.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0681161996",
+                "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+                "email": "prompostavkaltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39084219",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54038",
+                "region": "Миколаївська",
+                "streetAddress": "вулиця Морехідна, буд. 1-В/3, кв. 111",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T11:23:48.949517+03:00"
+        }
+      ],
+      "time": "2015-07-14T08:27:02.503743+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-14T09:23:40.951325+03:00",
+          "amount": 33749.29,
+          "bidder": "1da195cea5124e19a32e601d27e6c964"
+        },
+        {
+          "date": "2015-07-09T14:42:51.092083+03:00",
+          "amount": 32340.0,
+          "bidder": "9bdd1cf2773047cdbdc92d74833b9e0d"
+        },
+        {
+          "date": "2015-07-14T08:51:38.250570+03:00",
+          "amount": 31832.04,
+          "bidder": "4b23d9c55dab4a28867aaaf93d90b09e"
+        }
+      ],
+      "time": "2015-07-14T08:00:00.007988+00:00"
+    }
+  },
+  "id": "135b059e6ce846efba6a39f3ed8324b3",
+  "tenderId": "UA-2015-07-09-000037"
+}

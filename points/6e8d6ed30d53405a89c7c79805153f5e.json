@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 32950.0,
+        "bid_time": "2015-12-07T12:17:10.954003+02:00",
+        "bidder": "c8a585ff3dbc4d3e9291ceb3a4a0576d",
+        "time": "2015-12-07T10:18:14.010894+00:00"
+      },
+      "turn_3": {
+        "amount": 32854.0,
+        "bid_time": "2015-12-07T12:19:34.021330+02:00",
+        "bidder": "19684b6a93484e42925c7d2bb6432405",
+        "time": "2015-12-07T10:20:14.011912+00:00"
+      },
+      "turn_1": {
+        "amount": 32951.0,
+        "bid_time": "2015-12-07T12:15:08.022509+02:00",
+        "bidder": "5e28ad89b4b34ae4b2b353ccfd533bb7",
+        "time": "2015-12-07T10:16:14.010684+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c8a585ff3dbc4d3e9291ceb3a4a0576d",
+        "time": "2015-12-07T10:26:14.010142+00:00"
+      },
+      "turn_3": {
+        "amount": 31790.0,
+        "bid_time": "2015-12-07T12:27:39.733559+02:00",
+        "bidder": "19684b6a93484e42925c7d2bb6432405",
+        "time": "2015-12-07T10:28:14.010846+00:00"
+      },
+      "turn_1": {
+        "amount": 31800.0,
+        "bid_time": "2015-12-07T12:22:24.404290+02:00",
+        "bidder": "5e28ad89b4b34ae4b2b353ccfd533bb7",
+        "time": "2015-12-07T10:24:14.011516+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5e28ad89b4b34ae4b2b353ccfd533bb7",
+        "time": "2015-12-07T10:10:14.009766+00:00"
+      },
+      "turn_3": {
+        "amount": 33054.0,
+        "bid_time": "2015-12-07T12:12:05.073433+02:00",
+        "bidder": "19684b6a93484e42925c7d2bb6432405",
+        "time": "2015-12-07T10:12:14.012507+00:00"
+      },
+      "turn_1": {
+        "amount": 33254.0,
+        "bid_time": "2015-12-07T12:06:33.293369+02:00",
+        "bidder": "c8a585ff3dbc4d3e9291ceb3a4a0576d",
+        "time": "2015-12-07T10:08:14.012368+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c8a585ff3dbc4d3e9291ceb3a4a0576d",
+          "amount": 32950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.karcher.ua",
+                "telephone": "+380445947500",
+                "name": "ТОВ «КЕРХЕР»",
+                "email": "ruslan.klimenko@ua.kaercher.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34003237",
+                "legalName": "ТОВ «КЕРХЕР»"
+              },
+              "name": "ТОВ «КЕРХЕР»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01054, м. Київ, \r\nвул. Воровського,33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-07T12:17:10.954003+02:00"
+        },
+        {
+          "bidder": "5e28ad89b4b34ae4b2b353ccfd533bb7",
+          "amount": 31800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675198251",
+                "name": "Виктор Пискунов",
+                "email": "piskunov_viktor@inter-aktiv.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39078467",
+                "legalName": "ТОВ \"Ювента Групп\""
+              },
+              "name": "ТОВ \"Ювента Групп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65012",
+                "region": "Одесская",
+                "streetAddress": "ул.Большая Арнаутская, 49",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:22:24.404290+02:00"
+        },
+        {
+          "bidder": "19684b6a93484e42925c7d2bb6432405",
+          "amount": 31790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674821460",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЮВЕНТА-СЕВЕР\"",
+                "email": "antonets@yuventa.kharkov.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35587849",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЮВЕНТА-СЕВЕР\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЮВЕНТА-СЕВЕР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61001, Харківська обл., місто Харків, ПРОСПЕКТ ГАГАРІНА, будинок 41/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-07T12:27:39.733559+02:00"
+        }
+      ],
+      "time": "2015-12-07T10:28:15.592603+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T17:54:20.557188+02:00",
+          "amount": 33551.81,
+          "bidder": "c8a585ff3dbc4d3e9291ceb3a4a0576d"
+        },
+        {
+          "date": "2015-12-01T16:42:51.278729+02:00",
+          "amount": 33551.8,
+          "bidder": "5e28ad89b4b34ae4b2b353ccfd533bb7"
+        },
+        {
+          "date": "2015-11-30T17:05:05.941757+02:00",
+          "amount": 33254.93,
+          "bidder": "19684b6a93484e42925c7d2bb6432405"
+        }
+      ],
+      "time": "2015-12-07T10:01:14.004694+00:00"
+    }
+  },
+  "id": "6e8d6ed30d53405a89c7c79805153f5e",
+  "tenderId": "UA-2015-11-24-000093-b"
+}

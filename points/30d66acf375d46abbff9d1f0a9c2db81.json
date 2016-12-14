@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "63ae3319fad648599ed85a9729bc4fcc",
+        "time": "2015-12-17T12:49:56.009030+00:00"
+      },
+      "turn_1": {
+        "amount": 998.0,
+        "bid_time": "2015-12-17T14:46:02.967302+02:00",
+        "bidder": "c5dfdfe83a114b209ad8b5160114c782",
+        "time": "2015-12-17T12:47:56.009583+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c5dfdfe83a114b209ad8b5160114c782",
+        "time": "2015-12-17T12:55:56.008238+00:00"
+      },
+      "turn_1": {
+        "bidder": "63ae3319fad648599ed85a9729bc4fcc",
+        "time": "2015-12-17T12:53:56.027926+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 999.0,
+        "bid_time": "2015-12-17T14:43:03.971084+02:00",
+        "bidder": "63ae3319fad648599ed85a9729bc4fcc",
+        "time": "2015-12-17T12:43:56.010205+00:00"
+      },
+      "turn_1": {
+        "amount": 1008.0,
+        "bid_time": "2015-12-17T14:40:52.901672+02:00",
+        "bidder": "c5dfdfe83a114b209ad8b5160114c782",
+        "time": "2015-12-17T12:41:56.009882+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "63ae3319fad648599ed85a9729bc4fcc",
+          "amount": 999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445000506, +380443538817, +380443538815, +380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:43:03.971084+02:00"
+        },
+        {
+          "bidder": "c5dfdfe83a114b209ad8b5160114c782",
+          "amount": 998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445361175",
+                "name": "Марія",
+                "email": "podpiska1@prescentr.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ПресЦентр Київ\"",
+                "id": "34809613",
+                "uri": "http://www.prescentr.kiev.ua/"
+              },
+              "name": "ТОВ \"ПресЦентр Київ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03150",
+                "region": "Киевская",
+                "streetAddress": "м. Київ",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:46:02.967302+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:55:56.690141+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T10:49:30.823784+02:00",
+          "amount": 1048.95,
+          "bidder": "c5dfdfe83a114b209ad8b5160114c782"
+        },
+        {
+          "date": "2015-12-15T14:57:23.271754+02:00",
+          "amount": 1009.0,
+          "bidder": "63ae3319fad648599ed85a9729bc4fcc"
+        }
+      ],
+      "time": "2015-12-17T12:34:56.004614+00:00"
+    }
+  },
+  "id": "30d66acf375d46abbff9d1f0a9c2db81",
+  "tenderId": "UA-2015-12-09-000036-b"
+}

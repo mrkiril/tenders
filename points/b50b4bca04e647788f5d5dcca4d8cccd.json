@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 28513.0,
+        "bid_time": "2015-10-09T12:13:35.385539+03:00",
+        "bidder": "70799c47a56b4cddb50a7a3be3792da4",
+        "time": "2015-10-09T09:15:12.010799+00:00"
+      },
+      "turn_1": {
+        "amount": 28774.0,
+        "bid_time": "2015-10-09T12:12:22.823197+03:00",
+        "bidder": "cbb6f8bbe49243faa33e414a5eecd057",
+        "time": "2015-10-09T09:13:12.015041+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "70799c47a56b4cddb50a7a3be3792da4",
+        "time": "2015-10-09T09:21:12.006810+00:00"
+      },
+      "turn_1": {
+        "bidder": "cbb6f8bbe49243faa33e414a5eecd057",
+        "time": "2015-10-09T09:19:12.007545+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "70799c47a56b4cddb50a7a3be3792da4",
+        "time": "2015-10-09T09:09:12.010653+00:00"
+      },
+      "turn_1": {
+        "amount": 29774.0,
+        "bid_time": "2015-10-09T12:07:05.757099+03:00",
+        "bidder": "cbb6f8bbe49243faa33e414a5eecd057",
+        "time": "2015-10-09T09:07:12.011680+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cbb6f8bbe49243faa33e414a5eecd057",
+          "amount": 28774.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672841677",
+                "name": "Фёдор Юрьевич",
+                "email": "kaskad_2012@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТПК Каскад\"",
+                "id": "37467534",
+                "uri": "http://www.sks-ua.org/"
+              },
+              "name": "ТОВ \"ТПК Каскад\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87515",
+                "region": "Донецкая",
+                "streetAddress": "ул.Итальянская 9 Донецкая область г.Мариуполь",
+                "locality": "Мариуполь"
+              }
+            }
+          ],
+          "time": "2015-10-09T12:12:22.823197+03:00"
+        },
+        {
+          "bidder": "70799c47a56b4cddb50a7a3be3792da4",
+          "amount": 28513.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avmg.com.ua",
+                "telephone": "+380676340510",
+                "name": "АВ Металл групп",
+                "email": "m.gilmanov@avmg.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36441934",
+                "legalName": "АВ Металл групп"
+              },
+              "name": "АВ Металл групп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "4900,г. Днепрпетровск, ул. Шолом- Алейхема, д. 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T12:13:35.385539+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:21:17.627220+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-01T16:12:32.264018+03:00",
+          "amount": 34672.56,
+          "bidder": "cbb6f8bbe49243faa33e414a5eecd057"
+        },
+        {
+          "date": "2015-10-05T09:11:07.426811+03:00",
+          "amount": 29774.0,
+          "bidder": "70799c47a56b4cddb50a7a3be3792da4"
+        }
+      ],
+      "time": "2015-10-09T09:00:12.003183+00:00"
+    }
+  },
+  "id": "b50b4bca04e647788f5d5dcca4d8cccd",
+  "tenderId": "UA-2015-09-25-000253"
+}

@@ -1,0 +1,299 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "amount": 8400.0,
+        "bid_time": "2015-09-29T14:29:14.234619+03:00",
+        "bidder": "06c19ec6e2e445e7a74ed44b50563dfe",
+        "time": "2015-09-29T11:31:00.008356+00:00"
+      },
+      "turn_4": {
+        "bidder": "43fa94057d7846d889b8bb0a21d5e2e0",
+        "time": "2015-09-29T11:27:00.009635+00:00"
+      },
+      "turn_5": {
+        "amount": 8500.0,
+        "bid_time": "2015-09-29T14:27:06.999449+03:00",
+        "bidder": "4e64a135e35a4ac0af27ea7096bf5af5",
+        "time": "2015-09-29T11:29:00.010860+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ee820f71709466890fc63ee7bf73f9e",
+        "time": "2015-09-29T11:23:00.020189+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e2edbbbb2c74020be9753d5983f7a0b",
+        "time": "2015-09-29T11:25:00.012549+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2a65b2d053541efbb5b2863a311d319",
+        "time": "2015-09-29T11:21:00.013768+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "06c19ec6e2e445e7a74ed44b50563dfe",
+        "time": "2015-09-29T11:45:00.007190+00:00"
+      },
+      "turn_4": {
+        "bidder": "43fa94057d7846d889b8bb0a21d5e2e0",
+        "time": "2015-09-29T11:41:00.006012+00:00"
+      },
+      "turn_5": {
+        "amount": 5538.0,
+        "bid_time": "2015-09-29T14:41:06.558450+03:00",
+        "bidder": "4e64a135e35a4ac0af27ea7096bf5af5",
+        "time": "2015-09-29T11:43:00.008632+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ee820f71709466890fc63ee7bf73f9e",
+        "time": "2015-09-29T11:37:00.006422+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e2edbbbb2c74020be9753d5983f7a0b",
+        "time": "2015-09-29T11:39:00.006990+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2a65b2d053541efbb5b2863a311d319",
+        "time": "2015-09-29T11:35:00.006405+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "43fa94057d7846d889b8bb0a21d5e2e0",
+        "time": "2015-09-29T11:17:00.017448+00:00"
+      },
+      "turn_4": {
+        "amount": 9500.0,
+        "bid_time": "2015-09-29T14:11:27.016627+03:00",
+        "bidder": "06c19ec6e2e445e7a74ed44b50563dfe",
+        "time": "2015-09-29T11:13:00.019744+00:00"
+      },
+      "turn_5": {
+        "bidder": "7e2edbbbb2c74020be9753d5983f7a0b",
+        "time": "2015-09-29T11:15:00.016102+00:00"
+      },
+      "turn_2": {
+        "bidder": "4ee820f71709466890fc63ee7bf73f9e",
+        "time": "2015-09-29T11:09:00.007067+00:00"
+      },
+      "turn_3": {
+        "amount": 9700.0,
+        "bid_time": "2015-09-29T14:09:11.281729+03:00",
+        "bidder": "4e64a135e35a4ac0af27ea7096bf5af5",
+        "time": "2015-09-29T11:11:00.018935+00:00"
+      },
+      "turn_1": {
+        "bidder": "a2a65b2d053541efbb5b2863a311d319",
+        "time": "2015-09-29T11:07:00.030451+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a2a65b2d053541efbb5b2863a311d319",
+          "amount": 12360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kadr.lviv.ua",
+                "telephone": "+380322611545",
+                "name": "Приватне підприємство \"Кадр\"",
+                "email": "ppkadr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23271204",
+                "legalName": "Приватне підприємство \"Кадр\""
+              },
+              "name": "Приватне підприємство \"Кадр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.С.Бандери,67\\6, м.Львів, 79013",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T16:20:33.433409+03:00"
+        },
+        {
+          "bidder": "4ee820f71709466890fc63ee7bf73f9e",
+          "amount": 12360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-14T16:25:16.701818+03:00"
+        },
+        {
+          "bidder": "7e2edbbbb2c74020be9753d5983f7a0b",
+          "amount": 10900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380457928202",
+                "name": "ТОВ \"ТОВ ВКФ \"Макет\"\"",
+                "email": "Shop@slavutich.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20614595",
+                "legalName": "ТОВ \"ТОВ ВКФ \"Макет\"\""
+              },
+              "name": "ТОВ \"ТОВ ВКФ \"Макет\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07101",
+                "region": "ЧЕРНИГОВСКАЯ ОБЛ.",
+                "streetAddress": "Проспект Дружби Народов 9",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-09-15T16:18:36.470018+03:00"
+        },
+        {
+          "bidder": "43fa94057d7846d889b8bb0a21d5e2e0",
+          "amount": 9826.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T17:54:14.536709+03:00"
+        },
+        {
+          "bidder": "06c19ec6e2e445e7a74ed44b50563dfe",
+          "amount": 8400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380668989899, +380966432950, +380632972991",
+                "name": "Александр",
+                "email": "dimega2011@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3177912075",
+                "legalName": "ФОП \"Стусь Д.М.\""
+              },
+              "name": "ФОП \"Стусь Д.М.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36000",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-09-29T14:29:14.234619+03:00"
+        },
+        {
+          "bidder": "4e64a135e35a4ac0af27ea7096bf5af5",
+          "amount": 5538.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380994620791",
+                "name": "Оксана",
+                "email": "shmakova.psg@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36126727",
+                "legalName": "ТОВ \"\"Профі Сервіс Гарант\"\""
+              },
+              "name": "ТОВ \"\"Профі Сервіс Гарант\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-29T14:41:06.558450+03:00"
+        }
+      ],
+      "time": "2015-09-29T11:45:07.760024+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T16:25:16.701818+03:00",
+          "amount": 12360.0,
+          "bidder": "4ee820f71709466890fc63ee7bf73f9e"
+        },
+        {
+          "date": "2015-09-15T16:20:33.433409+03:00",
+          "amount": 12360.0,
+          "bidder": "a2a65b2d053541efbb5b2863a311d319"
+        },
+        {
+          "date": "2015-09-14T17:26:11.891057+03:00",
+          "amount": 12000.0,
+          "bidder": "4e64a135e35a4ac0af27ea7096bf5af5"
+        },
+        {
+          "date": "2015-09-15T16:17:36.334717+03:00",
+          "amount": 11960.0,
+          "bidder": "06c19ec6e2e445e7a74ed44b50563dfe"
+        },
+        {
+          "date": "2015-09-15T16:18:36.470018+03:00",
+          "amount": 10900.0,
+          "bidder": "7e2edbbbb2c74020be9753d5983f7a0b"
+        },
+        {
+          "date": "2015-09-14T17:54:14.536709+03:00",
+          "amount": 9826.8,
+          "bidder": "43fa94057d7846d889b8bb0a21d5e2e0"
+        }
+      ],
+      "time": "2015-09-29T11:00:00.003185+00:00"
+    }
+  },
+  "id": "05cb1f62a4394c1ca2247626cd648490",
+  "tenderId": "UA-2015-09-11-000132"
+}

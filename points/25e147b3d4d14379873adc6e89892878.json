@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bbf094311a9e492dbb1f368929d7aaf1",
+        "time": "2015-09-15T08:17:00.226231+00:00"
+      },
+      "turn_3": {
+        "bidder": "1ecd393ffb2f48e0b9ae0f77c100a527",
+        "time": "2015-09-15T08:19:00.107063+00:00"
+      },
+      "turn_1": {
+        "bidder": "a36194f8c76d4bf7aa58fbbf185c040b",
+        "time": "2015-09-15T08:15:00.319102+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bbf094311a9e492dbb1f368929d7aaf1",
+        "time": "2015-09-15T08:25:00.055524+00:00"
+      },
+      "turn_3": {
+        "bidder": "1ecd393ffb2f48e0b9ae0f77c100a527",
+        "time": "2015-09-15T08:27:00.057732+00:00"
+      },
+      "turn_1": {
+        "bidder": "a36194f8c76d4bf7aa58fbbf185c040b",
+        "time": "2015-09-15T08:23:00.135753+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bbf094311a9e492dbb1f368929d7aaf1",
+        "time": "2015-09-15T08:09:00.141062+00:00"
+      },
+      "turn_3": {
+        "bidder": "1ecd393ffb2f48e0b9ae0f77c100a527",
+        "time": "2015-09-15T08:11:00.165727+00:00"
+      },
+      "turn_1": {
+        "bidder": "a36194f8c76d4bf7aa58fbbf185c040b",
+        "time": "2015-09-15T08:07:00.095491+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a36194f8c76d4bf7aa58fbbf185c040b",
+          "amount": 216410.57,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alumix.com.ua",
+                "telephone": "+380675277733",
+                "name": "Товариство з обмеженою відповідальністю \"Алюмікс Україна\"",
+                "email": "kov@alumix.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37732224",
+                "legalName": "Товариство з обмеженою відповідальністю \"Алюмікс Україна\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Алюмікс Україна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49018, м. Дніпропетровськ, вул. Гідропаркова, буд.11, кв.44",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T12:20:35.600175+03:00"
+        },
+        {
+          "bidder": "bbf094311a9e492dbb1f368929d7aaf1",
+          "amount": 215520.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675910833",
+                "name": "ФЛП Конопля А.А.",
+                "email": "5910833@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3152106149",
+                "legalName": "ФЛП Конопля А.А."
+              },
+              "name": "ФЛП Конопля А.А.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул. Шарикова, дом. 50, кв. 11, \r\nг. Харьков",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T11:47:58.527273+03:00"
+        },
+        {
+          "bidder": "1ecd393ffb2f48e0b9ae0f77c100a527",
+          "amount": 209016.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://eridan.dp.ua",
+                "telephone": "+380990844533",
+                "name": "ТОВ \"Компанія Ерідан\"",
+                "email": "serjsmirnov@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35395767",
+                "legalName": "ТОВ \"Компанія Ерідан\""
+              },
+              "name": "ТОВ \"Компанія Ерідан\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Дніпропетровськ,\r\nпроспект Героїв , буд 23, кв 42.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T11:44:05.385943+03:00"
+        }
+      ],
+      "time": "2015-09-15T08:27:13.401167+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T12:20:35.600175+03:00",
+          "amount": 216410.57,
+          "bidder": "a36194f8c76d4bf7aa58fbbf185c040b"
+        },
+        {
+          "date": "2015-09-14T11:47:58.527273+03:00",
+          "amount": 215520.0,
+          "bidder": "bbf094311a9e492dbb1f368929d7aaf1"
+        },
+        {
+          "date": "2015-09-14T11:44:05.385943+03:00",
+          "amount": 209016.0,
+          "bidder": "1ecd393ffb2f48e0b9ae0f77c100a527"
+        }
+      ],
+      "time": "2015-09-15T08:00:00.053901+00:00"
+    }
+  },
+  "id": "25e147b3d4d14379873adc6e89892878",
+  "tenderId": "UA-2015-09-03-000015"
+}

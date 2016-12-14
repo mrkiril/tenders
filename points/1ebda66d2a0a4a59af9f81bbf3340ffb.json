@@ -1,0 +1,261 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 8000.0,
+        "bid_time": "2015-10-15T15:24:59.683073+03:00",
+        "bidder": "c8eb08b1660947c7b22ba423c0700074",
+        "time": "2015-10-15T12:26:54.008238+00:00"
+      },
+      "turn_5": {
+        "amount": 7999.0,
+        "bid_time": "2015-10-15T15:28:16.113779+03:00",
+        "bidder": "abaac27dd01b43c6ae6a26ad8cdbbf82",
+        "time": "2015-10-15T12:28:54.013246+00:00"
+      },
+      "turn_2": {
+        "bidder": "7498774a6144402ea7111f437faed2ef",
+        "time": "2015-10-15T12:22:54.006508+00:00"
+      },
+      "turn_3": {
+        "amount": 8200.0,
+        "bid_time": "2015-10-15T15:23:24.986524+03:00",
+        "bidder": "79b75cf7f8704b8e85c17644a1aeb8f8",
+        "time": "2015-10-15T12:24:54.008199+00:00"
+      },
+      "turn_1": {
+        "bidder": "4188a583afd54cf4a925a84ef16e2139",
+        "time": "2015-10-15T12:20:54.005735+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 7500.0,
+        "bid_time": "2015-10-15T15:37:08.105327+03:00",
+        "bidder": "c8eb08b1660947c7b22ba423c0700074",
+        "time": "2015-10-15T12:38:54.013254+00:00"
+      },
+      "turn_5": {
+        "bidder": "abaac27dd01b43c6ae6a26ad8cdbbf82",
+        "time": "2015-10-15T12:40:54.010871+00:00"
+      },
+      "turn_2": {
+        "bidder": "7498774a6144402ea7111f437faed2ef",
+        "time": "2015-10-15T12:34:54.012576+00:00"
+      },
+      "turn_3": {
+        "amount": 8000.0,
+        "bid_time": "2015-10-15T15:35:08.178152+03:00",
+        "bidder": "79b75cf7f8704b8e85c17644a1aeb8f8",
+        "time": "2015-10-15T12:36:54.012608+00:00"
+      },
+      "turn_1": {
+        "bidder": "4188a583afd54cf4a925a84ef16e2139",
+        "time": "2015-10-15T12:32:54.011054+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 8200.0,
+        "bid_time": "2015-10-15T15:13:34.753805+03:00",
+        "bidder": "c8eb08b1660947c7b22ba423c0700074",
+        "time": "2015-10-15T12:14:54.008664+00:00"
+      },
+      "turn_5": {
+        "amount": 8199.0,
+        "bid_time": "2015-10-15T15:16:21.698214+03:00",
+        "bidder": "abaac27dd01b43c6ae6a26ad8cdbbf82",
+        "time": "2015-10-15T12:16:54.007893+00:00"
+      },
+      "turn_2": {
+        "bidder": "7498774a6144402ea7111f437faed2ef",
+        "time": "2015-10-15T12:10:54.005934+00:00"
+      },
+      "turn_3": {
+        "amount": 8450.0,
+        "bid_time": "2015-10-15T15:11:51.902718+03:00",
+        "bidder": "79b75cf7f8704b8e85c17644a1aeb8f8",
+        "time": "2015-10-15T12:12:54.010775+00:00"
+      },
+      "turn_1": {
+        "bidder": "4188a583afd54cf4a925a84ef16e2139",
+        "time": "2015-10-15T12:08:54.006566+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4188a583afd54cf4a925a84ef16e2139",
+          "amount": 8800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.softcomp.com.ua",
+                "telephone": "+380931424900",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФТКОМП\"",
+                "email": "avo@softcomp.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38848182",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФТКОМП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФТКОМП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина,65017, Одеса, Люстдорфська дорога дом № 5, оф.303",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T15:56:11.423038+03:00"
+        },
+        {
+          "bidder": "7498774a6144402ea7111f437faed2ef",
+          "amount": 8700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-09T00:32:37.563803+03:00"
+        },
+        {
+          "bidder": "79b75cf7f8704b8e85c17644a1aeb8f8",
+          "amount": 8000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dsm-trade.com.ua",
+                "telephone": "+380633156456",
+                "name": "ТОВ \"ДСМ-ТРЕЙД\"",
+                "email": "ys@dsm-trade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36392290",
+                "legalName": "ТОВ \"ДСМ-ТРЕЙД\""
+              },
+              "name": "ТОВ \"ДСМ-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, ул. Семьи Сосниных, 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T15:35:08.178152+03:00"
+        },
+        {
+          "bidder": "abaac27dd01b43c6ae6a26ad8cdbbf82",
+          "amount": 7999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://insit.com.ua",
+                "telephone": "+380503840101",
+                "name": "Современные информационные технологии ИНСИТ",
+                "email": "almik@insit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21607462",
+                "legalName": "Современные информационные технологии ИНСИТ"
+              },
+              "name": "Современные информационные технологии ИНСИТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601 Киев, ул.Красноармейская 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T15:28:16.113779+03:00"
+        },
+        {
+          "bidder": "c8eb08b1660947c7b22ba423c0700074",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0487777070",
+                "name": "Товариство з обмеженною відповідальністю \"Н-БІС-ПЛЮС\"",
+                "email": "kiril@nbis.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21037409",
+                "legalName": "Товариство з обмеженною відповідальністю \"Н-БІС-ПЛЮС\""
+              },
+              "name": "Товариство з обмеженною відповідальністю \"Н-БІС-ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65023",
+                "region": "Одеська",
+                "streetAddress": "Коблевська 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T15:37:08.105327+03:00"
+        }
+      ],
+      "time": "2015-10-15T12:41:01.350933+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T15:56:11.423038+03:00",
+          "amount": 8800.0,
+          "bidder": "4188a583afd54cf4a925a84ef16e2139"
+        },
+        {
+          "date": "2015-10-09T00:32:37.563803+03:00",
+          "amount": 8700.0,
+          "bidder": "7498774a6144402ea7111f437faed2ef"
+        },
+        {
+          "date": "2015-10-07T10:54:55.843683+03:00",
+          "amount": 8600.0,
+          "bidder": "79b75cf7f8704b8e85c17644a1aeb8f8"
+        },
+        {
+          "date": "2015-10-07T15:17:25.124645+03:00",
+          "amount": 8499.0,
+          "bidder": "c8eb08b1660947c7b22ba423c0700074"
+        },
+        {
+          "date": "2015-10-12T14:40:44.145743+03:00",
+          "amount": 8299.0,
+          "bidder": "abaac27dd01b43c6ae6a26ad8cdbbf82"
+        }
+      ],
+      "time": "2015-10-15T12:01:54.001866+00:00"
+    }
+  },
+  "id": "1ebda66d2a0a4a59af9f81bbf3340ffb",
+  "tenderId": "UA-2015-10-01-000020"
+}

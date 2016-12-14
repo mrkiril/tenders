@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 6294.0,
+        "bid_time": "2015-12-11T13:57:01.599002+02:00",
+        "bidder": "43e806acbc77410a9200909e026c215a",
+        "time": "2015-12-11T11:58:15.017601+00:00"
+      },
+      "turn_3": {
+        "amount": 6250.0,
+        "bid_time": "2015-12-11T13:58:47.869642+02:00",
+        "bidder": "99f4ec1ef2a84ce69d7ab049ebb59196",
+        "time": "2015-12-11T12:00:15.011474+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7cf193fcdc145219ad6dbc76ee8e59a",
+        "time": "2015-12-11T11:56:15.008556+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "43e806acbc77410a9200909e026c215a",
+        "time": "2015-12-11T12:06:15.008563+00:00"
+      },
+      "turn_3": {
+        "bidder": "99f4ec1ef2a84ce69d7ab049ebb59196",
+        "time": "2015-12-11T12:08:15.009116+00:00"
+      },
+      "turn_1": {
+        "bidder": "e7cf193fcdc145219ad6dbc76ee8e59a",
+        "time": "2015-12-11T12:04:15.079925+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6300.0,
+        "bid_time": "2015-12-11T13:49:29.565609+02:00",
+        "bidder": "99f4ec1ef2a84ce69d7ab049ebb59196",
+        "time": "2015-12-11T11:50:15.012914+00:00"
+      },
+      "turn_3": {
+        "bidder": "e7cf193fcdc145219ad6dbc76ee8e59a",
+        "time": "2015-12-11T11:52:15.013444+00:00"
+      },
+      "turn_1": {
+        "amount": 6354.0,
+        "bid_time": "2015-12-11T13:46:26.813197+02:00",
+        "bidder": "43e806acbc77410a9200909e026c215a",
+        "time": "2015-12-11T11:48:15.010736+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e7cf193fcdc145219ad6dbc76ee8e59a",
+          "amount": 6388.25,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577176091",
+                "name": "Товариство з обмеженою відповідальністю \"КАРАВАН\"",
+                "email": "maksim.mikitin@trade-kh.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24141640",
+                "legalName": "Товариство з обмеженою відповідальністю \"КАРАВАН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КАРАВАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61058, м. Харків, вул. Данилевського, 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T13:57:58.079063+02:00"
+        },
+        {
+          "bidder": "43e806acbc77410a9200909e026c215a",
+          "amount": 6294.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://express-papir.com.ua",
+                "faxNumber": "5007078",
+                "telephone": "5007078",
+                "name": "Колядко Андрій Михайлович",
+                "email": "express-papir_tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36057863",
+                "legalName": "Товариство з обмеженою відповідальністю\"Експрес Папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"Експрес Папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "Драгоманова 42А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:57:01.599002+02:00"
+        },
+        {
+          "bidder": "99f4ec1ef2a84ce69d7ab049ebb59196",
+          "amount": 6250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:58:47.869642+02:00"
+        }
+      ],
+      "time": "2015-12-11T12:08:16.980667+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T13:26:42.842650+02:00",
+          "amount": 6492.0,
+          "bidder": "43e806acbc77410a9200909e026c215a"
+        },
+        {
+          "date": "2015-12-09T17:45:26.451021+02:00",
+          "amount": 6466.0,
+          "bidder": "99f4ec1ef2a84ce69d7ab049ebb59196"
+        },
+        {
+          "date": "2015-12-10T13:57:58.079063+02:00",
+          "amount": 6388.25,
+          "bidder": "e7cf193fcdc145219ad6dbc76ee8e59a"
+        }
+      ],
+      "time": "2015-12-11T11:41:15.001844+00:00"
+    }
+  },
+  "id": "251d499d49224552ab9d2640a907a49f",
+  "tenderId": "UA-2015-12-02-000168-b"
+}

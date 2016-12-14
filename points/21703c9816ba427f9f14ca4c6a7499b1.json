@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "39b9f227cbec4d5eaa77f0f884d258f4",
+        "time": "2015-10-09T12:17:33.007338+00:00"
+      },
+      "turn_1": {
+        "bidder": "5327193efb244c6ca8cee83145f99fb4",
+        "time": "2015-10-09T12:15:33.009372+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "39b9f227cbec4d5eaa77f0f884d258f4",
+        "time": "2015-10-09T12:23:33.008150+00:00"
+      },
+      "turn_1": {
+        "bidder": "5327193efb244c6ca8cee83145f99fb4",
+        "time": "2015-10-09T12:21:33.009221+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "39b9f227cbec4d5eaa77f0f884d258f4",
+        "time": "2015-10-09T12:11:33.007364+00:00"
+      },
+      "turn_1": {
+        "bidder": "5327193efb244c6ca8cee83145f99fb4",
+        "time": "2015-10-09T12:09:33.009872+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5327193efb244c6ca8cee83145f99fb4",
+          "amount": 10054.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0442961768",
+                "telephone": "0672328207",
+                "name": "Фідра Надія Вікторівна",
+                "email": "tendotdel2@apopharm.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21597031",
+                "legalName": "Мале підприємство \"Апофарм\" у формі товариства з обмеженою відповідальністю"
+              },
+              "name": "Мале підприємство \"Апофарм\" у формі товариства з обмеженою відповідальністю",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "02094, м. Київ, вул. Пожарського, 15",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T13:09:12.581013+03:00"
+        },
+        {
+          "bidder": "39b9f227cbec4d5eaa77f0f884d258f4",
+          "amount": 10052.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0445003793",
+                "telephone": "0445003793",
+                "name": "Гладун Вікторія Олександрівна",
+                "email": "victoriya.gladun@pharmprotect.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38735747",
+                "legalName": "ТОВ \"Фармпротект\""
+              },
+              "name": "ТОВ \"Фармпротект\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "Червоногвардійська 13-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T13:03:53.956209+03:00"
+        }
+      ],
+      "time": "2015-10-09T12:23:33.742285+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T13:09:12.581013+03:00",
+          "amount": 10054.0,
+          "bidder": "5327193efb244c6ca8cee83145f99fb4"
+        },
+        {
+          "date": "2015-10-02T13:03:53.956209+03:00",
+          "amount": 10052.0,
+          "bidder": "39b9f227cbec4d5eaa77f0f884d258f4"
+        }
+      ],
+      "time": "2015-10-09T12:02:33.002981+00:00"
+    }
+  },
+  "id": "21703c9816ba427f9f14ca4c6a7499b1",
+  "tenderId": "UA-2015-09-28-000247"
+}

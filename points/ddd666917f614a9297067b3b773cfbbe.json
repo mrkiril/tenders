@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "51f6782d54234c56be0e3045a33b8da1",
+        "time": "2015-08-28T09:15:00.047001+00:00"
+      },
+      "turn_1": {
+        "bidder": "a397907e4a7b4b50886aa49f5049c957",
+        "time": "2015-08-28T09:13:00.028079+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "51f6782d54234c56be0e3045a33b8da1",
+        "time": "2015-08-28T09:21:00.018567+00:00"
+      },
+      "turn_1": {
+        "bidder": "a397907e4a7b4b50886aa49f5049c957",
+        "time": "2015-08-28T09:19:00.028786+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a397907e4a7b4b50886aa49f5049c957",
+        "time": "2015-08-28T09:09:00.031726+00:00"
+      },
+      "turn_1": {
+        "amount": 830000.0,
+        "bid_time": "2015-08-28T12:05:21.239610+03:00",
+        "bidder": "51f6782d54234c56be0e3045a33b8da1",
+        "time": "2015-08-28T09:07:00.035346+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a397907e4a7b4b50886aa49f5049c957",
+          "amount": 850000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aurora.com.ua/",
+                "telephone": "380503363308",
+                "name": "Иван Губченко  ",
+                "email": "i.gubchenko@aurora.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24933245",
+                "legalName": ""
+              },
+              "name": "ООО Аврора",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "г.Киев 03062, А/с 110"
+              }
+            }
+          ],
+          "time": "2015-08-26T15:33:02.069225+03:00"
+        },
+        {
+          "bidder": "51f6782d54234c56be0e3045a33b8da1",
+          "amount": 830000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504718783",
+                "name": "Приватне підприємство \"Фірма \"3 Квітня\"",
+                "email": "a.timofeyev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31191147",
+                "legalName": "Приватне підприємство \"Фірма \"3 Квітня\""
+              },
+              "name": "Приватне підприємство \"Фірма \"3 Квітня\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Маріуполь, вул 50 років СРСР б. 69 кв. 128",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-28T12:05:21.239610+03:00"
+        }
+      ],
+      "time": "2015-08-28T09:21:04.944371+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-27T12:07:59.893129+03:00",
+          "amount": 1110000.0,
+          "bidder": "51f6782d54234c56be0e3045a33b8da1"
+        },
+        {
+          "date": "2015-08-26T15:33:02.069225+03:00",
+          "amount": 850000.0,
+          "bidder": "a397907e4a7b4b50886aa49f5049c957"
+        }
+      ],
+      "time": "2015-08-28T09:00:00.012581+00:00"
+    }
+  },
+  "id": "ddd666917f614a9297067b3b773cfbbe",
+  "tenderId": "UA-2015-08-13-000082"
+}

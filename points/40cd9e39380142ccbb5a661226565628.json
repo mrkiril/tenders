@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dda3acdaade0421299dff9e7fa7db319",
+        "time": "2015-12-02T12:58:13.009000+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e26d383304b87830921a3dcdc921a",
+        "time": "2015-12-02T12:56:13.015658+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dda3acdaade0421299dff9e7fa7db319",
+        "time": "2015-12-02T13:04:13.007942+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e26d383304b87830921a3dcdc921a",
+        "time": "2015-12-02T13:02:13.007647+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dda3acdaade0421299dff9e7fa7db319",
+        "time": "2015-12-02T12:52:13.008182+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e26d383304b87830921a3dcdc921a",
+        "time": "2015-12-02T12:50:13.008283+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7b9e26d383304b87830921a3dcdc921a",
+          "amount": 5099.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0674413319",
+                "telephone": "0678330589",
+                "name": "Кучерук Світлана Петрівна",
+                "email": "3836853@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38637792",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖЄВРОБУД\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖЄВРОБУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "вулиця Магнітогорська, 1-І",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T10:59:25.916906+02:00"
+        },
+        {
+          "bidder": "dda3acdaade0421299dff9e7fa7db319",
+          "amount": 4870.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "silark@ukr.net",
+                "name": "Литвинко Володимир Олександрович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38606332",
+                "legalName": "ТОВ \"СІЛАРК\""
+              },
+              "name": "ТОВ \"СІЛАРК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська",
+                "streetAddress": "Старонаводницка,8-Б літера А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T15:59:24.001084+02:00"
+        }
+      ],
+      "time": "2015-12-02T13:04:14.456633+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T10:59:25.916906+02:00",
+          "amount": 5099.68,
+          "bidder": "7b9e26d383304b87830921a3dcdc921a"
+        },
+        {
+          "date": "2015-11-30T15:59:24.001084+02:00",
+          "amount": 4870.8,
+          "bidder": "dda3acdaade0421299dff9e7fa7db319"
+        }
+      ],
+      "time": "2015-12-02T12:43:13.003881+00:00"
+    }
+  },
+  "id": "40cd9e39380142ccbb5a661226565628",
+  "tenderId": "UA-2015-11-25-000048-a"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e75e87bc15b4445991f7ee11589e549a",
+        "time": "2015-12-14T12:29:31.008650+00:00"
+      },
+      "turn_1": {
+        "bidder": "f55c989ef0ac453e816c94f1a320f5eb",
+        "time": "2015-12-14T12:27:31.007618+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 18529.0,
+        "bid_time": "2015-12-14T14:35:22.452247+02:00",
+        "bidder": "e75e87bc15b4445991f7ee11589e549a",
+        "time": "2015-12-14T12:35:31.008392+00:00"
+      },
+      "turn_1": {
+        "bidder": "f55c989ef0ac453e816c94f1a320f5eb",
+        "time": "2015-12-14T12:33:31.009175+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e75e87bc15b4445991f7ee11589e549a",
+        "time": "2015-12-14T12:23:31.008308+00:00"
+      },
+      "turn_1": {
+        "bidder": "f55c989ef0ac453e816c94f1a320f5eb",
+        "time": "2015-12-14T12:21:31.008531+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f55c989ef0ac453e816c94f1a320f5eb",
+          "amount": 22350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-5070286",
+                "telephone": "050-3301301",
+                "name": "Шалаховский Виктор Казимирович",
+                "email": "ka-na-da@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36683009",
+                "legalName": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці"
+              },
+              "name": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "вул Кошиця 9-б офіс 33",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T12:03:41.346401+02:00"
+        },
+        {
+          "bidder": "e75e87bc15b4445991f7ee11589e549a",
+          "amount": 18529.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977627142",
+                "name": "Александр",
+                "email": "zim000008@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36988615",
+                "legalName": "ЗИМ-Электрод"
+              },
+              "name": "ЗИМ-Электрод",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T14:35:22.452247+02:00"
+        }
+      ],
+      "time": "2015-12-14T12:35:35.055001+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T12:03:41.346401+02:00",
+          "amount": 22350.0,
+          "bidder": "f55c989ef0ac453e816c94f1a320f5eb"
+        },
+        {
+          "date": "2015-12-09T12:09:31.588676+02:00",
+          "amount": 19030.8,
+          "bidder": "e75e87bc15b4445991f7ee11589e549a"
+        }
+      ],
+      "time": "2015-12-14T12:14:31.004053+00:00"
+    }
+  },
+  "id": "ee0d71bfaa5f40ad99e0dda81438de5d",
+  "tenderId": "UA-2015-12-01-000003"
+}

@@ -1,0 +1,256 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 1800.0,
+        "bid_time": "2015-11-24T11:54:10.222328+02:00",
+        "bidder": "033fb6c39d9a49bd827d622e4a4ba39a",
+        "time": "2015-11-24T09:55:24.025269+00:00"
+      },
+      "turn_5": {
+        "amount": 1198.0,
+        "bid_time": "2015-11-24T11:56:25.249492+02:00",
+        "bidder": "d9b695fa86174408aba9b35ad28bbbf2",
+        "time": "2015-11-24T09:57:24.016194+00:00"
+      },
+      "turn_2": {
+        "amount": 1200.0,
+        "bid_time": "2015-11-24T11:49:54.430652+02:00",
+        "bidder": "e6f9c943dd3941f59f227d55ea2687f7",
+        "time": "2015-11-24T09:51:24.012860+00:00"
+      },
+      "turn_3": {
+        "bidder": "2ba05919a4ed4982857e8bb9c2ca2d83",
+        "time": "2015-11-24T09:53:24.008096+00:00"
+      },
+      "turn_1": {
+        "bidder": "c023801373b34242af9fd9e49ab5c80d",
+        "time": "2015-11-24T09:49:24.010607+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "e6f9c943dd3941f59f227d55ea2687f7",
+        "time": "2015-11-24T10:07:24.007861+00:00"
+      },
+      "turn_5": {
+        "bidder": "d9b695fa86174408aba9b35ad28bbbf2",
+        "time": "2015-11-24T10:09:24.009280+00:00"
+      },
+      "turn_2": {
+        "bidder": "2ba05919a4ed4982857e8bb9c2ca2d83",
+        "time": "2015-11-24T10:03:24.009714+00:00"
+      },
+      "turn_3": {
+        "bidder": "033fb6c39d9a49bd827d622e4a4ba39a",
+        "time": "2015-11-24T10:05:24.010595+00:00"
+      },
+      "turn_1": {
+        "amount": 1199.0,
+        "bid_time": "2015-11-24T11:59:36.218240+02:00",
+        "bidder": "c023801373b34242af9fd9e49ab5c80d",
+        "time": "2015-11-24T10:01:24.012595+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 1250.0,
+        "bid_time": "2015-11-24T11:41:41.766082+02:00",
+        "bidder": "d9b695fa86174408aba9b35ad28bbbf2",
+        "time": "2015-11-24T09:43:24.013234+00:00"
+      },
+      "turn_5": {
+        "bidder": "2ba05919a4ed4982857e8bb9c2ca2d83",
+        "time": "2015-11-24T09:45:24.011851+00:00"
+      },
+      "turn_2": {
+        "amount": 1850.0,
+        "bid_time": "2015-11-24T11:38:05.565396+02:00",
+        "bidder": "033fb6c39d9a49bd827d622e4a4ba39a",
+        "time": "2015-11-24T09:39:24.012799+00:00"
+      },
+      "turn_3": {
+        "bidder": "e6f9c943dd3941f59f227d55ea2687f7",
+        "time": "2015-11-24T09:41:24.010306+00:00"
+      },
+      "turn_1": {
+        "bidder": "c023801373b34242af9fd9e49ab5c80d",
+        "time": "2015-11-24T09:37:24.010821+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2ba05919a4ed4982857e8bb9c2ca2d83",
+          "amount": 1880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.inter-sport.com.ua",
+                "faxNumber": "+380512575996",
+                "telephone": "+380934979971",
+                "name": "Білоус Олександр Анатолійович",
+                "email": "insport@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2695003416"
+              },
+              "name": "ФОП Білоус Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54055",
+                "region": "Миколаївська область",
+                "streetAddress": "пр.Леніна, 159-б",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:57:27.574923+02:00"
+        },
+        {
+          "bidder": "033fb6c39d9a49bd827d622e4a4ba39a",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676181177",
+                "name": "Яна  Сиденко",
+                "email": "vm@nagrada.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37941866",
+                "legalName": "ФОП \"Майер В.А. \""
+              },
+              "name": "ФОП \"Майер В.А. \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69001",
+                "region": "Днепропетровская",
+                "streetAddress": "г Запорожье, ул Победы, 75 кв.44",
+                "locality": "запорожье"
+              }
+            }
+          ],
+          "time": "2015-11-24T11:54:10.222328+02:00"
+        },
+        {
+          "bidder": "e6f9c943dd3941f59f227d55ea2687f7",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675933355, +380676180066",
+                "name": "Богдан Белоус",
+                "email": "vn@nagrada.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3018710555",
+                "legalName": "ФОП \"ФОП Білоус БК\""
+              },
+              "name": "ФОП \"ФОП Білоус БК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69000",
+                "region": "Запорожская",
+                "streetAddress": "",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-11-24T11:49:54.430652+02:00"
+        },
+        {
+          "bidder": "c023801373b34242af9fd9e49ab5c80d",
+          "amount": 1199.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990136560",
+                "name": "Дмитрий Гладилин",
+                "email": "olgar.09@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2402810598",
+                "legalName": "ФОП \"Гарист О.В.\""
+              },
+              "name": "ФОП \"Гарист О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49055",
+                "region": "Днепропетровская",
+                "streetAddress": "УЛ героев сталинграда 26",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-24T11:59:36.218240+02:00"
+        },
+        {
+          "bidder": "d9b695fa86174408aba9b35ad28bbbf2",
+          "amount": 1198.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sportmir.dp.ua",
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-24T11:56:25.249492+02:00"
+        }
+      ],
+      "time": "2015-11-24T10:09:28.872699+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T14:38:57.949269+02:00",
+          "amount": 3000.0,
+          "bidder": "c023801373b34242af9fd9e49ab5c80d"
+        },
+        {
+          "date": "2015-11-23T14:49:04.432939+02:00",
+          "amount": 2650.0,
+          "bidder": "033fb6c39d9a49bd827d622e4a4ba39a"
+        },
+        {
+          "date": "2015-11-23T14:59:54.030926+02:00",
+          "amount": 2400.0,
+          "bidder": "e6f9c943dd3941f59f227d55ea2687f7"
+        },
+        {
+          "date": "2015-11-23T22:48:52.127187+02:00",
+          "amount": 2298.0,
+          "bidder": "d9b695fa86174408aba9b35ad28bbbf2"
+        },
+        {
+          "date": "2015-11-23T11:57:27.574923+02:00",
+          "amount": 1880.0,
+          "bidder": "2ba05919a4ed4982857e8bb9c2ca2d83"
+        }
+      ],
+      "time": "2015-11-24T09:30:24.005893+00:00"
+    }
+  },
+  "id": "2843ac878f664f54a6ad9fdcb75b2170",
+  "tenderId": "UA-2015-11-19-000078-a"
+}

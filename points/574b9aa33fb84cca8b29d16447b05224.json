@@ -1,0 +1,204 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "651240608768459a81c703df4a546633",
+        "time": "2015-12-15T12:36:09.007110+00:00"
+      },
+      "turn_2": {
+        "bidder": "5d33c72edc4943db8b33997000152722",
+        "time": "2015-12-15T12:32:09.006930+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f60922c6f7f4c26b098c0e428ffa46a",
+        "time": "2015-12-15T12:34:09.007792+00:00"
+      },
+      "turn_1": {
+        "bidder": "41a72e34666f407ca27e9aaf61f6182c",
+        "time": "2015-12-15T12:30:09.008295+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "651240608768459a81c703df4a546633",
+        "time": "2015-12-15T12:46:09.007124+00:00"
+      },
+      "turn_2": {
+        "bidder": "5d33c72edc4943db8b33997000152722",
+        "time": "2015-12-15T12:42:09.008063+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f60922c6f7f4c26b098c0e428ffa46a",
+        "time": "2015-12-15T12:44:09.007896+00:00"
+      },
+      "turn_1": {
+        "bidder": "41a72e34666f407ca27e9aaf61f6182c",
+        "time": "2015-12-15T12:40:09.006877+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 15245.0,
+        "bid_time": "2015-12-15T14:26:06.993640+02:00",
+        "bidder": "651240608768459a81c703df4a546633",
+        "time": "2015-12-15T12:26:09.009121+00:00"
+      },
+      "turn_2": {
+        "bidder": "5d33c72edc4943db8b33997000152722",
+        "time": "2015-12-15T12:22:09.007856+00:00"
+      },
+      "turn_3": {
+        "amount": 15300.0,
+        "bid_time": "2015-12-15T14:22:43.629758+02:00",
+        "bidder": "1f60922c6f7f4c26b098c0e428ffa46a",
+        "time": "2015-12-15T12:24:09.040445+00:00"
+      },
+      "turn_1": {
+        "bidder": "41a72e34666f407ca27e9aaf61f6182c",
+        "time": "2015-12-15T12:20:09.008512+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "41a72e34666f407ca27e9aaf61f6182c",
+          "amount": 17325.34,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T15:54:20.979521+02:00"
+        },
+        {
+          "bidder": "5d33c72edc4943db8b33997000152722",
+          "amount": 16443.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-13T18:26:40.845985+02:00"
+        },
+        {
+          "bidder": "1f60922c6f7f4c26b098c0e428ffa46a",
+          "amount": 15300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:22:43.629758+02:00"
+        },
+        {
+          "bidder": "651240608768459a81c703df4a546633",
+          "amount": 15245.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656, +380968543380",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:26:06.993640+02:00"
+        }
+      ],
+      "time": "2015-12-15T12:46:11.726309+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T15:54:20.979521+02:00",
+          "amount": 17325.34,
+          "bidder": "41a72e34666f407ca27e9aaf61f6182c"
+        },
+        {
+          "date": "2015-12-13T18:26:40.845985+02:00",
+          "amount": 16443.0,
+          "bidder": "5d33c72edc4943db8b33997000152722"
+        },
+        {
+          "date": "2015-12-12T11:33:49.469820+02:00",
+          "amount": 15800.0,
+          "bidder": "1f60922c6f7f4c26b098c0e428ffa46a"
+        },
+        {
+          "date": "2015-12-14T01:20:18.691423+02:00",
+          "amount": 15345.0,
+          "bidder": "651240608768459a81c703df4a546633"
+        }
+      ],
+      "time": "2015-12-15T12:13:09.004250+00:00"
+    }
+  },
+  "id": "574b9aa33fb84cca8b29d16447b05224",
+  "tenderId": "UA-2015-12-09-000101-b"
+}

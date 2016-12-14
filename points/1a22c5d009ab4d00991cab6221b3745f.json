@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e68f6c805c864ad4929770da92eaf114",
+        "time": "2015-12-17T11:53:38.007446+00:00"
+      },
+      "turn_3": {
+        "bidder": "226bfda098d047e0ad6abd949368a6ea",
+        "time": "2015-12-17T11:55:38.025790+00:00"
+      },
+      "turn_1": {
+        "bidder": "e467be8bfde54449b246ff90006dbb59",
+        "time": "2015-12-17T11:51:38.009063+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e68f6c805c864ad4929770da92eaf114",
+        "time": "2015-12-17T12:01:38.008462+00:00"
+      },
+      "turn_3": {
+        "bidder": "226bfda098d047e0ad6abd949368a6ea",
+        "time": "2015-12-17T12:03:38.013177+00:00"
+      },
+      "turn_1": {
+        "bidder": "e467be8bfde54449b246ff90006dbb59",
+        "time": "2015-12-17T11:59:38.006746+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e68f6c805c864ad4929770da92eaf114",
+        "time": "2015-12-17T11:45:38.007570+00:00"
+      },
+      "turn_3": {
+        "bidder": "226bfda098d047e0ad6abd949368a6ea",
+        "time": "2015-12-17T11:47:38.009592+00:00"
+      },
+      "turn_1": {
+        "bidder": "e467be8bfde54449b246ff90006dbb59",
+        "time": "2015-12-17T11:43:38.009204+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e467be8bfde54449b246ff90006dbb59",
+          "amount": 14799.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.wylan.com.ua/",
+                "faxNumber": "0442490440",
+                "telephone": "0442490440",
+                "name": "Висоцька Марина Кирилівна",
+                "email": "info@wylan.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21589190",
+                "legalName": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Науково-виробниче  підприємство \"ВІЛАН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04053",
+                "region": "Київська",
+                "streetAddress": "Воровського, 7 Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T08:41:27.479005+02:00"
+        },
+        {
+          "bidder": "e68f6c805c864ad4929770da92eaf114",
+          "amount": 13282.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38044 3924727",
+                "name": "Андрій Олександрович Полиця",
+                "email": "ntr_office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32961013",
+                "legalName": "ТОВ \"НТР\""
+              },
+              "name": "ТОВ \"НТР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04071",
+                "region": "Киевская",
+                "streetAddress": "Київ, вул. Воздвиженська, 10 А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-16T10:31:39.124634+02:00"
+        },
+        {
+          "bidder": "226bfda098d047e0ad6abd949368a6ea",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380967250486",
+                "name": "Володимир Бойчук",
+                "email": "svitlana1995@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2280316835",
+                "legalName": "ФОП \"Бойчук   Володимир  Антонович \""
+              },
+              "name": "ФОП \"Бойчук   Володимир  Антонович \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "46016",
+                "region": "Тернопольская",
+                "streetAddress": "бульвар  Д.Вишневецького ,буд.4,кв.56",
+                "locality": "Тернопіль"
+              }
+            }
+          ],
+          "time": "2015-12-16T15:15:12.966780+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:03:39.970756+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T08:41:27.479005+02:00",
+          "amount": 14799.6,
+          "bidder": "e467be8bfde54449b246ff90006dbb59"
+        },
+        {
+          "date": "2015-12-16T10:31:39.124634+02:00",
+          "amount": 13282.8,
+          "bidder": "e68f6c805c864ad4929770da92eaf114"
+        },
+        {
+          "date": "2015-12-16T15:15:12.966780+02:00",
+          "amount": 12500.0,
+          "bidder": "226bfda098d047e0ad6abd949368a6ea"
+        }
+      ],
+      "time": "2015-12-17T11:36:38.003291+00:00"
+    }
+  },
+  "id": "1a22c5d009ab4d00991cab6221b3745f",
+  "tenderId": "UA-2015-12-08-000177"
+}

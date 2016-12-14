@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f915c505e64f4425a26027c39271d7c9",
+        "time": "2015-11-25T11:21:44.008321+00:00"
+      },
+      "turn_1": {
+        "bidder": "d251f41e7e6b44f08d05b19a8374a797",
+        "time": "2015-11-25T11:19:44.008971+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f915c505e64f4425a26027c39271d7c9",
+        "time": "2015-11-25T11:27:44.008158+00:00"
+      },
+      "turn_1": {
+        "bidder": "d251f41e7e6b44f08d05b19a8374a797",
+        "time": "2015-11-25T11:25:44.007999+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f915c505e64f4425a26027c39271d7c9",
+        "time": "2015-11-25T11:15:44.008562+00:00"
+      },
+      "turn_1": {
+        "bidder": "d251f41e7e6b44f08d05b19a8374a797",
+        "time": "2015-11-25T11:13:44.007755+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d251f41e7e6b44f08d05b19a8374a797",
+          "amount": 6199.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-24T04:24:03.528890+02:00"
+        },
+        {
+          "bidder": "f915c505e64f4425a26027c39271d7c9",
+          "amount": 6110.76,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672463142",
+                "name": "Іван Полянчіков",
+                "email": "orion-plus@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Оріон-Плюс\"",
+                "id": "32103250",
+                "uri": "http://orion-plus.com/"
+              },
+              "name": "ТОВ \"Оріон-Плюс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03058",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Вадима Гетьмана,30",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:24:04.418992+02:00"
+        }
+      ],
+      "time": "2015-11-25T11:27:45.307051+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T04:24:03.528890+02:00",
+          "amount": 6199.0,
+          "bidder": "d251f41e7e6b44f08d05b19a8374a797"
+        },
+        {
+          "date": "2015-11-19T13:24:04.418992+02:00",
+          "amount": 6110.76,
+          "bidder": "f915c505e64f4425a26027c39271d7c9"
+        }
+      ],
+      "time": "2015-11-25T11:06:44.004522+00:00"
+    }
+  },
+  "id": "ef8fd739a61044f1b7160b98cdeac8c1",
+  "tenderId": "UA-2015-11-11-000044-a"
+}

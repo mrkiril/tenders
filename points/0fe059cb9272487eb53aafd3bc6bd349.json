@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 32290.0,
+        "bid_time": "2015-11-26T15:23:30.008541+02:00",
+        "bidder": "991637ba91ab45aea33369b2375fd19b",
+        "time": "2015-11-26T13:24:24.009583+00:00"
+      },
+      "turn_3": {
+        "amount": 31323.29,
+        "bid_time": "2015-11-26T15:25:06.834023+02:00",
+        "bidder": "e7f4917d504e4f3fa93d3db0f9a1642e",
+        "time": "2015-11-26T13:26:24.009488+00:00"
+      },
+      "turn_1": {
+        "amount": 49500.0,
+        "bid_time": "2015-11-26T15:20:36.448845+02:00",
+        "bidder": "5f3a4063aaa840ada5b0463518de0e4b",
+        "time": "2015-11-26T13:22:24.009099+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 31322.11,
+        "bid_time": "2015-11-26T15:32:00.026479+02:00",
+        "bidder": "991637ba91ab45aea33369b2375fd19b",
+        "time": "2015-11-26T13:32:24.009296+00:00"
+      },
+      "turn_3": {
+        "amount": 31043.29,
+        "bid_time": "2015-11-26T15:33:46.355910+02:00",
+        "bidder": "e7f4917d504e4f3fa93d3db0f9a1642e",
+        "time": "2015-11-26T13:34:24.008768+00:00"
+      },
+      "turn_1": {
+        "bidder": "5f3a4063aaa840ada5b0463518de0e4b",
+        "time": "2015-11-26T13:30:24.013812+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "991637ba91ab45aea33369b2375fd19b",
+        "time": "2015-11-26T13:16:24.009500+00:00"
+      },
+      "turn_3": {
+        "bidder": "e7f4917d504e4f3fa93d3db0f9a1642e",
+        "time": "2015-11-26T13:18:24.008648+00:00"
+      },
+      "turn_1": {
+        "amount": 50000.0,
+        "bid_time": "2015-11-26T15:12:50.707926+02:00",
+        "bidder": "5f3a4063aaa840ada5b0463518de0e4b",
+        "time": "2015-11-26T13:14:24.010379+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5f3a4063aaa840ada5b0463518de0e4b",
+          "amount": 49500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0676233014",
+                "name": "Стронський Віктор Миколайович",
+                "email": "vasha1apteka@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2441915138",
+                "legalName": "ФО-П Стронський Віктор Миколайович"
+              },
+              "name": "ФО-П Стронський Віктор Миколайович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87500",
+                "region": "Донецька",
+                "streetAddress": "вул. Георгіївська,15а",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-11-26T15:20:36.448845+02:00"
+        },
+        {
+          "bidder": "991637ba91ab45aea33369b2375fd19b",
+          "amount": 31322.11,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-26T15:32:00.026479+02:00"
+        },
+        {
+          "bidder": "e7f4917d504e4f3fa93d3db0f9a1642e",
+          "amount": 31043.29,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-26T15:33:46.355910+02:00"
+        }
+      ],
+      "time": "2015-11-26T13:34:25.614253+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T11:34:21.997519+02:00",
+          "amount": 50672.0,
+          "bidder": "5f3a4063aaa840ada5b0463518de0e4b"
+        },
+        {
+          "date": "2015-11-24T15:58:52.089296+02:00",
+          "amount": 38900.0,
+          "bidder": "991637ba91ab45aea33369b2375fd19b"
+        },
+        {
+          "date": "2015-11-25T15:35:51.942141+02:00",
+          "amount": 32292.05,
+          "bidder": "e7f4917d504e4f3fa93d3db0f9a1642e"
+        }
+      ],
+      "time": "2015-11-26T13:07:24.002384+00:00"
+    }
+  },
+  "id": "0fe059cb9272487eb53aafd3bc6bd349",
+  "tenderId": "UA-2015-11-18-000128-a"
+}

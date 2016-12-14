@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "419139a00b8b4cd99cdc4df5a41399eb",
+        "time": "2015-09-11T08:15:00.114246+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fba0b4337b946848598cad49eb4d99d",
+        "time": "2015-09-11T08:13:00.031929+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "419139a00b8b4cd99cdc4df5a41399eb",
+        "time": "2015-09-11T08:21:00.086142+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fba0b4337b946848598cad49eb4d99d",
+        "time": "2015-09-11T08:19:00.050599+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "419139a00b8b4cd99cdc4df5a41399eb",
+        "time": "2015-09-11T08:09:00.092141+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fba0b4337b946848598cad49eb4d99d",
+        "time": "2015-09-11T08:07:00.023601+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6fba0b4337b946848598cad49eb4d99d",
+          "amount": 17126.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alvant.com.ua",
+                "telephone": "0503356917",
+                "name": "Білан Олексій Валерійович",
+                "email": "alvant@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54030",
+                "region": "Миколаївська",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T10:04:19.275545+03:00"
+        },
+        {
+          "bidder": "419139a00b8b4cd99cdc4df5a41399eb",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800445927795",
+                "name": "\"ТОВ\" Укркомплектпостач",
+                "email": "ukp1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36432961",
+                "legalName": "\"ТОВ\" Укркомплектпостач"
+              },
+              "name": "\"ТОВ\" Укркомплектпостач",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07401 Киевская обл, г,Бровары, ул,Кирова 6, кв,29",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T15:43:08.885929+03:00"
+        }
+      ],
+      "time": "2015-09-11T08:21:05.346872+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T10:04:19.275545+03:00",
+          "amount": 17126.4,
+          "bidder": "6fba0b4337b946848598cad49eb4d99d"
+        },
+        {
+          "date": "2015-09-10T15:43:08.885929+03:00",
+          "amount": 15000.0,
+          "bidder": "419139a00b8b4cd99cdc4df5a41399eb"
+        }
+      ],
+      "time": "2015-09-11T08:00:00.019841+00:00"
+    }
+  },
+  "id": "f5cb599da4104eb9b31492fe0da1d941",
+  "tenderId": "UA-2015-09-07-000202"
+}

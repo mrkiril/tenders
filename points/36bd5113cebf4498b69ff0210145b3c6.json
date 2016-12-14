@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2100.0,
+        "bid_time": "2015-11-12T13:50:03.806726+02:00",
+        "bidder": "7092706553364a1eadeff7abb88daedf",
+        "time": "2015-11-12T11:51:50.009063+00:00"
+      },
+      "turn_3": {
+        "amount": 2090.0,
+        "bid_time": "2015-11-12T13:52:49.934903+02:00",
+        "bidder": "3d07c2b198aa47579c976276c496b01c",
+        "time": "2015-11-12T11:53:50.008812+00:00"
+      },
+      "turn_1": {
+        "bidder": "f14bfa1a32d943b7aff6de58a4d5d334",
+        "time": "2015-11-12T11:49:50.007736+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1900.0,
+        "bid_time": "2015-11-12T13:57:59.781562+02:00",
+        "bidder": "7092706553364a1eadeff7abb88daedf",
+        "time": "2015-11-12T11:59:50.008434+00:00"
+      },
+      "turn_3": {
+        "amount": 1890.0,
+        "bid_time": "2015-11-12T14:01:02.675337+02:00",
+        "bidder": "3d07c2b198aa47579c976276c496b01c",
+        "time": "2015-11-12T12:01:50.030786+00:00"
+      },
+      "turn_1": {
+        "bidder": "f14bfa1a32d943b7aff6de58a4d5d334",
+        "time": "2015-11-12T11:57:50.008259+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2400.0,
+        "bid_time": "2015-11-12T13:42:34.182860+02:00",
+        "bidder": "7092706553364a1eadeff7abb88daedf",
+        "time": "2015-11-12T11:43:50.011146+00:00"
+      },
+      "turn_3": {
+        "amount": 2380.0,
+        "bid_time": "2015-11-12T13:45:00.295307+02:00",
+        "bidder": "3d07c2b198aa47579c976276c496b01c",
+        "time": "2015-11-12T11:45:50.010231+00:00"
+      },
+      "turn_1": {
+        "bidder": "f14bfa1a32d943b7aff6de58a4d5d334",
+        "time": "2015-11-12T11:41:50.007726+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f14bfa1a32d943b7aff6de58a4d5d334",
+          "amount": 4399.92,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://realab.kiev.ua/",
+                "telephone": "+380956481048",
+                "name": "Общество с ограниченной ответственностью \"Реалаб\"",
+                "email": "volodymyr_dnes@realab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33239012",
+                "legalName": "Общество с ограниченной ответственностью \"Реалаб\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Реалаб\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03142, г. Киев, б-р Вернадского, 38-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T09:28:15.819733+02:00"
+        },
+        {
+          "bidder": "7092706553364a1eadeff7abb88daedf",
+          "amount": 1900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504534321",
+                "name": "ФОП  Андрющенко Марина Євгенівна",
+                "email": "a3and@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2720525429",
+                "legalName": "ФОП  Андрющенко Марина Євгенівна"
+              },
+              "name": "ФОП  Андрющенко Марина Євгенівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Дн-ська обл., пгт.Покровське\r\nПроул.Степовий,40,   53600",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T13:57:59.781562+02:00"
+        },
+        {
+          "bidder": "3d07c2b198aa47579c976276c496b01c",
+          "amount": 1890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.voles.com.ua",
+                "telephone": "+380445811148",
+                "name": "Матвєєнко Наталія Анатоліївна",
+                "email": "melnichuk.fedor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39017032"
+              },
+              "name": "ТОВ Волес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "пр-т. Героїв Сталінграда 2Г, корп. 1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-12T14:01:02.675337+02:00"
+        }
+      ],
+      "time": "2015-11-12T12:01:57.949402+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T09:28:15.819733+02:00",
+          "amount": 4399.92,
+          "bidder": "f14bfa1a32d943b7aff6de58a4d5d334"
+        },
+        {
+          "date": "2015-11-11T09:27:39.045367+02:00",
+          "amount": 2900.0,
+          "bidder": "7092706553364a1eadeff7abb88daedf"
+        },
+        {
+          "date": "2015-11-10T17:06:20.917310+02:00",
+          "amount": 2460.0,
+          "bidder": "3d07c2b198aa47579c976276c496b01c"
+        }
+      ],
+      "time": "2015-11-12T11:34:50.004340+00:00"
+    }
+  },
+  "id": "36bd5113cebf4498b69ff0210145b3c6",
+  "tenderId": "UA-2015-11-03-000248"
+}

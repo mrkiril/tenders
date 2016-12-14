@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9da5e7db0549499daee1a43790df4059",
+        "time": "2015-10-16T11:20:04.005491+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb4ce98f94614fee9f4de7985340573a",
+        "time": "2015-10-16T11:18:04.006462+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9da5e7db0549499daee1a43790df4059",
+        "time": "2015-10-16T11:26:04.005677+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb4ce98f94614fee9f4de7985340573a",
+        "time": "2015-10-16T11:24:04.006093+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9da5e7db0549499daee1a43790df4059",
+        "time": "2015-10-16T11:14:04.007095+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb4ce98f94614fee9f4de7985340573a",
+        "time": "2015-10-16T11:12:04.009598+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cb4ce98f94614fee9f4de7985340573a",
+          "amount": 389988.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukrprompostavka.com.ua/",
+                "telephone": "+380577835763",
+                "name": "ТОВ \"СП Укрпромпоставка\"",
+                "email": "info@prompribor.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38878062",
+                "legalName": "ТОВ \"СП Укрпромпоставка\""
+              },
+              "name": "ТОВ \"СП Укрпромпоставка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61177, Харківська обл., м.Харків, пров.Пластичний, буд.9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T12:07:15.978871+03:00"
+        },
+        {
+          "bidder": "9da5e7db0549499daee1a43790df4059",
+          "amount": 325395.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380577800801",
+                "name": "Товариство з обмеженою відповідальністю \"МАГІСТРАЛЬ-ТРАСТ\"",
+                "email": "magistral.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39765293",
+                "legalName": "Товариство з обмеженою відповідальністю \"МАГІСТРАЛЬ-ТРАСТ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"МАГІСТРАЛЬ-ТРАСТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61039, м.Харків, бульвар Профспілковий, буд.5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-13T16:25:51.147468+03:00"
+        }
+      ],
+      "time": "2015-10-16T11:26:14.001660+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T12:07:15.978871+03:00",
+          "amount": 389988.0,
+          "bidder": "cb4ce98f94614fee9f4de7985340573a"
+        },
+        {
+          "date": "2015-10-13T16:25:51.147468+03:00",
+          "amount": 325395.0,
+          "bidder": "9da5e7db0549499daee1a43790df4059"
+        }
+      ],
+      "time": "2015-10-16T11:05:04.002341+00:00"
+    }
+  },
+  "id": "14533fa11a214d128848f06bb349660b",
+  "tenderId": "UA-2015-10-09-000013"
+}

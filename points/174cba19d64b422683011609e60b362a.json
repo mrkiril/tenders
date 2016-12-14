@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c600184ffa2d44d68a041df8fc04e505",
+        "time": "2015-10-07T09:46:35.010398+00:00"
+      },
+      "turn_1": {
+        "bidder": "139288dbf62f48c1957044a55de03eee",
+        "time": "2015-10-07T09:44:35.475289+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c600184ffa2d44d68a041df8fc04e505",
+        "time": "2015-10-07T09:52:35.008640+00:00"
+      },
+      "turn_1": {
+        "bidder": "139288dbf62f48c1957044a55de03eee",
+        "time": "2015-10-07T09:50:35.013535+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c600184ffa2d44d68a041df8fc04e505",
+        "time": "2015-10-07T09:40:35.009026+00:00"
+      },
+      "turn_1": {
+        "bidder": "139288dbf62f48c1957044a55de03eee",
+        "time": "2015-10-07T09:38:35.009796+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "139288dbf62f48c1957044a55de03eee",
+          "amount": 8360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-351-16-67",
+                "name": "Герасимова Олена Миколаївна",
+                "email": "e.n.gerasimova@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39350578",
+                "legalName": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Машинобудівна, 50А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T13:25:20.905160+03:00"
+        },
+        {
+          "bidder": "c600184ffa2d44d68a041df8fc04e505",
+          "amount": 8277.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://arista.ua/",
+                "telephone": "+380985777028",
+                "name": "Крамаренко Вікторія Вікторівна",
+                "email": "vk@arista.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33221885"
+              },
+              "name": "ТОВ ТПО \"Аріста\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "Печерський район, вулиця Чигоріна, будинок 61",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T09:57:53.418997+03:00"
+        }
+      ],
+      "time": "2015-10-07T09:52:36.243738+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-06T13:25:20.905160+03:00",
+          "amount": 8360.0,
+          "bidder": "139288dbf62f48c1957044a55de03eee"
+        },
+        {
+          "date": "2015-10-02T09:57:53.418997+03:00",
+          "amount": 8277.0,
+          "bidder": "c600184ffa2d44d68a041df8fc04e505"
+        }
+      ],
+      "time": "2015-10-07T09:31:35.004544+00:00"
+    }
+  },
+  "id": "174cba19d64b422683011609e60b362a",
+  "tenderId": "UA-2015-09-24-000292"
+}

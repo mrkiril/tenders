@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "00598d96c5f64cc2a9058eaaff3214d5",
+        "time": "2015-11-05T11:23:11.008279+00:00"
+      },
+      "turn_1": {
+        "amount": 310000.0,
+        "bid_time": "2015-11-05T13:20:35.496806+02:00",
+        "bidder": "d5d36dc3fb4648c08c39b4c3930a0dd5",
+        "time": "2015-11-05T11:21:11.009527+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 300000.0,
+        "bid_time": "2015-11-05T13:28:55.464200+02:00",
+        "bidder": "d5d36dc3fb4648c08c39b4c3930a0dd5",
+        "time": "2015-11-05T11:29:11.009437+00:00"
+      },
+      "turn_1": {
+        "bidder": "00598d96c5f64cc2a9058eaaff3214d5",
+        "time": "2015-11-05T11:27:11.007832+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 364000.0,
+        "bid_time": "2015-11-05T13:16:43.119598+02:00",
+        "bidder": "00598d96c5f64cc2a9058eaaff3214d5",
+        "time": "2015-11-05T11:17:11.010225+00:00"
+      },
+      "turn_1": {
+        "amount": 365000.0,
+        "bid_time": "2015-11-05T13:14:23.813555+02:00",
+        "bidder": "d5d36dc3fb4648c08c39b4c3930a0dd5",
+        "time": "2015-11-05T11:15:11.033472+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "00598d96c5f64cc2a9058eaaff3214d5",
+          "amount": 364000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://biola-lab.com/",
+                "faxNumber": "032244-86-77",
+                "telephone": "032244-86-76",
+                "name": "Предземірська Ліліана Романівна",
+                "email": "pliliana@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20806124",
+                "legalName": "Приватне підприємство \"Біола\""
+              },
+              "name": "Приватне підприємство \"Біола\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79010",
+                "region": "Львівська",
+                "streetAddress": "вул. Некрасова, 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T13:16:43.119598+02:00"
+        },
+        {
+          "bidder": "d5d36dc3fb4648c08c39b4c3930a0dd5",
+          "amount": 300000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.intermedica.com.ua/",
+                "telephone": "0445012172",
+                "name": "Александр  Храбан ",
+                "email": "hrabanal@intermedica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38716182",
+                "legalName": "ТОВ \"Інтермедика-Україна\""
+              },
+              "name": "ТОВ \"Інтермедика-Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев , ул.Гарматная 6 , 03067"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:28:55.464200+02:00"
+        }
+      ],
+      "time": "2015-11-05T11:29:14.551754+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T14:11:02.978974+02:00",
+          "amount": 379000.0,
+          "bidder": "d5d36dc3fb4648c08c39b4c3930a0dd5"
+        },
+        {
+          "date": "2015-11-02T09:25:53.865543+02:00",
+          "amount": 378000.0,
+          "bidder": "00598d96c5f64cc2a9058eaaff3214d5"
+        }
+      ],
+      "time": "2015-11-05T11:08:11.005108+00:00"
+    }
+  },
+  "id": "35b37e3061434da4bf389b55e35ad05f",
+  "tenderId": "UA-2015-10-27-000325"
+}

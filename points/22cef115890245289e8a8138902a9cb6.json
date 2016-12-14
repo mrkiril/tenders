@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "463ae2f8386442a98bcd44162de9117f",
+        "time": "2015-12-17T09:46:08.008586+00:00"
+      },
+      "turn_1": {
+        "bidder": "30759fce86ce45bdac03880ae1534772",
+        "time": "2015-12-17T09:44:08.008712+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "463ae2f8386442a98bcd44162de9117f",
+        "time": "2015-12-17T09:52:08.007572+00:00"
+      },
+      "turn_1": {
+        "bidder": "30759fce86ce45bdac03880ae1534772",
+        "time": "2015-12-17T09:50:08.007856+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "463ae2f8386442a98bcd44162de9117f",
+        "time": "2015-12-17T09:40:08.007070+00:00"
+      },
+      "turn_1": {
+        "bidder": "30759fce86ce45bdac03880ae1534772",
+        "time": "2015-12-17T09:38:08.008194+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30759fce86ce45bdac03880ae1534772",
+          "amount": 8333.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112,  ",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-12T23:07:17.858589+02:00"
+        },
+        {
+          "bidder": "463ae2f8386442a98bcd44162de9117f",
+          "amount": 8200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-13T20:29:36.578584+02:00"
+        }
+      ],
+      "time": "2015-12-17T09:52:12.266554+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-12T23:07:17.858589+02:00",
+          "amount": 8333.0,
+          "bidder": "30759fce86ce45bdac03880ae1534772"
+        },
+        {
+          "date": "2015-12-13T20:29:36.578584+02:00",
+          "amount": 8200.0,
+          "bidder": "463ae2f8386442a98bcd44162de9117f"
+        }
+      ],
+      "time": "2015-12-17T09:31:08.002668+00:00"
+    }
+  },
+  "id": "22cef115890245289e8a8138902a9cb6",
+  "tenderId": "UA-2015-12-08-000197-a"
+}

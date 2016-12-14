@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 26755.0,
+        "bid_time": "2015-11-09T15:47:15.115999+02:00",
+        "bidder": "58cdfbf34e1a496fa61b94a9faf7f80b",
+        "time": "2015-11-09T13:48:55.007481+00:00"
+      },
+      "turn_1": {
+        "amount": 26760.0,
+        "bid_time": "2015-11-09T15:45:32.312774+02:00",
+        "bidder": "2701a9b83fba420fa7dea95f8a9565ef",
+        "time": "2015-11-09T13:46:55.006959+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 26220.0,
+        "bid_time": "2015-11-09T15:54:23.570531+02:00",
+        "bidder": "58cdfbf34e1a496fa61b94a9faf7f80b",
+        "time": "2015-11-09T13:54:55.007608+00:00"
+      },
+      "turn_1": {
+        "bidder": "2701a9b83fba420fa7dea95f8a9565ef",
+        "time": "2015-11-09T13:52:55.006272+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 32915.0,
+        "bid_time": "2015-11-09T15:42:06.735049+02:00",
+        "bidder": "58cdfbf34e1a496fa61b94a9faf7f80b",
+        "time": "2015-11-09T13:42:55.007016+00:00"
+      },
+      "turn_1": {
+        "amount": 33445.0,
+        "bid_time": "2015-11-09T15:39:38.684267+02:00",
+        "bidder": "2701a9b83fba420fa7dea95f8a9565ef",
+        "time": "2015-11-09T13:40:55.008066+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2701a9b83fba420fa7dea95f8a9565ef",
+          "amount": 26760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957915970, +380444645885",
+                "name": "Оксана Овчаренко",
+                "email": "director@levtam.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"ЛЕВТАМ\"",
+                "id": "33083749",
+                "uri": "http://levtam.in.ua/"
+              },
+              "name": "ПП \"ЛЕВТАМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07353",
+                "region": "Киевская",
+                "streetAddress": "вул. Дубрівська, 27,   ",
+                "locality": "с. Старі Петрівці"
+              }
+            }
+          ],
+          "time": "2015-11-09T15:45:32.312774+02:00"
+        },
+        {
+          "bidder": "58cdfbf34e1a496fa61b94a9faf7f80b",
+          "amount": 26220.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674019598",
+                "name": "Олег Олег",
+                "email": "bazaroza@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38655607",
+                "legalName": "ТОВ \"МАЛЬТА.\""
+              },
+              "name": "ТОВ \"МАЛЬТА.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "39600",
+                "region": "Полтавская",
+                "streetAddress": "Кременчук,провулок Г.Бреста,буд 44-А",
+                "locality": "Кременчуг"
+              }
+            }
+          ],
+          "time": "2015-11-09T15:54:23.570531+02:00"
+        }
+      ],
+      "time": "2015-11-09T13:55:02.914379+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T16:55:55.689020+02:00",
+          "amount": 34900.0,
+          "bidder": "2701a9b83fba420fa7dea95f8a9565ef"
+        },
+        {
+          "date": "2015-11-02T11:58:07.494180+02:00",
+          "amount": 33450.0,
+          "bidder": "58cdfbf34e1a496fa61b94a9faf7f80b"
+        }
+      ],
+      "time": "2015-11-09T13:33:55.002509+00:00"
+    }
+  },
+  "id": "cea02ee57bad4b6988baa95a415a3941",
+  "tenderId": "UA-2015-10-22-000053"
+}

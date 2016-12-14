@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "78532190874d465092e3af60dd7a4ecd",
+        "time": "2015-07-01T08:15:00.298733+00:00"
+      },
+      "turn_1": {
+        "bidder": "49cdcf3520bf4f44be813fe855ea30b9",
+        "time": "2015-07-01T08:13:00.065145+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "78532190874d465092e3af60dd7a4ecd",
+        "time": "2015-07-01T08:21:00.276152+00:00"
+      },
+      "turn_1": {
+        "bidder": "49cdcf3520bf4f44be813fe855ea30b9",
+        "time": "2015-07-01T08:19:00.215249+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "78532190874d465092e3af60dd7a4ecd",
+        "time": "2015-07-01T08:09:00.112339+00:00"
+      },
+      "turn_1": {
+        "bidder": "49cdcf3520bf4f44be813fe855ea30b9",
+        "time": "2015-07-01T08:07:00.073183+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "49cdcf3520bf4f44be813fe855ea30b9",
+          "amount": 100000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://interext.com.ua",
+                "telephone": "+380444619902",
+                "name": "Товариство з обмеженою відповідальністю \"Інтерекст LTD\"",
+                "email": "interext@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23708824",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтерекст LTD\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтерекст LTD\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01014, м.Київ, вул.Тимірязєвська,2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T10:53:53.376235+03:00"
+        },
+        {
+          "bidder": "78532190874d465092e3af60dd7a4ecd",
+          "amount": 78000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-25T09:55:04.854169+03:00"
+        }
+      ],
+      "time": "2015-07-01T08:21:08.886411+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-26T10:53:53.376235+03:00",
+          "amount": 100000.0,
+          "bidder": "49cdcf3520bf4f44be813fe855ea30b9"
+        },
+        {
+          "date": "2015-06-25T09:55:04.854169+03:00",
+          "amount": 78000.0,
+          "bidder": "78532190874d465092e3af60dd7a4ecd"
+        }
+      ],
+      "time": "2015-07-01T08:00:00.032015+00:00"
+    }
+  },
+  "id": "a8d8708a627e4e6cb76c8d246c1521c1",
+  "tenderId": "UA-2015-06-18-000074"
+}

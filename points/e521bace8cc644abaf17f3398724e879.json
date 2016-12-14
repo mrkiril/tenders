@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7443d9376c8b45adb5c53bda7c822d46",
+        "time": "2015-12-10T12:52:39.014913+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebc3c3515c2d40268bcd4aa341bca32e",
+        "time": "2015-12-10T12:50:39.008065+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7443d9376c8b45adb5c53bda7c822d46",
+        "time": "2015-12-10T12:58:39.008136+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebc3c3515c2d40268bcd4aa341bca32e",
+        "time": "2015-12-10T12:56:39.007612+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7443d9376c8b45adb5c53bda7c822d46",
+        "time": "2015-12-10T12:46:39.009227+00:00"
+      },
+      "turn_1": {
+        "bidder": "ebc3c3515c2d40268bcd4aa341bca32e",
+        "time": "2015-12-10T12:44:39.008895+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ebc3c3515c2d40268bcd4aa341bca32e",
+          "amount": 22140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675651416",
+                "name": "Елена Смельчанская",
+                "email": "kaskadtenders@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30746089",
+                "legalName": "ТОВ \"КАСКАД\""
+              },
+              "name": "ТОВ \"КАСКАД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Комсомольская, д. 52а",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-07T11:01:24.362393+02:00"
+        },
+        {
+          "bidder": "7443d9376c8b45adb5c53bda7c822d46",
+          "amount": 21510.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380663117140",
+                "name": "Найдйонов Олександр Юрійович",
+                "email": "Sell.well@yahoo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1409812507"
+              },
+              "name": "ФОП Захарова Г.I.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "25006",
+                "region": "Кіровоградська область",
+                "streetAddress": "Вул. Г. Сталiнграда, 15",
+                "locality": "Кiровоград"
+              }
+            }
+          ],
+          "time": "2015-12-08T00:02:46.233744+02:00"
+        }
+      ],
+      "time": "2015-12-10T12:58:41.837137+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T11:01:24.362393+02:00",
+          "amount": 22140.0,
+          "bidder": "ebc3c3515c2d40268bcd4aa341bca32e"
+        },
+        {
+          "date": "2015-12-08T00:02:46.233744+02:00",
+          "amount": 21510.0,
+          "bidder": "7443d9376c8b45adb5c53bda7c822d46"
+        }
+      ],
+      "time": "2015-12-10T12:37:39.004230+00:00"
+    }
+  },
+  "id": "e521bace8cc644abaf17f3398724e879",
+  "tenderId": "UA-2015-12-02-000168-a"
+}

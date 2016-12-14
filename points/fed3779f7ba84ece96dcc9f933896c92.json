@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "17a5a1ba18f6419fbb109264b163a755",
+        "time": "2015-11-02T13:48:54.009765+00:00"
+      },
+      "turn_1": {
+        "bidder": "40691f449d78466d9b5b464c7dc2a56d",
+        "time": "2015-11-02T13:46:54.012819+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "17a5a1ba18f6419fbb109264b163a755",
+        "time": "2015-11-02T13:54:54.008829+00:00"
+      },
+      "turn_1": {
+        "bidder": "40691f449d78466d9b5b464c7dc2a56d",
+        "time": "2015-11-02T13:52:54.013652+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "17a5a1ba18f6419fbb109264b163a755",
+        "time": "2015-11-02T13:42:54.010930+00:00"
+      },
+      "turn_1": {
+        "bidder": "40691f449d78466d9b5b464c7dc2a56d",
+        "time": "2015-11-02T13:40:54.009533+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "40691f449d78466d9b5b464c7dc2a56d",
+          "amount": 4780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська !79-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T05:45:43.770659+02:00"
+        },
+        {
+          "bidder": "17a5a1ba18f6419fbb109264b163a755",
+          "amount": 4496.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://posudar.com.ua/",
+                "telephone": "+38976899090",
+                "name": "ТОВ \"Посударь\"",
+                "email": "shaposhnikov.andrey@psf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39353909",
+                "legalName": "ТОВ \"Посударь\""
+              },
+              "name": "ТОВ \"Посударь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69057, Запоріжжя, вул. Адмирала Ннахімова, будинок №3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T15:57:45.698684+02:00"
+        }
+      ],
+      "time": "2015-11-02T13:54:57.289721+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T05:45:43.770659+02:00",
+          "amount": 4780.0,
+          "bidder": "40691f449d78466d9b5b464c7dc2a56d"
+        },
+        {
+          "date": "2015-10-30T15:57:45.698684+02:00",
+          "amount": 4496.0,
+          "bidder": "17a5a1ba18f6419fbb109264b163a755"
+        }
+      ],
+      "time": "2015-11-02T13:33:54.004059+00:00"
+    }
+  },
+  "id": "fed3779f7ba84ece96dcc9f933896c92",
+  "tenderId": "UA-2015-10-23-000019"
+}

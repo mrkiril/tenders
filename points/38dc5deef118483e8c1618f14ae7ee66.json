@@ -1,0 +1,216 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 7200.0,
+        "bid_time": "2015-10-02T15:05:09.986576+03:00",
+        "bidder": "9f36732482ad4122bbfda09af95f15c3",
+        "time": "2015-10-02T12:05:37.010482+00:00"
+      },
+      "turn_2": {
+        "amount": 7300.0,
+        "bid_time": "2015-10-02T15:01:31.675808+03:00",
+        "bidder": "8810a10f6725439087daa90c45d10f5a",
+        "time": "2015-10-02T12:01:37.007311+00:00"
+      },
+      "turn_3": {
+        "amount": 7280.0,
+        "bid_time": "2015-10-02T15:03:16.278715+03:00",
+        "bidder": "61db8f041d5346ea8b052061c578f4d5",
+        "time": "2015-10-02T12:03:37.011604+00:00"
+      },
+      "turn_1": {
+        "amount": 8200.0,
+        "bid_time": "2015-10-02T14:57:44.465340+03:00",
+        "bidder": "dd911a4d763744ec95f8d954aed06da0",
+        "time": "2015-10-02T11:59:37.020686+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "9f36732482ad4122bbfda09af95f15c3",
+        "time": "2015-10-02T12:15:37.011556+00:00"
+      },
+      "turn_2": {
+        "amount": 6960.0,
+        "bid_time": "2015-10-02T15:10:44.350097+03:00",
+        "bidder": "8810a10f6725439087daa90c45d10f5a",
+        "time": "2015-10-02T12:11:37.008786+00:00"
+      },
+      "turn_3": {
+        "amount": 6911.0,
+        "bid_time": "2015-10-02T15:13:06.725063+03:00",
+        "bidder": "61db8f041d5346ea8b052061c578f4d5",
+        "time": "2015-10-02T12:13:37.011260+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd911a4d763744ec95f8d954aed06da0",
+        "time": "2015-10-02T12:09:37.009141+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 7700.0,
+        "bid_time": "2015-10-02T14:54:07.363459+03:00",
+        "bidder": "61db8f041d5346ea8b052061c578f4d5",
+        "time": "2015-10-02T11:55:37.011059+00:00"
+      },
+      "turn_2": {
+        "amount": 7800.0,
+        "bid_time": "2015-10-02T14:50:23.839130+03:00",
+        "bidder": "8810a10f6725439087daa90c45d10f5a",
+        "time": "2015-10-02T11:51:37.010194+00:00"
+      },
+      "turn_3": {
+        "amount": 7676.59,
+        "bid_time": "2015-10-02T14:52:38.351480+03:00",
+        "bidder": "9f36732482ad4122bbfda09af95f15c3",
+        "time": "2015-10-02T11:53:37.010552+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd911a4d763744ec95f8d954aed06da0",
+        "time": "2015-10-02T11:49:37.008975+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dd911a4d763744ec95f8d954aed06da0",
+          "amount": 8200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T14:57:44.465340+03:00"
+        },
+        {
+          "bidder": "9f36732482ad4122bbfda09af95f15c3",
+          "amount": 7200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444532077",
+                "telephone": "+380444532007",
+                "name": "Черниш Наталія Михайлівна",
+                "email": "novamed@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30578379"
+              },
+              "name": "ТОВ Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська область",
+                "streetAddress": "м.Київ, вул.Вибозька, буд.91а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T15:05:09.986576+03:00"
+        },
+        {
+          "bidder": "8810a10f6725439087daa90c45d10f5a",
+          "amount": 6960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrtrade.ru",
+                "telephone": "+380444998497",
+                "name": "Бучнєв Сергій Миколайович",
+                "email": "ukrtender@ukrtrade.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36265663"
+              },
+              "name": "ТОВ ЕксімКаргоТрейд",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03115",
+                "region": "Київська область",
+                "streetAddress": "проспект Перемоги, буд. 136, оф. 34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T15:10:44.350097+03:00"
+        },
+        {
+          "bidder": "61db8f041d5346ea8b052061c578f4d5",
+          "amount": 6911.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.voles.com.ua",
+                "telephone": "+380445811148",
+                "name": "Матвєєнко Наталія Анатоліївна",
+                "email": "melnichuk.fedor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39017032"
+              },
+              "name": "ТОВ Волес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "пр-т. Героїв Сталінграда 2Г, корп. 1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T15:13:06.725063+03:00"
+        }
+      ],
+      "time": "2015-10-02T12:15:44.240656+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-01T14:22:16.985254+03:00",
+          "amount": 9316.8,
+          "bidder": "dd911a4d763744ec95f8d954aed06da0"
+        },
+        {
+          "date": "2015-10-01T16:28:36.080815+03:00",
+          "amount": 8840.0,
+          "bidder": "8810a10f6725439087daa90c45d10f5a"
+        },
+        {
+          "date": "2015-10-01T16:11:24.933656+03:00",
+          "amount": 8093.75,
+          "bidder": "9f36732482ad4122bbfda09af95f15c3"
+        },
+        {
+          "date": "2015-10-01T17:18:55.595790+03:00",
+          "amount": 8040.0,
+          "bidder": "61db8f041d5346ea8b052061c578f4d5"
+        }
+      ],
+      "time": "2015-10-02T11:42:37.006173+00:00"
+    }
+  },
+  "id": "38dc5deef118483e8c1618f14ae7ee66",
+  "tenderId": "UA-2015-09-30-000025"
+}

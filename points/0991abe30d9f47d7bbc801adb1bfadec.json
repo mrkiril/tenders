@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "580d3c163320409c8dfe8f66ff6e1c3b",
+        "time": "2015-10-22T10:18:24.010109+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ead4206b5dd404f8a03a4ae58384ad9",
+        "time": "2015-10-22T10:16:24.008109+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "580d3c163320409c8dfe8f66ff6e1c3b",
+        "time": "2015-10-22T10:24:24.013687+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ead4206b5dd404f8a03a4ae58384ad9",
+        "time": "2015-10-22T10:22:24.010585+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "580d3c163320409c8dfe8f66ff6e1c3b",
+        "time": "2015-10-22T10:12:24.008767+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ead4206b5dd404f8a03a4ae58384ad9",
+        "time": "2015-10-22T10:10:24.008737+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2ead4206b5dd404f8a03a4ae58384ad9",
+          "amount": 1399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-21T03:04:06.772005+03:00"
+        },
+        {
+          "bidder": "580d3c163320409c8dfe8f66ff6e1c3b",
+          "amount": 1350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380612701289, +380936972040, +380661584895",
+                "name": "Сергей Петренко",
+                "email": "santis@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Петренко Сергей Владленович\"",
+                "id": "2935208450",
+                "uri": "http://www.santis.com.ua"
+              },
+              "name": "ФОП \"Петренко Сергей Владленович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69096",
+                "region": "Запорожская",
+                "streetAddress": "ул. Панаса Мирного, 91",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-10-20T07:38:34.769322+03:00"
+        }
+      ],
+      "time": "2015-10-22T10:24:24.813775+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T03:04:06.772005+03:00",
+          "amount": 1399.0,
+          "bidder": "2ead4206b5dd404f8a03a4ae58384ad9"
+        },
+        {
+          "date": "2015-10-20T07:38:34.769322+03:00",
+          "amount": 1350.0,
+          "bidder": "580d3c163320409c8dfe8f66ff6e1c3b"
+        }
+      ],
+      "time": "2015-10-22T10:03:24.002587+00:00"
+    }
+  },
+  "id": "0991abe30d9f47d7bbc801adb1bfadec",
+  "tenderId": "UA-2015-10-19-000338"
+}

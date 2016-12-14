@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "333aae546f3a4153a790ad97bf750556",
+        "time": "2015-07-22T08:45:00.113567+00:00"
+      },
+      "turn_1": {
+        "bidder": "70e69ab6a7844ca2a373b57bc0ec2288",
+        "time": "2015-07-22T08:43:00.056854+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "333aae546f3a4153a790ad97bf750556",
+        "time": "2015-07-22T08:51:00.037514+00:00"
+      },
+      "turn_1": {
+        "bidder": "70e69ab6a7844ca2a373b57bc0ec2288",
+        "time": "2015-07-22T08:49:00.065447+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "333aae546f3a4153a790ad97bf750556",
+        "time": "2015-07-22T08:39:00.106283+00:00"
+      },
+      "turn_1": {
+        "bidder": "70e69ab6a7844ca2a373b57bc0ec2288",
+        "time": "2015-07-22T08:37:00.134303+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "70e69ab6a7844ca2a373b57bc0ec2288",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380660876659",
+                "name": "НТП Трансінвест",
+                "email": "ntptransinvest@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39270330",
+                "legalName": "НТП Трансінвест"
+              },
+              "name": "НТП Трансінвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, м.Київ, вул.Фрунзе,160-Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-21T14:59:01.747909+03:00"
+        },
+        {
+          "bidder": "333aae546f3a4153a790ad97bf750556",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://upv.kiev.ua",
+                "telephone": "+380673211965",
+                "name": "ООО \"Научно-производственное предприятие \"Укрпромвнедрение\"",
+                "email": "tenders.upv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35141676",
+                "legalName": "ООО \"Научно-производственное предприятие \"Укрпромвнедрение\""
+              },
+              "name": "ООО \"Научно-производственное предприятие \"Укрпромвнедрение\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, Украина, г. Киев, пер. Лабораторный, 1, оф. 400",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-20T14:52:15.479254+03:00"
+        }
+      ],
+      "time": "2015-07-22T08:51:05.045774+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-20T14:52:15.479254+03:00",
+          "amount": 30000.0,
+          "bidder": "333aae546f3a4153a790ad97bf750556"
+        },
+        {
+          "date": "2015-07-21T14:59:01.747909+03:00",
+          "amount": 30000.0,
+          "bidder": "70e69ab6a7844ca2a373b57bc0ec2288"
+        }
+      ],
+      "time": "2015-07-22T08:30:00.027876+00:00"
+    }
+  },
+  "id": "724b6da4feb64c54bb16decb35aadc31",
+  "tenderId": "UA-2015-07-16-000088"
+}

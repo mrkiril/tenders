@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1309c28f77a2418fb9f1be34ae1ae657",
+        "time": "2015-11-26T11:55:30.008387+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddc675224de749a794f7438103d634d0",
+        "time": "2015-11-26T11:57:30.008309+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b75d1b1e551440fb370b239bc1adbf3",
+        "time": "2015-11-26T11:53:30.019443+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 97020.0,
+        "bid_time": "2015-11-26T14:02:36.006088+02:00",
+        "bidder": "1309c28f77a2418fb9f1be34ae1ae657",
+        "time": "2015-11-26T12:03:30.009921+00:00"
+      },
+      "turn_3": {
+        "amount": 97002.0,
+        "bid_time": "2015-11-26T14:04:39.189069+02:00",
+        "bidder": "ddc675224de749a794f7438103d634d0",
+        "time": "2015-11-26T12:05:30.008578+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b75d1b1e551440fb370b239bc1adbf3",
+        "time": "2015-11-26T12:01:30.014459+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1309c28f77a2418fb9f1be34ae1ae657",
+        "time": "2015-11-26T11:47:30.010434+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddc675224de749a794f7438103d634d0",
+        "time": "2015-11-26T11:49:30.008314+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b75d1b1e551440fb370b239bc1adbf3",
+        "time": "2015-11-26T11:45:30.009744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4b75d1b1e551440fb370b239bc1adbf3",
+          "amount": 150498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0504705365",
+                "name": "Барковська Ольга Михайлівна",
+                "email": "888agk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2910415468",
+                "legalName": "Фізична особа підприємець Барковська Ольга Михайлівна"
+              },
+              "name": "Фізична особа підприємець Барковська Ольга Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "84301",
+                "region": "Донецька",
+                "streetAddress": "Двірцева 38",
+                "locality": "Краматорськ"
+              }
+            }
+          ],
+          "time": "2015-11-25T16:35:55.580707+02:00"
+        },
+        {
+          "bidder": "1309c28f77a2418fb9f1be34ae1ae657",
+          "amount": 97020.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442392003",
+                "name": "Дмитрий",
+                "email": "dio@tk-domtex.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТК-Домашній Текстиль\"",
+                "id": "38192655",
+                "uri": "http://www.tk-domtex.com.ua"
+              },
+              "name": "ТОВ \"ТК-Домашній Текстиль\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02081",
+                "region": "Киевская",
+                "streetAddress": "ул. Сортировочная, 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T14:02:36.006088+02:00"
+        },
+        {
+          "bidder": "ddc675224de749a794f7438103d634d0",
+          "amount": 97002.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380986988196",
+                "name": "Евгений",
+                "email": "5813407@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36439380",
+                "legalName": "Киев-Спецпром +, ООО"
+              },
+              "name": "Киев-Спецпром +, ООО",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04655",
+                "region": "Киевская",
+                "streetAddress": "Московский пр-кт, 21, офис 413",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T14:04:39.189069+02:00"
+        }
+      ],
+      "time": "2015-11-26T12:05:31.059993+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T16:35:55.580707+02:00",
+          "amount": 150498.0,
+          "bidder": "4b75d1b1e551440fb370b239bc1adbf3"
+        },
+        {
+          "date": "2015-11-25T16:45:20.276180+02:00",
+          "amount": 117243.0,
+          "bidder": "1309c28f77a2418fb9f1be34ae1ae657"
+        },
+        {
+          "date": "2015-11-25T17:13:08.030086+02:00",
+          "amount": 99000.0,
+          "bidder": "ddc675224de749a794f7438103d634d0"
+        }
+      ],
+      "time": "2015-11-26T11:38:30.004806+00:00"
+    }
+  },
+  "id": "08d1303bb8344373829575795204c90d",
+  "tenderId": "UA-2015-11-19-000014"
+}

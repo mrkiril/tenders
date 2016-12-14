@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 565500.0,
+        "bid_time": "2015-08-28T11:14:36.774285+03:00",
+        "bidder": "6df10c1d0f754760be9bbce1fc8864b5",
+        "time": "2015-08-28T08:15:00.052202+00:00"
+      },
+      "turn_1": {
+        "amount": 566000.0,
+        "bid_time": "2015-08-28T11:12:04.077348+03:00",
+        "bidder": "03ac8489c4ae42cda5c112e04366825f",
+        "time": "2015-08-28T08:13:00.081938+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 555000.0,
+        "bid_time": "2015-08-28T11:19:29.393085+03:00",
+        "bidder": "6df10c1d0f754760be9bbce1fc8864b5",
+        "time": "2015-08-28T08:21:00.031195+00:00"
+      },
+      "turn_1": {
+        "amount": 558000.0,
+        "bid_time": "2015-08-28T11:17:56.647481+03:00",
+        "bidder": "03ac8489c4ae42cda5c112e04366825f",
+        "time": "2015-08-28T08:19:00.045611+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6df10c1d0f754760be9bbce1fc8864b5",
+        "time": "2015-08-28T08:09:00.048262+00:00"
+      },
+      "turn_1": {
+        "bidder": "03ac8489c4ae42cda5c112e04366825f",
+        "time": "2015-08-28T08:07:00.031402+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03ac8489c4ae42cda5c112e04366825f",
+          "amount": 558000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0563787364",
+                "telephone": "0562365830",
+                "name": "Баутина Лариса Григорьевна",
+                "email": "bautina@agrospektr.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37150132",
+                "legalName": "Общество с ограниченной ответственностью \"Торговый Дом \"Агро-Спектр\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Торговый Дом \"Агро-Спектр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49107",
+                "region": "Дніпропетровська",
+                "streetAddress": "Запорожское шоссе 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-28T11:17:56.647481+03:00"
+        },
+        {
+          "bidder": "6df10c1d0f754760be9bbce1fc8864b5",
+          "amount": 555000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-28T11:19:29.393085+03:00"
+        }
+      ],
+      "time": "2015-08-28T08:21:06.530774+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-27T13:00:07.869716+03:00",
+          "amount": 678000.0,
+          "bidder": "03ac8489c4ae42cda5c112e04366825f"
+        },
+        {
+          "date": "2015-08-27T16:56:01.134049+03:00",
+          "amount": 567000.0,
+          "bidder": "6df10c1d0f754760be9bbce1fc8864b5"
+        }
+      ],
+      "time": "2015-08-28T08:00:00.012055+00:00"
+    }
+  },
+  "id": "dd8e18e952b04d93a34c095bebdcb017",
+  "tenderId": "UA-2015-08-13-000015"
+}

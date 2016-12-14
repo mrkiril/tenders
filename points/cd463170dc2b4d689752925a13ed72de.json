@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a96220393a9f46fd8c83dcd592e7e609",
+        "time": "2015-08-03T08:15:00.069553+00:00"
+      },
+      "turn_1": {
+        "bidder": "a85a557198274a598f072d6e03393536",
+        "time": "2015-08-03T08:13:00.175728+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a96220393a9f46fd8c83dcd592e7e609",
+        "time": "2015-08-03T08:21:00.125859+00:00"
+      },
+      "turn_1": {
+        "bidder": "a85a557198274a598f072d6e03393536",
+        "time": "2015-08-03T08:19:00.214591+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a85a557198274a598f072d6e03393536",
+        "time": "2015-08-03T08:09:00.085787+00:00"
+      },
+      "turn_1": {
+        "amount": 2935.0,
+        "bid_time": "2015-08-03T11:05:19.194161+03:00",
+        "bidder": "a96220393a9f46fd8c83dcd592e7e609",
+        "time": "2015-08-03T08:07:00.059230+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a85a557198274a598f072d6e03393536",
+          "amount": 2936.25,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442060946",
+                "name": "ТОВ \"КПГ\"",
+                "email": "kpg_kiev@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32919024",
+                "legalName": "ТОВ \"КПГ\""
+              },
+              "name": "ТОВ \"КПГ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ ,вул..П.Лумумби 4/6,оф .1205",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T11:33:12.095108+03:00"
+        },
+        {
+          "bidder": "a96220393a9f46fd8c83dcd592e7e609",
+          "amount": 2935.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mitral-sistem.com.ua",
+                "telephone": "+3800577141778",
+                "name": "ООО \"Митрал Систем\"",
+                "email": "mitral_system@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38158195",
+                "legalName": "ООО \"Митрал Систем\""
+              },
+              "name": "ООО \"Митрал Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61166, г. Харьков, проспект Ленина,38",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T11:05:19.194161+03:00"
+        }
+      ],
+      "time": "2015-08-03T08:21:06.673119+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-31T16:16:46.399128+03:00",
+          "amount": 3000.0,
+          "bidder": "a96220393a9f46fd8c83dcd592e7e609"
+        },
+        {
+          "date": "2015-07-31T11:33:12.095108+03:00",
+          "amount": 2936.25,
+          "bidder": "a85a557198274a598f072d6e03393536"
+        }
+      ],
+      "time": "2015-08-03T08:00:00.049489+00:00"
+    }
+  },
+  "id": "cd463170dc2b4d689752925a13ed72de",
+  "tenderId": "UA-2015-07-30-000112"
+}

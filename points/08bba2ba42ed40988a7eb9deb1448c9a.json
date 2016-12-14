@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0730bf9eb0b84a94a3108bc0a9179f46",
+        "time": "2015-10-01T08:15:00.015025+00:00"
+      },
+      "turn_1": {
+        "amount": 1780.0,
+        "bid_time": "2015-10-01T11:11:13.990991+03:00",
+        "bidder": "43d6b3406c2c4cb1b97d6df54c245849",
+        "time": "2015-10-01T08:13:00.008733+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "43d6b3406c2c4cb1b97d6df54c245849",
+        "time": "2015-10-01T08:21:00.012533+00:00"
+      },
+      "turn_1": {
+        "bidder": "0730bf9eb0b84a94a3108bc0a9179f46",
+        "time": "2015-10-01T08:19:00.014173+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0730bf9eb0b84a94a3108bc0a9179f46",
+        "time": "2015-10-01T08:09:00.019279+00:00"
+      },
+      "turn_1": {
+        "bidder": "43d6b3406c2c4cb1b97d6df54c245849",
+        "time": "2015-10-01T08:07:00.007077+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0730bf9eb0b84a94a3108bc0a9179f46",
+          "amount": 1791.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kapitalprominvest.com",
+                "telephone": "+380445858474",
+                "name": "ООО \"КАПИТАЛПРОМИНВЕСТ\"",
+                "email": "kpinvest.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38908510",
+                "legalName": "ООО \"КАПИТАЛПРОМИНВЕСТ\""
+              },
+              "name": "ООО \"КАПИТАЛПРОМИНВЕСТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02140 м. Київ, вул. Л. Руденко, 6-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T11:27:13.976680+03:00"
+        },
+        {
+          "bidder": "43d6b3406c2c4cb1b97d6df54c245849",
+          "amount": 1780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://royalmetal.com.ua",
+                "telephone": "+380677355175",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\"",
+                "email": "info@royalmetal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39578450",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РОЯЛ  МЕТАЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02218, м. Київ, вул. Райдужна, буд. 41, кв. 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T11:11:13.990991+03:00"
+        }
+      ],
+      "time": "2015-10-01T08:21:02.878782+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T10:43:46.075902+03:00",
+          "amount": 1800.0,
+          "bidder": "43d6b3406c2c4cb1b97d6df54c245849"
+        },
+        {
+          "date": "2015-09-24T11:27:13.976680+03:00",
+          "amount": 1791.0,
+          "bidder": "0730bf9eb0b84a94a3108bc0a9179f46"
+        }
+      ],
+      "time": "2015-10-01T08:00:00.002044+00:00"
+    }
+  },
+  "id": "08bba2ba42ed40988a7eb9deb1448c9a",
+  "tenderId": "UA-2015-09-21-000028"
+}

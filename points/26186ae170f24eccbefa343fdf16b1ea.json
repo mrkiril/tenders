@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "512b7366d8da437883ead1dce5226e68",
+        "time": "2015-11-30T10:21:08.024114+00:00"
+      },
+      "turn_1": {
+        "bidder": "fccb12588f264fbda2016c8107cdd751",
+        "time": "2015-11-30T10:19:08.012533+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "512b7366d8da437883ead1dce5226e68",
+        "time": "2015-11-30T10:27:08.010971+00:00"
+      },
+      "turn_1": {
+        "bidder": "fccb12588f264fbda2016c8107cdd751",
+        "time": "2015-11-30T10:25:08.012045+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "512b7366d8da437883ead1dce5226e68",
+        "time": "2015-11-30T10:15:08.018058+00:00"
+      },
+      "turn_1": {
+        "bidder": "fccb12588f264fbda2016c8107cdd751",
+        "time": "2015-11-30T10:13:08.028011+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fccb12588f264fbda2016c8107cdd751",
+          "amount": 25000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504817008, +380567700861, +380689756373",
+                "name": "Ганна Василівна Драна",
+                "email": "relax.dp@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30454707",
+                "legalName": "ПП \"Релакс\""
+              },
+              "name": "ПП \"Релакс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "вул. Фрунзе, 4",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-26T13:29:08.227276+02:00"
+        },
+        {
+          "bidder": "512b7366d8da437883ead1dce5226e68",
+          "amount": 21029.47,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380936018499",
+                "name": "ТОВ \"ЧІЛА\"",
+                "email": "valyuha-x5@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38435147",
+                "legalName": "ТОВ \"ЧІЛА\""
+              },
+              "name": "ТОВ \"ЧІЛА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200 м.Ірпінь,  вул.3-го інтернаціоналу 68-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-26T14:20:51.316715+02:00"
+        }
+      ],
+      "time": "2015-11-30T10:27:09.945956+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T13:29:08.227276+02:00",
+          "amount": 25000.0,
+          "bidder": "fccb12588f264fbda2016c8107cdd751"
+        },
+        {
+          "date": "2015-11-26T14:20:51.316715+02:00",
+          "amount": 21029.47,
+          "bidder": "512b7366d8da437883ead1dce5226e68"
+        }
+      ],
+      "time": "2015-11-30T10:06:08.004225+00:00"
+    }
+  },
+  "id": "26186ae170f24eccbefa343fdf16b1ea",
+  "tenderId": "UA-2015-11-20-000112-a"
+}

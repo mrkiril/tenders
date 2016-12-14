@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cef5d75cb4e04abda097afafbd397c13",
+        "time": "2015-06-15T08:17:00.269843+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf51b8ba1e7f470e841e1479b36ecd8d",
+        "time": "2015-06-15T08:19:00.424578+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c552280d5ce4a3ba733e58ac3aeb3b8",
+        "time": "2015-06-15T08:15:00.440001+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cef5d75cb4e04abda097afafbd397c13",
+        "time": "2015-06-15T08:25:00.161015+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf51b8ba1e7f470e841e1479b36ecd8d",
+        "time": "2015-06-15T08:27:00.110744+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c552280d5ce4a3ba733e58ac3aeb3b8",
+        "time": "2015-06-15T08:23:00.048962+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cef5d75cb4e04abda097afafbd397c13",
+        "time": "2015-06-15T08:09:00.073308+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf51b8ba1e7f470e841e1479b36ecd8d",
+        "time": "2015-06-15T08:11:00.237991+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c552280d5ce4a3ba733e58ac3aeb3b8",
+        "time": "2015-06-15T08:07:00.201797+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5c552280d5ce4a3ba733e58ac3aeb3b8",
+          "amount": 28952.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33 872 747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-06-12T14:08:49.998619+03:00"
+        },
+        {
+          "bidder": "cef5d75cb4e04abda097afafbd397c13",
+          "amount": 28440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679050905",
+                "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+                "email": "entikon.pp@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33439979",
+                "legalName": "Приватне підприємство \"ЕН-ТІКОН\""
+              },
+              "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03056 м.Київ,вул.Борщагівська 117,к.234",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-12T14:04:36.458691+03:00"
+        },
+        {
+          "bidder": "bf51b8ba1e7f470e841e1479b36ecd8d",
+          "amount": 27000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kaapri.com",
+                "telephone": "+380954706116",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\"",
+                "email": "kaapri_k@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21533628",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "проспект Тичини, буд. 20, м. Київ, 02152, УКРАЇНА",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-15T10:11:12.964165+03:00"
+        }
+      ],
+      "time": "2015-06-15T08:27:02.952150+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-12T14:08:49.998619+03:00",
+          "amount": 28952.4,
+          "bidder": "5c552280d5ce4a3ba733e58ac3aeb3b8"
+        },
+        {
+          "date": "2015-06-12T14:04:36.458691+03:00",
+          "amount": 28440.0,
+          "bidder": "cef5d75cb4e04abda097afafbd397c13"
+        },
+        {
+          "date": "2015-06-15T10:11:12.964165+03:00",
+          "amount": 27000.0,
+          "bidder": "bf51b8ba1e7f470e841e1479b36ecd8d"
+        }
+      ],
+      "time": "2015-06-15T08:00:00.020855+00:00"
+    }
+  },
+  "id": "eb22c72703dd4fbdba2b69bddea7c2c4",
+  "tenderId": "UA-2015-06-11-000051"
+}

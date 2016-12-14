@@ -1,0 +1,225 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 139700.0,
+        "bid_time": "2015-07-14T11:21:13.694518+03:00",
+        "bidder": "52eefe5022af4891aa8021d5ffdd67c3",
+        "time": "2015-07-14T08:23:00.057435+00:00"
+      },
+      "turn_2": {
+        "amount": 140000.0,
+        "bid_time": "2015-07-14T11:17:19.463056+03:00",
+        "bidder": "e79f5dc5685a4eaea4f61998a6bc58de",
+        "time": "2015-07-14T08:19:00.047568+00:00"
+      },
+      "turn_3": {
+        "amount": 139800.0,
+        "bid_time": "2015-07-14T11:19:41.347425+03:00",
+        "bidder": "8414fdeeb4764eedac4487784fe4b71c",
+        "time": "2015-07-14T08:21:00.059014+00:00"
+      },
+      "turn_1": {
+        "amount": 143622.0,
+        "bid_time": "2015-07-14T11:15:16.403768+03:00",
+        "bidder": "3c40563efb5c4111afaa1474522db996",
+        "time": "2015-07-14T08:17:00.055479+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 129700.0,
+        "bid_time": "2015-07-14T11:31:14.153419+03:00",
+        "bidder": "52eefe5022af4891aa8021d5ffdd67c3",
+        "time": "2015-07-14T08:33:00.017750+00:00"
+      },
+      "turn_2": {
+        "amount": 129900.0,
+        "bid_time": "2015-07-14T11:27:12.220768+03:00",
+        "bidder": "e79f5dc5685a4eaea4f61998a6bc58de",
+        "time": "2015-07-14T08:29:00.017482+00:00"
+      },
+      "turn_3": {
+        "amount": 129800.0,
+        "bid_time": "2015-07-14T11:29:57.938604+03:00",
+        "bidder": "8414fdeeb4764eedac4487784fe4b71c",
+        "time": "2015-07-14T08:31:00.010830+00:00"
+      },
+      "turn_1": {
+        "amount": 138000.0,
+        "bid_time": "2015-07-14T11:25:14.106069+03:00",
+        "bidder": "3c40563efb5c4111afaa1474522db996",
+        "time": "2015-07-14T08:27:00.029435+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 142800.0,
+        "bid_time": "2015-07-14T11:11:41.605290+03:00",
+        "bidder": "52eefe5022af4891aa8021d5ffdd67c3",
+        "time": "2015-07-14T08:13:00.100384+00:00"
+      },
+      "turn_2": {
+        "amount": 144500.0,
+        "bid_time": "2015-07-14T11:07:46.681444+03:00",
+        "bidder": "e79f5dc5685a4eaea4f61998a6bc58de",
+        "time": "2015-07-14T08:09:00.092188+00:00"
+      },
+      "turn_3": {
+        "amount": 143000.0,
+        "bid_time": "2015-07-14T11:10:31.030442+03:00",
+        "bidder": "8414fdeeb4764eedac4487784fe4b71c",
+        "time": "2015-07-14T08:11:00.052871+00:00"
+      },
+      "turn_1": {
+        "amount": 145092.0,
+        "bid_time": "2015-07-14T11:05:22.595470+03:00",
+        "bidder": "3c40563efb5c4111afaa1474522db996",
+        "time": "2015-07-14T08:07:00.067596+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3c40563efb5c4111afaa1474522db996",
+          "amount": 138000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674667298",
+                "name": "Анатолій Якімечко",
+                "email": "yakimechko@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Аероконд І.К.\"",
+                "id": "38687995",
+                "uri": "http://www.aerocondik.kiev.ua"
+              },
+              "name": "ТОВ \"Аероконд І.К.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04136",
+                "region": "Киевская",
+                "streetAddress": "вул. Стеценка,3 оф.3.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-14T11:25:14.106069+03:00"
+        },
+        {
+          "bidder": "e79f5dc5685a4eaea4f61998a6bc58de",
+          "amount": 129900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632277335",
+                "name": "ООО \"Стандарт-Оил\"",
+                "email": "denis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30171638",
+                "legalName": "ООО \"Стандарт-Оил\""
+              },
+              "name": "ООО \"Стандарт-Оил\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, г. Одесса, Воронцовский переулок 1,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T11:27:12.220768+03:00"
+        },
+        {
+          "bidder": "8414fdeeb4764eedac4487784fe4b71c",
+          "amount": 129800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mikor.com.ua/",
+                "faxNumber": "0577140265",
+                "telephone": "0675779640",
+                "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+                "email": "eska_snab@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32439099",
+                "legalName": "ООО\"Инженерная коммерческая фирма\"Эска\""
+              },
+              "name": "ООО\"Инженерная коммерческая фирма\"Эска\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61018",
+                "region": "Харківська",
+                "streetAddress": "Пушкинская 40,кв2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T11:29:57.938604+03:00"
+        },
+        {
+          "bidder": "52eefe5022af4891aa8021d5ffdd67c3",
+          "amount": 129700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380950817628",
+                "email": "terminal_ua@mail.ru",
+                "name": "ФОП  Іванова Надія Григорівна"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1311500708",
+                "legalName": "ФОП  Іванова Надія Григорівна"
+              },
+              "name": "ФОП  Іванова Надія Григорівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "Леніна 12",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-14T11:31:14.153419+03:00"
+        }
+      ],
+      "time": "2015-07-14T08:33:03.805449+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-08T20:14:27.819919+03:00",
+          "amount": 146562.0,
+          "bidder": "3c40563efb5c4111afaa1474522db996"
+        },
+        {
+          "date": "2015-07-07T12:55:09.595299+03:00",
+          "amount": 146500.0,
+          "bidder": "e79f5dc5685a4eaea4f61998a6bc58de"
+        },
+        {
+          "date": "2015-07-10T09:42:24.417492+03:00",
+          "amount": 145530.0,
+          "bidder": "8414fdeeb4764eedac4487784fe4b71c"
+        },
+        {
+          "date": "2015-07-08T11:33:43.587063+03:00",
+          "amount": 145000.0,
+          "bidder": "52eefe5022af4891aa8021d5ffdd67c3"
+        }
+      ],
+      "time": "2015-07-14T08:00:00.007742+00:00"
+    }
+  },
+  "id": "370c73dbf0c649c592e4c15e232f8591",
+  "tenderId": "UA-2015-07-01-000104"
+}

@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ebbd51c90bd745e196a9155fac47f460",
+        "time": "2015-09-17T11:47:00.020230+00:00"
+      },
+      "turn_3": {
+        "bidder": "6bbcb9a71dc04fbc8ab5e4b687558bc6",
+        "time": "2015-09-17T11:49:00.030370+00:00"
+      },
+      "turn_1": {
+        "bidder": "821126d958604b269a1ae3cf9a7d0805",
+        "time": "2015-09-17T11:45:00.054853+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ebbd51c90bd745e196a9155fac47f460",
+        "time": "2015-09-17T11:55:00.013165+00:00"
+      },
+      "turn_3": {
+        "bidder": "6bbcb9a71dc04fbc8ab5e4b687558bc6",
+        "time": "2015-09-17T11:57:00.011143+00:00"
+      },
+      "turn_1": {
+        "bidder": "821126d958604b269a1ae3cf9a7d0805",
+        "time": "2015-09-17T11:53:00.016585+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ebbd51c90bd745e196a9155fac47f460",
+        "time": "2015-09-17T11:39:00.031899+00:00"
+      },
+      "turn_3": {
+        "bidder": "6bbcb9a71dc04fbc8ab5e4b687558bc6",
+        "time": "2015-09-17T11:41:00.014771+00:00"
+      },
+      "turn_1": {
+        "bidder": "821126d958604b269a1ae3cf9a7d0805",
+        "time": "2015-09-17T11:37:00.017758+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "821126d958604b269a1ae3cf9a7d0805",
+          "amount": 355.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444924140",
+                "name": "Приватне підприємство «Дент Лайф»",
+                "email": "dent-life@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35494435",
+                "legalName": "Приватне підприємство «Дент Лайф»"
+              },
+              "name": "Приватне підприємство «Дент Лайф»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02217 м. Київ, вул. Драйзера 11, кв. 146",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T15:26:47.967211+03:00"
+        },
+        {
+          "bidder": "ebbd51c90bd745e196a9155fac47f460",
+          "amount": 334.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T13:07:09.491299+03:00"
+        },
+        {
+          "bidder": "6bbcb9a71dc04fbc8ab5e4b687558bc6",
+          "amount": 273.92,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-16T17:24:49.926285+03:00"
+        }
+      ],
+      "time": "2015-09-17T11:57:04.503498+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T15:26:47.967211+03:00",
+          "amount": 355.0,
+          "bidder": "821126d958604b269a1ae3cf9a7d0805"
+        },
+        {
+          "date": "2015-09-16T13:07:09.491299+03:00",
+          "amount": 334.0,
+          "bidder": "ebbd51c90bd745e196a9155fac47f460"
+        },
+        {
+          "date": "2015-09-16T17:24:49.926285+03:00",
+          "amount": 273.92,
+          "bidder": "6bbcb9a71dc04fbc8ab5e4b687558bc6"
+        }
+      ],
+      "time": "2015-09-17T11:30:00.001751+00:00"
+    }
+  },
+  "id": "12e71415d58b450e8c481030325c8e8e",
+  "tenderId": "UA-2015-09-15-000067"
+}

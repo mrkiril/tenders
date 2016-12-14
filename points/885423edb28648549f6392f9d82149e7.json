@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b15d77ef6eea4e4dba0639dc48e087bd",
+        "time": "2015-06-30T08:45:00.063993+00:00"
+      },
+      "turn_1": {
+        "bidder": "d476183f23db42ca846848a3cfc79979",
+        "time": "2015-06-30T08:43:00.140062+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b15d77ef6eea4e4dba0639dc48e087bd",
+        "time": "2015-06-30T08:51:00.068507+00:00"
+      },
+      "turn_1": {
+        "amount": 3731.0,
+        "bid_time": "2015-06-30T11:47:38.039577+03:00",
+        "bidder": "d476183f23db42ca846848a3cfc79979",
+        "time": "2015-06-30T08:49:00.143503+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b15d77ef6eea4e4dba0639dc48e087bd",
+        "time": "2015-06-30T08:39:00.072887+00:00"
+      },
+      "turn_1": {
+        "bidder": "d476183f23db42ca846848a3cfc79979",
+        "time": "2015-06-30T08:37:00.179961+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b15d77ef6eea4e4dba0639dc48e087bd",
+          "amount": 3774.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sfera.com.ua",
+                "telephone": "+3800322951060",
+                "name": "ТзОВ \"Сфера Сім\"",
+                "email": "om@sfera.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25235141",
+                "legalName": "ТзОВ \"Сфера Сім\""
+              },
+              "name": "ТзОВ \"Сфера Сім\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "79040, м.Львів, вул.Городоцька, 355",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-24T15:13:47.278632+03:00"
+        },
+        {
+          "bidder": "d476183f23db42ca846848a3cfc79979",
+          "amount": 3731.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380665966226",
+                "name": "ООО \"АТАИ УКРАИНА\"",
+                "email": "tatyana@atai.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38642729",
+                "legalName": "ООО \"АТАИ УКРАИНА\""
+              },
+              "name": "ООО \"АТАИ УКРАИНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65114, г. Одесса ул. Люстдорфская дорога 140 а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-30T11:47:38.039577+03:00"
+        }
+      ],
+      "time": "2015-06-30T08:51:04.746811+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-24T11:57:55.773944+03:00",
+          "amount": 4230.77,
+          "bidder": "d476183f23db42ca846848a3cfc79979"
+        },
+        {
+          "date": "2015-06-24T15:13:47.278632+03:00",
+          "amount": 3774.0,
+          "bidder": "b15d77ef6eea4e4dba0639dc48e087bd"
+        }
+      ],
+      "time": "2015-06-30T08:30:00.025013+00:00"
+    }
+  },
+  "id": "885423edb28648549f6392f9d82149e7",
+  "tenderId": "UA-2015-06-23-000122"
+}

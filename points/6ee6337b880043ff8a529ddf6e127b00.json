@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bb43db31fdbf412cb1a43ecbb29fba88",
+        "time": "2015-12-01T12:21:20.008660+00:00"
+      },
+      "turn_1": {
+        "bidder": "79e02c8130c8401ebb755b76fa4279e5",
+        "time": "2015-12-01T12:19:20.008666+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bb43db31fdbf412cb1a43ecbb29fba88",
+        "time": "2015-12-01T12:27:20.007168+00:00"
+      },
+      "turn_1": {
+        "bidder": "79e02c8130c8401ebb755b76fa4279e5",
+        "time": "2015-12-01T12:25:20.007713+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bb43db31fdbf412cb1a43ecbb29fba88",
+        "time": "2015-12-01T12:15:20.008049+00:00"
+      },
+      "turn_1": {
+        "amount": 49087.0,
+        "bid_time": "2015-12-01T14:12:00.429071+02:00",
+        "bidder": "79e02c8130c8401ebb755b76fa4279e5",
+        "time": "2015-12-01T12:13:20.009903+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "79e02c8130c8401ebb755b76fa4279e5",
+          "amount": 49087.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504505535",
+                "name": "Кирилл",
+                "email": "garik.dp@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37899165",
+                "legalName": "ТОВ \"Будальянс Інжиніринг\""
+              },
+              "name": "ТОВ \"Будальянс Інжиніринг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-01T14:12:00.429071+02:00"
+        },
+        {
+          "bidder": "bb43db31fdbf412cb1a43ecbb29fba88",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0508096933",
+                "name": "Виталий Николаев ",
+                "email": "budexpert.technologies@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31852357",
+                "legalName": ""
+              },
+              "name": "ТОВ \"ІК \"Будексперт технології\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49000 Дніпропетровськ, вул. Коцюбинського, 10-А кв. 4"
+              }
+            }
+          ],
+          "time": "2015-11-29T17:47:23.374330+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:27:22.448031+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T15:34:53.960384+02:00",
+          "amount": 71999.0,
+          "bidder": "79e02c8130c8401ebb755b76fa4279e5"
+        },
+        {
+          "date": "2015-11-29T17:47:23.374330+02:00",
+          "amount": 15000.0,
+          "bidder": "bb43db31fdbf412cb1a43ecbb29fba88"
+        }
+      ],
+      "time": "2015-12-01T12:06:20.004191+00:00"
+    }
+  },
+  "id": "6ee6337b880043ff8a529ddf6e127b00",
+  "tenderId": "UA-2015-11-23-000030-b"
+}

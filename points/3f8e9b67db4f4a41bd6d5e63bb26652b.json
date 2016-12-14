@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2901.0,
+        "bid_time": "2015-09-10T15:16:24.421887+03:00",
+        "bidder": "b5da941dffcb423986b777e8507f0b49",
+        "time": "2015-09-10T12:17:00.012766+00:00"
+      },
+      "turn_3": {
+        "amount": 2900.0,
+        "bid_time": "2015-09-10T15:17:53.628241+03:00",
+        "bidder": "bca0edabda594091ad93769f452801ce",
+        "time": "2015-09-10T12:19:00.018253+00:00"
+      },
+      "turn_1": {
+        "bidder": "d8454de19bcc4aafaea8e4b840d23fd4",
+        "time": "2015-09-10T12:15:00.023386+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2881.0,
+        "bid_time": "2015-09-10T15:24:57.855176+03:00",
+        "bidder": "b5da941dffcb423986b777e8507f0b49",
+        "time": "2015-09-10T12:25:00.011226+00:00"
+      },
+      "turn_3": {
+        "amount": 2880.0,
+        "bid_time": "2015-09-10T15:25:16.707434+03:00",
+        "bidder": "bca0edabda594091ad93769f452801ce",
+        "time": "2015-09-10T12:27:00.018108+00:00"
+      },
+      "turn_1": {
+        "amount": 3300.0,
+        "bid_time": "2015-09-10T15:22:45.896190+03:00",
+        "bidder": "d8454de19bcc4aafaea8e4b840d23fd4",
+        "time": "2015-09-10T12:23:00.008016+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2920.0,
+        "bid_time": "2015-09-10T15:07:10.625912+03:00",
+        "bidder": "bca0edabda594091ad93769f452801ce",
+        "time": "2015-09-10T12:09:00.025947+00:00"
+      },
+      "turn_3": {
+        "bidder": "b5da941dffcb423986b777e8507f0b49",
+        "time": "2015-09-10T12:11:00.017011+00:00"
+      },
+      "turn_1": {
+        "amount": 3400.0,
+        "bid_time": "2015-09-10T15:05:16.389790+03:00",
+        "bidder": "d8454de19bcc4aafaea8e4b840d23fd4",
+        "time": "2015-09-10T12:07:00.025986+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d8454de19bcc4aafaea8e4b840d23fd4",
+          "amount": 3300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380638517039",
+                "name": "Иванна Середюк",
+                "email": "ivanna_seredyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Середюк І.Ф.\"",
+                "id": "2620914143",
+                "uri": "http://mebel.zt.ua/"
+              },
+              "name": "ФОП \"Середюк І.Ф.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10000",
+                "region": "Житомирская",
+                "streetAddress": "",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:22:45.896190+03:00"
+        },
+        {
+          "bidder": "b5da941dffcb423986b777e8507f0b49",
+          "amount": 2881.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.sumy.ua",
+                "telephone": "+380675404342",
+                "name": "Товариство з обмеженою відповідальністю  \"Торнадо\"",
+                "email": "sergey@tornado.sumy.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30561234",
+                "legalName": "Товариство з обмеженою відповідальністю  \"Торнадо\""
+              },
+              "name": "Товариство з обмеженою відповідальністю  \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Горького буд.26, м.Суми, 40011",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T15:24:57.855176+03:00"
+        },
+        {
+          "bidder": "bca0edabda594091ad93769f452801ce",
+          "amount": 2880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mebel.zt.ua/",
+                "telephone": "380939150976",
+                "name": "Олег Алєксєєнко ",
+                "email": "alik.alekseenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2614114251",
+                "legalName": ""
+              },
+              "name": "ФОП Алеексеенко О.А.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Житомирская область",
+                "streetAddress": "Житомир, ул. Лятошинского 18, кв. 62"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:25:16.707434+03:00"
+        }
+      ],
+      "time": "2015-09-10T12:27:01.866131+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T16:55:39.055362+03:00",
+          "amount": 3530.0,
+          "bidder": "d8454de19bcc4aafaea8e4b840d23fd4"
+        },
+        {
+          "date": "2015-09-04T16:58:45.790822+03:00",
+          "amount": 3510.0,
+          "bidder": "bca0edabda594091ad93769f452801ce"
+        },
+        {
+          "date": "2015-09-08T16:57:53.682235+03:00",
+          "amount": 2921.7,
+          "bidder": "b5da941dffcb423986b777e8507f0b49"
+        }
+      ],
+      "time": "2015-09-10T12:00:00.005688+00:00"
+    }
+  },
+  "id": "3f8e9b67db4f4a41bd6d5e63bb26652b",
+  "tenderId": "UA-2015-08-31-000164"
+}

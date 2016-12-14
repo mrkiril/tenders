@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bc90c283ce31428ba78ccd508c5ea8cc",
+        "time": "2015-11-09T10:28:19.006149+00:00"
+      },
+      "turn_3": {
+        "bidder": "4718d50a8fd94dffbbe1a2ac71a85a45",
+        "time": "2015-11-09T10:30:19.006536+00:00"
+      },
+      "turn_1": {
+        "bidder": "e522f55268984c399b8a242a652ec716",
+        "time": "2015-11-09T10:26:19.006740+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bc90c283ce31428ba78ccd508c5ea8cc",
+        "time": "2015-11-09T10:36:19.006342+00:00"
+      },
+      "turn_3": {
+        "bidder": "4718d50a8fd94dffbbe1a2ac71a85a45",
+        "time": "2015-11-09T10:38:19.006367+00:00"
+      },
+      "turn_1": {
+        "bidder": "e522f55268984c399b8a242a652ec716",
+        "time": "2015-11-09T10:34:19.030277+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bc90c283ce31428ba78ccd508c5ea8cc",
+        "time": "2015-11-09T10:20:19.006234+00:00"
+      },
+      "turn_3": {
+        "bidder": "4718d50a8fd94dffbbe1a2ac71a85a45",
+        "time": "2015-11-09T10:22:19.006051+00:00"
+      },
+      "turn_1": {
+        "bidder": "e522f55268984c399b8a242a652ec716",
+        "time": "2015-11-09T10:18:19.007346+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e522f55268984c399b8a242a652ec716",
+          "amount": 22000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T23:00:20.921922+02:00"
+        },
+        {
+          "bidder": "bc90c283ce31428ba78ccd508c5ea8cc",
+          "amount": 21144.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T15:58:47.811171+02:00"
+        },
+        {
+          "bidder": "4718d50a8fd94dffbbe1a2ac71a85a45",
+          "amount": 15760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-06T12:00:19.483080+02:00"
+        }
+      ],
+      "time": "2015-11-09T10:38:26.200639+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T23:00:20.921922+02:00",
+          "amount": 22000.0,
+          "bidder": "e522f55268984c399b8a242a652ec716"
+        },
+        {
+          "date": "2015-11-06T15:58:47.811171+02:00",
+          "amount": 21144.0,
+          "bidder": "bc90c283ce31428ba78ccd508c5ea8cc"
+        },
+        {
+          "date": "2015-11-06T12:00:19.483080+02:00",
+          "amount": 15760.0,
+          "bidder": "4718d50a8fd94dffbbe1a2ac71a85a45"
+        }
+      ],
+      "time": "2015-11-09T10:11:19.002553+00:00"
+    }
+  },
+  "id": "3bcb32b26fd340b6ba4b19c97fcca255",
+  "tenderId": "UA-2015-10-26-000249"
+}

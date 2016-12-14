@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e916b0c7b41e42009174f2bfbb2e34c7",
+        "time": "2015-08-20T08:47:00.033336+00:00"
+      },
+      "turn_3": {
+        "bidder": "9241173d6b4f4858bdf9449e49e7e48a",
+        "time": "2015-08-20T08:49:00.058461+00:00"
+      },
+      "turn_1": {
+        "bidder": "c853e7512f31460b891122f7fb33bb9e",
+        "time": "2015-08-20T08:45:00.042934+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e916b0c7b41e42009174f2bfbb2e34c7",
+        "time": "2015-08-20T08:55:00.048663+00:00"
+      },
+      "turn_3": {
+        "bidder": "9241173d6b4f4858bdf9449e49e7e48a",
+        "time": "2015-08-20T08:57:00.040763+00:00"
+      },
+      "turn_1": {
+        "bidder": "c853e7512f31460b891122f7fb33bb9e",
+        "time": "2015-08-20T08:53:00.076684+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 408600.0,
+        "bid_time": "2015-08-20T11:37:33.175544+03:00",
+        "bidder": "9241173d6b4f4858bdf9449e49e7e48a",
+        "time": "2015-08-20T08:39:00.045034+00:00"
+      },
+      "turn_3": {
+        "bidder": "c853e7512f31460b891122f7fb33bb9e",
+        "time": "2015-08-20T08:41:00.072375+00:00"
+      },
+      "turn_1": {
+        "amount": 409000.0,
+        "bid_time": "2015-08-20T11:35:16.883146+03:00",
+        "bidder": "e916b0c7b41e42009174f2bfbb2e34c7",
+        "time": "2015-08-20T08:37:00.087301+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c853e7512f31460b891122f7fb33bb9e",
+          "amount": 418000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.arista.ua",
+                "faxNumber": "+380444864303",
+                "telephone": "+380444950315",
+                "name": "Олійник Лілія Василівна",
+                "email": "olilek@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33221885"
+              },
+              "name": "ТОВ Торгівельно-промислове обїєднання Аріста",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "вул. Чигоріна, 61",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-19T10:41:25.988592+03:00"
+        },
+        {
+          "bidder": "e916b0c7b41e42009174f2bfbb2e34c7",
+          "amount": 409000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445853279, +380442234221, +380445853278",
+                "name": "Сергей Корона",
+                "email": "hius-k@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37626402",
+                "legalName": "ТОВ \"ХІУС ЛТД\""
+              },
+              "name": "ТОВ \"ХІУС ЛТД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02105",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-20T11:35:16.883146+03:00"
+        },
+        {
+          "bidder": "9241173d6b4f4858bdf9449e49e7e48a",
+          "amount": 408600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532612274, +380503048787",
+                "name": "Вадим Владимирович Головко",
+                "email": "sales@lotus.pl.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38874859",
+                "legalName": "ТОВ \" ТК ЛОТОС \""
+              },
+              "name": "ТОВ \" ТК ЛОТОС \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36034",
+                "region": "Полтавская",
+                "streetAddress": "вул.Половка, 66 Б",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-08-20T11:37:33.175544+03:00"
+        }
+      ],
+      "time": "2015-08-20T08:57:06.521840+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T08:58:57.616023+03:00",
+          "amount": 440000.0,
+          "bidder": "e916b0c7b41e42009174f2bfbb2e34c7"
+        },
+        {
+          "date": "2015-08-18T15:34:08.463397+03:00",
+          "amount": 435600.0,
+          "bidder": "9241173d6b4f4858bdf9449e49e7e48a"
+        },
+        {
+          "date": "2015-08-19T10:41:25.988592+03:00",
+          "amount": 418000.0,
+          "bidder": "c853e7512f31460b891122f7fb33bb9e"
+        }
+      ],
+      "time": "2015-08-20T08:30:00.006926+00:00"
+    }
+  },
+  "id": "d90896fdfc5d467fad551e7aab0432fc",
+  "tenderId": "UA-2015-08-07-000016"
+}

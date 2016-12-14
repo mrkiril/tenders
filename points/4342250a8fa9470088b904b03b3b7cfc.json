@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "395d69edee2c47f891c7a3a8beba3c63",
+        "time": "2015-11-11T09:29:19.006322+00:00"
+      },
+      "turn_1": {
+        "bidder": "c305b82873ba4fd0852c3b630ad7436d",
+        "time": "2015-11-11T09:27:19.007344+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "395d69edee2c47f891c7a3a8beba3c63",
+        "time": "2015-11-11T09:35:19.015878+00:00"
+      },
+      "turn_1": {
+        "bidder": "c305b82873ba4fd0852c3b630ad7436d",
+        "time": "2015-11-11T09:33:19.007085+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "395d69edee2c47f891c7a3a8beba3c63",
+        "time": "2015-11-11T09:23:19.007080+00:00"
+      },
+      "turn_1": {
+        "bidder": "c305b82873ba4fd0852c3b630ad7436d",
+        "time": "2015-11-11T09:21:19.006758+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c305b82873ba4fd0852c3b630ad7436d",
+          "amount": 20310.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://profit-n.com.ua",
+                "telephone": "0674510266",
+                "name": "Общество с ограниченной ответственностью ПРОФИТ-Н",
+                "email": "office@profit-n.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37137085",
+                "legalName": "Общество с ограниченной ответственностью ПРОФИТ-Н"
+              },
+              "name": "Общество с ограниченной ответственностью ПРОФИТ-Н",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "68091",
+                "region": "Одеська",
+                "streetAddress": "-----",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-10T09:25:49.827339+02:00"
+        },
+        {
+          "bidder": "395d69edee2c47f891c7a3a8beba3c63",
+          "amount": 15680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://markogroup.com",
+                "faxNumber": "0487051237",
+                "telephone": "0487335544",
+                "name": "Коваль Володимир Іванович",
+                "email": "vkoval@markogroup.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30284125",
+                "legalName": "Товариство з обмеженою відповідальністю \"Марко Лтд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Марко Лтд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65031",
+                "region": "Одеська",
+                "streetAddress": "Проценка 23/5",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-05T11:27:41.154004+02:00"
+        }
+      ],
+      "time": "2015-11-11T09:35:53.645189+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T09:25:49.827339+02:00",
+          "amount": 20310.0,
+          "bidder": "c305b82873ba4fd0852c3b630ad7436d"
+        },
+        {
+          "date": "2015-11-05T11:27:41.154004+02:00",
+          "amount": 15680.0,
+          "bidder": "395d69edee2c47f891c7a3a8beba3c63"
+        }
+      ],
+      "time": "2015-11-11T09:14:19.002335+00:00"
+    }
+  },
+  "id": "4342250a8fa9470088b904b03b3b7cfc",
+  "tenderId": "UA-2015-11-02-000287"
+}

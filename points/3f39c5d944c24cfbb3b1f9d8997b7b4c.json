@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 9284.0,
+        "bid_time": "2015-11-04T15:27:55.281249+02:00",
+        "bidder": "586ab25ca23841199648e6eaecdca79c",
+        "time": "2015-11-04T13:28:41.009307+00:00"
+      },
+      "turn_3": {
+        "bidder": "14f28ec16f1346db9fe75b9cf1e78fac",
+        "time": "2015-11-04T13:30:41.008320+00:00"
+      },
+      "turn_1": {
+        "amount": 9400.0,
+        "bid_time": "2015-11-04T15:25:14.294051+02:00",
+        "bidder": "e08a71eaf6484436b6aff75710ecd92a",
+        "time": "2015-11-04T13:26:41.008672+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "586ab25ca23841199648e6eaecdca79c",
+        "time": "2015-11-04T13:36:41.007680+00:00"
+      },
+      "turn_3": {
+        "bidder": "14f28ec16f1346db9fe75b9cf1e78fac",
+        "time": "2015-11-04T13:38:41.007672+00:00"
+      },
+      "turn_1": {
+        "bidder": "e08a71eaf6484436b6aff75710ecd92a",
+        "time": "2015-11-04T13:34:41.030830+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "586ab25ca23841199648e6eaecdca79c",
+        "time": "2015-11-04T13:20:41.008635+00:00"
+      },
+      "turn_3": {
+        "bidder": "14f28ec16f1346db9fe75b9cf1e78fac",
+        "time": "2015-11-04T13:22:41.008439+00:00"
+      },
+      "turn_1": {
+        "bidder": "e08a71eaf6484436b6aff75710ecd92a",
+        "time": "2015-11-04T13:18:41.008472+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e08a71eaf6484436b6aff75710ecd92a",
+          "amount": 9400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442192200",
+                "telephone": "+380679132826",
+                "name": "Мельник Лілія Миколаївна",
+                "email": "fortuna_m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2963009588"
+              },
+              "name": "ФОП Мельник",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08320",
+                "region": "Київська область",
+                "streetAddress": "Гагаріна 52",
+                "locality": "Велика Олександрівка"
+              }
+            }
+          ],
+          "time": "2015-11-04T15:25:14.294051+02:00"
+        },
+        {
+          "bidder": "586ab25ca23841199648e6eaecdca79c",
+          "amount": 9284.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T15:27:55.281249+02:00"
+        },
+        {
+          "bidder": "14f28ec16f1346db9fe75b9cf1e78fac",
+          "amount": 8400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-22-99-380",
+                "telephone": "044-22-99-380",
+                "name": "Кошлак Ігор Вікторович",
+                "email": "loriy2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39639371",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03049",
+                "region": "Київська",
+                "streetAddress": "проспект Повітрофлотський, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T14:02:48.060742+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:38:42.826058+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T11:47:54.276956+02:00",
+          "amount": 11100.0,
+          "bidder": "e08a71eaf6484436b6aff75710ecd92a"
+        },
+        {
+          "date": "2015-11-02T09:10:09.765409+02:00",
+          "amount": 10954.0,
+          "bidder": "586ab25ca23841199648e6eaecdca79c"
+        },
+        {
+          "date": "2015-11-02T14:02:48.060742+02:00",
+          "amount": 8400.0,
+          "bidder": "14f28ec16f1346db9fe75b9cf1e78fac"
+        }
+      ],
+      "time": "2015-11-04T13:11:41.004316+00:00"
+    }
+  },
+  "id": "3f39c5d944c24cfbb3b1f9d8997b7b4c",
+  "tenderId": "UA-2015-10-28-000264"
+}

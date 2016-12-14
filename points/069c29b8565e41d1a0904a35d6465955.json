@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "53e6deecbb7543cd9a8e6fe5630e646a",
+        "time": "2015-10-08T08:17:00.010022+00:00"
+      },
+      "turn_3": {
+        "bidder": "64cf245aa4e94dfa90b28f636067294d",
+        "time": "2015-10-08T08:19:00.009214+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d292d3317eb4817bf4baf1aebd86b64",
+        "time": "2015-10-08T08:15:00.011188+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "53e6deecbb7543cd9a8e6fe5630e646a",
+        "time": "2015-10-08T08:25:00.009817+00:00"
+      },
+      "turn_3": {
+        "bidder": "64cf245aa4e94dfa90b28f636067294d",
+        "time": "2015-10-08T08:27:00.010307+00:00"
+      },
+      "turn_1": {
+        "amount": 3000.0,
+        "bid_time": "2015-10-08T11:21:27.064996+03:00",
+        "bidder": "7d292d3317eb4817bf4baf1aebd86b64",
+        "time": "2015-10-08T08:23:00.011016+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "53e6deecbb7543cd9a8e6fe5630e646a",
+        "time": "2015-10-08T08:09:00.009579+00:00"
+      },
+      "turn_3": {
+        "bidder": "64cf245aa4e94dfa90b28f636067294d",
+        "time": "2015-10-08T08:11:00.018269+00:00"
+      },
+      "turn_1": {
+        "bidder": "7d292d3317eb4817bf4baf1aebd86b64",
+        "time": "2015-10-08T08:07:00.012570+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "53e6deecbb7543cd9a8e6fe5630e646a",
+          "amount": 3948.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445071272, +380443311272, +380635771212, +380501338004, +380674093641",
+                "name": "Светлана Деревянченко",
+                "email": "igor@liderltd.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЛИДЕР ЛТД\"",
+                "id": "30216029",
+                "uri": "http://liderltd.com.ua/"
+              },
+              "name": "ТОВ \"ЛИДЕР ЛТД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03115",
+                "region": "Киевская",
+                "streetAddress": "03115, м. Київ, вул. Верховинна, 6А, оф.4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-22T20:20:57.301974+03:00"
+        },
+        {
+          "bidder": "64cf245aa4e94dfa90b28f636067294d",
+          "amount": 3282.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443837174",
+                "name": "Вячеслав",
+                "email": "shulga_v@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2917210198",
+                "legalName": "ФОП \"Шульга Вячеслав Олександрович\""
+              },
+              "name": "ФОП \"Шульга Вячеслав Олександрович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04201",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-21T15:22:40.826095+03:00"
+        },
+        {
+          "bidder": "7d292d3317eb4817bf4baf1aebd86b64",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445175987, +380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ПП \"Синюченко Михайло Іванович\""
+              },
+              "name": "ПП \"Синюченко Михайло Іванович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-08T11:21:27.064996+03:00"
+        }
+      ],
+      "time": "2015-10-08T08:27:01.693875+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-16T22:14:54.002619+03:00",
+          "amount": 3950.0,
+          "bidder": "7d292d3317eb4817bf4baf1aebd86b64"
+        },
+        {
+          "date": "2015-09-22T20:20:57.301974+03:00",
+          "amount": 3948.0,
+          "bidder": "53e6deecbb7543cd9a8e6fe5630e646a"
+        },
+        {
+          "date": "2015-09-21T15:22:40.826095+03:00",
+          "amount": 3282.0,
+          "bidder": "64cf245aa4e94dfa90b28f636067294d"
+        }
+      ],
+      "time": "2015-10-08T08:00:00.005698+00:00"
+    }
+  },
+  "id": "069c29b8565e41d1a0904a35d6465955",
+  "tenderId": "UA-2015-09-11-000118"
+}

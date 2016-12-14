@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 13900.0,
+        "bid_time": "2015-09-08T13:45:07.521098+03:00",
+        "bidder": "349a50b540014c1c8fa91ff97849aaac",
+        "time": "2015-09-08T10:47:00.016577+00:00"
+      },
+      "turn_3": {
+        "bidder": "7718a589d8074d5197e2a68a371c221d",
+        "time": "2015-09-08T10:49:00.010905+00:00"
+      },
+      "turn_1": {
+        "bidder": "12e62df2de3241a2bbce3bb7135d457f",
+        "time": "2015-09-08T10:45:00.030382+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7718a589d8074d5197e2a68a371c221d",
+        "time": "2015-09-08T10:55:00.009792+00:00"
+      },
+      "turn_3": {
+        "bidder": "349a50b540014c1c8fa91ff97849aaac",
+        "time": "2015-09-08T10:57:00.006556+00:00"
+      },
+      "turn_1": {
+        "bidder": "12e62df2de3241a2bbce3bb7135d457f",
+        "time": "2015-09-08T10:53:00.011433+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 14200.0,
+        "bid_time": "2015-09-08T13:37:10.095918+03:00",
+        "bidder": "349a50b540014c1c8fa91ff97849aaac",
+        "time": "2015-09-08T10:39:00.017136+00:00"
+      },
+      "turn_3": {
+        "amount": 14010.0,
+        "bid_time": "2015-09-08T13:39:40.520322+03:00",
+        "bidder": "7718a589d8074d5197e2a68a371c221d",
+        "time": "2015-09-08T10:41:00.017213+00:00"
+      },
+      "turn_1": {
+        "bidder": "12e62df2de3241a2bbce3bb7135d457f",
+        "time": "2015-09-08T10:37:00.014943+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "12e62df2de3241a2bbce3bb7135d457f",
+          "amount": 14999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503530287",
+                "name": "Наталья Численко",
+                "email": "promk2@epicentrk.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3249024402",
+                "legalName": "ТОВ \"ЭПИЦЕНТР К\""
+              },
+              "name": "ТОВ \"ЭПИЦЕНТР К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. Кольцевая 1б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-07T11:44:37.613763+03:00"
+        },
+        {
+          "bidder": "7718a589d8074d5197e2a68a371c221d",
+          "amount": 14010.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-08T13:39:40.520322+03:00"
+        },
+        {
+          "bidder": "349a50b540014c1c8fa91ff97849aaac",
+          "amount": 13900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mebteh.com.ua/",
+                "faxNumber": "+380512560756",
+                "telephone": "+380675101733",
+                "name": "Ніколаєнко Наталя Володимирівна",
+                "email": "nikolaenko@mebteh.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32819986"
+              },
+              "name": "ТОВ Меблеві Технології",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська область",
+                "streetAddress": "12-а Поздовжня 63",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-09-08T13:45:07.521098+03:00"
+        }
+      ],
+      "time": "2015-09-08T10:57:03.207134+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T11:44:37.613763+03:00",
+          "amount": 14999.0,
+          "bidder": "12e62df2de3241a2bbce3bb7135d457f"
+        },
+        {
+          "date": "2015-09-07T11:33:32.511169+03:00",
+          "amount": 14600.0,
+          "bidder": "349a50b540014c1c8fa91ff97849aaac"
+        },
+        {
+          "date": "2015-09-04T16:20:06.054083+03:00",
+          "amount": 14310.36,
+          "bidder": "7718a589d8074d5197e2a68a371c221d"
+        }
+      ],
+      "time": "2015-09-08T10:30:00.002646+00:00"
+    }
+  },
+  "id": "2c1a10990c904d6ca831200d3bf48a6e",
+  "tenderId": "UA-2015-09-02-000140"
+}

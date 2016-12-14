@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "118316a7b5b54ebda3236524db6c3a9c",
+        "time": "2015-07-20T08:15:00.071354+00:00"
+      },
+      "turn_1": {
+        "bidder": "84b3da82b8a24b2cbe97c55682b2c414",
+        "time": "2015-07-20T08:13:00.170062+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "118316a7b5b54ebda3236524db6c3a9c",
+        "time": "2015-07-20T08:21:00.102595+00:00"
+      },
+      "turn_1": {
+        "bidder": "84b3da82b8a24b2cbe97c55682b2c414",
+        "time": "2015-07-20T08:19:00.087344+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "118316a7b5b54ebda3236524db6c3a9c",
+        "time": "2015-07-20T08:09:00.045218+00:00"
+      },
+      "turn_1": {
+        "bidder": "84b3da82b8a24b2cbe97c55682b2c414",
+        "time": "2015-07-20T08:07:00.056876+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "84b3da82b8a24b2cbe97c55682b2c414",
+          "amount": 4950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567902374",
+                "name": "ТОВ \"ПІДШИПНИК СЕРВІС\"",
+                "email": "05679023@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35935431",
+                "legalName": "ТОВ \"ПІДШИПНИК СЕРВІС\""
+              },
+              "name": "ТОВ \"ПІДШИПНИК СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ВУЛ.МАКАРОВА,БУД.14/А,К.4 М.ДНІПРОПЕТРОВСЬК, ДНІПРОПЕТРОВСЬКА ОБЛ., 49000",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T09:38:57.150676+03:00"
+        },
+        {
+          "bidder": "118316a7b5b54ebda3236524db6c3a9c",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.noc.ua",
+                "telephone": "+380504239467",
+                "name": "ООО \"НОК ИНТЕРНЕШНЛ\"",
+                "email": "loer@noc.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30534148",
+                "legalName": "ООО \"НОК ИНТЕРНЕШНЛ\""
+              },
+              "name": "ООО \"НОК ИНТЕРНЕШНЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61070, г. Харьков, ул. Рудика,9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-15T10:38:58.355181+03:00"
+        }
+      ],
+      "time": "2015-07-20T08:21:08.364097+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-16T09:38:57.150676+03:00",
+          "amount": 4950.0,
+          "bidder": "84b3da82b8a24b2cbe97c55682b2c414"
+        },
+        {
+          "date": "2015-07-15T10:38:58.355181+03:00",
+          "amount": 4500.0,
+          "bidder": "118316a7b5b54ebda3236524db6c3a9c"
+        }
+      ],
+      "time": "2015-07-20T08:00:00.002047+00:00"
+    }
+  },
+  "id": "8aaa3cca84d049da82c910250627e9ab",
+  "tenderId": "UA-2015-07-13-000081"
+}

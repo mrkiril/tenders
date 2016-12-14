@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cd8aa043d57b40feadae5c471eaf80fc",
+        "time": "2015-12-07T09:48:16.009314+00:00"
+      },
+      "turn_3": {
+        "bidder": "3c28743d90b7451d8cca51dcbc0756bf",
+        "time": "2015-12-07T09:50:16.008625+00:00"
+      },
+      "turn_1": {
+        "amount": 10800.0,
+        "bid_time": "2015-12-07T11:44:53.453485+02:00",
+        "bidder": "be2185cca5b44a13be4b23eded8e04ff",
+        "time": "2015-12-07T09:46:16.011249+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "be2185cca5b44a13be4b23eded8e04ff",
+        "time": "2015-12-07T09:56:16.008757+00:00"
+      },
+      "turn_3": {
+        "bidder": "3c28743d90b7451d8cca51dcbc0756bf",
+        "time": "2015-12-07T09:58:16.009748+00:00"
+      },
+      "turn_1": {
+        "bidder": "cd8aa043d57b40feadae5c471eaf80fc",
+        "time": "2015-12-07T09:54:16.014267+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cd8aa043d57b40feadae5c471eaf80fc",
+        "time": "2015-12-07T09:40:16.009235+00:00"
+      },
+      "turn_3": {
+        "bidder": "3c28743d90b7451d8cca51dcbc0756bf",
+        "time": "2015-12-07T09:42:16.019956+00:00"
+      },
+      "turn_1": {
+        "bidder": "be2185cca5b44a13be4b23eded8e04ff",
+        "time": "2015-12-07T09:38:16.008389+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cd8aa043d57b40feadae5c471eaf80fc",
+          "amount": 11575.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972810970",
+                "name": "Елена Коновалова",
+                "email": "keg83-83@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3046417041",
+                "legalName": "ФОП \"КОНОВАЛОВА О.Г.\""
+              },
+              "name": "ФОП \"КОНОВАЛОВА О.Г.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "49000, Дніпропетровська область, місто Дніпропетровськ, пр.Карла Маркса 96а. кв.3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-04T23:35:36.443985+02:00"
+        },
+        {
+          "bidder": "be2185cca5b44a13be4b23eded8e04ff",
+          "amount": 10800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380617070515",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РІДАКС\"",
+                "email": "ridax@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38909247",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РІДАКС\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"РІДАКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69006, Запорізька обл., місто Запоріжжя, ВУЛИЦЯ ПІВНІЧНЕ ШОСЕ, будинок 3-Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-07T11:44:53.453485+02:00"
+        },
+        {
+          "bidder": "3c28743d90b7451d8cca51dcbc0756bf",
+          "amount": 8849.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380567905050",
+                "telephone": "+380567905050",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:26:38.578193+02:00"
+        }
+      ],
+      "time": "2015-12-07T09:58:18.654881+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T13:48:27.490536+02:00",
+          "amount": 12000.0,
+          "bidder": "be2185cca5b44a13be4b23eded8e04ff"
+        },
+        {
+          "date": "2015-12-04T23:35:36.443985+02:00",
+          "amount": 11575.5,
+          "bidder": "cd8aa043d57b40feadae5c471eaf80fc"
+        },
+        {
+          "date": "2015-12-04T16:26:38.578193+02:00",
+          "amount": 8849.4,
+          "bidder": "3c28743d90b7451d8cca51dcbc0756bf"
+        }
+      ],
+      "time": "2015-12-07T09:31:16.005072+00:00"
+    }
+  },
+  "id": "2a784072a6ba4165a582073879b25c94",
+  "tenderId": "UA-2015-11-30-000020"
+}

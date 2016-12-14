@@ -1,0 +1,251 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "ef4c1004a0ce4062b0cf922459cf38c5",
+        "time": "2015-10-02T12:07:44.006411+00:00"
+      },
+      "turn_5": {
+        "bidder": "feca415448274f4a8460b03a68b10ca7",
+        "time": "2015-10-02T12:09:44.007238+00:00"
+      },
+      "turn_2": {
+        "bidder": "4a22a1dfe4d44886a6a2c2e0006439e7",
+        "time": "2015-10-02T12:03:44.010753+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddbccbea999541569a8f041e05935a73",
+        "time": "2015-10-02T12:05:44.006882+00:00"
+      },
+      "turn_1": {
+        "amount": 8500.0,
+        "bid_time": "2015-10-02T15:00:36.804886+03:00",
+        "bidder": "631dc2fe3adb4925bb1dcfce0b437997",
+        "time": "2015-10-02T12:01:44.010112+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ef4c1004a0ce4062b0cf922459cf38c5",
+        "time": "2015-10-02T12:19:44.005551+00:00"
+      },
+      "turn_5": {
+        "bidder": "feca415448274f4a8460b03a68b10ca7",
+        "time": "2015-10-02T12:21:44.006416+00:00"
+      },
+      "turn_2": {
+        "bidder": "631dc2fe3adb4925bb1dcfce0b437997",
+        "time": "2015-10-02T12:15:44.007580+00:00"
+      },
+      "turn_3": {
+        "bidder": "ddbccbea999541569a8f041e05935a73",
+        "time": "2015-10-02T12:17:44.008277+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a22a1dfe4d44886a6a2c2e0006439e7",
+        "time": "2015-10-02T12:13:44.006328+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "ddbccbea999541569a8f041e05935a73",
+        "time": "2015-10-02T11:55:44.009406+00:00"
+      },
+      "turn_5": {
+        "bidder": "feca415448274f4a8460b03a68b10ca7",
+        "time": "2015-10-02T11:57:44.006996+00:00"
+      },
+      "turn_2": {
+        "bidder": "631dc2fe3adb4925bb1dcfce0b437997",
+        "time": "2015-10-02T11:51:44.007316+00:00"
+      },
+      "turn_3": {
+        "bidder": "4a22a1dfe4d44886a6a2c2e0006439e7",
+        "time": "2015-10-02T11:53:44.007518+00:00"
+      },
+      "turn_1": {
+        "amount": 7950.0,
+        "bid_time": "2015-10-02T14:47:51.524309+03:00",
+        "bidder": "ef4c1004a0ce4062b0cf922459cf38c5",
+        "time": "2015-10-02T11:49:44.009199+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4a22a1dfe4d44886a6a2c2e0006439e7",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kaapri.com",
+                "telephone": "+380954706116",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\"",
+                "email": "kaapri_k@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21533628",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  \"ФІРМА \"КААПРІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "проспект Тичини, буд. 20, м. Київ, 02152, УКРАЇНА",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T14:14:38.292671+03:00"
+        },
+        {
+          "bidder": "631dc2fe3adb4925bb1dcfce0b437997",
+          "amount": 8500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T15:00:36.804886+03:00"
+        },
+        {
+          "bidder": "ddbccbea999541569a8f041e05935a73",
+          "amount": 8000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952768048",
+                "name": "Алла",
+                "email": "vikta2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"ПП \"ВІКТА\"\"",
+                "id": "25587621",
+                "uri": "http://www.vikta.org"
+              },
+              "name": "ПП \"ПП \"ВІКТА\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "проспект Освободителей 5",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-28T12:55:34.002265+03:00"
+        },
+        {
+          "bidder": "ef4c1004a0ce4062b0cf922459cf38c5",
+          "amount": 7950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "2588808",
+                "telephone": "2588808",
+                "name": "Герасимчук Тарасівна Юлія",
+                "email": "tehno-snab@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31243650",
+                "legalName": "Товариство з обмеженою відповідальністю \" ТЕХНОСНАБ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ТЕХНОСНАБ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01010",
+                "region": "Київська",
+                "streetAddress": "вул. Суворова, 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T14:47:51.524309+03:00"
+        },
+        {
+          "bidder": "feca415448274f4a8460b03a68b10ca7",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-5070286",
+                "telephone": "050-3301301",
+                "name": "Шалаховский Виктор Казимирович",
+                "email": "ka-na-da@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36683009",
+                "legalName": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці"
+              },
+              "name": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "вул Кошиця 9-б офіс 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-27T14:39:20.093248+03:00"
+        }
+      ],
+      "time": "2015-10-02T12:21:49.083495+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-28T12:44:03.089624+03:00",
+          "amount": 10600.0,
+          "bidder": "ef4c1004a0ce4062b0cf922459cf38c5"
+        },
+        {
+          "date": "2015-10-01T15:47:58.560511+03:00",
+          "amount": 9300.0,
+          "bidder": "631dc2fe3adb4925bb1dcfce0b437997"
+        },
+        {
+          "date": "2015-09-25T14:14:38.292671+03:00",
+          "amount": 9000.0,
+          "bidder": "4a22a1dfe4d44886a6a2c2e0006439e7"
+        },
+        {
+          "date": "2015-09-28T12:55:34.002265+03:00",
+          "amount": 8000.0,
+          "bidder": "ddbccbea999541569a8f041e05935a73"
+        },
+        {
+          "date": "2015-09-27T14:39:20.093248+03:00",
+          "amount": 7500.0,
+          "bidder": "feca415448274f4a8460b03a68b10ca7"
+        }
+      ],
+      "time": "2015-10-02T11:42:44.002052+00:00"
+    }
+  },
+  "id": "39cf3b85a8264763a519cb79a9a7c792",
+  "tenderId": "UA-2015-09-21-000253"
+}

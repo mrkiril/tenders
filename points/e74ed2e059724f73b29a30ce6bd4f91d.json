@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9b979f6cdcee49b0a123fbc5c5f23d1a",
+        "time": "2015-11-27T11:53:02.007750+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f4b7032cca4a9abe1b8c06c31b8642",
+        "time": "2015-11-27T11:51:02.008667+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9b979f6cdcee49b0a123fbc5c5f23d1a",
+        "time": "2015-11-27T11:59:02.007580+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f4b7032cca4a9abe1b8c06c31b8642",
+        "time": "2015-11-27T11:57:02.007614+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "70f4b7032cca4a9abe1b8c06c31b8642",
+        "time": "2015-11-27T11:47:02.008283+00:00"
+      },
+      "turn_1": {
+        "amount": 20950.0,
+        "bid_time": "2015-11-27T13:43:15.518597+02:00",
+        "bidder": "9b979f6cdcee49b0a123fbc5c5f23d1a",
+        "time": "2015-11-27T11:45:02.129067+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "70f4b7032cca4a9abe1b8c06c31b8642",
+          "amount": 21000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://arbetar.com.ua",
+                "faxNumber": "0445631112",
+                "telephone": "0674668840",
+                "name": "Юдко Олександр Олександрович",
+                "email": "arbetar@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38679078",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ АРБЕТАР"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ АРБЕТАР",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська",
+                "streetAddress": "Харківське шосе 201/203",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:14:37.638349+02:00"
+        },
+        {
+          "bidder": "9b979f6cdcee49b0a123fbc5c5f23d1a",
+          "amount": 20950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "nikolay-nikolaevich@bk.ru",
+                "name": "Фізична особа підприємиць Савін Микола Миколайович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3335908691",
+                "legalName": "Фізична особа підприємиць Савін Микола Миколайович"
+              },
+              "name": "Фізична особа підприємиць Савін Микола Миколайович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54038",
+                "region": "Миколаївська",
+                "streetAddress": "Дачная 32 квартира 2",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-27T13:43:15.518597+02:00"
+        }
+      ],
+      "time": "2015-11-27T11:59:03.414837+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T10:22:52.636527+02:00",
+          "amount": 21540.0,
+          "bidder": "9b979f6cdcee49b0a123fbc5c5f23d1a"
+        },
+        {
+          "date": "2015-11-23T11:14:37.638349+02:00",
+          "amount": 21000.0,
+          "bidder": "70f4b7032cca4a9abe1b8c06c31b8642"
+        }
+      ],
+      "time": "2015-11-27T11:38:02.005226+00:00"
+    }
+  },
+  "id": "e74ed2e059724f73b29a30ce6bd4f91d",
+  "tenderId": "UA-2015-11-23-000015-b"
+}

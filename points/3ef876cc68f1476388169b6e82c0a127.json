@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "15469a8ffa0847f995d2cbd0bc4f8fa0",
+        "time": "2015-05-06T08:17:00.117669+00:00"
+      },
+      "turn_3": {
+        "bidder": "51dc5416f5fc4e14aad6da1fd538c68e",
+        "time": "2015-05-06T08:19:00.128116+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf5ceea173ee48ffb85d087830004664",
+        "time": "2015-05-06T08:15:00.143877+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1231.0,
+        "bid_time": "2015-05-06T11:24:02.486350+03:00",
+        "bidder": "15469a8ffa0847f995d2cbd0bc4f8fa0",
+        "time": "2015-05-06T08:25:00.113341+00:00"
+      },
+      "turn_3": {
+        "bidder": "51dc5416f5fc4e14aad6da1fd538c68e",
+        "time": "2015-05-06T08:27:00.041190+00:00"
+      },
+      "turn_1": {
+        "bidder": "bf5ceea173ee48ffb85d087830004664",
+        "time": "2015-05-06T08:23:00.053558+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bf5ceea173ee48ffb85d087830004664",
+        "time": "2015-05-06T08:09:00.089198+00:00"
+      },
+      "turn_3": {
+        "bidder": "15469a8ffa0847f995d2cbd0bc4f8fa0",
+        "time": "2015-05-06T08:11:00.100721+00:00"
+      },
+      "turn_1": {
+        "amount": 1240.0,
+        "bid_time": "2015-05-06T11:06:01.761519+03:00",
+        "bidder": "51dc5416f5fc4e14aad6da1fd538c68e",
+        "time": "2015-05-06T08:07:00.165748+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bf5ceea173ee48ffb85d087830004664",
+          "amount": 1260.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380964941397",
+                "name": "Андрей Павловский",
+                "email": "pavlovskiy@salvigroup.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38526993",
+                "legalName": "ТОВ \"Салви Груп\""
+              },
+              "name": "ТОВ \"Салви Груп\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Краснознаменная, 34",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-04-30T12:08:50.907975+03:00"
+        },
+        {
+          "bidder": "51dc5416f5fc4e14aad6da1fd538c68e",
+          "amount": 1240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504166165",
+                "name": "Вячеслав",
+                "email": "supersales@stimpex.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38017560",
+                "legalName": "ТОВ \"ТГ \"Стимпекс\"\""
+              },
+              "name": "ТОВ \"ТГ \"Стимпекс\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65005",
+                "region": "Одесская",
+                "streetAddress": "ул Дальницкая 23/4",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-05-06T11:06:01.761519+03:00"
+        },
+        {
+          "bidder": "15469a8ffa0847f995d2cbd0bc4f8fa0",
+          "amount": 1231.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukrpapir.com.ua",
+                "telephone": "+380444685006",
+                "name": "Общество с ограниченной ответственностью  \"Украинский папир\"",
+                "email": "o.krivitchenko@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Общество с ограниченной ответственностью  \"Украинский папир\""
+              },
+              "name": "Общество с ограниченной ответственностью  \"Украинский папир\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 04073, г. Киев, ул. Куреневская, 2Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-06T11:24:02.486350+03:00"
+        }
+      ],
+      "time": "2015-05-06T08:27:01.930074+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-04-28T15:45:54.998265+03:00",
+          "amount": 1268.0,
+          "bidder": "51dc5416f5fc4e14aad6da1fd538c68e"
+        },
+        {
+          "date": "2015-04-30T12:08:50.907975+03:00",
+          "amount": 1260.0,
+          "bidder": "bf5ceea173ee48ffb85d087830004664"
+        },
+        {
+          "date": "2015-05-05T10:57:59.103505+03:00",
+          "amount": 1244.0,
+          "bidder": "15469a8ffa0847f995d2cbd0bc4f8fa0"
+        }
+      ],
+      "time": "2015-05-06T08:00:00.043329+00:00"
+    }
+  },
+  "id": "3ef876cc68f1476388169b6e82c0a127",
+  "tenderId": "UA-2015-04-21-000019"
+}

@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dce59108151445ab8a1bb4cb5b4e4429",
+        "time": "2015-12-01T10:31:31.008618+00:00"
+      },
+      "turn_3": {
+        "bidder": "b85b203357294377b947b653fb4b9a5a",
+        "time": "2015-12-01T10:33:31.008341+00:00"
+      },
+      "turn_1": {
+        "bidder": "5d9b981f102c42cda3f09b3d1751f09b",
+        "time": "2015-12-01T10:29:31.032217+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 119990.0,
+        "bid_time": "2015-12-01T12:39:06.660797+02:00",
+        "bidder": "dce59108151445ab8a1bb4cb5b4e4429",
+        "time": "2015-12-01T10:39:31.009149+00:00"
+      },
+      "turn_3": {
+        "amount": 115500.0,
+        "bid_time": "2015-12-01T12:40:06.050522+02:00",
+        "bidder": "b85b203357294377b947b653fb4b9a5a",
+        "time": "2015-12-01T10:41:31.008796+00:00"
+      },
+      "turn_1": {
+        "bidder": "5d9b981f102c42cda3f09b3d1751f09b",
+        "time": "2015-12-01T10:37:31.008036+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5d9b981f102c42cda3f09b3d1751f09b",
+        "time": "2015-12-01T10:23:31.008337+00:00"
+      },
+      "turn_3": {
+        "bidder": "b85b203357294377b947b653fb4b9a5a",
+        "time": "2015-12-01T10:25:31.026021+00:00"
+      },
+      "turn_1": {
+        "amount": 128500.0,
+        "bid_time": "2015-12-01T12:19:45.595064+02:00",
+        "bidder": "dce59108151445ab8a1bb4cb5b4e4429",
+        "time": "2015-12-01T10:21:31.009606+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5d9b981f102c42cda3f09b3d1751f09b",
+          "amount": 130001.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380994679240",
+                "name": "Александр",
+                "email": "bksich@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33576615",
+                "legalName": "Багатопрофільна корпорація \"Січеслав\""
+              },
+              "name": "Багатопрофільна корпорація \"Січеслав\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Канатная, 12-А",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-27T16:23:16.113093+02:00"
+        },
+        {
+          "bidder": "dce59108151445ab8a1bb4cb5b4e4429",
+          "amount": 119990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679768115",
+                "name": "Дмитро Вивальнюк",
+                "email": "dmutro.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Вивальнюк Дмитро Вадимович\"",
+                "id": "2595013475",
+                "uri": "http://dreamwood.com.ua"
+              },
+              "name": "ФОП \"Вивальнюк Дмитро Вадимович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "310010",
+                "region": "Харьковская",
+                "streetAddress": "Харьков, ул. Каштановая,29",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:39:06.660797+02:00"
+        },
+        {
+          "bidder": "b85b203357294377b947b653fb4b9a5a",
+          "amount": 115500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675200575",
+                "name": "Татьяна  Гончар",
+                "email": "tgonshar@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "01882172",
+                "legalName": "Интерресурсы"
+              },
+              "name": "Интерресурсы",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T12:40:06.050522+02:00"
+        }
+      ],
+      "time": "2015-12-01T10:41:32.487173+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-28T19:18:52.304323+02:00",
+          "amount": 133000.0,
+          "bidder": "dce59108151445ab8a1bb4cb5b4e4429"
+        },
+        {
+          "date": "2015-11-27T16:23:16.113093+02:00",
+          "amount": 130001.0,
+          "bidder": "5d9b981f102c42cda3f09b3d1751f09b"
+        },
+        {
+          "date": "2015-11-27T12:57:35.019471+02:00",
+          "amount": 120000.0,
+          "bidder": "b85b203357294377b947b653fb4b9a5a"
+        }
+      ],
+      "time": "2015-12-01T10:14:31.004801+00:00"
+    }
+  },
+  "id": "084749aab8c34fd795a3d954d1fae112",
+  "tenderId": "UA-2015-11-25-000137"
+}

@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dd06ba3dcc61432e9d2490ad8fad520c",
+        "time": "2015-10-27T13:48:57.007946+00:00"
+      },
+      "turn_3": {
+        "bidder": "5af3ded5d0254dbf89ec4cd43e0de3fe",
+        "time": "2015-10-27T13:50:57.008499+00:00"
+      },
+      "turn_1": {
+        "bidder": "047c9ea5bf774bfb8e0ef866a3075f84",
+        "time": "2015-10-27T13:46:57.010416+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dd06ba3dcc61432e9d2490ad8fad520c",
+        "time": "2015-10-27T13:56:57.007651+00:00"
+      },
+      "turn_3": {
+        "bidder": "5af3ded5d0254dbf89ec4cd43e0de3fe",
+        "time": "2015-10-27T13:58:57.009278+00:00"
+      },
+      "turn_1": {
+        "bidder": "047c9ea5bf774bfb8e0ef866a3075f84",
+        "time": "2015-10-27T13:54:57.008563+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 9600.0,
+        "bid_time": "2015-10-27T15:39:06.223950+02:00",
+        "bidder": "5af3ded5d0254dbf89ec4cd43e0de3fe",
+        "time": "2015-10-27T13:40:57.015386+00:00"
+      },
+      "turn_3": {
+        "bidder": "dd06ba3dcc61432e9d2490ad8fad520c",
+        "time": "2015-10-27T13:42:57.009008+00:00"
+      },
+      "turn_1": {
+        "bidder": "047c9ea5bf774bfb8e0ef866a3075f84",
+        "time": "2015-10-27T13:38:57.008256+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "047c9ea5bf774bfb8e0ef866a3075f84",
+          "amount": 18774.42,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444243562",
+                "name": "Товариство з обмеженою відповідальністю \"КОНТОРА\"",
+                "email": "kontora@kontora.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "Товариство з обмеженою відповідальністю \"КОНТОРА\"",
+                "id": "37226398",
+                "uri": "http://www.kontora.in.ua"
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КОНТОРА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03115",
+                "region": "Киевская",
+                "streetAddress": "проспект Победы 93, кв.88",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-26T09:13:43.153823+02:00"
+        },
+        {
+          "bidder": "dd06ba3dcc61432e9d2490ad8fad520c",
+          "amount": 9611.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-26T09:41:49.247323+02:00"
+        },
+        {
+          "bidder": "5af3ded5d0254dbf89ec4cd43e0de3fe",
+          "amount": 9600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-dk.kiev.ua",
+                "telephone": "+380444557879",
+                "name": "Ел-Деко",
+                "email": "dudar@e-dk.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38800347",
+                "legalName": "Ел-Деко"
+              },
+              "name": "Ел-Деко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680  КиЇв вул.Святошинська 34Л оф.1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T15:39:06.223950+02:00"
+        }
+      ],
+      "time": "2015-10-27T13:58:58.490100+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T09:13:43.153823+02:00",
+          "amount": 18774.42,
+          "bidder": "047c9ea5bf774bfb8e0ef866a3075f84"
+        },
+        {
+          "date": "2015-10-23T10:41:16.771767+03:00",
+          "amount": 10281.18,
+          "bidder": "5af3ded5d0254dbf89ec4cd43e0de3fe"
+        },
+        {
+          "date": "2015-10-26T09:41:49.247323+02:00",
+          "amount": 9611.04,
+          "bidder": "dd06ba3dcc61432e9d2490ad8fad520c"
+        }
+      ],
+      "time": "2015-10-27T13:31:57.004454+00:00"
+    }
+  },
+  "id": "37ac73c757864d7a8628348ef981448c",
+  "tenderId": "UA-2015-10-20-000109"
+}

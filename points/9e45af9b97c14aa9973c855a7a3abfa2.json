@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "eeeb10a1c4d04061ace6f1a683bf739c",
+        "time": "2015-05-06T10:15:00.024966+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f6179165834f21a1c5e170c9bba2e5",
+        "time": "2015-05-06T10:13:00.065574+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "eeeb10a1c4d04061ace6f1a683bf739c",
+        "time": "2015-05-06T10:21:00.049632+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f6179165834f21a1c5e170c9bba2e5",
+        "time": "2015-05-06T10:19:00.031664+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "01f6179165834f21a1c5e170c9bba2e5",
+        "time": "2015-05-06T10:09:00.052813+00:00"
+      },
+      "turn_1": {
+        "amount": 1300000.0,
+        "bid_time": "2015-05-06T13:06:43.022744+03:00",
+        "bidder": "eeeb10a1c4d04061ace6f1a683bf739c",
+        "time": "2015-05-06T10:07:00.031872+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "01f6179165834f21a1c5e170c9bba2e5",
+          "amount": 1300200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677247608",
+                "name": "Тарас Юськів",
+                "email": "tyuskiv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23965846",
+                "legalName": "ПВТП \"Акрополіс\""
+              },
+              "name": "ПВТП \"Акрополіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "79018",
+                "region": "Львовская",
+                "streetAddress": "м.Львів, вул.Залізнична,18",
+                "locality": "Львів"
+              }
+            }
+          ],
+          "time": "2015-05-05T15:28:57.699320+03:00"
+        },
+        {
+          "bidder": "eeeb10a1c4d04061ace6f1a683bf739c",
+          "amount": 1300000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://travel-extreme.com.ua/",
+                "faxNumber": "0937681032",
+                "telephone": "0937681032",
+                "name": "Приватне підприємство Екстрім",
+                "email": "Artemtravelex@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2332813074",
+                "legalName": "Приватне підприємство Екстрім"
+              },
+              "name": "Приватне підприємство Екстрім",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "10002",
+                "region": "Житомирська",
+                "streetAddress": "Вінницька",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-05-06T13:06:43.022744+03:00"
+        }
+      ],
+      "time": "2015-05-06T10:21:01.185542+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-05T14:11:17.208683+03:00",
+          "amount": 1450000.0,
+          "bidder": "eeeb10a1c4d04061ace6f1a683bf739c"
+        },
+        {
+          "date": "2015-05-05T15:28:57.699320+03:00",
+          "amount": 1300200.0,
+          "bidder": "01f6179165834f21a1c5e170c9bba2e5"
+        }
+      ],
+      "time": "2015-05-06T10:00:00.008209+00:00"
+    }
+  },
+  "id": "9e45af9b97c14aa9973c855a7a3abfa2",
+  "tenderId": "UA-2015-04-30-000040"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "92f299d13709494fabab07093b02ce3a",
+        "time": "2015-11-13T13:25:06.008798+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b0c49c0a3cb4196aa70a7f341812ec4",
+        "time": "2015-11-13T13:23:06.008283+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "92f299d13709494fabab07093b02ce3a",
+        "time": "2015-11-13T13:31:06.008727+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b0c49c0a3cb4196aa70a7f341812ec4",
+        "time": "2015-11-13T13:29:06.008346+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "92f299d13709494fabab07093b02ce3a",
+        "time": "2015-11-13T13:19:06.009538+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b0c49c0a3cb4196aa70a7f341812ec4",
+        "time": "2015-11-13T13:17:06.014616+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8b0c49c0a3cb4196aa70a7f341812ec4",
+          "amount": 6670.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800675471540",
+                "name": "ТОВ \"ТОТ БУД\"",
+                "email": "lebed5047@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35742560",
+                "legalName": "ТОВ \"ТОТ БУД\""
+              },
+              "name": "ТОВ \"ТОТ БУД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40022 Украина г Сумы ул 1-ая Железнодорожная д 1/2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-11T08:41:23.719567+02:00"
+        },
+        {
+          "bidder": "92f299d13709494fabab07093b02ce3a",
+          "amount": 6210.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380542775267",
+                "name": "ФОП Сіроштан Валентина Іванівна",
+                "email": "siroshtan.sumy@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2425505062",
+                "legalName": "ФОП Сіроштан Валентина Іванівна"
+              },
+              "name": "ФОП Сіроштан Валентина Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "40000, Сумська область, вул.Дмитра Косаренка, будинок 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-11T08:43:56.008246+02:00"
+        }
+      ],
+      "time": "2015-11-13T13:31:08.033409+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T08:41:23.719567+02:00",
+          "amount": 6670.0,
+          "bidder": "8b0c49c0a3cb4196aa70a7f341812ec4"
+        },
+        {
+          "date": "2015-11-11T08:43:56.008246+02:00",
+          "amount": 6210.0,
+          "bidder": "92f299d13709494fabab07093b02ce3a"
+        }
+      ],
+      "time": "2015-11-13T13:10:06.005924+00:00"
+    }
+  },
+  "id": "9487d67741e24409b5793c1c457a394d",
+  "tenderId": "UA-2015-11-05-000071"
+}

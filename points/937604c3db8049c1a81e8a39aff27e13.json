@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b54352ec13f64197889b50466fcc34a8",
+        "time": "2015-12-04T09:50:37.014897+00:00"
+      },
+      "turn_3": {
+        "bidder": "98e23a23b4c64faaa03ec2f2bc2ff1ae",
+        "time": "2015-12-04T09:52:37.014289+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c2ab76816de48b49c1e099b99dacade",
+        "time": "2015-12-04T09:48:37.011572+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b54352ec13f64197889b50466fcc34a8",
+        "time": "2015-12-04T09:58:37.006648+00:00"
+      },
+      "turn_3": {
+        "bidder": "98e23a23b4c64faaa03ec2f2bc2ff1ae",
+        "time": "2015-12-04T10:00:37.013150+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c2ab76816de48b49c1e099b99dacade",
+        "time": "2015-12-04T09:56:37.011713+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b54352ec13f64197889b50466fcc34a8",
+        "time": "2015-12-04T09:42:37.013370+00:00"
+      },
+      "turn_3": {
+        "bidder": "98e23a23b4c64faaa03ec2f2bc2ff1ae",
+        "time": "2015-12-04T09:44:37.018247+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c2ab76816de48b49c1e099b99dacade",
+        "time": "2015-12-04T09:40:37.017247+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c2ab76816de48b49c1e099b99dacade",
+          "amount": 756.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380974008586",
+                "name": "Журавльов Артем Миколайович",
+                "email": "z.a.m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40036383"
+              },
+              "name": "ПП АРТ-ІНЖИНІРИНГ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "39600",
+                "region": "Полтавська область",
+                "streetAddress": "вул. Пролетарська",
+                "locality": "Кременчук"
+              }
+            }
+          ],
+          "time": "2015-11-18T21:34:16.291004+02:00"
+        },
+        {
+          "bidder": "b54352ec13f64197889b50466fcc34a8",
+          "amount": 750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.imidgbud.com/",
+                "faxNumber": "0444677845",
+                "telephone": "0674084869",
+                "name": "Паламарчук Надія Леонідівна",
+                "email": "imidg.oficce@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33153538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул. Кирилівська, буд. 40/42",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T16:58:26.802761+02:00"
+        },
+        {
+          "bidder": "98e23a23b4c64faaa03ec2f2bc2ff1ae",
+          "amount": 582.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412445190, +380412417974, +380412552890, +380966033000, +380631641151",
+                "name": "Виталий Чиж",
+                "email": "vitalife78@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31049989",
+                "legalName": "ТОВ \"БІОРЕСУРС\""
+              },
+              "name": "ТОВ \"БІОРЕСУРС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10029",
+                "region": "Житомирская",
+                "streetAddress": "10029, м. Житомир, вул. Ватутіна, 55",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-11-19T15:35:24.997121+02:00"
+        }
+      ],
+      "time": "2015-12-04T10:01:01.135034+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T21:34:16.291004+02:00",
+          "amount": 756.0,
+          "bidder": "6c2ab76816de48b49c1e099b99dacade"
+        },
+        {
+          "date": "2015-12-03T16:58:26.802761+02:00",
+          "amount": 750.0,
+          "bidder": "b54352ec13f64197889b50466fcc34a8"
+        },
+        {
+          "date": "2015-11-19T15:35:24.997121+02:00",
+          "amount": 582.0,
+          "bidder": "98e23a23b4c64faaa03ec2f2bc2ff1ae"
+        }
+      ],
+      "time": "2015-12-04T09:33:37.004032+00:00"
+    }
+  },
+  "id": "937604c3db8049c1a81e8a39aff27e13",
+  "tenderId": "UA-2015-10-30-000110"
+}

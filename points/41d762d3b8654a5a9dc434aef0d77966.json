@@ -1,0 +1,209 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "75094c0257bb4715a6b5422df4fba2a5",
+        "time": "2015-12-17T13:35:22.008259+00:00"
+      },
+      "turn_2": {
+        "amount": 11499.0,
+        "bid_time": "2015-12-17T15:29:31.820910+02:00",
+        "bidder": "95317446b7f04a7d9f5238e666744be8",
+        "time": "2015-12-17T13:31:22.010390+00:00"
+      },
+      "turn_3": {
+        "amount": 10800.0,
+        "bid_time": "2015-12-17T15:32:31.895849+02:00",
+        "bidder": "895fe1fb1b3c4ca488ed59b4de5551e8",
+        "time": "2015-12-17T13:33:22.010187+00:00"
+      },
+      "turn_1": {
+        "bidder": "49f3d4aa9fae474fa047dd7f37be800b",
+        "time": "2015-12-17T13:29:22.008324+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 10730.0,
+        "bid_time": "2015-12-17T15:44:46.472292+02:00",
+        "bidder": "895fe1fb1b3c4ca488ed59b4de5551e8",
+        "time": "2015-12-17T13:45:22.009838+00:00"
+      },
+      "turn_2": {
+        "bidder": "75094c0257bb4715a6b5422df4fba2a5",
+        "time": "2015-12-17T13:41:22.007805+00:00"
+      },
+      "turn_3": {
+        "amount": 10799.0,
+        "bid_time": "2015-12-17T15:43:12.733262+02:00",
+        "bidder": "95317446b7f04a7d9f5238e666744be8",
+        "time": "2015-12-17T13:43:22.009271+00:00"
+      },
+      "turn_1": {
+        "bidder": "49f3d4aa9fae474fa047dd7f37be800b",
+        "time": "2015-12-17T13:39:22.007660+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "75094c0257bb4715a6b5422df4fba2a5",
+        "time": "2015-12-17T13:25:22.008385+00:00"
+      },
+      "turn_2": {
+        "bidder": "49f3d4aa9fae474fa047dd7f37be800b",
+        "time": "2015-12-17T13:21:22.011619+00:00"
+      },
+      "turn_3": {
+        "bidder": "95317446b7f04a7d9f5238e666744be8",
+        "time": "2015-12-17T13:23:22.012564+00:00"
+      },
+      "turn_1": {
+        "amount": 11829.0,
+        "bid_time": "2015-12-17T15:17:31.929766+02:00",
+        "bidder": "895fe1fb1b3c4ca488ed59b4de5551e8",
+        "time": "2015-12-17T13:19:22.016806+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "49f3d4aa9fae474fa047dd7f37be800b",
+          "amount": 11900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "097-064-39-16",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "project.a.ukraine@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-15T17:55:14.985278+02:00"
+        },
+        {
+          "bidder": "75094c0257bb4715a6b5422df4fba2a5",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-13T19:57:12.620868+02:00"
+        },
+        {
+          "bidder": "95317446b7f04a7d9f5238e666744be8",
+          "amount": 10799.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380482355050",
+                "telephone": "+380676220020",
+                "name": "Чернишев Михайло Олександрович",
+                "email": "plp@utecon.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32521649"
+              },
+              "name": "ТОВ Проект Інвест ХХІ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65014",
+                "region": "Одеська область",
+                "streetAddress": "вул. Чорноморська, буд.1, кв.31",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:43:12.733262+02:00"
+        },
+        {
+          "bidder": "895fe1fb1b3c4ca488ed59b4de5551e8",
+          "amount": 10730.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Сергей",
+                "email": "darida@email.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34872219",
+                "legalName": "ПП \"Даріда-опт\""
+              },
+              "name": "ПП \"Даріда-опт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65069",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-12-17T15:44:46.472292+02:00"
+        }
+      ],
+      "time": "2015-12-17T13:45:23.836735+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T17:22:53.229794+02:00",
+          "amount": 11900.0,
+          "bidder": "95317446b7f04a7d9f5238e666744be8"
+        },
+        {
+          "date": "2015-12-15T17:55:14.985278+02:00",
+          "amount": 11900.0,
+          "bidder": "49f3d4aa9fae474fa047dd7f37be800b"
+        },
+        {
+          "date": "2015-12-16T17:25:08.038358+02:00",
+          "amount": 11900.0,
+          "bidder": "895fe1fb1b3c4ca488ed59b4de5551e8"
+        },
+        {
+          "date": "2015-12-13T19:57:12.620868+02:00",
+          "amount": 11500.0,
+          "bidder": "75094c0257bb4715a6b5422df4fba2a5"
+        }
+      ],
+      "time": "2015-12-17T13:12:22.004840+00:00"
+    }
+  },
+  "id": "41d762d3b8654a5a9dc434aef0d77966",
+  "tenderId": "UA-2015-12-08-000122"
+}

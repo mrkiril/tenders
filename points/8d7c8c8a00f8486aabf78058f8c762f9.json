@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5ef9610bcace44c7a6cd3df3cce807f5",
+        "time": "2015-09-24T09:45:00.051205+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ae0e78b5674d4aa634358fbc984fa9",
+        "time": "2015-09-24T09:43:00.051599+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5ef9610bcace44c7a6cd3df3cce807f5",
+        "time": "2015-09-24T09:51:00.053921+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ae0e78b5674d4aa634358fbc984fa9",
+        "time": "2015-09-24T09:49:00.041336+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5ef9610bcace44c7a6cd3df3cce807f5",
+        "time": "2015-09-24T09:39:00.024972+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ae0e78b5674d4aa634358fbc984fa9",
+        "time": "2015-09-24T09:37:00.057409+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "89ae0e78b5674d4aa634358fbc984fa9",
+          "amount": 120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-21T11:56:49.929576+03:00"
+        },
+        {
+          "bidder": "5ef9610bcace44c7a6cd3df3cce807f5",
+          "amount": 114.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-21T08:43:01.996434+03:00"
+        }
+      ],
+      "time": "2015-09-24T09:51:03.553193+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-21T11:56:49.929576+03:00",
+          "amount": 120.0,
+          "bidder": "89ae0e78b5674d4aa634358fbc984fa9"
+        },
+        {
+          "date": "2015-09-21T08:43:01.996434+03:00",
+          "amount": 114.6,
+          "bidder": "5ef9610bcace44c7a6cd3df3cce807f5"
+        }
+      ],
+      "time": "2015-09-24T09:30:00.002176+00:00"
+    }
+  },
+  "id": "8d7c8c8a00f8486aabf78058f8c762f9",
+  "tenderId": "UA-2015-09-17-000096"
+}

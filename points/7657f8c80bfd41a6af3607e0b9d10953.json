@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 7305.0,
+        "bid_time": "2015-12-14T12:48:11.636280+02:00",
+        "bidder": "4e312429728b4b9ab0e533e16b4301c2",
+        "time": "2015-12-14T10:50:01.011190+00:00"
+      },
+      "turn_3": {
+        "bidder": "ac5a0f3bcee14954866efdc9b62ba777",
+        "time": "2015-12-14T10:52:01.013746+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2e8f1caf48d435da21d5c9d9b06ec80",
+        "time": "2015-12-14T10:48:01.011620+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ac5a0f3bcee14954866efdc9b62ba777",
+        "time": "2015-12-14T10:58:01.009968+00:00"
+      },
+      "turn_3": {
+        "bidder": "4e312429728b4b9ab0e533e16b4301c2",
+        "time": "2015-12-14T11:00:01.007384+00:00"
+      },
+      "turn_1": {
+        "bidder": "c2e8f1caf48d435da21d5c9d9b06ec80",
+        "time": "2015-12-14T10:56:01.009510+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 7606.0,
+        "bid_time": "2015-12-14T12:41:38.462311+02:00",
+        "bidder": "ac5a0f3bcee14954866efdc9b62ba777",
+        "time": "2015-12-14T10:42:01.012540+00:00"
+      },
+      "turn_3": {
+        "bidder": "c2e8f1caf48d435da21d5c9d9b06ec80",
+        "time": "2015-12-14T10:44:01.010814+00:00"
+      },
+      "turn_1": {
+        "amount": 7705.0,
+        "bid_time": "2015-12-14T12:38:39.322716+02:00",
+        "bidder": "4e312429728b4b9ab0e533e16b4301c2",
+        "time": "2015-12-14T10:40:01.010891+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c2e8f1caf48d435da21d5c9d9b06ec80",
+          "amount": 7706.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://autopp.com.ua",
+                "telephone": "+380956567450",
+                "name": "Товариство з обмеженою відповідальністю \"АВТОПРОМПОСТАВКА\"",
+                "email": "sales@autopp.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38599993",
+                "legalName": "Товариство з обмеженою відповідальністю \"АВТОПРОМПОСТАВКА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АВТОПРОМПОСТАВКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49080, м.Дніпропетровськ, вул. Берегова, буд. 210, оф. 212",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T15:12:31.486364+02:00"
+        },
+        {
+          "bidder": "ac5a0f3bcee14954866efdc9b62ba777",
+          "amount": 7606.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380953680751",
+                "name": "ООО \"Тракпартс\"",
+                "email": "truckparts.dnepr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37017643",
+                "legalName": "ООО \"Тракпартс\""
+              },
+              "name": "ООО \"Тракпартс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T12:41:38.462311+02:00"
+        },
+        {
+          "bidder": "4e312429728b4b9ab0e533e16b4301c2",
+          "amount": 7305.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380680910004",
+                "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+                "email": "nvp.himprodukt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39517560",
+                "legalName": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "03148, м.Київ, вул. Жмеринська,5",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:48:11.636280+02:00"
+        }
+      ],
+      "time": "2015-12-14T11:00:07.768006+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T14:00:25.873274+02:00",
+          "amount": 8574.84,
+          "bidder": "4e312429728b4b9ab0e533e16b4301c2"
+        },
+        {
+          "date": "2015-12-10T15:12:31.486364+02:00",
+          "amount": 7706.4,
+          "bidder": "c2e8f1caf48d435da21d5c9d9b06ec80"
+        },
+        {
+          "date": "2015-12-10T15:16:12.244732+02:00",
+          "amount": 7706.4,
+          "bidder": "ac5a0f3bcee14954866efdc9b62ba777"
+        }
+      ],
+      "time": "2015-12-14T10:33:01.003818+00:00"
+    }
+  },
+  "id": "7657f8c80bfd41a6af3607e0b9d10953",
+  "tenderId": "UA-2015-12-01-000002"
+}

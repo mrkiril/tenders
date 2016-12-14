@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6edede922ca640bfbeabb7d19a88014e",
+        "time": "2015-11-30T09:56:45.009644+00:00"
+      },
+      "turn_1": {
+        "bidder": "27a4c480c0ed4855b65ff35bbe32e8d9",
+        "time": "2015-11-30T09:54:45.012276+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6edede922ca640bfbeabb7d19a88014e",
+        "time": "2015-11-30T10:02:45.007089+00:00"
+      },
+      "turn_1": {
+        "bidder": "27a4c480c0ed4855b65ff35bbe32e8d9",
+        "time": "2015-11-30T10:00:45.007996+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6edede922ca640bfbeabb7d19a88014e",
+        "time": "2015-11-30T09:50:45.009322+00:00"
+      },
+      "turn_1": {
+        "bidder": "27a4c480c0ed4855b65ff35bbe32e8d9",
+        "time": "2015-11-30T09:48:45.013249+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "27a4c480c0ed4855b65ff35bbe32e8d9",
+          "amount": 19857.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380986986426, +380443611717",
+                "name": "Вадим Стадник",
+                "email": "info@robotun.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39079675",
+                "legalName": "ТОВ \"Роботун Про\""
+              },
+              "name": "ТОВ \"Роботун Про\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04070",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Спасская, 31-Б, офис 102",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-25T11:43:27.553870+02:00"
+        },
+        {
+          "bidder": "6edede922ca640bfbeabb7d19a88014e",
+          "amount": 18800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://td-tehniks.com.ua",
+                "telephone": "+380503250429",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ ТОРГОВЫЙ ДОМ \"ТЕХНИКС\"",
+                "email": "director@td-tehniks.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32563961",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ ТОРГОВЫЙ ДОМ \"ТЕХНИКС\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ ТОРГОВЫЙ ДОМ \"ТЕХНИКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61003, Харківська обл., місто Харків, ВУЛИЦЯ КУЗНЕЧНА, будинок 7/13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-25T09:14:16.509412+02:00"
+        }
+      ],
+      "time": "2015-11-30T10:02:46.714961+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T11:43:27.553870+02:00",
+          "amount": 19857.0,
+          "bidder": "27a4c480c0ed4855b65ff35bbe32e8d9"
+        },
+        {
+          "date": "2015-11-25T09:14:16.509412+02:00",
+          "amount": 18800.0,
+          "bidder": "6edede922ca640bfbeabb7d19a88014e"
+        }
+      ],
+      "time": "2015-11-30T09:41:45.004819+00:00"
+    }
+  },
+  "id": "a2852c5cf3d44aa688355d79559aa4b2",
+  "tenderId": "UA-2015-11-19-000155-b"
+}

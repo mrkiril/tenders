@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4c9349c2ec674acaa99c5303e8f286e1",
+        "time": "2015-11-16T11:45:47.008624+00:00"
+      },
+      "turn_1": {
+        "bidder": "fbf58b651d6b424b9202a975c68d12ae",
+        "time": "2015-11-16T11:43:47.008954+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4c9349c2ec674acaa99c5303e8f286e1",
+        "time": "2015-11-16T11:51:47.008177+00:00"
+      },
+      "turn_1": {
+        "bidder": "fbf58b651d6b424b9202a975c68d12ae",
+        "time": "2015-11-16T11:49:47.031108+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4c9349c2ec674acaa99c5303e8f286e1",
+        "time": "2015-11-16T11:39:47.008484+00:00"
+      },
+      "turn_1": {
+        "bidder": "fbf58b651d6b424b9202a975c68d12ae",
+        "time": "2015-11-16T11:37:47.007905+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fbf58b651d6b424b9202a975c68d12ae",
+          "amount": 17447.42,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.eximed.net.ua",
+                "telephone": "+380445424707",
+                "name": "Приватне акціонерне товариство \"Ексімед\"",
+                "email": "yuri@jsceximed.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23382040",
+                "legalName": "Приватне акціонерне товариство \"Ексімед\""
+              },
+              "name": "Приватне акціонерне товариство \"Ексімед\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02160, м.Київ, Харківське шосе,50",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-13T12:54:19.515442+02:00"
+        },
+        {
+          "bidder": "4c9349c2ec674acaa99c5303e8f286e1",
+          "amount": 13355.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993657728",
+                "name": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА",
+                "email": "farmadom@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3027600104",
+                "legalName": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА"
+              },
+              "name": "ФОП ПОПОВА ОЛЕНА ОЛЕКСАНДРІВНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "74900, Херсонська обл., м. Нова Каховка, вул. Паризької Комуни, 1А, кв 27",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-13T14:40:44.927902+02:00"
+        }
+      ],
+      "time": "2015-11-16T11:51:48.932943+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T12:54:19.515442+02:00",
+          "amount": 17447.42,
+          "bidder": "fbf58b651d6b424b9202a975c68d12ae"
+        },
+        {
+          "date": "2015-11-13T14:40:44.927902+02:00",
+          "amount": 13355.99,
+          "bidder": "4c9349c2ec674acaa99c5303e8f286e1"
+        }
+      ],
+      "time": "2015-11-16T11:30:47.004272+00:00"
+    }
+  },
+  "id": "33f5ae3a56254e83aeb163795dc1d568",
+  "tenderId": "UA-2015-11-05-000156"
+}

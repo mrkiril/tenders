@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "38dc519c8a334aea89f96b1c50c30659",
+        "time": "2015-10-26T11:52:30.007449+00:00"
+      },
+      "turn_1": {
+        "bidder": "535cbd5d37bc4d568810acab93f015e8",
+        "time": "2015-10-26T11:50:30.007597+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "38dc519c8a334aea89f96b1c50c30659",
+        "time": "2015-10-26T11:58:30.014767+00:00"
+      },
+      "turn_1": {
+        "bidder": "535cbd5d37bc4d568810acab93f015e8",
+        "time": "2015-10-26T11:56:30.008611+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "38dc519c8a334aea89f96b1c50c30659",
+        "time": "2015-10-26T11:46:30.007773+00:00"
+      },
+      "turn_1": {
+        "bidder": "535cbd5d37bc4d568810acab93f015e8",
+        "time": "2015-10-26T11:44:30.009572+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "535cbd5d37bc4d568810acab93f015e8",
+          "amount": 19800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська !79-Б-112",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T04:07:38.172293+03:00"
+        },
+        {
+          "bidder": "38dc519c8a334aea89f96b1c50c30659",
+          "amount": 19470.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-22T11:26:39.980855+03:00"
+        }
+      ],
+      "time": "2015-10-26T11:58:31.497066+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T04:07:38.172293+03:00",
+          "amount": 19800.0,
+          "bidder": "535cbd5d37bc4d568810acab93f015e8"
+        },
+        {
+          "date": "2015-10-22T11:26:39.980855+03:00",
+          "amount": 19470.0,
+          "bidder": "38dc519c8a334aea89f96b1c50c30659"
+        }
+      ],
+      "time": "2015-10-26T11:37:30.004222+00:00"
+    }
+  },
+  "id": "328b84a3bbe34c4ea32eef5af83aff50",
+  "tenderId": "UA-2015-10-20-000303"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7e310c8085e0401bbcb9e64366781fa3",
+        "time": "2015-11-27T11:21:02.009018+00:00"
+      },
+      "turn_1": {
+        "bidder": "c10bb60c5da744b09b986d47fdf55df8",
+        "time": "2015-11-27T11:19:02.010057+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7e310c8085e0401bbcb9e64366781fa3",
+        "time": "2015-11-27T11:27:02.007074+00:00"
+      },
+      "turn_1": {
+        "bidder": "c10bb60c5da744b09b986d47fdf55df8",
+        "time": "2015-11-27T11:25:02.056204+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7e310c8085e0401bbcb9e64366781fa3",
+        "time": "2015-11-27T11:15:02.010111+00:00"
+      },
+      "turn_1": {
+        "bidder": "c10bb60c5da744b09b986d47fdf55df8",
+        "time": "2015-11-27T11:13:02.018387+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c10bb60c5da744b09b986d47fdf55df8",
+          "amount": 1976.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-27T08:25:12.413398+02:00"
+        },
+        {
+          "bidder": "7e310c8085e0401bbcb9e64366781fa3",
+          "amount": 1547.28,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380680910004",
+                "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+                "email": "nvp.himprodukt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39517560",
+                "legalName": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"НВП Хімпродукт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "03148, м.Київ, вул. Жмеринська,5",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T14:40:05.007638+02:00"
+        }
+      ],
+      "time": "2015-11-27T11:27:02.858534+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T08:25:12.413398+02:00",
+          "amount": 1976.0,
+          "bidder": "c10bb60c5da744b09b986d47fdf55df8"
+        },
+        {
+          "date": "2015-11-24T14:40:05.007638+02:00",
+          "amount": 1547.28,
+          "bidder": "7e310c8085e0401bbcb9e64366781fa3"
+        }
+      ],
+      "time": "2015-11-27T11:06:02.002872+00:00"
+    }
+  },
+  "id": "3d852d7d2205483dbf40932810558d9e",
+  "tenderId": "UA-2015-11-20-000104-a"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2892c4ac4de045be87cbad4cc8171d29",
+        "time": "2015-06-10T08:15:00.525051+00:00"
+      },
+      "turn_1": {
+        "bidder": "908f1752309d4476a865dbef0221ad66",
+        "time": "2015-06-10T08:13:00.385435+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2892c4ac4de045be87cbad4cc8171d29",
+        "time": "2015-06-10T08:21:00.211744+00:00"
+      },
+      "turn_1": {
+        "bidder": "908f1752309d4476a865dbef0221ad66",
+        "time": "2015-06-10T08:19:00.203630+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2892c4ac4de045be87cbad4cc8171d29",
+        "time": "2015-06-10T08:09:00.351811+00:00"
+      },
+      "turn_1": {
+        "bidder": "908f1752309d4476a865dbef0221ad66",
+        "time": "2015-06-10T08:07:00.693341+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "908f1752309d4476a865dbef0221ad66",
+          "amount": 40720.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.macrochem.ua",
+                "telephone": "+380444952700",
+                "name": "Часное акционерное общество \"Макрохим\"",
+                "email": "vishnevskaya@macrochem.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24720905",
+                "legalName": "Часное акционерное общество \"Макрохим\""
+              },
+              "name": "Часное акционерное общество \"Макрохим\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, г. Киев, ул. Верхняя, 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-05T15:30:35.302044+03:00"
+        },
+        {
+          "bidder": "2892c4ac4de045be87cbad4cc8171d29",
+          "amount": 40001.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.hlr.com.ua",
+                "telephone": "+380675492917",
+                "name": "ООО\"Химлаборреактив\"",
+                "email": "galyaeva@chemlab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23522853",
+                "legalName": "ООО\"Химлаборреактив\""
+              },
+              "name": "ООО\"Химлаборреактив\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03150 г. Киев, ул. Красноармейская, 57/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-05T15:42:07.319311+03:00"
+        }
+      ],
+      "time": "2015-06-10T08:21:04.859340+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-05T15:30:35.302044+03:00",
+          "amount": 40720.0,
+          "bidder": "908f1752309d4476a865dbef0221ad66"
+        },
+        {
+          "date": "2015-06-05T15:42:07.319311+03:00",
+          "amount": 40001.0,
+          "bidder": "2892c4ac4de045be87cbad4cc8171d29"
+        }
+      ],
+      "time": "2015-06-10T08:00:00.028134+00:00"
+    }
+  },
+  "id": "d4df3d7c3fb64a2e8e0c506365789f0f",
+  "tenderId": "UA-2015-05-28-000069"
+}

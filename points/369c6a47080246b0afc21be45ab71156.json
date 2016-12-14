@@ -1,0 +1,123 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1490.0,
+        "bid_time": "2015-11-02T13:43:47.501300+02:00",
+        "bidder": "410a94e0b4a842be85d9977f46a3ecc6",
+        "time": "2015-11-02T11:45:37.008390+00:00"
+      },
+      "turn_1": {
+        "amount": 1500.0,
+        "bid_time": "2015-11-02T13:42:28.992072+02:00",
+        "bidder": "f77a9673ecd74f59ba80f3e9faa8241d",
+        "time": "2015-11-02T11:43:37.009619+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1295.0,
+        "bid_time": "2015-11-02T13:49:50.071324+02:00",
+        "bidder": "410a94e0b4a842be85d9977f46a3ecc6",
+        "time": "2015-11-02T11:51:37.009657+00:00"
+      },
+      "turn_1": {
+        "amount": 1300.0,
+        "bid_time": "2015-11-02T13:48:26.984776+02:00",
+        "bidder": "f77a9673ecd74f59ba80f3e9faa8241d",
+        "time": "2015-11-02T11:49:37.011031+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1690.0,
+        "bid_time": "2015-11-02T13:37:49.233820+02:00",
+        "bidder": "410a94e0b4a842be85d9977f46a3ecc6",
+        "time": "2015-11-02T11:39:37.009641+00:00"
+      },
+      "turn_1": {
+        "amount": 1700.0,
+        "bid_time": "2015-11-02T13:35:57.363869+02:00",
+        "bidder": "f77a9673ecd74f59ba80f3e9faa8241d",
+        "time": "2015-11-02T11:37:37.010155+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f77a9673ecd74f59ba80f3e9faa8241d",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444537488, +380445997049",
+                "name": "Александр Петрович",
+                "email": "urmt1@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36405016",
+                "legalName": "ТОВ \"Укрреммедтехника\""
+              },
+              "name": "ТОВ \"Укрреммедтехника\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "ул. Магнитогорская, 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-02T13:48:26.984776+02:00"
+        },
+        {
+          "bidder": "410a94e0b4a842be85d9977f46a3ecc6",
+          "amount": 1295.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.medtehservis.kiev.ua",
+                "faxNumber": "+380442009526",
+                "telephone": "+380442009526",
+                "name": "Нємцева Анжела Дмитрівна",
+                "email": "medtehservis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37730206"
+              },
+              "name": "ТОВ Підприємство Медтехсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04060",
+                "region": "Київська область",
+                "streetAddress": "М.Берлінського, 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T13:49:50.071324+02:00"
+        }
+      ],
+      "time": "2015-11-02T11:51:42.009003+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T13:15:27.480431+02:00",
+          "amount": 1890.0,
+          "bidder": "f77a9673ecd74f59ba80f3e9faa8241d"
+        },
+        {
+          "date": "2015-10-29T15:06:13.155476+02:00",
+          "amount": 1875.0,
+          "bidder": "410a94e0b4a842be85d9977f46a3ecc6"
+        }
+      ],
+      "time": "2015-11-02T11:30:37.004155+00:00"
+    }
+  },
+  "id": "369c6a47080246b0afc21be45ab71156",
+  "tenderId": "UA-2015-10-27-000051"
+}

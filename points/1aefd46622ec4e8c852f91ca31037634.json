@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9d461c82839041c3a5146f6fd202bf01",
+        "time": "2015-12-01T11:52:12.007791+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afaf3e5d0784028a3ad4ffadfb56c74",
+        "time": "2015-12-01T11:50:12.021270+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9d461c82839041c3a5146f6fd202bf01",
+        "time": "2015-12-01T11:58:12.008725+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afaf3e5d0784028a3ad4ffadfb56c74",
+        "time": "2015-12-01T11:56:12.008733+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 5410.0,
+        "bid_time": "2015-12-01T13:45:12.995322+02:00",
+        "bidder": "9d461c82839041c3a5146f6fd202bf01",
+        "time": "2015-12-01T11:46:12.008616+00:00"
+      },
+      "turn_1": {
+        "bidder": "7afaf3e5d0784028a3ad4ffadfb56c74",
+        "time": "2015-12-01T11:44:12.008635+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7afaf3e5d0784028a3ad4ffadfb56c74",
+          "amount": 6481.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961744444",
+                "name": "Андрей Солод",
+                "email": "a_solod@t-kredo.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39463662",
+                "legalName": "ТОВ \"Технокредо-1\""
+              },
+              "name": "ТОВ \"Технокредо-1\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49033",
+                "region": "Днепропетровская",
+                "streetAddress": "Дніпропетровська обл., м Дніпропетровськ, вул.Краснопільська, буд. 23",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-30T15:50:34.550713+02:00"
+        },
+        {
+          "bidder": "9d461c82839041c3a5146f6fd202bf01",
+          "amount": 5410.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://detsadik.com.ua",
+                "faxNumber": "+380567136044",
+                "telephone": "+380972156373",
+                "name": "Усенко Олена Олександрівна",
+                "email": "Info@detsadik.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32140051"
+              },
+              "name": "ТОВ Н’ю-Лайн",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Мандриківська, 44 Д",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-01T13:45:12.995322+02:00"
+        }
+      ],
+      "time": "2015-12-01T11:58:13.951187+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T15:50:34.550713+02:00",
+          "amount": 6481.6,
+          "bidder": "7afaf3e5d0784028a3ad4ffadfb56c74"
+        },
+        {
+          "date": "2015-11-30T14:22:52.467195+02:00",
+          "amount": 5481.0,
+          "bidder": "9d461c82839041c3a5146f6fd202bf01"
+        }
+      ],
+      "time": "2015-12-01T11:37:12.004625+00:00"
+    }
+  },
+  "id": "1aefd46622ec4e8c852f91ca31037634",
+  "tenderId": "UA-2015-11-24-000100"
+}

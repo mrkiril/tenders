@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "81ded241d99d4020a843dd7ce6148fde",
+        "time": "2015-11-02T10:54:31.007231+00:00"
+      },
+      "turn_3": {
+        "bidder": "a14c1666639e42bbab8e21e3fa774b94",
+        "time": "2015-11-02T10:56:31.008231+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded909418c424ae387dbda4c44afce90",
+        "time": "2015-11-02T10:52:31.009084+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "81ded241d99d4020a843dd7ce6148fde",
+        "time": "2015-11-02T11:02:31.007822+00:00"
+      },
+      "turn_3": {
+        "bidder": "a14c1666639e42bbab8e21e3fa774b94",
+        "time": "2015-11-02T11:04:31.009110+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded909418c424ae387dbda4c44afce90",
+        "time": "2015-11-02T11:00:31.008085+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2000.0,
+        "bid_time": "2015-11-02T12:44:52.622026+02:00",
+        "bidder": "a14c1666639e42bbab8e21e3fa774b94",
+        "time": "2015-11-02T10:46:31.008658+00:00"
+      },
+      "turn_3": {
+        "bidder": "81ded241d99d4020a843dd7ce6148fde",
+        "time": "2015-11-02T10:48:31.006501+00:00"
+      },
+      "turn_1": {
+        "bidder": "ded909418c424ae387dbda4c44afce90",
+        "time": "2015-11-02T10:44:31.007858+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ded909418c424ae387dbda4c44afce90",
+          "amount": 2600.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-28T09:44:06.917682+02:00"
+        },
+        {
+          "bidder": "81ded241d99d4020a843dd7ce6148fde",
+          "amount": 2065.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interdez.com.ua",
+                "faxNumber": "0442060151",
+                "telephone": "0442060150",
+                "name": "Ямковий Олександр Олексійович",
+                "email": "alexandr@interdez.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37403360",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтердез\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтердез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01011",
+                "region": "Київська",
+                "streetAddress": "Печерський узвіз,15",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T11:49:54.778139+02:00"
+        },
+        {
+          "bidder": "a14c1666639e42bbab8e21e3fa774b94",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380976688057",
+                "name": "ФОП Корольова Анжела Василівна",
+                "email": "derhalo.nick@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2651809500",
+                "legalName": "ФОП Корольова Анжела Василівна"
+              },
+              "name": "ФОП Корольова Анжела Василівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Львів вул.Наукова б.61 ,кв. 55",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T12:44:52.622026+02:00"
+        }
+      ],
+      "time": "2015-11-02T11:04:34.742863+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T09:44:06.917682+02:00",
+          "amount": 2600.1,
+          "bidder": "ded909418c424ae387dbda4c44afce90"
+        },
+        {
+          "date": "2015-10-28T10:32:28.710804+02:00",
+          "amount": 2250.0,
+          "bidder": "a14c1666639e42bbab8e21e3fa774b94"
+        },
+        {
+          "date": "2015-10-30T11:49:54.778139+02:00",
+          "amount": 2065.5,
+          "bidder": "81ded241d99d4020a843dd7ce6148fde"
+        }
+      ],
+      "time": "2015-11-02T10:37:31.003352+00:00"
+    }
+  },
+  "id": "2f2bc1463ac543b7a7c61db03082e70f",
+  "tenderId": "UA-2015-10-27-000170"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c81cb82aa66846cdb6959040c115e9e4",
+        "time": "2015-11-09T11:17:17.007912+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b5faa2f5cda4f72b3a8d204f12c49ea",
+        "time": "2015-11-09T11:15:17.008239+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c81cb82aa66846cdb6959040c115e9e4",
+        "time": "2015-11-09T11:23:17.007978+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b5faa2f5cda4f72b3a8d204f12c49ea",
+        "time": "2015-11-09T11:21:17.008156+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c81cb82aa66846cdb6959040c115e9e4",
+        "time": "2015-11-09T11:11:17.009050+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b5faa2f5cda4f72b3a8d204f12c49ea",
+        "time": "2015-11-09T11:09:17.009147+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0b5faa2f5cda4f72b3a8d204f12c49ea",
+          "amount": 400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Олександр Яніцький",
+                "email": "yn-sasha@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2755307376",
+                "legalName": "ФОП \"Яніцький О.В.\""
+              },
+              "name": "ФОП \"Яніцький О.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Бориспільська буд.49, кв.129",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-05T17:28:22.601576+02:00"
+        },
+        {
+          "bidder": "c81cb82aa66846cdb6959040c115e9e4",
+          "amount": 292.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют-центр ООО",
+                "email": "elena.ooo.debut@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "Дебют-центр ООО"
+              },
+              "name": "Дебют-центр ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08290, Киевская обл., г. Ирпень, пгт Гостомель, ул. Чапаева, 1-О",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T08:44:24.935070+02:00"
+        }
+      ],
+      "time": "2015-11-09T11:23:18.850722+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T17:28:22.601576+02:00",
+          "amount": 400.0,
+          "bidder": "0b5faa2f5cda4f72b3a8d204f12c49ea"
+        },
+        {
+          "date": "2015-11-09T08:44:24.935070+02:00",
+          "amount": 292.0,
+          "bidder": "c81cb82aa66846cdb6959040c115e9e4"
+        }
+      ],
+      "time": "2015-11-09T11:02:17.005278+00:00"
+    }
+  },
+  "id": "10f04b43e3a34748b830eb8a3734c482",
+  "tenderId": "UA-2015-11-02-000300"
+}

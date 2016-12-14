@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "36d91574e5cd456dbd09ef4ed3acb0b9",
+        "time": "2015-11-18T10:45:44.006083+00:00"
+      },
+      "turn_1": {
+        "amount": 23200.0,
+        "bid_time": "2015-11-18T12:43:12.178315+02:00",
+        "bidder": "ab42ea87e86241e5a9a30a343528622e",
+        "time": "2015-11-18T10:43:44.007728+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ab42ea87e86241e5a9a30a343528622e",
+        "time": "2015-11-18T10:51:44.006873+00:00"
+      },
+      "turn_1": {
+        "bidder": "36d91574e5cd456dbd09ef4ed3acb0b9",
+        "time": "2015-11-18T10:49:44.006510+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "36d91574e5cd456dbd09ef4ed3acb0b9",
+        "time": "2015-11-18T10:39:44.006651+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab42ea87e86241e5a9a30a343528622e",
+        "time": "2015-11-18T10:37:44.006545+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "36d91574e5cd456dbd09ef4ed3acb0b9",
+          "amount": 23400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0504440011",
+                "name": "Блєднов Володимир Валентинович",
+                "email": "bl1604@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2567300177",
+                "legalName": "ФОП Блєднов Володимир Валентинович"
+              },
+              "name": "ФОП Блєднов Володимир Валентинович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02097",
+                "region": "Київська",
+                "streetAddress": "Лісківська, 35/21, кв. 297",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:12:01.441132+02:00"
+        },
+        {
+          "bidder": "ab42ea87e86241e5a9a30a343528622e",
+          "amount": 23200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:43:12.178315+02:00"
+        }
+      ],
+      "time": "2015-11-18T10:51:46.049415+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T13:59:02.429785+02:00",
+          "amount": 25878.55,
+          "bidder": "ab42ea87e86241e5a9a30a343528622e"
+        },
+        {
+          "date": "2015-11-17T12:12:01.441132+02:00",
+          "amount": 23400.0,
+          "bidder": "36d91574e5cd456dbd09ef4ed3acb0b9"
+        }
+      ],
+      "time": "2015-11-18T10:30:44.002386+00:00"
+    }
+  },
+  "id": "08f31753e5d841bdb14384ff3982afef",
+  "tenderId": "UA-2015-11-13-000072-b"
+}

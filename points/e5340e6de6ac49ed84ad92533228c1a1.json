@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ae7d55eb918745d183eeb79ad6d9a102",
+        "time": "2015-11-18T10:56:20.028141+00:00"
+      },
+      "turn_1": {
+        "amount": 5800.0,
+        "bid_time": "2015-11-18T12:53:45.489398+02:00",
+        "bidder": "ea3ec8fd2bca49729f4f15794016eff0",
+        "time": "2015-11-18T10:54:20.017967+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 5750.0,
+        "bid_time": "2015-11-18T13:00:28.695772+02:00",
+        "bidder": "ea3ec8fd2bca49729f4f15794016eff0",
+        "time": "2015-11-18T11:02:20.009247+00:00"
+      },
+      "turn_1": {
+        "amount": 5790.0,
+        "bid_time": "2015-11-18T12:59:52.412304+02:00",
+        "bidder": "ae7d55eb918745d183eeb79ad6d9a102",
+        "time": "2015-11-18T11:00:20.009499+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ae7d55eb918745d183eeb79ad6d9a102",
+        "time": "2015-11-18T10:50:20.010883+00:00"
+      },
+      "turn_1": {
+        "bidder": "ea3ec8fd2bca49729f4f15794016eff0",
+        "time": "2015-11-18T10:48:20.011044+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ae7d55eb918745d183eeb79ad6d9a102",
+          "amount": 5790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380443777849",
+                "telephone": "+380443777849",
+                "name": "Базилевич Юрій Анатолійович",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988"
+              },
+              "name": "ТОВ ПРИВАТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська область",
+                "streetAddress": "пр-т Оболонський, 18",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T12:59:52.412304+02:00"
+        },
+        {
+          "bidder": "ea3ec8fd2bca49729f4f15794016eff0",
+          "amount": 5750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509257623",
+                "name": "ТОВ \"Фірма Екостар\"",
+                "email": "irina.zemleduh@ecostar.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35042374",
+                "legalName": "ТОВ \"Фірма Екостар\""
+              },
+              "name": "ТОВ \"Фірма Екостар\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000,м.Дніпропетровськ,Бульвар Слави,14,кв.62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T13:00:28.695772+02:00"
+        }
+      ],
+      "time": "2015-11-18T11:02:34.884125+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-16T11:22:19.216452+02:00",
+          "amount": 6700.0,
+          "bidder": "ea3ec8fd2bca49729f4f15794016eff0"
+        },
+        {
+          "date": "2015-11-17T13:51:30.187437+02:00",
+          "amount": 5987.0,
+          "bidder": "ae7d55eb918745d183eeb79ad6d9a102"
+        }
+      ],
+      "time": "2015-11-18T10:41:20.004273+00:00"
+    }
+  },
+  "id": "e5340e6de6ac49ed84ad92533228c1a1",
+  "tenderId": "UA-2015-11-12-000067-b"
+}

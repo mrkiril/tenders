@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 373500.0,
+        "bid_time": "2015-08-20T11:14:16.824144+03:00",
+        "bidder": "58a2b2a734934fea9b6b9c2bcba5a6f3",
+        "time": "2015-08-20T08:15:00.093819+00:00"
+      },
+      "turn_1": {
+        "amount": 373719.6,
+        "bid_time": "2015-08-20T11:12:28.026907+03:00",
+        "bidder": "47c089ded76e4e66a40edd600e98bf0d",
+        "time": "2015-08-20T08:13:00.097069+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 363300.0,
+        "bid_time": "2015-08-20T11:19:46.068638+03:00",
+        "bidder": "58a2b2a734934fea9b6b9c2bcba5a6f3",
+        "time": "2015-08-20T08:21:00.119468+00:00"
+      },
+      "turn_1": {
+        "amount": 363500.0,
+        "bid_time": "2015-08-20T11:17:40.757163+03:00",
+        "bidder": "47c089ded76e4e66a40edd600e98bf0d",
+        "time": "2015-08-20T08:19:00.105646+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "58a2b2a734934fea9b6b9c2bcba5a6f3",
+        "time": "2015-08-20T08:09:00.127888+00:00"
+      },
+      "turn_1": {
+        "bidder": "47c089ded76e4e66a40edd600e98bf0d",
+        "time": "2015-08-20T08:07:00.084948+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "47c089ded76e4e66a40edd600e98bf0d",
+          "amount": 363500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487775807",
+                "name": "Наталья Визнюк",
+                "email": "buhmerk@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32727272",
+                "legalName": "ТОВ \"Сфинкс-олвин\""
+              },
+              "name": "ТОВ \"Сфинкс-олвин\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65078",
+                "region": "Одесская",
+                "streetAddress": "ул. Космонавтов, 36",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-08-20T11:17:40.757163+03:00"
+        },
+        {
+          "bidder": "58a2b2a734934fea9b6b9c2bcba5a6f3",
+          "amount": 363300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380999083356",
+                "name": "ТОВ \"ДЕЗКОМ\" Павленко Виталий Павлович",
+                "email": "mainservice@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37434430 ",
+                "legalName": "ТОВ \"ДЕЗКОМ\""
+              },
+              "name": "ТОВ \"ДЕЗКОМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "31900",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Дорожная, 64",
+                "locality": "Днепродзержинск"
+              }
+            }
+          ],
+          "time": "2015-08-20T11:19:46.068638+03:00"
+        }
+      ],
+      "time": "2015-08-20T08:21:07.617605+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T16:49:10.187033+03:00",
+          "amount": 415244.7,
+          "bidder": "47c089ded76e4e66a40edd600e98bf0d"
+        },
+        {
+          "date": "2015-08-19T15:54:24.394741+03:00",
+          "amount": 406695.0,
+          "bidder": "58a2b2a734934fea9b6b9c2bcba5a6f3"
+        }
+      ],
+      "time": "2015-08-20T08:00:00.022214+00:00"
+    }
+  },
+  "id": "06bd6839be174d158da418f9f390bba0",
+  "tenderId": "UA-2015-08-11-000072"
+}

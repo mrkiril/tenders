@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2f8fcf8b863f40e59d32516ccaade304",
+        "time": "2015-10-20T10:25:28.007650+00:00"
+      },
+      "turn_1": {
+        "amount": 3760.0,
+        "bid_time": "2015-10-20T13:22:57.276131+03:00",
+        "bidder": "b81eef07bad14f5e88748f9ec43076a4",
+        "time": "2015-10-20T10:23:28.010391+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2f8fcf8b863f40e59d32516ccaade304",
+        "time": "2015-10-20T10:31:28.007828+00:00"
+      },
+      "turn_1": {
+        "bidder": "b81eef07bad14f5e88748f9ec43076a4",
+        "time": "2015-10-20T10:29:28.007150+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2f8fcf8b863f40e59d32516ccaade304",
+        "time": "2015-10-20T10:19:28.011149+00:00"
+      },
+      "turn_1": {
+        "bidder": "b81eef07bad14f5e88748f9ec43076a4",
+        "time": "2015-10-20T10:17:28.010226+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b81eef07bad14f5e88748f9ec43076a4",
+          "amount": 3760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-20T13:22:57.276131+03:00"
+        },
+        {
+          "bidder": "2f8fcf8b863f40e59d32516ccaade304",
+          "amount": 3572.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lutskmedical.com",
+                "faxNumber": "+380332231076",
+                "telephone": "+380332231076",
+                "name": "Мурашов Ігор Вікторович",
+                "email": "infostar125i@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37319688"
+              },
+              "name": "ТОВ Західмедінвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "43005",
+                "region": "Волинська область",
+                "streetAddress": "Вул. Гулака-Артемовського ,20",
+                "locality": "Луцьк"
+              }
+            }
+          ],
+          "time": "2015-10-19T11:29:00.714563+03:00"
+        }
+      ],
+      "time": "2015-10-20T10:31:37.222719+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T17:45:09.070113+03:00",
+          "amount": 3852.0,
+          "bidder": "b81eef07bad14f5e88748f9ec43076a4"
+        },
+        {
+          "date": "2015-10-19T11:29:00.714563+03:00",
+          "amount": 3572.0,
+          "bidder": "2f8fcf8b863f40e59d32516ccaade304"
+        }
+      ],
+      "time": "2015-10-20T10:10:28.004376+00:00"
+    }
+  },
+  "id": "3a9a92a4af4049afb6f6bc7736a29998",
+  "tenderId": "UA-2015-10-08-000183"
+}

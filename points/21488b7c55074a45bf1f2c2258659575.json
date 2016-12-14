@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 32800.0,
+        "bid_time": "2015-11-18T13:52:15.926263+02:00",
+        "bidder": "0fe08d8cbaf9430d9cd8faa63668385a",
+        "time": "2015-11-18T11:53:13.009499+00:00"
+      },
+      "turn_3": {
+        "amount": 30899.0,
+        "bid_time": "2015-11-18T13:53:39.197202+02:00",
+        "bidder": "bf20099cdedd44ff8b24322d51ca3bb5",
+        "time": "2015-11-18T11:55:13.008665+00:00"
+      },
+      "turn_1": {
+        "amount": 32880.0,
+        "bid_time": "2015-11-18T13:49:59.512968+02:00",
+        "bidder": "f4b13acf2d2648549710d0f5ad1883a5",
+        "time": "2015-11-18T11:51:13.009041+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0fe08d8cbaf9430d9cd8faa63668385a",
+        "time": "2015-11-18T12:01:13.007059+00:00"
+      },
+      "turn_3": {
+        "amount": 28880.0,
+        "bid_time": "2015-11-18T14:02:05.475743+02:00",
+        "bidder": "bf20099cdedd44ff8b24322d51ca3bb5",
+        "time": "2015-11-18T12:03:13.008697+00:00"
+      },
+      "turn_1": {
+        "amount": 28883.0,
+        "bid_time": "2015-11-18T13:57:27.098358+02:00",
+        "bidder": "f4b13acf2d2648549710d0f5ad1883a5",
+        "time": "2015-11-18T11:59:13.011349+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f4b13acf2d2648549710d0f5ad1883a5",
+        "time": "2015-11-18T11:45:13.007384+00:00"
+      },
+      "turn_3": {
+        "bidder": "bf20099cdedd44ff8b24322d51ca3bb5",
+        "time": "2015-11-18T11:47:13.007540+00:00"
+      },
+      "turn_1": {
+        "amount": 56000.0,
+        "bid_time": "2015-11-18T13:41:39.648779+02:00",
+        "bidder": "0fe08d8cbaf9430d9cd8faa63668385a",
+        "time": "2015-11-18T11:43:13.008901+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0fe08d8cbaf9430d9cd8faa63668385a",
+          "amount": 32800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0503332403",
+                "name": "Зозуля Роман Олександрович",
+                "email": "roman.zozulya.od@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35818257",
+                "legalName": "Приватне підприємство \"Чорноморська перлина\""
+              },
+              "name": "Приватне підприємство \"Чорноморська перлина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65023",
+                "region": "Одеська",
+                "streetAddress": "вулиця Ніжинська, буд. 58, офіс 1",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-18T13:52:15.926263+02:00"
+        },
+        {
+          "bidder": "f4b13acf2d2648549710d0f5ad1883a5",
+          "amount": 28883.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979865320",
+                "name": "Геннаій",
+                "email": "1kt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39161738",
+                "legalName": "ПП \"АСБУДМ\""
+              },
+              "name": "ПП \"АСБУДМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "67661",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-18T13:57:27.098358+02:00"
+        },
+        {
+          "bidder": "bf20099cdedd44ff8b24322d51ca3bb5",
+          "amount": 28880.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0487777765",
+                "name": "Бондаренко Андрій Олександрович",
+                "email": "valermobile@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36518734",
+                "legalName": "ТОВ ТОРГОВИЙ ДІМ БЕТОНЕКС-БУД"
+              },
+              "name": "ТОВ ТОРГОВИЙ ДІМ БЕТОНЕКС-БУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65012",
+                "region": "Одеська",
+                "streetAddress": "Пушкінська, 36",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:02:05.475743+02:00"
+        }
+      ],
+      "time": "2015-11-18T12:03:25.305757+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T20:09:15.650846+02:00",
+          "amount": 90400.0,
+          "bidder": "0fe08d8cbaf9430d9cd8faa63668385a"
+        },
+        {
+          "date": "2015-11-17T23:35:11.057334+02:00",
+          "amount": 57104.13,
+          "bidder": "f4b13acf2d2648549710d0f5ad1883a5"
+        },
+        {
+          "date": "2015-11-17T14:34:27.055946+02:00",
+          "amount": 32899.2,
+          "bidder": "bf20099cdedd44ff8b24322d51ca3bb5"
+        }
+      ],
+      "time": "2015-11-18T11:36:13.003382+00:00"
+    }
+  },
+  "id": "21488b7c55074a45bf1f2c2258659575",
+  "tenderId": "UA-2015-11-09-000083"
+}

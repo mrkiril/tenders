@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "776aff6b44be494cbb40d09ec21d66fc",
+        "time": "2015-06-08T08:47:00.388877+00:00"
+      },
+      "turn_3": {
+        "amount": 13826.0,
+        "bid_time": "2015-06-08T11:47:20.205729+03:00",
+        "bidder": "22a445f0994f4c96a508c6f2cc552dc6",
+        "time": "2015-06-08T08:49:00.231842+00:00"
+      },
+      "turn_1": {
+        "bidder": "396fb3d5825c4e0e9c237a460e485ddd",
+        "time": "2015-06-08T08:45:00.306145+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "776aff6b44be494cbb40d09ec21d66fc",
+        "time": "2015-06-08T08:55:00.063341+00:00"
+      },
+      "turn_3": {
+        "bidder": "22a445f0994f4c96a508c6f2cc552dc6",
+        "time": "2015-06-08T08:57:00.089369+00:00"
+      },
+      "turn_1": {
+        "bidder": "396fb3d5825c4e0e9c237a460e485ddd",
+        "time": "2015-06-08T08:53:00.040152+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "776aff6b44be494cbb40d09ec21d66fc",
+        "time": "2015-06-08T08:39:00.132371+00:00"
+      },
+      "turn_3": {
+        "amount": 13831.0,
+        "bid_time": "2015-06-08T11:39:21.540417+03:00",
+        "bidder": "22a445f0994f4c96a508c6f2cc552dc6",
+        "time": "2015-06-08T08:41:00.119025+00:00"
+      },
+      "turn_1": {
+        "bidder": "396fb3d5825c4e0e9c237a460e485ddd",
+        "time": "2015-06-08T08:37:00.089887+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "396fb3d5825c4e0e9c237a460e485ddd",
+          "amount": 31448.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38874948",
+                "legalName": "ТОВ \"Еста Лайт\""
+              },
+              "name": "ТОВ \"Еста Лайт\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36002",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-06-05T15:29:00.131963+03:00"
+        },
+        {
+          "bidder": "776aff6b44be494cbb40d09ec21d66fc",
+          "amount": 28602.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0681161996",
+                "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+                "email": "prompostavkaltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39084219",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54038",
+                "region": "Миколаївська",
+                "streetAddress": "вулиця Морехідна, буд. 1-В/3, кв. 111",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-06-05T12:56:26.971780+03:00"
+        },
+        {
+          "bidder": "22a445f0994f4c96a508c6f2cc552dc6",
+          "amount": 13826.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdazovcable.kiev.ua",
+                "telephone": "+380675079492",
+                "name": "Торговый дом Азовкабель Киев",
+                "email": "0675079492@azovcable.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37387686",
+                "legalName": "Торговый дом Азовкабель Киев"
+              },
+              "name": "Торговый дом Азовкабель Киев",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02081, Киев, ул. Здолбуновская 7-Д",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-08T11:47:20.205729+03:00"
+        }
+      ],
+      "time": "2015-06-08T08:57:02.211593+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-05T15:29:00.131963+03:00",
+          "amount": 31448.4,
+          "bidder": "396fb3d5825c4e0e9c237a460e485ddd"
+        },
+        {
+          "date": "2015-06-05T12:56:26.971780+03:00",
+          "amount": 28602.0,
+          "bidder": "776aff6b44be494cbb40d09ec21d66fc"
+        },
+        {
+          "date": "2015-06-02T16:39:52.022025+03:00",
+          "amount": 13836.0,
+          "bidder": "22a445f0994f4c96a508c6f2cc552dc6"
+        }
+      ],
+      "time": "2015-06-08T08:30:00.154430+00:00"
+    }
+  },
+  "id": "348cc2bc8e744a93b223c592033096bc",
+  "tenderId": "UA-2015-05-22-000006"
+}

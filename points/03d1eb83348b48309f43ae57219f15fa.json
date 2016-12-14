@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "08bbb9ff903a4de4a7597aa6f56bd1c4",
+        "time": "2015-12-15T11:26:53.007043+00:00"
+      },
+      "turn_1": {
+        "bidder": "de0870da1b794899b511ba03ab0b7d13",
+        "time": "2015-12-15T11:24:53.008273+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "08bbb9ff903a4de4a7597aa6f56bd1c4",
+        "time": "2015-12-15T11:32:53.007601+00:00"
+      },
+      "turn_1": {
+        "bidder": "de0870da1b794899b511ba03ab0b7d13",
+        "time": "2015-12-15T11:30:53.008555+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "08bbb9ff903a4de4a7597aa6f56bd1c4",
+        "time": "2015-12-15T11:20:53.008242+00:00"
+      },
+      "turn_1": {
+        "bidder": "de0870da1b794899b511ba03ab0b7d13",
+        "time": "2015-12-15T11:18:53.008622+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "de0870da1b794899b511ba03ab0b7d13",
+          "amount": 28000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-12T14:31:04.162298+02:00"
+        },
+        {
+          "bidder": "08bbb9ff903a4de4a7597aa6f56bd1c4",
+          "amount": 26000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0462605003",
+                "name": "Бодяк Валентин Володимирович",
+                "email": "Valentin182010@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38179482",
+                "legalName": "ТОВ \"ПРОМО-ТРЕЙД\""
+              },
+              "name": "ТОВ \"ПРОМО-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14007",
+                "region": "Чернігівська",
+                "streetAddress": "Любченка 16",
+                "locality": "Чернігів"
+              }
+            }
+          ],
+          "time": "2015-12-14T09:48:42.562924+02:00"
+        }
+      ],
+      "time": "2015-12-15T11:32:53.848338+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-12T14:31:04.162298+02:00",
+          "amount": 28000.0,
+          "bidder": "de0870da1b794899b511ba03ab0b7d13"
+        },
+        {
+          "date": "2015-12-14T09:48:42.562924+02:00",
+          "amount": 26000.0,
+          "bidder": "08bbb9ff903a4de4a7597aa6f56bd1c4"
+        }
+      ],
+      "time": "2015-12-15T11:11:53.004252+00:00"
+    }
+  },
+  "id": "03d1eb83348b48309f43ae57219f15fa",
+  "tenderId": "UA-2015-12-07-000095"
+}

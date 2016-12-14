@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "538d757a2baa49b59cfdd7272eb3a2fa",
+        "time": "2015-09-15T10:17:00.031016+00:00"
+      },
+      "turn_3": {
+        "bidder": "ffe59cce3497476b94601286c2bcf1ee",
+        "time": "2015-09-15T10:19:00.024081+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b542687ce424f9dbc36303ce81a040a",
+        "time": "2015-09-15T10:15:00.085616+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "538d757a2baa49b59cfdd7272eb3a2fa",
+        "time": "2015-09-15T10:25:00.030043+00:00"
+      },
+      "turn_3": {
+        "bidder": "ffe59cce3497476b94601286c2bcf1ee",
+        "time": "2015-09-15T10:27:00.013454+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b542687ce424f9dbc36303ce81a040a",
+        "time": "2015-09-15T10:23:00.014740+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2869990.0,
+        "bid_time": "2015-09-15T13:07:31.609519+03:00",
+        "bidder": "538d757a2baa49b59cfdd7272eb3a2fa",
+        "time": "2015-09-15T10:09:00.030211+00:00"
+      },
+      "turn_3": {
+        "bidder": "ffe59cce3497476b94601286c2bcf1ee",
+        "time": "2015-09-15T10:11:00.056135+00:00"
+      },
+      "turn_1": {
+        "amount": 2870000.0,
+        "bid_time": "2015-09-15T13:05:23.580092+03:00",
+        "bidder": "4b542687ce424f9dbc36303ce81a040a",
+        "time": "2015-09-15T10:07:00.025100+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4b542687ce424f9dbc36303ce81a040a",
+          "amount": 2870000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444064940, +380503106777, +380444064950, +380672235885, +380445991037",
+                "name": "Роман Гавриш",
+                "email": "info@inpack.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25268212",
+                "legalName": "ИНПАК ООО"
+              },
+              "name": "ИНПАК ООО",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04111",
+                "region": "Киевская",
+                "streetAddress": "08130, г. Киев, Петропавловская Борщаговка, ул. Белоцерковская, 3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-15T13:05:23.580092+03:00"
+        },
+        {
+          "bidder": "538d757a2baa49b59cfdd7272eb3a2fa",
+          "amount": 2869990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952895450",
+                "name": "Наталия",
+                "email": "2015riko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34924649",
+                "legalName": "ТОВ \"ГРК \"РІКО\""
+              },
+              "name": "ТОВ \"ГРК \"РІКО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "15100",
+                "region": "Черниговская",
+                "streetAddress": "",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-09-15T13:07:31.609519+03:00"
+        },
+        {
+          "bidder": "ffe59cce3497476b94601286c2bcf1ee",
+          "amount": 2209500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380991875841",
+                "name": "Андрій Коновал",
+                "email": "0991875841mlv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36279330",
+                "legalName": "ПП \"ПП \"МЛВ\"\""
+              },
+              "name": "ПП \"ПП \"МЛВ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "14030",
+                "region": "Черниговская",
+                "streetAddress": "м. Чернігів, вул. Шевченко 109 А, кв.2",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-09-14T16:39:07.672573+03:00"
+        }
+      ],
+      "time": "2015-09-15T10:27:01.801441+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T16:51:42.474757+03:00",
+          "amount": 2946000.0,
+          "bidder": "4b542687ce424f9dbc36303ce81a040a"
+        },
+        {
+          "date": "2015-09-14T17:12:20.107109+03:00",
+          "amount": 2941000.0,
+          "bidder": "538d757a2baa49b59cfdd7272eb3a2fa"
+        },
+        {
+          "date": "2015-09-14T16:39:07.672573+03:00",
+          "amount": 2209500.0,
+          "bidder": "ffe59cce3497476b94601286c2bcf1ee"
+        }
+      ],
+      "time": "2015-09-15T10:00:00.005715+00:00"
+    }
+  },
+  "id": "0842e9a5525e4393abc9f720459dcacc",
+  "tenderId": "UA-2015-09-04-000096"
+}

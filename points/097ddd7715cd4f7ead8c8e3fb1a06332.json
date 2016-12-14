@@ -1,0 +1,171 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3024.0,
+        "bid_time": "2015-10-02T15:56:23.953561+03:00",
+        "bidder": "ed77058ca55e4b8db4f9c1434a79cf93",
+        "time": "2015-10-02T12:58:01.008427+00:00"
+      },
+      "turn_3": {
+        "amount": 2964.0,
+        "bid_time": "2015-10-02T15:58:36.031061+03:00",
+        "bidder": "d6ab977f9c1446318124a0b779fab1ea",
+        "time": "2015-10-02T13:00:01.007470+00:00"
+      },
+      "turn_1": {
+        "bidder": "ca7a660a8f97417888e9d0dc29e35ea9",
+        "time": "2015-10-02T12:56:01.007117+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2772.0,
+        "bid_time": "2015-10-02T16:04:06.280582+03:00",
+        "bidder": "ed77058ca55e4b8db4f9c1434a79cf93",
+        "time": "2015-10-02T13:06:01.011528+00:00"
+      },
+      "turn_3": {
+        "amount": 2750.0,
+        "bid_time": "2015-10-02T16:06:41.165208+03:00",
+        "bidder": "d6ab977f9c1446318124a0b779fab1ea",
+        "time": "2015-10-02T13:08:01.007300+00:00"
+      },
+      "turn_1": {
+        "amount": 3000.0,
+        "bid_time": "2015-10-02T16:02:26.289997+03:00",
+        "bidder": "ca7a660a8f97417888e9d0dc29e35ea9",
+        "time": "2015-10-02T13:04:01.011457+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3150.0,
+        "bid_time": "2015-10-02T15:48:16.752587+03:00",
+        "bidder": "ed77058ca55e4b8db4f9c1434a79cf93",
+        "time": "2015-10-02T12:50:01.007226+00:00"
+      },
+      "turn_3": {
+        "amount": 3072.0,
+        "bid_time": "2015-10-02T15:50:18.083733+03:00",
+        "bidder": "d6ab977f9c1446318124a0b779fab1ea",
+        "time": "2015-10-02T12:52:01.007885+00:00"
+      },
+      "turn_1": {
+        "amount": 3179.0,
+        "bid_time": "2015-10-02T15:47:44.771125+03:00",
+        "bidder": "ca7a660a8f97417888e9d0dc29e35ea9",
+        "time": "2015-10-02T12:48:01.007303+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ca7a660a8f97417888e9d0dc29e35ea9",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442230403",
+                "name": "Валентина Жлуктенко",
+                "email": "office@eva-oks.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37788539",
+                "legalName": "ТОВ \"ЄВА ОКС\""
+              },
+              "name": "ТОВ \"ЄВА ОКС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02099",
+                "region": "",
+                "streetAddress": "вулиця Бориспільська, 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T16:02:26.289997+03:00"
+        },
+        {
+          "bidder": "ed77058ca55e4b8db4f9c1434a79cf93",
+          "amount": 2772.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T16:04:06.280582+03:00"
+        },
+        {
+          "bidder": "d6ab977f9c1446318124a0b779fab1ea",
+          "amount": 2750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-02T16:06:41.165208+03:00"
+        }
+      ],
+      "time": "2015-10-02T13:08:05.416898+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T13:05:17.876373+03:00",
+          "amount": 3600.0,
+          "bidder": "ca7a660a8f97417888e9d0dc29e35ea9"
+        },
+        {
+          "date": "2015-10-01T12:29:45.935324+03:00",
+          "amount": 3276.0,
+          "bidder": "ed77058ca55e4b8db4f9c1434a79cf93"
+        },
+        {
+          "date": "2015-10-01T14:34:36.505748+03:00",
+          "amount": 3180.0,
+          "bidder": "d6ab977f9c1446318124a0b779fab1ea"
+        }
+      ],
+      "time": "2015-10-02T12:41:01.002536+00:00"
+    }
+  },
+  "id": "097ddd7715cd4f7ead8c8e3fb1a06332",
+  "tenderId": "UA-2015-09-22-000112"
+}

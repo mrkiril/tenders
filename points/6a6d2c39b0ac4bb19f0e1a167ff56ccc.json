@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "90583b47c6a04fd1a184cebd29b87cae",
+        "time": "2015-11-25T11:52:16.006849+00:00"
+      },
+      "turn_3": {
+        "bidder": "e2b0ebc0f2ef4e15822fac9ccd02acf2",
+        "time": "2015-11-25T11:54:16.006998+00:00"
+      },
+      "turn_1": {
+        "bidder": "51ec514d32d24bfdb69d0d4d3af771d4",
+        "time": "2015-11-25T11:50:16.008047+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "90583b47c6a04fd1a184cebd29b87cae",
+        "time": "2015-11-25T12:00:16.007532+00:00"
+      },
+      "turn_3": {
+        "bidder": "e2b0ebc0f2ef4e15822fac9ccd02acf2",
+        "time": "2015-11-25T12:02:16.007480+00:00"
+      },
+      "turn_1": {
+        "bidder": "51ec514d32d24bfdb69d0d4d3af771d4",
+        "time": "2015-11-25T11:58:16.032157+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "90583b47c6a04fd1a184cebd29b87cae",
+        "time": "2015-11-25T11:44:16.007941+00:00"
+      },
+      "turn_3": {
+        "bidder": "e2b0ebc0f2ef4e15822fac9ccd02acf2",
+        "time": "2015-11-25T11:46:16.007819+00:00"
+      },
+      "turn_1": {
+        "bidder": "51ec514d32d24bfdb69d0d4d3af771d4",
+        "time": "2015-11-25T11:42:16.008247+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "51ec514d32d24bfdb69d0d4d3af771d4",
+          "amount": 7000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563790461",
+                "name": "Энергостройинвест",
+                "email": "tania@esi.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38799405",
+                "legalName": "Энергостройинвест"
+              },
+              "name": "Энергостройинвест",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, м. Київ, проспект Московський, 16 оф. 12,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-24T11:32:17.238267+02:00"
+        },
+        {
+          "bidder": "90583b47c6a04fd1a184cebd29b87cae",
+          "amount": 6780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://yugsintez.com.ua/",
+                "telephone": "+380562384654",
+                "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+                "email": "kupriyanov@yugsint.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32990002",
+                "legalName": "Общество с ограниченной ответственностью \"Югсинтез\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Днепропетровская область г. Днепропетровск, Бабушинский район, ул. Героев Сталинграда, 156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T12:48:44.015935+02:00"
+        },
+        {
+          "bidder": "e2b0ebc0f2ef4e15822fac9ccd02acf2",
+          "amount": 6400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T16:47:56.127686+02:00"
+        }
+      ],
+      "time": "2015-11-25T12:02:17.256376+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T11:32:17.238267+02:00",
+          "amount": 7000.0,
+          "bidder": "51ec514d32d24bfdb69d0d4d3af771d4"
+        },
+        {
+          "date": "2015-11-23T12:48:44.015935+02:00",
+          "amount": 6780.0,
+          "bidder": "90583b47c6a04fd1a184cebd29b87cae"
+        },
+        {
+          "date": "2015-11-20T16:47:56.127686+02:00",
+          "amount": 6400.0,
+          "bidder": "e2b0ebc0f2ef4e15822fac9ccd02acf2"
+        }
+      ],
+      "time": "2015-11-25T11:35:16.003663+00:00"
+    }
+  },
+  "id": "6a6d2c39b0ac4bb19f0e1a167ff56ccc",
+  "tenderId": "UA-2015-11-18-000125-b"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b272dde306294dd8a6cdfe642cf7ad69",
+        "time": "2015-11-30T13:19:26.010483+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4ebf01cb9ab4ef487fe555bfc1caa4b",
+        "time": "2015-11-30T13:17:26.012023+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b272dde306294dd8a6cdfe642cf7ad69",
+        "time": "2015-11-30T13:25:26.030654+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4ebf01cb9ab4ef487fe555bfc1caa4b",
+        "time": "2015-11-30T13:23:26.010833+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 960.0,
+        "bid_time": "2015-11-30T15:12:05.346112+02:00",
+        "bidder": "b272dde306294dd8a6cdfe642cf7ad69",
+        "time": "2015-11-30T13:13:26.016571+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4ebf01cb9ab4ef487fe555bfc1caa4b",
+        "time": "2015-11-30T13:11:26.011624+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c4ebf01cb9ab4ef487fe555bfc1caa4b",
+          "amount": 984.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://novakartka.com",
+                "faxNumber": "+380442841215",
+                "telephone": "+380442840899",
+                "name": "Луцюк Олена Олександрівна",
+                "email": "manager@novakartka.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31838809"
+              },
+              "name": "ТОВ НОВА КАРТКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська область",
+                "streetAddress": "вул. Мечникова, Будинок № 14/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T16:58:04.815937+02:00"
+        },
+        {
+          "bidder": "b272dde306294dd8a6cdfe642cf7ad69",
+          "amount": 960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://novakartka.com",
+                "telephone": "+380442840899",
+                "name": "Товариство з обмеженою відповідальністю \"НОВА КАРТКА\"",
+                "email": "gnk@novakartka.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31838809",
+                "legalName": "Товариство з обмеженою відповідальністю \"НОВА КАРТКА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"НОВА КАРТКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "01133, Печерський р-н, м.Київ, вул. Мечникова, Будинок № 14/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T15:12:05.346112+02:00"
+        }
+      ],
+      "time": "2015-11-30T13:25:29.261286+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T16:53:53.407396+02:00",
+          "amount": 984.0,
+          "bidder": "b272dde306294dd8a6cdfe642cf7ad69"
+        },
+        {
+          "date": "2015-11-26T16:58:04.815937+02:00",
+          "amount": 984.0,
+          "bidder": "c4ebf01cb9ab4ef487fe555bfc1caa4b"
+        }
+      ],
+      "time": "2015-11-30T13:04:26.004602+00:00"
+    }
+  },
+  "id": "5a4fbe98a15c47a9af86f9772fc36bb6",
+  "tenderId": "UA-2015-11-19-000082-b"
+}

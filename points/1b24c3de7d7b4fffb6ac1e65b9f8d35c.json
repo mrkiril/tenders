@@ -1,0 +1,254 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "84e40a02293847198aed19d9b38e9cbf",
+        "time": "2015-11-18T13:01:39.009463+00:00"
+      },
+      "turn_5": {
+        "bidder": "212d5f173fd94fc7aa259c92ed07482e",
+        "time": "2015-11-18T13:03:39.026000+00:00"
+      },
+      "turn_2": {
+        "amount": 7500.0,
+        "bid_time": "2015-11-18T14:55:47.802946+02:00",
+        "bidder": "eaa89d61a98c48feaf01ec4d20473363",
+        "time": "2015-11-18T12:57:39.012790+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0adeb4cad334817a8814727bb5adea6",
+        "time": "2015-11-18T12:59:39.010485+00:00"
+      },
+      "turn_1": {
+        "bidder": "9daf1a45ae554a2190e7c0b9aa711702",
+        "time": "2015-11-18T12:55:39.009125+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "84e40a02293847198aed19d9b38e9cbf",
+        "time": "2015-11-18T13:13:39.009111+00:00"
+      },
+      "turn_5": {
+        "bidder": "212d5f173fd94fc7aa259c92ed07482e",
+        "time": "2015-11-18T13:15:39.009916+00:00"
+      },
+      "turn_2": {
+        "bidder": "a0adeb4cad334817a8814727bb5adea6",
+        "time": "2015-11-18T13:09:39.011575+00:00"
+      },
+      "turn_3": {
+        "amount": 7250.0,
+        "bid_time": "2015-11-18T15:10:28.756535+02:00",
+        "bidder": "eaa89d61a98c48feaf01ec4d20473363",
+        "time": "2015-11-18T13:11:39.009181+00:00"
+      },
+      "turn_1": {
+        "bidder": "9daf1a45ae554a2190e7c0b9aa711702",
+        "time": "2015-11-18T13:07:39.012012+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 6794.0,
+        "bid_time": "2015-11-18T14:48:45.095403+02:00",
+        "bidder": "84e40a02293847198aed19d9b38e9cbf",
+        "time": "2015-11-18T12:49:39.010495+00:00"
+      },
+      "turn_5": {
+        "bidder": "212d5f173fd94fc7aa259c92ed07482e",
+        "time": "2015-11-18T12:51:39.010081+00:00"
+      },
+      "turn_2": {
+        "amount": 7750.0,
+        "bid_time": "2015-11-18T14:43:54.658747+02:00",
+        "bidder": "eaa89d61a98c48feaf01ec4d20473363",
+        "time": "2015-11-18T12:45:39.008147+00:00"
+      },
+      "turn_3": {
+        "amount": 7730.0,
+        "bid_time": "2015-11-18T14:46:56.041668+02:00",
+        "bidder": "a0adeb4cad334817a8814727bb5adea6",
+        "time": "2015-11-18T12:47:39.009540+00:00"
+      },
+      "turn_1": {
+        "bidder": "9daf1a45ae554a2190e7c0b9aa711702",
+        "time": "2015-11-18T12:43:39.006633+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9daf1a45ae554a2190e7c0b9aa711702",
+          "amount": 8141.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-17T14:45:00.951013+02:00"
+        },
+        {
+          "bidder": "a0adeb4cad334817a8814727bb5adea6",
+          "amount": 7730.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444045009, +380444962891, +380444962892",
+                "name": "Александр Мирошник",
+                "email": "semp@i.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13688676",
+                "legalName": "ТОВ \"СЕМП\""
+              },
+              "name": "ТОВ \"СЕМП\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "03680, Київ, вул. Виборзька 111",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:46:56.041668+02:00"
+        },
+        {
+          "bidder": "eaa89d61a98c48feaf01ec4d20473363",
+          "amount": 7250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503203645",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АЙТРАК\"",
+                "email": "siguta_2008@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40016791",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АЙТРАК\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АЙТРАК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03134, м.Київ, ВУЛИЦЯ СИМИРЕНКА, будинок 36",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T15:10:28.756535+02:00"
+        },
+        {
+          "bidder": "84e40a02293847198aed19d9b38e9cbf",
+          "amount": 6794.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tot.biz.ua",
+                "telephone": "+380950272509",
+                "name": "Общество с ограниченной ответственностью \"Технооптторг-Трейд\"",
+                "email": "kukarekin.aa@tot.biz.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31497076",
+                "legalName": "Общество с ограниченной ответственностью \"Технооптторг-Трейд\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Технооптторг-Трейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 49000, г.Днепропетровск, ул. Серова,10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T14:48:45.095403+02:00"
+        },
+        {
+          "bidder": "212d5f173fd94fc7aa259c92ed07482e",
+          "amount": 6400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632277335",
+                "name": "ООО \"Стандарт-Оил\"",
+                "email": "denis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30171638",
+                "legalName": "ООО \"Стандарт-Оил\""
+              },
+              "name": "ООО \"Стандарт-Оил\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, г. Одесса, Воронцовский переулок 1,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T09:33:17.522828+02:00"
+        }
+      ],
+      "time": "2015-11-18T13:15:44.042446+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T14:45:00.951013+02:00",
+          "amount": 8141.6,
+          "bidder": "9daf1a45ae554a2190e7c0b9aa711702"
+        },
+        {
+          "date": "2015-11-17T14:34:11.185016+02:00",
+          "amount": 8040.0,
+          "bidder": "eaa89d61a98c48feaf01ec4d20473363"
+        },
+        {
+          "date": "2015-11-17T15:31:30.281872+02:00",
+          "amount": 7980.0,
+          "bidder": "a0adeb4cad334817a8814727bb5adea6"
+        },
+        {
+          "date": "2015-11-17T15:57:39.165967+02:00",
+          "amount": 7044.0,
+          "bidder": "84e40a02293847198aed19d9b38e9cbf"
+        },
+        {
+          "date": "2015-11-17T09:33:17.522828+02:00",
+          "amount": 6400.0,
+          "bidder": "212d5f173fd94fc7aa259c92ed07482e"
+        }
+      ],
+      "time": "2015-11-18T12:36:39.001800+00:00"
+    }
+  },
+  "id": "1b24c3de7d7b4fffb6ac1e65b9f8d35c",
+  "tenderId": "UA-2015-11-12-000162"
+}

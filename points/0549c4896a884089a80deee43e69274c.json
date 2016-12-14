@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e023c2606e8d4efab308cf9bb7d6e18a",
+        "time": "2015-11-30T13:45:04.011402+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e0d7fe33b4907b94a12cbf00b53ea",
+        "time": "2015-11-30T13:43:04.009877+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e023c2606e8d4efab308cf9bb7d6e18a",
+        "time": "2015-11-30T13:51:04.009254+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e0d7fe33b4907b94a12cbf00b53ea",
+        "time": "2015-11-30T13:49:04.009197+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e023c2606e8d4efab308cf9bb7d6e18a",
+        "time": "2015-11-30T13:39:04.010346+00:00"
+      },
+      "turn_1": {
+        "bidder": "7b9e0d7fe33b4907b94a12cbf00b53ea",
+        "time": "2015-11-30T13:37:04.010317+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7b9e0d7fe33b4907b94a12cbf00b53ea",
+          "amount": 1230.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://interteh.rv.ua",
+                "faxNumber": "+380363424489",
+                "telephone": "+380363424499",
+                "name": "Троневич Олександр Володимирович",
+                "email": "tron@interteh.rv.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2745213470"
+              },
+              "name": "ФОП Троневич Олександр Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "34300",
+                "region": "Рівненська область",
+                "streetAddress": "вул. Чкалова 6 кв.4",
+                "locality": "Володимирець"
+              }
+            }
+          ],
+          "time": "2015-11-25T15:18:16.793139+02:00"
+        },
+        {
+          "bidder": "e023c2606e8d4efab308cf9bb7d6e18a",
+          "amount": 1230.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509406811",
+                "name": "Кібиш Галина Артемівна",
+                "email": "kibish2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1364903180"
+              },
+              "name": "ФОП Кібиш Галина Артемівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "34500",
+                "region": "Рівненська область",
+                "streetAddress": "вул.Челюскінців,28а",
+                "locality": "Сарни"
+              }
+            }
+          ],
+          "time": "2015-11-25T12:22:40.443865+02:00"
+        }
+      ],
+      "time": "2015-11-30T13:51:04.921164+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-25T12:22:40.443865+02:00",
+          "amount": 1230.0,
+          "bidder": "e023c2606e8d4efab308cf9bb7d6e18a"
+        },
+        {
+          "date": "2015-11-25T15:18:16.793139+02:00",
+          "amount": 1230.0,
+          "bidder": "7b9e0d7fe33b4907b94a12cbf00b53ea"
+        }
+      ],
+      "time": "2015-11-30T13:30:04.006131+00:00"
+    }
+  },
+  "id": "0549c4896a884089a80deee43e69274c",
+  "tenderId": "UA-2015-11-20-000102-a"
+}

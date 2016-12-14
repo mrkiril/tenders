@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "af061c97cafb4e96996d8bd9d928ef72",
+        "time": "2015-06-22T08:47:00.123302+00:00"
+      },
+      "turn_3": {
+        "amount": 10700.0,
+        "bid_time": "2015-06-22T11:48:32.833780+03:00",
+        "bidder": "985bd5d402264949b8433f9159e2fd60",
+        "time": "2015-06-22T08:49:00.147111+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9a24c273cc142748ee0db3b0bacaba2",
+        "time": "2015-06-22T08:45:00.081037+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "af061c97cafb4e96996d8bd9d928ef72",
+        "time": "2015-06-22T08:55:00.046106+00:00"
+      },
+      "turn_3": {
+        "bidder": "985bd5d402264949b8433f9159e2fd60",
+        "time": "2015-06-22T08:57:00.074191+00:00"
+      },
+      "turn_1": {
+        "bidder": "f9a24c273cc142748ee0db3b0bacaba2",
+        "time": "2015-06-22T08:53:00.042994+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f9a24c273cc142748ee0db3b0bacaba2",
+        "time": "2015-06-22T08:39:00.249418+00:00"
+      },
+      "turn_3": {
+        "bidder": "af061c97cafb4e96996d8bd9d928ef72",
+        "time": "2015-06-22T08:41:00.056841+00:00"
+      },
+      "turn_1": {
+        "amount": 10800.0,
+        "bid_time": "2015-06-22T11:36:29.763170+03:00",
+        "bidder": "985bd5d402264949b8433f9159e2fd60",
+        "time": "2015-06-22T08:37:00.170472+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f9a24c273cc142748ee0db3b0bacaba2",
+          "amount": 11840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://elelife.com.ua",
+                "telephone": "+380482344250",
+                "name": "ООО \"ЭЛЕЛАЙФ\"",
+                "email": "diel2003@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36919117",
+                "legalName": "ООО \"ЭЛЕЛАЙФ\""
+              },
+              "name": "ООО \"ЭЛЕЛАЙФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65074, г. Одесса, ул. Маршала Малиновского, 53, кв. 38",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-18T13:59:26.672562+03:00"
+        },
+        {
+          "bidder": "af061c97cafb4e96996d8bd9d928ef72",
+          "amount": 11268.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380949543637, +380675180545",
+                "name": "Марлен Аккиев",
+                "email": "marlen.akkiev@truck-parts.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36466325",
+                "legalName": "ТОВ \"Трак Партс\""
+              },
+              "name": "ТОВ \"Трак Партс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65000",
+                "region": "Одесская",
+                "streetAddress": "ул. Дальницкая 23/4",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-18T11:05:46.095320+03:00"
+        },
+        {
+          "bidder": "985bd5d402264949b8433f9159e2fd60",
+          "amount": 10700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0487987464",
+                "name": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\"",
+                "email": "as_service@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35641167",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПРОСПЕР ФАГОТ ПЛЮС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65013",
+                "region": "Одеська",
+                "streetAddress": "Отамана Головатого, 104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-22T11:48:32.833780+03:00"
+        }
+      ],
+      "time": "2015-06-22T08:57:01.889104+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-15T12:30:57.311062+03:00",
+          "amount": 11940.0,
+          "bidder": "985bd5d402264949b8433f9159e2fd60"
+        },
+        {
+          "date": "2015-06-18T13:59:26.672562+03:00",
+          "amount": 11840.0,
+          "bidder": "f9a24c273cc142748ee0db3b0bacaba2"
+        },
+        {
+          "date": "2015-06-18T11:05:46.095320+03:00",
+          "amount": 11268.0,
+          "bidder": "af061c97cafb4e96996d8bd9d928ef72"
+        }
+      ],
+      "time": "2015-06-22T08:30:00.012732+00:00"
+    }
+  },
+  "id": "e52a5436c832469ab9e9b6e3e84d7faf",
+  "tenderId": "UA-2015-06-05-000048"
+}

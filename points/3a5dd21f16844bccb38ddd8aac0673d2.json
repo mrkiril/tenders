@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e00343066bb947ee98e9ca8411622d7a",
+        "time": "2015-08-21T08:15:00.154113+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd15a739afdf4e82a86ae6913da2a9d6",
+        "time": "2015-08-21T08:13:00.167367+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e00343066bb947ee98e9ca8411622d7a",
+        "time": "2015-08-21T08:21:00.089826+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd15a739afdf4e82a86ae6913da2a9d6",
+        "time": "2015-08-21T08:19:00.121499+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e00343066bb947ee98e9ca8411622d7a",
+        "time": "2015-08-21T08:09:00.108488+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd15a739afdf4e82a86ae6913da2a9d6",
+        "time": "2015-08-21T08:07:00.089759+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fd15a739afdf4e82a86ae6913da2a9d6",
+          "amount": 1900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.zas.kiev.ua/",
+                "faxNumber": "044-423-36-10",
+                "telephone": "0674652304",
+                "name": "Зубець Інна Анатоліївна",
+                "email": "i.zubets@zas.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37880861",
+                "legalName": "ТОВ \"ЗАПЧАСТИНА АВТО СЕРВІС\""
+              },
+              "name": "ТОВ \"ЗАПЧАСТИНА АВТО СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02222",
+                "region": "Київська",
+                "streetAddress": "вул.Беретті, 6-А, кв.88",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T16:56:45.629700+03:00"
+        },
+        {
+          "bidder": "e00343066bb947ee98e9ca8411622d7a",
+          "amount": 1900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tesma.com.ua/",
+                "telephone": "0504713896",
+                "name": "Олег Кравцов ",
+                "email": "dir@tesma.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39178563",
+                "legalName": ""
+              },
+              "name": "Тесма Трейд, ООО",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, ул.Д.Кедрина, 42 оф.217"
+              }
+            }
+          ],
+          "time": "2015-08-19T12:19:50.338562+03:00"
+        }
+      ],
+      "time": "2015-08-21T08:21:07.401430+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T12:19:50.338562+03:00",
+          "amount": 1900.0,
+          "bidder": "e00343066bb947ee98e9ca8411622d7a"
+        },
+        {
+          "date": "2015-08-20T16:56:45.629700+03:00",
+          "amount": 1900.0,
+          "bidder": "fd15a739afdf4e82a86ae6913da2a9d6"
+        }
+      ],
+      "time": "2015-08-21T08:00:00.110440+00:00"
+    }
+  },
+  "id": "3a5dd21f16844bccb38ddd8aac0673d2",
+  "tenderId": "UA-2015-08-17-000038"
+}

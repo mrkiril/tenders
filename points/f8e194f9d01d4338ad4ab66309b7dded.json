@@ -1,0 +1,256 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 180000.0,
+        "bid_time": "2015-11-09T11:54:09.891074+02:00",
+        "bidder": "d53a6abeba0d4908b4650ca3d78cc609",
+        "time": "2015-11-09T09:55:07.010383+00:00"
+      },
+      "turn_5": {
+        "bidder": "6e0264c0633e458fb2139c0f5fc15b45",
+        "time": "2015-11-09T09:57:07.013785+00:00"
+      },
+      "turn_2": {
+        "bidder": "f69167736ae34499b40606a05b862ce8",
+        "time": "2015-11-09T09:51:07.016432+00:00"
+      },
+      "turn_3": {
+        "amount": 199000.0,
+        "bid_time": "2015-11-09T11:51:29.612802+02:00",
+        "bidder": "94eee72608254a9ab01f09b4b8445354",
+        "time": "2015-11-09T09:53:07.010653+00:00"
+      },
+      "turn_1": {
+        "bidder": "066d0f807d95438cb7053caf905b9263",
+        "time": "2015-11-09T09:49:07.009102+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 120000.0,
+        "bid_time": "2015-11-09T12:06:43.868100+02:00",
+        "bidder": "d53a6abeba0d4908b4650ca3d78cc609",
+        "time": "2015-11-09T10:07:07.032502+00:00"
+      },
+      "turn_5": {
+        "bidder": "6e0264c0633e458fb2139c0f5fc15b45",
+        "time": "2015-11-09T10:09:07.007776+00:00"
+      },
+      "turn_2": {
+        "amount": 194000.0,
+        "bid_time": "2015-11-09T12:01:19.476691+02:00",
+        "bidder": "f69167736ae34499b40606a05b862ce8",
+        "time": "2015-11-09T10:03:07.010441+00:00"
+      },
+      "turn_3": {
+        "bidder": "94eee72608254a9ab01f09b4b8445354",
+        "time": "2015-11-09T10:05:07.023547+00:00"
+      },
+      "turn_1": {
+        "bidder": "066d0f807d95438cb7053caf905b9263",
+        "time": "2015-11-09T10:01:07.006622+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 219100.0,
+        "bid_time": "2015-11-09T11:42:51.860083+02:00",
+        "bidder": "d53a6abeba0d4908b4650ca3d78cc609",
+        "time": "2015-11-09T09:43:07.010971+00:00"
+      },
+      "turn_5": {
+        "bidder": "6e0264c0633e458fb2139c0f5fc15b45",
+        "time": "2015-11-09T09:45:07.009127+00:00"
+      },
+      "turn_2": {
+        "bidder": "f69167736ae34499b40606a05b862ce8",
+        "time": "2015-11-09T09:39:07.010449+00:00"
+      },
+      "turn_3": {
+        "amount": 225900.0,
+        "bid_time": "2015-11-09T11:39:28.959956+02:00",
+        "bidder": "94eee72608254a9ab01f09b4b8445354",
+        "time": "2015-11-09T09:41:07.012269+00:00"
+      },
+      "turn_1": {
+        "bidder": "066d0f807d95438cb7053caf905b9263",
+        "time": "2015-11-09T09:37:07.032171+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "066d0f807d95438cb7053caf905b9263",
+          "amount": 248965.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-05T13:06:05.995930+02:00"
+        },
+        {
+          "bidder": "94eee72608254a9ab01f09b4b8445354",
+          "amount": 199000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380972671097",
+                "name": "ТОВ Укрторгекспорт",
+                "email": "info@ukrtorgexport.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36898291",
+                "legalName": "ТОВ Укрторгекспорт"
+              },
+              "name": "ТОВ Укрторгекспорт",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Суми вул. Супруна,15 оф.204",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T11:51:29.612802+02:00"
+        },
+        {
+          "bidder": "f69167736ae34499b40606a05b862ce8",
+          "amount": 194000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:01:19.476691+02:00"
+        },
+        {
+          "bidder": "d53a6abeba0d4908b4650ca3d78cc609",
+          "amount": 120000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563725446",
+                "name": "ООО ПТП \"Промресурсы\"",
+                "email": "litye@promres.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31434194",
+                "legalName": "ООО ПТП \"Промресурсы\""
+              },
+              "name": "ООО ПТП \"Промресурсы\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск, пр.Кирова,46,оф.519",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T12:06:43.868100+02:00"
+        },
+        {
+          "bidder": "6e0264c0633e458fb2139c0f5fc15b45",
+          "amount": 106730.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T14:07:40.996849+02:00"
+        }
+      ],
+      "time": "2015-11-09T10:09:13.269549+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T13:06:05.995930+02:00",
+          "amount": 248965.0,
+          "bidder": "066d0f807d95438cb7053caf905b9263"
+        },
+        {
+          "date": "2015-11-05T11:41:29.823947+02:00",
+          "amount": 246500.0,
+          "bidder": "f69167736ae34499b40606a05b862ce8"
+        },
+        {
+          "date": "2015-11-07T11:32:17.323095+02:00",
+          "amount": 238800.0,
+          "bidder": "94eee72608254a9ab01f09b4b8445354"
+        },
+        {
+          "date": "2015-11-05T15:13:02.432521+02:00",
+          "amount": 231617.4,
+          "bidder": "d53a6abeba0d4908b4650ca3d78cc609"
+        },
+        {
+          "date": "2015-11-06T14:07:40.996849+02:00",
+          "amount": 106730.0,
+          "bidder": "6e0264c0633e458fb2139c0f5fc15b45"
+        }
+      ],
+      "time": "2015-11-09T09:30:07.002701+00:00"
+    }
+  },
+  "id": "f8e194f9d01d4338ad4ab66309b7dded",
+  "tenderId": "UA-2015-11-03-000216"
+}

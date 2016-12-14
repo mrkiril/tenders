@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "af9c5320723145cabaacc8ed05a3ba62",
+        "time": "2015-10-08T12:17:29.006488+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0029e89a866446db38e9c82b1ca6343",
+        "time": "2015-10-08T12:15:29.006314+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "af9c5320723145cabaacc8ed05a3ba62",
+        "time": "2015-10-08T12:23:29.007887+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0029e89a866446db38e9c82b1ca6343",
+        "time": "2015-10-08T12:21:29.006984+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "af9c5320723145cabaacc8ed05a3ba62",
+        "time": "2015-10-08T12:11:29.006855+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0029e89a866446db38e9c82b1ca6343",
+        "time": "2015-10-08T12:09:29.012524+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f0029e89a866446db38e9c82b1ca6343",
+          "amount": 636.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0484947514",
+                "telephone": "0675947309",
+                "name": "Логоненко Павло Михайлович",
+                "email": "feniks-inkom@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38425940",
+                "legalName": "Приватне підприємство \"Фенікс-Інком\""
+              },
+              "name": "Приватне підприємство \"Фенікс-Інком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "67780",
+                "region": "Одеська",
+                "streetAddress": "с.м.т. Сергіїка, вул.Чорноморська 3, кв.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T14:28:06.453783+03:00"
+        },
+        {
+          "bidder": "af9c5320723145cabaacc8ed05a3ba62",
+          "amount": 600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0668928837",
+                "name": "Надія Чашуріна ",
+                "email": "n.chashurina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3145700085",
+                "legalName": "ФОП Зубицька В.В."
+              },
+              "name": "ФОП Зубицька В.В.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "м.Котовськ вул.Самборського 3в Одеська обл. 66300"
+              }
+            }
+          ],
+          "time": "2015-10-02T19:28:55.477684+03:00"
+        }
+      ],
+      "time": "2015-10-08T12:23:30.132187+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-01T14:28:06.453783+03:00",
+          "amount": 636.0,
+          "bidder": "f0029e89a866446db38e9c82b1ca6343"
+        },
+        {
+          "date": "2015-10-02T19:28:55.477684+03:00",
+          "amount": 600.0,
+          "bidder": "af9c5320723145cabaacc8ed05a3ba62"
+        }
+      ],
+      "time": "2015-10-08T12:02:29.002291+00:00"
+    }
+  },
+  "id": "16f8ba95862844eab8e99614536bfd7c",
+  "tenderId": "UA-2015-09-23-000050"
+}

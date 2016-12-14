@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "514d1b2e89794581acc48085dab71ec0",
+        "time": "2015-12-15T10:55:16.007108+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe46b02453184838acd14ab64c1a11a6",
+        "time": "2015-12-15T10:53:16.006152+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "514d1b2e89794581acc48085dab71ec0",
+        "time": "2015-12-15T11:01:16.005880+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe46b02453184838acd14ab64c1a11a6",
+        "time": "2015-12-15T10:59:16.006556+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "514d1b2e89794581acc48085dab71ec0",
+        "time": "2015-12-15T10:49:16.007110+00:00"
+      },
+      "turn_1": {
+        "bidder": "fe46b02453184838acd14ab64c1a11a6",
+        "time": "2015-12-15T10:47:16.007367+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fe46b02453184838acd14ab64c1a11a6",
+          "amount": 5989.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380626470071",
+                "telephone": "+380626470071",
+                "name": "Аушева Ольга Сергіївна",
+                "email": "umtsua@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30482954"
+              },
+              "name": "ТОВ УМТС-Донбас",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "84307",
+                "region": "Донецька область",
+                "streetAddress": "вул. Шмідта, буд. 115",
+                "locality": "Краматорськ"
+              }
+            }
+          ],
+          "time": "2015-12-11T13:23:00.650327+02:00"
+        },
+        {
+          "bidder": "514d1b2e89794581acc48085dab71ec0",
+          "amount": 5595.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380985464006",
+                "name": "Качинський Віктор Леонідович",
+                "email": "vl.kachinskiy@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3022204650"
+              },
+              "name": "ФОП Качинський В.Л.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "23015",
+                "region": "Вінницька область",
+                "streetAddress": "провулок Жовтневий, 2",
+                "locality": "село Васютинці"
+              }
+            }
+          ],
+          "time": "2015-12-14T15:53:19.662852+02:00"
+        }
+      ],
+      "time": "2015-12-15T11:01:24.527022+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T13:23:00.650327+02:00",
+          "amount": 5989.6,
+          "bidder": "fe46b02453184838acd14ab64c1a11a6"
+        },
+        {
+          "date": "2015-12-14T15:53:19.662852+02:00",
+          "amount": 5595.0,
+          "bidder": "514d1b2e89794581acc48085dab71ec0"
+        }
+      ],
+      "time": "2015-12-15T10:40:16.002876+00:00"
+    }
+  },
+  "id": "aec5a3454134404dbdda48e803a5ced7",
+  "tenderId": "UA-2015-12-10-000199-b"
+}

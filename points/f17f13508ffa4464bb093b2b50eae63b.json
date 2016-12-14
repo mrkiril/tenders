@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b52a59e71050480e81063a6ae16495aa",
+        "time": "2015-08-14T08:17:00.050370+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5d68147709c417d80ff108f5b5c6f17",
+        "time": "2015-08-14T08:19:00.104522+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6403f362c934c058c4a130ee2493aab",
+        "time": "2015-08-14T08:15:00.137860+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b52a59e71050480e81063a6ae16495aa",
+        "time": "2015-08-14T08:25:00.031028+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5d68147709c417d80ff108f5b5c6f17",
+        "time": "2015-08-14T08:27:00.060185+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6403f362c934c058c4a130ee2493aab",
+        "time": "2015-08-14T08:23:00.076780+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b52a59e71050480e81063a6ae16495aa",
+        "time": "2015-08-14T08:09:00.067728+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5d68147709c417d80ff108f5b5c6f17",
+        "time": "2015-08-14T08:11:00.118911+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6403f362c934c058c4a130ee2493aab",
+        "time": "2015-08-14T08:07:00.080398+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c6403f362c934c058c4a130ee2493aab",
+          "amount": 25400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-13T11:39:18.705052+03:00"
+        },
+        {
+          "bidder": "b52a59e71050480e81063a6ae16495aa",
+          "amount": 25380.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487280755",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\"",
+                "email": "idel@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31253577",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ІДЕЛЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65011, Одеська обл., м. Одеса, вул. Осипова, буд. 19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-13T14:43:07.568645+03:00"
+        },
+        {
+          "bidder": "a5d68147709c417d80ff108f5b5c6f17",
+          "amount": 24340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-12T09:47:48.362114+03:00"
+        }
+      ],
+      "time": "2015-08-14T08:27:06.235120+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-13T11:39:18.705052+03:00",
+          "amount": 25400.0,
+          "bidder": "c6403f362c934c058c4a130ee2493aab"
+        },
+        {
+          "date": "2015-08-13T14:43:07.568645+03:00",
+          "amount": 25380.0,
+          "bidder": "b52a59e71050480e81063a6ae16495aa"
+        },
+        {
+          "date": "2015-08-12T09:47:48.362114+03:00",
+          "amount": 24340.0,
+          "bidder": "a5d68147709c417d80ff108f5b5c6f17"
+        }
+      ],
+      "time": "2015-08-14T08:00:00.046044+00:00"
+    }
+  },
+  "id": "f17f13508ffa4464bb093b2b50eae63b",
+  "tenderId": "UA-2015-08-07-000094"
+}

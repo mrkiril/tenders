@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d1bd3fced0e84338b1c5b21c0d4ce606",
+        "time": "2015-05-18T08:15:00.136250+00:00"
+      },
+      "turn_1": {
+        "bidder": "9438a2fac2fd4e8e966a0500b39525a4",
+        "time": "2015-05-18T08:13:00.081457+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d1bd3fced0e84338b1c5b21c0d4ce606",
+        "time": "2015-05-18T08:21:00.147507+00:00"
+      },
+      "turn_1": {
+        "bidder": "9438a2fac2fd4e8e966a0500b39525a4",
+        "time": "2015-05-18T08:19:00.432821+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d1bd3fced0e84338b1c5b21c0d4ce606",
+        "time": "2015-05-18T08:09:00.120620+00:00"
+      },
+      "turn_1": {
+        "amount": 3180.0,
+        "bid_time": "2015-05-18T11:05:50.513250+03:00",
+        "bidder": "9438a2fac2fd4e8e966a0500b39525a4",
+        "time": "2015-05-18T08:07:00.209252+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9438a2fac2fd4e8e966a0500b39525a4",
+          "amount": 3180.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-05-18T11:05:50.513250+03:00"
+        },
+        {
+          "bidder": "d1bd3fced0e84338b1c5b21c0d4ce606",
+          "amount": 2802.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503863781",
+                "name": "Наталія  Куртенко",
+                "email": "nvk@mankor.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"МАНКОР\"",
+                "id": "30222980",
+                "uri": "http://mankor.ua"
+              },
+              "name": "ТОВ \"МАНКОР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04655",
+                "region": "Киевская",
+                "streetAddress": " м. Київ, вул. В. Хвойки, 18/14, оф.721",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-14T15:51:41.354396+03:00"
+        }
+      ],
+      "time": "2015-05-18T08:21:03.757198+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-14T15:49:56.483352+03:00",
+          "amount": 3350.0,
+          "bidder": "9438a2fac2fd4e8e966a0500b39525a4"
+        },
+        {
+          "date": "2015-05-14T15:51:41.354396+03:00",
+          "amount": 2802.0,
+          "bidder": "d1bd3fced0e84338b1c5b21c0d4ce606"
+        }
+      ],
+      "time": "2015-05-18T08:00:00.027036+00:00"
+    }
+  },
+  "id": "12770a264ac44987952929fe89e973c0",
+  "tenderId": "UA-2015-05-12-000017"
+}

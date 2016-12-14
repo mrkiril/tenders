@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "432115eec6434f37b40991dd37c725a5",
+        "time": "2015-07-01T08:15:00.350637+00:00"
+      },
+      "turn_1": {
+        "bidder": "965a81d6c9e7416ab3beff1fc54ae5ea",
+        "time": "2015-07-01T08:13:00.082665+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "432115eec6434f37b40991dd37c725a5",
+        "time": "2015-07-01T08:21:00.089555+00:00"
+      },
+      "turn_1": {
+        "bidder": "965a81d6c9e7416ab3beff1fc54ae5ea",
+        "time": "2015-07-01T08:19:00.116891+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "432115eec6434f37b40991dd37c725a5",
+        "time": "2015-07-01T08:09:00.117547+00:00"
+      },
+      "turn_1": {
+        "bidder": "965a81d6c9e7416ab3beff1fc54ae5ea",
+        "time": "2015-07-01T08:07:00.150616+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "965a81d6c9e7416ab3beff1fc54ae5ea",
+          "amount": 11889.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-30T17:40:18.954345+03:00"
+        },
+        {
+          "bidder": "432115eec6434f37b40991dd37c725a5",
+          "amount": 10603.95,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442289513, +380970176313, +380636128376, +380508064600",
+                "name": "Александр Ветькало",
+                "email": "info-1@chila.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38435147",
+                "legalName": "ТОВ \"ТОВ \"Чіла\"\""
+              },
+              "name": "ТОВ \"ТОВ \"Чіла\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08205",
+                "region": "Киевская",
+                "streetAddress": "08200, Киевская обл, г. Ирпень ул. 3-его Интернационала д. 68-а",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-30T16:12:04.307290+03:00"
+        }
+      ],
+      "time": "2015-07-01T08:21:09.156895+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-30T17:40:18.954345+03:00",
+          "amount": 11889.48,
+          "bidder": "965a81d6c9e7416ab3beff1fc54ae5ea"
+        },
+        {
+          "date": "2015-06-30T16:12:04.307290+03:00",
+          "amount": 10603.95,
+          "bidder": "432115eec6434f37b40991dd37c725a5"
+        }
+      ],
+      "time": "2015-07-01T08:00:00.041911+00:00"
+    }
+  },
+  "id": "1475789061b5471caff44f30320f098b",
+  "tenderId": "UA-2015-06-18-000041"
+}

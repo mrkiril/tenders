@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "85f335d833d646e6ba1ff6553d0e39b4",
+        "time": "2015-08-27T08:15:00.037998+00:00"
+      },
+      "turn_1": {
+        "bidder": "16a4b1cba9be48b2bdedcd5edbd7ab16",
+        "time": "2015-08-27T08:13:00.081460+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "85f335d833d646e6ba1ff6553d0e39b4",
+        "time": "2015-08-27T08:21:00.102278+00:00"
+      },
+      "turn_1": {
+        "bidder": "16a4b1cba9be48b2bdedcd5edbd7ab16",
+        "time": "2015-08-27T08:19:00.062963+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "85f335d833d646e6ba1ff6553d0e39b4",
+        "time": "2015-08-27T08:09:00.037514+00:00"
+      },
+      "turn_1": {
+        "bidder": "16a4b1cba9be48b2bdedcd5edbd7ab16",
+        "time": "2015-08-27T08:07:00.146389+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "16a4b1cba9be48b2bdedcd5edbd7ab16",
+          "amount": 958280.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-08-19T09:53:59.124336+03:00"
+        },
+        {
+          "bidder": "85f335d833d646e6ba1ff6553d0e39b4",
+          "amount": 926320.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.gospodar.org/",
+                "telephone": "0674486939",
+                "name": "Александр Чабанюк ",
+                "email": "a.chabanyuk@gospodar-group.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37359888",
+                "legalName": "Господар"
+              },
+              "name": "Компания «Господар»",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев, ул. Святошинская д. 1, 03115"
+              }
+            }
+          ],
+          "time": "2015-08-25T18:12:16.296521+03:00"
+        }
+      ],
+      "time": "2015-08-27T08:21:03.379622+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-19T09:53:59.124336+03:00",
+          "amount": 958280.0,
+          "bidder": "16a4b1cba9be48b2bdedcd5edbd7ab16"
+        },
+        {
+          "date": "2015-08-25T18:12:16.296521+03:00",
+          "amount": 926320.8,
+          "bidder": "85f335d833d646e6ba1ff6553d0e39b4"
+        }
+      ],
+      "time": "2015-08-27T08:00:00.004876+00:00"
+    }
+  },
+  "id": "44d948937e29453a8ad9c378a7082cd3",
+  "tenderId": "UA-2015-08-11-000080"
+}

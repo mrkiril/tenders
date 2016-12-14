@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cba17e3480ff451298d40569b5fafc84",
+        "time": "2015-12-15T11:54:15.013277+00:00"
+      },
+      "turn_1": {
+        "bidder": "7f13eee38bf84c3f8f11e2ad43975ff5",
+        "time": "2015-12-15T11:52:15.012031+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cba17e3480ff451298d40569b5fafc84",
+        "time": "2015-12-15T12:00:15.010107+00:00"
+      },
+      "turn_1": {
+        "bidder": "7f13eee38bf84c3f8f11e2ad43975ff5",
+        "time": "2015-12-15T11:58:15.010330+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 34600.0,
+        "bid_time": "2015-12-15T13:46:54.958039+02:00",
+        "bidder": "cba17e3480ff451298d40569b5fafc84",
+        "time": "2015-12-15T11:48:15.010483+00:00"
+      },
+      "turn_1": {
+        "bidder": "7f13eee38bf84c3f8f11e2ad43975ff5",
+        "time": "2015-12-15T11:46:15.014968+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7f13eee38bf84c3f8f11e2ad43975ff5",
+          "amount": 35500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380973260682",
+                "name": "ФОП Могорук Василь Іванович",
+                "email": "mogoruk@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2683706158",
+                "legalName": "ФОП Могорук Василь Іванович"
+              },
+              "name": "ФОП Могорук Василь Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "78710 с.Криворівня, пр.Царина 1, Верховинський р-н, Івано-Франківська обл.",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-13T21:36:01.268366+02:00"
+        },
+        {
+          "bidder": "cba17e3480ff451298d40569b5fafc84",
+          "amount": 34600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676309464",
+                "name": "Евгений Смельчанский",
+                "email": "smelevg@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2861004856",
+                "legalName": "ФОП Смельчанский"
+              },
+              "name": "ФОП Смельчанский",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T13:46:54.958039+02:00"
+        }
+      ],
+      "time": "2015-12-15T12:01:02.783182+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-13T21:36:01.268366+02:00",
+          "amount": 35500.0,
+          "bidder": "7f13eee38bf84c3f8f11e2ad43975ff5"
+        },
+        {
+          "date": "2015-12-14T11:33:41.041069+02:00",
+          "amount": 34650.0,
+          "bidder": "cba17e3480ff451298d40569b5fafc84"
+        }
+      ],
+      "time": "2015-12-15T11:39:15.002335+00:00"
+    }
+  },
+  "id": "864e348e0ef34ef4907179aa5c6e0ca9",
+  "tenderId": "UA-2015-12-09-000030-b"
+}

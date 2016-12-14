@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8957ceccc1b24d32a2111dcd7187ab93",
+        "time": "2015-12-10T12:48:36.008140+00:00"
+      },
+      "turn_3": {
+        "amount": 4100.0,
+        "bid_time": "2015-12-10T14:49:38.570956+02:00",
+        "bidder": "869a09e770154728b9dd515c2ac3ce0a",
+        "time": "2015-12-10T12:50:36.009108+00:00"
+      },
+      "turn_1": {
+        "bidder": "5b991ab361734bb99edad12cd67ee875",
+        "time": "2015-12-10T12:46:36.007858+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3300.0,
+        "bid_time": "2015-12-10T14:54:43.165403+02:00",
+        "bidder": "8957ceccc1b24d32a2111dcd7187ab93",
+        "time": "2015-12-10T12:56:36.009272+00:00"
+      },
+      "turn_3": {
+        "amount": 3200.0,
+        "bid_time": "2015-12-10T14:57:11.455736+02:00",
+        "bidder": "869a09e770154728b9dd515c2ac3ce0a",
+        "time": "2015-12-10T12:58:36.008043+00:00"
+      },
+      "turn_1": {
+        "bidder": "5b991ab361734bb99edad12cd67ee875",
+        "time": "2015-12-10T12:54:36.007894+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5b991ab361734bb99edad12cd67ee875",
+        "time": "2015-12-10T12:40:36.008507+00:00"
+      },
+      "turn_3": {
+        "bidder": "8957ceccc1b24d32a2111dcd7187ab93",
+        "time": "2015-12-10T12:42:36.009033+00:00"
+      },
+      "turn_1": {
+        "amount": 4200.0,
+        "bid_time": "2015-12-10T14:37:30.346949+02:00",
+        "bidder": "869a09e770154728b9dd515c2ac3ce0a",
+        "time": "2015-12-10T12:38:36.009356+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5b991ab361734bb99edad12cd67ee875",
+          "amount": 5270.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.praktik-pro.com.ua",
+                "telephone": "+380978952573",
+                "name": "ООО \"Практик Про\"",
+                "email": "smirnov@praktik-pro.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37120071",
+                "legalName": "ООО \"Практик Про\""
+              },
+              "name": "ООО \"Практик Про\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "Украина, г. Киев, 03022, ул. Сумская, 3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T17:22:02.405946+02:00"
+        },
+        {
+          "bidder": "8957ceccc1b24d32a2111dcd7187ab93",
+          "amount": 3300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445319100",
+                "name": "Андрей",
+                "email": "marketing@paritet-k.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ВИРОБНИЧО-КОМЕРЦІЙНЕ ПІДПРИЄМСТВО ПАРИТЕТ-К\"",
+                "id": "37973820",
+                "uri": "http://paritet-k.com.ua/ru"
+              },
+              "name": "ТОВ \"ВИРОБНИЧО-КОМЕРЦІЙНЕ ПІДПРИЄМСТВО ПАРИТЕТ-К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04050",
+                "region": "Киевская",
+                "streetAddress": "г.Киев, ул. Глубочицкая 40-У",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-10T14:54:43.165403+02:00"
+        },
+        {
+          "bidder": "869a09e770154728b9dd515c2ac3ce0a",
+          "amount": 3200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961441287",
+                "name": "Ангеліна",
+                "email": "www.alinka90.00@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20148124",
+                "legalName": "Товариство з обмеженою відповідальністю \"Ніколь\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Ніколь\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T14:57:11.455736+02:00"
+        }
+      ],
+      "time": "2015-12-10T12:58:36.975936+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T16:29:49.840821+02:00",
+          "amount": 5280.0,
+          "bidder": "869a09e770154728b9dd515c2ac3ce0a"
+        },
+        {
+          "date": "2015-12-09T17:22:02.405946+02:00",
+          "amount": 5270.0,
+          "bidder": "5b991ab361734bb99edad12cd67ee875"
+        },
+        {
+          "date": "2015-12-09T14:42:23.603879+02:00",
+          "amount": 4500.0,
+          "bidder": "8957ceccc1b24d32a2111dcd7187ab93"
+        }
+      ],
+      "time": "2015-12-10T12:31:36.003732+00:00"
+    }
+  },
+  "id": "122b8f0557804aa2ad3c301eae2d0f88",
+  "tenderId": "UA-2015-12-04-000059-b"
+}

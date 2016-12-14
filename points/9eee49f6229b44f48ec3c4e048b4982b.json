@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "791c11cb1f2f4c4d838bbe9a4b27f23c",
+        "time": "2015-10-12T12:24:20.009866+00:00"
+      },
+      "turn_1": {
+        "bidder": "8fc61cff98b74dfb9fa0d54262ac0489",
+        "time": "2015-10-12T12:22:20.023304+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "791c11cb1f2f4c4d838bbe9a4b27f23c",
+        "time": "2015-10-12T12:30:20.008472+00:00"
+      },
+      "turn_1": {
+        "bidder": "8fc61cff98b74dfb9fa0d54262ac0489",
+        "time": "2015-10-12T12:28:20.009039+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "791c11cb1f2f4c4d838bbe9a4b27f23c",
+        "time": "2015-10-12T12:18:20.010613+00:00"
+      },
+      "turn_1": {
+        "bidder": "8fc61cff98b74dfb9fa0d54262ac0489",
+        "time": "2015-10-12T12:16:20.010358+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8fc61cff98b74dfb9fa0d54262ac0489",
+          "amount": 7200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-09T05:52:08.194829+03:00"
+        },
+        {
+          "bidder": "791c11cb1f2f4c4d838bbe9a4b27f23c",
+          "amount": 4583.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443324106, +380443329368, +380662959511",
+                "name": "Юлия Викторовна",
+                "email": "slte@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35121178",
+                "legalName": "ПП \"Торговый дом Анвар\""
+              },
+              "name": "ПП \"Торговый дом Анвар\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03148",
+                "region": "Киевская",
+                "streetAddress": "03148. Киев просп леся курбаса 9 в, кв 111",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-08T16:30:24.974961+03:00"
+        }
+      ],
+      "time": "2015-10-12T12:30:24.474806+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T05:52:08.194829+03:00",
+          "amount": 7200.0,
+          "bidder": "8fc61cff98b74dfb9fa0d54262ac0489"
+        },
+        {
+          "date": "2015-10-08T16:30:24.974961+03:00",
+          "amount": 4583.3,
+          "bidder": "791c11cb1f2f4c4d838bbe9a4b27f23c"
+        }
+      ],
+      "time": "2015-10-12T12:09:20.006489+00:00"
+    }
+  },
+  "id": "9eee49f6229b44f48ec3c4e048b4982b",
+  "tenderId": "UA-2015-09-30-000217"
+}

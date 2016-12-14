@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "07cff933946b458ab5385402fbc5ee3c",
+        "time": "2015-10-06T12:52:56.006513+00:00"
+      },
+      "turn_3": {
+        "bidder": "06420b32763a44f9aec06c4b8f8ba2b6",
+        "time": "2015-10-06T12:54:56.006309+00:00"
+      },
+      "turn_1": {
+        "bidder": "605c4491d95b444daa60e542257f5cae",
+        "time": "2015-10-06T12:50:56.006899+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "07cff933946b458ab5385402fbc5ee3c",
+        "time": "2015-10-06T13:00:56.010621+00:00"
+      },
+      "turn_3": {
+        "bidder": "06420b32763a44f9aec06c4b8f8ba2b6",
+        "time": "2015-10-06T13:02:56.008634+00:00"
+      },
+      "turn_1": {
+        "bidder": "605c4491d95b444daa60e542257f5cae",
+        "time": "2015-10-06T12:58:56.011079+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "605c4491d95b444daa60e542257f5cae",
+        "time": "2015-10-06T12:44:56.008108+00:00"
+      },
+      "turn_3": {
+        "bidder": "07cff933946b458ab5385402fbc5ee3c",
+        "time": "2015-10-06T12:46:56.011227+00:00"
+      },
+      "turn_1": {
+        "amount": 4790.0,
+        "bid_time": "2015-10-06T15:41:54.117291+03:00",
+        "bidder": "06420b32763a44f9aec06c4b8f8ba2b6",
+        "time": "2015-10-06T12:42:56.012598+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "605c4491d95b444daa60e542257f5cae",
+          "amount": 4850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dostavka-restoran.com.ua/",
+                "telephone": "380963401046",
+                "name": "Писанка Алла Васильевна",
+                "email": "allla176@mal.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38900417",
+                "legalName": "ТОВ Рестсервис Плюс"
+              },
+              "name": "ТОВ Рестсервис Плюс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Виборзська, буд.99",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T12:37:06.247456+03:00"
+        },
+        {
+          "bidder": "07cff933946b458ab5385402fbc5ee3c",
+          "amount": 4800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0442227217",
+                "name": "Скоромна Алла Михайлівна",
+                "email": "gromikvvfop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3168209595",
+                "legalName": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ ГРОМІК ВІТАЛІЙ ВАСИЛЬОВИЧ"
+              },
+              "name": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ ГРОМІК ВІТАЛІЙ ВАСИЛЬОВИЧ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07400",
+                "region": "Київська",
+                "streetAddress": "Короленка, буд.70-Б,кв.68",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T13:41:59.825088+03:00"
+        },
+        {
+          "bidder": "06420b32763a44f9aec06c4b8f8ba2b6",
+          "amount": 4790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-06T15:41:54.117291+03:00"
+        }
+      ],
+      "time": "2015-10-06T13:03:14.861699+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T13:55:15.853353+03:00",
+          "amount": 4870.0,
+          "bidder": "06420b32763a44f9aec06c4b8f8ba2b6"
+        },
+        {
+          "date": "2015-09-29T12:37:06.247456+03:00",
+          "amount": 4850.0,
+          "bidder": "605c4491d95b444daa60e542257f5cae"
+        },
+        {
+          "date": "2015-09-29T13:41:59.825088+03:00",
+          "amount": 4800.0,
+          "bidder": "07cff933946b458ab5385402fbc5ee3c"
+        }
+      ],
+      "time": "2015-10-06T12:35:56.003272+00:00"
+    }
+  },
+  "id": "1e77e371e9ae4d57bf6be51c4f967c8b",
+  "tenderId": "UA-2015-09-23-000315"
+}

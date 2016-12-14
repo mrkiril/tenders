@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6a0728606346470a8f12c8c7ba7a7ff9",
+        "time": "2015-08-11T08:15:00.105416+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7af81dcd874c68b590ef329e073e1b",
+        "time": "2015-08-11T08:13:00.134247+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6a0728606346470a8f12c8c7ba7a7ff9",
+        "time": "2015-08-11T08:21:00.120612+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7af81dcd874c68b590ef329e073e1b",
+        "time": "2015-08-11T08:19:00.129570+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6a0728606346470a8f12c8c7ba7a7ff9",
+        "time": "2015-08-11T08:09:00.131724+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d7af81dcd874c68b590ef329e073e1b",
+        "time": "2015-08-11T08:07:00.045203+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d7af81dcd874c68b590ef329e073e1b",
+          "amount": 382386.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800487375465",
+                "name": "СПЕЦПРОМТРАНСТЕХНІКА",
+                "email": "s.pt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39789005",
+                "legalName": "СПЕЦПРОМТРАНСТЕХНІКА"
+              },
+              "name": "СПЕЦПРОМТРАНСТЕХНІКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, м.Одеса вул. Велика Арнаутська 15",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-10T16:43:30.268647+03:00"
+        },
+        {
+          "bidder": "6a0728606346470a8f12c8c7ba7a7ff9",
+          "amount": 372564.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380562349356",
+                "telephone": "+380562349356",
+                "name": "Хмельов Сергій Андрійович",
+                "email": "mprom1998@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30096032"
+              },
+              "name": "ТОВ “Металопром”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49080",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Замполіта Бєляєва, б.4,кв.229",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-08-07T13:18:15.333184+03:00"
+        }
+      ],
+      "time": "2015-08-11T08:21:09.532712+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-10T16:43:30.268647+03:00",
+          "amount": 382386.0,
+          "bidder": "4d7af81dcd874c68b590ef329e073e1b"
+        },
+        {
+          "date": "2015-08-07T13:18:15.333184+03:00",
+          "amount": 372564.0,
+          "bidder": "6a0728606346470a8f12c8c7ba7a7ff9"
+        }
+      ],
+      "time": "2015-08-11T08:00:00.062007+00:00"
+    }
+  },
+  "id": "dcd5f37b2b9544629341f6b0633d8998",
+  "tenderId": "UA-2015-07-28-000160"
+}

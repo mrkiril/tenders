@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 989.0,
+        "bid_time": "2015-12-10T12:15:58.176996+02:00",
+        "bidder": "e695f05ab7f04a8cbf2d71c59015fe63",
+        "time": "2015-12-10T10:17:49.008967+00:00"
+      },
+      "turn_3": {
+        "bidder": "2a39a039b36740ed85cdad5be907e1ee",
+        "time": "2015-12-10T10:19:49.009522+00:00"
+      },
+      "turn_1": {
+        "bidder": "a158b2c50ad545a3bce5749edacf0926",
+        "time": "2015-12-10T10:15:49.008431+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 945.0,
+        "bid_time": "2015-12-10T12:24:01.781831+02:00",
+        "bidder": "2a39a039b36740ed85cdad5be907e1ee",
+        "time": "2015-12-10T10:25:49.008307+00:00"
+      },
+      "turn_3": {
+        "bidder": "e695f05ab7f04a8cbf2d71c59015fe63",
+        "time": "2015-12-10T10:27:49.008262+00:00"
+      },
+      "turn_1": {
+        "bidder": "a158b2c50ad545a3bce5749edacf0926",
+        "time": "2015-12-10T10:23:49.008419+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a158b2c50ad545a3bce5749edacf0926",
+        "time": "2015-12-10T10:09:49.009035+00:00"
+      },
+      "turn_3": {
+        "bidder": "2a39a039b36740ed85cdad5be907e1ee",
+        "time": "2015-12-10T10:11:49.008552+00:00"
+      },
+      "turn_1": {
+        "amount": 1040.0,
+        "bid_time": "2015-12-10T12:06:18.834454+02:00",
+        "bidder": "e695f05ab7f04a8cbf2d71c59015fe63",
+        "time": "2015-12-10T10:07:49.012655+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a158b2c50ad545a3bce5749edacf0926",
+          "amount": 1048.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380956425928",
+                "name": "Романов Олег Вікторович",
+                "email": "mashenkamikenina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3110111199"
+              },
+              "name": "ФОП Романов",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53200",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул.Електрометалургів, буд.38, кв.24",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:28:32.677947+02:00"
+        },
+        {
+          "bidder": "e695f05ab7f04a8cbf2d71c59015fe63",
+          "amount": 989.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675657715",
+                "name": "Горробченко Сергій Васильович",
+                "email": "sv.gorobchenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2500005516"
+              },
+              "name": "ФОП Горобченко Сергій Васильович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53211",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Лисенка 8",
+                "locality": "Нікополь"
+              }
+            }
+          ],
+          "time": "2015-12-10T12:15:58.176996+02:00"
+        },
+        {
+          "bidder": "2a39a039b36740ed85cdad5be907e1ee",
+          "amount": 945.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T12:24:01.781831+02:00"
+        }
+      ],
+      "time": "2015-12-10T10:27:50.353342+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T09:21:37.280943+02:00",
+          "amount": 1050.0,
+          "bidder": "e695f05ab7f04a8cbf2d71c59015fe63"
+        },
+        {
+          "date": "2015-12-09T13:28:32.677947+02:00",
+          "amount": 1048.5,
+          "bidder": "a158b2c50ad545a3bce5749edacf0926"
+        },
+        {
+          "date": "2015-12-09T15:41:52.332439+02:00",
+          "amount": 990.0,
+          "bidder": "2a39a039b36740ed85cdad5be907e1ee"
+        }
+      ],
+      "time": "2015-12-10T10:00:49.003737+00:00"
+    }
+  },
+  "id": "282c5374a83142ea9c6c5eed80ba484b",
+  "tenderId": "UA-2015-12-03-000191"
+}

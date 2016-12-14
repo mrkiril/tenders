@@ -1,0 +1,150 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7f3aa1e5dee64f61baeff53fc46fdd33",
+        "time": "2015-10-07T09:27:12.012194+00:00"
+      },
+      "turn_1": {
+        "bidder": "95ec62fbb5404f91a5771b3f82e831fb",
+        "time": "2015-10-07T09:23:12.006548+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7f3aa1e5dee64f61baeff53fc46fdd33",
+        "time": "2015-10-07T09:33:12.009548+00:00"
+      },
+      "turn_3": {
+        "bidder": "2c24a3812cea499396948e21130e09d9",
+        "time": "2015-10-07T09:35:12.007087+00:00"
+      },
+      "turn_1": {
+        "bidder": "95ec62fbb5404f91a5771b3f82e831fb",
+        "time": "2015-10-07T09:31:12.007835+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7f3aa1e5dee64f61baeff53fc46fdd33",
+        "time": "2015-10-07T09:17:12.008240+00:00"
+      },
+      "turn_3": {
+        "bidder": "2c24a3812cea499396948e21130e09d9",
+        "time": "2015-10-07T09:19:12.007839+00:00"
+      },
+      "turn_1": {
+        "bidder": "95ec62fbb5404f91a5771b3f82e831fb",
+        "time": "2015-10-07T09:15:12.009774+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "95ec62fbb5404f91a5771b3f82e831fb",
+          "amount": 15340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-351-16-67",
+                "name": "Герасимова Олена Миколаївна",
+                "email": "e.n.gerasimova@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39350578",
+                "legalName": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Машинобудівна, 50А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T13:11:07.336853+03:00"
+        },
+        {
+          "bidder": "7f3aa1e5dee64f61baeff53fc46fdd33",
+          "amount": 15187.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://arista.ua/",
+                "telephone": "+380985777028",
+                "name": "Крамаренко Вікторія Вікторівна",
+                "email": "vk@arista.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33221885"
+              },
+              "name": "ТОВ ТПО \"Аріста\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "Печерський район, вулиця Чигоріна, будинок 61",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-02T10:33:30.202424+03:00"
+        },
+        {
+          "bidder": "2c24a3812cea499396948e21130e09d9",
+          "amount": 14936.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442742114",
+                "name": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»",
+                "email": "svfaktorial@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32048792",
+                "legalName": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03194, м.Київ ,вул. Литвиненко-Вольгемут буд.1 кв.63",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T17:05:21.565989+03:00"
+        }
+      ],
+      "time": "2015-10-07T09:35:14.996552+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-06T13:11:07.336853+03:00",
+          "amount": 15340.0,
+          "bidder": "95ec62fbb5404f91a5771b3f82e831fb"
+        },
+        {
+          "date": "2015-10-02T10:33:30.202424+03:00",
+          "amount": 15187.0,
+          "bidder": "7f3aa1e5dee64f61baeff53fc46fdd33"
+        },
+        {
+          "date": "2015-10-06T17:05:21.565989+03:00",
+          "amount": 14936.0,
+          "bidder": "2c24a3812cea499396948e21130e09d9"
+        }
+      ],
+      "time": "2015-10-07T09:08:12.003678+00:00"
+    }
+  },
+  "id": "31cb7db50afc433aa29b7d187bb3fd91",
+  "tenderId": "UA-2015-09-24-000282"
+}

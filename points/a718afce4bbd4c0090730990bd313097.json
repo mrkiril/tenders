@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "183b1a63bc2e42d5892c2ea01e37bedc",
+        "time": "2015-12-08T10:45:40.021293+00:00"
+      },
+      "turn_1": {
+        "bidder": "4792fecd920a4268a2babc9cbce1dbd2",
+        "time": "2015-12-08T10:43:40.029190+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "183b1a63bc2e42d5892c2ea01e37bedc",
+        "time": "2015-12-08T10:51:40.007170+00:00"
+      },
+      "turn_1": {
+        "bidder": "4792fecd920a4268a2babc9cbce1dbd2",
+        "time": "2015-12-08T10:49:40.027481+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "183b1a63bc2e42d5892c2ea01e37bedc",
+        "time": "2015-12-08T10:39:40.016977+00:00"
+      },
+      "turn_1": {
+        "bidder": "4792fecd920a4268a2babc9cbce1dbd2",
+        "time": "2015-12-08T10:37:40.007099+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4792fecd920a4268a2babc9cbce1dbd2",
+          "amount": 14186.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://periodik.com.ua",
+                "faxNumber": "+380445853165",
+                "telephone": "+380981045431",
+                "name": "Козій Наталія Вікторівна",
+                "email": "alex@periodik.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23700220"
+              },
+              "name": "ТОВ \"Фірма\"Періодика\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01042",
+                "region": "Київська область",
+                "streetAddress": "01042, м. Київ, бул. Дружби Народів, 9",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T15:47:24.352641+02:00"
+        },
+        {
+          "bidder": "183b1a63bc2e42d5892c2ea01e37bedc",
+          "amount": 12780.66,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445000506, +380443538817, +380443538815, +380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-07T13:03:19.904182+02:00"
+        }
+      ],
+      "time": "2015-12-08T10:51:42.303424+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T15:47:24.352641+02:00",
+          "amount": 14186.8,
+          "bidder": "4792fecd920a4268a2babc9cbce1dbd2"
+        },
+        {
+          "date": "2015-12-07T13:03:19.904182+02:00",
+          "amount": 12780.66,
+          "bidder": "183b1a63bc2e42d5892c2ea01e37bedc"
+        }
+      ],
+      "time": "2015-12-08T10:30:40.004335+00:00"
+    }
+  },
+  "id": "a718afce4bbd4c0090730990bd313097",
+  "tenderId": "UA-2015-12-03-000117-a"
+}

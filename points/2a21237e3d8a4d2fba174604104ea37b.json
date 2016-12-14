@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "38e7ac46fe9e4b0bb78782fcf1209232",
+        "time": "2015-09-18T09:15:00.111201+00:00"
+      },
+      "turn_1": {
+        "bidder": "dac659dfe90a4908823e50775c94e046",
+        "time": "2015-09-18T09:13:00.052905+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "38e7ac46fe9e4b0bb78782fcf1209232",
+        "time": "2015-09-18T09:21:00.050060+00:00"
+      },
+      "turn_1": {
+        "bidder": "dac659dfe90a4908823e50775c94e046",
+        "time": "2015-09-18T09:19:00.043461+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4932.0,
+        "bid_time": "2015-09-18T12:07:25.670765+03:00",
+        "bidder": "38e7ac46fe9e4b0bb78782fcf1209232",
+        "time": "2015-09-18T09:09:00.088458+00:00"
+      },
+      "turn_1": {
+        "bidder": "dac659dfe90a4908823e50775c94e046",
+        "time": "2015-09-18T09:07:00.134228+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dac659dfe90a4908823e50775c94e046",
+          "amount": 4960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-17T17:42:24.559419+03:00"
+        },
+        {
+          "bidder": "38e7ac46fe9e4b0bb78782fcf1209232",
+          "amount": 4932.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444944242",
+                "telephone": "0444944242",
+                "name": "Сиріков Вікторович Ігор",
+                "email": "syrikov@chemlab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "Товариство з Обмеженою Відповідальністю \"Хімлаборреактив\"",
+                "id": "23522853",
+                "uri": "http://hlr.com.ua"
+              },
+              "name": "Товариство з Обмеженою Відповідальністю \"Хімлаборреактив\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07400",
+                "region": "Київська",
+                "streetAddress": "Щелковська, 8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T12:07:25.670765+03:00"
+        }
+      ],
+      "time": "2015-09-18T09:21:06.862168+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-17T17:42:24.559419+03:00",
+          "amount": 4960.0,
+          "bidder": "dac659dfe90a4908823e50775c94e046"
+        },
+        {
+          "date": "2015-09-17T13:53:55.635763+03:00",
+          "amount": 4952.0,
+          "bidder": "38e7ac46fe9e4b0bb78782fcf1209232"
+        }
+      ],
+      "time": "2015-09-18T09:00:00.002335+00:00"
+    }
+  },
+  "id": "2a21237e3d8a4d2fba174604104ea37b",
+  "tenderId": "UA-2015-09-16-000226"
+}

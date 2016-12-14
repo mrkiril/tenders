@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f2cd9df4d5464535bb52623156d91081",
+        "time": "2015-11-12T11:57:27.007345+00:00"
+      },
+      "turn_3": {
+        "bidder": "ba9f0c98ab4e4101a170475f6f6c1b1e",
+        "time": "2015-11-12T11:59:27.008299+00:00"
+      },
+      "turn_1": {
+        "bidder": "b70ba4a47d0146e98daeb756deca114d",
+        "time": "2015-11-12T11:55:27.013871+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f2cd9df4d5464535bb52623156d91081",
+        "time": "2015-11-12T12:05:27.007256+00:00"
+      },
+      "turn_3": {
+        "bidder": "ba9f0c98ab4e4101a170475f6f6c1b1e",
+        "time": "2015-11-12T12:07:27.008091+00:00"
+      },
+      "turn_1": {
+        "bidder": "b70ba4a47d0146e98daeb756deca114d",
+        "time": "2015-11-12T12:03:27.008257+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f2cd9df4d5464535bb52623156d91081",
+        "time": "2015-11-12T11:49:27.008892+00:00"
+      },
+      "turn_3": {
+        "bidder": "ba9f0c98ab4e4101a170475f6f6c1b1e",
+        "time": "2015-11-12T11:51:27.008124+00:00"
+      },
+      "turn_1": {
+        "bidder": "b70ba4a47d0146e98daeb756deca114d",
+        "time": "2015-11-12T11:47:27.009247+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b70ba4a47d0146e98daeb756deca114d",
+          "amount": 1875.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444322321",
+                "name": "Батрак Роман Миколайович",
+                "email": "rnb.79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2933704543"
+              },
+              "name": "ФОП Батрак Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська область",
+                "streetAddress": "вул.О.Попова, буд.15, кв.35",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T10:45:45.572087+02:00"
+        },
+        {
+          "bidder": "f2cd9df4d5464535bb52623156d91081",
+          "amount": 1425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-09T11:28:11.285236+02:00"
+        },
+        {
+          "bidder": "ba9f0c98ab4e4101a170475f6f6c1b1e",
+          "amount": 1155.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-10T17:14:57.586047+02:00"
+        }
+      ],
+      "time": "2015-11-12T12:07:31.201407+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T10:45:45.572087+02:00",
+          "amount": 1875.0,
+          "bidder": "b70ba4a47d0146e98daeb756deca114d"
+        },
+        {
+          "date": "2015-11-09T11:28:11.285236+02:00",
+          "amount": 1425.0,
+          "bidder": "f2cd9df4d5464535bb52623156d91081"
+        },
+        {
+          "date": "2015-11-10T17:14:57.586047+02:00",
+          "amount": 1155.0,
+          "bidder": "ba9f0c98ab4e4101a170475f6f6c1b1e"
+        }
+      ],
+      "time": "2015-11-12T11:40:27.003026+00:00"
+    }
+  },
+  "id": "0ee1efd7ce9b4d1a9d4ebf6f85ca2cdb",
+  "tenderId": "UA-2015-11-04-000317"
+}

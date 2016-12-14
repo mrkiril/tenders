@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4d533c338a784555b6e8d0841e5ecc85",
+        "time": "2015-12-02T13:55:23.014952+00:00"
+      },
+      "turn_3": {
+        "bidder": "4ad9a8eb3e1b414c9b8cde4e051c02f5",
+        "time": "2015-12-02T13:57:23.010273+00:00"
+      },
+      "turn_1": {
+        "bidder": "a00454afc3724cd2a691fc906762ffa7",
+        "time": "2015-12-02T13:53:23.009814+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4d533c338a784555b6e8d0841e5ecc85",
+        "time": "2015-12-02T14:03:23.010049+00:00"
+      },
+      "turn_3": {
+        "bidder": "4ad9a8eb3e1b414c9b8cde4e051c02f5",
+        "time": "2015-12-02T14:05:23.010221+00:00"
+      },
+      "turn_1": {
+        "bidder": "a00454afc3724cd2a691fc906762ffa7",
+        "time": "2015-12-02T14:01:23.009473+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4d533c338a784555b6e8d0841e5ecc85",
+        "time": "2015-12-02T13:47:23.013108+00:00"
+      },
+      "turn_3": {
+        "bidder": "4ad9a8eb3e1b414c9b8cde4e051c02f5",
+        "time": "2015-12-02T13:49:23.010922+00:00"
+      },
+      "turn_1": {
+        "bidder": "a00454afc3724cd2a691fc906762ffa7",
+        "time": "2015-12-02T13:45:23.010212+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a00454afc3724cd2a691fc906762ffa7",
+          "amount": 5789.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-01T04:33:24.014295+02:00"
+        },
+        {
+          "bidder": "4d533c338a784555b6e8d0841e5ecc85",
+          "amount": 5778.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562357469",
+                "name": "Нина Иванчикова",
+                "email": "nina@forward.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕВЕРЕСТ\"",
+                "id": "32014627",
+                "uri": "http://www.forward.dp.ua"
+              },
+              "name": "ТОВ \"ЕВЕРЕСТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49008",
+                "region": "Днепропетровская",
+                "streetAddress": "вул.Робітнича, буд.23-в",
+                "locality": "м.Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:00:51.950432+02:00"
+        },
+        {
+          "bidder": "4ad9a8eb3e1b414c9b8cde4e051c02f5",
+          "amount": 5500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957443635",
+                "name": "Віталій Шевченко",
+                "email": "alt_solar@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3128705053",
+                "legalName": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\""
+              },
+              "name": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36039",
+                "region": "Полтавская",
+                "streetAddress": "вул. Артема, 27, кв. 73",
+                "locality": "місто Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-01T15:38:02.882508+02:00"
+        }
+      ],
+      "time": "2015-12-02T14:05:33.477460+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T04:33:24.014295+02:00",
+          "amount": 5789.0,
+          "bidder": "a00454afc3724cd2a691fc906762ffa7"
+        },
+        {
+          "date": "2015-12-01T12:00:51.950432+02:00",
+          "amount": 5778.0,
+          "bidder": "4d533c338a784555b6e8d0841e5ecc85"
+        },
+        {
+          "date": "2015-12-01T15:38:02.882508+02:00",
+          "amount": 5500.0,
+          "bidder": "4ad9a8eb3e1b414c9b8cde4e051c02f5"
+        }
+      ],
+      "time": "2015-12-02T13:38:23.002744+00:00"
+    }
+  },
+  "id": "c40f9443d0f14ed6add26d623ed9818b",
+  "tenderId": "UA-2015-11-24-000121"
+}

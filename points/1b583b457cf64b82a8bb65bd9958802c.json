@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cf1f6c4de80e47b482db4e20ef0ff9c5",
+        "time": "2015-11-04T10:55:20.009817+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f295dd18d0434d82700671a2e2acef",
+        "time": "2015-11-04T10:53:20.008425+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1590.0,
+        "bid_time": "2015-11-04T12:59:52.089647+02:00",
+        "bidder": "cf1f6c4de80e47b482db4e20ef0ff9c5",
+        "time": "2015-11-04T11:01:20.008338+00:00"
+      },
+      "turn_1": {
+        "amount": 1600.0,
+        "bid_time": "2015-11-04T12:57:45.549499+02:00",
+        "bidder": "01f295dd18d0434d82700671a2e2acef",
+        "time": "2015-11-04T10:59:20.009360+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cf1f6c4de80e47b482db4e20ef0ff9c5",
+        "time": "2015-11-04T10:49:20.008986+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f295dd18d0434d82700671a2e2acef",
+        "time": "2015-11-04T10:47:20.009651+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "01f295dd18d0434d82700671a2e2acef",
+          "amount": 1600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kaliynka.com/",
+                "telephone": "+380673809209",
+                "name": "ТОВ \"Глобал-Органік-Груп\"",
+                "email": "v_sales@fosfa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38982374",
+                "legalName": "ТОВ \"Глобал-Органік-Груп\""
+              },
+              "name": "ТОВ \"Глобал-Органік-Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м. Хмельницький, пров. Уборевича, буд.  4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T12:57:45.549499+02:00"
+        },
+        {
+          "bidder": "cf1f6c4de80e47b482db4e20ef0ff9c5",
+          "amount": 1590.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562335699, +380562335698, +380504501680, +380986475727",
+                "name": "Рамета Владимировна Желтобрюхова",
+                "email": "pack_plast@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Пак Пласт Украина\"",
+                "id": "24236012",
+                "uri": "http://packplast.com.ua"
+              },
+              "name": "ТОВ \"Пак Пласт Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "г.Днепропетровск, пл. Островского,3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:59:52.089647+02:00"
+        }
+      ],
+      "time": "2015-11-04T11:01:31.046356+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T10:05:55.015797+02:00",
+          "amount": 2000.0,
+          "bidder": "01f295dd18d0434d82700671a2e2acef"
+        },
+        {
+          "date": "2015-11-02T16:48:14.697769+02:00",
+          "amount": 1611.84,
+          "bidder": "cf1f6c4de80e47b482db4e20ef0ff9c5"
+        }
+      ],
+      "time": "2015-11-04T10:40:20.003621+00:00"
+    }
+  },
+  "id": "1b583b457cf64b82a8bb65bd9958802c",
+  "tenderId": "UA-2015-10-27-000143"
+}

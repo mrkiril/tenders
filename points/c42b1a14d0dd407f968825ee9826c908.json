@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3a0c0c268e514b3fa50dc9d2ed88700b",
+        "time": "2015-10-16T08:54:13.008558+00:00"
+      },
+      "turn_1": {
+        "bidder": "4908424d89c54ce4a3580cee377d65f3",
+        "time": "2015-10-16T08:52:13.012453+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3a0c0c268e514b3fa50dc9d2ed88700b",
+        "time": "2015-10-16T09:00:13.017255+00:00"
+      },
+      "turn_1": {
+        "amount": 110000.0,
+        "bid_time": "2015-10-16T11:57:25.099163+03:00",
+        "bidder": "4908424d89c54ce4a3580cee377d65f3",
+        "time": "2015-10-16T08:58:13.010986+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4908424d89c54ce4a3580cee377d65f3",
+        "time": "2015-10-16T08:48:13.012931+00:00"
+      },
+      "turn_1": {
+        "amount": 125000.0,
+        "bid_time": "2015-10-16T11:44:22.117097+03:00",
+        "bidder": "3a0c0c268e514b3fa50dc9d2ed88700b",
+        "time": "2015-10-16T08:46:13.010793+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3a0c0c268e514b3fa50dc9d2ed88700b",
+          "amount": 125000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443777849",
+                "name": "ООО \"ПРИВАТЭНЕРГО\"",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988",
+                "legalName": "ООО \"ПРИВАТЭНЕРГО\""
+              },
+              "name": "ООО \"ПРИВАТЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04205, Киев, пр-т Оболонский, 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T11:44:22.117097+03:00"
+        },
+        {
+          "bidder": "4908424d89c54ce4a3580cee377d65f3",
+          "amount": 110000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.art-comfort.com.ua",
+                "faxNumber": "+380444220428",
+                "telephone": "+380443535001",
+                "name": "Страутман Юрій Артурович",
+                "email": "yuriy@art-comfort.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35212500"
+              },
+              "name": "ТОВ АРТ-КОМФОРТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул.Керченська, 7/7",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-16T11:57:25.099163+03:00"
+        }
+      ],
+      "time": "2015-10-16T09:01:00.757876+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T12:17:03.644610+03:00",
+          "amount": 134400.0,
+          "bidder": "3a0c0c268e514b3fa50dc9d2ed88700b"
+        },
+        {
+          "date": "2015-10-13T13:43:42.491032+03:00",
+          "amount": 126000.0,
+          "bidder": "4908424d89c54ce4a3580cee377d65f3"
+        }
+      ],
+      "time": "2015-10-16T08:39:13.005190+00:00"
+    }
+  },
+  "id": "c42b1a14d0dd407f968825ee9826c908",
+  "tenderId": "UA-2015-10-08-000319"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0a179b1bb8234adca8e05262e3691339",
+        "time": "2015-12-17T11:54:36.008695+00:00"
+      },
+      "turn_1": {
+        "bidder": "70403ed9b92c46259b17f2c69e3a2868",
+        "time": "2015-12-17T11:52:36.008382+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0a179b1bb8234adca8e05262e3691339",
+        "time": "2015-12-17T12:00:36.007890+00:00"
+      },
+      "turn_1": {
+        "bidder": "70403ed9b92c46259b17f2c69e3a2868",
+        "time": "2015-12-17T11:58:36.038461+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0a179b1bb8234adca8e05262e3691339",
+        "time": "2015-12-17T11:48:36.008152+00:00"
+      },
+      "turn_1": {
+        "bidder": "70403ed9b92c46259b17f2c69e3a2868",
+        "time": "2015-12-17T11:46:36.008795+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "70403ed9b92c46259b17f2c69e3a2868",
+          "amount": 48600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503514178",
+                "name": "Иннокентий Троян",
+                "email": "derbykiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"АіК\"",
+                "id": "24726351",
+                "uri": "http://derby.ua"
+              },
+              "name": "ПП \"АіК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "проспект Гагарина 23",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:52:30.187230+02:00"
+        },
+        {
+          "bidder": "0a179b1bb8234adca8e05262e3691339",
+          "amount": 11250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380506179511, +380503075455",
+                "name": "Виталий Кандыбей",
+                "email": "vostoksumy@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "14017091",
+                "legalName": "ТОВ \"Схід\""
+              },
+              "name": "ТОВ \"Схід\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "40020",
+                "region": "Сумская",
+                "streetAddress": "пр.Курский,14",
+                "locality": "Сумы"
+              }
+            }
+          ],
+          "time": "2015-12-16T15:50:38.674287+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:00:50.750133+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T12:52:30.187230+02:00",
+          "amount": 48600.0,
+          "bidder": "70403ed9b92c46259b17f2c69e3a2868"
+        },
+        {
+          "date": "2015-12-16T15:50:38.674287+02:00",
+          "amount": 11250.0,
+          "bidder": "0a179b1bb8234adca8e05262e3691339"
+        }
+      ],
+      "time": "2015-12-17T11:39:36.004175+00:00"
+    }
+  },
+  "id": "1ede720c788a4f5abb70f7867533835d",
+  "tenderId": "UA-2015-12-09-000122-b"
+}

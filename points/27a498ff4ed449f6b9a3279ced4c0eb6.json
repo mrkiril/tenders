@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d880919d88d149fdac733d72d7bd4bd1",
+        "time": "2015-11-25T11:49:16.008246+00:00"
+      },
+      "turn_3": {
+        "amount": 22080.0,
+        "bid_time": "2015-11-25T13:49:24.241962+02:00",
+        "bidder": "c63b33ba676f4c2aa186b6140b2dca1c",
+        "time": "2015-11-25T11:51:16.008054+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b43e4a159b94d71a1c78eac2531012b",
+        "time": "2015-11-25T11:47:16.008016+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d880919d88d149fdac733d72d7bd4bd1",
+        "time": "2015-11-25T11:57:16.007783+00:00"
+      },
+      "turn_3": {
+        "amount": 21780.0,
+        "bid_time": "2015-11-25T13:57:32.347588+02:00",
+        "bidder": "c63b33ba676f4c2aa186b6140b2dca1c",
+        "time": "2015-11-25T11:59:16.008691+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b43e4a159b94d71a1c78eac2531012b",
+        "time": "2015-11-25T11:55:16.008135+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 22380.0,
+        "bid_time": "2015-11-25T13:40:13.291134+02:00",
+        "bidder": "c63b33ba676f4c2aa186b6140b2dca1c",
+        "time": "2015-11-25T11:41:16.010344+00:00"
+      },
+      "turn_3": {
+        "bidder": "d880919d88d149fdac733d72d7bd4bd1",
+        "time": "2015-11-25T11:43:16.023041+00:00"
+      },
+      "turn_1": {
+        "bidder": "8b43e4a159b94d71a1c78eac2531012b",
+        "time": "2015-11-25T11:39:16.008029+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8b43e4a159b94d71a1c78eac2531012b",
+          "amount": 22998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380683502123",
+                "name": "Alexander Polyakov",
+                "email": "a.polyakov@enjoysecurity.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37973882",
+                "legalName": "ТОВ \"Енжой Сек'юріті\""
+              },
+              "name": "ТОВ \"Енжой Сек'юріті\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T13:33:50.460724+02:00"
+        },
+        {
+          "bidder": "d880919d88d149fdac733d72d7bd4bd1",
+          "amount": 22630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442499910",
+                "name": "Олег Бахарев",
+                "email": "baharev@bca.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25642461",
+                "legalName": "ЧП \"Авалис\""
+              },
+              "name": "ЧП \"Авалис\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T14:32:23.117608+02:00"
+        },
+        {
+          "bidder": "c63b33ba676f4c2aa186b6140b2dca1c",
+          "amount": 21780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "marina.repetij@amrita-cs.com",
+                "name": "Репетий Марина "
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "0039950584",
+                "legalName": "ТОВ \"АМРІТА КОМПЛЕКСНІ РІШЕННЯ\""
+              },
+              "name": "ТОВ \"Амріта Комплексні рішення\"",
+              "address": {
+                "countryName": "УКРАЇНА",
+                "postalCode": "03680",
+                "locality": "КИЇВСЬКА ОБЛАСТЬ/М.КИЇВ"
+              }
+            }
+          ],
+          "time": "2015-11-25T13:57:32.347588+02:00"
+        }
+      ],
+      "time": "2015-11-25T11:59:16.734784+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T13:33:50.460724+02:00",
+          "amount": 22998.0,
+          "bidder": "8b43e4a159b94d71a1c78eac2531012b"
+        },
+        {
+          "date": "2015-11-24T14:53:00.835426+02:00",
+          "amount": 22682.4,
+          "bidder": "c63b33ba676f4c2aa186b6140b2dca1c"
+        },
+        {
+          "date": "2015-11-23T14:32:23.117608+02:00",
+          "amount": 22630.0,
+          "bidder": "d880919d88d149fdac733d72d7bd4bd1"
+        }
+      ],
+      "time": "2015-11-25T11:32:16.004319+00:00"
+    }
+  },
+  "id": "27a498ff4ed449f6b9a3279ced4c0eb6",
+  "tenderId": "UA-2015-11-19-000065"
+}

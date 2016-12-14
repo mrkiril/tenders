@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9a45b3d0291c4da9aaa3c83f51aa854d",
+        "time": "2015-11-20T10:47:45.009188+00:00"
+      },
+      "turn_1": {
+        "bidder": "da87a2d0ed494931bc7f48fd344131fe",
+        "time": "2015-11-20T10:45:45.008743+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9a45b3d0291c4da9aaa3c83f51aa854d",
+        "time": "2015-11-20T10:53:45.008411+00:00"
+      },
+      "turn_1": {
+        "bidder": "da87a2d0ed494931bc7f48fd344131fe",
+        "time": "2015-11-20T10:51:45.007724+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "da87a2d0ed494931bc7f48fd344131fe",
+        "time": "2015-11-20T10:41:45.008984+00:00"
+      },
+      "turn_1": {
+        "amount": 24499.0,
+        "bid_time": "2015-11-20T12:39:19.142085+02:00",
+        "bidder": "9a45b3d0291c4da9aaa3c83f51aa854d",
+        "time": "2015-11-20T10:39:45.009381+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "da87a2d0ed494931bc7f48fd344131fe",
+          "amount": 24999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380989158755",
+                "name": "Олексій  Дідора",
+                "email": "v80950074659@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37367789",
+                "legalName": "ТОВ \"Торговий Дім Будпартнер\""
+              },
+              "name": "ТОВ \"Торговий Дім Будпартнер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": " 61002",
+                "region": "Харьковская",
+                "streetAddress": "вул. Чернишевська, буд.63, кв.398",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-17T13:46:34.761169+02:00"
+        },
+        {
+          "bidder": "9a45b3d0291c4da9aaa3c83f51aa854d",
+          "amount": 24499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505455160",
+                "name": "Олександр Драганчук",
+                "email": "liman@novatorstroy.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32673903",
+                "legalName": "ТОВ \"НОВАТОРБУД\""
+              },
+              "name": "ТОВ \"НОВАТОРБУД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61030",
+                "region": "Харьковская",
+                "streetAddress": "вул. Біологічна, буд 4/б",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-20T12:39:19.142085+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:53:46.237882+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T13:50:03.743679+02:00",
+          "amount": 24999.76,
+          "bidder": "9a45b3d0291c4da9aaa3c83f51aa854d"
+        },
+        {
+          "date": "2015-11-17T13:46:34.761169+02:00",
+          "amount": 24999.0,
+          "bidder": "da87a2d0ed494931bc7f48fd344131fe"
+        }
+      ],
+      "time": "2015-11-20T10:32:45.004108+00:00"
+    }
+  },
+  "id": "7613b60c1e024f18b737bc9ec6bdd2b0",
+  "tenderId": "UA-2015-11-05-000054"
+}

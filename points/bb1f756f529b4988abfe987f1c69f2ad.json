@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cfeb253e56c0475484d0c35631cc26d8",
+        "time": "2015-08-14T08:45:00.027683+00:00"
+      },
+      "turn_1": {
+        "bidder": "b04e3095c27942759b1d1b54e62cabc6",
+        "time": "2015-08-14T08:43:00.049265+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cfeb253e56c0475484d0c35631cc26d8",
+        "time": "2015-08-14T08:51:00.046330+00:00"
+      },
+      "turn_1": {
+        "bidder": "b04e3095c27942759b1d1b54e62cabc6",
+        "time": "2015-08-14T08:49:00.057108+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cfeb253e56c0475484d0c35631cc26d8",
+        "time": "2015-08-14T08:39:00.045354+00:00"
+      },
+      "turn_1": {
+        "bidder": "b04e3095c27942759b1d1b54e62cabc6",
+        "time": "2015-08-14T08:37:00.028583+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b04e3095c27942759b1d1b54e62cabc6",
+          "amount": 6100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://olmax.kiev.ua",
+                "faxNumber": "+380442391533",
+                "telephone": "+380442391533",
+                "name": "Довгий Максим Олександрович",
+                "email": "m.dovgiy@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998"
+              },
+              "name": "ТОВ ОЛМАКС СІСТЕМС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01011",
+                "region": "Київська область",
+                "streetAddress": "вул. Рибальська 2 оф. 106",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-13T11:18:15.786242+03:00"
+        },
+        {
+          "bidder": "cfeb253e56c0475484d0c35631cc26d8",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-13T12:41:51.779487+03:00"
+        }
+      ],
+      "time": "2015-08-14T08:51:04.337701+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-13T11:18:15.786242+03:00",
+          "amount": 6100.0,
+          "bidder": "b04e3095c27942759b1d1b54e62cabc6"
+        },
+        {
+          "date": "2015-08-13T12:41:51.779487+03:00",
+          "amount": 5900.0,
+          "bidder": "cfeb253e56c0475484d0c35631cc26d8"
+        }
+      ],
+      "time": "2015-08-14T08:30:00.017933+00:00"
+    }
+  },
+  "id": "bb1f756f529b4988abfe987f1c69f2ad",
+  "tenderId": "UA-2015-08-07-000101"
+}

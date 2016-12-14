@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5de5b8f3322f47b49b33226d6ba1fa85",
+        "time": "2015-07-24T08:45:00.120346+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f7886a8b2cc4280a7ce559dbde0678e",
+        "time": "2015-07-24T08:43:00.048087+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5de5b8f3322f47b49b33226d6ba1fa85",
+        "time": "2015-07-24T08:51:00.047656+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f7886a8b2cc4280a7ce559dbde0678e",
+        "time": "2015-07-24T08:49:00.034373+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5de5b8f3322f47b49b33226d6ba1fa85",
+        "time": "2015-07-24T08:39:00.042497+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f7886a8b2cc4280a7ce559dbde0678e",
+        "time": "2015-07-24T08:37:00.069586+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2f7886a8b2cc4280a7ce559dbde0678e",
+          "amount": 8800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443615850",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАДАР-ЦЕНТР\"",
+                "email": "kadar1@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39682516",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАДАР-ЦЕНТР\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАДАР-ЦЕНТР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07455, Київська обл., Броварський р-н, с. Княжичі, вул. Поповича, будинок № 36",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-21T12:21:55.981803+03:00"
+        },
+        {
+          "bidder": "5de5b8f3322f47b49b33226d6ba1fa85",
+          "amount": 8274.14,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://robotun.com.ua",
+                "telephone": "+380443611717",
+                "name": "ООО Роботун ПРО",
+                "email": "vadym.st@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39079675",
+                "legalName": "ООО Роботун ПРО"
+              },
+              "name": "ООО Роботун ПРО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070, г. Киев, ул. Спасская, 31-Б, оф. 102",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-21T13:29:46.713230+03:00"
+        }
+      ],
+      "time": "2015-07-24T08:51:03.223333+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-21T12:21:55.981803+03:00",
+          "amount": 8800.0,
+          "bidder": "2f7886a8b2cc4280a7ce559dbde0678e"
+        },
+        {
+          "date": "2015-07-21T13:29:46.713230+03:00",
+          "amount": 8274.14,
+          "bidder": "5de5b8f3322f47b49b33226d6ba1fa85"
+        }
+      ],
+      "time": "2015-07-24T08:30:00.003929+00:00"
+    }
+  },
+  "id": "92669848c4c645e1837471f81a715aee",
+  "tenderId": "UA-2015-07-21-000030"
+}

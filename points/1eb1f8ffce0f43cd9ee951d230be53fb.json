@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9af95d2cb74b4f5d8d8b4cf439d0ff9a",
+        "time": "2015-10-07T12:51:18.014733+00:00"
+      },
+      "turn_3": {
+        "bidder": "df2592cef013441bbb94555613901aee",
+        "time": "2015-10-07T12:53:18.015284+00:00"
+      },
+      "turn_1": {
+        "bidder": "71094905543a45e3abb51f4c7ad38e9c",
+        "time": "2015-10-07T12:49:18.012988+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9af95d2cb74b4f5d8d8b4cf439d0ff9a",
+        "time": "2015-10-07T12:59:18.010638+00:00"
+      },
+      "turn_3": {
+        "bidder": "df2592cef013441bbb94555613901aee",
+        "time": "2015-10-07T13:01:18.008846+00:00"
+      },
+      "turn_1": {
+        "bidder": "71094905543a45e3abb51f4c7ad38e9c",
+        "time": "2015-10-07T12:57:18.009502+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9af95d2cb74b4f5d8d8b4cf439d0ff9a",
+        "time": "2015-10-07T12:43:18.008173+00:00"
+      },
+      "turn_3": {
+        "bidder": "df2592cef013441bbb94555613901aee",
+        "time": "2015-10-07T12:45:18.006766+00:00"
+      },
+      "turn_1": {
+        "bidder": "71094905543a45e3abb51f4c7ad38e9c",
+        "time": "2015-10-07T12:41:18.007185+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "71094905543a45e3abb51f4c7ad38e9c",
+          "amount": 257089.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://esteu.com.ua/",
+                "telephone": "+380442457207",
+                "name": "ЕСТЕУ ТОВ",
+                "email": "fofonov7@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38745234",
+                "legalName": "ЕСТЕУ ТОВ"
+              },
+              "name": "ЕСТЕУ ТОВ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, 03127, вул. Васильківська, 51, кв.12",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T13:19:09.811107+03:00"
+        },
+        {
+          "bidder": "9af95d2cb74b4f5d8d8b4cf439d0ff9a",
+          "amount": 249000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "",
+                "telephone": "097-434-84-13",
+                "name": "Гордієнко Наталія Вікторівна",
+                "email": "ntl.fabrika@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39332873",
+                "legalName": "Приватне Підприємство \"Науково-технічний ліцей \"Фабрика\""
+              },
+              "name": "Приватне Підприємство \"Науково-технічний ліцей \"Фабрика\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "41100",
+                "region": "Сумська",
+                "streetAddress": "вул.Леніна, буд.17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T10:20:08.677934+03:00"
+        },
+        {
+          "bidder": "df2592cef013441bbb94555613901aee",
+          "amount": 31000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.gipropromstroy.com.ua",
+                "telephone": "+380962929495",
+                "name": "Общество с ограниченной ответственностью  \" Группа институтов по проектированию \"ГИПРОПРОМ Строй\" (ТОВ «ГІП «ГІПРОПРОМ БУД») LIMITED LIABILITY COMPANY \"THE GROUP OF INSTITUTIOS OF ENGINEERING\"",
+                "email": "gipropromstroy002@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38839386",
+                "legalName": "Общество с ограниченной ответственностью  \" Группа институтов по проектированию \"ГИПРОПРОМ Строй\" (ТОВ «ГІП «ГІПРОПРОМ БУД») LIMITED LIABILITY COMPANY \"THE GROUP OF INSTITUTIOS OF ENGINEERING\""
+              },
+              "name": "Общество с ограниченной ответственностью  \" Группа институтов по проектированию \"ГИПРОПРОМ Строй\" (ТОВ «ГІП «ГІПРОПРОМ БУД») LIMITED LIABILITY COMPANY \"THE GROUP OF INSTITUTIOS OF ENGINEERING\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 69057, г. Запорожье, ул. 40 лет Советской Украины д. 84 пом. 74",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T09:47:14.978293+03:00"
+        }
+      ],
+      "time": "2015-10-07T13:01:25.985242+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T13:19:09.811107+03:00",
+          "amount": 257089.1,
+          "bidder": "71094905543a45e3abb51f4c7ad38e9c"
+        },
+        {
+          "date": "2015-10-05T10:20:08.677934+03:00",
+          "amount": 249000.0,
+          "bidder": "9af95d2cb74b4f5d8d8b4cf439d0ff9a"
+        },
+        {
+          "date": "2015-10-05T09:47:14.978293+03:00",
+          "amount": 31000.0,
+          "bidder": "df2592cef013441bbb94555613901aee"
+        }
+      ],
+      "time": "2015-10-07T12:34:18.003125+00:00"
+    }
+  },
+  "id": "1eb1f8ffce0f43cd9ee951d230be53fb",
+  "tenderId": "UA-2015-09-28-000238"
+}

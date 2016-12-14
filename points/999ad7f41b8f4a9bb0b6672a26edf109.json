@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "68a4bddb3e3c4c07bdc9ef7342a6014e",
+        "time": "2015-06-19T08:45:00.281980+00:00"
+      },
+      "turn_1": {
+        "bidder": "638c70d5350d4810afc75d5c93bda2a6",
+        "time": "2015-06-19T08:43:00.304305+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "68a4bddb3e3c4c07bdc9ef7342a6014e",
+        "time": "2015-06-19T08:51:00.214068+00:00"
+      },
+      "turn_1": {
+        "bidder": "638c70d5350d4810afc75d5c93bda2a6",
+        "time": "2015-06-19T08:49:00.190238+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "638c70d5350d4810afc75d5c93bda2a6",
+        "time": "2015-06-19T08:39:00.238463+00:00"
+      },
+      "turn_1": {
+        "amount": 11800.0,
+        "bid_time": "2015-06-19T11:36:47.178641+03:00",
+        "bidder": "68a4bddb3e3c4c07bdc9ef7342a6014e",
+        "time": "2015-06-19T08:37:00.028998+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "638c70d5350d4810afc75d5c93bda2a6",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bettaservice.com.ua/",
+                "telephone": "+380952737111",
+                "name": "Общество с ограниченной ответственностью «Бетта-Сервис»",
+                "email": "e.zolotaryova@betta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32980408",
+                "legalName": "Общество с ограниченной ответственностью «Бетта-Сервис»"
+              },
+              "name": "Общество с ограниченной ответственностью «Бетта-Сервис»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01014, Киев, ул. Струтинського, 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-17T15:13:35.391332+03:00"
+        },
+        {
+          "bidder": "68a4bddb3e3c4c07bdc9ef7342a6014e",
+          "amount": 11800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bettaservice.com.ua/",
+                "telephone": "380952737111",
+                "name": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\"",
+                "email": "e.zolotaryova@betta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32980408",
+                "legalName": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Бетта-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська",
+                "streetAddress": "Струтинського, 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-19T11:36:47.178641+03:00"
+        }
+      ],
+      "time": "2015-06-19T08:51:03.592436+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-17T15:13:35.391332+03:00",
+          "amount": 12000.0,
+          "bidder": "638c70d5350d4810afc75d5c93bda2a6"
+        },
+        {
+          "date": "2015-06-18T13:13:58.133622+03:00",
+          "amount": 12000.0,
+          "bidder": "68a4bddb3e3c4c07bdc9ef7342a6014e"
+        }
+      ],
+      "time": "2015-06-19T08:30:00.028714+00:00"
+    }
+  },
+  "id": "999ad7f41b8f4a9bb0b6672a26edf109",
+  "tenderId": "UA-2015-06-12-000001"
+}

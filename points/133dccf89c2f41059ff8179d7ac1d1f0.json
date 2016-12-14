@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bbd213dc11634435943ee88d9ed3287d",
+        "time": "2015-09-08T08:15:00.045958+00:00"
+      },
+      "turn_1": {
+        "bidder": "26a8d4e17bc441a9b0bfb085bf0382f7",
+        "time": "2015-09-08T08:13:00.094143+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bbd213dc11634435943ee88d9ed3287d",
+        "time": "2015-09-08T08:21:00.110754+00:00"
+      },
+      "turn_1": {
+        "bidder": "26a8d4e17bc441a9b0bfb085bf0382f7",
+        "time": "2015-09-08T08:19:00.102591+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bbd213dc11634435943ee88d9ed3287d",
+        "time": "2015-09-08T08:09:00.095747+00:00"
+      },
+      "turn_1": {
+        "bidder": "26a8d4e17bc441a9b0bfb085bf0382f7",
+        "time": "2015-09-08T08:07:00.092973+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "26a8d4e17bc441a9b0bfb085bf0382f7",
+          "amount": 960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://yugsintez.com.ua/",
+                "telephone": "+380562384654",
+                "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+                "email": "kupriyanov@yugsint.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32990002",
+                "legalName": "Общество с ограниченной ответственностью \"Югсинтез\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Югсинтез\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, Днепропетровская область г. Днепропетровск, Бабушинский район, ул. Героев Сталинграда, 156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T13:28:28.929880+03:00"
+        },
+        {
+          "bidder": "bbd213dc11634435943ee88d9ed3287d",
+          "amount": 547.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.hlr.com.ua",
+                "telephone": "+380675492917",
+                "name": "ООО\"Химлаборреактив\"",
+                "email": "galyaeva@chemlab.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23522853",
+                "legalName": "ООО\"Химлаборреактив\""
+              },
+              "name": "ООО\"Химлаборреактив\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03150 г. Киев, ул. Красноармейская, 57/3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T11:11:08.560604+03:00"
+        }
+      ],
+      "time": "2015-09-08T08:21:04.915932+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T13:28:28.929880+03:00",
+          "amount": 960.0,
+          "bidder": "26a8d4e17bc441a9b0bfb085bf0382f7"
+        },
+        {
+          "date": "2015-09-07T11:11:08.560604+03:00",
+          "amount": 547.2,
+          "bidder": "bbd213dc11634435943ee88d9ed3287d"
+        }
+      ],
+      "time": "2015-09-08T08:00:00.040307+00:00"
+    }
+  },
+  "id": "133dccf89c2f41059ff8179d7ac1d1f0",
+  "tenderId": "UA-2015-08-26-000006"
+}

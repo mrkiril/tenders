@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "28809eaa33da49569bf0f7d8313ed037",
+        "time": "2015-07-09T08:15:00.362295+00:00"
+      },
+      "turn_1": {
+        "bidder": "55d047712a7c49fbb16bb094ad372af4",
+        "time": "2015-07-09T08:13:00.436095+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "28809eaa33da49569bf0f7d8313ed037",
+        "time": "2015-07-09T08:21:00.460018+00:00"
+      },
+      "turn_1": {
+        "bidder": "55d047712a7c49fbb16bb094ad372af4",
+        "time": "2015-07-09T08:19:00.216333+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "55d047712a7c49fbb16bb094ad372af4",
+        "time": "2015-07-09T08:09:00.266419+00:00"
+      },
+      "turn_1": {
+        "amount": 4260.0,
+        "bid_time": "2015-07-09T11:06:41.831304+03:00",
+        "bidder": "28809eaa33da49569bf0f7d8313ed037",
+        "time": "2015-07-09T08:07:00.605474+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "55d047712a7c49fbb16bb094ad372af4",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380963147404",
+                "name": "ООО \"Майком\"",
+                "email": "yana.d@axiomplus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37311301",
+                "legalName": "ООО \"Майком\""
+              },
+              "name": "ООО \"Майком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03142",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "ул. Академика Крымского, 27-А",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-07-08T18:03:16.163632+03:00"
+        },
+        {
+          "bidder": "28809eaa33da49569bf0f7d8313ed037",
+          "amount": 4260.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445008931",
+                "name": "Товариство з обмеженою відповідальністю \"Комплітех\"",
+                "email": "completech@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21614048",
+                "legalName": "Товариство з обмеженою відповідальністю \"Комплітех\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Комплітех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04114, м. Київ, вул. Кобзарська, 67",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T11:06:41.831304+03:00"
+        }
+      ],
+      "time": "2015-07-09T08:30:10.959561+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-08T19:06:07.589264+03:00",
+          "amount": 4320.0,
+          "bidder": "28809eaa33da49569bf0f7d8313ed037"
+        },
+        {
+          "date": "2015-07-08T18:03:16.163632+03:00",
+          "amount": 4300.0,
+          "bidder": "55d047712a7c49fbb16bb094ad372af4"
+        }
+      ],
+      "time": "2015-07-09T08:00:00.140519+00:00"
+    }
+  },
+  "id": "50b6ab8ae4a541de9dc3d8df6f4bc95a",
+  "tenderId": "UA-2015-07-02-000173"
+}

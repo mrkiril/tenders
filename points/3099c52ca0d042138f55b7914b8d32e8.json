@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "96b2a07d0a9b40eba520eb61c609c1a5",
+        "time": "2015-12-11T10:24:01.008266+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf134db3a984c7e92de4f7971055d1d",
+        "time": "2015-12-11T10:22:01.008230+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "96b2a07d0a9b40eba520eb61c609c1a5",
+        "time": "2015-12-11T10:30:01.007755+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf134db3a984c7e92de4f7971055d1d",
+        "time": "2015-12-11T10:28:01.011486+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "96b2a07d0a9b40eba520eb61c609c1a5",
+        "time": "2015-12-11T10:18:01.008313+00:00"
+      },
+      "turn_1": {
+        "bidder": "9cf134db3a984c7e92de4f7971055d1d",
+        "time": "2015-12-11T10:16:01.008777+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9cf134db3a984c7e92de4f7971055d1d",
+          "amount": 3499.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444950152",
+                "telephone": "0444950154",
+                "name": "Конєва Оксана Іванівна",
+                "email": "kievdrukks@rambler.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38882409",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інтердрук\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інтердрук\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03680",
+                "region": "Київська",
+                "streetAddress": "Пшенична, 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T10:54:19.296985+02:00"
+        },
+        {
+          "bidder": "96b2a07d0a9b40eba520eb61c609c1a5",
+          "amount": 3170.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.bregin.in.ua",
+                "telephone": "+380984760097",
+                "name": "Брегін Андрій Романович",
+                "email": "bregin@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2942003178"
+              },
+              "name": "ФОП Брегін Андрій Романович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35408",
+                "region": "Рівненська область",
+                "streetAddress": "село Симонів, вулиця Юзикевичів 27",
+                "locality": "Гощанський район"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:58:19.987886+02:00"
+        }
+      ],
+      "time": "2015-12-11T10:30:03.734778+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T10:54:19.296985+02:00",
+          "amount": 3499.8,
+          "bidder": "9cf134db3a984c7e92de4f7971055d1d"
+        },
+        {
+          "date": "2015-12-09T13:58:19.987886+02:00",
+          "amount": 3170.0,
+          "bidder": "96b2a07d0a9b40eba520eb61c609c1a5"
+        }
+      ],
+      "time": "2015-12-11T10:09:01.004510+00:00"
+    }
+  },
+  "id": "3099c52ca0d042138f55b7914b8d32e8",
+  "tenderId": "UA-2015-12-07-000132"
+}

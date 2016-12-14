@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e610f89355ad44e2a80338ae1db7edb3",
+        "time": "2015-10-09T09:28:08.011718+00:00"
+      },
+      "turn_3": {
+        "bidder": "8d88d9e12cb54bc18b3297c8237d9893",
+        "time": "2015-10-09T09:30:08.009352+00:00"
+      },
+      "turn_1": {
+        "bidder": "c73905df31ea404ea1bd443e2d819b67",
+        "time": "2015-10-09T09:26:08.011353+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e610f89355ad44e2a80338ae1db7edb3",
+        "time": "2015-10-09T09:36:08.006712+00:00"
+      },
+      "turn_3": {
+        "bidder": "8d88d9e12cb54bc18b3297c8237d9893",
+        "time": "2015-10-09T09:38:08.007548+00:00"
+      },
+      "turn_1": {
+        "bidder": "c73905df31ea404ea1bd443e2d819b67",
+        "time": "2015-10-09T09:34:08.006285+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c73905df31ea404ea1bd443e2d819b67",
+        "time": "2015-10-09T09:20:08.010291+00:00"
+      },
+      "turn_3": {
+        "bidder": "e610f89355ad44e2a80338ae1db7edb3",
+        "time": "2015-10-09T09:22:08.009226+00:00"
+      },
+      "turn_1": {
+        "amount": 1198.0,
+        "bid_time": "2015-10-09T12:17:28.628664+03:00",
+        "bidder": "8d88d9e12cb54bc18b3297c8237d9893",
+        "time": "2015-10-09T09:18:08.011461+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c73905df31ea404ea1bd443e2d819b67",
+          "amount": 1255.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0484947514",
+                "telephone": "0675947309",
+                "name": "Логоненко Павло Михайлович",
+                "email": "feniks-inkom@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38425940",
+                "legalName": "Приватне підприємство \"Фенікс-Інком\""
+              },
+              "name": "Приватне підприємство \"Фенікс-Інком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "67780",
+                "region": "Одеська",
+                "streetAddress": "с.м.т. Сергіїка, вул.Чорноморська 3, кв.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T14:51:37.973307+03:00"
+        },
+        {
+          "bidder": "e610f89355ad44e2a80338ae1db7edb3",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993335037",
+                "name": "Садко",
+                "email": "z13918828@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13918828",
+                "legalName": "ПП \"ТП Садко\""
+              },
+              "name": "ПП \"ТП Садко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "66300",
+                "region": "Одесская",
+                "streetAddress": "пр.Победы 1-з",
+                "locality": "Котовск"
+              }
+            }
+          ],
+          "time": "2015-10-01T11:35:47.422040+03:00"
+        },
+        {
+          "bidder": "8d88d9e12cb54bc18b3297c8237d9893",
+          "amount": 1198.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0668928837",
+                "name": "Надія Чашуріна ",
+                "email": "n.chashurina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3145700085",
+                "legalName": "ФОП Зубицька В.В."
+              },
+              "name": "ФОП Зубицька В.В.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "м.Котовськ вул.Самборського 3в Одеська обл. 66300"
+              }
+            }
+          ],
+          "time": "2015-10-09T12:17:28.628664+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:38:09.288122+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T19:27:00.116335+03:00",
+          "amount": 1260.0,
+          "bidder": "8d88d9e12cb54bc18b3297c8237d9893"
+        },
+        {
+          "date": "2015-10-01T14:51:37.973307+03:00",
+          "amount": 1255.0,
+          "bidder": "c73905df31ea404ea1bd443e2d819b67"
+        },
+        {
+          "date": "2015-10-01T11:35:47.422040+03:00",
+          "amount": 1200.0,
+          "bidder": "e610f89355ad44e2a80338ae1db7edb3"
+        }
+      ],
+      "time": "2015-10-09T09:11:08.002774+00:00"
+    }
+  },
+  "id": "94d08730bc5e4b13a3f21119b231ceac",
+  "tenderId": "UA-2015-09-23-000091"
+}

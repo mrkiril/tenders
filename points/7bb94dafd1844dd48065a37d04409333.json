@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8a27fc4182844c59930ab66818f3b8e1",
+        "time": "2015-12-17T12:27:14.007728+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc897c76205248c599f1eb9b9ec40ba6",
+        "time": "2015-12-17T12:29:14.007031+00:00"
+      },
+      "turn_1": {
+        "bidder": "2be23120139a46adb3ab4d36580ba7c7",
+        "time": "2015-12-17T12:25:14.007822+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8a27fc4182844c59930ab66818f3b8e1",
+        "time": "2015-12-17T12:35:14.007335+00:00"
+      },
+      "turn_3": {
+        "bidder": "bc897c76205248c599f1eb9b9ec40ba6",
+        "time": "2015-12-17T12:37:14.006565+00:00"
+      },
+      "turn_1": {
+        "bidder": "2be23120139a46adb3ab4d36580ba7c7",
+        "time": "2015-12-17T12:33:14.013255+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3399.0,
+        "bid_time": "2015-12-17T14:17:43.822518+02:00",
+        "bidder": "bc897c76205248c599f1eb9b9ec40ba6",
+        "time": "2015-12-17T12:19:14.009775+00:00"
+      },
+      "turn_3": {
+        "bidder": "8a27fc4182844c59930ab66818f3b8e1",
+        "time": "2015-12-17T12:21:14.008417+00:00"
+      },
+      "turn_1": {
+        "bidder": "2be23120139a46adb3ab4d36580ba7c7",
+        "time": "2015-12-17T12:17:14.007742+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2be23120139a46adb3ab4d36580ba7c7",
+          "amount": 4200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380342778552",
+                "name": "ТОВ «Прогрес-Сервіс ІФ»",
+                "email": "progressofficeif@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37409755",
+                "legalName": "ТОВ «Прогрес-Сервіс ІФ»"
+              },
+              "name": "ТОВ «Прогрес-Сервіс ІФ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Івано-Франківськ,вул.Хоткевича 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T13:39:28.410132+02:00"
+        },
+        {
+          "bidder": "8a27fc4182844c59930ab66818f3b8e1",
+          "amount": 3400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sint.ua",
+                "telephone": "+380442204747",
+                "name": "Товариство з обмеженою відповідальністю „СІНТ”",
+                "email": "r.kravchuk@sint.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "16285789",
+                "legalName": "Товариство з обмеженою відповідальністю „СІНТ”"
+              },
+              "name": "Товариство з обмеженою відповідальністю „СІНТ”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T11:26:03.108139+02:00"
+        },
+        {
+          "bidder": "bc897c76205248c599f1eb9b9ec40ba6",
+          "amount": 3399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.printer.com.ua",
+                "faxNumber": "+380444849000",
+                "telephone": "+380503588033",
+                "name": "Андреєв Сергій Віктрович",
+                "email": "andriyur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37634298"
+              },
+              "name": "ТОВ Вічний картридж",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Шота Руставелі, б15 б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:17:43.822518+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:37:14.971366+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T13:39:28.410132+02:00",
+          "amount": 4200.0,
+          "bidder": "2be23120139a46adb3ab4d36580ba7c7"
+        },
+        {
+          "date": "2015-12-14T09:00:39.414323+02:00",
+          "amount": 3890.0,
+          "bidder": "bc897c76205248c599f1eb9b9ec40ba6"
+        },
+        {
+          "date": "2015-12-14T11:26:03.108139+02:00",
+          "amount": 3400.0,
+          "bidder": "8a27fc4182844c59930ab66818f3b8e1"
+        }
+      ],
+      "time": "2015-12-17T12:10:14.003132+00:00"
+    }
+  },
+  "id": "7bb94dafd1844dd48065a37d04409333",
+  "tenderId": "UA-2015-12-11-000139-b"
+}

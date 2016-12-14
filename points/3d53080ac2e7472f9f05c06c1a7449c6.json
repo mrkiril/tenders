@@ -1,0 +1,296 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "bidder": "e46ecfd9d1a344c1a4a3deb64e9e0e0d",
+        "time": "2015-08-27T12:31:00.017600+00:00"
+      },
+      "turn_4": {
+        "bidder": "8b46ee81b9d04dd8b5e4b79846675bbc",
+        "time": "2015-08-27T12:27:00.016622+00:00"
+      },
+      "turn_5": {
+        "amount": 950.0,
+        "bid_time": "2015-08-27T15:28:39.383807+03:00",
+        "bidder": "1a3722a96256473d87a5a0d93bc8ef94",
+        "time": "2015-08-27T12:29:00.023261+00:00"
+      },
+      "turn_2": {
+        "bidder": "f1e6d1064fd24d3d9504b5e9e7ed8772",
+        "time": "2015-08-27T12:23:00.017841+00:00"
+      },
+      "turn_3": {
+        "bidder": "62ff6785cd7c4002bccd2a62b92daf2d",
+        "time": "2015-08-27T12:25:00.011937+00:00"
+      },
+      "turn_1": {
+        "bidder": "a16905c049134ec19519f5d52d71dae9",
+        "time": "2015-08-27T12:21:00.017104+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "1a3722a96256473d87a5a0d93bc8ef94",
+        "time": "2015-08-27T12:45:00.023241+00:00"
+      },
+      "turn_4": {
+        "bidder": "8b46ee81b9d04dd8b5e4b79846675bbc",
+        "time": "2015-08-27T12:41:00.035870+00:00"
+      },
+      "turn_5": {
+        "bidder": "e46ecfd9d1a344c1a4a3deb64e9e0e0d",
+        "time": "2015-08-27T12:43:00.025896+00:00"
+      },
+      "turn_2": {
+        "bidder": "f1e6d1064fd24d3d9504b5e9e7ed8772",
+        "time": "2015-08-27T12:37:00.017952+00:00"
+      },
+      "turn_3": {
+        "bidder": "62ff6785cd7c4002bccd2a62b92daf2d",
+        "time": "2015-08-27T12:39:00.018388+00:00"
+      },
+      "turn_1": {
+        "bidder": "a16905c049134ec19519f5d52d71dae9",
+        "time": "2015-08-27T12:35:00.015998+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "bidder": "8b46ee81b9d04dd8b5e4b79846675bbc",
+        "time": "2015-08-27T12:17:00.011755+00:00"
+      },
+      "turn_4": {
+        "amount": 1000.0,
+        "bid_time": "2015-08-27T15:12:31.991754+03:00",
+        "bidder": "e46ecfd9d1a344c1a4a3deb64e9e0e0d",
+        "time": "2015-08-27T12:13:00.015403+00:00"
+      },
+      "turn_5": {
+        "bidder": "62ff6785cd7c4002bccd2a62b92daf2d",
+        "time": "2015-08-27T12:15:00.019473+00:00"
+      },
+      "turn_2": {
+        "amount": 1030.0,
+        "bid_time": "2015-08-27T15:08:18.553193+03:00",
+        "bidder": "1a3722a96256473d87a5a0d93bc8ef94",
+        "time": "2015-08-27T12:09:00.031434+00:00"
+      },
+      "turn_3": {
+        "bidder": "f1e6d1064fd24d3d9504b5e9e7ed8772",
+        "time": "2015-08-27T12:11:00.020288+00:00"
+      },
+      "turn_1": {
+        "bidder": "a16905c049134ec19519f5d52d71dae9",
+        "time": "2015-08-27T12:07:00.012916+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a16905c049134ec19519f5d52d71dae9",
+          "amount": 1376.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ciscompany.ru/ua/ua191747",
+                "faxNumber": "+380444951845",
+                "telephone": "+380675027422",
+                "name": "Анік'єв Ігор Іванович",
+                "email": "energomir@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32765847"
+              },
+              "name": "ТОВ ЕНЕРГОКОНТРАКТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська область",
+                "streetAddress": "м.Київ, вул. Борщагівська, 154",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-25T14:58:46.334437+03:00"
+        },
+        {
+          "bidder": "f1e6d1064fd24d3d9504b5e9e7ed8772",
+          "amount": 1300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380661117659",
+                "name": "Вікторія Онищенко",
+                "email": "ivan_ua1984@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3243317744",
+                "legalName": "ФОП \"Онищенко Вікторія Володимирівна\""
+              },
+              "name": "ФОП \"Онищенко Вікторія Володимирівна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "56401",
+                "region": "Николаевская",
+                "streetAddress": "смт.Доманівка",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-08-23T19:14:14.861913+03:00"
+        },
+        {
+          "bidder": "62ff6785cd7c4002bccd2a62b92daf2d",
+          "amount": 1211.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442511417",
+                "name": "Віктор Семенюк",
+                "email": "fn@flora-n.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22890023",
+                "legalName": "ТОВ \"Флора-Нест\""
+              },
+              "name": "ТОВ \"Флора-Нест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03186",
+                "region": "Киевская",
+                "streetAddress": "ул. Авіаконструктора Антонова",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-21T15:12:33.585035+03:00"
+        },
+        {
+          "bidder": "8b46ee81b9d04dd8b5e4b79846675bbc",
+          "amount": 1050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://algoritm-service.zakupka.com/",
+                "faxNumber": "0512479165",
+                "telephone": "0512479165",
+                "name": "Тузов Микола Миколайович",
+                "email": "algorithmservis@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38312903",
+                "legalName": "Товариство з обмеженою відповідальністю \"Алгоритм-Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Алгоритм-Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "Шевченко, 71 офіс 111",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-25T16:46:37.804633+03:00"
+        },
+        {
+          "bidder": "e46ecfd9d1a344c1a4a3deb64e9e0e0d",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-27T15:12:31.991754+03:00"
+        },
+        {
+          "bidder": "1a3722a96256473d87a5a0d93bc8ef94",
+          "amount": 950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T15:28:39.383807+03:00"
+        }
+      ],
+      "time": "2015-08-27T12:45:07.598290+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-25T14:58:46.334437+03:00",
+          "amount": 1376.0,
+          "bidder": "a16905c049134ec19519f5d52d71dae9"
+        },
+        {
+          "date": "2015-08-21T10:19:02.052101+03:00",
+          "amount": 1307.0,
+          "bidder": "1a3722a96256473d87a5a0d93bc8ef94"
+        },
+        {
+          "date": "2015-08-23T19:14:14.861913+03:00",
+          "amount": 1300.0,
+          "bidder": "f1e6d1064fd24d3d9504b5e9e7ed8772"
+        },
+        {
+          "date": "2015-08-25T12:45:49.917186+03:00",
+          "amount": 1278.0,
+          "bidder": "e46ecfd9d1a344c1a4a3deb64e9e0e0d"
+        },
+        {
+          "date": "2015-08-21T15:12:33.585035+03:00",
+          "amount": 1211.0,
+          "bidder": "62ff6785cd7c4002bccd2a62b92daf2d"
+        },
+        {
+          "date": "2015-08-25T16:46:37.804633+03:00",
+          "amount": 1050.0,
+          "bidder": "8b46ee81b9d04dd8b5e4b79846675bbc"
+        }
+      ],
+      "time": "2015-08-27T12:00:00.010000+00:00"
+    }
+  },
+  "id": "3d53080ac2e7472f9f05c06c1a7449c6",
+  "tenderId": "UA-2015-08-18-000124"
+}

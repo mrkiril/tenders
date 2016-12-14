@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cca3191068794f8d8fe109a45a570c85",
+        "time": "2015-12-16T11:50:50.008465+00:00"
+      },
+      "turn_1": {
+        "bidder": "131a3c6554794780aedfbb1b8cd372bf",
+        "time": "2015-12-16T11:48:50.016844+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cca3191068794f8d8fe109a45a570c85",
+        "time": "2015-12-16T11:56:50.008105+00:00"
+      },
+      "turn_1": {
+        "bidder": "131a3c6554794780aedfbb1b8cd372bf",
+        "time": "2015-12-16T11:54:50.008277+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cca3191068794f8d8fe109a45a570c85",
+        "time": "2015-12-16T11:44:50.029989+00:00"
+      },
+      "turn_1": {
+        "bidder": "131a3c6554794780aedfbb1b8cd372bf",
+        "time": "2015-12-16T11:42:50.008480+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "131a3c6554794780aedfbb1b8cd372bf",
+          "amount": 196561.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-16T09:25:49.661088+02:00"
+        },
+        {
+          "bidder": "cca3191068794f8d8fe109a45a570c85",
+          "amount": 169074.78,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-15T10:35:10.010998+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:56:51.832945+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T09:25:49.661088+02:00",
+          "amount": 196561.0,
+          "bidder": "131a3c6554794780aedfbb1b8cd372bf"
+        },
+        {
+          "date": "2015-12-15T10:35:10.010998+02:00",
+          "amount": 169074.78,
+          "bidder": "cca3191068794f8d8fe109a45a570c85"
+        }
+      ],
+      "time": "2015-12-16T11:35:50.004589+00:00"
+    }
+  },
+  "id": "85428b6a07764f37a13cf056aadc2ba4",
+  "tenderId": "UA-2015-12-09-000011"
+}

@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "86f1a83cad464219a03cb20c17cf9fae",
+        "time": "2015-09-28T12:47:00.005902+00:00"
+      },
+      "turn_3": {
+        "bidder": "5cc987ddb53346cc82c6c9ce41c1bda9",
+        "time": "2015-09-28T12:49:00.011702+00:00"
+      },
+      "turn_1": {
+        "bidder": "46aa235b8af0437e9d861880eef6496d",
+        "time": "2015-09-28T12:45:00.013581+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "86f1a83cad464219a03cb20c17cf9fae",
+        "time": "2015-09-28T12:55:00.007122+00:00"
+      },
+      "turn_3": {
+        "bidder": "5cc987ddb53346cc82c6c9ce41c1bda9",
+        "time": "2015-09-28T12:57:00.007878+00:00"
+      },
+      "turn_1": {
+        "amount": 339676.99,
+        "bid_time": "2015-09-28T15:51:24.004008+03:00",
+        "bidder": "46aa235b8af0437e9d861880eef6496d",
+        "time": "2015-09-28T12:53:00.010470+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "46aa235b8af0437e9d861880eef6496d",
+        "time": "2015-09-28T12:39:00.014234+00:00"
+      },
+      "turn_3": {
+        "bidder": "86f1a83cad464219a03cb20c17cf9fae",
+        "time": "2015-09-28T12:41:00.018042+00:00"
+      },
+      "turn_1": {
+        "amount": 339800.0,
+        "bid_time": "2015-09-28T15:36:56.241444+03:00",
+        "bidder": "5cc987ddb53346cc82c6c9ce41c1bda9",
+        "time": "2015-09-28T12:37:00.016590+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "86f1a83cad464219a03cb20c17cf9fae",
+          "amount": 339827.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://liderprogress.com",
+                "telephone": "+380487380338",
+                "name": "ТОВ \"Лідер-Прогрес\"",
+                "email": "lider-progress@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36343498",
+                "legalName": "ТОВ \"Лідер-Прогрес\""
+              },
+              "name": "ТОВ \"Лідер-Прогрес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65005, м.Одеса, вул.Бугаївська, 35, оф.801",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T14:16:44.541691+03:00"
+        },
+        {
+          "bidder": "5cc987ddb53346cc82c6c9ce41c1bda9",
+          "amount": 339800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563702770",
+                "name": "Завод антикорозійного покриття",
+                "email": "postmaster@ask1.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32905802",
+                "legalName": "Завод антикорозійного покриття"
+              },
+              "name": "Завод антикорозійного покриття",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000,м. Дніпропетровськ\r\nвул.М.Малиновського, буд.42, кв.43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-28T15:36:56.241444+03:00"
+        },
+        {
+          "bidder": "46aa235b8af0437e9d861880eef6496d",
+          "amount": 339676.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503208466",
+                "name": "Приватне підприємство \" Науково-виробнича фірма \"Кароліна\"",
+                "email": "avicomp@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13469980",
+                "legalName": "Приватне підприємство \" Науково-виробнича фірма \"Кароліна\""
+              },
+              "name": "Приватне підприємство \" Науково-виробнича фірма \"Кароліна\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49006, Дніпропетровська обл., м. Дніпропетровськ, вул. Кронштандська, буд.8, кв.1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-28T15:51:24.004008+03:00"
+        }
+      ],
+      "time": "2015-09-28T12:57:04.597936+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T14:10:44.814656+03:00",
+          "amount": 349905.84,
+          "bidder": "5cc987ddb53346cc82c6c9ce41c1bda9"
+        },
+        {
+          "date": "2015-09-25T16:41:40.787653+03:00",
+          "amount": 349676.99,
+          "bidder": "46aa235b8af0437e9d861880eef6496d"
+        },
+        {
+          "date": "2015-09-25T14:16:44.541691+03:00",
+          "amount": 339827.4,
+          "bidder": "86f1a83cad464219a03cb20c17cf9fae"
+        }
+      ],
+      "time": "2015-09-28T12:30:00.002987+00:00"
+    }
+  },
+  "id": "bb10f52683304faa963f4fcc53f9ba52",
+  "tenderId": "UA-2015-09-16-000005"
+}

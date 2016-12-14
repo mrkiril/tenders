@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b76c00f959a840438e451e1c1bdf407f",
+        "time": "2015-10-29T13:26:51.014002+00:00"
+      },
+      "turn_3": {
+        "bidder": "83e7b6188ea14c2cb133adb22b475ed6",
+        "time": "2015-10-29T13:28:51.007783+00:00"
+      },
+      "turn_1": {
+        "bidder": "e8994bcd51c547c99cc3c2a8a4253c5a",
+        "time": "2015-10-29T13:24:51.010915+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4740.0,
+        "bid_time": "2015-10-29T15:34:30.055512+02:00",
+        "bidder": "b76c00f959a840438e451e1c1bdf407f",
+        "time": "2015-10-29T13:34:51.007803+00:00"
+      },
+      "turn_3": {
+        "bidder": "83e7b6188ea14c2cb133adb22b475ed6",
+        "time": "2015-10-29T13:36:51.007656+00:00"
+      },
+      "turn_1": {
+        "amount": 4800.0,
+        "bid_time": "2015-10-29T15:30:59.276179+02:00",
+        "bidder": "e8994bcd51c547c99cc3c2a8a4253c5a",
+        "time": "2015-10-29T13:32:51.008121+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b76c00f959a840438e451e1c1bdf407f",
+        "time": "2015-10-29T13:18:51.008243+00:00"
+      },
+      "turn_3": {
+        "bidder": "83e7b6188ea14c2cb133adb22b475ed6",
+        "time": "2015-10-29T13:20:51.010726+00:00"
+      },
+      "turn_1": {
+        "bidder": "e8994bcd51c547c99cc3c2a8a4253c5a",
+        "time": "2015-10-29T13:16:51.008555+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e8994bcd51c547c99cc3c2a8a4253c5a",
+          "amount": 4800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445007988, +380673002626, +380445007988",
+                "name": "Юрий Штонда",
+                "email": "detex@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО \"ДЕТЕКС\"\"",
+                "id": "36272728",
+                "uri": "http://detex.kiev.ua"
+              },
+              "name": "ТОВ \"ООО \"ДЕТЕКС\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "02088, г. Киев, ул. Промышленная, 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-29T15:30:59.276179+02:00"
+        },
+        {
+          "bidder": "b76c00f959a840438e451e1c1bdf407f",
+          "amount": 4740.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stolviv.ho.ua/",
+                "faxNumber": "+380563769246",
+                "telephone": "+380673680892",
+                "name": "Войчак Володимир Олексійович",
+                "email": "v.voichak@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2778519198"
+              },
+              "name": "ФОП Войчак В.О.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49052",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Орловська, буд.27, кв.50",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-29T15:34:30.055512+02:00"
+        },
+        {
+          "bidder": "83e7b6188ea14c2cb133adb22b475ed6",
+          "amount": 3200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.amt.ua",
+                "telephone": "+380979380423",
+                "name": "ООО \"Автомототех\"",
+                "email": "kostuk.alexander@tiptop.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37674173",
+                "legalName": "ООО \"Автомототех\""
+              },
+              "name": "ООО \"Автомототех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, ул. Булаховского 30 А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T17:11:14.055258+02:00"
+        }
+      ],
+      "time": "2015-10-29T13:36:54.786509+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T18:45:58.849728+02:00",
+          "amount": 5066.58,
+          "bidder": "e8994bcd51c547c99cc3c2a8a4253c5a"
+        },
+        {
+          "date": "2015-10-27T17:51:23.733283+02:00",
+          "amount": 4950.0,
+          "bidder": "b76c00f959a840438e451e1c1bdf407f"
+        },
+        {
+          "date": "2015-10-26T17:11:14.055258+02:00",
+          "amount": 3200.0,
+          "bidder": "83e7b6188ea14c2cb133adb22b475ed6"
+        }
+      ],
+      "time": "2015-10-29T13:09:51.004067+00:00"
+    }
+  },
+  "id": "1eadbdb0376d495aa078bd147705b604",
+  "tenderId": "UA-2015-10-22-000391"
+}

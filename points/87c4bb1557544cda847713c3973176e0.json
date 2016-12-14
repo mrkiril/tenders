@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8b648ae5eb5f48a89ccfb20f312c131f",
+        "time": "2015-11-18T12:58:43.007150+00:00"
+      },
+      "turn_3": {
+        "bidder": "56b45396271641fd8a741d3af6b7c7ba",
+        "time": "2015-11-18T13:00:43.007695+00:00"
+      },
+      "turn_1": {
+        "bidder": "842ff5cb5d234e2ab2eb60dce40ce279",
+        "time": "2015-11-18T12:56:43.026476+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8b648ae5eb5f48a89ccfb20f312c131f",
+        "time": "2015-11-18T13:06:43.006909+00:00"
+      },
+      "turn_3": {
+        "bidder": "56b45396271641fd8a741d3af6b7c7ba",
+        "time": "2015-11-18T13:08:43.006687+00:00"
+      },
+      "turn_1": {
+        "bidder": "842ff5cb5d234e2ab2eb60dce40ce279",
+        "time": "2015-11-18T13:04:43.008138+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "842ff5cb5d234e2ab2eb60dce40ce279",
+        "time": "2015-11-18T12:50:43.008514+00:00"
+      },
+      "turn_3": {
+        "bidder": "8b648ae5eb5f48a89ccfb20f312c131f",
+        "time": "2015-11-18T12:52:43.008771+00:00"
+      },
+      "turn_1": {
+        "amount": 2349.0,
+        "bid_time": "2015-11-18T14:48:17.163973+02:00",
+        "bidder": "56b45396271641fd8a741d3af6b7c7ba",
+        "time": "2015-11-18T12:48:43.009401+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "842ff5cb5d234e2ab2eb60dce40ce279",
+          "amount": 2700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675177705",
+                "name": "Виталий Терещенко",
+                "email": "amazon.ca.ukr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37758457",
+                "legalName": "ТОВ \"Форса-Украина\""
+              },
+              "name": "ТОВ \"Форса-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "вул. Лучева, 19",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:03:43.688647+02:00"
+        },
+        {
+          "bidder": "8b648ae5eb5f48a89ccfb20f312c131f",
+          "amount": 2350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-14T08:53:18.633149+02:00"
+        },
+        {
+          "bidder": "56b45396271641fd8a741d3af6b7c7ba",
+          "amount": 2349.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:48:17.163973+02:00"
+        }
+      ],
+      "time": "2015-11-18T13:08:46.631070+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T07:01:47.600250+02:00",
+          "amount": 2780.0,
+          "bidder": "56b45396271641fd8a741d3af6b7c7ba"
+        },
+        {
+          "date": "2015-11-16T13:03:43.688647+02:00",
+          "amount": 2700.0,
+          "bidder": "842ff5cb5d234e2ab2eb60dce40ce279"
+        },
+        {
+          "date": "2015-11-14T08:53:18.633149+02:00",
+          "amount": 2350.0,
+          "bidder": "8b648ae5eb5f48a89ccfb20f312c131f"
+        }
+      ],
+      "time": "2015-11-18T12:41:43.002733+00:00"
+    }
+  },
+  "id": "87c4bb1557544cda847713c3973176e0",
+  "tenderId": "UA-2015-11-09-000114-b"
+}

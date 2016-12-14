@@ -1,0 +1,124 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 59188.0,
+        "bid_time": "2015-09-10T13:13:31.508961+03:00",
+        "bidder": "f875efc4dabb447d9d39fec633189f8f",
+        "time": "2015-09-10T10:15:00.045515+00:00"
+      },
+      "turn_1": {
+        "amount": 59400.0,
+        "bid_time": "2015-09-10T13:12:55.597056+03:00",
+        "bidder": "d10eafb8a1944e4cb3ec92c0e1570e3c",
+        "time": "2015-09-10T10:13:00.021105+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 58876.0,
+        "bid_time": "2015-09-10T13:19:20.858491+03:00",
+        "bidder": "f875efc4dabb447d9d39fec633189f8f",
+        "time": "2015-09-10T10:21:00.036496+00:00"
+      },
+      "turn_1": {
+        "amount": 59068.0,
+        "bid_time": "2015-09-10T13:17:38.464290+03:00",
+        "bidder": "d10eafb8a1944e4cb3ec92c0e1570e3c",
+        "time": "2015-09-10T10:19:00.015065+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d10eafb8a1944e4cb3ec92c0e1570e3c",
+        "time": "2015-09-10T10:09:00.016737+00:00"
+      },
+      "turn_1": {
+        "amount": 59500.0,
+        "bid_time": "2015-09-10T13:05:09.918217+03:00",
+        "bidder": "f875efc4dabb447d9d39fec633189f8f",
+        "time": "2015-09-10T10:07:00.031555+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d10eafb8a1944e4cb3ec92c0e1570e3c",
+          "amount": 59068.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://oreol-1.com.ua",
+                "faxNumber": "0444281679",
+                "telephone": "0444281679",
+                "name": "Козярівський Андрій Вікторович",
+                "email": "alex@oreol-1.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35675809",
+                "legalName": "ТОВ \"Виробничо-будівельна компанія \"Ореол-1\""
+              },
+              "name": "ТОВ \"Виробничо-будівельна компанія \"Ореол-1\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська",
+                "streetAddress": "Коноплянська, 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T13:17:38.464290+03:00"
+        },
+        {
+          "bidder": "f875efc4dabb447d9d39fec633189f8f",
+          "amount": 58876.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.energokomfort.com.ua",
+                "faxNumber": "0444577013",
+                "telephone": "0444576300",
+                "name": "Дзявун Леонід Іванович",
+                "email": "enkomfort@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32775216",
+                "legalName": "Приватне підприємство Енергокомфорт"
+              },
+              "name": "Приватне підприємство Енергокомфорт",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03056",
+                "region": "Київська",
+                "streetAddress": "пров. Ковальський, 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-10T13:19:20.858491+03:00"
+        }
+      ],
+      "time": "2015-09-10T10:21:11.442053+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-09T18:50:51.620602+03:00",
+          "amount": 61303.2,
+          "bidder": "f875efc4dabb447d9d39fec633189f8f"
+        },
+        {
+          "date": "2015-09-10T09:39:13.493751+03:00",
+          "amount": 60035.0,
+          "bidder": "d10eafb8a1944e4cb3ec92c0e1570e3c"
+        }
+      ],
+      "time": "2015-09-10T10:00:00.010348+00:00"
+    }
+  },
+  "id": "1d53b2e68e954fae9f96ee881e73a03b",
+  "tenderId": "UA-2015-09-02-000117"
+}

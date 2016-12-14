@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2b465aa392214a9ab53e1cc2a1d117dd",
+        "time": "2015-12-16T09:45:48.008892+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4c5e37c54c0445eb547ca660454de3f",
+        "time": "2015-12-16T09:43:48.012125+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7610.0,
+        "bid_time": "2015-12-16T11:50:15.690234+02:00",
+        "bidder": "2b465aa392214a9ab53e1cc2a1d117dd",
+        "time": "2015-12-16T09:51:48.013201+00:00"
+      },
+      "turn_1": {
+        "amount": 7620.0,
+        "bid_time": "2015-12-16T11:48:13.246101+02:00",
+        "bidder": "c4c5e37c54c0445eb547ca660454de3f",
+        "time": "2015-12-16T09:49:48.013887+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2b465aa392214a9ab53e1cc2a1d117dd",
+        "time": "2015-12-16T09:39:48.010884+00:00"
+      },
+      "turn_1": {
+        "bidder": "c4c5e37c54c0445eb547ca660454de3f",
+        "time": "2015-12-16T09:37:48.012141+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c4c5e37c54c0445eb547ca660454de3f",
+          "amount": 7620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vashimage.at.ua",
+                "telephone": "+380577561746",
+                "name": "Петров Вадим Володимирович",
+                "email": "vashimage@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37190898"
+              },
+              "name": "ТОВ ВАШІМІДЖ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська область",
+                "streetAddress": "Якіра, 3, кв.25",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-16T11:48:13.246101+02:00"
+        },
+        {
+          "bidder": "2b465aa392214a9ab53e1cc2a1d117dd",
+          "amount": 7610.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676142153",
+                "name": "Александр Львович Медведев",
+                "email": "ohrana_truda@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1863906538",
+                "legalName": "ФОП \"Медведев А.Л\""
+              },
+              "name": "ФОП \"Медведев А.Л\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69015",
+                "region": "Запорожская",
+                "streetAddress": "Генераторная 17 офис 2",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-12-16T11:50:15.690234+02:00"
+        }
+      ],
+      "time": "2015-12-16T09:51:49.756267+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T11:59:17.092304+02:00",
+          "amount": 8178.0,
+          "bidder": "c4c5e37c54c0445eb547ca660454de3f"
+        },
+        {
+          "date": "2015-12-14T10:56:07.179571+02:00",
+          "amount": 7750.0,
+          "bidder": "2b465aa392214a9ab53e1cc2a1d117dd"
+        }
+      ],
+      "time": "2015-12-16T09:30:48.004046+00:00"
+    }
+  },
+  "id": "6766c08dc753448aa6fc8005ae571e54",
+  "tenderId": "UA-2015-12-10-000168"
+}

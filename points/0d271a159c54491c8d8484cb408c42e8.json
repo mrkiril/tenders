@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d2d437d311384aa3a502f874cedf6e9b",
+        "time": "2015-09-24T10:45:00.045106+00:00"
+      },
+      "turn_1": {
+        "amount": 83500.0,
+        "bid_time": "2015-09-24T13:41:09.887445+03:00",
+        "bidder": "45b496507e01478d9debf2492ef56a2f",
+        "time": "2015-09-24T10:43:00.017345+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "45b496507e01478d9debf2492ef56a2f",
+        "time": "2015-09-24T10:51:00.044310+00:00"
+      },
+      "turn_1": {
+        "bidder": "d2d437d311384aa3a502f874cedf6e9b",
+        "time": "2015-09-24T10:49:00.027175+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d2d437d311384aa3a502f874cedf6e9b",
+        "time": "2015-09-24T10:39:00.019633+00:00"
+      },
+      "turn_1": {
+        "bidder": "45b496507e01478d9debf2492ef56a2f",
+        "time": "2015-09-24T10:37:00.027261+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d2d437d311384aa3a502f874cedf6e9b",
+          "amount": 85536.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-23T15:40:36.682288+03:00"
+        },
+        {
+          "bidder": "45b496507e01478d9debf2492ef56a2f",
+          "amount": 83500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-24T13:41:09.887445+03:00"
+        }
+      ],
+      "time": "2015-09-24T10:51:10.275624+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T14:17:30.203983+03:00",
+          "amount": 94000.0,
+          "bidder": "45b496507e01478d9debf2492ef56a2f"
+        },
+        {
+          "date": "2015-09-23T15:40:36.682288+03:00",
+          "amount": 85536.0,
+          "bidder": "d2d437d311384aa3a502f874cedf6e9b"
+        }
+      ],
+      "time": "2015-09-24T10:30:00.005953+00:00"
+    }
+  },
+  "id": "0d271a159c54491c8d8484cb408c42e8",
+  "tenderId": "UA-2015-09-17-000097"
+}

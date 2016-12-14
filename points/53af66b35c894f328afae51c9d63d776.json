@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "09ce50b992ba4b75a9be8f6a86a16883",
+        "time": "2015-10-09T11:51:02.006240+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f7193a74ca4b7aa1b3939811710cba",
+        "time": "2015-10-09T11:49:02.007835+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "09ce50b992ba4b75a9be8f6a86a16883",
+        "time": "2015-10-09T11:57:02.006435+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f7193a74ca4b7aa1b3939811710cba",
+        "time": "2015-10-09T11:55:02.010725+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "09ce50b992ba4b75a9be8f6a86a16883",
+        "time": "2015-10-09T11:45:02.007953+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f7193a74ca4b7aa1b3939811710cba",
+        "time": "2015-10-09T11:43:02.009558+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "01f7193a74ca4b7aa1b3939811710cba",
+          "amount": 2980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-04T00:39:51.578317+03:00"
+        },
+        {
+          "bidder": "09ce50b992ba4b75a9be8f6a86a16883",
+          "amount": 2950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-04T08:35:01.666653+03:00"
+        }
+      ],
+      "time": "2015-10-09T11:57:08.753797+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-04T00:39:51.578317+03:00",
+          "amount": 2980.0,
+          "bidder": "01f7193a74ca4b7aa1b3939811710cba"
+        },
+        {
+          "date": "2015-10-04T08:35:01.666653+03:00",
+          "amount": 2950.0,
+          "bidder": "09ce50b992ba4b75a9be8f6a86a16883"
+        }
+      ],
+      "time": "2015-10-09T11:36:02.003097+00:00"
+    }
+  },
+  "id": "53af66b35c894f328afae51c9d63d776",
+  "tenderId": "UA-2015-09-29-000243"
+}

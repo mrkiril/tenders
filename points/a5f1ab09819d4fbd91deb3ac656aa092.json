@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bfe3d18e3a334e1cad34141d3a5206de",
+        "time": "2015-07-23T08:47:00.013093+00:00"
+      },
+      "turn_3": {
+        "bidder": "4be2b25eee674742a3fe43191998a90e",
+        "time": "2015-07-23T08:49:00.030411+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cb2d9db27ed41b6b3e323f4bd34d863",
+        "time": "2015-07-23T08:45:00.032143+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bfe3d18e3a334e1cad34141d3a5206de",
+        "time": "2015-07-23T08:55:00.029269+00:00"
+      },
+      "turn_3": {
+        "bidder": "4be2b25eee674742a3fe43191998a90e",
+        "time": "2015-07-23T08:57:00.031936+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cb2d9db27ed41b6b3e323f4bd34d863",
+        "time": "2015-07-23T08:53:00.035759+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bfe3d18e3a334e1cad34141d3a5206de",
+        "time": "2015-07-23T08:39:00.037068+00:00"
+      },
+      "turn_3": {
+        "bidder": "4be2b25eee674742a3fe43191998a90e",
+        "time": "2015-07-23T08:41:00.030386+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cb2d9db27ed41b6b3e323f4bd34d863",
+        "time": "2015-07-23T08:37:00.029282+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7cb2d9db27ed41b6b3e323f4bd34d863",
+          "amount": 98986.78,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380432507727",
+                "name": "Товариство з обмеженою відповідальністю «Альфаметрік»",
+                "email": "info@alfametric.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36150592",
+                "legalName": "Товариство з обмеженою відповідальністю «Альфаметрік»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Альфаметрік»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "21021, Україна, м. Вінниця,\r\nпр-т. Юності 14А, оф.204",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-22T11:06:41.469963+03:00"
+        },
+        {
+          "bidder": "bfe3d18e3a334e1cad34141d3a5206de",
+          "amount": 97563.66,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-21T15:14:11.245395+03:00"
+        },
+        {
+          "bidder": "4be2b25eee674742a3fe43191998a90e",
+          "amount": 89000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.olmax.kiev.ua",
+                "telephone": "+380442391533",
+                "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+                "email": "bc@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998",
+                "legalName": "Товариство з обмеженою відповідальністю Олмакс Сістемс"
+              },
+              "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01011, г. Киев, ул. Рыбальская 2, оф 106",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-22T17:07:23.843845+03:00"
+        }
+      ],
+      "time": "2015-07-23T08:57:02.181372+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-22T11:06:41.469963+03:00",
+          "amount": 98986.78,
+          "bidder": "7cb2d9db27ed41b6b3e323f4bd34d863"
+        },
+        {
+          "date": "2015-07-21T15:14:11.245395+03:00",
+          "amount": 97563.66,
+          "bidder": "bfe3d18e3a334e1cad34141d3a5206de"
+        },
+        {
+          "date": "2015-07-22T17:07:23.843845+03:00",
+          "amount": 89000.0,
+          "bidder": "4be2b25eee674742a3fe43191998a90e"
+        }
+      ],
+      "time": "2015-07-23T08:30:00.008777+00:00"
+    }
+  },
+  "id": "a5f1ab09819d4fbd91deb3ac656aa092",
+  "tenderId": "UA-2015-07-16-000104"
+}

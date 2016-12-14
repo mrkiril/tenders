@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8df08c822ad244e08e3120a50a563fa5",
+        "time": "2015-04-21T08:45:00.156868+00:00"
+      },
+      "turn_1": {
+        "amount": 690.0,
+        "bid_time": "2015-04-21T11:41:35.624704+03:00",
+        "bidder": "dc247a4e60d645a39d132b125cd12bd8",
+        "time": "2015-04-21T08:43:00.025790+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dc247a4e60d645a39d132b125cd12bd8",
+        "time": "2015-04-21T08:51:00.024243+00:00"
+      },
+      "turn_1": {
+        "bidder": "8df08c822ad244e08e3120a50a563fa5",
+        "time": "2015-04-21T08:49:00.082704+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8df08c822ad244e08e3120a50a563fa5",
+        "time": "2015-04-21T08:39:00.074629+00:00"
+      },
+      "turn_1": {
+        "bidder": "dc247a4e60d645a39d132b125cd12bd8",
+        "time": "2015-04-21T08:37:00.029910+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8df08c822ad244e08e3120a50a563fa5",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-20T13:24:26.329862+03:00"
+        },
+        {
+          "bidder": "dc247a4e60d645a39d132b125cd12bd8",
+          "amount": 690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "tender1@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-04-21T11:41:35.624704+03:00"
+        }
+      ],
+      "time": "2015-04-21T08:51:01.270201+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-04-20T12:32:15.763713+03:00",
+          "amount": 700.0,
+          "bidder": "dc247a4e60d645a39d132b125cd12bd8"
+        },
+        {
+          "date": "2015-04-20T13:24:26.329862+03:00",
+          "amount": 700.0,
+          "bidder": "8df08c822ad244e08e3120a50a563fa5"
+        }
+      ],
+      "time": "2015-04-21T08:30:00.009002+00:00"
+    }
+  },
+  "id": "3e5867ac8fe546a98e7c7d4e73af49a0",
+  "tenderId": "UA-2015-04-14-000011"
+}

@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 237156.0,
+        "bid_time": "2015-10-01T14:53:06.263845+03:00",
+        "bidder": "1aaa5bf5513f4772953f847a9439396d",
+        "time": "2015-10-01T11:54:23.007495+00:00"
+      },
+      "turn_3": {
+        "amount": 237155.0,
+        "bid_time": "2015-10-01T14:55:34.448323+03:00",
+        "bidder": "8ac10feff83b481aa7a1950673b2bf34",
+        "time": "2015-10-01T11:56:23.007975+00:00"
+      },
+      "turn_1": {
+        "bidder": "6da94513cd8c4f33b07abf7fc955aa32",
+        "time": "2015-10-01T11:52:23.007201+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1aaa5bf5513f4772953f847a9439396d",
+        "time": "2015-10-01T12:02:23.012539+00:00"
+      },
+      "turn_3": {
+        "amount": 236405.0,
+        "bid_time": "2015-10-01T15:03:57.442916+03:00",
+        "bidder": "8ac10feff83b481aa7a1950673b2bf34",
+        "time": "2015-10-01T12:04:23.007035+00:00"
+      },
+      "turn_1": {
+        "bidder": "6da94513cd8c4f33b07abf7fc955aa32",
+        "time": "2015-10-01T12:00:23.006543+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 242311.0,
+        "bid_time": "2015-10-01T14:45:25.243966+03:00",
+        "bidder": "1aaa5bf5513f4772953f847a9439396d",
+        "time": "2015-10-01T11:46:23.016581+00:00"
+      },
+      "turn_3": {
+        "amount": 242165.0,
+        "bid_time": "2015-10-01T14:47:45.846352+03:00",
+        "bidder": "8ac10feff83b481aa7a1950673b2bf34",
+        "time": "2015-10-01T11:48:23.008025+00:00"
+      },
+      "turn_1": {
+        "bidder": "6da94513cd8c4f33b07abf7fc955aa32",
+        "time": "2015-10-01T11:44:23.006695+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6da94513cd8c4f33b07abf7fc955aa32",
+          "amount": 250206.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ukropol-ten.com.ua",
+                "telephone": "+380326625458",
+                "name": "Товариство з обмеженою відповідальністю \"Укрополь-ТЕН\"",
+                "email": "uten@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31755801",
+                "legalName": "Товариство з обмеженою відповідальністю \"Укрополь-ТЕН\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Укрополь-ТЕН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Чупринки, 6, м. Броди, Львівська обл., Україна, 80600",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-26T19:16:28.529525+03:00"
+        },
+        {
+          "bidder": "1aaa5bf5513f4772953f847a9439396d",
+          "amount": 237156.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443777849",
+                "name": "ООО \"ПРИВАТЭНЕРГО\"",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988",
+                "legalName": "ООО \"ПРИВАТЭНЕРГО\""
+              },
+              "name": "ООО \"ПРИВАТЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04205, Киев, пр-т Оболонский, 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T14:53:06.263845+03:00"
+        },
+        {
+          "bidder": "8ac10feff83b481aa7a1950673b2bf34",
+          "amount": 236405.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://rdim.ua/",
+                "telephone": "+380674454442",
+                "name": "ТОВ \"Розумний Дім\"",
+                "email": "andrii.verbitskyi@rozumdim.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34716461",
+                "legalName": "ТОВ \"Розумний Дім\""
+              },
+              "name": "ТОВ \"Розумний Дім\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, м.Київ, вул.Сирецька, 31",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T15:03:57.442916+03:00"
+        }
+      ],
+      "time": "2015-10-01T12:04:25.802045+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-26T19:16:28.529525+03:00",
+          "amount": 250206.0,
+          "bidder": "6da94513cd8c4f33b07abf7fc955aa32"
+        },
+        {
+          "date": "2015-09-25T15:40:49.615823+03:00",
+          "amount": 248523.0,
+          "bidder": "1aaa5bf5513f4772953f847a9439396d"
+        },
+        {
+          "date": "2015-09-28T17:24:54.648056+03:00",
+          "amount": 243062.6,
+          "bidder": "8ac10feff83b481aa7a1950673b2bf34"
+        }
+      ],
+      "time": "2015-10-01T11:37:23.003232+00:00"
+    }
+  },
+  "id": "2b04655c09cb4a7bb80e741370463c6b",
+  "tenderId": "UA-2015-09-17-000056"
+}

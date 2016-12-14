@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b25db160434a456fa58ba25d2eaf1125",
+        "time": "2015-07-13T09:45:00.046183+00:00"
+      },
+      "turn_1": {
+        "bidder": "54f625567f4c447f87f30d999212433c",
+        "time": "2015-07-13T09:43:00.012545+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b25db160434a456fa58ba25d2eaf1125",
+        "time": "2015-07-13T09:51:00.037660+00:00"
+      },
+      "turn_1": {
+        "bidder": "54f625567f4c447f87f30d999212433c",
+        "time": "2015-07-13T09:49:00.019916+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b25db160434a456fa58ba25d2eaf1125",
+        "time": "2015-07-13T09:39:00.016887+00:00"
+      },
+      "turn_1": {
+        "bidder": "54f625567f4c447f87f30d999212433c",
+        "time": "2015-07-13T09:37:00.028084+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "54f625567f4c447f87f30d999212433c",
+          "amount": 4032.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679050905",
+                "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+                "email": "entikon.pp@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33439979",
+                "legalName": "Приватне підприємство \"ЕН-ТІКОН\""
+              },
+              "name": "Приватне підприємство \"ЕН-ТІКОН\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03056 м.Київ,вул.Борщагівська 117,к.234",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-10T10:37:54.466908+03:00"
+        },
+        {
+          "bidder": "b25db160434a456fa58ba25d2eaf1125",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://debut.ua/",
+                "faxNumber": "3900393",
+                "telephone": "0990725005",
+                "name": "ТОВ\"Дебют-Центр\"",
+                "email": "zhukovskayadebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "ТОВ\"Дебют-Центр\""
+              },
+              "name": "ТОВ\"Дебют-Центр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська",
+                "streetAddress": "Чапаєва",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T12:21:28.921096+03:00"
+        }
+      ],
+      "time": "2015-07-13T09:51:04.271429+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-10T10:37:54.466908+03:00",
+          "amount": 4032.0,
+          "bidder": "54f625567f4c447f87f30d999212433c"
+        },
+        {
+          "date": "2015-07-09T12:21:28.921096+03:00",
+          "amount": 3500.0,
+          "bidder": "b25db160434a456fa58ba25d2eaf1125"
+        }
+      ],
+      "time": "2015-07-13T09:30:00.004904+00:00"
+    }
+  },
+  "id": "18c22b6009dc4215b12c16d6be20a559",
+  "tenderId": "UA-2015-07-08-000041"
+}

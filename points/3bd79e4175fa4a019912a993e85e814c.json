@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "403ae8afaba9463e99acff3c4f7196bb",
+        "time": "2015-12-08T12:23:54.008405+00:00"
+      },
+      "turn_1": {
+        "bidder": "f85229e6699743ec8dee9c437e2ed53e",
+        "time": "2015-12-08T12:21:54.008981+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "403ae8afaba9463e99acff3c4f7196bb",
+        "time": "2015-12-08T12:29:54.008175+00:00"
+      },
+      "turn_1": {
+        "amount": 64650.0,
+        "bid_time": "2015-12-08T14:26:03.144098+02:00",
+        "bidder": "f85229e6699743ec8dee9c437e2ed53e",
+        "time": "2015-12-08T12:27:54.007556+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 68399.0,
+        "bid_time": "2015-12-08T14:16:41.715884+02:00",
+        "bidder": "403ae8afaba9463e99acff3c4f7196bb",
+        "time": "2015-12-08T12:17:54.009935+00:00"
+      },
+      "turn_1": {
+        "amount": 68400.0,
+        "bid_time": "2015-12-08T14:14:47.812524+02:00",
+        "bidder": "f85229e6699743ec8dee9c437e2ed53e",
+        "time": "2015-12-08T12:15:54.008737+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "403ae8afaba9463e99acff3c4f7196bb",
+          "amount": 68399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993244234, +380967979099",
+                "name": "Роман Кужель",
+                "email": "info@b24.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38948878 ",
+                "legalName": "ТОВ \"МАРО ПЛЮС \""
+              },
+              "name": "ТОВ \"МАРО ПЛЮС \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03115",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Феодори Пушиної 8а, оф. 102",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:16:41.715884+02:00"
+        },
+        {
+          "bidder": "f85229e6699743ec8dee9c437e2ed53e",
+          "amount": 64650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380322474247",
+                "name": "ТзОВ “РС ПЛЮС”",
+                "email": "rsplus@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39699975",
+                "legalName": "ТзОВ “РС ПЛЮС”"
+              },
+              "name": "ТзОВ “РС ПЛЮС”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Чечета 14, кв. 1, м. Львів, 79055",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T14:26:03.144098+02:00"
+        }
+      ],
+      "time": "2015-12-08T12:29:56.192286+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T15:57:33.623810+02:00",
+          "amount": 75000.0,
+          "bidder": "f85229e6699743ec8dee9c437e2ed53e"
+        },
+        {
+          "date": "2015-12-07T16:15:10.545617+02:00",
+          "amount": 73860.0,
+          "bidder": "403ae8afaba9463e99acff3c4f7196bb"
+        }
+      ],
+      "time": "2015-12-08T12:08:54.004665+00:00"
+    }
+  },
+  "id": "3bd79e4175fa4a019912a993e85e814c",
+  "tenderId": "UA-2015-12-02-000036"
+}

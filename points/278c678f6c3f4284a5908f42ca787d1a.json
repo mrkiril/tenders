@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f7a04101a56b497a9dac27a3f369680b",
+        "time": "2015-12-01T12:50:01.008264+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbd27377e486434da60f6e8fdafe0116",
+        "time": "2015-12-01T12:48:01.007363+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f7a04101a56b497a9dac27a3f369680b",
+        "time": "2015-12-01T12:56:01.008032+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbd27377e486434da60f6e8fdafe0116",
+        "time": "2015-12-01T12:54:01.007432+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f7a04101a56b497a9dac27a3f369680b",
+        "time": "2015-12-01T12:44:01.007197+00:00"
+      },
+      "turn_1": {
+        "bidder": "dbd27377e486434da60f6e8fdafe0116",
+        "time": "2015-12-01T12:42:01.023875+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dbd27377e486434da60f6e8fdafe0116",
+          "amount": 115494.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T19:53:56.291537+02:00"
+        },
+        {
+          "bidder": "f7a04101a56b497a9dac27a3f369680b",
+          "amount": 95925.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380636188564",
+                "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+                "email": "elena.musienko@it-solutions.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38239436",
+                "legalName": "ТОВ \"АЙТІ-СОЛЮШНС\""
+              },
+              "name": "ТОВ \"АЙТІ-СОЛЮШНС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01004, м. Київ, \r\n\r\nвул. Крутий Узвіз, буд. 6/2А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T16:45:33.912157+02:00"
+        }
+      ],
+      "time": "2015-12-01T12:56:02.683854+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T19:53:56.291537+02:00",
+          "amount": 115494.9,
+          "bidder": "dbd27377e486434da60f6e8fdafe0116"
+        },
+        {
+          "date": "2015-11-30T16:45:33.912157+02:00",
+          "amount": 95925.5,
+          "bidder": "f7a04101a56b497a9dac27a3f369680b"
+        }
+      ],
+      "time": "2015-12-01T12:35:01.003749+00:00"
+    }
+  },
+  "id": "278c678f6c3f4284a5908f42ca787d1a",
+  "tenderId": "UA-2015-11-24-000020-b"
+}

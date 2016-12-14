@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "cc9a5cbe69d443cc9f817680db9b9bea",
+        "time": "2015-12-07T10:59:31.007891+00:00"
+      },
+      "turn_1": {
+        "bidder": "148b43a689dc40919974d97d788f3605",
+        "time": "2015-12-07T10:57:31.008144+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "cc9a5cbe69d443cc9f817680db9b9bea",
+        "time": "2015-12-07T11:05:31.007279+00:00"
+      },
+      "turn_1": {
+        "bidder": "148b43a689dc40919974d97d788f3605",
+        "time": "2015-12-07T11:03:31.025868+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "148b43a689dc40919974d97d788f3605",
+        "time": "2015-12-07T10:53:31.007756+00:00"
+      },
+      "turn_1": {
+        "amount": 950000.0,
+        "bid_time": "2015-12-07T12:51:01.793805+02:00",
+        "bidder": "cc9a5cbe69d443cc9f817680db9b9bea",
+        "time": "2015-12-07T10:51:31.009461+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "148b43a689dc40919974d97d788f3605",
+          "amount": 951500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38096 227-02-65",
+                "name": "Виктор Русак",
+                "email": "evgeniya.tsygankova@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38651382",
+                "legalName": "ТОВ \"Е-ЛАЙТ\""
+              },
+              "name": "ТОВ \"Е-ЛАЙТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01133",
+                "region": "",
+                "streetAddress": "Бульвар Леси Украинки, 26",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T11:34:10.126813+02:00"
+        },
+        {
+          "bidder": "cc9a5cbe69d443cc9f817680db9b9bea",
+          "amount": 950000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380931065553",
+                "name": "Сергій Петров",
+                "email": "info@qubit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39389872",
+                "legalName": "ТОВ \"Кубит\""
+              },
+              "name": "ТОВ \"Кубит\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02095",
+                "region": "Киевская",
+                "streetAddress": "Княжий Затон",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-07T12:51:01.793805+02:00"
+        }
+      ],
+      "time": "2015-12-07T11:05:32.611684+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T17:11:37.942914+02:00",
+          "amount": 953000.0,
+          "bidder": "cc9a5cbe69d443cc9f817680db9b9bea"
+        },
+        {
+          "date": "2015-12-04T11:34:10.126813+02:00",
+          "amount": 951500.0,
+          "bidder": "148b43a689dc40919974d97d788f3605"
+        }
+      ],
+      "time": "2015-12-07T10:44:31.003650+00:00"
+    }
+  },
+  "id": "3f133606c3bb4c0498b225a3b3752e97",
+  "tenderId": "UA-2015-11-21-000002-b"
+}

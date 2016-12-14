@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9d83e36f061344eda5aded8a8e5bd974",
+        "time": "2015-11-10T10:50:35.009293+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cef2260962c4edd86df4455e23139e8",
+        "time": "2015-11-10T10:48:35.009484+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9d83e36f061344eda5aded8a8e5bd974",
+        "time": "2015-11-10T10:56:35.008767+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cef2260962c4edd86df4455e23139e8",
+        "time": "2015-11-10T10:54:35.008005+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9d83e36f061344eda5aded8a8e5bd974",
+        "time": "2015-11-10T10:44:35.008470+00:00"
+      },
+      "turn_1": {
+        "bidder": "7cef2260962c4edd86df4455e23139e8",
+        "time": "2015-11-10T10:42:35.009952+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7cef2260962c4edd86df4455e23139e8",
+          "amount": 99000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://masterlift.com.ua",
+                "faxNumber": "498-43-32",
+                "telephone": "498-43-32",
+                "name": "Бондар Вячєслав Іванович",
+                "email": "v.i.bondar@masterlift.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33308688",
+                "legalName": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "провулок Куренівський, 17, літера Ш",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-09T09:11:43.945412+02:00"
+        },
+        {
+          "bidder": "9d83e36f061344eda5aded8a8e5bd974",
+          "amount": 57528.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935278966",
+                "name": "Лариса Горбовая",
+                "email": "gorbovayal@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "14357579",
+                "legalName": "ПрАТ \"ОТИС\""
+              },
+              "name": "ПрАТ \"ОТИС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Чистяковская, 32",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-08T22:05:04.243906+02:00"
+        }
+      ],
+      "time": "2015-11-10T10:56:36.579437+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T09:11:43.945412+02:00",
+          "amount": 99000.0,
+          "bidder": "7cef2260962c4edd86df4455e23139e8"
+        },
+        {
+          "date": "2015-11-08T22:05:04.243906+02:00",
+          "amount": 57528.0,
+          "bidder": "9d83e36f061344eda5aded8a8e5bd974"
+        }
+      ],
+      "time": "2015-11-10T10:35:35.004129+00:00"
+    }
+  },
+  "id": "2869a170e39e42ae9aa318cd06362dfe",
+  "tenderId": "UA-2015-11-04-000029"
+}

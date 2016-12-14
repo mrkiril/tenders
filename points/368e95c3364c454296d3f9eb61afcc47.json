@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "266d3c95aab04bee94351f99583419aa",
+        "time": "2015-11-18T09:21:57.008899+00:00"
+      },
+      "turn_3": {
+        "bidder": "de2224fa5d3e4a9593beddfd992913bf",
+        "time": "2015-11-18T09:23:57.007606+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3933c5faf8847cfb796c8a64257f05f",
+        "time": "2015-11-18T09:19:57.008644+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 24528.0,
+        "bid_time": "2015-11-18T11:29:31.600931+02:00",
+        "bidder": "266d3c95aab04bee94351f99583419aa",
+        "time": "2015-11-18T09:29:57.009469+00:00"
+      },
+      "turn_3": {
+        "bidder": "de2224fa5d3e4a9593beddfd992913bf",
+        "time": "2015-11-18T09:31:57.021981+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3933c5faf8847cfb796c8a64257f05f",
+        "time": "2015-11-18T09:27:57.007727+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "266d3c95aab04bee94351f99583419aa",
+        "time": "2015-11-18T09:13:57.008500+00:00"
+      },
+      "turn_3": {
+        "bidder": "de2224fa5d3e4a9593beddfd992913bf",
+        "time": "2015-11-18T09:15:57.008098+00:00"
+      },
+      "turn_1": {
+        "bidder": "c3933c5faf8847cfb796c8a64257f05f",
+        "time": "2015-11-18T09:11:57.010556+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c3933c5faf8847cfb796c8a64257f05f",
+          "amount": 25597.92,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uaz-upi.com",
+                "telephone": "+380443905678",
+                "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+                "email": "Popovich@uaz-upi.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33541399",
+                "legalName": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\""
+              },
+              "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Горлівська 226/228",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-13T10:02:41.560367+02:00"
+        },
+        {
+          "bidder": "de2224fa5d3e4a9593beddfd992913bf",
+          "amount": 24800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T11:33:23.251192+02:00"
+        },
+        {
+          "bidder": "266d3c95aab04bee94351f99583419aa",
+          "amount": 24528.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444045009, +380444962891, +380444962892",
+                "name": "Александр Мирошник",
+                "email": "semp@i.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13688676",
+                "legalName": "ТОВ \"СЕМП\""
+              },
+              "name": "ТОВ \"СЕМП\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "03680, Київ, вул. Виборзька 111",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T11:29:31.600931+02:00"
+        }
+      ],
+      "time": "2015-11-18T09:31:59.110736+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T10:02:41.560367+02:00",
+          "amount": 25597.92,
+          "bidder": "c3933c5faf8847cfb796c8a64257f05f"
+        },
+        {
+          "date": "2015-11-16T20:22:43.588725+02:00",
+          "amount": 25300.0,
+          "bidder": "266d3c95aab04bee94351f99583419aa"
+        },
+        {
+          "date": "2015-11-17T11:33:23.251192+02:00",
+          "amount": 24800.0,
+          "bidder": "de2224fa5d3e4a9593beddfd992913bf"
+        }
+      ],
+      "time": "2015-11-18T09:04:57.004554+00:00"
+    }
+  },
+  "id": "368e95c3364c454296d3f9eb61afcc47",
+  "tenderId": "UA-2015-11-06-000102-a"
+}

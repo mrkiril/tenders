@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9a271e2217c84c73a5aeb631fe545092",
+        "time": "2015-07-29T08:17:00.085219+00:00"
+      },
+      "turn_3": {
+        "bidder": "fced91bcdceb4ff08d00decafd1b527c",
+        "time": "2015-07-29T08:19:00.098718+00:00"
+      },
+      "turn_1": {
+        "bidder": "defbc0b25b4f42759e17521f6950b81c",
+        "time": "2015-07-29T08:15:00.095322+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 207060.0,
+        "bid_time": "2015-07-29T11:23:18.345967+03:00",
+        "bidder": "9a271e2217c84c73a5aeb631fe545092",
+        "time": "2015-07-29T08:25:00.052903+00:00"
+      },
+      "turn_3": {
+        "amount": 207000.0,
+        "bid_time": "2015-07-29T11:26:40.751928+03:00",
+        "bidder": "fced91bcdceb4ff08d00decafd1b527c",
+        "time": "2015-07-29T08:27:00.083416+00:00"
+      },
+      "turn_1": {
+        "bidder": "defbc0b25b4f42759e17521f6950b81c",
+        "time": "2015-07-29T08:23:00.093755+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9a271e2217c84c73a5aeb631fe545092",
+        "time": "2015-07-29T08:09:00.115276+00:00"
+      },
+      "turn_3": {
+        "bidder": "fced91bcdceb4ff08d00decafd1b527c",
+        "time": "2015-07-29T08:11:00.100774+00:00"
+      },
+      "turn_1": {
+        "bidder": "defbc0b25b4f42759e17521f6950b81c",
+        "time": "2015-07-29T08:07:00.073340+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "defbc0b25b4f42759e17521f6950b81c",
+          "amount": 262440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.budmag.com.ua",
+                "faxNumber": "+380445937570",
+                "telephone": "+380504423467",
+                "name": "Дідик Сергій Олексійович",
+                "email": "sdidyk@budmag.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37146545"
+              },
+              "name": "ТОВ ТБК БМ-Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04111",
+                "region": "Київська область",
+                "streetAddress": "вул. Щербакова , 53",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-07-27T18:36:33.712121+03:00"
+        },
+        {
+          "bidder": "9a271e2217c84c73a5aeb631fe545092",
+          "amount": 207060.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.contractpol.com.ua",
+                "faxNumber": "+380444943361",
+                "telephone": "+380962030897",
+                "name": "Кривошея Руслан Володимирович",
+                "email": "krv1410@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38891979"
+              },
+              "name": "ТОВ ТОВ «ТБК Атлант»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02166",
+                "region": "Київська область",
+                "streetAddress": "проспект Лісовий 41,кім. 200",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-07-29T11:23:18.345967+03:00"
+        },
+        {
+          "bidder": "fced91bcdceb4ff08d00decafd1b527c",
+          "amount": 207000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gradex.ua",
+                "faxNumber": "044-492-04-04",
+                "telephone": "044-492-04-04",
+                "name": "Павлик Олександр Григорович",
+                "email": "ls@groupbmi.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25196079",
+                "legalName": "Товариство з обмеженою відповідальністю \"ГРАДЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ГРАДЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська",
+                "streetAddress": "Автопаркова, б.7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T11:26:40.751928+03:00"
+        }
+      ],
+      "time": "2015-07-29T08:27:06.517159+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T18:36:33.712121+03:00",
+          "amount": 262440.0,
+          "bidder": "defbc0b25b4f42759e17521f6950b81c"
+        },
+        {
+          "date": "2015-07-24T16:13:55.153324+03:00",
+          "amount": 251460.0,
+          "bidder": "9a271e2217c84c73a5aeb631fe545092"
+        },
+        {
+          "date": "2015-07-27T14:16:24.810816+03:00",
+          "amount": 234000.0,
+          "bidder": "fced91bcdceb4ff08d00decafd1b527c"
+        }
+      ],
+      "time": "2015-07-29T08:00:00.053554+00:00"
+    }
+  },
+  "id": "41d165b05bc04fc1a009f855b1f24ab7",
+  "tenderId": "UA-2015-07-22-000043"
+}

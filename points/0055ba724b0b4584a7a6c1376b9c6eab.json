@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d188b51ca5a448428a31f0daeb5c89a1",
+        "time": "2015-11-20T12:52:09.009423+00:00"
+      },
+      "turn_1": {
+        "bidder": "9606a6c3757a4c3c81d56c921808d1ba",
+        "time": "2015-11-20T12:50:09.020407+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d188b51ca5a448428a31f0daeb5c89a1",
+        "time": "2015-11-20T12:58:09.007419+00:00"
+      },
+      "turn_1": {
+        "bidder": "9606a6c3757a4c3c81d56c921808d1ba",
+        "time": "2015-11-20T12:56:09.008390+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d188b51ca5a448428a31f0daeb5c89a1",
+        "time": "2015-11-20T12:46:09.019899+00:00"
+      },
+      "turn_1": {
+        "bidder": "9606a6c3757a4c3c81d56c921808d1ba",
+        "time": "2015-11-20T12:44:09.010692+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9606a6c3757a4c3c81d56c921808d1ba",
+          "amount": 1944.01,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T09:44:47.565391+02:00"
+        },
+        {
+          "bidder": "d188b51ca5a448428a31f0daeb5c89a1",
+          "amount": 1673.17,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444532077",
+                "telephone": "+380444532007",
+                "name": "Черниш Наталія Михайлівна",
+                "email": "novamed@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30578379"
+              },
+              "name": "ТОВ Нова",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська область",
+                "streetAddress": "м.Київ, вул.Вибозька, буд.91а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T10:52:34.539205+02:00"
+        }
+      ],
+      "time": "2015-11-20T12:58:12.384307+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T09:44:47.565391+02:00",
+          "amount": 1944.01,
+          "bidder": "9606a6c3757a4c3c81d56c921808d1ba"
+        },
+        {
+          "date": "2015-11-18T10:52:34.539205+02:00",
+          "amount": 1673.17,
+          "bidder": "d188b51ca5a448428a31f0daeb5c89a1"
+        }
+      ],
+      "time": "2015-11-20T12:37:09.004663+00:00"
+    }
+  },
+  "id": "0055ba724b0b4584a7a6c1376b9c6eab",
+  "tenderId": "UA-2015-11-13-000096-b"
+}

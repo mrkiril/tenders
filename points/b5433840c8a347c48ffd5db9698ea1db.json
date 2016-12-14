@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "25a8b1df076a4452839d256cff73da94",
+        "time": "2015-08-04T08:15:00.125087+00:00"
+      },
+      "turn_1": {
+        "bidder": "39ace13fd6ee48d28ea4593bfd9c9cfa",
+        "time": "2015-08-04T08:13:00.110204+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "25a8b1df076a4452839d256cff73da94",
+        "time": "2015-08-04T08:21:00.035383+00:00"
+      },
+      "turn_1": {
+        "bidder": "39ace13fd6ee48d28ea4593bfd9c9cfa",
+        "time": "2015-08-04T08:19:00.088529+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "39ace13fd6ee48d28ea4593bfd9c9cfa",
+        "time": "2015-08-04T08:09:00.127108+00:00"
+      },
+      "turn_1": {
+        "amount": 25400.0,
+        "bid_time": "2015-08-04T11:05:23.231792+03:00",
+        "bidder": "25a8b1df076a4452839d256cff73da94",
+        "time": "2015-08-04T08:07:00.078534+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "39ace13fd6ee48d28ea4593bfd9c9cfa",
+          "amount": 26000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800563737905",
+                "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+                "email": "exe2013@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38837068",
+                "legalName": "Товариство з обмеженою відповідальністю \"Експерт Енерго\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Каштанова, буд. 11-Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T09:33:28.783397+03:00"
+        },
+        {
+          "bidder": "25a8b1df076a4452839d256cff73da94",
+          "amount": 25400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T11:05:23.231792+03:00"
+        }
+      ],
+      "time": "2015-08-04T08:21:06.961096+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-03T13:20:15.089181+03:00",
+          "amount": 27500.0,
+          "bidder": "25a8b1df076a4452839d256cff73da94"
+        },
+        {
+          "date": "2015-08-03T09:33:28.783397+03:00",
+          "amount": 26000.0,
+          "bidder": "39ace13fd6ee48d28ea4593bfd9c9cfa"
+        }
+      ],
+      "time": "2015-08-04T08:00:00.006709+00:00"
+    }
+  },
+  "id": "b5433840c8a347c48ffd5db9698ea1db",
+  "tenderId": "UA-2015-07-22-000056"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c50896404da14a0cb79e519301174165",
+        "time": "2015-09-09T10:15:00.050800+00:00"
+      },
+      "turn_1": {
+        "bidder": "1e3c8ef8bc5b431ab54a0b2af47bc1de",
+        "time": "2015-09-09T10:13:00.021883+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c50896404da14a0cb79e519301174165",
+        "time": "2015-09-09T10:21:00.024176+00:00"
+      },
+      "turn_1": {
+        "amount": 37055.0,
+        "bid_time": "2015-09-09T13:18:50.790109+03:00",
+        "bidder": "1e3c8ef8bc5b431ab54a0b2af47bc1de",
+        "time": "2015-09-09T10:19:00.018023+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c50896404da14a0cb79e519301174165",
+        "time": "2015-09-09T10:09:00.041822+00:00"
+      },
+      "turn_1": {
+        "bidder": "1e3c8ef8bc5b431ab54a0b2af47bc1de",
+        "time": "2015-09-09T10:07:00.027909+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c50896404da14a0cb79e519301174165",
+          "amount": 39751.15,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": ""
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-09-07T17:08:38.358252+03:00"
+        },
+        {
+          "bidder": "1e3c8ef8bc5b431ab54a0b2af47bc1de",
+          "amount": 37055.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-09T13:18:50.790109+03:00"
+        }
+      ],
+      "time": "2015-09-09T10:21:00.790651+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T17:20:41.213768+03:00",
+          "amount": 39914.07,
+          "bidder": "1e3c8ef8bc5b431ab54a0b2af47bc1de"
+        },
+        {
+          "date": "2015-09-07T17:08:38.358252+03:00",
+          "amount": 39751.15,
+          "bidder": "c50896404da14a0cb79e519301174165"
+        }
+      ],
+      "time": "2015-09-09T10:00:00.002704+00:00"
+    }
+  },
+  "id": "26ae07bd86c344469d9229eea64fbf63",
+  "tenderId": "UA-2015-09-01-000054"
+}

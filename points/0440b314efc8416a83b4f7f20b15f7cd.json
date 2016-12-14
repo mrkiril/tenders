@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ccef5779ce224ccb843fda8e20f0529c",
+        "time": "2015-11-19T13:16:51.010863+00:00"
+      },
+      "turn_1": {
+        "bidder": "d4c23d01c04347a3ba105c21a228960e",
+        "time": "2015-11-19T13:14:51.009558+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ccef5779ce224ccb843fda8e20f0529c",
+        "time": "2015-11-19T13:22:51.009605+00:00"
+      },
+      "turn_1": {
+        "bidder": "d4c23d01c04347a3ba105c21a228960e",
+        "time": "2015-11-19T13:20:51.009760+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ccef5779ce224ccb843fda8e20f0529c",
+        "time": "2015-11-19T13:10:51.008332+00:00"
+      },
+      "turn_1": {
+        "bidder": "d4c23d01c04347a3ba105c21a228960e",
+        "time": "2015-11-19T13:08:51.009692+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d4c23d01c04347a3ba105c21a228960e",
+          "amount": 98020.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577780700",
+                "telephone": "+380675703602",
+                "name": "ХЛХАТЯН КАРЕН РОБЕРТОВИЧ",
+                "email": "armana@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32337440"
+              },
+              "name": "ПП АРМАНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61171",
+                "region": "Харківська область",
+                "streetAddress": "ВУЛИЦЯ КОРЧАГІНЦІВ, будинок 3",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-18T08:44:40.543815+02:00"
+        },
+        {
+          "bidder": "ccef5779ce224ccb843fda8e20f0529c",
+          "amount": 97510.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577283053",
+                "telephone": "+380577283044",
+                "name": "ГОНЧАРЕНКА ОЛЕГ ВОЛОДИМИРОВИЧ",
+                "email": "impuls1111@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34390588"
+              },
+              "name": "ТОВ ВОСТОКВНЕШТОРГ СТАЛЬСЕРВІС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська область",
+                "streetAddress": "МАЙДАН ПОВСТАННЯ, будинок 7/8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-18T09:24:59.392269+02:00"
+        }
+      ],
+      "time": "2015-11-19T13:22:53.296342+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T08:44:40.543815+02:00",
+          "amount": 98020.0,
+          "bidder": "d4c23d01c04347a3ba105c21a228960e"
+        },
+        {
+          "date": "2015-11-18T09:24:59.392269+02:00",
+          "amount": 97510.0,
+          "bidder": "ccef5779ce224ccb843fda8e20f0529c"
+        }
+      ],
+      "time": "2015-11-19T13:01:51.005700+00:00"
+    }
+  },
+  "id": "0440b314efc8416a83b4f7f20b15f7cd",
+  "tenderId": "UA-2015-11-09-000130"
+}

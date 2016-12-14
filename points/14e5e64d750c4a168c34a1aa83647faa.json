@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e5282aae19f64173aa8a1230de448484",
+        "time": "2015-11-19T13:52:09.013786+00:00"
+      },
+      "turn_1": {
+        "bidder": "3a4bf15684fb40d6836e5332601d3158",
+        "time": "2015-11-19T13:50:09.024823+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e5282aae19f64173aa8a1230de448484",
+        "time": "2015-11-19T13:58:09.011574+00:00"
+      },
+      "turn_1": {
+        "bidder": "3a4bf15684fb40d6836e5332601d3158",
+        "time": "2015-11-19T13:56:09.010178+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e5282aae19f64173aa8a1230de448484",
+        "time": "2015-11-19T13:46:09.011611+00:00"
+      },
+      "turn_1": {
+        "bidder": "3a4bf15684fb40d6836e5332601d3158",
+        "time": "2015-11-19T13:44:09.009831+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3a4bf15684fb40d6836e5332601d3158",
+          "amount": 352725.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.eurosvyaz.com.ua",
+                "telephone": "+380577142172",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»",
+                "email": "mtv@eurosvyaz.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33119083",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ЄВРОЗВ’ЯЗОК»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61204, м. Харків, вул. Ахсарова 13, кв. 398",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T13:31:31.924960+02:00"
+        },
+        {
+          "bidder": "e5282aae19f64173aa8a1230de448484",
+          "amount": 351669.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380482374896, +380482495057, +380487196019",
+                "name": "Петр",
+                "email": "petr@alphatelecom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ООО \"АЛЬФАТЕЛЕКОМ\"",
+                "id": "37109613",
+                "uri": "http://www.alphatelecom.com.ua"
+              },
+              "name": "ООО \"АЛЬФАТЕЛЕКОМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "68000",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Ильичевск"
+              }
+            }
+          ],
+          "time": "2015-11-17T11:51:50.677614+02:00"
+        }
+      ],
+      "time": "2015-11-19T13:58:11.181301+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T13:31:31.924960+02:00",
+          "amount": 352725.0,
+          "bidder": "3a4bf15684fb40d6836e5332601d3158"
+        },
+        {
+          "date": "2015-11-17T11:51:50.677614+02:00",
+          "amount": 351669.0,
+          "bidder": "e5282aae19f64173aa8a1230de448484"
+        }
+      ],
+      "time": "2015-11-19T13:37:09.004061+00:00"
+    }
+  },
+  "id": "14e5e64d750c4a168c34a1aa83647faa",
+  "tenderId": "UA-2015-11-06-000062"
+}

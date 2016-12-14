@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7daed76edc7e4e349e476ded5486c7b7",
+        "time": "2015-12-09T13:48:06.008571+00:00"
+      },
+      "turn_3": {
+        "bidder": "077e59ede952400badeb68f63f4539a0",
+        "time": "2015-12-09T13:50:06.010651+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0c6b91320ed48a9a82c29eac027323a",
+        "time": "2015-12-09T13:46:06.008677+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4300.0,
+        "bid_time": "2015-12-09T15:55:46.958533+02:00",
+        "bidder": "7daed76edc7e4e349e476ded5486c7b7",
+        "time": "2015-12-09T13:56:06.010463+00:00"
+      },
+      "turn_3": {
+        "bidder": "077e59ede952400badeb68f63f4539a0",
+        "time": "2015-12-09T13:58:06.007777+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0c6b91320ed48a9a82c29eac027323a",
+        "time": "2015-12-09T13:54:06.007924+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4355.0,
+        "bid_time": "2015-12-09T15:38:26.542739+02:00",
+        "bidder": "077e59ede952400badeb68f63f4539a0",
+        "time": "2015-12-09T13:40:06.010661+00:00"
+      },
+      "turn_3": {
+        "bidder": "7daed76edc7e4e349e476ded5486c7b7",
+        "time": "2015-12-09T13:42:06.008391+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0c6b91320ed48a9a82c29eac027323a",
+        "time": "2015-12-09T13:38:06.008861+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e0c6b91320ed48a9a82c29eac027323a",
+          "amount": 4600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sdms.prom.ua/",
+                "telephone": "+380577525946",
+                "name": "Приватне підприємство \"Будшляхмашсервіс\"",
+                "email": "sir.zarudnij@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21184346",
+                "legalName": "Приватне підприємство \"Будшляхмашсервіс\""
+              },
+              "name": "Приватне підприємство \"Будшляхмашсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61045, м. Харків, вул.23 Серпня 1 кв.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T14:59:48.902553+02:00"
+        },
+        {
+          "bidder": "077e59ede952400badeb68f63f4539a0",
+          "amount": 4355.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uaz-upi.com",
+                "telephone": "+380443905678",
+                "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+                "email": "Popovich@uaz-upi.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33541399",
+                "legalName": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\""
+              },
+              "name": "Третя Київська філія Товариства з обмеженою відповідальністю \"УКРАВТОЗАПЧАСТИНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Горлівська 226/228",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T15:38:26.542739+02:00"
+        },
+        {
+          "bidder": "7daed76edc7e4e349e476ded5486c7b7",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380685236777",
+                "name": "Юрий",
+                "email": "specstarter@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39929699",
+                "legalName": "ТОВ \"СПЕЦСТАРТЕР\""
+              },
+              "name": "ТОВ \"СПЕЦСТАРТЕР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03138",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:55:46.958533+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:58:08.880417+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T11:09:06.996149+02:00",
+          "amount": 4600.0,
+          "bidder": "077e59ede952400badeb68f63f4539a0"
+        },
+        {
+          "date": "2015-12-08T14:59:48.902553+02:00",
+          "amount": 4600.0,
+          "bidder": "e0c6b91320ed48a9a82c29eac027323a"
+        },
+        {
+          "date": "2015-12-07T10:35:01.508765+02:00",
+          "amount": 4450.0,
+          "bidder": "7daed76edc7e4e349e476ded5486c7b7"
+        }
+      ],
+      "time": "2015-12-09T13:31:06.004113+00:00"
+    }
+  },
+  "id": "0cdf61e4638c4e62bfe0f86747bdadcd",
+  "tenderId": "UA-2015-12-01-000233-a"
+}

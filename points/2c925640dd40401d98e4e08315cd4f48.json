@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a44d876c712c43388e042a2aae2604d7",
+        "time": "2015-06-11T08:15:00.564894+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4ba51f587341fd823686335cbf894b",
+        "time": "2015-06-11T08:13:00.491327+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a44d876c712c43388e042a2aae2604d7",
+        "time": "2015-06-11T08:21:00.980295+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4ba51f587341fd823686335cbf894b",
+        "time": "2015-06-11T08:19:00.693500+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a44d876c712c43388e042a2aae2604d7",
+        "time": "2015-06-11T08:09:00.596613+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4ba51f587341fd823686335cbf894b",
+        "time": "2015-06-11T08:07:00.234714+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fa4ba51f587341fd823686335cbf894b",
+          "amount": 10342.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667072932",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА",
+                "email": "tovdumka@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32862434",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69063, м.Запоріжжя, вул.Радянська, 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-09T11:21:48.841255+03:00"
+        },
+        {
+          "bidder": "a44d876c712c43388e042a2aae2604d7",
+          "amount": 10233.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://azov-arsenal.com.ua/",
+                "faxNumber": "0629411560",
+                "telephone": "0629410816",
+                "name": "ПП \"Азов-Арсенал\"",
+                "email": "alexey.dyachenko@azov-arsenal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32320793",
+                "legalName": "ПП \"Азов-Арсенал\""
+              },
+              "name": "ПП \"Азов-Арсенал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87539",
+                "region": "Донецька",
+                "streetAddress": "пр. Металургів, 97",
+                "locality": "Маріуполь"
+              }
+            }
+          ],
+          "time": "2015-06-09T09:47:28.646326+03:00"
+        }
+      ],
+      "time": "2015-06-11T08:21:11.540758+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T11:21:48.841255+03:00",
+          "amount": 10342.1,
+          "bidder": "fa4ba51f587341fd823686335cbf894b"
+        },
+        {
+          "date": "2015-06-09T09:47:28.646326+03:00",
+          "amount": 10233.0,
+          "bidder": "a44d876c712c43388e042a2aae2604d7"
+        }
+      ],
+      "time": "2015-06-11T08:00:00.148969+00:00"
+    }
+  },
+  "id": "2c925640dd40401d98e4e08315cd4f48",
+  "tenderId": "UA-2015-06-03-000035"
+}

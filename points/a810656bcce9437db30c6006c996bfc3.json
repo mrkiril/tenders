@@ -1,0 +1,153 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bb839c762ee64ea5a352e6dd688316df",
+        "time": "2015-11-05T13:23:40.005973+00:00"
+      },
+      "turn_3": {
+        "bidder": "b6fb993cae594a45a07bff5ef0e830d9",
+        "time": "2015-11-05T13:25:40.007096+00:00"
+      },
+      "turn_1": {
+        "bidder": "a038995ebcac414ba8bf2fa08c62228c",
+        "time": "2015-11-05T13:21:40.006431+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bb839c762ee64ea5a352e6dd688316df",
+        "time": "2015-11-05T13:31:40.007573+00:00"
+      },
+      "turn_3": {
+        "bidder": "b6fb993cae594a45a07bff5ef0e830d9",
+        "time": "2015-11-05T13:33:40.008458+00:00"
+      },
+      "turn_1": {
+        "bidder": "a038995ebcac414ba8bf2fa08c62228c",
+        "time": "2015-11-05T13:29:40.006344+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bb839c762ee64ea5a352e6dd688316df",
+        "time": "2015-11-05T13:15:40.006500+00:00"
+      },
+      "turn_3": {
+        "bidder": "b6fb993cae594a45a07bff5ef0e830d9",
+        "time": "2015-11-05T13:17:40.007189+00:00"
+      },
+      "turn_1": {
+        "bidder": "a038995ebcac414ba8bf2fa08c62228c",
+        "time": "2015-11-05T13:13:40.007496+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a038995ebcac414ba8bf2fa08c62228c",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-03T23:42:32.049514+02:00"
+        },
+        {
+          "bidder": "bb839c762ee64ea5a352e6dd688316df",
+          "amount": 950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679719191",
+                "name": "Середа Віталій Вікторович",
+                "email": "rentsport@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36865748"
+              },
+              "name": "ТОВ Українська торгово-інвестиційна компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Почайнинська, 28-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T11:15:48.543972+02:00"
+        },
+        {
+          "bidder": "b6fb993cae594a45a07bff5ef0e830d9",
+          "amount": 920.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0443624240",
+                "name": "Сумароков Сергій Васильович",
+                "email": "3624240@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2633316473",
+                "legalName": "ФОП Сумароков Сергій Васильович"
+              },
+              "name": "ФОП Сумароков Сергій Васильович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "06166",
+                "region": "Київська",
+                "streetAddress": "Мілютенка 42/120",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T14:10:30.305349+02:00"
+        }
+      ],
+      "time": "2015-11-05T13:33:43.186361+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T23:42:32.049514+02:00",
+          "amount": 1000.0,
+          "bidder": "a038995ebcac414ba8bf2fa08c62228c"
+        },
+        {
+          "date": "2015-11-04T11:15:48.543972+02:00",
+          "amount": 950.0,
+          "bidder": "bb839c762ee64ea5a352e6dd688316df"
+        },
+        {
+          "date": "2015-11-04T14:10:30.305349+02:00",
+          "amount": 920.0,
+          "bidder": "b6fb993cae594a45a07bff5ef0e830d9"
+        }
+      ],
+      "time": "2015-11-05T13:06:40.002396+00:00"
+    }
+  },
+  "id": "a810656bcce9437db30c6006c996bfc3",
+  "tenderId": "UA-2015-10-20-000135"
+}

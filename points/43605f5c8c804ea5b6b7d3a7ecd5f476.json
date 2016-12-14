@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8fd992594de8406eb864ca229a8d9eaf",
+        "time": "2015-11-27T13:21:09.007830+00:00"
+      },
+      "turn_3": {
+        "bidder": "d1bb975dec024248bb1b2f17c60c27ec",
+        "time": "2015-11-27T13:23:09.007769+00:00"
+      },
+      "turn_1": {
+        "bidder": "da5d86f26a1d436c93d4aefbbe538e75",
+        "time": "2015-11-27T13:19:09.022832+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1218.0,
+        "bid_time": "2015-11-27T15:28:35.113746+02:00",
+        "bidder": "8fd992594de8406eb864ca229a8d9eaf",
+        "time": "2015-11-27T13:29:09.010108+00:00"
+      },
+      "turn_3": {
+        "bidder": "d1bb975dec024248bb1b2f17c60c27ec",
+        "time": "2015-11-27T13:31:09.010576+00:00"
+      },
+      "turn_1": {
+        "amount": 1232.0,
+        "bid_time": "2015-11-27T15:25:23.650351+02:00",
+        "bidder": "da5d86f26a1d436c93d4aefbbe538e75",
+        "time": "2015-11-27T13:27:09.009380+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1240.0,
+        "bid_time": "2015-11-27T15:11:30.237723+02:00",
+        "bidder": "d1bb975dec024248bb1b2f17c60c27ec",
+        "time": "2015-11-27T13:13:09.009163+00:00"
+      },
+      "turn_3": {
+        "bidder": "da5d86f26a1d436c93d4aefbbe538e75",
+        "time": "2015-11-27T13:15:09.007317+00:00"
+      },
+      "turn_1": {
+        "amount": 1258.0,
+        "bid_time": "2015-11-27T15:10:52.033415+02:00",
+        "bidder": "8fd992594de8406eb864ca229a8d9eaf",
+        "time": "2015-11-27T13:11:09.009594+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d1bb975dec024248bb1b2f17c60c27ec",
+          "amount": 1240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mebel.zt.ua/",
+                "telephone": "380939150976",
+                "name": "Олег Алєксєєнко ",
+                "email": "alik.alekseenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2614114251",
+                "legalName": ""
+              },
+              "name": "ФОП Алеексеенко О.А.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Житомирская область",
+                "streetAddress": "Житомир, ул. Лятошинского 18, кв. 62"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:11:30.237723+02:00"
+        },
+        {
+          "bidder": "da5d86f26a1d436c93d4aefbbe538e75",
+          "amount": 1232.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:25:23.650351+02:00"
+        },
+        {
+          "bidder": "8fd992594de8406eb864ca229a8d9eaf",
+          "amount": 1218.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412473077",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЖИТОМИРРАДІОКОМ\"",
+                "email": "zakaz@kanc-express.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24699022",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЖИТОМИРРАДІОКОМ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ЖИТОМИРРАДІОКОМ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "10014, м.Житомир, вул.Київська, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-27T15:28:35.113746+02:00"
+        }
+      ],
+      "time": "2015-11-27T13:31:13.080889+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T12:33:23.865409+02:00",
+          "amount": 1360.0,
+          "bidder": "8fd992594de8406eb864ca229a8d9eaf"
+        },
+        {
+          "date": "2015-11-25T10:36:34.438111+02:00",
+          "amount": 1320.0,
+          "bidder": "d1bb975dec024248bb1b2f17c60c27ec"
+        },
+        {
+          "date": "2015-11-26T18:49:50.165640+02:00",
+          "amount": 1272.0,
+          "bidder": "da5d86f26a1d436c93d4aefbbe538e75"
+        }
+      ],
+      "time": "2015-11-27T13:04:09.006133+00:00"
+    }
+  },
+  "id": "43605f5c8c804ea5b6b7d3a7ecd5f476",
+  "tenderId": "UA-2015-11-22-000001-a"
+}

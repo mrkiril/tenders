@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "abeb6e234c5444dd8ccd9c3879dee2c8",
+        "time": "2015-12-11T11:22:45.010198+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b9a9ae0e1164d0f93097dc3a406a99f",
+        "time": "2015-12-11T11:20:45.012463+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "abeb6e234c5444dd8ccd9c3879dee2c8",
+        "time": "2015-12-11T11:28:45.010373+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b9a9ae0e1164d0f93097dc3a406a99f",
+        "time": "2015-12-11T11:26:45.011408+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "abeb6e234c5444dd8ccd9c3879dee2c8",
+        "time": "2015-12-11T11:16:45.010633+00:00"
+      },
+      "turn_1": {
+        "bidder": "6b9a9ae0e1164d0f93097dc3a406a99f",
+        "time": "2015-12-11T11:14:45.010081+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6b9a9ae0e1164d0f93097dc3a406a99f",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0512361370",
+                "name": "Іваницька Ганна Анатоліївна",
+                "email": "gobelen_reklama@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1639008511",
+                "legalName": "Фізична особа-підприємець Іваницький Вячеслав Едуардович"
+              },
+              "name": "Фізична особа-підприємець Іваницький Вячеслав Едуардович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "вул.8 березня, 14/59",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-10T15:34:15.501167+02:00"
+        },
+        {
+          "bidder": "abeb6e234c5444dd8ccd9c3879dee2c8",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alvant.com.ua",
+                "telephone": "0503356917",
+                "name": "Білан Олексій Валерійович",
+                "email": "alvant@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54030",
+                "region": "Миколаївська",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-12-09T21:33:49.498153+02:00"
+        }
+      ],
+      "time": "2015-12-11T11:28:46.469872+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T15:34:15.501167+02:00",
+          "amount": 10500.0,
+          "bidder": "6b9a9ae0e1164d0f93097dc3a406a99f"
+        },
+        {
+          "date": "2015-12-09T21:33:49.498153+02:00",
+          "amount": 7500.0,
+          "bidder": "abeb6e234c5444dd8ccd9c3879dee2c8"
+        }
+      ],
+      "time": "2015-12-11T11:07:45.003932+00:00"
+    }
+  },
+  "id": "0aa703035dd148628a8b02f80fe713fb",
+  "tenderId": "UA-2015-12-03-000157-b"
+}

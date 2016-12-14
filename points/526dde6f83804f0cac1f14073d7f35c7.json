@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "87473420debe4026a21256be03a01404",
+        "time": "2015-10-29T11:51:26.007333+00:00"
+      },
+      "turn_1": {
+        "bidder": "d0db83044de34ba89e0e14ae0bb0d0ec",
+        "time": "2015-10-29T11:49:26.011376+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 25569.0,
+        "bid_time": "2015-10-29T13:56:22.378032+02:00",
+        "bidder": "87473420debe4026a21256be03a01404",
+        "time": "2015-10-29T11:57:26.008787+00:00"
+      },
+      "turn_1": {
+        "amount": 25570.0,
+        "bid_time": "2015-10-29T13:54:01.337753+02:00",
+        "bidder": "d0db83044de34ba89e0e14ae0bb0d0ec",
+        "time": "2015-10-29T11:55:26.008719+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d0db83044de34ba89e0e14ae0bb0d0ec",
+        "time": "2015-10-29T11:45:26.008089+00:00"
+      },
+      "turn_1": {
+        "amount": 25580.0,
+        "bid_time": "2015-10-29T13:41:46.178077+02:00",
+        "bidder": "87473420debe4026a21256be03a01404",
+        "time": "2015-10-29T11:43:26.010035+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d0db83044de34ba89e0e14ae0bb0d0ec",
+          "amount": 25570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504016420",
+                "name": "константин",
+                "email": "konstantin4@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2438301392",
+                "legalName": "Гуренко К.В."
+              },
+              "name": "Гуренко К.В.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61001",
+                "region": "Харьковская",
+                "streetAddress": "",
+                "locality": "харьков"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:54:01.337753+02:00"
+        },
+        {
+          "bidder": "87473420debe4026a21256be03a01404",
+          "amount": 25569.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444676907",
+                "telephone": "+380935126870",
+                "name": "Галицький Іван Іванович",
+                "email": "tender.galytsky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2558204616"
+              },
+              "name": "ФОП Галицький Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02096",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Привокзальна, 8/1, кв. 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-29T13:56:22.378032+02:00"
+        }
+      ],
+      "time": "2015-10-29T11:57:31.239558+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T12:48:08.703564+02:00",
+          "amount": 29525.5,
+          "bidder": "87473420debe4026a21256be03a01404"
+        },
+        {
+          "date": "2015-10-28T11:03:08.552764+02:00",
+          "amount": 25585.0,
+          "bidder": "d0db83044de34ba89e0e14ae0bb0d0ec"
+        }
+      ],
+      "time": "2015-10-29T11:36:26.003210+00:00"
+    }
+  },
+  "id": "526dde6f83804f0cac1f14073d7f35c7",
+  "tenderId": "UA-2015-10-25-000003"
+}

@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "db34c7f70def473597f91d8d0792ecb0",
+        "time": "2015-11-09T13:48:51.008589+00:00"
+      },
+      "turn_1": {
+        "bidder": "c364f8e4029c4c5d89ffe1d1bbdc1726",
+        "time": "2015-11-09T13:46:51.024717+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "db34c7f70def473597f91d8d0792ecb0",
+        "time": "2015-11-09T13:54:51.009689+00:00"
+      },
+      "turn_1": {
+        "bidder": "c364f8e4029c4c5d89ffe1d1bbdc1726",
+        "time": "2015-11-09T13:52:51.008027+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 106812.99,
+        "bid_time": "2015-11-09T15:41:35.147822+02:00",
+        "bidder": "db34c7f70def473597f91d8d0792ecb0",
+        "time": "2015-11-09T13:42:51.009284+00:00"
+      },
+      "turn_1": {
+        "bidder": "c364f8e4029c4c5d89ffe1d1bbdc1726",
+        "time": "2015-11-09T13:40:51.007860+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c364f8e4029c4c5d89ffe1d1bbdc1726",
+          "amount": 107349.74,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://triada-welding.com",
+                "faxNumber": "0612200079",
+                "telephone": "0503224068",
+                "name": "Панченко Ігор Вікторович",
+                "email": "sales@triada-welding.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37648536",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТРІАДА-ЗВАРКА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТРІАДА-ЗВАРКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69035",
+                "region": "Запорізька",
+                "streetAddress": "Сорок років Рад. України 82 буд. 79",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-11-05T15:49:32.824975+02:00"
+        },
+        {
+          "bidder": "db34c7f70def473597f91d8d0792ecb0",
+          "amount": 106812.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://favoritltd.com",
+                "telephone": "+380442064548",
+                "name": "Товариство з обмеженою відповідальністю \"Фаворит ЛТД\"",
+                "email": "vakol@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19421394",
+                "legalName": "Товариство з обмеженою відповідальністю \"Фаворит ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Фаворит ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "07400, Київська обл., м.Бровари, вул.. М.Лагунової 1, кв.35",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T15:41:35.147822+02:00"
+        }
+      ],
+      "time": "2015-11-09T13:54:56.464109+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T12:01:44.636278+02:00",
+          "amount": 107349.74,
+          "bidder": "db34c7f70def473597f91d8d0792ecb0"
+        },
+        {
+          "date": "2015-11-05T15:49:32.824975+02:00",
+          "amount": 107349.74,
+          "bidder": "c364f8e4029c4c5d89ffe1d1bbdc1726"
+        }
+      ],
+      "time": "2015-11-09T13:33:51.004521+00:00"
+    }
+  },
+  "id": "f8d8fec43e2e4118ace81ae3542e6525",
+  "tenderId": "UA-2015-10-27-000214"
+}

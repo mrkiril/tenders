@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b027d6ad78fc40b7ac42320862e8bcb2",
+        "time": "2015-12-11T10:27:40.011348+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1aec95b850d4043ba096edd509e6945",
+        "time": "2015-12-11T10:25:40.035258+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b027d6ad78fc40b7ac42320862e8bcb2",
+        "time": "2015-12-11T10:33:40.012140+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1aec95b850d4043ba096edd509e6945",
+        "time": "2015-12-11T10:31:40.009304+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b027d6ad78fc40b7ac42320862e8bcb2",
+        "time": "2015-12-11T10:21:40.009321+00:00"
+      },
+      "turn_1": {
+        "bidder": "b1aec95b850d4043ba096edd509e6945",
+        "time": "2015-12-11T10:19:40.010612+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b1aec95b850d4043ba096edd509e6945",
+          "amount": 904502.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0666507663",
+                "name": "Антоненко Роман Миколайович",
+                "email": "rkapara@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39588610",
+                "legalName": "Товариство з обмеженною відповідальністю \"РІТЕЙЛ ПЛЮС ЛТД\""
+              },
+              "name": "Товариство з обмеженною відповідальністю \"РІТЕЙЛ ПЛЮС ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01032",
+                "region": "Київська",
+                "streetAddress": "Саксаганського 133а офіс №2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:44:05.110354+02:00"
+        },
+        {
+          "bidder": "b027d6ad78fc40b7ac42320862e8bcb2",
+          "amount": 856052.59,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "silark@ukr.net",
+                "name": "Литвинко Володимир Олександрович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38606332",
+                "legalName": "ТОВ \"СІЛАРК\""
+              },
+              "name": "ТОВ \"СІЛАРК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська",
+                "streetAddress": "Старонаводницка,8-Б літера А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T16:18:44.048471+02:00"
+        }
+      ],
+      "time": "2015-12-11T10:33:41.359289+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T11:44:05.110354+02:00",
+          "amount": 904502.0,
+          "bidder": "b1aec95b850d4043ba096edd509e6945"
+        },
+        {
+          "date": "2015-12-10T16:18:44.048471+02:00",
+          "amount": 856052.59,
+          "bidder": "b027d6ad78fc40b7ac42320862e8bcb2"
+        }
+      ],
+      "time": "2015-12-11T10:12:40.005164+00:00"
+    }
+  },
+  "id": "6caa0814ad9e4ab4bd52f892feb23728",
+  "tenderId": "UA-2015-12-08-000119-a"
+}

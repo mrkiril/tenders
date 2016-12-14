@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "365ee5b7e3694b2f9cbb9ee7c5edad42",
+        "time": "2015-10-12T10:28:22.008447+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9cd3ae60e4c437bb36de070b0bf9a83",
+        "time": "2015-10-12T10:26:22.008368+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "365ee5b7e3694b2f9cbb9ee7c5edad42",
+        "time": "2015-10-12T10:34:22.009425+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9cd3ae60e4c437bb36de070b0bf9a83",
+        "time": "2015-10-12T10:32:22.007643+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "365ee5b7e3694b2f9cbb9ee7c5edad42",
+        "time": "2015-10-12T10:22:22.009630+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9cd3ae60e4c437bb36de070b0bf9a83",
+        "time": "2015-10-12T10:20:22.007647+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b9cd3ae60e4c437bb36de070b0bf9a83",
+          "amount": 1500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mebel.zt.ua/",
+                "telephone": "380939150976",
+                "name": "Олег Алєксєєнко ",
+                "email": "alik.alekseenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2614114251",
+                "legalName": ""
+              },
+              "name": "ФОП Алеексеенко О.А.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Житомирская область",
+                "streetAddress": "Житомир, ул. Лятошинского 18, кв. 62"
+              }
+            }
+          ],
+          "time": "2015-10-08T11:52:39.591032+03:00"
+        },
+        {
+          "bidder": "365ee5b7e3694b2f9cbb9ee7c5edad42",
+          "amount": 1375.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380413052189",
+                "telephone": "+380673080819",
+                "name": "Федоришин Дмитро Володимирович",
+                "email": "papirnya@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25313409"
+              },
+              "name": "ТОВ АСС-Коростишівська паперова фабрика",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "12501",
+                "region": "Житомирська область",
+                "streetAddress": "вул.Пролетарська,31",
+                "locality": "Коростишів"
+              }
+            }
+          ],
+          "time": "2015-10-06T17:56:04.692594+03:00"
+        }
+      ],
+      "time": "2015-10-12T10:34:23.616658+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T11:52:39.591032+03:00",
+          "amount": 1500.0,
+          "bidder": "b9cd3ae60e4c437bb36de070b0bf9a83"
+        },
+        {
+          "date": "2015-10-06T17:56:04.692594+03:00",
+          "amount": 1375.0,
+          "bidder": "365ee5b7e3694b2f9cbb9ee7c5edad42"
+        }
+      ],
+      "time": "2015-10-12T10:13:22.004354+00:00"
+    }
+  },
+  "id": "337c7eb889d349d6bd6328716a2ad651",
+  "tenderId": "UA-2015-10-05-000233"
+}

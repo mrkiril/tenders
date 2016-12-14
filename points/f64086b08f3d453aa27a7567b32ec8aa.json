@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0bd59ae0932e4a979a2d1131717aff92",
+        "time": "2015-08-25T08:15:00.185182+00:00"
+      },
+      "turn_1": {
+        "bidder": "8444d6d43b4e4be5a4f5ebbd7ea69077",
+        "time": "2015-08-25T08:13:00.153247+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0bd59ae0932e4a979a2d1131717aff92",
+        "time": "2015-08-25T08:21:00.053969+00:00"
+      },
+      "turn_1": {
+        "bidder": "8444d6d43b4e4be5a4f5ebbd7ea69077",
+        "time": "2015-08-25T08:19:00.094651+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0bd59ae0932e4a979a2d1131717aff92",
+        "time": "2015-08-25T08:09:00.053930+00:00"
+      },
+      "turn_1": {
+        "bidder": "8444d6d43b4e4be5a4f5ebbd7ea69077",
+        "time": "2015-08-25T08:07:00.126901+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8444d6d43b4e4be5a4f5ebbd7ea69077",
+          "amount": 3700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ledvsem.com.ua/",
+                "telephone": "380685894709, 380665593083, 0665593083",
+                "name": "Игорь Посаженников ",
+                "email": "dsv-gr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39669322",
+                "legalName": ""
+              },
+              "name": "ООО ЭЛСИЗ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Янгеля, 35 оф.315"
+              }
+            }
+          ],
+          "time": "2015-08-20T16:58:52.910991+03:00"
+        },
+        {
+          "bidder": "0bd59ae0932e4a979a2d1131717aff92",
+          "amount": 2449.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-08-21T08:50:41.165041+03:00"
+        }
+      ],
+      "time": "2015-08-25T08:21:06.586876+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T16:58:52.910991+03:00",
+          "amount": 3700.0,
+          "bidder": "8444d6d43b4e4be5a4f5ebbd7ea69077"
+        },
+        {
+          "date": "2015-08-21T08:50:41.165041+03:00",
+          "amount": 2449.8,
+          "bidder": "0bd59ae0932e4a979a2d1131717aff92"
+        }
+      ],
+      "time": "2015-08-25T08:00:00.054999+00:00"
+    }
+  },
+  "id": "f64086b08f3d453aa27a7567b32ec8aa",
+  "tenderId": "UA-2015-08-18-000105"
+}

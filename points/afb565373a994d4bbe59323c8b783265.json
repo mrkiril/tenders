@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bf9a5ed32b624f0c92fc6d92197bc111",
+        "time": "2015-09-08T11:15:00.011260+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f58b03f66e949a3a853f8bc3a87bcba",
+        "time": "2015-09-08T11:13:00.008302+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bf9a5ed32b624f0c92fc6d92197bc111",
+        "time": "2015-09-08T11:21:00.007874+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f58b03f66e949a3a853f8bc3a87bcba",
+        "time": "2015-09-08T11:19:00.008265+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bf9a5ed32b624f0c92fc6d92197bc111",
+        "time": "2015-09-08T11:09:00.012283+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f58b03f66e949a3a853f8bc3a87bcba",
+        "time": "2015-09-08T11:07:00.007910+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f58b03f66e949a3a853f8bc3a87bcba",
+          "amount": 78.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675189915, +380675718879, +380675468374, +380675718873, +380443693076",
+                "name": "Дмитрий Изолон",
+                "email": "salepro3@isolon.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "26488128",
+                "legalName": "ФОП \"Компания ISOLON\""
+              },
+              "name": "ФОП \"Компания ISOLON\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61071",
+                "region": "Харьковская",
+                "streetAddress": "61071, Харьков, ул. Кибальчича, д. 43, кв. 14",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-07T17:51:30.146659+03:00"
+        },
+        {
+          "bidder": "bf9a5ed32b624f0c92fc6d92197bc111",
+          "amount": 65.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675468374",
+                "name": "Татьяна Шуличенко",
+                "email": "kiev@isolon.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2722902783",
+                "legalName": "ФОП \"ФОП Шуліченко Т.В.\""
+              },
+              "name": "ФОП \"ФОП Шуліченко Т.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02218",
+                "region": "Киевская",
+                "streetAddress": "ул. Радужная 63, кв 112",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-07T17:57:12.046675+03:00"
+        }
+      ],
+      "time": "2015-09-08T11:21:02.375221+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T17:51:30.146659+03:00",
+          "amount": 78.0,
+          "bidder": "3f58b03f66e949a3a853f8bc3a87bcba"
+        },
+        {
+          "date": "2015-09-07T17:57:12.046675+03:00",
+          "amount": 65.0,
+          "bidder": "bf9a5ed32b624f0c92fc6d92197bc111"
+        }
+      ],
+      "time": "2015-09-08T11:00:00.003734+00:00"
+    }
+  },
+  "id": "afb565373a994d4bbe59323c8b783265",
+  "tenderId": "UA-2015-08-31-000193"
+}

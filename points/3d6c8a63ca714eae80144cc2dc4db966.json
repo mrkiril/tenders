@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "75a9e3da456c41b78ecb9cfec98971e9",
+        "time": "2015-11-04T09:56:09.007681+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9feb1b2b9b348dd995eed16010899d1",
+        "time": "2015-11-04T09:54:09.006965+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "75a9e3da456c41b78ecb9cfec98971e9",
+        "time": "2015-11-04T10:02:09.008788+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9feb1b2b9b348dd995eed16010899d1",
+        "time": "2015-11-04T10:00:09.006924+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "75a9e3da456c41b78ecb9cfec98971e9",
+        "time": "2015-11-04T09:50:09.007871+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9feb1b2b9b348dd995eed16010899d1",
+        "time": "2015-11-04T09:48:09.008047+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a9feb1b2b9b348dd995eed16010899d1",
+          "amount": 11729.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-22-99-380",
+                "telephone": "044-22-99-380",
+                "name": "Кошлак Ігор Вікторович",
+                "email": "loriy2015@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39639371",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛОРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03049",
+                "region": "Київська",
+                "streetAddress": "проспект Повітрофлотський, 28",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T13:47:18.902405+02:00"
+        },
+        {
+          "bidder": "75a9e3da456c41b78ecb9cfec98971e9",
+          "amount": 11554.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T08:55:10.345494+02:00"
+        }
+      ],
+      "time": "2015-11-04T10:02:20.600012+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T13:47:18.902405+02:00",
+          "amount": 11729.0,
+          "bidder": "a9feb1b2b9b348dd995eed16010899d1"
+        },
+        {
+          "date": "2015-11-02T08:55:10.345494+02:00",
+          "amount": 11554.0,
+          "bidder": "75a9e3da456c41b78ecb9cfec98971e9"
+        }
+      ],
+      "time": "2015-11-04T09:41:09.002637+00:00"
+    }
+  },
+  "id": "3d6c8a63ca714eae80144cc2dc4db966",
+  "tenderId": "UA-2015-10-28-000222"
+}

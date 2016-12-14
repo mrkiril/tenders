@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "13a18d736ebf4cc7803c42800a73c2dd",
+        "time": "2015-11-26T13:22:43.008168+00:00"
+      },
+      "turn_3": {
+        "bidder": "697b916e22c2451890a65f707c5a9ca7",
+        "time": "2015-11-26T13:24:43.008077+00:00"
+      },
+      "turn_1": {
+        "bidder": "d6bfb87291674232abe7f58c2750db85",
+        "time": "2015-11-26T13:20:43.008542+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "13a18d736ebf4cc7803c42800a73c2dd",
+        "time": "2015-11-26T13:30:43.008581+00:00"
+      },
+      "turn_3": {
+        "bidder": "697b916e22c2451890a65f707c5a9ca7",
+        "time": "2015-11-26T13:32:43.008451+00:00"
+      },
+      "turn_1": {
+        "bidder": "d6bfb87291674232abe7f58c2750db85",
+        "time": "2015-11-26T13:28:43.007048+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "13a18d736ebf4cc7803c42800a73c2dd",
+        "time": "2015-11-26T13:14:43.008285+00:00"
+      },
+      "turn_3": {
+        "bidder": "697b916e22c2451890a65f707c5a9ca7",
+        "time": "2015-11-26T13:16:43.008229+00:00"
+      },
+      "turn_1": {
+        "bidder": "d6bfb87291674232abe7f58c2750db85",
+        "time": "2015-11-26T13:12:43.011246+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d6bfb87291674232abe7f58c2750db85",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "project.a.ukraine@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-23T15:15:30.763256+02:00"
+        },
+        {
+          "bidder": "13a18d736ebf4cc7803c42800a73c2dd",
+          "amount": 675.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503370490",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-25T11:23:19.945139+02:00"
+        },
+        {
+          "bidder": "697b916e22c2451890a65f707c5a9ca7",
+          "amount": 481.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T11:33:45.048087+02:00"
+        }
+      ],
+      "time": "2015-11-26T13:32:45.090371+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T15:15:30.763256+02:00",
+          "amount": 900.0,
+          "bidder": "d6bfb87291674232abe7f58c2750db85"
+        },
+        {
+          "date": "2015-11-25T11:23:19.945139+02:00",
+          "amount": 675.3,
+          "bidder": "13a18d736ebf4cc7803c42800a73c2dd"
+        },
+        {
+          "date": "2015-11-25T11:33:45.048087+02:00",
+          "amount": 481.0,
+          "bidder": "697b916e22c2451890a65f707c5a9ca7"
+        }
+      ],
+      "time": "2015-11-26T13:05:43.004421+00:00"
+    }
+  },
+  "id": "2843c7d1df8d457784b3976cfc1482bb",
+  "tenderId": "UA-2015-11-20-000155"
+}

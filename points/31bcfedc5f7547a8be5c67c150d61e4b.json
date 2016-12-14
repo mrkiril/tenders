@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "744230a2b6694f7b818d1021d4c3f066",
+        "time": "2015-11-03T12:22:53.008055+00:00"
+      },
+      "turn_1": {
+        "amount": 80.0,
+        "bid_time": "2015-11-03T14:18:57.815110+02:00",
+        "bidder": "8407eef0f4224c389faa3e652f958352",
+        "time": "2015-11-03T12:20:53.008811+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8407eef0f4224c389faa3e652f958352",
+        "time": "2015-11-03T12:28:53.008593+00:00"
+      },
+      "turn_1": {
+        "bidder": "744230a2b6694f7b818d1021d4c3f066",
+        "time": "2015-11-03T12:26:53.010737+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "744230a2b6694f7b818d1021d4c3f066",
+        "time": "2015-11-03T12:16:53.007323+00:00"
+      },
+      "turn_1": {
+        "bidder": "8407eef0f4224c389faa3e652f958352",
+        "time": "2015-11-03T12:14:53.008521+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "744230a2b6694f7b818d1021d4c3f066",
+          "amount": 80.64,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.lablife.com.ua/",
+                "faxNumber": "0445002242",
+                "telephone": "0445002240",
+                "name": "Сахневич Дарія Вікторівна",
+                "email": "zakaz.lablife@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38683189",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЛАБЛАЙФ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЛАБЛАЙФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03150",
+                "region": "Київська",
+                "streetAddress": "Ямська, 72",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T16:00:44.790390+02:00"
+        },
+        {
+          "bidder": "8407eef0f4224c389faa3e652f958352",
+          "amount": 80.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004",
+                "name": "Валентина  Малишева",
+                "email": "atzt_medicina@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23538297",
+                "legalName": "ПАТ \"МЕДИЦИНА\""
+              },
+              "name": "ПАТ \"МЕДИЦИНА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-03T14:18:57.815110+02:00"
+        }
+      ],
+      "time": "2015-11-03T12:28:54.142463+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T17:18:20.734244+02:00",
+          "amount": 211.2,
+          "bidder": "8407eef0f4224c389faa3e652f958352"
+        },
+        {
+          "date": "2015-10-29T16:00:44.790390+02:00",
+          "amount": 80.64,
+          "bidder": "744230a2b6694f7b818d1021d4c3f066"
+        }
+      ],
+      "time": "2015-11-03T12:07:53.004631+00:00"
+    }
+  },
+  "id": "31bcfedc5f7547a8be5c67c150d61e4b",
+  "tenderId": "UA-2015-10-23-000300"
+}

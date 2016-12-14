@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b54c761c6c264358b16ca210c1fdacf9",
+        "time": "2015-11-25T11:53:09.009610+00:00"
+      },
+      "turn_1": {
+        "bidder": "61f866bc93e541bf9b86917b78ead284",
+        "time": "2015-11-25T11:51:09.013358+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b54c761c6c264358b16ca210c1fdacf9",
+        "time": "2015-11-25T11:59:09.008986+00:00"
+      },
+      "turn_1": {
+        "bidder": "61f866bc93e541bf9b86917b78ead284",
+        "time": "2015-11-25T11:57:09.012967+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "61f866bc93e541bf9b86917b78ead284",
+        "time": "2015-11-25T11:47:09.012280+00:00"
+      },
+      "turn_1": {
+        "amount": 340000.0,
+        "bid_time": "2015-11-25T13:45:02.734210+02:00",
+        "bidder": "b54c761c6c264358b16ca210c1fdacf9",
+        "time": "2015-11-25T11:45:09.013787+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "61f866bc93e541bf9b86917b78ead284",
+          "amount": 345744.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977373160",
+                "name": "Бабанський Роман Вікторович",
+                "email": "mangustoff@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2976012147"
+              },
+              "name": "ФОП Овакимян Наталія Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська область",
+                "streetAddress": "Айзербайджанська 8-А, кв. 122",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-23T11:59:24.491298+02:00"
+        },
+        {
+          "bidder": "b54c761c6c264358b16ca210c1fdacf9",
+          "amount": 340000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.inter-sport.com.ua",
+                "faxNumber": "+380512575996",
+                "telephone": "+380934979971",
+                "name": "Білоус Олександр Анатолійович",
+                "email": "insport@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2695003416"
+              },
+              "name": "ФОП Білоус Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54055",
+                "region": "Миколаївська область",
+                "streetAddress": "пр.Леніна, 159-б",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-25T13:45:02.734210+02:00"
+        }
+      ],
+      "time": "2015-11-25T11:59:10.666659+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T14:44:57.818587+02:00",
+          "amount": 347000.0,
+          "bidder": "b54c761c6c264358b16ca210c1fdacf9"
+        },
+        {
+          "date": "2015-11-23T11:59:24.491298+02:00",
+          "amount": 345744.0,
+          "bidder": "61f866bc93e541bf9b86917b78ead284"
+        }
+      ],
+      "time": "2015-11-25T11:38:09.004513+00:00"
+    }
+  },
+  "id": "abecf49dc3444e4bb00b951ac965a862",
+  "tenderId": "UA-2015-11-11-000199-a"
+}

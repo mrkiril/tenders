@@ -1,0 +1,118 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2f401b2ef87c4ea8b02abbd829096ce2",
+        "time": "2015-12-01T10:54:30.008415+00:00"
+      },
+      "turn_1": {
+        "bidder": "4128dacf2c8e4ba3afa286ed7022463b",
+        "time": "2015-12-01T10:52:30.008891+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 9711.0,
+        "bid_time": "2015-12-01T12:59:27.513447+02:00",
+        "bidder": "2f401b2ef87c4ea8b02abbd829096ce2",
+        "time": "2015-12-01T11:00:30.009102+00:00"
+      },
+      "turn_1": {
+        "amount": 9712.86,
+        "bid_time": "2015-12-01T12:57:00.490846+02:00",
+        "bidder": "4128dacf2c8e4ba3afa286ed7022463b",
+        "time": "2015-12-01T10:58:30.008792+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4128dacf2c8e4ba3afa286ed7022463b",
+        "time": "2015-12-01T10:48:30.008852+00:00"
+      },
+      "turn_1": {
+        "amount": 10200.0,
+        "bid_time": "2015-12-01T12:45:09.953478+02:00",
+        "bidder": "2f401b2ef87c4ea8b02abbd829096ce2",
+        "time": "2015-12-01T10:46:30.010411+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4128dacf2c8e4ba3afa286ed7022463b",
+          "amount": 9712.86,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:57:00.490846+02:00"
+        },
+        {
+          "bidder": "2f401b2ef87c4ea8b02abbd829096ce2",
+          "amount": 9711.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:59:27.513447+02:00"
+        }
+      ],
+      "time": "2015-12-01T11:01:17.341820+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-29T15:11:05.777957+02:00",
+          "amount": 10498.0,
+          "bidder": "2f401b2ef87c4ea8b02abbd829096ce2"
+        },
+        {
+          "date": "2015-11-27T17:59:49.506809+02:00",
+          "amount": 10406.64,
+          "bidder": "4128dacf2c8e4ba3afa286ed7022463b"
+        }
+      ],
+      "time": "2015-12-01T10:39:30.004519+00:00"
+    }
+  },
+  "id": "1f74acdf04394b60aa5ec21a3c851eba",
+  "tenderId": "UA-2015-11-25-000109"
+}

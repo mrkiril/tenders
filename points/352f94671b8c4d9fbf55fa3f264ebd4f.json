@@ -1,0 +1,207 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "a3535623e8b840fab4c86d698ae2482c",
+        "time": "2015-08-18T08:23:00.045273+00:00"
+      },
+      "turn_2": {
+        "amount": 5690.0,
+        "bid_time": "2015-08-18T11:17:11.506553+03:00",
+        "bidder": "ed31cda470a44eef93457025eac5f724",
+        "time": "2015-08-18T08:19:00.061413+00:00"
+      },
+      "turn_3": {
+        "amount": 5650.0,
+        "bid_time": "2015-08-18T11:20:15.635483+03:00",
+        "bidder": "ec195ee138f9404dae7d5ea27d9655a0",
+        "time": "2015-08-18T08:21:00.063848+00:00"
+      },
+      "turn_1": {
+        "bidder": "73767e81ce1f443cb58924f922e94a7a",
+        "time": "2015-08-18T08:17:00.051833+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ec195ee138f9404dae7d5ea27d9655a0",
+        "time": "2015-08-18T08:33:00.017818+00:00"
+      },
+      "turn_2": {
+        "bidder": "a3535623e8b840fab4c86d698ae2482c",
+        "time": "2015-08-18T08:29:00.015302+00:00"
+      },
+      "turn_3": {
+        "bidder": "ed31cda470a44eef93457025eac5f724",
+        "time": "2015-08-18T08:31:00.053308+00:00"
+      },
+      "turn_1": {
+        "bidder": "73767e81ce1f443cb58924f922e94a7a",
+        "time": "2015-08-18T08:27:00.044141+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "a3535623e8b840fab4c86d698ae2482c",
+        "time": "2015-08-18T08:13:00.032566+00:00"
+      },
+      "turn_2": {
+        "bidder": "73767e81ce1f443cb58924f922e94a7a",
+        "time": "2015-08-18T08:09:00.053553+00:00"
+      },
+      "turn_3": {
+        "bidder": "ed31cda470a44eef93457025eac5f724",
+        "time": "2015-08-18T08:11:00.045134+00:00"
+      },
+      "turn_1": {
+        "amount": 5750.0,
+        "bid_time": "2015-08-18T11:05:39.812760+03:00",
+        "bidder": "ec195ee138f9404dae7d5ea27d9655a0",
+        "time": "2015-08-18T08:07:00.039295+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "73767e81ce1f443cb58924f922e94a7a",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T17:11:16.500905+03:00"
+        },
+        {
+          "bidder": "a3535623e8b840fab4c86d698ae2482c",
+          "amount": 5700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+3800563737905",
+                "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+                "email": "exe2013@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38837068",
+                "legalName": "Товариство з обмеженою відповідальністю \"Експерт Енерго\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Експерт Енерго\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Каштанова, буд. 11-Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-14T12:04:54.722506+03:00"
+        },
+        {
+          "bidder": "ed31cda470a44eef93457025eac5f724",
+          "amount": 5690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.atlantis.uaprom.net",
+                "telephone": "+3805623767093",
+                "name": "ТОВ \" Атлантис Систем\"",
+                "email": "atlantis102@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38999388",
+                "legalName": "ТОВ \" Атлантис Систем\""
+              },
+              "name": "ТОВ \" Атлантис Систем\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр.Кірова,буд. 45,кв 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T11:17:11.506553+03:00"
+        },
+        {
+          "bidder": "ec195ee138f9404dae7d5ea27d9655a0",
+          "amount": 5650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.svetonika.com.ua",
+                "telephone": "+380504450280",
+                "name": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\"",
+                "email": "bolyubash@svetonika.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37465610",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий дім Світоніка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73000, Херсон, ул. Фонтанна, дом № 21, корпус 1, кв.102",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T11:20:15.635483+03:00"
+        }
+      ],
+      "time": "2015-08-18T08:33:01.930274+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-13T15:46:45.893208+03:00",
+          "amount": 5915.76,
+          "bidder": "ec195ee138f9404dae7d5ea27d9655a0"
+        },
+        {
+          "date": "2015-08-14T17:11:16.500905+03:00",
+          "amount": 5900.0,
+          "bidder": "73767e81ce1f443cb58924f922e94a7a"
+        },
+        {
+          "date": "2015-08-12T10:05:20.265558+03:00",
+          "amount": 5810.0,
+          "bidder": "ed31cda470a44eef93457025eac5f724"
+        },
+        {
+          "date": "2015-08-14T12:04:54.722506+03:00",
+          "amount": 5700.0,
+          "bidder": "a3535623e8b840fab4c86d698ae2482c"
+        }
+      ],
+      "time": "2015-08-18T08:00:00.003945+00:00"
+    }
+  },
+  "id": "352f94671b8c4d9fbf55fa3f264ebd4f",
+  "tenderId": "UA-2015-08-11-000070"
+}

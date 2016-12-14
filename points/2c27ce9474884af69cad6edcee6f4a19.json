@@ -1,0 +1,121 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1153994.0,
+        "bid_time": "2015-09-03T11:13:33.433197+03:00",
+        "bidder": "744498a5f5cc42faa2e1019a8ba7883c",
+        "time": "2015-09-03T08:15:00.086609+00:00"
+      },
+      "turn_1": {
+        "amount": 1161992.0,
+        "bid_time": "2015-09-03T11:11:15.352347+03:00",
+        "bidder": "22624f6feaa24a3a81aafbacec6902bf",
+        "time": "2015-09-03T08:13:00.071197+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1143994.0,
+        "bid_time": "2015-09-03T11:19:23.171767+03:00",
+        "bidder": "744498a5f5cc42faa2e1019a8ba7883c",
+        "time": "2015-09-03T08:21:00.110267+00:00"
+      },
+      "turn_1": {
+        "amount": 1151992.0,
+        "bid_time": "2015-09-03T11:17:48.861954+03:00",
+        "bidder": "22624f6feaa24a3a81aafbacec6902bf",
+        "time": "2015-09-03T08:19:00.090933+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "22624f6feaa24a3a81aafbacec6902bf",
+        "time": "2015-09-03T08:09:00.008683+00:00"
+      },
+      "turn_1": {
+        "amount": 1163994.0,
+        "bid_time": "2015-09-03T11:05:50.904543+03:00",
+        "bidder": "744498a5f5cc42faa2e1019a8ba7883c",
+        "time": "2015-09-03T08:07:00.081739+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "22624f6feaa24a3a81aafbacec6902bf",
+          "amount": 1151992.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563728802",
+                "name": "Товариство з обмеженою відповідальністю \"ТОРРЕ\"",
+                "email": "MVM1@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35165861",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТОРРЕ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТОРРЕ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000 м. Дніпропетровськ вул. Плуханова буд. 22 оф. 45",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T11:17:48.861954+03:00"
+        },
+        {
+          "bidder": "744498a5f5cc42faa2e1019a8ba7883c",
+          "amount": 1143994.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alpprom.com.ua",
+                "telephone": "+380674425098",
+                "name": "Альппром",
+                "email": "alpprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33020233",
+                "legalName": "Альппром"
+              },
+              "name": "Альппром",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Житомирська область, смт Попільня, вулиця Радянська 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T11:19:23.171767+03:00"
+        }
+      ],
+      "time": "2015-09-03T08:21:06.598613+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-02T15:22:47.221336+03:00",
+          "amount": 1173994.8,
+          "bidder": "744498a5f5cc42faa2e1019a8ba7883c"
+        },
+        {
+          "date": "2015-09-02T14:44:03.543057+03:00",
+          "amount": 1171992.0,
+          "bidder": "22624f6feaa24a3a81aafbacec6902bf"
+        }
+      ],
+      "time": "2015-09-03T08:00:00.022645+00:00"
+    }
+  },
+  "id": "2c27ce9474884af69cad6edcee6f4a19",
+  "tenderId": "UA-2015-08-19-000092"
+}

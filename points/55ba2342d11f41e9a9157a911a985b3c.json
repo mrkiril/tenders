@@ -1,0 +1,212 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 2900000.0,
+        "bid_time": "2015-10-19T13:34:05.389528+03:00",
+        "bidder": "1dd39a0861004d649afa0adbc397aaa3",
+        "time": "2015-10-19T10:34:11.012485+00:00"
+      },
+      "turn_2": {
+        "bidder": "dea713ca4dfc446d8c54a6481a3bd67a",
+        "time": "2015-10-19T10:30:11.008048+00:00"
+      },
+      "turn_3": {
+        "amount": 3070000.0,
+        "bid_time": "2015-10-19T13:31:22.689132+03:00",
+        "bidder": "56653eab664d4aa895b08c96e300535e",
+        "time": "2015-10-19T10:32:11.008411+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ddc6ca1a0f842f4a2e441a844aff93a",
+        "time": "2015-10-19T10:28:11.008299+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "1dd39a0861004d649afa0adbc397aaa3",
+        "time": "2015-10-19T10:44:11.008666+00:00"
+      },
+      "turn_2": {
+        "amount": 3428500.0,
+        "bid_time": "2015-10-19T13:39:03.499054+03:00",
+        "bidder": "dea713ca4dfc446d8c54a6481a3bd67a",
+        "time": "2015-10-19T10:40:11.009156+00:00"
+      },
+      "turn_3": {
+        "amount": 2500000.0,
+        "bid_time": "2015-10-19T13:40:27.222111+03:00",
+        "bidder": "56653eab664d4aa895b08c96e300535e",
+        "time": "2015-10-19T10:42:11.009726+00:00"
+      },
+      "turn_1": {
+        "amount": 3495737.0,
+        "bid_time": "2015-10-19T13:37:39.794769+03:00",
+        "bidder": "4ddc6ca1a0f842f4a2e441a844aff93a",
+        "time": "2015-10-19T10:38:11.007975+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 3139000.0,
+        "bid_time": "2015-10-19T13:23:11.627781+03:00",
+        "bidder": "1dd39a0861004d649afa0adbc397aaa3",
+        "time": "2015-10-19T10:24:11.008848+00:00"
+      },
+      "turn_2": {
+        "amount": 3140000.0,
+        "bid_time": "2015-10-19T13:18:32.771747+03:00",
+        "bidder": "56653eab664d4aa895b08c96e300535e",
+        "time": "2015-10-19T10:20:11.009470+00:00"
+      },
+      "turn_3": {
+        "bidder": "dea713ca4dfc446d8c54a6481a3bd67a",
+        "time": "2015-10-19T10:22:11.008493+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ddc6ca1a0f842f4a2e441a844aff93a",
+        "time": "2015-10-19T10:18:11.007744+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ddc6ca1a0f842f4a2e441a844aff93a",
+          "amount": 3495737.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487165615, +380977334218",
+                "name": "Марина Спивак",
+                "email": "spivak.electro@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32020756",
+                "legalName": "ТОВ \"Электросервис-Юг\""
+              },
+              "name": "ТОВ \"Электросервис-Юг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65045",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-19T13:37:39.794769+03:00"
+        },
+        {
+          "bidder": "dea713ca4dfc446d8c54a6481a3bd67a",
+          "amount": 3428500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380992720706, +380487054982",
+                "name": "Руслан Лебеденко",
+                "email": "lra@vipastech.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37280567",
+                "legalName": "ТОВ \" \"Коммуникации и инженерные сети\"\""
+              },
+              "name": "ТОВ \" \"Коммуникации и инженерные сети\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65091",
+                "region": "Одесская",
+                "streetAddress": "ул.Средняя10а",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-19T13:39:03.499054+03:00"
+        },
+        {
+          "bidder": "1dd39a0861004d649afa0adbc397aaa3",
+          "amount": 2900000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380979709417",
+                "name": "Валентин Коновалов",
+                "email": "gradientsv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39812044",
+                "legalName": "ТОВ \"Градиєнт СВ\""
+              },
+              "name": "ТОВ \"Градиєнт СВ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "м. Дніпропетровськ, проспект Миру, буд. 29, оф. 104",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-19T13:34:05.389528+03:00"
+        },
+        {
+          "bidder": "56653eab664d4aa895b08c96e300535e",
+          "amount": 2500000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380994822485",
+                "name": "Елена  Мороз",
+                "email": "trush_1980@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39245058",
+                "legalName": "ТОВ \"Глобал Буд Інвест\""
+              },
+              "name": "ТОВ \"Глобал Буд Інвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "ул.Смирнова-Ласточкина буд 14 кв 16/8",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-19T13:40:27.222111+03:00"
+        }
+      ],
+      "time": "2015-10-19T10:44:14.034648+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T11:29:18.418058+03:00",
+          "amount": 3799998.0,
+          "bidder": "4ddc6ca1a0f842f4a2e441a844aff93a"
+        },
+        {
+          "date": "2015-10-16T12:32:12.078739+03:00",
+          "amount": 3600000.0,
+          "bidder": "56653eab664d4aa895b08c96e300535e"
+        },
+        {
+          "date": "2015-10-16T11:45:48.397279+03:00",
+          "amount": 3499102.8,
+          "bidder": "dea713ca4dfc446d8c54a6481a3bd67a"
+        },
+        {
+          "date": "2015-10-16T13:06:33.517224+03:00",
+          "amount": 3210000.0,
+          "bidder": "1dd39a0861004d649afa0adbc397aaa3"
+        }
+      ],
+      "time": "2015-10-19T10:11:11.003723+00:00"
+    }
+  },
+  "id": "55ba2342d11f41e9a9157a911a985b3c",
+  "tenderId": "UA-2015-10-06-000285"
+}

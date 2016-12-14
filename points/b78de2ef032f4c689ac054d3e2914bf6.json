@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "91c9cb4621e449aba7e509b1f4afa872",
+        "time": "2015-10-30T11:57:56.012308+00:00"
+      },
+      "turn_1": {
+        "bidder": "261d63b2a6814f0c81bfa8e7623107cf",
+        "time": "2015-10-30T11:55:56.009366+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "91c9cb4621e449aba7e509b1f4afa872",
+        "time": "2015-10-30T12:03:56.010273+00:00"
+      },
+      "turn_1": {
+        "bidder": "261d63b2a6814f0c81bfa8e7623107cf",
+        "time": "2015-10-30T12:01:56.010192+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "91c9cb4621e449aba7e509b1f4afa872",
+        "time": "2015-10-30T11:51:56.007850+00:00"
+      },
+      "turn_1": {
+        "amount": 193050.0,
+        "bid_time": "2015-10-30T13:49:13.080162+02:00",
+        "bidder": "261d63b2a6814f0c81bfa8e7623107cf",
+        "time": "2015-10-30T11:49:56.010545+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "261d63b2a6814f0c81bfa8e7623107cf",
+          "amount": 193050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.rozkom.com.ua",
+                "telephone": "+380674078303",
+                "name": "ТОВ Розком",
+                "email": "Reugen@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32210799",
+                "legalName": "ТОВ Розком"
+              },
+              "name": "ТОВ Розком",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Киев,бул. Ромена Роланна, 13 г, 211",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T13:49:13.080162+02:00"
+        },
+        {
+          "bidder": "91c9cb4621e449aba7e509b1f4afa872",
+          "amount": 190710.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://smebel.kiev.ua",
+                "telephone": "+380445361895",
+                "name": "ПАТ \"Спецмеблі\"",
+                "email": "smebel@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00273910",
+                "legalName": "ПАТ \"Спецмеблі\""
+              },
+              "name": "ПАТ \"Спецмеблі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ\r\nНовокостянтинівська,1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T14:13:13.192582+02:00"
+        }
+      ],
+      "time": "2015-10-30T12:03:57.318270+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-29T17:53:27.234921+02:00",
+          "amount": 195000.0,
+          "bidder": "261d63b2a6814f0c81bfa8e7623107cf"
+        },
+        {
+          "date": "2015-10-29T14:13:13.192582+02:00",
+          "amount": 190710.0,
+          "bidder": "91c9cb4621e449aba7e509b1f4afa872"
+        }
+      ],
+      "time": "2015-10-30T11:42:56.002746+00:00"
+    }
+  },
+  "id": "b78de2ef032f4c689ac054d3e2914bf6",
+  "tenderId": "UA-2015-10-22-000372"
+}

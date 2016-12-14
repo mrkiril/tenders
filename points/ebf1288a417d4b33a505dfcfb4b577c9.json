@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7594a096cdf541b78d3b7e70d2d24fa6",
+        "time": "2015-12-07T09:24:22.008862+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fa3c392d469414a9640513cbf38eaef",
+        "time": "2015-12-07T09:22:22.009048+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7594a096cdf541b78d3b7e70d2d24fa6",
+        "time": "2015-12-07T09:30:22.008057+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fa3c392d469414a9640513cbf38eaef",
+        "time": "2015-12-07T09:28:22.008187+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7594a096cdf541b78d3b7e70d2d24fa6",
+        "time": "2015-12-07T09:18:22.009071+00:00"
+      },
+      "turn_1": {
+        "bidder": "9fa3c392d469414a9640513cbf38eaef",
+        "time": "2015-12-07T09:16:22.008313+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9fa3c392d469414a9640513cbf38eaef",
+          "amount": 6850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961577205",
+                "name": "Олександр Коновалов",
+                "email": "konovalov2007@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172108378",
+                "legalName": "ФОП \"ПП Коновалов С.В.\""
+              },
+              "name": "ФОП \"ПП Коновалов С.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "35100",
+                "region": "Ровенская",
+                "streetAddress": "смт. Млинів вул Рівненська 9\\32",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-12-02T11:48:13.649117+02:00"
+        },
+        {
+          "bidder": "7594a096cdf541b78d3b7e70d2d24fa6",
+          "amount": 6800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0975876763",
+                "name": "Панасюк Анатолій Юрійович",
+                "email": "5876763@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3092309618",
+                "legalName": "ФОП Панасюк Анатолій Юрійович"
+              },
+              "name": "ФОП Панасюк Анатолій Юрійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "33024",
+                "region": "Рівненська",
+                "streetAddress": "Соборна, 261 кв 111",
+                "locality": "Рівне"
+              }
+            }
+          ],
+          "time": "2015-12-03T12:14:38.929568+02:00"
+        }
+      ],
+      "time": "2015-12-07T09:30:40.246556+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T11:48:13.649117+02:00",
+          "amount": 6850.0,
+          "bidder": "9fa3c392d469414a9640513cbf38eaef"
+        },
+        {
+          "date": "2015-12-03T12:14:38.929568+02:00",
+          "amount": 6800.0,
+          "bidder": "7594a096cdf541b78d3b7e70d2d24fa6"
+        }
+      ],
+      "time": "2015-12-07T09:09:22.004608+00:00"
+    }
+  },
+  "id": "ebf1288a417d4b33a505dfcfb4b577c9",
+  "tenderId": "UA-2015-11-27-000128"
+}

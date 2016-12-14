@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d80170e0909a4b56975498a3ade91aec",
+        "time": "2015-09-21T08:45:00.137921+00:00"
+      },
+      "turn_1": {
+        "bidder": "06820184fc6f4f27b1a7ee0df1c4fbbe",
+        "time": "2015-09-21T08:43:00.123348+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d80170e0909a4b56975498a3ade91aec",
+        "time": "2015-09-21T08:51:00.039191+00:00"
+      },
+      "turn_1": {
+        "bidder": "06820184fc6f4f27b1a7ee0df1c4fbbe",
+        "time": "2015-09-21T08:49:00.075056+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d80170e0909a4b56975498a3ade91aec",
+        "time": "2015-09-21T08:39:00.127588+00:00"
+      },
+      "turn_1": {
+        "bidder": "06820184fc6f4f27b1a7ee0df1c4fbbe",
+        "time": "2015-09-21T08:37:00.134821+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "06820184fc6f4f27b1a7ee0df1c4fbbe",
+          "amount": 16840.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993630749",
+                "name": "Общество с ограниченной ответственностью  \"ЮГСВЕТ\"",
+                "email": "mes@svetoteh.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39115503",
+                "legalName": "Общество с ограниченной ответственностью  \"ЮГСВЕТ\""
+              },
+              "name": "Общество с ограниченной ответственностью  \"ЮГСВЕТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Херсон, ул.Горького, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T10:28:49.850491+03:00"
+        },
+        {
+          "bidder": "d80170e0909a4b56975498a3ade91aec",
+          "amount": 13728.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.elektal.com.ua",
+                "telephone": "+380562392999",
+                "name": "ООО\"Электал\"",
+                "email": "marina@elektal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31540498",
+                "legalName": "ООО\"Электал\""
+              },
+              "name": "ООО\"Электал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г.Днепропетровск,ул.Генерала Пушкина,26/171",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T09:44:17.520682+03:00"
+        }
+      ],
+      "time": "2015-09-21T08:51:11.285047+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-18T10:28:49.850491+03:00",
+          "amount": 16840.8,
+          "bidder": "06820184fc6f4f27b1a7ee0df1c4fbbe"
+        },
+        {
+          "date": "2015-09-15T09:44:17.520682+03:00",
+          "amount": 13728.0,
+          "bidder": "d80170e0909a4b56975498a3ade91aec"
+        }
+      ],
+      "time": "2015-09-21T08:30:00.020457+00:00"
+    }
+  },
+  "id": "f3a0be1da52c484db5c085136a3d3277",
+  "tenderId": "UA-2015-09-09-000218"
+}

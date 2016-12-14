@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2be84643da844a48958c9b39ff5ce194",
+        "time": "2015-10-22T12:54:44.009508+00:00"
+      },
+      "turn_1": {
+        "bidder": "3123a5ef304d4365bcee4f0f85393b50",
+        "time": "2015-10-22T12:52:44.007721+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2be84643da844a48958c9b39ff5ce194",
+        "time": "2015-10-22T13:00:44.008141+00:00"
+      },
+      "turn_1": {
+        "bidder": "3123a5ef304d4365bcee4f0f85393b50",
+        "time": "2015-10-22T12:58:44.008823+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2be84643da844a48958c9b39ff5ce194",
+        "time": "2015-10-22T12:48:44.010628+00:00"
+      },
+      "turn_1": {
+        "bidder": "3123a5ef304d4365bcee4f0f85393b50",
+        "time": "2015-10-22T12:46:44.009653+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3123a5ef304d4365bcee4f0f85393b50",
+          "amount": 31912.32,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567210231",
+                "name": "ПП \"ЧП «Велес»\"",
+                "email": "veles77@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31181579",
+                "legalName": "ПП \"ЧП «Велес»\""
+              },
+              "name": "ПП \"ЧП «Велес»\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49106",
+                "region": "",
+                "streetAddress": "г Днепропетровск,ул Новогодняя,77 кв39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T17:03:18.357277+03:00"
+        },
+        {
+          "bidder": "2be84643da844a48958c9b39ff5ce194",
+          "amount": 23630.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T18:28:24.727051+03:00"
+        }
+      ],
+      "time": "2015-10-22T13:01:26.883629+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T17:03:18.357277+03:00",
+          "amount": 31912.32,
+          "bidder": "3123a5ef304d4365bcee4f0f85393b50"
+        },
+        {
+          "date": "2015-10-21T18:28:24.727051+03:00",
+          "amount": 23630.4,
+          "bidder": "2be84643da844a48958c9b39ff5ce194"
+        }
+      ],
+      "time": "2015-10-22T12:39:44.004108+00:00"
+    }
+  },
+  "id": "17033afbf61b444a993d3058f690e278",
+  "tenderId": "UA-2015-10-13-000040"
+}

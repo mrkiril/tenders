@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d6f164a19ce94e4d9f9e7f1373e3068f",
+        "time": "2015-07-28T08:15:00.072025+00:00"
+      },
+      "turn_1": {
+        "bidder": "77545a6ddfea4e2c89c1b31337e75de7",
+        "time": "2015-07-28T08:13:00.024127+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d6f164a19ce94e4d9f9e7f1373e3068f",
+        "time": "2015-07-28T08:21:00.072891+00:00"
+      },
+      "turn_1": {
+        "bidder": "77545a6ddfea4e2c89c1b31337e75de7",
+        "time": "2015-07-28T08:19:00.069208+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d6f164a19ce94e4d9f9e7f1373e3068f",
+        "time": "2015-07-28T08:09:00.041462+00:00"
+      },
+      "turn_1": {
+        "bidder": "77545a6ddfea4e2c89c1b31337e75de7",
+        "time": "2015-07-28T08:07:00.046678+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "77545a6ddfea4e2c89c1b31337e75de7",
+          "amount": 28900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380612202534, +380634563900, +380967690269, +380661600212, +380612841525",
+                "name": "Стандарт-М Стандарт-М",
+                "email": "standart1995@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23284804",
+                "legalName": "ТОВ \"Стандарт-М\""
+              },
+              "name": "ТОВ \"Стандарт-М\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69096",
+                "region": "Запорожская",
+                "streetAddress": "69096, м. Запоріжжя, вул. Маршала Чуйкова, буд.23, кв.84",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-07-22T13:28:35.390403+03:00"
+        },
+        {
+          "bidder": "d6f164a19ce94e4d9f9e7f1373e3068f",
+          "amount": 19470.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445007988, +380673002626, +380445007988",
+                "name": "Юрий Штонда",
+                "email": "detex@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36272728",
+                "legalName": "ООО \"ДЕТЕКС\""
+              },
+              "name": "ООО \"ДЕТЕКС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "02088, г. Киев, ул. Промышленная, 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-27T18:28:56.385294+03:00"
+        }
+      ],
+      "time": "2015-07-28T08:21:03.096047+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-22T13:28:35.390403+03:00",
+          "amount": 28900.0,
+          "bidder": "77545a6ddfea4e2c89c1b31337e75de7"
+        },
+        {
+          "date": "2015-07-27T18:28:56.385294+03:00",
+          "amount": 19470.0,
+          "bidder": "d6f164a19ce94e4d9f9e7f1373e3068f"
+        }
+      ],
+      "time": "2015-07-28T08:00:00.002072+00:00"
+    }
+  },
+  "id": "06cc566dfd43430ba11ed243eb9ae75f",
+  "tenderId": "UA-2015-07-14-000004"
+}

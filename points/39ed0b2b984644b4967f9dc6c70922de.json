@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "481f20a60f854a74b59aa178b9fad6ad",
+        "time": "2015-11-20T12:59:07.007948+00:00"
+      },
+      "turn_3": {
+        "bidder": "73781d13ebd640e29b1d7b5ddf112676",
+        "time": "2015-11-20T13:01:07.008231+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c9f9c4d11e6427ca6f57a06936a2271",
+        "time": "2015-11-20T12:57:07.009096+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7850.0,
+        "bid_time": "2015-11-20T15:06:21.260280+02:00",
+        "bidder": "481f20a60f854a74b59aa178b9fad6ad",
+        "time": "2015-11-20T13:07:07.010548+00:00"
+      },
+      "turn_3": {
+        "amount": 7700.0,
+        "bid_time": "2015-11-20T15:09:06.640670+02:00",
+        "bidder": "73781d13ebd640e29b1d7b5ddf112676",
+        "time": "2015-11-20T13:09:07.008647+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c9f9c4d11e6427ca6f57a06936a2271",
+        "time": "2015-11-20T13:05:07.007913+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "481f20a60f854a74b59aa178b9fad6ad",
+        "time": "2015-11-20T12:51:07.007974+00:00"
+      },
+      "turn_3": {
+        "bidder": "73781d13ebd640e29b1d7b5ddf112676",
+        "time": "2015-11-20T12:53:07.008353+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c9f9c4d11e6427ca6f57a06936a2271",
+        "time": "2015-11-20T12:49:07.009272+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3c9f9c4d11e6427ca6f57a06936a2271",
+          "amount": 8290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uitc.kiev.ua",
+                "telephone": "+380442201873",
+                "name": "ООО\"Украинская   международная  торговая  компания \"",
+                "email": "ruslan@uitc.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36046631",
+                "legalName": "ООО\"Украинская   международная  торговая  компания \""
+              },
+              "name": "ООО\"Украинская   международная  торговая  компания \"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02068 г.Киев  ул. А. Ахматовой  13д оф462",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-19T12:51:54.031195+02:00"
+        },
+        {
+          "bidder": "481f20a60f854a74b59aa178b9fad6ad",
+          "amount": 7850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.promsafety.com.ua",
+                "telephone": "+380444990791",
+                "name": "ТОВ \"Промсейфті Груп\"",
+                "email": "vitalina@promsafety.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39401449",
+                "legalName": "ТОВ \"Промсейфті Груп\""
+              },
+              "name": "ТОВ \"Промсейфті Груп\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02081",
+                "region": "",
+                "streetAddress": "м.Київ, вул.Здолбунівська, 7-г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-20T15:06:21.260280+02:00"
+        },
+        {
+          "bidder": "73781d13ebd640e29b1d7b5ddf112676",
+          "amount": 7700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://WWW.sta3003.com.ua",
+                "telephone": "+380444594830",
+                "name": "ТОВ \"Спецторгальянс\"",
+                "email": "0667735352@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38354173",
+                "legalName": "ТОВ \"Спецторгальянс\""
+              },
+              "name": "ТОВ \"Спецторгальянс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Смілянська, буд. 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-20T15:09:06.640670+02:00"
+        }
+      ],
+      "time": "2015-11-20T13:09:09.849376+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T12:51:54.031195+02:00",
+          "amount": 8290.0,
+          "bidder": "3c9f9c4d11e6427ca6f57a06936a2271"
+        },
+        {
+          "date": "2015-11-18T17:48:58.916617+02:00",
+          "amount": 8260.56,
+          "bidder": "481f20a60f854a74b59aa178b9fad6ad"
+        },
+        {
+          "date": "2015-11-18T17:56:58.209999+02:00",
+          "amount": 7900.2,
+          "bidder": "73781d13ebd640e29b1d7b5ddf112676"
+        }
+      ],
+      "time": "2015-11-20T12:42:07.002427+00:00"
+    }
+  },
+  "id": "39ed0b2b984644b4967f9dc6c70922de",
+  "tenderId": "UA-2015-11-16-000141-a"
+}

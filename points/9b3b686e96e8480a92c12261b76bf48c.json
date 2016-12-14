@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 126990.0,
+        "bid_time": "2015-06-10T11:15:51.055210+03:00",
+        "bidder": "3ddcf30fcd1c44dcbc7587190e346e98",
+        "time": "2015-06-10T08:17:00.373671+00:00"
+      },
+      "turn_3": {
+        "amount": 119000.0,
+        "bid_time": "2015-06-10T11:18:11.326818+03:00",
+        "bidder": "4427312787434fd7aa7bca3061a1a016",
+        "time": "2015-06-10T08:19:00.256644+00:00"
+      },
+      "turn_1": {
+        "bidder": "da515a83f0c54359b9333324e4643fe3",
+        "time": "2015-06-10T08:15:00.220773+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 117000.0,
+        "bid_time": "2015-06-10T11:23:31.210234+03:00",
+        "bidder": "3ddcf30fcd1c44dcbc7587190e346e98",
+        "time": "2015-06-10T08:25:00.142856+00:00"
+      },
+      "turn_3": {
+        "amount": 96000.0,
+        "bid_time": "2015-06-10T11:26:25.013568+03:00",
+        "bidder": "4427312787434fd7aa7bca3061a1a016",
+        "time": "2015-06-10T08:27:00.184655+00:00"
+      },
+      "turn_1": {
+        "amount": 135000.0,
+        "bid_time": "2015-06-10T11:22:12.066263+03:00",
+        "bidder": "da515a83f0c54359b9333324e4643fe3",
+        "time": "2015-06-10T08:23:00.068940+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "da515a83f0c54359b9333324e4643fe3",
+        "time": "2015-06-10T08:09:00.381873+00:00"
+      },
+      "turn_3": {
+        "bidder": "3ddcf30fcd1c44dcbc7587190e346e98",
+        "time": "2015-06-10T08:11:00.290959+00:00"
+      },
+      "turn_1": {
+        "amount": 129000.0,
+        "bid_time": "2015-06-10T11:06:21.549075+03:00",
+        "bidder": "4427312787434fd7aa7bca3061a1a016",
+        "time": "2015-06-10T08:07:00.646787+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "da515a83f0c54359b9333324e4643fe3",
+          "amount": 135000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380997723125",
+                "name": "Вячеслав",
+                "email": "slava@transcomradio.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ООО «Транском-Радио» ",
+                "id": "38308305",
+                "uri": "http://transcomradio.com.ua/"
+              },
+              "name": "ООО «Транском-Радио» ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-10T11:22:12.066263+03:00"
+        },
+        {
+          "bidder": "3ddcf30fcd1c44dcbc7587190e346e98",
+          "amount": 117000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://catalog.drsua.com",
+                "telephone": "+380678847444",
+                "name": "ООО «Компания «Цифровые Радиосистемы»",
+                "email": "serg@drsua.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38234684",
+                "legalName": "ООО «Компания «Цифровые Радиосистемы»"
+              },
+              "name": "ООО «Компания «Цифровые Радиосистемы»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев ул.Константиновская, 73, 04080",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-10T11:23:31.210234+03:00"
+        },
+        {
+          "bidder": "4427312787434fd7aa7bca3061a1a016",
+          "amount": 96000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://parad-dnepr.com.ua",
+                "telephone": "+3805623728185",
+                "name": "ООО \"ПАРАД-ДНЕПР\"",
+                "email": "com77@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21926747",
+                "legalName": "ООО \"ПАРАД-ДНЕПР\""
+              },
+              "name": "ООО \"ПАРАД-ДНЕПР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000 Украина, г.Днепропетровск, пр. Карал Маркса 60 офис 32",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-10T11:26:25.013568+03:00"
+        }
+      ],
+      "time": "2015-06-10T08:27:14.894521+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T09:59:39.345946+03:00",
+          "amount": 138000.0,
+          "bidder": "4427312787434fd7aa7bca3061a1a016"
+        },
+        {
+          "date": "2015-06-05T14:27:04.351737+03:00",
+          "amount": 137998.42,
+          "bidder": "da515a83f0c54359b9333324e4643fe3"
+        },
+        {
+          "date": "2015-06-08T09:37:28.025253+03:00",
+          "amount": 137772.0,
+          "bidder": "3ddcf30fcd1c44dcbc7587190e346e98"
+        }
+      ],
+      "time": "2015-06-10T08:00:00.057970+00:00"
+    }
+  },
+  "id": "9b3b686e96e8480a92c12261b76bf48c",
+  "tenderId": "UA-2015-05-27-000008"
+}

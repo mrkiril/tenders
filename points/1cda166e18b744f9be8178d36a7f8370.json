@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "31af28700b264a96bc81684f7ea065bb",
+        "time": "2015-11-19T10:50:15.026672+00:00"
+      },
+      "turn_1": {
+        "bidder": "058d1fdd1d8243e98168622d8c1f91da",
+        "time": "2015-11-19T10:48:15.007877+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "31af28700b264a96bc81684f7ea065bb",
+        "time": "2015-11-19T10:56:15.008177+00:00"
+      },
+      "turn_1": {
+        "bidder": "058d1fdd1d8243e98168622d8c1f91da",
+        "time": "2015-11-19T10:54:15.008130+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "31af28700b264a96bc81684f7ea065bb",
+        "time": "2015-11-19T10:44:15.008387+00:00"
+      },
+      "turn_1": {
+        "bidder": "058d1fdd1d8243e98168622d8c1f91da",
+        "time": "2015-11-19T10:42:15.008166+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "058d1fdd1d8243e98168622d8c1f91da",
+          "amount": 1395.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505201307",
+                "name": "Фізична особа-підприємець Коломієць Тамара Василівна",
+                "email": "info@record-centr.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2814319844",
+                "legalName": "Фізична особа-підприємець Коломієць Тамара Василівна"
+              },
+              "name": "Фізична особа-підприємець Коломієць Тамара Василівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "09100, Київська обл., місто Біла Церква, ВУЛИЦЯ ПАВЛІЧЕНКО, будинок 12-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-18T15:04:18.361283+02:00"
+        },
+        {
+          "bidder": "31af28700b264a96bc81684f7ea065bb",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.centr-poligrafii.dp.ua",
+                "faxNumber": "+380569536185",
+                "telephone": "+380632579078",
+                "name": "Антіпов Олексій Вікторович",
+                "email": "antipov@centr-poligrafii.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37103543"
+              },
+              "name": "ТОВ Центр поліграфіі",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "51925",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Інститутська 2-2",
+                "locality": "Дніпродзержинськ"
+              }
+            }
+          ],
+          "time": "2015-11-18T13:10:16.175330+02:00"
+        }
+      ],
+      "time": "2015-11-19T10:56:16.091748+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T15:04:18.361283+02:00",
+          "amount": 1395.0,
+          "bidder": "058d1fdd1d8243e98168622d8c1f91da"
+        },
+        {
+          "date": "2015-11-18T13:10:16.175330+02:00",
+          "amount": 1200.0,
+          "bidder": "31af28700b264a96bc81684f7ea065bb"
+        }
+      ],
+      "time": "2015-11-19T10:35:15.004030+00:00"
+    }
+  },
+  "id": "1cda166e18b744f9be8178d36a7f8370",
+  "tenderId": "UA-2015-11-12-000025"
+}

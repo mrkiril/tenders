@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1694.0,
+        "bid_time": "2015-11-04T15:26:30.852144+02:00",
+        "bidder": "f076ef9c72ab4cc19e332db353d113f5",
+        "time": "2015-11-04T13:27:59.009663+00:00"
+      },
+      "turn_1": {
+        "amount": 1790.0,
+        "bid_time": "2015-11-04T15:25:13.460195+02:00",
+        "bidder": "9dea48afbb734ecaab4691006c124f5a",
+        "time": "2015-11-04T13:25:59.009644+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f076ef9c72ab4cc19e332db353d113f5",
+        "time": "2015-11-04T13:33:59.008169+00:00"
+      },
+      "turn_1": {
+        "bidder": "9dea48afbb734ecaab4691006c124f5a",
+        "time": "2015-11-04T13:31:59.008970+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f076ef9c72ab4cc19e332db353d113f5",
+        "time": "2015-11-04T13:21:59.010574+00:00"
+      },
+      "turn_1": {
+        "bidder": "9dea48afbb734ecaab4691006c124f5a",
+        "time": "2015-11-04T13:19:59.008460+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9dea48afbb734ecaab4691006c124f5a",
+          "amount": 1790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+30971375199",
+                "name": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\"",
+                "email": "autocarman-plus@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39725402",
+                "legalName": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\""
+              },
+              "name": "Товариство з обмеженою відповідальністью \"Автокарман Плюс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "50049, Дніпропетровська обл., м. Кривий Ріг, вул. Скандинавська, 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T15:25:13.460195+02:00"
+        },
+        {
+          "bidder": "f076ef9c72ab4cc19e332db353d113f5",
+          "amount": 1694.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-04T15:26:30.852144+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:34:02.109860+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T15:13:38.070190+02:00",
+          "amount": 2010.0,
+          "bidder": "9dea48afbb734ecaab4691006c124f5a"
+        },
+        {
+          "date": "2015-10-30T17:50:55.417517+02:00",
+          "amount": 1795.2,
+          "bidder": "f076ef9c72ab4cc19e332db353d113f5"
+        }
+      ],
+      "time": "2015-11-04T13:12:59.004740+00:00"
+    }
+  },
+  "id": "08316a15346a45209ef1df8bc3bd53ab",
+  "tenderId": "UA-2015-10-27-000188"
+}

@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "18e9dab58fdb4fe3b0c40c28632bc488",
+        "time": "2015-10-29T09:23:43.014058+00:00"
+      },
+      "turn_3": {
+        "bidder": "174c5b3ebd7b45fba91d1ba4aa16b991",
+        "time": "2015-10-29T09:25:43.011057+00:00"
+      },
+      "turn_1": {
+        "amount": 2000.0,
+        "bid_time": "2015-10-29T11:20:24.277638+02:00",
+        "bidder": "dadbe26eb89e4a329b0f8a6a0bc0294a",
+        "time": "2015-10-29T09:21:43.011282+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dadbe26eb89e4a329b0f8a6a0bc0294a",
+        "time": "2015-10-29T09:31:43.008444+00:00"
+      },
+      "turn_3": {
+        "bidder": "174c5b3ebd7b45fba91d1ba4aa16b991",
+        "time": "2015-10-29T09:33:43.009266+00:00"
+      },
+      "turn_1": {
+        "bidder": "18e9dab58fdb4fe3b0c40c28632bc488",
+        "time": "2015-10-29T09:29:43.007610+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "18e9dab58fdb4fe3b0c40c28632bc488",
+        "time": "2015-10-29T09:15:43.008658+00:00"
+      },
+      "turn_3": {
+        "bidder": "174c5b3ebd7b45fba91d1ba4aa16b991",
+        "time": "2015-10-29T09:17:43.008505+00:00"
+      },
+      "turn_1": {
+        "bidder": "dadbe26eb89e4a329b0f8a6a0bc0294a",
+        "time": "2015-10-29T09:13:43.011378+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "18e9dab58fdb4fe3b0c40c28632bc488",
+          "amount": 2850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380443777849",
+                "telephone": "+380443777849",
+                "name": "Базилевич Юрій Анатолійович",
+                "email": "privatenergo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36253988"
+              },
+              "name": "ТОВ ПРИВАТЕНЕРГО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04205",
+                "region": "Київська область",
+                "streetAddress": "пр-т Оболонський, 18",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-28T12:09:01.548595+02:00"
+        },
+        {
+          "bidder": "dadbe26eb89e4a329b0f8a6a0bc0294a",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://korsuncity.com.ua/",
+                "telephone": "0968486767",
+                "name": "Виталий Мацюк ",
+                "email": "nice_price@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3154313356",
+                "legalName": "ФОП Мацюк В.С."
+              },
+              "name": "ФОП Мацюк В.С.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Черкасская область",
+                "streetAddress": "19400,м. Корсунь-Шевчекікський, Черкаська обл., Леніна 323 а"
+              }
+            }
+          ],
+          "time": "2015-10-29T11:20:24.277638+02:00"
+        },
+        {
+          "bidder": "174c5b3ebd7b45fba91d1ba4aa16b991",
+          "amount": 839.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671622872",
+                "name": "Товариство з обмеженою відповідальністю \"ЕЛЕКТРОІМПУЛЬС\"",
+                "email": "in@eimpuls.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35230100",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЕЛЕКТРОІМПУЛЬС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЕЛЕКТРОІМПУЛЬС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "50086, Дніпропетровська обл., м. Кривий Ріг, Отто Брозовського, 72 В оф.215",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-28T16:32:26.795910+02:00"
+        }
+      ],
+      "time": "2015-10-29T09:33:45.530395+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T14:41:17.801158+02:00",
+          "amount": 2900.0,
+          "bidder": "dadbe26eb89e4a329b0f8a6a0bc0294a"
+        },
+        {
+          "date": "2015-10-28T12:09:01.548595+02:00",
+          "amount": 2850.0,
+          "bidder": "18e9dab58fdb4fe3b0c40c28632bc488"
+        },
+        {
+          "date": "2015-10-28T16:32:26.795910+02:00",
+          "amount": 839.0,
+          "bidder": "174c5b3ebd7b45fba91d1ba4aa16b991"
+        }
+      ],
+      "time": "2015-10-29T09:06:43.004227+00:00"
+    }
+  },
+  "id": "69b454b649d54eaf80722a1f58fbb9e3",
+  "tenderId": "UA-2015-10-23-000047"
+}

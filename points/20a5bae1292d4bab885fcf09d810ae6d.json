@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "59d52ccb5e3b40e18238909c56cd3924",
+        "time": "2015-11-12T10:20:57.009432+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d26750618d54d729c7ce700dfd8cb87",
+        "time": "2015-11-12T10:22:57.009274+00:00"
+      },
+      "turn_1": {
+        "bidder": "2eaff7dfffdc4181a8975d722dcb780b",
+        "time": "2015-11-12T10:18:57.009265+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "59d52ccb5e3b40e18238909c56cd3924",
+        "time": "2015-11-12T10:28:57.009505+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d26750618d54d729c7ce700dfd8cb87",
+        "time": "2015-11-12T10:30:57.008616+00:00"
+      },
+      "turn_1": {
+        "bidder": "2eaff7dfffdc4181a8975d722dcb780b",
+        "time": "2015-11-12T10:26:57.013643+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "59d52ccb5e3b40e18238909c56cd3924",
+        "time": "2015-11-12T10:12:57.008010+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d26750618d54d729c7ce700dfd8cb87",
+        "time": "2015-11-12T10:14:57.007342+00:00"
+      },
+      "turn_1": {
+        "bidder": "2eaff7dfffdc4181a8975d722dcb780b",
+        "time": "2015-11-12T10:10:57.017786+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2eaff7dfffdc4181a8975d722dcb780b",
+          "amount": 161999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://insit.com.ua",
+                "telephone": "+380503840101",
+                "name": "Современные информационные технологии ИНСИТ",
+                "email": "almik@insit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21607462",
+                "legalName": "Современные информационные технологии ИНСИТ"
+              },
+              "name": "Современные информационные технологии ИНСИТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601 Киев, ул.Красноармейская 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-11T17:56:13.078725+02:00"
+        },
+        {
+          "bidder": "59d52ccb5e3b40e18238909c56cd3924",
+          "amount": 160000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dsm-trade.com.ua",
+                "telephone": "+380633156456",
+                "name": "ТОВ \"ДСМ-ТРЕЙД\"",
+                "email": "ys@dsm-trade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36392290",
+                "legalName": "ТОВ \"ДСМ-ТРЕЙД\""
+              },
+              "name": "ТОВ \"ДСМ-ТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Киев, ул. Семьи Сосниных, 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-10T12:13:20.257960+02:00"
+        },
+        {
+          "bidder": "3d26750618d54d729c7ce700dfd8cb87",
+          "amount": 152911.01,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380441234567",
+                "name": "Товариство з обмеженою відповідальністю \"ВС Технолоджі\"",
+                "email": "aleksandr.dvornik@vstechno.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30574751",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВС Технолоджі\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВС Технолоджі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська обл.",
+                "streetAddress": "Іллі Мечникова, 10/2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T17:59:35.141270+02:00"
+        }
+      ],
+      "time": "2015-11-12T10:31:00.154935+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T17:56:13.078725+02:00",
+          "amount": 161999.0,
+          "bidder": "2eaff7dfffdc4181a8975d722dcb780b"
+        },
+        {
+          "date": "2015-11-10T12:13:20.257960+02:00",
+          "amount": 160000.0,
+          "bidder": "59d52ccb5e3b40e18238909c56cd3924"
+        },
+        {
+          "date": "2015-11-11T17:59:35.141270+02:00",
+          "amount": 152911.01,
+          "bidder": "3d26750618d54d729c7ce700dfd8cb87"
+        }
+      ],
+      "time": "2015-11-12T10:03:57.002855+00:00"
+    }
+  },
+  "id": "20a5bae1292d4bab885fcf09d810ae6d",
+  "tenderId": "UA-2015-11-04-000370"
+}

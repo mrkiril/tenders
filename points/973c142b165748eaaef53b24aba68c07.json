@@ -1,0 +1,244 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "0546e955d64844ef8198ff634dd6f43b",
+        "time": "2015-12-15T11:07:15.012251+00:00"
+      },
+      "turn_5": {
+        "bidder": "5ab0296eaf2844bfae5e56bf9e310a66",
+        "time": "2015-12-15T11:09:15.008003+00:00"
+      },
+      "turn_2": {
+        "bidder": "b40cb88c0d7b4f719a1f9d24722f55cc",
+        "time": "2015-12-15T11:03:15.008278+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f61565c1e024af18f84a37de69a31ae",
+        "time": "2015-12-15T11:05:15.008229+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c84b6f8e7ea4f459570b03da0953eec",
+        "time": "2015-12-15T11:01:15.028332+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "0546e955d64844ef8198ff634dd6f43b",
+        "time": "2015-12-15T11:19:15.007286+00:00"
+      },
+      "turn_5": {
+        "bidder": "5ab0296eaf2844bfae5e56bf9e310a66",
+        "time": "2015-12-15T11:21:15.007522+00:00"
+      },
+      "turn_2": {
+        "bidder": "b40cb88c0d7b4f719a1f9d24722f55cc",
+        "time": "2015-12-15T11:15:15.007202+00:00"
+      },
+      "turn_3": {
+        "bidder": "7f61565c1e024af18f84a37de69a31ae",
+        "time": "2015-12-15T11:17:15.007630+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c84b6f8e7ea4f459570b03da0953eec",
+        "time": "2015-12-15T11:13:15.007156+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "7f61565c1e024af18f84a37de69a31ae",
+        "time": "2015-12-15T10:55:15.039192+00:00"
+      },
+      "turn_5": {
+        "bidder": "0546e955d64844ef8198ff634dd6f43b",
+        "time": "2015-12-15T10:57:15.008062+00:00"
+      },
+      "turn_2": {
+        "bidder": "b40cb88c0d7b4f719a1f9d24722f55cc",
+        "time": "2015-12-15T10:51:15.008987+00:00"
+      },
+      "turn_3": {
+        "amount": 8016.0,
+        "bid_time": "2015-12-15T12:51:51.133789+02:00",
+        "bidder": "5ab0296eaf2844bfae5e56bf9e310a66",
+        "time": "2015-12-15T10:53:15.010850+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c84b6f8e7ea4f459570b03da0953eec",
+        "time": "2015-12-15T10:49:15.008932+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7c84b6f8e7ea4f459570b03da0953eec",
+          "amount": 11022.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442192200",
+                "telephone": "+380679132826",
+                "name": "Мельник Лілія Миколаївна",
+                "email": "fortuna_m@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2963009588"
+              },
+              "name": "ФОП Мельник",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08320",
+                "region": "Київська область",
+                "streetAddress": "Гагаріна 52",
+                "locality": "Велика Олександрівка"
+              }
+            }
+          ],
+          "time": "2015-12-14T10:23:27.708878+02:00"
+        },
+        {
+          "bidder": "b40cb88c0d7b4f719a1f9d24722f55cc",
+          "amount": 10980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674964672",
+                "name": "Василий Поддубняк",
+                "email": "vasil.v.p@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2866006679",
+                "legalName": "ФОП \"ФОП Піддубняк ВВ\""
+              },
+              "name": "ФОП \"ФОП Піддубняк ВВ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "35306",
+                "region": "Ровенская",
+                "streetAddress": "с. Колоденка, ул Ровенская 48",
+                "locality": "Колоденка"
+              }
+            }
+          ],
+          "time": "2015-12-11T22:25:46.044905+02:00"
+        },
+        {
+          "bidder": "7f61565c1e024af18f84a37de69a31ae",
+          "amount": 8698.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442541591",
+                "telephone": "+380442541591",
+                "name": "Густі Валентина Олександрівна",
+                "email": "gusti@geront.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2202416922"
+              },
+              "name": "ФОП Густі Валентина Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02125",
+                "region": "Київська область",
+                "streetAddress": "вул.Петра Запорожця, б.14/3, кв.111",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T14:45:40.403142+02:00"
+        },
+        {
+          "bidder": "0546e955d64844ef8198ff634dd6f43b",
+          "amount": 8086.14,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:43:27.797286+02:00"
+        },
+        {
+          "bidder": "5ab0296eaf2844bfae5e56bf9e310a66",
+          "amount": 8016.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677921681",
+                "name": "Батрак Роман Миколайович",
+                "email": "rnb.79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2933704543"
+              },
+              "name": "ФОП Батрак Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська область",
+                "streetAddress": "вул.О.Попова, буд.15, кв.35",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:51:51.133789+02:00"
+        }
+      ],
+      "time": "2015-12-15T11:21:22.869636+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T10:23:27.708878+02:00",
+          "amount": 11022.0,
+          "bidder": "7c84b6f8e7ea4f459570b03da0953eec"
+        },
+        {
+          "date": "2015-12-11T22:25:46.044905+02:00",
+          "amount": 10980.0,
+          "bidder": "b40cb88c0d7b4f719a1f9d24722f55cc"
+        },
+        {
+          "date": "2015-12-13T17:03:00.485666+02:00",
+          "amount": 9853.0,
+          "bidder": "5ab0296eaf2844bfae5e56bf9e310a66"
+        },
+        {
+          "date": "2015-12-11T14:45:40.403142+02:00",
+          "amount": 8698.0,
+          "bidder": "7f61565c1e024af18f84a37de69a31ae"
+        },
+        {
+          "date": "2015-12-11T12:43:27.797286+02:00",
+          "amount": 8086.14,
+          "bidder": "0546e955d64844ef8198ff634dd6f43b"
+        }
+      ],
+      "time": "2015-12-15T10:42:15.002598+00:00"
+    }
+  },
+  "id": "973c142b165748eaaef53b24aba68c07",
+  "tenderId": "UA-2015-12-10-000025"
+}

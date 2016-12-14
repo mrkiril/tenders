@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5038d96122dd49848f147eb8ec8e9cf2",
+        "time": "2015-12-01T09:53:57.013383+00:00"
+      },
+      "turn_1": {
+        "bidder": "c27436a21d6644ca8aba9919be60f22d",
+        "time": "2015-12-01T09:51:57.008559+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5038d96122dd49848f147eb8ec8e9cf2",
+        "time": "2015-12-01T09:59:57.008304+00:00"
+      },
+      "turn_1": {
+        "bidder": "c27436a21d6644ca8aba9919be60f22d",
+        "time": "2015-12-01T09:57:57.007970+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5038d96122dd49848f147eb8ec8e9cf2",
+        "time": "2015-12-01T09:47:57.011601+00:00"
+      },
+      "turn_1": {
+        "bidder": "c27436a21d6644ca8aba9919be60f22d",
+        "time": "2015-12-01T09:45:57.009012+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c27436a21d6644ca8aba9919be60f22d",
+          "amount": 9170.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://safecity.in.ua",
+                "telephone": "+380503941500",
+                "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+                "email": "aleksey@safecity.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\""
+              },
+              "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "НИКОЛАЕВСКАЯ ОБЛ.",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18, м. Миколаїв, 54030",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-29T21:13:07.474121+02:00"
+        },
+        {
+          "bidder": "5038d96122dd49848f147eb8ec8e9cf2",
+          "amount": 6210.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://geomarket.in.ua",
+                "faxNumber": "0445782002",
+                "telephone": "0677600784",
+                "name": "Клівак Євген Леонідович",
+                "email": "1_geodezist@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3105220370",
+                "legalName": "ФОП Клівак Євген Леонідович"
+              },
+              "name": "ФОП Клівак Євген Леонідович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03194",
+                "region": "Київська",
+                "streetAddress": "б-р. Кольцова, 14-А, кв. 100",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-27T16:14:39.973333+02:00"
+        }
+      ],
+      "time": "2015-12-01T09:59:58.808522+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-29T21:13:07.474121+02:00",
+          "amount": 9170.0,
+          "bidder": "c27436a21d6644ca8aba9919be60f22d"
+        },
+        {
+          "date": "2015-11-27T16:14:39.973333+02:00",
+          "amount": 6210.0,
+          "bidder": "5038d96122dd49848f147eb8ec8e9cf2"
+        }
+      ],
+      "time": "2015-12-01T09:38:57.005076+00:00"
+    }
+  },
+  "id": "9d512e6230264a2ba4e3da931cdc6901",
+  "tenderId": "UA-2015-11-23-000154-a"
+}

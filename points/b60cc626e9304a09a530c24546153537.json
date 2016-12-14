@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "63065c1358ac430caac68640f4e137a9",
+        "time": "2015-10-09T11:27:45.007336+00:00"
+      },
+      "turn_3": {
+        "bidder": "d7772aae55f84dc6b97bc37fcc414b3e",
+        "time": "2015-10-09T11:29:45.009480+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa794047e235428389e106aa083d0f49",
+        "time": "2015-10-09T11:25:45.008010+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "63065c1358ac430caac68640f4e137a9",
+        "time": "2015-10-09T11:35:45.007373+00:00"
+      },
+      "turn_3": {
+        "bidder": "d7772aae55f84dc6b97bc37fcc414b3e",
+        "time": "2015-10-09T11:37:45.007999+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa794047e235428389e106aa083d0f49",
+        "time": "2015-10-09T11:33:45.009250+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "63065c1358ac430caac68640f4e137a9",
+        "time": "2015-10-09T11:19:45.010502+00:00"
+      },
+      "turn_3": {
+        "bidder": "d7772aae55f84dc6b97bc37fcc414b3e",
+        "time": "2015-10-09T11:21:45.008600+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa794047e235428389e106aa083d0f49",
+        "time": "2015-10-09T11:17:45.015373+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fa794047e235428389e106aa083d0f49",
+          "amount": 4999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interext.com.ua",
+                "faxNumber": "+380445843959",
+                "telephone": "+380445843959",
+                "name": "Федорович Олег Валерійович",
+                "email": "interext@ya.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23708824"
+              },
+              "name": "ТОВ Інтерекст LTD",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська область",
+                "streetAddress": "Тимірязівська,2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-08T13:28:15.431922+03:00"
+        },
+        {
+          "bidder": "63065c1358ac430caac68640f4e137a9",
+          "amount": 3999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T15:39:23.731240+03:00"
+        },
+        {
+          "bidder": "d7772aae55f84dc6b97bc37fcc414b3e",
+          "amount": 1621.02,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T10:59:56.190809+03:00"
+        }
+      ],
+      "time": "2015-10-09T11:37:46.359871+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T13:28:15.431922+03:00",
+          "amount": 4999.0,
+          "bidder": "fa794047e235428389e106aa083d0f49"
+        },
+        {
+          "date": "2015-10-08T15:39:23.731240+03:00",
+          "amount": 3999.0,
+          "bidder": "63065c1358ac430caac68640f4e137a9"
+        },
+        {
+          "date": "2015-10-08T10:59:56.190809+03:00",
+          "amount": 1621.02,
+          "bidder": "d7772aae55f84dc6b97bc37fcc414b3e"
+        }
+      ],
+      "time": "2015-10-09T11:10:45.008955+00:00"
+    }
+  },
+  "id": "b60cc626e9304a09a530c24546153537",
+  "tenderId": "UA-2015-10-05-000069"
+}

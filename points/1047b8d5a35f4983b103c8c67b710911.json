@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d53b776d38174abb9413171efb2ccd2c",
+        "time": "2015-06-02T08:17:00.312995+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5b733ac553d4d73b63b5c9d4e17c588",
+        "time": "2015-06-02T08:19:00.281478+00:00"
+      },
+      "turn_1": {
+        "bidder": "82b2fe1590e34e0aba5d4137ebe6f2f9",
+        "time": "2015-06-02T08:15:00.694748+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d53b776d38174abb9413171efb2ccd2c",
+        "time": "2015-06-02T08:25:00.146408+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5b733ac553d4d73b63b5c9d4e17c588",
+        "time": "2015-06-02T08:27:00.492994+00:00"
+      },
+      "turn_1": {
+        "bidder": "82b2fe1590e34e0aba5d4137ebe6f2f9",
+        "time": "2015-06-02T08:23:00.147208+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d53b776d38174abb9413171efb2ccd2c",
+        "time": "2015-06-02T08:09:00.527171+00:00"
+      },
+      "turn_3": {
+        "bidder": "a5b733ac553d4d73b63b5c9d4e17c588",
+        "time": "2015-06-02T08:11:00.404147+00:00"
+      },
+      "turn_1": {
+        "bidder": "82b2fe1590e34e0aba5d4137ebe6f2f9",
+        "time": "2015-06-02T08:07:00.119293+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "82b2fe1590e34e0aba5d4137ebe6f2f9",
+          "amount": 114981.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444064940, +380503106777, +380444064950, +380672235885, +380445991037",
+                "name": "Роман Гавриш",
+                "email": "info@inpack.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25268212",
+                "legalName": "ИНПАК ООО"
+              },
+              "name": "ИНПАК ООО",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04111",
+                "region": "Киевская",
+                "streetAddress": "08130, г. Киев, Петропавловская Борщаговка, ул. Белоцерковская, 3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-28T17:33:45.526749+03:00"
+        },
+        {
+          "bidder": "d53b776d38174abb9413171efb2ccd2c",
+          "amount": 72770.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380951133977, +380442247517",
+                "name": "Тетяна Красножон",
+                "email": "mihailenko_tanya@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39047109",
+                "legalName": "ТОВ \"Глобалсервіс\""
+              },
+              "name": "ТОВ \"Глобалсервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Бориспільська, 7",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-05-26T16:33:14.097932+03:00"
+        },
+        {
+          "bidder": "a5b733ac553d4d73b63b5c9d4e17c588",
+          "amount": 59070.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-05-29T16:13:14.640005+03:00"
+        }
+      ],
+      "time": "2015-06-02T08:27:09.710025+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-28T17:33:45.526749+03:00",
+          "amount": 114981.0,
+          "bidder": "82b2fe1590e34e0aba5d4137ebe6f2f9"
+        },
+        {
+          "date": "2015-05-26T16:33:14.097932+03:00",
+          "amount": 72770.0,
+          "bidder": "d53b776d38174abb9413171efb2ccd2c"
+        },
+        {
+          "date": "2015-05-29T16:13:14.640005+03:00",
+          "amount": 59070.0,
+          "bidder": "a5b733ac553d4d73b63b5c9d4e17c588"
+        }
+      ],
+      "time": "2015-06-02T08:00:00.105259+00:00"
+    }
+  },
+  "id": "1047b8d5a35f4983b103c8c67b710911",
+  "tenderId": "UA-2015-05-20-000040"
+}

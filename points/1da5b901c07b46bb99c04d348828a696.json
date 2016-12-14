@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c7eb442dc1f844ac9d16520848d51ade",
+        "time": "2015-11-12T09:54:55.012756+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f0b5591933a4fafa90516c9b59a25be",
+        "time": "2015-11-12T09:52:55.012285+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c7eb442dc1f844ac9d16520848d51ade",
+        "time": "2015-11-12T10:00:55.007565+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f0b5591933a4fafa90516c9b59a25be",
+        "time": "2015-11-12T09:58:55.007599+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c7eb442dc1f844ac9d16520848d51ade",
+        "time": "2015-11-12T09:48:55.033946+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f0b5591933a4fafa90516c9b59a25be",
+        "time": "2015-11-12T09:46:55.010070+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f0b5591933a4fafa90516c9b59a25be",
+          "amount": 23425.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-10T17:43:27.237286+02:00"
+        },
+        {
+          "bidder": "c7eb442dc1f844ac9d16520848d51ade",
+          "amount": 18660.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504926577",
+                "name": "Сергей",
+                "email": "tender@rodnoyproduct.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34560700",
+                "legalName": "ТОВ \"РІДНИЙ ПРОДУКТ\""
+              },
+              "name": "ТОВ \"РІДНИЙ ПРОДУКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52005",
+                "region": "Днепропетровская",
+                "streetAddress": "смт. Ювілейне, ул. Радгоспна, буд.36",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-11T12:04:01.741684+02:00"
+        }
+      ],
+      "time": "2015-11-12T10:01:09.879410+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-10T17:43:27.237286+02:00",
+          "amount": 23425.0,
+          "bidder": "3f0b5591933a4fafa90516c9b59a25be"
+        },
+        {
+          "date": "2015-11-11T12:04:01.741684+02:00",
+          "amount": 18660.0,
+          "bidder": "c7eb442dc1f844ac9d16520848d51ade"
+        }
+      ],
+      "time": "2015-11-12T09:39:55.003564+00:00"
+    }
+  },
+  "id": "1da5b901c07b46bb99c04d348828a696",
+  "tenderId": "UA-2015-11-02-000146"
+}

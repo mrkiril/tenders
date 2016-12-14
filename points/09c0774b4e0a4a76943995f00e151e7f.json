@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d8028f528f8140efad4b245a52e076c7",
+        "time": "2015-11-02T13:23:16.007293+00:00"
+      },
+      "turn_3": {
+        "bidder": "3e4537fa448a49ebb1b7e644b85bf0cf",
+        "time": "2015-11-02T13:25:16.007501+00:00"
+      },
+      "turn_1": {
+        "bidder": "2afe31fcecee469fb207436f4822c611",
+        "time": "2015-11-02T13:21:16.009151+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d8028f528f8140efad4b245a52e076c7",
+        "time": "2015-11-02T13:31:16.009186+00:00"
+      },
+      "turn_3": {
+        "bidder": "3e4537fa448a49ebb1b7e644b85bf0cf",
+        "time": "2015-11-02T13:33:16.009003+00:00"
+      },
+      "turn_1": {
+        "bidder": "2afe31fcecee469fb207436f4822c611",
+        "time": "2015-11-02T13:29:16.008317+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d8028f528f8140efad4b245a52e076c7",
+        "time": "2015-11-02T13:15:16.010721+00:00"
+      },
+      "turn_3": {
+        "bidder": "3e4537fa448a49ebb1b7e644b85bf0cf",
+        "time": "2015-11-02T13:17:16.009891+00:00"
+      },
+      "turn_1": {
+        "bidder": "2afe31fcecee469fb207436f4822c611",
+        "time": "2015-11-02T13:13:16.013591+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2afe31fcecee469fb207436f4822c611",
+          "amount": 6192.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.primetrade.com.ua/",
+                "telephone": "+380445815776",
+                "name": "ТОВ \"Прайм Трейд\"",
+                "email": "primetender@prime.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38870367",
+                "legalName": "ТОВ \"Прайм Трейд\""
+              },
+              "name": "ТОВ \"Прайм Трейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04060, м. Київ, вул. О. Теліги, буд.29-А, кв. 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T12:43:29.579909+02:00"
+        },
+        {
+          "bidder": "d8028f528f8140efad4b245a52e076c7",
+          "amount": 6184.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-10-29T22:05:50.868579+02:00"
+        },
+        {
+          "bidder": "3e4537fa448a49ebb1b7e644b85bf0cf",
+          "amount": 4390.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444957575",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»",
+                "email": "kovalenko@filur.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21462503",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ФІЛУР ЕЛЕКТРИК, ЛТД»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ГОЛОСІЇВСЬКИЙ Р-Н, ВУЛ. ТЕРЕМКІВСЬКА, БУД. 2-А, КВ 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-30T11:01:18.095931+02:00"
+        }
+      ],
+      "time": "2015-11-02T13:33:18.376529+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T12:43:29.579909+02:00",
+          "amount": 6192.9,
+          "bidder": "2afe31fcecee469fb207436f4822c611"
+        },
+        {
+          "date": "2015-10-29T22:05:50.868579+02:00",
+          "amount": 6184.0,
+          "bidder": "d8028f528f8140efad4b245a52e076c7"
+        },
+        {
+          "date": "2015-10-30T11:01:18.095931+02:00",
+          "amount": 4390.0,
+          "bidder": "3e4537fa448a49ebb1b7e644b85bf0cf"
+        }
+      ],
+      "time": "2015-11-02T13:06:16.004839+00:00"
+    }
+  },
+  "id": "09c0774b4e0a4a76943995f00e151e7f",
+  "tenderId": "UA-2015-10-27-000318"
+}

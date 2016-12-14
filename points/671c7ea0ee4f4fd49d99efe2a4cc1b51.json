@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ecc06d2b903d4800819c3410f7d3d00f",
+        "time": "2015-12-07T11:49:35.008943+00:00"
+      },
+      "turn_3": {
+        "bidder": "020014e9ca234e7d9f5100485dc1dbe9",
+        "time": "2015-12-07T11:51:35.008568+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f54ae49cd6d449e945d6eba1f2e4f0b",
+        "time": "2015-12-07T11:47:35.008102+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ecc06d2b903d4800819c3410f7d3d00f",
+        "time": "2015-12-07T11:57:35.008407+00:00"
+      },
+      "turn_3": {
+        "bidder": "020014e9ca234e7d9f5100485dc1dbe9",
+        "time": "2015-12-07T11:59:35.013968+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f54ae49cd6d449e945d6eba1f2e4f0b",
+        "time": "2015-12-07T11:55:35.007759+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 19150.0,
+        "bid_time": "2015-12-07T13:39:59.152266+02:00",
+        "bidder": "ecc06d2b903d4800819c3410f7d3d00f",
+        "time": "2015-12-07T11:41:35.014187+00:00"
+      },
+      "turn_3": {
+        "bidder": "020014e9ca234e7d9f5100485dc1dbe9",
+        "time": "2015-12-07T11:43:35.009156+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f54ae49cd6d449e945d6eba1f2e4f0b",
+        "time": "2015-12-07T11:39:35.007075+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8f54ae49cd6d449e945d6eba1f2e4f0b",
+          "amount": 23190.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tehnomodul.com",
+                "telephone": "+380954893645",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТЕХНО МОДУЛЬ УЛЬТРА\"",
+                "email": "elena_tach@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36604629",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТЕХНО МОДУЛЬ УЛЬТРА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТЕХНО МОДУЛЬ УЛЬТРА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "45632, Волинська обл., Луцький район, село Зміїнець, ВУЛИЦЯ БЕРЕЗОВА, будинок 26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T10:11:47.687747+02:00"
+        },
+        {
+          "bidder": "ecc06d2b903d4800819c3410f7d3d00f",
+          "amount": 19150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503253000, +380503646690, +380503255050, +380577380616",
+                "name": "Юлия Черепина",
+                "email": "kh_b@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Инженерная компания БАРСА\"",
+                "id": "38633452",
+                "uri": "http://barca.com.ua"
+              },
+              "name": "ТОВ \"Инженерная компания БАРСА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61124",
+                "region": "Харьковская",
+                "streetAddress": "61124  г. Харьков, просп. 50 лет СССР, 189",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-12-07T13:39:59.152266+02:00"
+        },
+        {
+          "bidder": "020014e9ca234e7d9f5100485dc1dbe9",
+          "amount": 18000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968886333",
+                "name": "Константин Яворский",
+                "email": "kostya@domikom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Яворський Костянтин Борисович\"",
+                "id": "2533221430",
+                "uri": "http://domikom.com.ua"
+              },
+              "name": "ФОП \"Яворський Костянтин Борисович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "66300",
+                "region": "Одесская",
+                "streetAddress": "ул. 8 Марта 2А",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-01T15:21:25.793052+02:00"
+        }
+      ],
+      "time": "2015-12-07T11:59:36.939408+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T10:11:47.687747+02:00",
+          "amount": 23190.0,
+          "bidder": "8f54ae49cd6d449e945d6eba1f2e4f0b"
+        },
+        {
+          "date": "2015-12-03T11:47:29.719329+02:00",
+          "amount": 19300.0,
+          "bidder": "ecc06d2b903d4800819c3410f7d3d00f"
+        },
+        {
+          "date": "2015-12-01T15:21:25.793052+02:00",
+          "amount": 18000.0,
+          "bidder": "020014e9ca234e7d9f5100485dc1dbe9"
+        }
+      ],
+      "time": "2015-12-07T11:32:35.004455+00:00"
+    }
+  },
+  "id": "671c7ea0ee4f4fd49d99efe2a4cc1b51",
+  "tenderId": "UA-2015-11-24-000101-a"
+}

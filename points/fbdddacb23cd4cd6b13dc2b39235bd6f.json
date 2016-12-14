@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "94f85622458945728007dfaeb0d2785b",
+        "time": "2015-09-18T10:45:00.040203+00:00"
+      },
+      "turn_1": {
+        "bidder": "e8e385dd9e4e4b9b9cddfa0f57e60831",
+        "time": "2015-09-18T10:43:00.017350+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "94f85622458945728007dfaeb0d2785b",
+        "time": "2015-09-18T10:51:00.022021+00:00"
+      },
+      "turn_1": {
+        "bidder": "e8e385dd9e4e4b9b9cddfa0f57e60831",
+        "time": "2015-09-18T10:49:00.015024+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e8e385dd9e4e4b9b9cddfa0f57e60831",
+        "time": "2015-09-18T10:39:00.020175+00:00"
+      },
+      "turn_1": {
+        "amount": 8100.0,
+        "bid_time": "2015-09-18T13:35:06.989643+03:00",
+        "bidder": "94f85622458945728007dfaeb0d2785b",
+        "time": "2015-09-18T10:37:00.016346+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e8e385dd9e4e4b9b9cddfa0f57e60831",
+          "amount": 8318.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://bumaga.mk.ua",
+                "faxNumber": "47-31-87",
+                "telephone": "709-464",
+                "name": "Приватне підпрємство \" Буммакс\"",
+                "email": "bummaks_bumaga@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35403678",
+                "legalName": "Приватне підпрємство \" Буммакс\""
+              },
+              "name": "Приватне підпрємство \" Буммакс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54017",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Московська 44, кв.8",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T14:32:12.664411+03:00"
+        },
+        {
+          "bidder": "94f85622458945728007dfaeb0d2785b",
+          "amount": 8100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T13:35:06.989643+03:00"
+        }
+      ],
+      "time": "2015-09-18T10:51:03.636587+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-10T14:13:42.952362+03:00",
+          "amount": 8327.5,
+          "bidder": "94f85622458945728007dfaeb0d2785b"
+        },
+        {
+          "date": "2015-09-11T14:32:12.664411+03:00",
+          "amount": 8318.0,
+          "bidder": "e8e385dd9e4e4b9b9cddfa0f57e60831"
+        }
+      ],
+      "time": "2015-09-18T10:30:00.003308+00:00"
+    }
+  },
+  "id": "fbdddacb23cd4cd6b13dc2b39235bd6f",
+  "tenderId": "UA-2015-08-31-000171"
+}

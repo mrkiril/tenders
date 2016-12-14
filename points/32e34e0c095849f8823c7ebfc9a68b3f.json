@@ -1,0 +1,199 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "91f564ed0d804aa9bac76d5897c85bd1",
+        "time": "2015-11-25T11:33:48.007906+00:00"
+      },
+      "turn_2": {
+        "bidder": "8da0a07a89294329bf3f8fc602bff8ad",
+        "time": "2015-11-25T11:29:48.008327+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d051ef499344a3aab2859e771b3a20",
+        "time": "2015-11-25T11:31:48.008071+00:00"
+      },
+      "turn_1": {
+        "bidder": "e841fc36a7a24a9ba23918630e009533",
+        "time": "2015-11-25T11:27:48.014729+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "91f564ed0d804aa9bac76d5897c85bd1",
+        "time": "2015-11-25T11:43:48.010741+00:00"
+      },
+      "turn_2": {
+        "bidder": "8da0a07a89294329bf3f8fc602bff8ad",
+        "time": "2015-11-25T11:39:48.008286+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d051ef499344a3aab2859e771b3a20",
+        "time": "2015-11-25T11:41:48.008294+00:00"
+      },
+      "turn_1": {
+        "bidder": "e841fc36a7a24a9ba23918630e009533",
+        "time": "2015-11-25T11:37:48.007995+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "91f564ed0d804aa9bac76d5897c85bd1",
+        "time": "2015-11-25T11:23:48.009064+00:00"
+      },
+      "turn_2": {
+        "bidder": "8da0a07a89294329bf3f8fc602bff8ad",
+        "time": "2015-11-25T11:19:48.008820+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d051ef499344a3aab2859e771b3a20",
+        "time": "2015-11-25T11:21:48.009913+00:00"
+      },
+      "turn_1": {
+        "bidder": "e841fc36a7a24a9ba23918630e009533",
+        "time": "2015-11-25T11:17:48.008596+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e841fc36a7a24a9ba23918630e009533",
+          "amount": 3238.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "info@bvdc.com.ua",
+                "name": "Сосновский Андрій Олександрович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3323615275",
+                "legalName": "ФОП Сосновский Андрій Олександрович"
+              },
+              "name": "ФОП Сосновский Андрій Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09332",
+                "region": "Київська",
+                "streetAddress": "провулок 9-го травня буд 11",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T20:26:33.603817+02:00"
+        },
+        {
+          "bidder": "8da0a07a89294329bf3f8fc602bff8ad",
+          "amount": 3150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-11-22T13:23:33.886377+02:00"
+        },
+        {
+          "bidder": "98d051ef499344a3aab2859e771b3a20",
+          "amount": 2980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T18:14:50.296864+02:00"
+        },
+        {
+          "bidder": "91f564ed0d804aa9bac76d5897c85bd1",
+          "amount": 2575.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970991827",
+                "name": "Виталий Иващенко",
+                "email": "vord.tender@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Ворд Сервис\"",
+                "id": "38610126",
+                "uri": "http://wordservis.com.ua"
+              },
+              "name": "ТОВ \"Ворд Сервис\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36003",
+                "region": "Полтавская",
+                "streetAddress": "36003, Полтавська обл., місто Полтава, вул. Червоноармійська, буд. 3",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-24T14:10:42.389396+02:00"
+        }
+      ],
+      "time": "2015-11-25T11:43:49.066456+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T20:26:33.603817+02:00",
+          "amount": 3238.0,
+          "bidder": "e841fc36a7a24a9ba23918630e009533"
+        },
+        {
+          "date": "2015-11-22T13:23:33.886377+02:00",
+          "amount": 3150.0,
+          "bidder": "8da0a07a89294329bf3f8fc602bff8ad"
+        },
+        {
+          "date": "2015-11-24T18:14:50.296864+02:00",
+          "amount": 2980.0,
+          "bidder": "98d051ef499344a3aab2859e771b3a20"
+        },
+        {
+          "date": "2015-11-24T14:10:42.389396+02:00",
+          "amount": 2575.0,
+          "bidder": "91f564ed0d804aa9bac76d5897c85bd1"
+        }
+      ],
+      "time": "2015-11-25T11:10:48.004289+00:00"
+    }
+  },
+  "id": "32e34e0c095849f8823c7ebfc9a68b3f",
+  "tenderId": "UA-2015-11-18-000005-b"
+}

@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7095981cf5aa48e0b928399f994f8240",
+        "time": "2015-10-29T10:58:27.005511+00:00"
+      },
+      "turn_3": {
+        "bidder": "bdbaefd99f2340a3a7e1760e9d1fe6ea",
+        "time": "2015-10-29T11:00:27.007149+00:00"
+      },
+      "turn_1": {
+        "bidder": "977b401986b94396a7ae9c2f5ced7e39",
+        "time": "2015-10-29T10:56:27.006403+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7095981cf5aa48e0b928399f994f8240",
+        "time": "2015-10-29T11:06:27.008040+00:00"
+      },
+      "turn_3": {
+        "bidder": "bdbaefd99f2340a3a7e1760e9d1fe6ea",
+        "time": "2015-10-29T11:08:27.011141+00:00"
+      },
+      "turn_1": {
+        "bidder": "977b401986b94396a7ae9c2f5ced7e39",
+        "time": "2015-10-29T11:04:27.007355+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1700.0,
+        "bid_time": "2015-10-29T12:49:13.547765+02:00",
+        "bidder": "bdbaefd99f2340a3a7e1760e9d1fe6ea",
+        "time": "2015-10-29T10:50:27.016630+00:00"
+      },
+      "turn_3": {
+        "bidder": "7095981cf5aa48e0b928399f994f8240",
+        "time": "2015-10-29T10:52:27.006811+00:00"
+      },
+      "turn_1": {
+        "bidder": "977b401986b94396a7ae9c2f5ced7e39",
+        "time": "2015-10-29T10:48:27.009522+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "977b401986b94396a7ae9c2f5ced7e39",
+          "amount": 2370.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "756-34-51",
+                "telephone": "0662316336",
+                "name": "Петренко Інна Вячеславівна",
+                "email": "petrenkoinna@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38492870",
+                "legalName": "Товариство з обмеженою відповідальністю \" Аптека №5+\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" Аптека №5+\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61050",
+                "region": "Харківська",
+                "streetAddress": "вул. Франківська , 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T09:23:34.787400+02:00"
+        },
+        {
+          "bidder": "7095981cf5aa48e0b928399f994f8240",
+          "amount": 1793.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380567913566",
+                "telephone": "+380676351670",
+                "name": "Холодова Олена Вікторівна",
+                "email": "tavolgaplus@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30540001"
+              },
+              "name": "ТОВ Таволга",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Весніна, 84",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-25T18:16:50.517197+02:00"
+        },
+        {
+          "bidder": "bdbaefd99f2340a3a7e1760e9d1fe6ea",
+          "amount": 1700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T12:49:13.547765+02:00"
+        }
+      ],
+      "time": "2015-10-29T11:08:30.952447+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T09:23:34.787400+02:00",
+          "amount": 2370.48,
+          "bidder": "977b401986b94396a7ae9c2f5ced7e39"
+        },
+        {
+          "date": "2015-10-26T17:22:01.245391+02:00",
+          "amount": 2000.0,
+          "bidder": "bdbaefd99f2340a3a7e1760e9d1fe6ea"
+        },
+        {
+          "date": "2015-10-25T18:16:50.517197+02:00",
+          "amount": 1793.0,
+          "bidder": "7095981cf5aa48e0b928399f994f8240"
+        }
+      ],
+      "time": "2015-10-29T10:41:27.003636+00:00"
+    }
+  },
+  "id": "342f95f78d2b495a8f68fa0be5cd5845",
+  "tenderId": "UA-2015-10-23-000061"
+}

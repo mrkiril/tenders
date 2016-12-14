@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d373ddc4a8b942e28b846e3d7ab89167",
+        "time": "2015-11-25T12:56:36.007666+00:00"
+      },
+      "turn_1": {
+        "bidder": "3f486d05c94b4795acfc005fd0f5eaac",
+        "time": "2015-11-25T12:54:36.007936+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 1580.0,
+        "bid_time": "2015-11-25T15:01:08.782874+02:00",
+        "bidder": "d373ddc4a8b942e28b846e3d7ab89167",
+        "time": "2015-11-25T13:02:36.010297+00:00"
+      },
+      "turn_1": {
+        "amount": 1580.8,
+        "bid_time": "2015-11-25T14:59:14.337416+02:00",
+        "bidder": "3f486d05c94b4795acfc005fd0f5eaac",
+        "time": "2015-11-25T13:00:36.110283+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3f486d05c94b4795acfc005fd0f5eaac",
+        "time": "2015-11-25T12:50:36.007785+00:00"
+      },
+      "turn_1": {
+        "amount": 1641.0,
+        "bid_time": "2015-11-25T14:48:30.037194+02:00",
+        "bidder": "d373ddc4a8b942e28b846e3d7ab89167",
+        "time": "2015-11-25T12:48:36.048211+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3f486d05c94b4795acfc005fd0f5eaac",
+          "amount": 1580.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444510868",
+                "telephone": "+380674658759",
+                "name": "Гримашевич Іван Іванович",
+                "email": "IvanGrim@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2253821476"
+              },
+              "name": "ФОП Гримашевич Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03179",
+                "region": "Київська область",
+                "streetAddress": "вул. Уборевича, б.29/22, кв. 102",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T14:59:14.337416+02:00"
+        },
+        {
+          "bidder": "d373ddc4a8b942e28b846e3d7ab89167",
+          "amount": 1580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T15:01:08.782874+02:00"
+        }
+      ],
+      "time": "2015-11-25T13:02:39.065756+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T17:13:35.370492+02:00",
+          "amount": 1691.2,
+          "bidder": "d373ddc4a8b942e28b846e3d7ab89167"
+        },
+        {
+          "date": "2015-11-23T19:21:16.222195+02:00",
+          "amount": 1680.0,
+          "bidder": "3f486d05c94b4795acfc005fd0f5eaac"
+        }
+      ],
+      "time": "2015-11-25T12:41:36.003838+00:00"
+    }
+  },
+  "id": "0c1e7b93488e41b19ef0abb6fd5023f2",
+  "tenderId": "UA-2015-11-19-000204-b"
+}

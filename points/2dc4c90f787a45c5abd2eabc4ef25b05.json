@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3865db4ecf9a47d1a8fffe6a1f48972c",
+        "time": "2015-10-21T11:45:57.009352+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb450f0360694e14909f2c8802c8e97d",
+        "time": "2015-10-21T11:43:57.007820+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3865db4ecf9a47d1a8fffe6a1f48972c",
+        "time": "2015-10-21T11:51:57.009422+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb450f0360694e14909f2c8802c8e97d",
+        "time": "2015-10-21T11:49:57.007402+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cb450f0360694e14909f2c8802c8e97d",
+        "time": "2015-10-21T11:39:57.012134+00:00"
+      },
+      "turn_1": {
+        "amount": 3400.0,
+        "bid_time": "2015-10-21T14:36:13.193863+03:00",
+        "bidder": "3865db4ecf9a47d1a8fffe6a1f48972c",
+        "time": "2015-10-21T11:37:57.010630+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cb450f0360694e14909f2c8802c8e97d",
+          "amount": 3500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://Energocomplex.kiev.ua",
+                "telephone": "+380674908909",
+                "name": "Товариство з обмеженою відповідальністю \"КИЇВ ЕНЕРГОКОМПЛЕКС\"",
+                "email": "10kVolt_komplex@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39283816",
+                "legalName": "Товариство з обмеженою відповідальністю \"КИЇВ ЕНЕРГОКОМПЛЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КИЇВ ЕНЕРГОКОМПЛЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04213, м.Київ, вул.Прирічна, б.19г, кв.160",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T16:51:30.008250+03:00"
+        },
+        {
+          "bidder": "3865db4ecf9a47d1a8fffe6a1f48972c",
+          "amount": 3400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380956506514",
+                "name": "Дмитрий Комиссаров",
+                "email": "5719663@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ООО \"ДПП-Промпоставка\"",
+                "id": "33728790",
+                "uri": "http://dppua.com/"
+              },
+              "name": "ООО \"ДПП-Промпоставка\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65121",
+                "region": "Одесская",
+                "streetAddress": "пр-т Маршала Жукова, дом 4/Д",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-21T14:36:13.193863+03:00"
+        }
+      ],
+      "time": "2015-10-21T11:51:58.373363+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T18:55:57.126613+03:00",
+          "amount": 3675.0,
+          "bidder": "3865db4ecf9a47d1a8fffe6a1f48972c"
+        },
+        {
+          "date": "2015-10-20T16:51:30.008250+03:00",
+          "amount": 3500.0,
+          "bidder": "cb450f0360694e14909f2c8802c8e97d"
+        }
+      ],
+      "time": "2015-10-21T11:30:57.003699+00:00"
+    }
+  },
+  "id": "2dc4c90f787a45c5abd2eabc4ef25b05",
+  "tenderId": "UA-2015-10-09-000041"
+}

@@ -1,0 +1,203 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "84fde1cf546a46238097df9cd2e05802",
+        "time": "2015-12-04T14:02:13.008821+00:00"
+      },
+      "turn_2": {
+        "bidder": "bc9e15ac239e4f2bad36fe9be8f05fcf",
+        "time": "2015-12-04T13:58:13.008377+00:00"
+      },
+      "turn_3": {
+        "bidder": "f00c7e4b3a554355ae47fa5462c66ee1",
+        "time": "2015-12-04T14:00:13.008169+00:00"
+      },
+      "turn_1": {
+        "bidder": "9afec890f1724f8e9d9dc40a70617b00",
+        "time": "2015-12-04T13:56:13.009406+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "84fde1cf546a46238097df9cd2e05802",
+        "time": "2015-12-04T14:12:13.007774+00:00"
+      },
+      "turn_2": {
+        "amount": 5230.0,
+        "bid_time": "2015-12-04T16:06:27.967037+02:00",
+        "bidder": "bc9e15ac239e4f2bad36fe9be8f05fcf",
+        "time": "2015-12-04T14:08:13.008768+00:00"
+      },
+      "turn_3": {
+        "amount": 5183.4,
+        "bid_time": "2015-12-04T16:09:26.143986+02:00",
+        "bidder": "f00c7e4b3a554355ae47fa5462c66ee1",
+        "time": "2015-12-04T14:10:13.029664+00:00"
+      },
+      "turn_1": {
+        "bidder": "9afec890f1724f8e9d9dc40a70617b00",
+        "time": "2015-12-04T14:06:13.008820+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "84fde1cf546a46238097df9cd2e05802",
+        "time": "2015-12-04T13:52:13.008842+00:00"
+      },
+      "turn_2": {
+        "bidder": "bc9e15ac239e4f2bad36fe9be8f05fcf",
+        "time": "2015-12-04T13:48:13.008978+00:00"
+      },
+      "turn_3": {
+        "bidder": "f00c7e4b3a554355ae47fa5462c66ee1",
+        "time": "2015-12-04T13:50:13.009816+00:00"
+      },
+      "turn_1": {
+        "bidder": "9afec890f1724f8e9d9dc40a70617b00",
+        "time": "2015-12-04T13:46:13.008783+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9afec890f1724f8e9d9dc40a70617b00",
+          "amount": 6000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://atlantelektro.prom.ua/",
+                "telephone": "380444557814",
+                "name": "Валерій Сіненко ",
+                "email": "atel2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37013570",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Виробничо-комерційна фірма \"Атлант Електро\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "а/с 64, м.Київ, 03115"
+              }
+            }
+          ],
+          "time": "2015-12-02T23:58:15.001028+02:00"
+        },
+        {
+          "bidder": "bc9e15ac239e4f2bad36fe9be8f05fcf",
+          "amount": 5230.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-04T16:06:27.967037+02:00"
+        },
+        {
+          "bidder": "f00c7e4b3a554355ae47fa5462c66ee1",
+          "amount": 5183.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.prosvit.com.ua",
+                "telephone": "+380443511121",
+                "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+                "email": "ibrand@prosvit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "355721131",
+                "legalName": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"КОМПАНІЯ\"ПРОСВІТ\"ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680 м.Київ вул.Машинобудівна,42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T16:09:26.143986+02:00"
+        },
+        {
+          "bidder": "84fde1cf546a46238097df9cd2e05802",
+          "amount": 4319.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380689818204",
+                "name": "Дана Мироненко",
+                "email": "mirondana@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38069357",
+                "legalName": "ТОВ \"Торговый Дом Светоприбор\""
+              },
+              "name": "ТОВ \"Торговый Дом Светоприбор\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "69035",
+                "region": "Запорожская",
+                "streetAddress": "ул. 40 лет Советской Украины, 82",
+                "locality": "Запорожье"
+              }
+            }
+          ],
+          "time": "2015-12-01T09:25:04.350506+02:00"
+        }
+      ],
+      "time": "2015-12-04T14:12:15.500849+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T23:58:15.001028+02:00",
+          "amount": 6000.0,
+          "bidder": "9afec890f1724f8e9d9dc40a70617b00"
+        },
+        {
+          "date": "2015-12-03T16:47:42.860229+02:00",
+          "amount": 5766.0,
+          "bidder": "bc9e15ac239e4f2bad36fe9be8f05fcf"
+        },
+        {
+          "date": "2015-12-03T14:39:25.950280+02:00",
+          "amount": 5243.4,
+          "bidder": "f00c7e4b3a554355ae47fa5462c66ee1"
+        },
+        {
+          "date": "2015-12-01T09:25:04.350506+02:00",
+          "amount": 4319.7,
+          "bidder": "84fde1cf546a46238097df9cd2e05802"
+        }
+      ],
+      "time": "2015-12-04T13:39:13.004530+00:00"
+    }
+  },
+  "id": "40f096539fa84028b207c05be8c07d7c",
+  "tenderId": "UA-2015-11-25-000073-b"
+}

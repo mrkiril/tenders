@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "df31df27387d44e9a2b22fd48232cfd8",
+        "time": "2015-10-26T09:16:03.008176+00:00"
+      },
+      "turn_1": {
+        "bidder": "85f143fc1bff47b68f2c25aa2cd1df2f",
+        "time": "2015-10-26T09:14:03.008547+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "df31df27387d44e9a2b22fd48232cfd8",
+        "time": "2015-10-26T09:22:03.014497+00:00"
+      },
+      "turn_1": {
+        "bidder": "85f143fc1bff47b68f2c25aa2cd1df2f",
+        "time": "2015-10-26T09:20:03.008552+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "85f143fc1bff47b68f2c25aa2cd1df2f",
+        "time": "2015-10-26T09:10:03.010253+00:00"
+      },
+      "turn_1": {
+        "amount": 9198.0,
+        "bid_time": "2015-10-26T11:06:41.040149+02:00",
+        "bidder": "df31df27387d44e9a2b22fd48232cfd8",
+        "time": "2015-10-26T09:08:03.012872+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "85f143fc1bff47b68f2c25aa2cd1df2f",
+          "amount": 9200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380948298912",
+                "name": "Игорь",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-25T09:55:55.190193+02:00"
+        },
+        {
+          "bidder": "df31df27387d44e9a2b22fd48232cfd8",
+          "amount": 9198.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:06:41.040149+02:00"
+        }
+      ],
+      "time": "2015-10-26T09:22:04.076016+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T14:30:05.086395+03:00",
+          "amount": 9486.6,
+          "bidder": "df31df27387d44e9a2b22fd48232cfd8"
+        },
+        {
+          "date": "2015-10-25T09:55:55.190193+02:00",
+          "amount": 9200.0,
+          "bidder": "85f143fc1bff47b68f2c25aa2cd1df2f"
+        }
+      ],
+      "time": "2015-10-26T09:01:03.005493+00:00"
+    }
+  },
+  "id": "db14cc31233e412da342d90a2131e4da",
+  "tenderId": "UA-2015-10-21-000182"
+}

@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5472.0,
+        "bid_time": "2015-11-05T15:57:45.548197+02:00",
+        "bidder": "2cb8f1810125488084235c5fc947eae6",
+        "time": "2015-11-05T13:58:56.008665+00:00"
+      },
+      "turn_3": {
+        "bidder": "210c66ed42e747aa9183e2b6d45b7bd2",
+        "time": "2015-11-05T14:00:56.006652+00:00"
+      },
+      "turn_1": {
+        "bidder": "695fb7f517a34f7abad15522bd1f7f42",
+        "time": "2015-11-05T13:56:56.007115+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "210c66ed42e747aa9183e2b6d45b7bd2",
+        "time": "2015-11-05T14:06:56.008520+00:00"
+      },
+      "turn_3": {
+        "bidder": "2cb8f1810125488084235c5fc947eae6",
+        "time": "2015-11-05T14:08:56.006741+00:00"
+      },
+      "turn_1": {
+        "bidder": "695fb7f517a34f7abad15522bd1f7f42",
+        "time": "2015-11-05T14:04:56.027849+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2cb8f1810125488084235c5fc947eae6",
+        "time": "2015-11-05T13:50:56.006952+00:00"
+      },
+      "turn_3": {
+        "bidder": "210c66ed42e747aa9183e2b6d45b7bd2",
+        "time": "2015-11-05T13:52:56.006850+00:00"
+      },
+      "turn_1": {
+        "bidder": "695fb7f517a34f7abad15522bd1f7f42",
+        "time": "2015-11-05T13:48:56.008120+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "695fb7f517a34f7abad15522bd1f7f42",
+          "amount": 6811.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://skt.bigopt.com",
+                "telephone": "+380442492454",
+                "name": "ФОП Жила Олена Валентинівна",
+                "email": "o-s-s@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2811702460",
+                "legalName": "ФОП Жила Олена Валентинівна"
+              },
+              "name": "ФОП Жила Олена Валентинівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03134,м.Київ , вул Григоровича -Барського  будинок 7,квартира 130",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T13:41:43.966579+02:00"
+        },
+        {
+          "bidder": "210c66ed42e747aa9183e2b6d45b7bd2",
+          "amount": 5791.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.markerland.com.ua",
+                "telephone": "+380442074720",
+                "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+                "email": "lim.va@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38703681",
+                "legalName": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ВАШ АВТОГРАФ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "Грушевського 4-Б оф. 52",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T19:16:10.715677+02:00"
+        },
+        {
+          "bidder": "2cb8f1810125488084235c5fc947eae6",
+          "amount": 5472.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://s-k-t.com.ua",
+                "telephone": "+380442488983",
+                "name": "ФОП Глембоцька Людмила Іванівна",
+                "email": "lig.kiev@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2058718701",
+                "legalName": "ФОП Глембоцька Людмила Іванівна"
+              },
+              "name": "ФОП Глембоцька Людмила Іванівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ \r\nвулиця Симиренко\r\nбудинок 5\r\nквартира 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T15:57:45.548197+02:00"
+        }
+      ],
+      "time": "2015-11-05T14:08:58.455774+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T13:41:43.966579+02:00",
+          "amount": 6811.8,
+          "bidder": "695fb7f517a34f7abad15522bd1f7f42"
+        },
+        {
+          "date": "2015-11-04T15:15:23.643917+02:00",
+          "amount": 6214.8,
+          "bidder": "2cb8f1810125488084235c5fc947eae6"
+        },
+        {
+          "date": "2015-11-04T19:16:10.715677+02:00",
+          "amount": 5791.2,
+          "bidder": "210c66ed42e747aa9183e2b6d45b7bd2"
+        }
+      ],
+      "time": "2015-11-05T13:41:56.002928+00:00"
+    }
+  },
+  "id": "23db0172f8304ae1a90a02243be4faff",
+  "tenderId": "UA-2015-11-02-000024"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7cc26eb4f2d3418e9a90c011a76b825a",
+        "time": "2015-10-13T10:17:51.012710+00:00"
+      },
+      "turn_1": {
+        "bidder": "e6a2120195ea4df7a25120c0021bc735",
+        "time": "2015-10-13T10:15:51.007957+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7cc26eb4f2d3418e9a90c011a76b825a",
+        "time": "2015-10-13T10:23:51.006533+00:00"
+      },
+      "turn_1": {
+        "bidder": "e6a2120195ea4df7a25120c0021bc735",
+        "time": "2015-10-13T10:21:51.009503+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e6a2120195ea4df7a25120c0021bc735",
+        "time": "2015-10-13T10:11:51.014688+00:00"
+      },
+      "turn_1": {
+        "amount": 290.16,
+        "bid_time": "2015-10-13T13:09:25.156368+03:00",
+        "bidder": "7cc26eb4f2d3418e9a90c011a76b825a",
+        "time": "2015-10-13T10:09:51.009316+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e6a2120195ea4df7a25120c0021bc735",
+          "amount": 300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504685244",
+                "name": "Павел Биляк",
+                "email": "pavel.bilyak@tikkurila.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Тіккуріла\"",
+                "id": "24726322",
+                "uri": "http://www.tikkurila.ua"
+              },
+              "name": "ТОВ \"Тіккуріла\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08130",
+                "region": "Киевская",
+                "streetAddress": "ВУЛ. САДОВА 49, С. ПЕТРОПАВЛІВСЬКА БОРЩАГІВКА, КИЄВО-СВЯТОШИНСЬКИЙ Р-Н",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-09T15:33:05.494287+03:00"
+        },
+        {
+          "bidder": "7cc26eb4f2d3418e9a90c011a76b825a",
+          "amount": 290.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-13T13:09:25.156368+03:00"
+        }
+      ],
+      "time": "2015-10-13T10:23:53.260529+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-12T09:33:28.032019+03:00",
+          "amount": 306.0,
+          "bidder": "7cc26eb4f2d3418e9a90c011a76b825a"
+        },
+        {
+          "date": "2015-10-09T15:33:05.494287+03:00",
+          "amount": 300.0,
+          "bidder": "e6a2120195ea4df7a25120c0021bc735"
+        }
+      ],
+      "time": "2015-10-13T10:02:51.004305+00:00"
+    }
+  },
+  "id": "c460134b62c5448eabb212b83ed927cf",
+  "tenderId": "UA-2015-10-08-000200"
+}

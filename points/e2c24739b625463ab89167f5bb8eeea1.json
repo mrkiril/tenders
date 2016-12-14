@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "30d6dc62d459435ca8ab080dd6331d87",
+        "time": "2015-03-19T09:15:00.035380+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd432ac0780240d6b87a9fa4dc454713",
+        "time": "2015-03-19T09:13:00.162164+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "30d6dc62d459435ca8ab080dd6331d87",
+        "time": "2015-03-19T09:21:00.149379+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd432ac0780240d6b87a9fa4dc454713",
+        "time": "2015-03-19T09:19:00.096210+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "30d6dc62d459435ca8ab080dd6331d87",
+        "time": "2015-03-19T09:09:00.108569+00:00"
+      },
+      "turn_1": {
+        "bidder": "bd432ac0780240d6b87a9fa4dc454713",
+        "time": "2015-03-19T09:07:00.157950+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bd432ac0780240d6b87a9fa4dc454713",
+          "amount": 11700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.komplektuha.com.ua/",
+                "telephone": "+380577802541",
+                "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+                "email": "zakaz@komplektuha.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39260516",
+                "legalName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\""
+              },
+              "name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  \"КОМПЛЕКТУХА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61070, г. Харьков, пер. Электроинструментальный, д. 6А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-18T19:42:49.215999+02:00"
+        },
+        {
+          "bidder": "30d6dc62d459435ca8ab080dd6331d87",
+          "amount": 324.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679758964",
+                "name": "Игорь Николаевич Бабенко",
+                "email": "cashbob@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36700909",
+                "legalName": "\"Технологии Света\""
+              },
+              "name": "\"Технологии Света\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54000",
+                "region": "Николаевская",
+                "streetAddress": "г.Николаев ул.Чигрина 74",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-03-17T13:41:30.070759+02:00"
+        }
+      ],
+      "time": "2015-03-19T09:21:02.874578+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-18T19:42:49.215999+02:00",
+          "amount": 11700.0,
+          "bidder": "bd432ac0780240d6b87a9fa4dc454713"
+        },
+        {
+          "date": "2015-03-17T13:41:30.070759+02:00",
+          "amount": 324.0,
+          "bidder": "30d6dc62d459435ca8ab080dd6331d87"
+        }
+      ],
+      "time": "2015-03-19T09:00:00.035053+00:00"
+    }
+  },
+  "id": "e2c24739b625463ab89167f5bb8eeea1",
+  "tenderId": "UA-2015-03-12-000006"
+}

@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1050.0,
+        "bid_time": "2015-10-05T11:48:42.714873+03:00",
+        "bidder": "52d82ccf314749098b2dc7b5ecf6ba44",
+        "time": "2015-10-05T08:48:45.008267+00:00"
+      },
+      "turn_3": {
+        "bidder": "b3c0deade80241b6b9fd4720e6e8caf7",
+        "time": "2015-10-05T08:50:45.007608+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb552214006e46f5b504dcc83bbd2e5d",
+        "time": "2015-10-05T08:46:45.007450+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 999.0,
+        "bid_time": "2015-10-05T11:55:07.959152+03:00",
+        "bidder": "b3c0deade80241b6b9fd4720e6e8caf7",
+        "time": "2015-10-05T08:56:45.007754+00:00"
+      },
+      "turn_3": {
+        "amount": 990.0,
+        "bid_time": "2015-10-05T11:58:13.389628+03:00",
+        "bidder": "52d82ccf314749098b2dc7b5ecf6ba44",
+        "time": "2015-10-05T08:58:45.008961+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb552214006e46f5b504dcc83bbd2e5d",
+        "time": "2015-10-05T08:54:45.006406+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "52d82ccf314749098b2dc7b5ecf6ba44",
+        "time": "2015-10-05T08:40:45.008174+00:00"
+      },
+      "turn_3": {
+        "bidder": "b3c0deade80241b6b9fd4720e6e8caf7",
+        "time": "2015-10-05T08:42:45.007774+00:00"
+      },
+      "turn_1": {
+        "bidder": "fb552214006e46f5b504dcc83bbd2e5d",
+        "time": "2015-10-05T08:38:45.007143+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fb552214006e46f5b504dcc83bbd2e5d",
+          "amount": 1200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kep-service.com.ua",
+                "telephone": "+380976019314",
+                "name": "ФОП Кухар Геннадій Анатолійович",
+                "email": "kepservice2015@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2726909574",
+                "legalName": "ФОП Кухар Геннадій Анатолійович"
+              },
+              "name": "ФОП Кухар Геннадій Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "29000, м.Хмельницький, вул. Героїв майдану 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-30T17:18:00.914367+03:00"
+        },
+        {
+          "bidder": "b3c0deade80241b6b9fd4720e6e8caf7",
+          "amount": 999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-05T11:55:07.959152+03:00"
+        },
+        {
+          "bidder": "52d82ccf314749098b2dc7b5ecf6ba44",
+          "amount": 990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-05T11:58:13.389628+03:00"
+        }
+      ],
+      "time": "2015-10-05T08:58:47.132754+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-30T17:18:00.914367+03:00",
+          "amount": 1200.0,
+          "bidder": "fb552214006e46f5b504dcc83bbd2e5d"
+        },
+        {
+          "date": "2015-10-01T10:36:59.425367+03:00",
+          "amount": 1150.0,
+          "bidder": "52d82ccf314749098b2dc7b5ecf6ba44"
+        },
+        {
+          "date": "2015-10-02T11:27:07.592981+03:00",
+          "amount": 1099.0,
+          "bidder": "b3c0deade80241b6b9fd4720e6e8caf7"
+        }
+      ],
+      "time": "2015-10-05T08:31:45.003686+00:00"
+    }
+  },
+  "id": "171efcac2040481f93e0a9d809b02732",
+  "tenderId": "UA-2015-09-29-000072"
+}

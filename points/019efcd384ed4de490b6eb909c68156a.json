@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 12680.0,
+        "bid_time": "2015-07-31T12:15:10.126661+03:00",
+        "bidder": "70af47acceed4be99b981afe7fade4c2",
+        "time": "2015-07-31T09:17:00.032142+00:00"
+      },
+      "turn_3": {
+        "amount": 12650.0,
+        "bid_time": "2015-07-31T12:17:31.073365+03:00",
+        "bidder": "a0f4e5fa79d542d0a076d567a899c695",
+        "time": "2015-07-31T09:19:00.028861+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffcf70e35e2841509b80576f25e985e8",
+        "time": "2015-07-31T09:15:00.054801+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 12059.0,
+        "bid_time": "2015-07-31T12:23:10.549701+03:00",
+        "bidder": "70af47acceed4be99b981afe7fade4c2",
+        "time": "2015-07-31T09:25:00.023470+00:00"
+      },
+      "turn_3": {
+        "bidder": "a0f4e5fa79d542d0a076d567a899c695",
+        "time": "2015-07-31T09:27:00.019566+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffcf70e35e2841509b80576f25e985e8",
+        "time": "2015-07-31T09:23:00.019077+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 14975.0,
+        "bid_time": "2015-07-31T12:07:17.478401+03:00",
+        "bidder": "70af47acceed4be99b981afe7fade4c2",
+        "time": "2015-07-31T09:09:00.060231+00:00"
+      },
+      "turn_3": {
+        "amount": 14675.0,
+        "bid_time": "2015-07-31T12:10:05.495206+03:00",
+        "bidder": "a0f4e5fa79d542d0a076d567a899c695",
+        "time": "2015-07-31T09:11:00.065696+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffcf70e35e2841509b80576f25e985e8",
+        "time": "2015-07-31T09:07:00.085396+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ffcf70e35e2841509b80576f25e985e8",
+          "amount": 15392.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "0512-58-31-41",
+                "telephone": "067-48-00-693",
+                "name": "Скрипаль Юрій Федорович",
+                "email": "fsl@fsl.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2247723735",
+                "legalName": "ФОП Скрипаль Юрій Федорович"
+              },
+              "name": "ФОП Скрипаль Юрій Федорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54020",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Фрунзе, буд.60, кв.16",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-29T16:30:14.836393+03:00"
+        },
+        {
+          "bidder": "a0f4e5fa79d542d0a076d567a899c695",
+          "amount": 12650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alvant.com.ua",
+                "faxNumber": "",
+                "telephone": "0503356917",
+                "name": "Половенко Олександр Володимирович",
+                "email": "starnet@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34234429",
+                "legalName": "Дочірнє підприємство \"Стар Нет\""
+              },
+              "name": "Дочірнє підприємство \"Стар Нет\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54042",
+                "region": "Миколаївська",
+                "streetAddress": "Заводська, 41",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T12:17:31.073365+03:00"
+        },
+        {
+          "bidder": "70af47acceed4be99b981afe7fade4c2",
+          "amount": 12059.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T12:23:10.549701+03:00"
+        }
+      ],
+      "time": "2015-07-31T09:27:01.610402+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-29T16:30:14.836393+03:00",
+          "amount": 15392.0,
+          "bidder": "ffcf70e35e2841509b80576f25e985e8"
+        },
+        {
+          "date": "2015-07-29T13:12:20.399290+03:00",
+          "amount": 15275.0,
+          "bidder": "70af47acceed4be99b981afe7fade4c2"
+        },
+        {
+          "date": "2015-07-31T01:04:26.552242+03:00",
+          "amount": 15200.0,
+          "bidder": "a0f4e5fa79d542d0a076d567a899c695"
+        }
+      ],
+      "time": "2015-07-31T09:00:00.011841+00:00"
+    }
+  },
+  "id": "019efcd384ed4de490b6eb909c68156a",
+  "tenderId": "UA-2015-07-23-000093"
+}

@@ -1,0 +1,206 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 19160.0,
+        "bid_time": "2015-10-07T16:04:00.769162+03:00",
+        "bidder": "1cdf30bbf23e4e938a7a62249301511e",
+        "time": "2015-10-07T13:05:54.007780+00:00"
+      },
+      "turn_2": {
+        "bidder": "b9a62b3732844de7b66b79c7eda32c76",
+        "time": "2015-10-07T13:01:54.006957+00:00"
+      },
+      "turn_3": {
+        "bidder": "b026c20c2f074374bcfce251cde307bf",
+        "time": "2015-10-07T13:03:54.006022+00:00"
+      },
+      "turn_1": {
+        "bidder": "e494a044745340a18588e1a20a80173b",
+        "time": "2015-10-07T12:59:54.006376+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 19140.0,
+        "bid_time": "2015-10-07T16:14:03.019241+03:00",
+        "bidder": "1cdf30bbf23e4e938a7a62249301511e",
+        "time": "2015-10-07T13:15:54.022445+00:00"
+      },
+      "turn_2": {
+        "bidder": "b9a62b3732844de7b66b79c7eda32c76",
+        "time": "2015-10-07T13:11:54.007142+00:00"
+      },
+      "turn_3": {
+        "bidder": "b026c20c2f074374bcfce251cde307bf",
+        "time": "2015-10-07T13:13:54.008535+00:00"
+      },
+      "turn_1": {
+        "bidder": "e494a044745340a18588e1a20a80173b",
+        "time": "2015-10-07T13:09:54.005890+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 19180.0,
+        "bid_time": "2015-10-07T15:54:03.984881+03:00",
+        "bidder": "1cdf30bbf23e4e938a7a62249301511e",
+        "time": "2015-10-07T12:55:54.007835+00:00"
+      },
+      "turn_2": {
+        "bidder": "b9a62b3732844de7b66b79c7eda32c76",
+        "time": "2015-10-07T12:51:54.006604+00:00"
+      },
+      "turn_3": {
+        "bidder": "b026c20c2f074374bcfce251cde307bf",
+        "time": "2015-10-07T12:53:54.011875+00:00"
+      },
+      "turn_1": {
+        "bidder": "e494a044745340a18588e1a20a80173b",
+        "time": "2015-10-07T12:49:54.009182+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e494a044745340a18588e1a20a80173b",
+          "amount": 24000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0992530514",
+                "name": "Віта Лампіга ",
+                "email": "office_u@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40017994",
+                "legalName": ""
+              },
+              "name": "ПП \"Дзига\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Полтавская область",
+                "streetAddress": "37600, м.Миргород, вул.Незалежності, 2"
+              }
+            }
+          ],
+          "time": "2015-10-05T17:13:32.916514+03:00"
+        },
+        {
+          "bidder": "b9a62b3732844de7b66b79c7eda32c76",
+          "amount": 23750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sportmir.dp.ua",
+                "faxNumber": "+380563716989",
+                "telephone": "+380969394637",
+                "name": "БІЛОУС ЮРІЙ ВАСИЛЬОВИЧ",
+                "email": "dneprsportservis@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2201122015"
+              },
+              "name": "ФОП БІЛОУС Ю.В.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "ВУЛ. КОСІОРА БУД. 47-А КВ. 166",
+                "locality": "ДНІПРОПЕТРОВСЬК"
+              }
+            }
+          ],
+          "time": "2015-10-04T16:58:11.904495+03:00"
+        },
+        {
+          "bidder": "b026c20c2f074374bcfce251cde307bf",
+          "amount": 22257.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444649565",
+                "telephone": "0444649565",
+                "name": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\"",
+                "email": "Andrey@papirus.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37757144",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПАПІРУС ВСЕ ДЛЯ ОФІСУ\"\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08132",
+                "region": "Київська",
+                "streetAddress": "Київська, 2-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T15:37:37.980275+03:00"
+        },
+        {
+          "bidder": "1cdf30bbf23e4e938a7a62249301511e",
+          "amount": 19140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://little-one.com/",
+                "faxNumber": "2585508",
+                "telephone": "2585508",
+                "name": "Коваленко Олександр Миколайович",
+                "email": "stori2006@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32707811",
+                "legalName": "ТОВ \"Каретний Двір\""
+              },
+              "name": "ТОВ \"Каретний Двір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03022",
+                "region": "Київська",
+                "streetAddress": "Трутенко 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T16:14:03.019241+03:00"
+        }
+      ],
+      "time": "2015-10-07T13:15:57.525440+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T17:13:32.916514+03:00",
+          "amount": 24000.0,
+          "bidder": "e494a044745340a18588e1a20a80173b"
+        },
+        {
+          "date": "2015-10-04T16:58:11.904495+03:00",
+          "amount": 23750.0,
+          "bidder": "b9a62b3732844de7b66b79c7eda32c76"
+        },
+        {
+          "date": "2015-10-05T15:37:37.980275+03:00",
+          "amount": 22257.0,
+          "bidder": "b026c20c2f074374bcfce251cde307bf"
+        },
+        {
+          "date": "2015-10-05T14:57:50.316339+03:00",
+          "amount": 19200.0,
+          "bidder": "1cdf30bbf23e4e938a7a62249301511e"
+        }
+      ],
+      "time": "2015-10-07T12:42:54.002346+00:00"
+    }
+  },
+  "id": "44545024ddb5483eaa19cefdcf8b0d42",
+  "tenderId": "UA-2015-10-01-000113"
+}

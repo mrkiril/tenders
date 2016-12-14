@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fa061c789cef4a94bc1bd92e3465a0af",
+        "time": "2015-12-15T11:16:31.009320+00:00"
+      },
+      "turn_1": {
+        "bidder": "17b618602e40413288e0e935510ad0f3",
+        "time": "2015-12-15T11:14:31.020879+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fa061c789cef4a94bc1bd92e3465a0af",
+        "time": "2015-12-15T11:22:31.011733+00:00"
+      },
+      "turn_1": {
+        "bidder": "17b618602e40413288e0e935510ad0f3",
+        "time": "2015-12-15T11:20:31.011196+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fa061c789cef4a94bc1bd92e3465a0af",
+        "time": "2015-12-15T11:10:31.010412+00:00"
+      },
+      "turn_1": {
+        "bidder": "17b618602e40413288e0e935510ad0f3",
+        "time": "2015-12-15T11:08:31.009089+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "17b618602e40413288e0e935510ad0f3",
+          "amount": 39333.77,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "756-34-51",
+                "telephone": "0662316336",
+                "name": "Петренко Інна Вячеславівна",
+                "email": "petrenkoinna@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38492870",
+                "legalName": "Товариство з обмеженою відповідальністю \" Аптека №5+\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" Аптека №5+\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61050",
+                "region": "Харківська",
+                "streetAddress": "вул. Франківська , 4",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-10T16:03:13.792073+02:00"
+        },
+        {
+          "bidder": "fa061c789cef4a94bc1bd92e3465a0af",
+          "amount": 38010.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": "БаДМ-Б"
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-12-14T11:04:01.655778+02:00"
+        }
+      ],
+      "time": "2015-12-15T11:22:32.827516+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T16:03:13.792073+02:00",
+          "amount": 39333.77,
+          "bidder": "17b618602e40413288e0e935510ad0f3"
+        },
+        {
+          "date": "2015-12-14T11:04:01.655778+02:00",
+          "amount": 38010.68,
+          "bidder": "fa061c789cef4a94bc1bd92e3465a0af"
+        }
+      ],
+      "time": "2015-12-15T11:01:31.004029+00:00"
+    }
+  },
+  "id": "443feb701c1e4297a9decc149fc6b97a",
+  "tenderId": "UA-2015-12-03-000090"
+}

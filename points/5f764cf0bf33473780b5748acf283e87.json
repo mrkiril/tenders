@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4abdaf2f653f41cca6cbcd1fe3c59d4a",
+        "time": "2015-09-07T08:17:00.099001+00:00"
+      },
+      "turn_3": {
+        "bidder": "9989864e5f6f4945b3137b5858542772",
+        "time": "2015-09-07T08:19:00.084832+00:00"
+      },
+      "turn_1": {
+        "bidder": "31a9be1028e74a6aad6fbb9abfc79553",
+        "time": "2015-09-07T08:15:00.054039+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4abdaf2f653f41cca6cbcd1fe3c59d4a",
+        "time": "2015-09-07T08:25:00.041521+00:00"
+      },
+      "turn_3": {
+        "bidder": "9989864e5f6f4945b3137b5858542772",
+        "time": "2015-09-07T08:27:00.175188+00:00"
+      },
+      "turn_1": {
+        "bidder": "31a9be1028e74a6aad6fbb9abfc79553",
+        "time": "2015-09-07T08:23:00.027347+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4abdaf2f653f41cca6cbcd1fe3c59d4a",
+        "time": "2015-09-07T08:09:00.049098+00:00"
+      },
+      "turn_3": {
+        "bidder": "9989864e5f6f4945b3137b5858542772",
+        "time": "2015-09-07T08:11:00.107121+00:00"
+      },
+      "turn_1": {
+        "bidder": "31a9be1028e74a6aad6fbb9abfc79553",
+        "time": "2015-09-07T08:07:00.073662+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "31a9be1028e74a6aad6fbb9abfc79553",
+          "amount": 14998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445661004, +380503820395",
+                "name": "Олена Новицька",
+                "email": "dimlen_dimlen@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404059",
+                "legalName": "ТОВ \"ДІМЛЕН\""
+              },
+              "name": "ТОВ \"ДІМЛЕН\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02093",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, Дарницький район, вулиця Росошанська, буд.3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:42:16.877636+03:00"
+        },
+        {
+          "bidder": "4abdaf2f653f41cca6cbcd1fe3c59d4a",
+          "amount": 14000.01,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443324106, +380443329368, +380662959511",
+                "name": "Юлия Викторовна",
+                "email": "slte@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35121178",
+                "legalName": "ПП \"Торговый дом Анвар\""
+              },
+              "name": "ПП \"Торговый дом Анвар\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03148",
+                "region": "Киевская",
+                "streetAddress": "03148. Киев просп леся курбаса 9 в, кв 111",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-02T10:56:00.163676+03:00"
+        },
+        {
+          "bidder": "9989864e5f6f4945b3137b5858542772",
+          "amount": 13825.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380567355344, +380952330424, +380672693258, +380567135899",
+                "name": "Stas",
+                "email": "dniproltm@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37452800",
+                "legalName": "Днепр-камуфляж"
+              },
+              "name": "Днепр-камуфляж",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49100",
+                "region": "Днепропетровская",
+                "streetAddress": "49100, пров.Добровольців, 15, м.Дніпропетровськ",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-09-04T09:59:24.663879+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:27:11.394290+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T11:42:16.877636+03:00",
+          "amount": 14998.0,
+          "bidder": "31a9be1028e74a6aad6fbb9abfc79553"
+        },
+        {
+          "date": "2015-09-02T10:56:00.163676+03:00",
+          "amount": 14000.01,
+          "bidder": "4abdaf2f653f41cca6cbcd1fe3c59d4a"
+        },
+        {
+          "date": "2015-09-04T09:59:24.663879+03:00",
+          "amount": 13825.0,
+          "bidder": "9989864e5f6f4945b3137b5858542772"
+        }
+      ],
+      "time": "2015-09-07T08:00:00.004233+00:00"
+    }
+  },
+  "id": "5f764cf0bf33473780b5748acf283e87",
+  "tenderId": "UA-2015-09-01-000018"
+}

@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "67b1bb7c7c204341a07afa48f3a80061",
+        "time": "2015-06-15T08:45:00.406928+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3c84eada1464a4faca141730b299cc0",
+        "time": "2015-06-15T08:43:00.181909+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "67b1bb7c7c204341a07afa48f3a80061",
+        "time": "2015-06-15T08:51:00.359532+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3c84eada1464a4faca141730b299cc0",
+        "time": "2015-06-15T08:49:00.266696+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 38260.0,
+        "bid_time": "2015-06-15T11:37:23.743099+03:00",
+        "bidder": "67b1bb7c7c204341a07afa48f3a80061",
+        "time": "2015-06-15T08:39:00.202649+00:00"
+      },
+      "turn_1": {
+        "amount": 38500.0,
+        "bid_time": "2015-06-15T11:35:31.624967+03:00",
+        "bidder": "e3c84eada1464a4faca141730b299cc0",
+        "time": "2015-06-15T08:37:00.309963+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e3c84eada1464a4faca141730b299cc0",
+          "amount": 38500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-06-15T11:35:31.624967+03:00"
+        },
+        {
+          "bidder": "67b1bb7c7c204341a07afa48f3a80061",
+          "amount": 38260.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-06-15T11:37:23.743099+03:00"
+        }
+      ],
+      "time": "2015-06-15T08:51:08.407520+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T17:42:26.309632+03:00",
+          "amount": 44800.0,
+          "bidder": "e3c84eada1464a4faca141730b299cc0"
+        },
+        {
+          "date": "2015-06-13T18:49:49.524614+03:00",
+          "amount": 38760.0,
+          "bidder": "67b1bb7c7c204341a07afa48f3a80061"
+        }
+      ],
+      "time": "2015-06-15T08:30:00.066979+00:00"
+    }
+  },
+  "id": "77e0fb4cb2fe4c248b6afefe62e9fe2b",
+  "tenderId": "UA-2015-06-04-000032"
+}

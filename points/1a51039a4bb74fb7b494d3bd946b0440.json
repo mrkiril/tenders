@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "42208bafd73c455c93a3abe105252dcb",
+        "time": "2015-12-14T11:53:54.011225+00:00"
+      },
+      "turn_3": {
+        "bidder": "3eae8f44d7324db792e6227146d87744",
+        "time": "2015-12-14T11:55:54.086880+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d5a887aa36b404b8a108f51beaeeee2",
+        "time": "2015-12-14T11:51:54.008636+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "42208bafd73c455c93a3abe105252dcb",
+        "time": "2015-12-14T12:01:54.007535+00:00"
+      },
+      "turn_3": {
+        "bidder": "3eae8f44d7324db792e6227146d87744",
+        "time": "2015-12-14T12:03:54.008112+00:00"
+      },
+      "turn_1": {
+        "bidder": "2d5a887aa36b404b8a108f51beaeeee2",
+        "time": "2015-12-14T11:59:54.031042+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2d5a887aa36b404b8a108f51beaeeee2",
+        "time": "2015-12-14T11:45:54.008127+00:00"
+      },
+      "turn_3": {
+        "bidder": "3eae8f44d7324db792e6227146d87744",
+        "time": "2015-12-14T11:47:54.008147+00:00"
+      },
+      "turn_1": {
+        "amount": 15850.0,
+        "bid_time": "2015-12-14T13:43:05.029010+02:00",
+        "bidder": "42208bafd73c455c93a3abe105252dcb",
+        "time": "2015-12-14T11:43:54.013021+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2d5a887aa36b404b8a108f51beaeeee2",
+          "amount": 15860.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vint.com.ua",
+                "telephone": "+380442388461",
+                "name": "Макаровський Олександр Дмитрович",
+                "email": "alex@vint.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38234134"
+              },
+              "name": "ТОВ \"КОМПАНІЯ ВІНТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04071",
+                "region": "Київська область",
+                "streetAddress": "вул. Ярославська, 4 Літера Б, офіс 30",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T11:44:13.990193+02:00"
+        },
+        {
+          "bidder": "42208bafd73c455c93a3abe105252dcb",
+          "amount": 15850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:43:05.029010+02:00"
+        },
+        {
+          "bidder": "3eae8f44d7324db792e6227146d87744",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T17:21:04.915633+02:00"
+        }
+      ],
+      "time": "2015-12-14T12:03:56.035035+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T14:58:07.166606+02:00",
+          "amount": 15983.0,
+          "bidder": "42208bafd73c455c93a3abe105252dcb"
+        },
+        {
+          "date": "2015-12-11T11:44:13.990193+02:00",
+          "amount": 15860.1,
+          "bidder": "2d5a887aa36b404b8a108f51beaeeee2"
+        },
+        {
+          "date": "2015-12-09T17:21:04.915633+02:00",
+          "amount": 12000.0,
+          "bidder": "3eae8f44d7324db792e6227146d87744"
+        }
+      ],
+      "time": "2015-12-14T11:36:54.003879+00:00"
+    }
+  },
+  "id": "1a51039a4bb74fb7b494d3bd946b0440",
+  "tenderId": "UA-2015-12-07-000006"
+}

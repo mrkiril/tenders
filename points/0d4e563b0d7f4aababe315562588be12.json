@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bce1f9dff0a54badb4f5d8aab8f1487b",
+        "time": "2015-11-20T09:47:44.010034+00:00"
+      },
+      "turn_3": {
+        "bidder": "0607ec92305f422fb5d78f923b97f0f5",
+        "time": "2015-11-20T09:49:44.034278+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e9303f20f9e4c8ebf505a62f68f47d2",
+        "time": "2015-11-20T09:45:44.007648+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bce1f9dff0a54badb4f5d8aab8f1487b",
+        "time": "2015-11-20T09:55:44.010183+00:00"
+      },
+      "turn_3": {
+        "bidder": "0607ec92305f422fb5d78f923b97f0f5",
+        "time": "2015-11-20T09:57:44.010241+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e9303f20f9e4c8ebf505a62f68f47d2",
+        "time": "2015-11-20T09:53:44.011380+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bce1f9dff0a54badb4f5d8aab8f1487b",
+        "time": "2015-11-20T09:39:44.010524+00:00"
+      },
+      "turn_3": {
+        "bidder": "0607ec92305f422fb5d78f923b97f0f5",
+        "time": "2015-11-20T09:41:44.011187+00:00"
+      },
+      "turn_1": {
+        "bidder": "8e9303f20f9e4c8ebf505a62f68f47d2",
+        "time": "2015-11-20T09:37:44.011770+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8e9303f20f9e4c8ebf505a62f68f47d2",
+          "amount": 595000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mdgr.com.ua",
+                "telephone": "+380577193701",
+                "name": "Товариство з обмеженою відповідальністю \"МД ІСТЕЙТ\"",
+                "email": "o.khmelevskaya@mdgr.kh.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32040840",
+                "legalName": "Товариство з обмеженою відповідальністю \"МД ІСТЕЙТ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"МД ІСТЕЙТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Валерія Лобановського, буд.6-а м.Запоріжжя, Запорізька обл., 69006",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T14:36:30.448771+02:00"
+        },
+        {
+          "bidder": "bce1f9dff0a54badb4f5d8aab8f1487b",
+          "amount": 588000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445923770",
+                "name": "Андрій, Богдан",
+                "email": "utmc.office@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39284872",
+                "legalName": "ТОВ \"УКРАЇНСЬКА ТРАНСПОРТНО-МАШИНОБУДІВЕЛЬНА КОМПАНІЯ\""
+              },
+              "name": "ТОВ \"УКРАЇНСЬКА ТРАНСПОРТНО-МАШИНОБУДІВЕЛЬНА КОМПАНІЯ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Зоологічна, 4а, оф.139",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:01:35.636337+02:00"
+        },
+        {
+          "bidder": "0607ec92305f422fb5d78f923b97f0f5",
+          "amount": 556000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673253055, +380442097546",
+                "name": "Володимир",
+                "email": "ukrtransinvest@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36689854",
+                "legalName": "ТОВ \"Укртрансінвест\""
+              },
+              "name": "ТОВ \"Укртрансінвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01001",
+                "region": "Киевская",
+                "streetAddress": "вул.Володимирська, б.7, оф.1 ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T12:57:01.625108+02:00"
+        }
+      ],
+      "time": "2015-11-20T09:57:46.322407+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T14:36:30.448771+02:00",
+          "amount": 595000.0,
+          "bidder": "8e9303f20f9e4c8ebf505a62f68f47d2"
+        },
+        {
+          "date": "2015-11-17T12:01:35.636337+02:00",
+          "amount": 588000.0,
+          "bidder": "bce1f9dff0a54badb4f5d8aab8f1487b"
+        },
+        {
+          "date": "2015-11-17T12:57:01.625108+02:00",
+          "amount": 556000.0,
+          "bidder": "0607ec92305f422fb5d78f923b97f0f5"
+        }
+      ],
+      "time": "2015-11-20T09:30:44.002085+00:00"
+    }
+  },
+  "id": "0d4e563b0d7f4aababe315562588be12",
+  "tenderId": "UA-2015-11-11-000088-a"
+}

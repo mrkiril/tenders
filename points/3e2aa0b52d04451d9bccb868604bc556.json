@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "14d16fa019574a2d96eae64fccfa15b5",
+        "time": "2015-11-27T13:56:03.010098+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb5f6505e65743b49bf9c43748106ce7",
+        "time": "2015-11-27T13:54:03.010318+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "14d16fa019574a2d96eae64fccfa15b5",
+        "time": "2015-11-27T14:02:03.009723+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb5f6505e65743b49bf9c43748106ce7",
+        "time": "2015-11-27T14:00:03.033018+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "14d16fa019574a2d96eae64fccfa15b5",
+        "time": "2015-11-27T13:50:03.011678+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb5f6505e65743b49bf9c43748106ce7",
+        "time": "2015-11-27T13:48:03.009926+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eb5f6505e65743b49bf9c43748106ce7",
+          "amount": 1360.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "337-09-74",
+                "name": "Нікулін Леонідович Дмитро",
+                "email": "dolonya.office@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35008925",
+                "legalName": "Приватне підприємство \"Долоня\""
+              },
+              "name": "Приватне підприємство \"Долоня\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07805",
+                "region": "Київська",
+                "streetAddress": "Заводська 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T15:50:53.897189+02:00"
+        },
+        {
+          "bidder": "14d16fa019574a2d96eae64fccfa15b5",
+          "amount": 1245.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-24T09:47:26.565428+02:00"
+        }
+      ],
+      "time": "2015-11-27T14:02:07.549113+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T15:50:53.897189+02:00",
+          "amount": 1360.8,
+          "bidder": "eb5f6505e65743b49bf9c43748106ce7"
+        },
+        {
+          "date": "2015-11-24T09:47:26.565428+02:00",
+          "amount": 1245.0,
+          "bidder": "14d16fa019574a2d96eae64fccfa15b5"
+        }
+      ],
+      "time": "2015-11-27T13:41:03.005769+00:00"
+    }
+  },
+  "id": "3e2aa0b52d04451d9bccb868604bc556",
+  "tenderId": "UA-2015-11-18-000172"
+}

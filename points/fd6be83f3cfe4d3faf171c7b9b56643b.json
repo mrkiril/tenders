@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "259c9ef3cf8447d2b50a1027e69c1323",
+        "time": "2015-08-05T08:15:00.164405+00:00"
+      },
+      "turn_1": {
+        "bidder": "823aed93bc0045aeba7a88119ef8d509",
+        "time": "2015-08-05T08:13:00.152586+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "259c9ef3cf8447d2b50a1027e69c1323",
+        "time": "2015-08-05T08:21:00.224418+00:00"
+      },
+      "turn_1": {
+        "bidder": "823aed93bc0045aeba7a88119ef8d509",
+        "time": "2015-08-05T08:19:00.165100+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "259c9ef3cf8447d2b50a1027e69c1323",
+        "time": "2015-08-05T08:09:00.066426+00:00"
+      },
+      "turn_1": {
+        "bidder": "823aed93bc0045aeba7a88119ef8d509",
+        "time": "2015-08-05T08:07:00.126162+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "823aed93bc0045aeba7a88119ef8d509",
+          "amount": 7300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380414326716, +380983436728",
+                "name": "Ігор Мельник",
+                "email": "tranzit.tender@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24699810",
+                "legalName": "ТОВ \"Транзит-С\""
+              },
+              "name": "ТОВ \"Транзит-С\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "13300",
+                "region": "Житомирская",
+                "streetAddress": "Європейська, буд. 8, м. БЕРДИЧІВ, ЖИТОМИРСЬКА обл., 13300",
+                "locality": "Бердичев"
+              }
+            }
+          ],
+          "time": "2015-08-04T15:21:13.575659+03:00"
+        },
+        {
+          "bidder": "259c9ef3cf8447d2b50a1027e69c1323",
+          "amount": 7285.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-03T16:02:55.009662+03:00"
+        }
+      ],
+      "time": "2015-08-05T08:21:10.791067+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-04T15:21:13.575659+03:00",
+          "amount": 7300.0,
+          "bidder": "823aed93bc0045aeba7a88119ef8d509"
+        },
+        {
+          "date": "2015-08-03T16:02:55.009662+03:00",
+          "amount": 7285.5,
+          "bidder": "259c9ef3cf8447d2b50a1027e69c1323"
+        }
+      ],
+      "time": "2015-08-05T08:00:00.045875+00:00"
+    }
+  },
+  "id": "fd6be83f3cfe4d3faf171c7b9b56643b",
+  "tenderId": "UA-2015-07-28-000057"
+}

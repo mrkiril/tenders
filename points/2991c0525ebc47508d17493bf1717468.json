@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 514000.0,
+        "bid_time": "2015-12-17T13:18:34.954199+02:00",
+        "bidder": "832afd8743df4ba79dcca87bee3677b6",
+        "time": "2015-12-17T11:19:01.009226+00:00"
+      },
+      "turn_1": {
+        "amount": 516000.0,
+        "bid_time": "2015-12-17T13:16:03.003101+02:00",
+        "bidder": "f9c233c1c78e48a1a273f1b2cedda45a",
+        "time": "2015-12-17T11:17:01.011207+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 497500.0,
+        "bid_time": "2015-12-17T13:24:43.350002+02:00",
+        "bidder": "832afd8743df4ba79dcca87bee3677b6",
+        "time": "2015-12-17T11:25:01.009421+00:00"
+      },
+      "turn_1": {
+        "amount": 498000.0,
+        "bid_time": "2015-12-17T13:21:23.077295+02:00",
+        "bidder": "f9c233c1c78e48a1a273f1b2cedda45a",
+        "time": "2015-12-17T11:23:01.009455+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 531000.0,
+        "bid_time": "2015-12-17T13:12:50.853808+02:00",
+        "bidder": "832afd8743df4ba79dcca87bee3677b6",
+        "time": "2015-12-17T11:13:01.009819+00:00"
+      },
+      "turn_1": {
+        "amount": 534000.0,
+        "bid_time": "2015-12-17T13:09:39.680970+02:00",
+        "bidder": "f9c233c1c78e48a1a273f1b2cedda45a",
+        "time": "2015-12-17T11:11:01.013954+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f9c233c1c78e48a1a273f1b2cedda45a",
+          "amount": 498000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504545944",
+                "name": "ПМВКП \"Ассоль\"",
+                "email": "osb-03@assol.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20470908",
+                "legalName": "ПМВКП \"Ассоль\""
+              },
+              "name": "ПМВКП \"Ассоль\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ЗАПОРОЖСКАЯ ОБЛ.",
+                "streetAddress": "71600, Запорізька обл., Василівський район, місто Василівка, ВУЛИЦЯ ЧЕКІСТІВ, будинок 43",
+                "locality": "Васильевка"
+              }
+            }
+          ],
+          "time": "2015-12-17T13:21:23.077295+02:00"
+        },
+        {
+          "bidder": "832afd8743df4ba79dcca87bee3677b6",
+          "amount": 497500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503075397",
+                "name": "Брагин Игорь Константинович",
+                "email": "lybid-sumy@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23994138",
+                "legalName": "МЧП \"ЛЫБИДЬ\""
+              },
+              "name": "МЧП \"ЛЫБИДЬ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-17T13:24:43.350002+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:25:03.788551+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T12:26:06.123929+02:00",
+          "amount": 570000.0,
+          "bidder": "f9c233c1c78e48a1a273f1b2cedda45a"
+        },
+        {
+          "date": "2015-12-16T13:05:27.683251+02:00",
+          "amount": 535000.0,
+          "bidder": "832afd8743df4ba79dcca87bee3677b6"
+        }
+      ],
+      "time": "2015-12-17T11:04:01.004518+00:00"
+    }
+  },
+  "id": "2991c0525ebc47508d17493bf1717468",
+  "tenderId": "UA-2015-12-09-000073-a"
+}

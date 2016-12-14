@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1ad7b3c959e240259bf98be5f2abf791",
+        "time": "2015-10-30T09:25:08.009773+00:00"
+      },
+      "turn_3": {
+        "bidder": "f7ef8e1ed72a4517898b6fdbb65de65a",
+        "time": "2015-10-30T09:27:08.011480+00:00"
+      },
+      "turn_1": {
+        "amount": 2400.0,
+        "bid_time": "2015-10-30T11:22:28.617033+02:00",
+        "bidder": "d1d1c4c2140a4a669defe9c04a8bd4b3",
+        "time": "2015-10-30T09:23:08.009629+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f7ef8e1ed72a4517898b6fdbb65de65a",
+        "time": "2015-10-30T09:33:08.008443+00:00"
+      },
+      "turn_3": {
+        "bidder": "d1d1c4c2140a4a669defe9c04a8bd4b3",
+        "time": "2015-10-30T09:35:08.007675+00:00"
+      },
+      "turn_1": {
+        "bidder": "1ad7b3c959e240259bf98be5f2abf791",
+        "time": "2015-10-30T09:31:08.008937+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1ad7b3c959e240259bf98be5f2abf791",
+        "time": "2015-10-30T09:17:08.008809+00:00"
+      },
+      "turn_3": {
+        "bidder": "f7ef8e1ed72a4517898b6fdbb65de65a",
+        "time": "2015-10-30T09:19:08.007502+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1d1c4c2140a4a669defe9c04a8bd4b3",
+        "time": "2015-10-30T09:15:08.008775+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1ad7b3c959e240259bf98be5f2abf791",
+          "amount": 2990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975093096",
+                "name": "Ігор Креденцер",
+                "email": "seraa21@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2605905410",
+                "legalName": "ФОП \"Креденцер\""
+              },
+              "name": "ФОП \"Креденцер\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03162",
+                "region": "Киевская",
+                "streetAddress": "пр. Л. Курбаса 12 в кв  308                                                                                                                                                                                                                              ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-26T07:34:58.629751+02:00"
+        },
+        {
+          "bidder": "f7ef8e1ed72a4517898b6fdbb65de65a",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-29T06:15:22.883120+02:00"
+        },
+        {
+          "bidder": "d1d1c4c2140a4a669defe9c04a8bd4b3",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-30T11:22:28.617033+02:00"
+        }
+      ],
+      "time": "2015-10-30T09:35:26.961416+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-26T07:34:58.629751+02:00",
+          "amount": 2990.0,
+          "bidder": "1ad7b3c959e240259bf98be5f2abf791"
+        },
+        {
+          "date": "2015-10-29T06:34:50.641766+02:00",
+          "amount": 2990.0,
+          "bidder": "d1d1c4c2140a4a669defe9c04a8bd4b3"
+        },
+        {
+          "date": "2015-10-29T06:15:22.883120+02:00",
+          "amount": 2500.0,
+          "bidder": "f7ef8e1ed72a4517898b6fdbb65de65a"
+        }
+      ],
+      "time": "2015-10-30T09:08:08.005172+00:00"
+    }
+  },
+  "id": "354caa7fb8d04d839a123f3540b84fc2",
+  "tenderId": "UA-2015-10-20-000157"
+}

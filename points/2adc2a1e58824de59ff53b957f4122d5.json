@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 998.0,
+        "bid_time": "2015-12-15T13:58:30.924882+02:00",
+        "bidder": "0c65237459a64968a8ff631ff78b3051",
+        "time": "2015-12-15T11:58:52.009288+00:00"
+      },
+      "turn_1": {
+        "amount": 1000.0,
+        "bid_time": "2015-12-15T13:54:57.798341+02:00",
+        "bidder": "a67c1fcb4d47405ea2454f4cf3df7293",
+        "time": "2015-12-15T11:56:52.009028+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0c65237459a64968a8ff631ff78b3051",
+        "time": "2015-12-15T12:04:52.009018+00:00"
+      },
+      "turn_1": {
+        "bidder": "a67c1fcb4d47405ea2454f4cf3df7293",
+        "time": "2015-12-15T12:02:52.007262+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1065.0,
+        "bid_time": "2015-12-15T13:52:40.540611+02:00",
+        "bidder": "0c65237459a64968a8ff631ff78b3051",
+        "time": "2015-12-15T11:52:52.011626+00:00"
+      },
+      "turn_1": {
+        "amount": 1077.0,
+        "bid_time": "2015-12-15T13:49:23.242378+02:00",
+        "bidder": "a67c1fcb4d47405ea2454f4cf3df7293",
+        "time": "2015-12-15T11:50:52.009463+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a67c1fcb4d47405ea2454f4cf3df7293",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://omelia.com.ua",
+                "faxNumber": "+380444588093",
+                "telephone": "+380443531361",
+                "name": "Рябко Олена Миколаївна",
+                "email": "300899@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36174456"
+              },
+              "name": "ПП ОмеліЯ-Сервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03134",
+                "region": "Київська область",
+                "streetAddress": "вул. 9 Травня, 27",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T13:54:57.798341+02:00"
+        },
+        {
+          "bidder": "0c65237459a64968a8ff631ff78b3051",
+          "amount": 998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-15T13:58:30.924882+02:00"
+        }
+      ],
+      "time": "2015-12-15T12:04:53.812249+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T16:14:38.171302+02:00",
+          "amount": 1200.0,
+          "bidder": "a67c1fcb4d47405ea2454f4cf3df7293"
+        },
+        {
+          "date": "2015-12-14T12:14:45.469151+02:00",
+          "amount": 1077.96,
+          "bidder": "0c65237459a64968a8ff631ff78b3051"
+        }
+      ],
+      "time": "2015-12-15T11:43:52.004706+00:00"
+    }
+  },
+  "id": "2adc2a1e58824de59ff53b957f4122d5",
+  "tenderId": "UA-2015-12-10-000093-a"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8cc82cefb18e489ebd4c62a513ef3144",
+        "time": "2015-10-16T11:24:08.012474+00:00"
+      },
+      "turn_1": {
+        "amount": 2499.0,
+        "bid_time": "2015-10-16T14:20:54.574665+03:00",
+        "bidder": "4b08dcbe619f4d41a1fd18d861ceef0b",
+        "time": "2015-10-16T11:22:08.014749+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4b08dcbe619f4d41a1fd18d861ceef0b",
+        "time": "2015-10-16T11:30:08.009551+00:00"
+      },
+      "turn_1": {
+        "bidder": "8cc82cefb18e489ebd4c62a513ef3144",
+        "time": "2015-10-16T11:28:08.007231+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8cc82cefb18e489ebd4c62a513ef3144",
+        "time": "2015-10-16T11:18:08.008558+00:00"
+      },
+      "turn_1": {
+        "bidder": "4b08dcbe619f4d41a1fd18d861ceef0b",
+        "time": "2015-10-16T11:16:08.007695+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8cc82cefb18e489ebd4c62a513ef3144",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380678495802",
+                "name": "Виктор Пашинник",
+                "email": "eloz82@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1951607936",
+                "legalName": "ФОП \"Пашинник Виктор Яковлевич\""
+              },
+              "name": "ФОП \"Пашинник Виктор Яковлевич\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02097",
+                "region": "Киевская",
+                "streetAddress": "ул. Бальзака 81/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-13T14:21:12.682802+03:00"
+        },
+        {
+          "bidder": "4b08dcbe619f4d41a1fd18d861ceef0b",
+          "amount": 2499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38442390003",
+                "name": "ФОП Дуженко Наталія Анатолівна",
+                "email": "pkm33@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2637605620",
+                "legalName": "ФОП Дуженко Наталія Анатолівна"
+              },
+              "name": "ФОП Дуженко Наталія Анатолівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08145",
+                "region": "",
+                "streetAddress": "вул. Лісова 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T14:20:54.574665+03:00"
+        }
+      ],
+      "time": "2015-10-16T11:30:11.282314+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T12:39:45.786402+03:00",
+          "amount": 2625.0,
+          "bidder": "4b08dcbe619f4d41a1fd18d861ceef0b"
+        },
+        {
+          "date": "2015-10-13T14:21:12.682802+03:00",
+          "amount": 2500.0,
+          "bidder": "8cc82cefb18e489ebd4c62a513ef3144"
+        }
+      ],
+      "time": "2015-10-16T11:09:08.004075+00:00"
+    }
+  },
+  "id": "2bfb7eb3cfa94fbb9ac1cf3dc4d3d8ff",
+  "tenderId": "UA-2015-10-12-000180"
+}

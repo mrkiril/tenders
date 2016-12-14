@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8d6a6a94022d4c76b1f9a8d7c02a3274",
+        "time": "2015-09-04T08:15:00.085831+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ae83ca2be3444b4a6e4df5c3c02259e",
+        "time": "2015-09-04T08:13:00.093840+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8d6a6a94022d4c76b1f9a8d7c02a3274",
+        "time": "2015-09-04T08:21:00.041660+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ae83ca2be3444b4a6e4df5c3c02259e",
+        "time": "2015-09-04T08:19:00.092626+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 542544.0,
+        "bid_time": "2015-09-04T11:08:03.863005+03:00",
+        "bidder": "8d6a6a94022d4c76b1f9a8d7c02a3274",
+        "time": "2015-09-04T08:09:00.077297+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ae83ca2be3444b4a6e4df5c3c02259e",
+        "time": "2015-09-04T08:07:00.101808+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ae83ca2be3444b4a6e4df5c3c02259e",
+          "amount": 547536.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalexport.com.ua",
+                "faxNumber": "+380443790257",
+                "telephone": "+380503367753",
+                "name": "Корч Олег Георгійович",
+                "email": "ainta@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36302280"
+              },
+              "name": "ТОВ ЮНІВЕРСАЛ ЕКСПОРТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01103",
+                "region": "Київська область",
+                "streetAddress": "Залізничне шосе,47",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-02T14:30:06.251089+03:00"
+        },
+        {
+          "bidder": "8d6a6a94022d4c76b1f9a8d7c02a3274",
+          "amount": 542544.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444542780",
+                "name": "ТОВ Техноекотрейдінг",
+                "email": "ekotraiding@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39215196",
+                "legalName": "ТОВ Техноекотрейдінг"
+              },
+              "name": "ТОВ Техноекотрейдінг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04114",
+                "region": "",
+                "streetAddress": "вул. Лісозахисна, буд. 11, корп. Б, офіс 12",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-04T11:08:03.863005+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:21:06.636299+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-02T14:30:06.251089+03:00",
+          "amount": 547536.0,
+          "bidder": "4ae83ca2be3444b4a6e4df5c3c02259e"
+        },
+        {
+          "date": "2015-09-03T10:41:01.077670+03:00",
+          "amount": 545544.96,
+          "bidder": "8d6a6a94022d4c76b1f9a8d7c02a3274"
+        }
+      ],
+      "time": "2015-09-04T08:00:00.015379+00:00"
+    }
+  },
+  "id": "32b8b1e44801495a87f91dccd0fffc51",
+  "tenderId": "UA-2015-08-27-000110"
+}

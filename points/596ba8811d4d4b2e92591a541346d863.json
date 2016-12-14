@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 84000.0,
+        "bid_time": "2015-09-07T11:46:57.447042+03:00",
+        "bidder": "fed1190a5c844079be05909aa261e5ad",
+        "time": "2015-09-07T08:47:00.058885+00:00"
+      },
+      "turn_3": {
+        "bidder": "57bdd6d00eac4151a206f61204adc279",
+        "time": "2015-09-07T08:49:00.051433+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbeeb744eec44ed3a4e6179744147830",
+        "time": "2015-09-07T08:45:00.125624+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 83000.0,
+        "bid_time": "2015-09-07T11:53:32.464763+03:00",
+        "bidder": "fed1190a5c844079be05909aa261e5ad",
+        "time": "2015-09-07T08:55:00.036011+00:00"
+      },
+      "turn_3": {
+        "amount": 82000.0,
+        "bid_time": "2015-09-07T11:55:41.023213+03:00",
+        "bidder": "57bdd6d00eac4151a206f61204adc279",
+        "time": "2015-09-07T08:57:00.048279+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbeeb744eec44ed3a4e6179744147830",
+        "time": "2015-09-07T08:53:00.021743+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 88000.0,
+        "bid_time": "2015-09-07T11:38:09.823424+03:00",
+        "bidder": "fed1190a5c844079be05909aa261e5ad",
+        "time": "2015-09-07T08:39:00.033307+00:00"
+      },
+      "turn_3": {
+        "bidder": "57bdd6d00eac4151a206f61204adc279",
+        "time": "2015-09-07T08:41:00.040517+00:00"
+      },
+      "turn_1": {
+        "bidder": "bbeeb744eec44ed3a4e6179744147830",
+        "time": "2015-09-07T08:37:00.057794+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bbeeb744eec44ed3a4e6179744147830",
+          "amount": 91482.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487983150, +380503909478, +380487601479",
+                "name": "ВИКТОР БЕЙДА",
+                "email": "zashita.bezopasnost@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2402811235",
+                "legalName": "ФОП \"ФОП БЕЙДА В.Е.\""
+              },
+              "name": "ФОП \"ФОП БЕЙДА В.Е.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "67832",
+                "region": "Одесская",
+                "streetAddress": "67832, Одеська область, Овідіопольський район, смт. Великодолинське,  вул. Західна 29",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-03T13:31:45.529916+03:00"
+        },
+        {
+          "bidder": "fed1190a5c844079be05909aa261e5ad",
+          "amount": 83000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.perun.ua/",
+                "telephone": "380445921629",
+                "name": "Наталія Висоцька ",
+                "email": "nata@perun.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32706074",
+                "legalName": ""
+              },
+              "name": "Перун",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев, ул.Автозаводская 54/19, индекс 04114"
+              }
+            }
+          ],
+          "time": "2015-09-07T11:53:32.464763+03:00"
+        },
+        {
+          "bidder": "57bdd6d00eac4151a206f61204adc279",
+          "amount": 82000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mik.co.ua/",
+                "telephone": "0997870711, 380577140877",
+                "name": "Наталя Мотрич ",
+                "email": "natasha1104@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30105738",
+                "legalName": ""
+              },
+              "name": "ООО \"МИК\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Запорожская область",
+                "streetAddress": "Запорожье 69006 ,северное шоссе 69а"
+              }
+            }
+          ],
+          "time": "2015-09-07T11:55:41.023213+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:57:10.509162+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T13:31:45.529916+03:00",
+          "amount": 91482.0,
+          "bidder": "bbeeb744eec44ed3a4e6179744147830"
+        },
+        {
+          "date": "2015-09-04T14:48:08.901598+03:00",
+          "amount": 89148.38,
+          "bidder": "fed1190a5c844079be05909aa261e5ad"
+        },
+        {
+          "date": "2015-09-03T15:24:55.001694+03:00",
+          "amount": 83195.0,
+          "bidder": "57bdd6d00eac4151a206f61204adc279"
+        }
+      ],
+      "time": "2015-09-07T08:30:00.016130+00:00"
+    }
+  },
+  "id": "596ba8811d4d4b2e92591a541346d863",
+  "tenderId": "UA-2015-08-31-000035"
+}

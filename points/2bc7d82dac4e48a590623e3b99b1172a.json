@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a9c0d72c7ef64da59d8447237818d6fb",
+        "time": "2015-11-09T10:24:08.007272+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d47715df554d32a580c0a81de069b1",
+        "time": "2015-11-09T10:26:08.006939+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c63c86400b74aa1ba29aad3ffc45f74",
+        "time": "2015-11-09T10:22:08.007215+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4000.0,
+        "bid_time": "2015-11-09T12:32:05.798022+02:00",
+        "bidder": "a9c0d72c7ef64da59d8447237818d6fb",
+        "time": "2015-11-09T10:32:08.008084+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d47715df554d32a580c0a81de069b1",
+        "time": "2015-11-09T10:34:08.008577+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c63c86400b74aa1ba29aad3ffc45f74",
+        "time": "2015-11-09T10:30:08.007330+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7c63c86400b74aa1ba29aad3ffc45f74",
+        "time": "2015-11-09T10:16:08.007012+00:00"
+      },
+      "turn_3": {
+        "bidder": "98d47715df554d32a580c0a81de069b1",
+        "time": "2015-11-09T10:18:08.007937+00:00"
+      },
+      "turn_1": {
+        "amount": 4080.0,
+        "bid_time": "2015-11-09T12:12:19.080163+02:00",
+        "bidder": "a9c0d72c7ef64da59d8447237818d6fb",
+        "time": "2015-11-09T10:14:08.008771+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7c63c86400b74aa1ba29aad3ffc45f74",
+          "amount": 4100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T17:57:43.775092+02:00"
+        },
+        {
+          "bidder": "a9c0d72c7ef64da59d8447237818d6fb",
+          "amount": 4000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380954710604",
+                "name": "Робота Павло Вікторович",
+                "email": "pavel.rob@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30195554"
+              },
+              "name": "ПП Розвиток. Індустрія. Планування.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49018",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Моніторна, 7, кв 79",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:32:05.798022+02:00"
+        },
+        {
+          "bidder": "98d47715df554d32a580c0a81de069b1",
+          "amount": 3360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lireco.com.ua",
+                "faxNumber": "+380567447606",
+                "telephone": "+380676320993",
+                "name": "Свідунов Ігор Юрійович",
+                "email": "info@lireco.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39997507"
+              },
+              "name": "ТОВ Ліреко",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49044",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Шевченко 37",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-04T11:48:54.396402+02:00"
+        }
+      ],
+      "time": "2015-11-09T10:34:11.233808+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T17:43:09.323967+02:00",
+          "amount": 4400.0,
+          "bidder": "a9c0d72c7ef64da59d8447237818d6fb"
+        },
+        {
+          "date": "2015-11-03T17:57:43.775092+02:00",
+          "amount": 4100.0,
+          "bidder": "7c63c86400b74aa1ba29aad3ffc45f74"
+        },
+        {
+          "date": "2015-11-04T11:48:54.396402+02:00",
+          "amount": 3360.0,
+          "bidder": "98d47715df554d32a580c0a81de069b1"
+        }
+      ],
+      "time": "2015-11-09T10:07:08.002988+00:00"
+    }
+  },
+  "id": "2bc7d82dac4e48a590623e3b99b1172a",
+  "tenderId": "UA-2015-10-26-000178"
+}

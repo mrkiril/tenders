@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1e13317be9be45798e7739768b59e558",
+        "time": "2015-11-16T09:28:53.010614+00:00"
+      },
+      "turn_1": {
+        "bidder": "d34d9fc50b9140539d67e84dcc661bbe",
+        "time": "2015-11-16T09:26:53.005795+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1e13317be9be45798e7739768b59e558",
+        "time": "2015-11-16T09:34:53.010334+00:00"
+      },
+      "turn_1": {
+        "bidder": "d34d9fc50b9140539d67e84dcc661bbe",
+        "time": "2015-11-16T09:32:53.008240+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1e13317be9be45798e7739768b59e558",
+        "time": "2015-11-16T09:22:53.006263+00:00"
+      },
+      "turn_1": {
+        "bidder": "d34d9fc50b9140539d67e84dcc661bbe",
+        "time": "2015-11-16T09:20:53.006266+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d34d9fc50b9140539d67e84dcc661bbe",
+          "amount": 325.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://torgovyj-dom-mirojl.prom.ua/",
+                "telephone": "+380689586820",
+                "name": "Товариство з обмеженою відповідальністю \"Торговий дім МІРОІЛ\"",
+                "email": "td.miroil@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39867863",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий дім МІРОІЛ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий дім МІРОІЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, м.Київ, ПРОСПЕКТ МОСКОВСЬКИЙ, будинок 21, офіс 444",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T09:32:17.917119+02:00"
+        },
+        {
+          "bidder": "1e13317be9be45798e7739768b59e558",
+          "amount": 312.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503803596, +380445911003",
+                "name": "Юрий Лысенко",
+                "email": "lysenko76@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО ОилТрейдБатери\"",
+                "id": "39302697",
+                "uri": "http://oiltreydbateri.prom.ua"
+              },
+              "name": "ТОВ \"ООО ОилТрейдБатери\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "ул. Транспортная,1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T18:36:51.666358+02:00"
+        }
+      ],
+      "time": "2015-11-16T09:34:53.919752+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T09:32:17.917119+02:00",
+          "amount": 325.0,
+          "bidder": "d34d9fc50b9140539d67e84dcc661bbe"
+        },
+        {
+          "date": "2015-11-11T18:36:51.666358+02:00",
+          "amount": 312.0,
+          "bidder": "1e13317be9be45798e7739768b59e558"
+        }
+      ],
+      "time": "2015-11-16T09:13:53.002497+00:00"
+    }
+  },
+  "id": "c8fb30d8f79e4e759572a2f7b9bdbdd3",
+  "tenderId": "UA-2015-11-09-000075-b"
+}

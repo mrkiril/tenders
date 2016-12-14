@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9953855f47cc47eea7e5f0d9ceff0d97",
+        "time": "2015-09-03T08:15:00.071435+00:00"
+      },
+      "turn_1": {
+        "bidder": "3461266405744b208742e602cb2bb1ff",
+        "time": "2015-09-03T08:13:00.106620+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9953855f47cc47eea7e5f0d9ceff0d97",
+        "time": "2015-09-03T08:21:00.076446+00:00"
+      },
+      "turn_1": {
+        "bidder": "3461266405744b208742e602cb2bb1ff",
+        "time": "2015-09-03T08:19:00.099904+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9953855f47cc47eea7e5f0d9ceff0d97",
+        "time": "2015-09-03T08:09:00.181979+00:00"
+      },
+      "turn_1": {
+        "bidder": "3461266405744b208742e602cb2bb1ff",
+        "time": "2015-09-03T08:07:00.040023+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3461266405744b208742e602cb2bb1ff",
+          "amount": 14600.04,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-02T15:11:58.458891+03:00"
+        },
+        {
+          "bidder": "9953855f47cc47eea7e5f0d9ceff0d97",
+          "amount": 14180.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-02T15:50:50.908729+03:00"
+        }
+      ],
+      "time": "2015-09-03T08:21:06.566927+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-02T15:11:58.458891+03:00",
+          "amount": 14600.04,
+          "bidder": "3461266405744b208742e602cb2bb1ff"
+        },
+        {
+          "date": "2015-09-02T15:50:50.908729+03:00",
+          "amount": 14180.68,
+          "bidder": "9953855f47cc47eea7e5f0d9ceff0d97"
+        }
+      ],
+      "time": "2015-09-03T08:00:00.016236+00:00"
+    }
+  },
+  "id": "06cde7bc88754f68a7ee0b1648832390",
+  "tenderId": "UA-2015-08-21-000055"
+}

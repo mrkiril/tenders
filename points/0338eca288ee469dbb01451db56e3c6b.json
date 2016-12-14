@@ -1,0 +1,199 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "6c5c16a24eb14c168ec72626a850d0e2",
+        "time": "2015-10-08T12:34:58.006605+00:00"
+      },
+      "turn_2": {
+        "bidder": "9eb413bfdc1d4de29791eb916b5bbeea",
+        "time": "2015-10-08T12:30:58.007804+00:00"
+      },
+      "turn_3": {
+        "bidder": "c9b4d5a8d2ca4af8b8b80801d8b32f01",
+        "time": "2015-10-08T12:32:58.007261+00:00"
+      },
+      "turn_1": {
+        "bidder": "09a9cf652a7246ddadb41761134233fc",
+        "time": "2015-10-08T12:28:58.009538+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "6c5c16a24eb14c168ec72626a850d0e2",
+        "time": "2015-10-08T12:44:58.007651+00:00"
+      },
+      "turn_2": {
+        "bidder": "9eb413bfdc1d4de29791eb916b5bbeea",
+        "time": "2015-10-08T12:40:58.008762+00:00"
+      },
+      "turn_3": {
+        "bidder": "c9b4d5a8d2ca4af8b8b80801d8b32f01",
+        "time": "2015-10-08T12:42:58.013316+00:00"
+      },
+      "turn_1": {
+        "bidder": "09a9cf652a7246ddadb41761134233fc",
+        "time": "2015-10-08T12:38:58.007508+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "6c5c16a24eb14c168ec72626a850d0e2",
+        "time": "2015-10-08T12:24:58.008342+00:00"
+      },
+      "turn_2": {
+        "bidder": "9eb413bfdc1d4de29791eb916b5bbeea",
+        "time": "2015-10-08T12:20:58.008788+00:00"
+      },
+      "turn_3": {
+        "bidder": "c9b4d5a8d2ca4af8b8b80801d8b32f01",
+        "time": "2015-10-08T12:22:58.008048+00:00"
+      },
+      "turn_1": {
+        "bidder": "09a9cf652a7246ddadb41761134233fc",
+        "time": "2015-10-08T12:18:58.008847+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "09a9cf652a7246ddadb41761134233fc",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://prom.com.ua/",
+                "telephone": "+380989234708",
+                "name": "ООО \"Промпартнер\"",
+                "email": "Lider@prom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "388831561",
+                "legalName": "ООО \"Промпартнер\""
+              },
+              "name": "ООО \"Промпартнер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, г. Киев, ул. бережанская 4ж",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T12:02:21.794190+03:00"
+        },
+        {
+          "bidder": "9eb413bfdc1d4de29791eb916b5bbeea",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442237605",
+                "name": "ТОВ \"КОМПАНІЯ ТЕКС-3000\"",
+                "email": "tex3000@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38511112",
+                "legalName": "ТОВ \"КОМПАНІЯ ТЕКС-3000\""
+              },
+              "name": "ТОВ \"КОМПАНІЯ ТЕКС-3000\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04074, м.Київ, вул.Новозабарська,20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T11:04:58.909225+03:00"
+        },
+        {
+          "bidder": "c9b4d5a8d2ca4af8b8b80801d8b32f01",
+          "amount": 2499.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-01T17:32:56.983374+03:00"
+        },
+        {
+          "bidder": "6c5c16a24eb14c168ec72626a850d0e2",
+          "amount": 2260.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671796677",
+                "name": "Общество с ограниченной ответственностью \"СИЗ ЭКСПЕРТ\"",
+                "email": "ppe-info@ppe.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39529309",
+                "legalName": "Общество с ограниченной ответственностью \"СИЗ ЭКСПЕРТ\""
+              },
+              "name": "Общество с ограниченной ответственностью \"СИЗ ЭКСПЕРТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03124 г. Киев, ул. Н. Василенко 7А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T15:02:08.534029+03:00"
+        }
+      ],
+      "time": "2015-10-08T12:45:00.012863+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-01T11:04:58.909225+03:00",
+          "amount": 2600.0,
+          "bidder": "9eb413bfdc1d4de29791eb916b5bbeea"
+        },
+        {
+          "date": "2015-10-05T12:02:21.794190+03:00",
+          "amount": 2600.0,
+          "bidder": "09a9cf652a7246ddadb41761134233fc"
+        },
+        {
+          "date": "2015-10-01T17:32:56.983374+03:00",
+          "amount": 2499.99,
+          "bidder": "c9b4d5a8d2ca4af8b8b80801d8b32f01"
+        },
+        {
+          "date": "2015-10-05T15:02:08.534029+03:00",
+          "amount": 2260.8,
+          "bidder": "6c5c16a24eb14c168ec72626a850d0e2"
+        }
+      ],
+      "time": "2015-10-08T12:11:58.003501+00:00"
+    }
+  },
+  "id": "0338eca288ee469dbb01451db56e3c6b",
+  "tenderId": "UA-2015-10-01-000026"
+}

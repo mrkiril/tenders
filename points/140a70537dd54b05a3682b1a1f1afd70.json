@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 44000.0,
+        "bid_time": "2015-09-24T11:13:35.839017+03:00",
+        "bidder": "8d053b792f534baeafb3f92aa4616e18",
+        "time": "2015-09-24T08:15:00.228241+00:00"
+      },
+      "turn_1": {
+        "amount": 44900.0,
+        "bid_time": "2015-09-24T11:11:37.478985+03:00",
+        "bidder": "f8d35ddfd0fb4706a312fbf530a590b6",
+        "time": "2015-09-24T08:13:00.087015+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 42000.0,
+        "bid_time": "2015-09-24T11:20:59.397925+03:00",
+        "bidder": "8d053b792f534baeafb3f92aa4616e18",
+        "time": "2015-09-24T08:21:00.207270+00:00"
+      },
+      "turn_1": {
+        "amount": 35000.0,
+        "bid_time": "2015-09-24T11:18:10.720816+03:00",
+        "bidder": "f8d35ddfd0fb4706a312fbf530a590b6",
+        "time": "2015-09-24T08:19:00.122542+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 45000.0,
+        "bid_time": "2015-09-24T11:07:59.977575+03:00",
+        "bidder": "8d053b792f534baeafb3f92aa4616e18",
+        "time": "2015-09-24T08:09:00.172532+00:00"
+      },
+      "turn_1": {
+        "amount": 46000.0,
+        "bid_time": "2015-09-24T11:05:29.355560+03:00",
+        "bidder": "f8d35ddfd0fb4706a312fbf530a590b6",
+        "time": "2015-09-24T08:07:00.094630+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8d053b792f534baeafb3f92aa4616e18",
+          "amount": 42000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674791095",
+                "name": "Олег",
+                "email": "officeolta@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38545534",
+                "legalName": "ТОВ \"ОЛТА-ВЕНТБУД\""
+              },
+              "name": "ТОВ \"ОЛТА-ВЕНТБУД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01011",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул.Рибальська,13",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-24T11:20:59.397925+03:00"
+        },
+        {
+          "bidder": "f8d35ddfd0fb4706a312fbf530a590b6",
+          "amount": 35000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501767379, +380993303037",
+                "name": "Александр Саенко",
+                "email": "vysotbudservis@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39608296",
+                "legalName": "ТОВ \"ВИСОТБУДСЕРВІС\""
+              },
+              "name": "ТОВ \"ВИСОТБУДСЕРВІС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03065",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Козелецька, буд.24, ",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-24T11:18:10.720816+03:00"
+        }
+      ],
+      "time": "2015-09-24T08:21:12.252767+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T12:29:54.305657+03:00",
+          "amount": 48000.0,
+          "bidder": "f8d35ddfd0fb4706a312fbf530a590b6"
+        },
+        {
+          "date": "2015-09-22T15:46:56.761129+03:00",
+          "amount": 46132.78,
+          "bidder": "8d053b792f534baeafb3f92aa4616e18"
+        }
+      ],
+      "time": "2015-09-24T08:00:00.068122+00:00"
+    }
+  },
+  "id": "140a70537dd54b05a3682b1a1f1afd70",
+  "tenderId": "UA-2015-09-11-000186"
+}

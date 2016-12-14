@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5eb038ed25c04942b484dd443f6d4cd5",
+        "time": "2015-07-20T08:15:00.079736+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f8b5419efae4ddab0d7c68d4c887bdb",
+        "time": "2015-07-20T08:13:00.148119+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5eb038ed25c04942b484dd443f6d4cd5",
+        "time": "2015-07-20T08:21:00.097696+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f8b5419efae4ddab0d7c68d4c887bdb",
+        "time": "2015-07-20T08:19:00.092128+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5eb038ed25c04942b484dd443f6d4cd5",
+        "time": "2015-07-20T08:09:00.056907+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f8b5419efae4ddab0d7c68d4c887bdb",
+        "time": "2015-07-20T08:07:00.172985+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f8b5419efae4ddab0d7c68d4c887bdb",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0503180620",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T20:25:12.089121+03:00"
+        },
+        {
+          "bidder": "5eb038ed25c04942b484dd443f6d4cd5",
+          "amount": 4450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512362404",
+                "telephone": "0512362404",
+                "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+                "email": "vera121186@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3172710986",
+                "legalName": "Фізична особа підприємства Шпиль Віра Олександрівна"
+              },
+              "name": "Фізична особа підприємства Шпиль Віра Олександрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54029",
+                "region": "Миколаївська",
+                "streetAddress": "Фрунзе 50, кв.79",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T20:49:53.848774+03:00"
+        }
+      ],
+      "time": "2015-07-20T08:21:03.984313+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-16T20:25:12.089121+03:00",
+          "amount": 4500.0,
+          "bidder": "0f8b5419efae4ddab0d7c68d4c887bdb"
+        },
+        {
+          "date": "2015-07-16T20:49:53.848774+03:00",
+          "amount": 4450.0,
+          "bidder": "5eb038ed25c04942b484dd443f6d4cd5"
+        }
+      ],
+      "time": "2015-07-20T08:00:00.055092+00:00"
+    }
+  },
+  "id": "1ce1cb3743c14e6e9b06536928498824",
+  "tenderId": "UA-2015-07-13-000060"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a649b30fdd6746288bc74a74ef97966b",
+        "time": "2015-12-01T10:25:58.009872+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c85c15b473e4c36803cce9d3d5666f9",
+        "time": "2015-12-01T10:23:58.011151+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a649b30fdd6746288bc74a74ef97966b",
+        "time": "2015-12-01T10:31:58.010858+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c85c15b473e4c36803cce9d3d5666f9",
+        "time": "2015-12-01T10:29:58.011655+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a649b30fdd6746288bc74a74ef97966b",
+        "time": "2015-12-01T10:19:58.009763+00:00"
+      },
+      "turn_1": {
+        "bidder": "7c85c15b473e4c36803cce9d3d5666f9",
+        "time": "2015-12-01T10:17:58.008140+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7c85c15b473e4c36803cce9d3d5666f9",
+          "amount": 26700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505243092",
+                "name": "Олег Танасюк",
+                "email": "ooo_nnn1@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2871501240",
+                "legalName": "ФОП \"Нічик Т.Ю.\""
+              },
+              "name": "ФОП \"Нічик Т.Ю.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "84200",
+                "region": "Донецкая",
+                "streetAddress": "вул.Смоленська, буд.4, кв.7",
+                "locality": "Дружківка"
+              }
+            }
+          ],
+          "time": "2015-11-30T15:56:10.546361+02:00"
+        },
+        {
+          "bidder": "a649b30fdd6746288bc74a74ef97966b",
+          "amount": 24399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656",
+                "name": "Алексей",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-29T00:04:32.196026+02:00"
+        }
+      ],
+      "time": "2015-12-01T10:31:59.473310+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T15:56:10.546361+02:00",
+          "amount": 26700.0,
+          "bidder": "7c85c15b473e4c36803cce9d3d5666f9"
+        },
+        {
+          "date": "2015-11-29T00:04:32.196026+02:00",
+          "amount": 24399.0,
+          "bidder": "a649b30fdd6746288bc74a74ef97966b"
+        }
+      ],
+      "time": "2015-12-01T10:10:58.004370+00:00"
+    }
+  },
+  "id": "4415c783081e41cda06707b7e4e1ce39",
+  "tenderId": "UA-2015-11-19-000149"
+}

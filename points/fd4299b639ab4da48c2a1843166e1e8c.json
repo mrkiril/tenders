@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "721ad0ab502a4627b516d807f0e20aec",
+        "time": "2015-07-30T08:45:00.022885+00:00"
+      },
+      "turn_1": {
+        "bidder": "7da3a02dd5ab4139ac0185d039566347",
+        "time": "2015-07-30T08:43:00.095688+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "721ad0ab502a4627b516d807f0e20aec",
+        "time": "2015-07-30T08:51:00.082484+00:00"
+      },
+      "turn_1": {
+        "bidder": "7da3a02dd5ab4139ac0185d039566347",
+        "time": "2015-07-30T08:49:00.064051+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7da3a02dd5ab4139ac0185d039566347",
+        "time": "2015-07-30T08:39:00.051144+00:00"
+      },
+      "turn_1": {
+        "amount": 4450.0,
+        "bid_time": "2015-07-30T11:35:39.415230+03:00",
+        "bidder": "721ad0ab502a4627b516d807f0e20aec",
+        "time": "2015-07-30T08:37:00.042172+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7da3a02dd5ab4139ac0185d039566347",
+          "amount": 4500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://debut.ua/",
+                "faxNumber": "3900393",
+                "telephone": "0990725005",
+                "name": "ТОВ\"Дебют-Центр\"",
+                "email": "zhukovskayadebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "ТОВ\"Дебют-Центр\""
+              },
+              "name": "ТОВ\"Дебют-Центр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська",
+                "streetAddress": "Чапаєва",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-28T09:25:58.940725+03:00"
+        },
+        {
+          "bidder": "721ad0ab502a4627b516d807f0e20aec",
+          "amount": 4450.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-30T11:35:39.415230+03:00"
+        }
+      ],
+      "time": "2015-07-30T08:51:05.263583+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T08:37:08.986343+03:00",
+          "amount": 4650.0,
+          "bidder": "721ad0ab502a4627b516d807f0e20aec"
+        },
+        {
+          "date": "2015-07-28T09:25:58.940725+03:00",
+          "amount": 4500.0,
+          "bidder": "7da3a02dd5ab4139ac0185d039566347"
+        }
+      ],
+      "time": "2015-07-30T08:30:00.014156+00:00"
+    }
+  },
+  "id": "fd4299b639ab4da48c2a1843166e1e8c",
+  "tenderId": "UA-2015-07-17-000057"
+}

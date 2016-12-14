@@ -1,0 +1,208 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "3ec8d3f5c95d454b8cb16d635b96f231",
+        "time": "2015-08-19T08:23:00.049549+00:00"
+      },
+      "turn_2": {
+        "amount": 19475.0,
+        "bid_time": "2015-08-19T11:18:08.608168+03:00",
+        "bidder": "ed29dab67ce34beaaca6c0e3bcf4e131",
+        "time": "2015-08-19T08:19:00.029893+00:00"
+      },
+      "turn_3": {
+        "bidder": "ee8d7d01c4b84cbda9b461280c4bdefc",
+        "time": "2015-08-19T08:21:00.036890+00:00"
+      },
+      "turn_1": {
+        "bidder": "4e51d6fdaf524097b42f23dd3819d04e",
+        "time": "2015-08-19T08:17:00.061454+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ed29dab67ce34beaaca6c0e3bcf4e131",
+        "time": "2015-08-19T08:33:00.014264+00:00"
+      },
+      "turn_2": {
+        "bidder": "ee8d7d01c4b84cbda9b461280c4bdefc",
+        "time": "2015-08-19T08:29:00.031229+00:00"
+      },
+      "turn_3": {
+        "bidder": "3ec8d3f5c95d454b8cb16d635b96f231",
+        "time": "2015-08-19T08:31:00.018378+00:00"
+      },
+      "turn_1": {
+        "bidder": "4e51d6fdaf524097b42f23dd3819d04e",
+        "time": "2015-08-19T08:27:00.023745+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "3ec8d3f5c95d454b8cb16d635b96f231",
+        "time": "2015-08-19T08:13:00.039761+00:00"
+      },
+      "turn_2": {
+        "amount": 21800.0,
+        "bid_time": "2015-08-19T11:08:32.443030+03:00",
+        "bidder": "ed29dab67ce34beaaca6c0e3bcf4e131",
+        "time": "2015-08-19T08:09:00.057501+00:00"
+      },
+      "turn_3": {
+        "amount": 20300.0,
+        "bid_time": "2015-08-19T11:09:59.787293+03:00",
+        "bidder": "ee8d7d01c4b84cbda9b461280c4bdefc",
+        "time": "2015-08-19T08:11:00.033571+00:00"
+      },
+      "turn_1": {
+        "bidder": "4e51d6fdaf524097b42f23dd3819d04e",
+        "time": "2015-08-19T08:07:00.052272+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4e51d6fdaf524097b42f23dd3819d04e",
+          "amount": 22000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://m-info.ua/",
+                "telephone": "+380443511133",
+                "name": "ТОВ \"М-ИНФО\"",
+                "email": "VOnishchenko@m-info.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24378950",
+                "legalName": "ТОВ \"М-ИНФО\""
+              },
+              "name": "ТОВ \"М-ИНФО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "проул. Михайловский, 9, кв 94",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-19T09:53:41.597756+03:00"
+        },
+        {
+          "bidder": "ee8d7d01c4b84cbda9b461280c4bdefc",
+          "amount": 20300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sl-energy.com.ua/",
+                "telephone": "+380445862722",
+                "name": "Товариство з обмеженою відповідальністю «СЛ-Енергія»",
+                "email": "manager@sl-energy.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39295030",
+                "legalName": "Товариство з обмеженою відповідальністю «СЛ-Енергія»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «СЛ-Енергія»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04655,  м. Київ, Оболонський район, вул. Вікентія Хвойки, будинок 18/14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-19T11:09:59.787293+03:00"
+        },
+        {
+          "bidder": "3ec8d3f5c95d454b8cb16d635b96f231",
+          "amount": 19500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pulsar.kiev.ua",
+                "telephone": "+380442963029",
+                "name": "ООО \"Пульсар Лимитед\"",
+                "email": "office@pulsar.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33739163",
+                "legalName": "ООО \"Пульсар Лимитед\""
+              },
+              "name": "ООО \"Пульсар Лимитед\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02225, Украина, г.Киев, пр.Маяковского, 16/12, кв.72",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-18T11:02:06.147490+03:00"
+        },
+        {
+          "bidder": "ed29dab67ce34beaaca6c0e3bcf4e131",
+          "amount": 19475.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdvl.com.ua",
+                "telephone": "+380577646148",
+                "name": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»",
+                "email": "td-vladar@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947554",
+                "legalName": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»"
+              },
+              "name": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61022, г. Харьков, ул. Ивановская, д.1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-19T11:18:08.608168+03:00"
+        }
+      ],
+      "time": "2015-08-19T08:33:02.556319+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T17:04:55.923825+03:00",
+          "amount": 22000.0,
+          "bidder": "ed29dab67ce34beaaca6c0e3bcf4e131"
+        },
+        {
+          "date": "2015-08-19T09:53:41.597756+03:00",
+          "amount": 22000.0,
+          "bidder": "4e51d6fdaf524097b42f23dd3819d04e"
+        },
+        {
+          "date": "2015-08-19T09:32:41.518991+03:00",
+          "amount": 20400.0,
+          "bidder": "ee8d7d01c4b84cbda9b461280c4bdefc"
+        },
+        {
+          "date": "2015-08-18T11:02:06.147490+03:00",
+          "amount": 19500.0,
+          "bidder": "3ec8d3f5c95d454b8cb16d635b96f231"
+        }
+      ],
+      "time": "2015-08-19T08:00:00.048625+00:00"
+    }
+  },
+  "id": "252ce6bde7bd4f3a938fb5ae147ac7f9",
+  "tenderId": "UA-2015-08-11-000111"
+}

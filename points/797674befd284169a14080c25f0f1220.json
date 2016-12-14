@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9b2d43f95bb1438da03ebd5d7e027e24",
+        "time": "2015-03-27T09:15:00.058293+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd5c17b393d442c89e4120591479d580",
+        "time": "2015-03-27T09:13:00.030913+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9b2d43f95bb1438da03ebd5d7e027e24",
+        "time": "2015-03-27T09:21:00.049700+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd5c17b393d442c89e4120591479d580",
+        "time": "2015-03-27T09:19:00.122431+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9b2d43f95bb1438da03ebd5d7e027e24",
+        "time": "2015-03-27T09:09:00.148217+00:00"
+      },
+      "turn_1": {
+        "bidder": "dd5c17b393d442c89e4120591479d580",
+        "time": "2015-03-27T09:07:00.089566+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dd5c17b393d442c89e4120591479d580",
+          "amount": 4900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://insit.com.ua",
+                "telephone": "+380503840101",
+                "name": "Современные информационные технологии ИНСИТ",
+                "email": "almik@insit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21607462",
+                "legalName": "Современные информационные технологии ИНСИТ"
+              },
+              "name": "Современные информационные технологии ИНСИТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601 Киев, ул.Красноармейская 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-24T15:08:24.365641+02:00"
+        },
+        {
+          "bidder": "9b2d43f95bb1438da03ebd5d7e027e24",
+          "amount": 4800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445430518",
+                "name": "Oleg Zhadko",
+                "email": "oleg@megaprint.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31867934",
+                "legalName": "Мегапринт"
+              },
+              "name": "Мегапринт",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04071",
+                "region": "Киевская",
+                "streetAddress": "Нижний Вал 41",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-26T15:59:21.281992+02:00"
+        }
+      ],
+      "time": "2015-03-27T09:21:01.372072+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-24T15:08:24.365641+02:00",
+          "amount": 4900.0,
+          "bidder": "dd5c17b393d442c89e4120591479d580"
+        },
+        {
+          "date": "2015-03-26T15:59:21.281992+02:00",
+          "amount": 4800.0,
+          "bidder": "9b2d43f95bb1438da03ebd5d7e027e24"
+        }
+      ],
+      "time": "2015-03-27T09:00:00.007097+00:00"
+    }
+  },
+  "id": "797674befd284169a14080c25f0f1220",
+  "tenderId": "UA-2015-03-20-000007"
+}

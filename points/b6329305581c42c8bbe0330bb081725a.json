@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7a1c036d2eef4ad68fd9e03546f6a24f",
+        "time": "2015-08-04T08:45:00.065021+00:00"
+      },
+      "turn_1": {
+        "bidder": "450276c70a654de2b8e11f12b21c3244",
+        "time": "2015-08-04T08:43:00.046723+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7a1c036d2eef4ad68fd9e03546f6a24f",
+        "time": "2015-08-04T08:51:00.036824+00:00"
+      },
+      "turn_1": {
+        "amount": 10760.0,
+        "bid_time": "2015-08-04T11:48:33.918220+03:00",
+        "bidder": "450276c70a654de2b8e11f12b21c3244",
+        "time": "2015-08-04T08:49:00.052101+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7a1c036d2eef4ad68fd9e03546f6a24f",
+        "time": "2015-08-04T08:39:00.030940+00:00"
+      },
+      "turn_1": {
+        "bidder": "450276c70a654de2b8e11f12b21c3244",
+        "time": "2015-08-04T08:37:00.028784+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7a1c036d2eef4ad68fd9e03546f6a24f",
+          "amount": 11000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cabex.com.ua",
+                "telephone": "+380444072526",
+                "name": "Компания Технополис ООО",
+                "email": "030667@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32170772",
+                "legalName": "Компания Технополис ООО"
+              },
+              "name": "Компания Технополис ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ул Крылова 4 а кв 2\r\nБоярка\r\nКиевская обл",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T18:51:13.415049+03:00"
+        },
+        {
+          "bidder": "450276c70a654de2b8e11f12b21c3244",
+          "amount": 10760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.agrospektr.com",
+                "telephone": "+380504536311",
+                "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+                "email": "gridnev@agrospektr.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37150132",
+                "legalName": "ООО \"Торговый Дом \"Агро-Спектр\""
+              },
+              "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 49107, Днепропетровск,\r\nЗапорожское шоссе, д.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T11:48:33.918220+03:00"
+        }
+      ],
+      "time": "2015-08-04T08:51:03.361295+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-03T08:47:15.047619+03:00",
+          "amount": 11997.6,
+          "bidder": "450276c70a654de2b8e11f12b21c3244"
+        },
+        {
+          "date": "2015-08-03T18:51:13.415049+03:00",
+          "amount": 11000.0,
+          "bidder": "7a1c036d2eef4ad68fd9e03546f6a24f"
+        }
+      ],
+      "time": "2015-08-04T08:30:00.032257+00:00"
+    }
+  },
+  "id": "b6329305581c42c8bbe0330bb081725a",
+  "tenderId": "UA-2015-07-22-000011"
+}

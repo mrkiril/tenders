@@ -1,0 +1,201 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "407f25fcd38f4f66b1f7ecae2faabda8",
+        "time": "2015-09-30T09:23:00.015137+00:00"
+      },
+      "turn_2": {
+        "bidder": "dff4780e53c84568a846a87566521907",
+        "time": "2015-09-30T09:19:00.034501+00:00"
+      },
+      "turn_3": {
+        "bidder": "3cadf4b663d84294bf7ca7cad7f45911",
+        "time": "2015-09-30T09:21:00.023751+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a1c6b019b9a4c67ac0842df1f0e58b0",
+        "time": "2015-09-30T09:17:00.022345+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "407f25fcd38f4f66b1f7ecae2faabda8",
+        "time": "2015-09-30T09:33:00.033717+00:00"
+      },
+      "turn_2": {
+        "bidder": "dff4780e53c84568a846a87566521907",
+        "time": "2015-09-30T09:29:00.026541+00:00"
+      },
+      "turn_3": {
+        "bidder": "3cadf4b663d84294bf7ca7cad7f45911",
+        "time": "2015-09-30T09:31:00.014450+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a1c6b019b9a4c67ac0842df1f0e58b0",
+        "time": "2015-09-30T09:27:00.029226+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "407f25fcd38f4f66b1f7ecae2faabda8",
+        "time": "2015-09-30T09:13:00.027305+00:00"
+      },
+      "turn_2": {
+        "bidder": "dff4780e53c84568a846a87566521907",
+        "time": "2015-09-30T09:09:00.026917+00:00"
+      },
+      "turn_3": {
+        "bidder": "3cadf4b663d84294bf7ca7cad7f45911",
+        "time": "2015-09-30T09:11:00.037920+00:00"
+      },
+      "turn_1": {
+        "bidder": "4a1c6b019b9a4c67ac0842df1f0e58b0",
+        "time": "2015-09-30T09:07:00.025010+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4a1c6b019b9a4c67ac0842df1f0e58b0",
+          "amount": 9200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975549258",
+                "name": "Юлия Гафарова",
+                "email": "juliagafarova1991@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3357515525",
+                "legalName": "ФОП \"Гафарова Ю.В.\""
+              },
+              "name": "ФОП \"Гафарова Ю.В.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "74200",
+                "region": "Херсонская",
+                "streetAddress": "пгт Нововоронцовка, ул. Гагарина, 1",
+                "locality": "Херсон"
+              }
+            }
+          ],
+          "time": "2015-09-14T08:50:42.833022+03:00"
+        },
+        {
+          "bidder": "dff4780e53c84568a846a87566521907",
+          "amount": 9150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kadr.lviv.ua",
+                "telephone": "+380322611545",
+                "name": "Приватне підприємство \"Кадр\"",
+                "email": "ppkadr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23271204",
+                "legalName": "Приватне підприємство \"Кадр\""
+              },
+              "name": "Приватне підприємство \"Кадр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.С.Бандери,67\\6, м.Львів, 79013",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-15T16:36:22.840354+03:00"
+        },
+        {
+          "bidder": "3cadf4b663d84294bf7ca7cad7f45911",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-14T15:24:20.207610+03:00"
+        },
+        {
+          "bidder": "407f25fcd38f4f66b1f7ecae2faabda8",
+          "amount": 2220.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-2920097",
+                "telephone": "095-6386868",
+                "name": "Самсоненко Олександр Павлович",
+                "email": "vzp-utos@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25662972",
+                "legalName": "Виробничо-збутове підприемство Українського Товариства сліпих"
+              },
+              "name": "Виробничо-збутове підприемство Українського Товариства сліпих",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02160",
+                "region": "Київська",
+                "streetAddress": "Фанерна 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T14:22:01.044701+03:00"
+        }
+      ],
+      "time": "2015-09-30T09:33:01.692174+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T08:50:42.833022+03:00",
+          "amount": 9200.0,
+          "bidder": "4a1c6b019b9a4c67ac0842df1f0e58b0"
+        },
+        {
+          "date": "2015-09-15T16:36:22.840354+03:00",
+          "amount": 9150.0,
+          "bidder": "dff4780e53c84568a846a87566521907"
+        },
+        {
+          "date": "2015-09-14T15:24:20.207610+03:00",
+          "amount": 9000.0,
+          "bidder": "3cadf4b663d84294bf7ca7cad7f45911"
+        },
+        {
+          "date": "2015-09-16T14:22:01.044701+03:00",
+          "amount": 2220.0,
+          "bidder": "407f25fcd38f4f66b1f7ecae2faabda8"
+        }
+      ],
+      "time": "2015-09-30T09:00:00.005964+00:00"
+    }
+  },
+  "id": "da1c77db993a4a36a9b5ccf3728e8f96",
+  "tenderId": "UA-2015-09-07-000023"
+}

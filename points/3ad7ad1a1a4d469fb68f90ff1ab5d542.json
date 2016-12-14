@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e52c0e39a5e94808bef5ad29bf6dbcd2",
+        "time": "2015-10-13T12:18:52.007647+00:00"
+      },
+      "turn_1": {
+        "bidder": "73cf318bcb184e598463a23104bba0ee",
+        "time": "2015-10-13T12:16:52.006859+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e52c0e39a5e94808bef5ad29bf6dbcd2",
+        "time": "2015-10-13T12:24:52.008207+00:00"
+      },
+      "turn_1": {
+        "bidder": "73cf318bcb184e598463a23104bba0ee",
+        "time": "2015-10-13T12:22:52.012768+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e52c0e39a5e94808bef5ad29bf6dbcd2",
+        "time": "2015-10-13T12:12:52.009059+00:00"
+      },
+      "turn_1": {
+        "bidder": "73cf318bcb184e598463a23104bba0ee",
+        "time": "2015-10-13T12:10:52.013289+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "73cf318bcb184e598463a23104bba0ee",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0562525182",
+                "name": "Ірина Руснак ",
+                "email": "miedsiervis@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25009966",
+                "legalName": "ППФ \"Медсервіс\""
+              },
+              "name": "ППФ \"Медсервіс\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49064, м. Дніпропетровськ, вул. Революційна, 28/11"
+              }
+            }
+          ],
+          "time": "2015-10-07T09:11:11.847079+03:00"
+        },
+        {
+          "bidder": "e52c0e39a5e94808bef5ad29bf6dbcd2",
+          "amount": 10950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-10-09T15:57:24.937287+03:00"
+        }
+      ],
+      "time": "2015-10-13T12:24:55.603737+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T09:11:11.847079+03:00",
+          "amount": 12500.0,
+          "bidder": "73cf318bcb184e598463a23104bba0ee"
+        },
+        {
+          "date": "2015-10-09T15:57:24.937287+03:00",
+          "amount": 10950.0,
+          "bidder": "e52c0e39a5e94808bef5ad29bf6dbcd2"
+        }
+      ],
+      "time": "2015-10-13T12:03:52.004727+00:00"
+    }
+  },
+  "id": "3ad7ad1a1a4d469fb68f90ff1ab5d542",
+  "tenderId": "UA-2015-10-05-000115"
+}

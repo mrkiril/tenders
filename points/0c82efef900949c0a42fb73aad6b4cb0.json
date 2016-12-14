@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e97a6f36d84b42f291dc81f766d54523",
+        "time": "2015-09-21T09:15:00.091044+00:00"
+      },
+      "turn_1": {
+        "bidder": "c74a865d7e02448a811f5fecda4ca65b",
+        "time": "2015-09-21T09:13:00.089518+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e97a6f36d84b42f291dc81f766d54523",
+        "time": "2015-09-21T09:21:00.390062+00:00"
+      },
+      "turn_1": {
+        "bidder": "c74a865d7e02448a811f5fecda4ca65b",
+        "time": "2015-09-21T09:19:00.104131+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e97a6f36d84b42f291dc81f766d54523",
+        "time": "2015-09-21T09:09:00.059619+00:00"
+      },
+      "turn_1": {
+        "bidder": "c74a865d7e02448a811f5fecda4ca65b",
+        "time": "2015-09-21T09:07:00.080270+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c74a865d7e02448a811f5fecda4ca65b",
+          "amount": 3400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445175987, +380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-19T13:33:43.977150+03:00"
+        },
+        {
+          "bidder": "e97a6f36d84b42f291dc81f766d54523",
+          "amount": 2655.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984226340",
+                "name": "ТОВ \"Ворд Сервис\"",
+                "email": "world_sales@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38610126",
+                "legalName": "ТОВ \"Ворд Сервис\""
+              },
+              "name": "ТОВ \"Ворд Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36003",
+                "region": "",
+                "streetAddress": "36003, Полтавська обл., місто Полтава, вул. Червоноармійська, буд. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T14:47:04.558215+03:00"
+        }
+      ],
+      "time": "2015-09-21T09:21:07.221697+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-19T13:33:43.977150+03:00",
+          "amount": 3400.0,
+          "bidder": "c74a865d7e02448a811f5fecda4ca65b"
+        },
+        {
+          "date": "2015-09-18T14:47:04.558215+03:00",
+          "amount": 2655.0,
+          "bidder": "e97a6f36d84b42f291dc81f766d54523"
+        }
+      ],
+      "time": "2015-09-21T09:00:00.032491+00:00"
+    }
+  },
+  "id": "0c82efef900949c0a42fb73aad6b4cb0",
+  "tenderId": "UA-2015-09-14-000128"
+}

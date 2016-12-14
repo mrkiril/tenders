@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e80dd44cebfd4e458ff3d8690cf9e3b1",
+        "time": "2015-09-30T11:52:58.007239+00:00"
+      },
+      "turn_1": {
+        "bidder": "e35a336a772b4f5595d6862d91813645",
+        "time": "2015-09-30T11:50:58.007429+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e80dd44cebfd4e458ff3d8690cf9e3b1",
+        "time": "2015-09-30T11:58:58.008533+00:00"
+      },
+      "turn_1": {
+        "bidder": "e35a336a772b4f5595d6862d91813645",
+        "time": "2015-09-30T11:56:58.008446+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e80dd44cebfd4e458ff3d8690cf9e3b1",
+        "time": "2015-09-30T11:46:58.008942+00:00"
+      },
+      "turn_1": {
+        "bidder": "e35a336a772b4f5595d6862d91813645",
+        "time": "2015-09-30T11:44:58.008395+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e35a336a772b4f5595d6862d91813645",
+          "amount": 3100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooorit.com",
+                "telephone": "+380679378294",
+                "name": "ТОВ РІТ",
+                "email": "rit22@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32242883",
+                "legalName": "ТОВ РІТ"
+              },
+              "name": "ТОВ РІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69035 м. Запоріжжя вул. Лермонтова буд. 14 кв. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T15:25:42.401038+03:00"
+        },
+        {
+          "bidder": "e80dd44cebfd4e458ff3d8690cf9e3b1",
+          "amount": 2857.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667072932",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА",
+                "email": "tovdumka@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32862434",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДУМКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69063, м.Запоріжжя, вул.Радянська, 34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T15:25:39.390699+03:00"
+        }
+      ],
+      "time": "2015-09-30T11:59:01.630769+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T15:25:42.401038+03:00",
+          "amount": 3100.0,
+          "bidder": "e35a336a772b4f5595d6862d91813645"
+        },
+        {
+          "date": "2015-09-25T15:25:39.390699+03:00",
+          "amount": 2857.4,
+          "bidder": "e80dd44cebfd4e458ff3d8690cf9e3b1"
+        }
+      ],
+      "time": "2015-09-30T11:37:58.003421+00:00"
+    }
+  },
+  "id": "14a78c2b079145aabb313c1b903791b6",
+  "tenderId": "UA-2015-09-21-000132"
+}

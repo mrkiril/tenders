@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 18290.0,
+        "bid_time": "2015-10-16T13:28:02.262475+03:00",
+        "bidder": "af46e917d2bb4d57a1f51cfb1a5a6fd1",
+        "time": "2015-10-16T10:28:26.011234+00:00"
+      },
+      "turn_2": {
+        "bidder": "8885c83eefa442f99adc7d59aca72da0",
+        "time": "2015-10-16T10:24:26.012615+00:00"
+      },
+      "turn_3": {
+        "amount": 18300.0,
+        "bid_time": "2015-10-16T13:24:50.478155+03:00",
+        "bidder": "119de52a6bdc45a28bda834d2d603dbd",
+        "time": "2015-10-16T10:26:26.011696+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ce57c00698042df80251707a3898d8b",
+        "time": "2015-10-16T10:22:26.008006+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 17348.0,
+        "bid_time": "2015-10-16T13:38:24.838435+03:00",
+        "bidder": "af46e917d2bb4d57a1f51cfb1a5a6fd1",
+        "time": "2015-10-16T10:38:26.010503+00:00"
+      },
+      "turn_2": {
+        "bidder": "8885c83eefa442f99adc7d59aca72da0",
+        "time": "2015-10-16T10:34:26.007585+00:00"
+      },
+      "turn_3": {
+        "amount": 17350.0,
+        "bid_time": "2015-10-16T13:35:10.095991+03:00",
+        "bidder": "119de52a6bdc45a28bda834d2d603dbd",
+        "time": "2015-10-16T10:36:26.008854+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ce57c00698042df80251707a3898d8b",
+        "time": "2015-10-16T10:32:26.007597+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "af46e917d2bb4d57a1f51cfb1a5a6fd1",
+        "time": "2015-10-16T10:18:26.007690+00:00"
+      },
+      "turn_2": {
+        "amount": 19100.0,
+        "bid_time": "2015-10-16T13:13:12.950306+03:00",
+        "bidder": "119de52a6bdc45a28bda834d2d603dbd",
+        "time": "2015-10-16T10:14:26.010500+00:00"
+      },
+      "turn_3": {
+        "bidder": "8885c83eefa442f99adc7d59aca72da0",
+        "time": "2015-10-16T10:16:26.009853+00:00"
+      },
+      "turn_1": {
+        "bidder": "9ce57c00698042df80251707a3898d8b",
+        "time": "2015-10-16T10:12:26.008774+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9ce57c00698042df80251707a3898d8b",
+          "amount": 23000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-13T15:07:51.203482+03:00"
+        },
+        {
+          "bidder": "8885c83eefa442f99adc7d59aca72da0",
+          "amount": 19476.12,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "sale.dn7@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-10-13T15:33:57.066167+03:00"
+        },
+        {
+          "bidder": "119de52a6bdc45a28bda834d2d603dbd",
+          "amount": 17350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-5070286",
+                "telephone": "050-3301301",
+                "name": "Шалаховский Виктор Казимирович",
+                "email": "ka-na-da@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36683009",
+                "legalName": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці"
+              },
+              "name": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "вул Кошиця 9-б офіс 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T13:35:10.095991+03:00"
+        },
+        {
+          "bidder": "af46e917d2bb4d57a1f51cfb1a5a6fd1",
+          "amount": 17348.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-16T13:38:24.838435+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:38:30.851657+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T15:07:51.203482+03:00",
+          "amount": 23000.0,
+          "bidder": "9ce57c00698042df80251707a3898d8b"
+        },
+        {
+          "date": "2015-10-13T18:17:23.563571+03:00",
+          "amount": 22900.0,
+          "bidder": "119de52a6bdc45a28bda834d2d603dbd"
+        },
+        {
+          "date": "2015-10-13T15:33:57.066167+03:00",
+          "amount": 19476.12,
+          "bidder": "8885c83eefa442f99adc7d59aca72da0"
+        },
+        {
+          "date": "2015-10-14T18:38:47.443772+03:00",
+          "amount": 18680.64,
+          "bidder": "af46e917d2bb4d57a1f51cfb1a5a6fd1"
+        }
+      ],
+      "time": "2015-10-16T10:05:26.003949+00:00"
+    }
+  },
+  "id": "32b3329753b84ef1a575149bc6093b6a",
+  "tenderId": "UA-2015-10-08-000096"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8dee160bd59f48aa9dbbd3b530c3a35a",
+        "time": "2015-07-28T08:15:00.053383+00:00"
+      },
+      "turn_1": {
+        "bidder": "90c7848a50a5466cb3fd5db1ee24bbb2",
+        "time": "2015-07-28T08:13:00.063459+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8dee160bd59f48aa9dbbd3b530c3a35a",
+        "time": "2015-07-28T08:21:00.045373+00:00"
+      },
+      "turn_1": {
+        "bidder": "90c7848a50a5466cb3fd5db1ee24bbb2",
+        "time": "2015-07-28T08:19:00.053879+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8dee160bd59f48aa9dbbd3b530c3a35a",
+        "time": "2015-07-28T08:09:00.063883+00:00"
+      },
+      "turn_1": {
+        "bidder": "90c7848a50a5466cb3fd5db1ee24bbb2",
+        "time": "2015-07-28T08:07:00.071029+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "90c7848a50a5466cb3fd5db1ee24bbb2",
+          "amount": 26085.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380563767172",
+                "name": "Товариство з обмеженою відповідальністю \"ДНІПРОПРОММЕТАЛ\"",
+                "email": "prom-metall@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36606977",
+                "legalName": "Товариство з обмеженою відповідальністю \"ДНІПРОПРОММЕТАЛ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ДНІПРОПРОММЕТАЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "52071Дніпропетровська обл.Дніпропетровський р-н.с.Дослідке,вул.Наукова 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-27T14:11:21.466368+03:00"
+        },
+        {
+          "bidder": "8dee160bd59f48aa9dbbd3b530c3a35a",
+          "amount": 23760.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.linde-gas.com.ua",
+                "telephone": "+380665656290",
+                "name": "Публічне акціонерне товариство \"Лінде Газ Україна\",",
+                "email": "oleg.kuznetsov@ua.linde-gas.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05761850",
+                "legalName": "Публічне акціонерне товариство \"Лінде Газ Україна\","
+              },
+              "name": "Публічне акціонерне товариство \"Лінде Газ Україна\",",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49074, Україна , м. Дніпропетровськ, вул. Киснева,1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-24T14:19:12.984773+03:00"
+        }
+      ],
+      "time": "2015-07-28T08:21:04.732979+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-27T14:11:21.466368+03:00",
+          "amount": 26085.6,
+          "bidder": "90c7848a50a5466cb3fd5db1ee24bbb2"
+        },
+        {
+          "date": "2015-07-24T14:19:12.984773+03:00",
+          "amount": 23760.0,
+          "bidder": "8dee160bd59f48aa9dbbd3b530c3a35a"
+        }
+      ],
+      "time": "2015-07-28T08:00:00.031025+00:00"
+    }
+  },
+  "id": "2daa9e5a62044373969ec50ee0e58190",
+  "tenderId": "UA-2015-07-21-000009"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f3cf9511cfb14d7885398c73a05c8d85",
+        "time": "2015-11-04T12:16:17.008103+00:00"
+      },
+      "turn_1": {
+        "amount": 137000.0,
+        "bid_time": "2015-11-04T14:12:38.477729+02:00",
+        "bidder": "41765baad97d4e068f89965483e9b6cd",
+        "time": "2015-11-04T12:14:17.027900+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f3cf9511cfb14d7885398c73a05c8d85",
+        "time": "2015-11-04T12:22:17.008489+00:00"
+      },
+      "turn_1": {
+        "amount": 135000.0,
+        "bid_time": "2015-11-04T14:18:27.919508+02:00",
+        "bidder": "41765baad97d4e068f89965483e9b6cd",
+        "time": "2015-11-04T12:20:17.008692+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f3cf9511cfb14d7885398c73a05c8d85",
+        "time": "2015-11-04T12:10:17.008886+00:00"
+      },
+      "turn_1": {
+        "bidder": "41765baad97d4e068f89965483e9b6cd",
+        "time": "2015-11-04T12:08:17.016132+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "41765baad97d4e068f89965483e9b6cd",
+          "amount": 135000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.armatekos.com.ua",
+                "telephone": "+380322974619",
+                "name": "ТОВ \"Арматекос\"",
+                "email": "Lviv.bond@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13800446",
+                "legalName": "ТОВ \"Арматекос\""
+              },
+              "name": "ТОВ \"Арматекос\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Львів, 79057, вул. Перемиська, 11Б/9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T14:18:27.919508+02:00"
+        },
+        {
+          "bidder": "f3cf9511cfb14d7885398c73a05c8d85",
+          "amount": 121977.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487327669",
+                "name": "Сіліпіна Сергій Анатолійович",
+                "email": "sergeysilipina@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34108329"
+              },
+              "name": "ТОВ \"ЮГ-АГРОЦЕНТР\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65028",
+                "region": "Одеська область",
+                "streetAddress": "вул. Болгарська, 55",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-11-03T17:51:58.622238+02:00"
+        }
+      ],
+      "time": "2015-11-04T12:22:30.088834+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T13:09:49.903964+02:00",
+          "amount": 138541.73,
+          "bidder": "41765baad97d4e068f89965483e9b6cd"
+        },
+        {
+          "date": "2015-11-03T17:51:58.622238+02:00",
+          "amount": 121977.0,
+          "bidder": "f3cf9511cfb14d7885398c73a05c8d85"
+        }
+      ],
+      "time": "2015-11-04T12:01:17.003695+00:00"
+    }
+  },
+  "id": "47576b644b2a419595ac09480f2f8cf8",
+  "tenderId": "UA-2015-10-28-000275"
+}

@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5b7e9a414aab45baa005c188da6a2ca2",
+        "time": "2015-08-21T10:15:00.017996+00:00"
+      },
+      "turn_1": {
+        "bidder": "59fb7a7f8d1b4499a3ceff72af0c3c8a",
+        "time": "2015-08-21T10:13:00.014286+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 28899.0,
+        "bid_time": "2015-08-21T13:20:00.199241+03:00",
+        "bidder": "5b7e9a414aab45baa005c188da6a2ca2",
+        "time": "2015-08-21T10:21:00.011516+00:00"
+      },
+      "turn_1": {
+        "amount": 29032.0,
+        "bid_time": "2015-08-21T13:18:27.049660+03:00",
+        "bidder": "59fb7a7f8d1b4499a3ceff72af0c3c8a",
+        "time": "2015-08-21T10:19:00.010733+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "59fb7a7f8d1b4499a3ceff72af0c3c8a",
+        "time": "2015-08-21T10:09:00.020391+00:00"
+      },
+      "turn_1": {
+        "amount": 29199.0,
+        "bid_time": "2015-08-21T13:06:00.015851+03:00",
+        "bidder": "5b7e9a414aab45baa005c188da6a2ca2",
+        "time": "2015-08-21T10:07:00.012235+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "59fb7a7f8d1b4499a3ceff72af0c3c8a",
+          "amount": 29032.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380630364243",
+                "name": "Олена",
+                "email": "e.dmitrenko@printsys.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38716177",
+                "legalName": "ТОВ \"ФО ПРИНТ\""
+              },
+              "name": "ТОВ \"ФО ПРИНТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "Машиностроительная, 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-21T13:18:27.049660+03:00"
+        },
+        {
+          "bidder": "5b7e9a414aab45baa005c188da6a2ca2",
+          "amount": 28899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503889817",
+                "name": "Антон Михайленко",
+                "email": "anton.mikhailenko@vm.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24095427",
+                "legalName": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\""
+              },
+              "name": "ТОВ \"Общество с ограниченной ответственностью \"В.М.\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01010",
+                "region": "Киевская",
+                "streetAddress": "ул. Ивана Мазепы, 4/6",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-21T13:20:00.199241+03:00"
+        }
+      ],
+      "time": "2015-08-21T10:21:03.331892+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-18T17:26:28.656711+03:00",
+          "amount": 29732.93,
+          "bidder": "5b7e9a414aab45baa005c188da6a2ca2"
+        },
+        {
+          "date": "2015-08-17T15:14:55.002109+03:00",
+          "amount": 29332.8,
+          "bidder": "59fb7a7f8d1b4499a3ceff72af0c3c8a"
+        }
+      ],
+      "time": "2015-08-21T10:00:00.004637+00:00"
+    }
+  },
+  "id": "1bd3d3b52c8c47b0a8da9787b3164e81",
+  "tenderId": "UA-2015-08-11-000103"
+}

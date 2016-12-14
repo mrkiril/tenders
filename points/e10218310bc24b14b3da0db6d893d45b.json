@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c53af25aa68144d693356b83ea833c68",
+        "time": "2015-11-24T12:54:50.008780+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d43da24fdd64978b86549d14fea1eaa",
+        "time": "2015-11-24T12:52:50.011972+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c53af25aa68144d693356b83ea833c68",
+        "time": "2015-11-24T13:00:50.007280+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d43da24fdd64978b86549d14fea1eaa",
+        "time": "2015-11-24T12:58:50.007700+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c53af25aa68144d693356b83ea833c68",
+        "time": "2015-11-24T12:48:50.007701+00:00"
+      },
+      "turn_1": {
+        "bidder": "8d43da24fdd64978b86549d14fea1eaa",
+        "time": "2015-11-24T12:46:50.007870+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8d43da24fdd64978b86549d14fea1eaa",
+          "amount": 500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532667662",
+                "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+                "email": "svitlo-energo@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35360095",
+                "legalName": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\""
+              },
+              "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36034, г.Полтава, ул. Великотырновская,39д,кв.140",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-22T03:24:08.731972+02:00"
+        },
+        {
+          "bidder": "c53af25aa68144d693356b83ea833c68",
+          "amount": 360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532667662",
+                "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+                "email": "svitlo-energo@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35360095",
+                "legalName": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\""
+              },
+              "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36034, г.Полтава, ул. Великотырновская,39д,кв.140",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T03:26:10.646150+02:00"
+        }
+      ],
+      "time": "2015-11-24T13:01:11.500498+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-22T03:24:08.731972+02:00",
+          "amount": 500.0,
+          "bidder": "8d43da24fdd64978b86549d14fea1eaa"
+        },
+        {
+          "date": "2015-11-23T03:26:10.646150+02:00",
+          "amount": 360.0,
+          "bidder": "c53af25aa68144d693356b83ea833c68"
+        }
+      ],
+      "time": "2015-11-24T12:39:50.004165+00:00"
+    }
+  },
+  "id": "e10218310bc24b14b3da0db6d893d45b",
+  "tenderId": "UA-2015-11-19-000012-b"
+}

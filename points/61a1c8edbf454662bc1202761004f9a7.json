@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "79bb30c591a0412dbdb7542a2e20e1e3",
+        "time": "2015-06-30T12:45:00.129047+00:00"
+      },
+      "turn_1": {
+        "bidder": "e83adfb3bd3449d5a00d053f0b3b890f",
+        "time": "2015-06-30T12:43:00.072478+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "79bb30c591a0412dbdb7542a2e20e1e3",
+        "time": "2015-06-30T12:51:00.047351+00:00"
+      },
+      "turn_1": {
+        "bidder": "e83adfb3bd3449d5a00d053f0b3b890f",
+        "time": "2015-06-30T12:49:00.055335+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "79bb30c591a0412dbdb7542a2e20e1e3",
+        "time": "2015-06-30T12:39:00.035959+00:00"
+      },
+      "turn_1": {
+        "bidder": "e83adfb3bd3449d5a00d053f0b3b890f",
+        "time": "2015-06-30T12:37:00.079524+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e83adfb3bd3449d5a00d053f0b3b890f",
+          "amount": 2600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://e.mail.ru/messages/inbox/",
+                "telephone": "+380562318411",
+                "name": "Частное предприятие \"Авто Люкс-2000\"",
+                "email": "avtolux_2000@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31177740",
+                "legalName": "Частное предприятие \"Авто Люкс-2000\""
+              },
+              "name": "Частное предприятие \"Авто Люкс-2000\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49009,Днепропетровская обл, г. Днепропетровск, пр.Калинина, д. 5, кв.34",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T14:18:00.327660+03:00"
+        },
+        {
+          "bidder": "79bb30c591a0412dbdb7542a2e20e1e3",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tire.timol.com.ua/",
+                "telephone": "+380675227906",
+                "name": "Общество с ограниченной ответственностью \"Компания Сонар\"",
+                "email": "sonartires@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32196942",
+                "legalName": "Общество с ограниченной ответственностью \"Компания Сонар\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Компания Сонар\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "г. Днепропетровск, бул. Славы, д.30, корп. 1, кв.6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T13:22:53.570108+03:00"
+        }
+      ],
+      "time": "2015-06-30T12:51:01.353747+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-26T14:18:00.327660+03:00",
+          "amount": 2600.0,
+          "bidder": "e83adfb3bd3449d5a00d053f0b3b890f"
+        },
+        {
+          "date": "2015-06-26T13:22:53.570108+03:00",
+          "amount": 2500.0,
+          "bidder": "79bb30c591a0412dbdb7542a2e20e1e3"
+        }
+      ],
+      "time": "2015-06-30T12:30:00.014076+00:00"
+    }
+  },
+  "id": "61a1c8edbf454662bc1202761004f9a7",
+  "tenderId": "UA-2015-06-25-000146"
+}

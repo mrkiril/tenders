@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "499aa645206941f39c82e968ecb67114",
+        "time": "2015-12-04T13:53:02.006715+00:00"
+      },
+      "turn_1": {
+        "bidder": "fac059f75a2f4bf5b37f8c3d71f01b19",
+        "time": "2015-12-04T13:51:02.020667+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "499aa645206941f39c82e968ecb67114",
+        "time": "2015-12-04T13:59:02.007276+00:00"
+      },
+      "turn_1": {
+        "bidder": "fac059f75a2f4bf5b37f8c3d71f01b19",
+        "time": "2015-12-04T13:57:02.007467+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "499aa645206941f39c82e968ecb67114",
+        "time": "2015-12-04T13:47:02.007257+00:00"
+      },
+      "turn_1": {
+        "bidder": "fac059f75a2f4bf5b37f8c3d71f01b19",
+        "time": "2015-12-04T13:45:02.007227+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fac059f75a2f4bf5b37f8c3d71f01b19",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-02T08:37:39.680875+02:00"
+        },
+        {
+          "bidder": "499aa645206941f39c82e968ecb67114",
+          "amount": 14985.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0937397070",
+                "name": "Моллазеінал Вікторія анатоліївна",
+                "email": "info.officeq@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39340952",
+                "legalName": "ТОВ \"ТК \"АСА\""
+              },
+              "name": "ТОВ \"ТК \"АСА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "Краківска 18 А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T13:39:01.851703+02:00"
+        }
+      ],
+      "time": "2015-12-04T13:59:04.488990+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T08:37:39.680875+02:00",
+          "amount": 15000.0,
+          "bidder": "fac059f75a2f4bf5b37f8c3d71f01b19"
+        },
+        {
+          "date": "2015-12-01T13:39:01.851703+02:00",
+          "amount": 14985.0,
+          "bidder": "499aa645206941f39c82e968ecb67114"
+        }
+      ],
+      "time": "2015-12-04T13:38:02.003338+00:00"
+    }
+  },
+  "id": "ba7ee028958b489e99cac442ff08a0c5",
+  "tenderId": "UA-2015-11-25-000006-b"
+}

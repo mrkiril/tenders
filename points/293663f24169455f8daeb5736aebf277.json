@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "860917720e1b4bac9b49a9550163c9e4",
+        "time": "2015-12-03T10:16:50.008851+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b7aea276bb3410ab655223cfd812f07",
+        "time": "2015-12-03T10:14:50.034237+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "860917720e1b4bac9b49a9550163c9e4",
+        "time": "2015-12-03T10:22:50.008719+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b7aea276bb3410ab655223cfd812f07",
+        "time": "2015-12-03T10:20:50.018173+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "860917720e1b4bac9b49a9550163c9e4",
+        "time": "2015-12-03T10:10:50.008854+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b7aea276bb3410ab655223cfd812f07",
+        "time": "2015-12-03T10:08:50.009252+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2b7aea276bb3410ab655223cfd812f07",
+          "amount": 14783.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-02T10:18:43.952527+02:00"
+        },
+        {
+          "bidder": "860917720e1b4bac9b49a9550163c9e4",
+          "amount": 10254.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ci-el.com.ua",
+                "faxNumber": "+380442061565",
+                "telephone": "+380442061565",
+                "name": "Пикалова Ольга Федоровна",
+                "email": "olga.pikalova@ci-el.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30404738"
+              },
+              "name": "ТОВ СІ-ЕЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська область",
+                "streetAddress": "вул. Народного ополчення, 1,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T10:27:42.768340+02:00"
+        }
+      ],
+      "time": "2015-12-03T10:22:51.391927+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T10:18:43.952527+02:00",
+          "amount": 14783.0,
+          "bidder": "2b7aea276bb3410ab655223cfd812f07"
+        },
+        {
+          "date": "2015-12-02T10:27:42.768340+02:00",
+          "amount": 10254.48,
+          "bidder": "860917720e1b4bac9b49a9550163c9e4"
+        }
+      ],
+      "time": "2015-12-03T10:01:50.005106+00:00"
+    }
+  },
+  "id": "293663f24169455f8daeb5736aebf277",
+  "tenderId": "UA-2015-12-01-000097"
+}

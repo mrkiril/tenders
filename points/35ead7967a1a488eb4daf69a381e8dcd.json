@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fd0b193fc6b94e28b03ed8f4c28cdba2",
+        "time": "2015-12-16T13:21:14.008199+00:00"
+      },
+      "turn_1": {
+        "bidder": "6614922b2b2b49238874d3cccf6efa01",
+        "time": "2015-12-16T13:19:14.008009+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fd0b193fc6b94e28b03ed8f4c28cdba2",
+        "time": "2015-12-16T13:27:14.009836+00:00"
+      },
+      "turn_1": {
+        "bidder": "6614922b2b2b49238874d3cccf6efa01",
+        "time": "2015-12-16T13:25:14.008264+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fd0b193fc6b94e28b03ed8f4c28cdba2",
+        "time": "2015-12-16T13:15:14.009275+00:00"
+      },
+      "turn_1": {
+        "bidder": "6614922b2b2b49238874d3cccf6efa01",
+        "time": "2015-12-16T13:13:14.010705+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6614922b2b2b49238874d3cccf6efa01",
+          "amount": 599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0933874040",
+                "telephone": "0442000220",
+                "name": "Міщенко Андрій Юрійович",
+                "email": "amishenko@1cbit.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39477371",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ПЕРШИЙ БІТ»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «ПЕРШИЙ БІТ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01033",
+                "region": "Київська",
+                "streetAddress": "вул. Володимирська, будинок 101, корпус 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:57:03.222381+02:00"
+        },
+        {
+          "bidder": "fd0b193fc6b94e28b03ed8f4c28cdba2",
+          "amount": 599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.me-doc.com.ua",
+                "faxNumber": "380442067248",
+                "telephone": "380442067248",
+                "name": "Ковальчук Світлана Юрьївна",
+                "email": "svetlana@intelserv.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39104470",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СВІТ ІТ ТЕХНОЛОГІЙ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СВІТ ІТ ТЕХНОЛОГІЙ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "ВУЛИЦЯ ФРУНЗЕ, будинок 102",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T11:21:36.562091+02:00"
+        }
+      ],
+      "time": "2015-12-16T13:27:16.918641+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T11:21:36.562091+02:00",
+          "amount": 599.0,
+          "bidder": "fd0b193fc6b94e28b03ed8f4c28cdba2"
+        },
+        {
+          "date": "2015-12-14T12:57:03.222381+02:00",
+          "amount": 599.0,
+          "bidder": "6614922b2b2b49238874d3cccf6efa01"
+        }
+      ],
+      "time": "2015-12-16T13:06:14.004257+00:00"
+    }
+  },
+  "id": "35ead7967a1a488eb4daf69a381e8dcd",
+  "tenderId": "UA-2015-12-11-000071-b"
+}

@@ -1,0 +1,207 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "aeacf672f1984e21921688826fedde7e",
+        "time": "2015-12-17T11:02:50.011646+00:00"
+      },
+      "turn_2": {
+        "bidder": "2075afb1ab51423d8382751584b02354",
+        "time": "2015-12-17T10:58:50.027696+00:00"
+      },
+      "turn_3": {
+        "amount": 670259.0,
+        "bid_time": "2015-12-17T12:59:23.732802+02:00",
+        "bidder": "d2eb0cdf985d4bec9201779a5bfc09dd",
+        "time": "2015-12-17T11:00:50.010560+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5e1cd8bc28a479385b78c21bf981664",
+        "time": "2015-12-17T10:56:50.009236+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "d2eb0cdf985d4bec9201779a5bfc09dd",
+        "time": "2015-12-17T11:12:50.007625+00:00"
+      },
+      "turn_2": {
+        "amount": 696336.0,
+        "bid_time": "2015-12-17T13:08:07.212330+02:00",
+        "bidder": "2075afb1ab51423d8382751584b02354",
+        "time": "2015-12-17T11:08:50.008763+00:00"
+      },
+      "turn_3": {
+        "bidder": "aeacf672f1984e21921688826fedde7e",
+        "time": "2015-12-17T11:10:50.008667+00:00"
+      },
+      "turn_1": {
+        "amount": 698000.0,
+        "bid_time": "2015-12-17T13:05:12.056360+02:00",
+        "bidder": "b5e1cd8bc28a479385b78c21bf981664",
+        "time": "2015-12-17T11:06:50.009167+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 698980.0,
+        "bid_time": "2015-12-17T12:51:54.287820+02:00",
+        "bidder": "aeacf672f1984e21921688826fedde7e",
+        "time": "2015-12-17T10:52:50.010575+00:00"
+      },
+      "turn_2": {
+        "amount": 699000.0,
+        "bid_time": "2015-12-17T12:47:27.149618+02:00",
+        "bidder": "d2eb0cdf985d4bec9201779a5bfc09dd",
+        "time": "2015-12-17T10:48:50.010084+00:00"
+      },
+      "turn_3": {
+        "bidder": "2075afb1ab51423d8382751584b02354",
+        "time": "2015-12-17T10:50:50.009254+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5e1cd8bc28a479385b78c21bf981664",
+        "time": "2015-12-17T10:46:50.031566+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "aeacf672f1984e21921688826fedde7e",
+          "amount": 698980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0563714354",
+                "telephone": "0563714354",
+                "name": "Чупріна Олександрівна Альона",
+                "email": "ChuprinaHelen@itech.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "Товариство з обмеженою відповідальністю \"Інфотех\"",
+                "id": "30619839",
+                "uri": "http://www.itech.net.ua"
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Інфотех\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49095",
+                "region": "Дніпропетровська",
+                "streetAddress": "Фурманова, 17",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-17T12:51:54.287820+02:00"
+        },
+        {
+          "bidder": "b5e1cd8bc28a479385b78c21bf981664",
+          "amount": 698000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380669434551",
+                "name": "Дмитрий",
+                "email": "tdasoft@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3089724432",
+                "legalName": "СПД Тимофеев Дмитрий Александрович"
+              },
+              "name": "СПД Тимофеев Дмитрий Александрович",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-17T13:05:12.056360+02:00"
+        },
+        {
+          "bidder": "2075afb1ab51423d8382751584b02354",
+          "amount": 696336.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "marina.repetij@amrita-cs.com",
+                "name": "Репетий Марина "
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "0039950584",
+                "legalName": "ТОВ \"АМРІТА КОМПЛЕКСНІ РІШЕННЯ\""
+              },
+              "name": "ТОВ \"Амріта Комплексні рішення\"",
+              "address": {
+                "countryName": "УКРАЇНА",
+                "postalCode": "03680",
+                "locality": "КИЇВСЬКА ОБЛАСТЬ/М.КИЇВ"
+              }
+            }
+          ],
+          "time": "2015-12-17T13:08:07.212330+02:00"
+        },
+        {
+          "bidder": "d2eb0cdf985d4bec9201779a5bfc09dd",
+          "amount": 670259.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501902322",
+                "name": "Дмитро Петровський",
+                "email": "office@promin.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25420810",
+                "legalName": "ТОВ \"КОМП'ЮТЕРНИЙ ЦЕНТР ПРОМІНЬ\""
+              },
+              "name": "ТОВ \"КОМП'ЮТЕРНИЙ ЦЕНТР ПРОМІНЬ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65045",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул. Катерининська, 41",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-17T12:59:23.732802+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:12:52.175821+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T15:31:27.342208+02:00",
+          "amount": 747600.0,
+          "bidder": "b5e1cd8bc28a479385b78c21bf981664"
+        },
+        {
+          "date": "2015-12-16T15:42:36.876552+02:00",
+          "amount": 728554.0,
+          "bidder": "d2eb0cdf985d4bec9201779a5bfc09dd"
+        },
+        {
+          "date": "2015-12-16T16:03:27.899332+02:00",
+          "amount": 721060.2,
+          "bidder": "2075afb1ab51423d8382751584b02354"
+        },
+        {
+          "date": "2015-12-16T12:50:47.023964+02:00",
+          "amount": 707550.0,
+          "bidder": "aeacf672f1984e21921688826fedde7e"
+        }
+      ],
+      "time": "2015-12-17T10:39:50.004999+00:00"
+    }
+  },
+  "id": "c41f65a68d4b41b8b4394d529ab5ad52",
+  "tenderId": "UA-2015-12-11-000042"
+}

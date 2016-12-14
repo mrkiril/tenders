@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bbdbe7532db44d49a96aa75123905932",
+        "time": "2015-08-05T08:17:00.055693+00:00"
+      },
+      "turn_3": {
+        "bidder": "e780c6594bb5435f9b5812d5ae85ab3d",
+        "time": "2015-08-05T08:19:00.097566+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e9a004c988142a58e8b401c1a1a606c",
+        "time": "2015-08-05T08:15:00.133337+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bbdbe7532db44d49a96aa75123905932",
+        "time": "2015-08-05T08:25:00.037134+00:00"
+      },
+      "turn_3": {
+        "bidder": "e780c6594bb5435f9b5812d5ae85ab3d",
+        "time": "2015-08-05T08:27:00.032084+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e9a004c988142a58e8b401c1a1a606c",
+        "time": "2015-08-05T08:23:00.019269+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bbdbe7532db44d49a96aa75123905932",
+        "time": "2015-08-05T08:09:00.067785+00:00"
+      },
+      "turn_3": {
+        "bidder": "e780c6594bb5435f9b5812d5ae85ab3d",
+        "time": "2015-08-05T08:11:00.125207+00:00"
+      },
+      "turn_1": {
+        "bidder": "2e9a004c988142a58e8b401c1a1a606c",
+        "time": "2015-08-05T08:07:00.079910+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2e9a004c988142a58e8b401c1a1a606c",
+          "amount": 4999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.agrospektr.com",
+                "telephone": "+380504536311",
+                "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+                "email": "gridnev@agrospektr.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37150132",
+                "legalName": "ООО \"Торговый Дом \"Агро-Спектр\""
+              },
+              "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 49107, Днепропетровск,\r\nЗапорожское шоссе, д.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T09:12:11.583118+03:00"
+        },
+        {
+          "bidder": "bbdbe7532db44d49a96aa75123905932",
+          "amount": 4956.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.comtechno.kiev.ua",
+                "telephone": "+380674432695",
+                "name": "ООО \"Постачинструмент 2000\"",
+                "email": "techno@nbi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37024493",
+                "legalName": "ООО \"Постачинструмент 2000\""
+              },
+              "name": "ООО \"Постачинструмент 2000\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03680, г. Киев, ул. Выборгская, 99",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-30T08:46:47.450087+03:00"
+        },
+        {
+          "bidder": "e780c6594bb5435f9b5812d5ae85ab3d",
+          "amount": 4950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alexander-corp.com",
+                "telephone": "+380632851510",
+                "name": "ООО \"Торговый дом\"АЛЕКСАНДР",
+                "email": "mi.tdalex@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38920229",
+                "legalName": "ООО \"Торговый дом\"АЛЕКСАНДР"
+              },
+              "name": "ООО \"Торговый дом\"АЛЕКСАНДР",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69063,г. Запорожье, ул. Дзержинского, 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-04T09:22:42.823236+03:00"
+        }
+      ],
+      "time": "2015-08-05T08:27:02.688314+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-04T09:12:11.583118+03:00",
+          "amount": 4999.0,
+          "bidder": "2e9a004c988142a58e8b401c1a1a606c"
+        },
+        {
+          "date": "2015-07-30T08:46:47.450087+03:00",
+          "amount": 4956.0,
+          "bidder": "bbdbe7532db44d49a96aa75123905932"
+        },
+        {
+          "date": "2015-08-04T09:22:42.823236+03:00",
+          "amount": 4950.0,
+          "bidder": "e780c6594bb5435f9b5812d5ae85ab3d"
+        }
+      ],
+      "time": "2015-08-05T08:00:00.003961+00:00"
+    }
+  },
+  "id": "0697566d94ac49d2bd38a32b15da31e1",
+  "tenderId": "UA-2015-07-28-000182"
+}

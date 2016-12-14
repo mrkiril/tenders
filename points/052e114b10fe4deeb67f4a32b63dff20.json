@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b052030aa0e24008a01f8491a31acb68",
+        "time": "2015-06-10T08:17:00.205400+00:00"
+      },
+      "turn_3": {
+        "amount": 39000.0,
+        "bid_time": "2015-06-10T11:17:45.581809+03:00",
+        "bidder": "ea059e32b66f488f94bb0086b9bbf68b",
+        "time": "2015-06-10T08:19:00.291408+00:00"
+      },
+      "turn_1": {
+        "amount": 39200.0,
+        "bid_time": "2015-06-10T11:13:17.750414+03:00",
+        "bidder": "05a3bfd5650145aba572e40a2ad27f71",
+        "time": "2015-06-10T08:15:00.462943+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 37500.0,
+        "bid_time": "2015-06-10T11:23:30.555664+03:00",
+        "bidder": "05a3bfd5650145aba572e40a2ad27f71",
+        "time": "2015-06-10T08:25:00.388266+00:00"
+      },
+      "turn_3": {
+        "amount": 37499.0,
+        "bid_time": "2015-06-10T11:26:56.668248+03:00",
+        "bidder": "ea059e32b66f488f94bb0086b9bbf68b",
+        "time": "2015-06-10T08:27:00.170405+00:00"
+      },
+      "turn_1": {
+        "bidder": "b052030aa0e24008a01f8491a31acb68",
+        "time": "2015-06-10T08:23:00.401933+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 39800.0,
+        "bid_time": "2015-06-10T11:07:58.161564+03:00",
+        "bidder": "ea059e32b66f488f94bb0086b9bbf68b",
+        "time": "2015-06-10T08:09:00.650631+00:00"
+      },
+      "turn_3": {
+        "bidder": "b052030aa0e24008a01f8491a31acb68",
+        "time": "2015-06-10T08:11:00.400790+00:00"
+      },
+      "turn_1": {
+        "amount": 40000.0,
+        "bid_time": "2015-06-10T11:05:58.995665+03:00",
+        "bidder": "05a3bfd5650145aba572e40a2ad27f71",
+        "time": "2015-06-10T08:07:00.505426+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b052030aa0e24008a01f8491a31acb68",
+          "amount": 40000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-09T17:51:15.301457+03:00"
+        },
+        {
+          "bidder": "05a3bfd5650145aba572e40a2ad27f71",
+          "amount": 37500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984202005",
+                "name": "Алла Романенко",
+                "email": "office@eva-oks.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37788539",
+                "legalName": "ТОВ \"ЄВА ОКС\""
+              },
+              "name": "ТОВ \"ЄВА ОКС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02099",
+                "region": "Киевская",
+                "streetAddress": "вулиця Бориспільська, 7",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-10T11:23:30.555664+03:00"
+        },
+        {
+          "bidder": "ea059e32b66f488f94bb0086b9bbf68b",
+          "amount": 37499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-06-10T11:26:56.668248+03:00"
+        }
+      ],
+      "time": "2015-06-10T08:27:13.274242+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-09T17:36:01.937157+03:00",
+          "amount": 43656.0,
+          "bidder": "05a3bfd5650145aba572e40a2ad27f71"
+        },
+        {
+          "date": "2015-06-09T17:53:27.297165+03:00",
+          "amount": 41910.0,
+          "bidder": "ea059e32b66f488f94bb0086b9bbf68b"
+        },
+        {
+          "date": "2015-06-09T17:51:15.301457+03:00",
+          "amount": 40000.0,
+          "bidder": "b052030aa0e24008a01f8491a31acb68"
+        }
+      ],
+      "time": "2015-06-10T08:00:00.036112+00:00"
+    }
+  },
+  "id": "052e114b10fe4deeb67f4a32b63dff20",
+  "tenderId": "UA-2015-06-04-000059"
+}

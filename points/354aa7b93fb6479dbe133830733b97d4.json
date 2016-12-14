@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "42028ec243a941c28d466b8af8cdc778",
+        "time": "2015-10-26T09:28:34.007996+00:00"
+      },
+      "turn_1": {
+        "amount": 3200.0,
+        "bid_time": "2015-10-26T11:24:41.194385+02:00",
+        "bidder": "f9ff866eefd84934bf5fc8d2235f6458",
+        "time": "2015-10-26T09:26:34.011371+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f9ff866eefd84934bf5fc8d2235f6458",
+        "time": "2015-10-26T09:34:34.008578+00:00"
+      },
+      "turn_1": {
+        "bidder": "42028ec243a941c28d466b8af8cdc778",
+        "time": "2015-10-26T09:32:34.009952+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f9ff866eefd84934bf5fc8d2235f6458",
+        "time": "2015-10-26T09:22:34.007797+00:00"
+      },
+      "turn_1": {
+        "amount": 3290.0,
+        "bid_time": "2015-10-26T11:19:26.500212+02:00",
+        "bidder": "42028ec243a941c28d466b8af8cdc778",
+        "time": "2015-10-26T09:20:34.009141+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "42028ec243a941c28d466b8af8cdc778",
+          "amount": 3290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487433474",
+                "name": "Мария Силина",
+                "email": "classicod@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3450902863",
+                "legalName": "ФОП \"Сіліна М. С.\""
+              },
+              "name": "ФОП \"Сіліна М. С.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65005",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:19:26.500212+02:00"
+        },
+        {
+          "bidder": "f9ff866eefd84934bf5fc8d2235f6458",
+          "amount": 3200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487994864",
+                "name": "Кирилл Дорьев",
+                "email": "avva-tools@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34463118",
+                "legalName": "ТОВ \"АВВА-Инструмент\""
+              },
+              "name": "ТОВ \"АВВА-Инструмент\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65003",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:24:41.194385+02:00"
+        }
+      ],
+      "time": "2015-10-26T09:34:37.675549+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-23T19:01:12.850890+03:00",
+          "amount": 3400.0,
+          "bidder": "42028ec243a941c28d466b8af8cdc778"
+        },
+        {
+          "date": "2015-10-23T19:10:30.034322+03:00",
+          "amount": 3300.0,
+          "bidder": "f9ff866eefd84934bf5fc8d2235f6458"
+        }
+      ],
+      "time": "2015-10-26T09:13:34.004236+00:00"
+    }
+  },
+  "id": "354aa7b93fb6479dbe133830733b97d4",
+  "tenderId": "UA-2015-10-22-000143"
+}

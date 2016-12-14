@@ -1,0 +1,247 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "1b79fec3582b4c6b9d3ca769a20a0cd5",
+        "time": "2015-07-10T11:55:00.009424+00:00"
+      },
+      "turn_5": {
+        "bidder": "885a034e85d240efb7f35509c44e0102",
+        "time": "2015-07-10T11:57:00.009123+00:00"
+      },
+      "turn_2": {
+        "bidder": "b371ddd0c82d49449b58d790fc922a41",
+        "time": "2015-07-10T11:51:00.007624+00:00"
+      },
+      "turn_3": {
+        "bidder": "0ec390f4af334b228556687b30993b84",
+        "time": "2015-07-10T11:53:00.009324+00:00"
+      },
+      "turn_1": {
+        "bidder": "fdb735596c9f44338203a89d65d98ad8",
+        "time": "2015-07-10T11:49:00.013787+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "1b79fec3582b4c6b9d3ca769a20a0cd5",
+        "time": "2015-07-10T12:07:00.017285+00:00"
+      },
+      "turn_5": {
+        "bidder": "885a034e85d240efb7f35509c44e0102",
+        "time": "2015-07-10T12:09:00.035585+00:00"
+      },
+      "turn_2": {
+        "bidder": "b371ddd0c82d49449b58d790fc922a41",
+        "time": "2015-07-10T12:03:00.008732+00:00"
+      },
+      "turn_3": {
+        "bidder": "0ec390f4af334b228556687b30993b84",
+        "time": "2015-07-10T12:05:00.025148+00:00"
+      },
+      "turn_1": {
+        "bidder": "fdb735596c9f44338203a89d65d98ad8",
+        "time": "2015-07-10T12:01:00.009471+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "0ec390f4af334b228556687b30993b84",
+        "time": "2015-07-10T11:43:00.010429+00:00"
+      },
+      "turn_5": {
+        "bidder": "1b79fec3582b4c6b9d3ca769a20a0cd5",
+        "time": "2015-07-10T11:45:00.011241+00:00"
+      },
+      "turn_2": {
+        "bidder": "fdb735596c9f44338203a89d65d98ad8",
+        "time": "2015-07-10T11:39:00.010959+00:00"
+      },
+      "turn_3": {
+        "bidder": "b371ddd0c82d49449b58d790fc922a41",
+        "time": "2015-07-10T11:41:00.010251+00:00"
+      },
+      "turn_1": {
+        "amount": 4627260.0,
+        "bid_time": "2015-07-10T14:35:21.853748+03:00",
+        "bidder": "885a034e85d240efb7f35509c44e0102",
+        "time": "2015-07-10T11:37:00.017891+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fdb735596c9f44338203a89d65d98ad8",
+          "amount": 4674000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.google.com.ua",
+                "faxNumber": "0312615591",
+                "telephone": "0503725597",
+                "name": "Джумеля Володимирівна Ірина",
+                "email": "djymeliazak@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2571604727",
+                "legalName": "Джумеля Ірина Володимирівна"
+              },
+              "name": "Джумеля Ірина Володимирівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "88000",
+                "region": "Закарпатська",
+                "streetAddress": "Шумна,б.22 кв.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-09T15:14:02.583559+03:00"
+        },
+        {
+          "bidder": "b371ddd0c82d49449b58d790fc922a41",
+          "amount": 4674000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ktfroza.kiev.ua",
+                "faxNumber": "+380445850811",
+                "telephone": "+380445850810",
+                "name": "Карпенко Володимир Леонідович",
+                "email": "v_karpenko@ktfroza.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "00307313"
+              },
+              "name": "ПАТ \"Трикотажна фабрика \"Роза\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03038",
+                "region": "Київська область",
+                "streetAddress": "вул. Миколи Грінченка, 2/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-07-09T15:07:26.051177+03:00"
+        },
+        {
+          "bidder": "0ec390f4af334b228556687b30993b84",
+          "amount": 4674000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380934445921, +380442433936",
+                "name": "Юрий Масюк",
+                "email": "masukury@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33689922",
+                "legalName": "ДП \"Концерн \"Военторгсервис\"\""
+              },
+              "name": "ДП \"Концерн \"Военторгсервис\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03151",
+                "region": "Киевская",
+                "streetAddress": "г. Киев, ул. Молодогвардейская 28-А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-09T14:35:02.871675+03:00"
+        },
+        {
+          "bidder": "1b79fec3582b4c6b9d3ca769a20a0cd5",
+          "amount": 4674000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380500621888",
+                "name": "Наталья Гуменюк",
+                "email": "gumenyukn@icloud.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3248407181",
+                "legalName": "ФЛП Гуменюк Наталия Ивановна"
+              },
+              "name": "ФЛП Гуменюк Наталия Ивановна",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "31144",
+                "region": "Хмельницкая",
+                "streetAddress": "Хмельницкая обл., Староконстантиновский р-н, с.Сербиновка, ул.Заречная, 7",
+                "locality": "Хмельницкий"
+              }
+            }
+          ],
+          "time": "2015-07-09T14:35:02.060899+03:00"
+        },
+        {
+          "bidder": "885a034e85d240efb7f35509c44e0102",
+          "amount": 4627260.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444861903",
+                "name": "Ирина Яремко",
+                "email": "sales@tdpromin.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38123183",
+                "legalName": "ТОВ \"\"Торговый Дом\"ПРОМИНЬ\"\""
+              },
+              "name": "ТОВ \"\"Торговый Дом\"ПРОМИНЬ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01054",
+                "region": "Киевская",
+                "streetAddress": "ул. Воровского 33 Б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-10T14:35:21.853748+03:00"
+        }
+      ],
+      "time": "2015-07-10T12:09:02.155613+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-09T14:35:02.060899+03:00",
+          "amount": 4674000.0,
+          "bidder": "1b79fec3582b4c6b9d3ca769a20a0cd5"
+        },
+        {
+          "date": "2015-07-09T14:35:02.871675+03:00",
+          "amount": 4674000.0,
+          "bidder": "0ec390f4af334b228556687b30993b84"
+        },
+        {
+          "date": "2015-07-09T15:07:26.051177+03:00",
+          "amount": 4674000.0,
+          "bidder": "b371ddd0c82d49449b58d790fc922a41"
+        },
+        {
+          "date": "2015-07-09T15:14:02.583559+03:00",
+          "amount": 4674000.0,
+          "bidder": "fdb735596c9f44338203a89d65d98ad8"
+        },
+        {
+          "date": "2015-07-09T15:32:43.563873+03:00",
+          "amount": 4674000.0,
+          "bidder": "885a034e85d240efb7f35509c44e0102"
+        }
+      ],
+      "time": "2015-07-10T11:30:00.002862+00:00"
+    }
+  },
+  "id": "1e5b17b6045245ab9c899b104812af6a",
+  "tenderId": "UA-2015-07-02-000050"
+}

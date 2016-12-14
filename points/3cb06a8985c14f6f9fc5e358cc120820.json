@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0251d9affe48428a9d3ff0e6412bcfaa",
+        "time": "2015-08-03T08:15:00.112459+00:00"
+      },
+      "turn_1": {
+        "bidder": "d96badf45d24421e8a440bcf5a56afa5",
+        "time": "2015-08-03T08:13:00.117767+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4750.0,
+        "bid_time": "2015-08-03T11:19:25.829270+03:00",
+        "bidder": "0251d9affe48428a9d3ff0e6412bcfaa",
+        "time": "2015-08-03T08:21:00.062955+00:00"
+      },
+      "turn_1": {
+        "bidder": "d96badf45d24421e8a440bcf5a56afa5",
+        "time": "2015-08-03T08:19:00.180137+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0251d9affe48428a9d3ff0e6412bcfaa",
+        "time": "2015-08-03T08:09:00.158719+00:00"
+      },
+      "turn_1": {
+        "bidder": "d96badf45d24421e8a440bcf5a56afa5",
+        "time": "2015-08-03T08:07:00.110123+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d96badf45d24421e8a440bcf5a56afa5",
+          "amount": 4800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ekvives.com",
+                "telephone": "+380442200522",
+                "name": "ООО \"Эквивес\"",
+                "email": "kulik@ekvives.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37502259",
+                "legalName": "ООО \"Эквивес\""
+              },
+              "name": "ООО \"Эквивес\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02094, г.Киев, ул. Магнитогорская, 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-31T15:35:11.936597+03:00"
+        },
+        {
+          "bidder": "0251d9affe48428a9d3ff0e6412bcfaa",
+          "amount": 4750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-03T11:19:25.829270+03:00"
+        }
+      ],
+      "time": "2015-08-03T08:21:07.919724+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-29T15:56:11.556956+03:00",
+          "amount": 4800.0,
+          "bidder": "0251d9affe48428a9d3ff0e6412bcfaa"
+        },
+        {
+          "date": "2015-07-31T15:35:11.936597+03:00",
+          "amount": 4800.0,
+          "bidder": "d96badf45d24421e8a440bcf5a56afa5"
+        }
+      ],
+      "time": "2015-08-03T08:00:00.009556+00:00"
+    }
+  },
+  "id": "3cb06a8985c14f6f9fc5e358cc120820",
+  "tenderId": "UA-2015-07-28-000007"
+}

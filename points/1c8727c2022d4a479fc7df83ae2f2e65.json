@@ -1,0 +1,216 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 82417.0,
+        "bid_time": "2015-09-16T12:21:23.066206+03:00",
+        "bidder": "2ab19e42a6d44717b4fdd937b176cefb",
+        "time": "2015-09-16T09:23:00.071573+00:00"
+      },
+      "turn_2": {
+        "bidder": "57143a4db35e4e56b18a011a6d78e02d",
+        "time": "2015-09-16T09:19:00.061496+00:00"
+      },
+      "turn_3": {
+        "amount": 83300.0,
+        "bid_time": "2015-09-16T12:19:12.517435+03:00",
+        "bidder": "043105cca8884990aff08c0f1a30e371",
+        "time": "2015-09-16T09:21:00.088198+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b6da0f41f6c427292c83f6ab5f4a4f4",
+        "time": "2015-09-16T09:17:00.063055+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 81347.0,
+        "bid_time": "2015-09-16T12:31:36.780038+03:00",
+        "bidder": "2ab19e42a6d44717b4fdd937b176cefb",
+        "time": "2015-09-16T09:33:00.038883+00:00"
+      },
+      "turn_2": {
+        "amount": 82416.0,
+        "bid_time": "2015-09-16T12:28:41.586980+03:00",
+        "bidder": "57143a4db35e4e56b18a011a6d78e02d",
+        "time": "2015-09-16T09:29:00.045025+00:00"
+      },
+      "turn_3": {
+        "amount": 81950.0,
+        "bid_time": "2015-09-16T12:29:13.320505+03:00",
+        "bidder": "043105cca8884990aff08c0f1a30e371",
+        "time": "2015-09-16T09:31:00.052335+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b6da0f41f6c427292c83f6ab5f4a4f4",
+        "time": "2015-09-16T09:27:00.086834+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "57143a4db35e4e56b18a011a6d78e02d",
+        "time": "2015-09-16T09:13:00.049795+00:00"
+      },
+      "turn_2": {
+        "amount": 84770.0,
+        "bid_time": "2015-09-16T12:08:24.455474+03:00",
+        "bidder": "043105cca8884990aff08c0f1a30e371",
+        "time": "2015-09-16T09:09:00.147718+00:00"
+      },
+      "turn_3": {
+        "amount": 83487.0,
+        "bid_time": "2015-09-16T12:09:28.034630+03:00",
+        "bidder": "2ab19e42a6d44717b4fdd937b176cefb",
+        "time": "2015-09-16T09:11:00.073321+00:00"
+      },
+      "turn_1": {
+        "bidder": "9b6da0f41f6c427292c83f6ab5f4a4f4",
+        "time": "2015-09-16T09:07:00.147418+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9b6da0f41f6c427292c83f6ab5f4a4f4",
+          "amount": 104550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://denmed.com.ua",
+                "telephone": "0443840663",
+                "name": "ТОВ ДЕНМЕД",
+                "email": "denmed85@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37323495",
+                "legalName": "ТОВ ДЕНМЕД"
+              },
+              "name": "ТОВ ДЕНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03110",
+                "region": "Київська",
+                "streetAddress": "Клименка 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T13:52:09.626543+03:00"
+        },
+        {
+          "bidder": "57143a4db35e4e56b18a011a6d78e02d",
+          "amount": 82416.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Артем",
+                "email": "lutsenko_artem@yahoo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38010921",
+                "legalName": "ТОВ \"ЛЕКСТРЕЙД\""
+              },
+              "name": "ТОВ \"ЛЕКСТРЕЙД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08131",
+                "region": "Киевская",
+                "streetAddress": "Київська обл., Києво-Святошинський р-н,с. Софіївська Борщагівка, вул Мала Кільцева, 18",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-16T12:28:41.586980+03:00"
+        },
+        {
+          "bidder": "043105cca8884990aff08c0f1a30e371",
+          "amount": 81950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avan.uaprom.net/",
+                "faxNumber": "0445013023",
+                "telephone": "0445013023",
+                "name": "Сторожук Ярослав Олегович",
+                "email": "yaroslav@avan.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36577810",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АВАН-МЕДИКА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АВАН-МЕДИКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08133",
+                "region": "Київська",
+                "streetAddress": "Балукова, 23",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-16T12:29:13.320505+03:00"
+        },
+        {
+          "bidder": "2ab19e42a6d44717b4fdd937b176cefb",
+          "amount": 81347.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kalita.kiev.ua/",
+                "faxNumber": "+380442054239",
+                "telephone": "+380442054238",
+                "name": "Оніпченко Ольга Олександрівна",
+                "email": "2054238@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33156937"
+              },
+              "name": "ТОВ «Торгово – виробнича компанія «Марля Клуб «Калита»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04116",
+                "region": "Київська область",
+                "streetAddress": "вул. В.Василевської, буд. 27-29",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-16T12:31:36.780038+03:00"
+        }
+      ],
+      "time": "2015-09-16T09:33:06.045317+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T13:52:09.626543+03:00",
+          "amount": 104550.0,
+          "bidder": "9b6da0f41f6c427292c83f6ab5f4a4f4"
+        },
+        {
+          "date": "2015-09-14T16:50:17.945801+03:00",
+          "amount": 91000.0,
+          "bidder": "043105cca8884990aff08c0f1a30e371"
+        },
+        {
+          "date": "2015-09-11T14:02:08.144790+03:00",
+          "amount": 87455.0,
+          "bidder": "2ab19e42a6d44717b4fdd937b176cefb"
+        },
+        {
+          "date": "2015-09-14T14:51:55.374824+03:00",
+          "amount": 84786.8,
+          "bidder": "57143a4db35e4e56b18a011a6d78e02d"
+        }
+      ],
+      "time": "2015-09-16T09:00:00.025906+00:00"
+    }
+  },
+  "id": "1c8727c2022d4a479fc7df83ae2f2e65",
+  "tenderId": "UA-2015-09-07-000128"
+}

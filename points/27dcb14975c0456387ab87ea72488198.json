@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a3df52b7aae34aae9b64bafc89359530",
+        "time": "2015-12-15T13:01:19.010737+00:00"
+      },
+      "turn_3": {
+        "bidder": "0cea7d17c25146f19b49d52a25cafaf0",
+        "time": "2015-12-15T13:03:19.011098+00:00"
+      },
+      "turn_1": {
+        "amount": 170000.0,
+        "bid_time": "2015-12-15T14:59:04.714774+02:00",
+        "bidder": "2dd6714397df45a7b7aab3e31f793f4e",
+        "time": "2015-12-15T12:59:19.011153+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0cea7d17c25146f19b49d52a25cafaf0",
+        "time": "2015-12-15T13:09:19.007548+00:00"
+      },
+      "turn_3": {
+        "bidder": "2dd6714397df45a7b7aab3e31f793f4e",
+        "time": "2015-12-15T13:11:19.008497+00:00"
+      },
+      "turn_1": {
+        "bidder": "a3df52b7aae34aae9b64bafc89359530",
+        "time": "2015-12-15T13:07:19.016121+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a3df52b7aae34aae9b64bafc89359530",
+        "time": "2015-12-15T12:53:19.013765+00:00"
+      },
+      "turn_3": {
+        "bidder": "0cea7d17c25146f19b49d52a25cafaf0",
+        "time": "2015-12-15T12:55:19.010007+00:00"
+      },
+      "turn_1": {
+        "bidder": "2dd6714397df45a7b7aab3e31f793f4e",
+        "time": "2015-12-15T12:51:19.009434+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a3df52b7aae34aae9b64bafc89359530",
+          "amount": 195000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380965126009",
+                "name": "Ганна Єрмола",
+                "email": "kiev.talan@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39436073",
+                "legalName": "ТОВ \"Талан-Пожтех\""
+              },
+              "name": "ТОВ \"Талан-Пожтех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07401",
+                "region": "Киевская",
+                "streetAddress": "вул.Київська буд.154, оф.14",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:44:15.630777+02:00"
+        },
+        {
+          "bidder": "0cea7d17c25146f19b49d52a25cafaf0",
+          "amount": 191000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T15:58:44.477577+02:00"
+        },
+        {
+          "bidder": "2dd6714397df45a7b7aab3e31f793f4e",
+          "amount": 170000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444922704",
+                "name": "Олександр Мосєєв",
+                "email": "info@post-01.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32960947",
+                "legalName": "ТОВ \"ПОСТ-01\""
+              },
+              "name": "ТОВ \"ПОСТ-01\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04071",
+                "region": "Киевская",
+                "streetAddress": "вул.Введенська, 29/58, оф.93",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:59:04.714774+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:11:20.500192+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T13:44:15.630777+02:00",
+          "amount": 195000.0,
+          "bidder": "a3df52b7aae34aae9b64bafc89359530"
+        },
+        {
+          "date": "2015-12-14T15:04:27.792970+02:00",
+          "amount": 195000.0,
+          "bidder": "2dd6714397df45a7b7aab3e31f793f4e"
+        },
+        {
+          "date": "2015-12-14T15:58:44.477577+02:00",
+          "amount": 191000.0,
+          "bidder": "0cea7d17c25146f19b49d52a25cafaf0"
+        }
+      ],
+      "time": "2015-12-15T12:44:19.004237+00:00"
+    }
+  },
+  "id": "27dcb14975c0456387ab87ea72488198",
+  "tenderId": "UA-2015-12-04-000185"
+}

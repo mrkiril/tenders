@@ -1,0 +1,246 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "5ee5aec3d88a4f4b8408494b29cb74d7",
+        "time": "2015-10-19T12:38:04.013551+00:00"
+      },
+      "turn_5": {
+        "bidder": "073efcc8c36d4f37924d0c580bef57cd",
+        "time": "2015-10-19T12:40:04.017542+00:00"
+      },
+      "turn_2": {
+        "bidder": "de89970835434965881dce16d2ddb8ad",
+        "time": "2015-10-19T12:34:04.012623+00:00"
+      },
+      "turn_3": {
+        "bidder": "a76fd9df791a4f0a914046705b85c5e8",
+        "time": "2015-10-19T12:36:04.009492+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d6537aa7b2147b8821a0fc568f13d3b",
+        "time": "2015-10-19T12:32:04.009475+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "5ee5aec3d88a4f4b8408494b29cb74d7",
+        "time": "2015-10-19T12:50:04.010600+00:00"
+      },
+      "turn_5": {
+        "bidder": "073efcc8c36d4f37924d0c580bef57cd",
+        "time": "2015-10-19T12:52:04.009226+00:00"
+      },
+      "turn_2": {
+        "bidder": "de89970835434965881dce16d2ddb8ad",
+        "time": "2015-10-19T12:46:04.010559+00:00"
+      },
+      "turn_3": {
+        "bidder": "a76fd9df791a4f0a914046705b85c5e8",
+        "time": "2015-10-19T12:48:04.009413+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d6537aa7b2147b8821a0fc568f13d3b",
+        "time": "2015-10-19T12:44:04.010563+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "5ee5aec3d88a4f4b8408494b29cb74d7",
+        "time": "2015-10-19T12:26:04.010429+00:00"
+      },
+      "turn_5": {
+        "bidder": "073efcc8c36d4f37924d0c580bef57cd",
+        "time": "2015-10-19T12:28:04.010132+00:00"
+      },
+      "turn_2": {
+        "amount": 19250.0,
+        "bid_time": "2015-10-19T15:20:27.834035+03:00",
+        "bidder": "a76fd9df791a4f0a914046705b85c5e8",
+        "time": "2015-10-19T12:22:04.014202+00:00"
+      },
+      "turn_3": {
+        "bidder": "de89970835434965881dce16d2ddb8ad",
+        "time": "2015-10-19T12:24:04.010688+00:00"
+      },
+      "turn_1": {
+        "bidder": "9d6537aa7b2147b8821a0fc568f13d3b",
+        "time": "2015-10-19T12:20:04.016736+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9d6537aa7b2147b8821a0fc568f13d3b",
+          "amount": 22716.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://safecity.in.ua",
+                "telephone": "+380503941500",
+                "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+                "email": "aleksey@safecity.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\""
+              },
+              "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18, м. Миколаїв, 54030",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-14T18:05:54.103722+03:00"
+        },
+        {
+          "bidder": "de89970835434965881dce16d2ddb8ad",
+          "amount": 19300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alvant.com.ua",
+                "telephone": "0503356917",
+                "name": "Білан Олексій Валерійович",
+                "email": "alvant@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54030",
+                "region": "Миколаївська",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-16T10:51:56.935813+03:00"
+        },
+        {
+          "bidder": "a76fd9df791a4f0a914046705b85c5e8",
+          "amount": 19250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380667228946",
+                "name": "ФОП Сербов О.В.",
+                "email": "apolo-777@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2827011039",
+                "legalName": "ФОП Сербов О.В."
+              },
+              "name": "ФОП Сербов О.В.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "71100\r\nЗапорізька обл.\r\nм.Бердянськ,\r\nвул. Толстого, буд.59",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-19T15:20:27.834035+03:00"
+        },
+        {
+          "bidder": "5ee5aec3d88a4f4b8408494b29cb74d7",
+          "amount": 14055.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "tender@ami.ua",
+                "name": "Сиденко Владимирович Сергей"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32427895",
+                "legalName": "Товариство з обмеженою відповідальністю \"АМІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АМІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська",
+                "streetAddress": "Волоська/ Іллінська, 6/14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T17:42:23.478651+03:00"
+        },
+        {
+          "bidder": "073efcc8c36d4f37924d0c580bef57cd",
+          "amount": 11750.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.cascad.com.ua",
+                "telephone": "+380444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T15:39:34.883235+03:00"
+        }
+      ],
+      "time": "2015-10-19T12:52:06.818270+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-14T18:05:54.103722+03:00",
+          "amount": 22716.0,
+          "bidder": "9d6537aa7b2147b8821a0fc568f13d3b"
+        },
+        {
+          "date": "2015-10-16T09:54:55.911313+03:00",
+          "amount": 22500.0,
+          "bidder": "a76fd9df791a4f0a914046705b85c5e8"
+        },
+        {
+          "date": "2015-10-16T10:51:56.935813+03:00",
+          "amount": 19300.0,
+          "bidder": "de89970835434965881dce16d2ddb8ad"
+        },
+        {
+          "date": "2015-10-15T17:42:23.478651+03:00",
+          "amount": 14055.6,
+          "bidder": "5ee5aec3d88a4f4b8408494b29cb74d7"
+        },
+        {
+          "date": "2015-10-12T15:39:34.883235+03:00",
+          "amount": 11750.0,
+          "bidder": "073efcc8c36d4f37924d0c580bef57cd"
+        }
+      ],
+      "time": "2015-10-19T12:13:04.006443+00:00"
+    }
+  },
+  "id": "2d71cb6367e84f31b2d7297c13c4277e",
+  "tenderId": "UA-2015-10-06-000231"
+}

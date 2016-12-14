@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b646d5b7d4474bc387869fd8c32a45db",
+        "time": "2015-10-23T10:22:12.009167+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1c454d30a2b490fbf59f39ff911fde4",
+        "time": "2015-10-23T10:24:12.016596+00:00"
+      },
+      "turn_1": {
+        "bidder": "36844974beee498a86c5cfddfc03bbe3",
+        "time": "2015-10-23T10:20:12.015330+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b646d5b7d4474bc387869fd8c32a45db",
+        "time": "2015-10-23T10:30:12.011630+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1c454d30a2b490fbf59f39ff911fde4",
+        "time": "2015-10-23T10:32:12.009943+00:00"
+      },
+      "turn_1": {
+        "bidder": "36844974beee498a86c5cfddfc03bbe3",
+        "time": "2015-10-23T10:28:12.010888+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b646d5b7d4474bc387869fd8c32a45db",
+        "time": "2015-10-23T10:14:12.009770+00:00"
+      },
+      "turn_3": {
+        "bidder": "b1c454d30a2b490fbf59f39ff911fde4",
+        "time": "2015-10-23T10:16:12.010748+00:00"
+      },
+      "turn_1": {
+        "bidder": "36844974beee498a86c5cfddfc03bbe3",
+        "time": "2015-10-23T10:12:12.009567+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "36844974beee498a86c5cfddfc03bbe3",
+          "amount": 57713.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.grandelectronic.com",
+                "telephone": "+380444952919",
+                "name": "Общество з ограниченой ответственностью \"ГТ КОМПОНЕНТС\"",
+                "email": "jenya@grandelectronic.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38716234",
+                "legalName": "Общество з ограниченой ответственностью \"ГТ КОМПОНЕНТС\""
+              },
+              "name": "Общество з ограниченой ответственностью \"ГТ КОМПОНЕНТС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03124, г. Киев, бульвар Ивана Лепсе, 8, корп.3, оф. 312",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T09:45:08.209869+03:00"
+        },
+        {
+          "bidder": "b646d5b7d4474bc387869fd8c32a45db",
+          "amount": 57712.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://ictech.com.ua",
+                "faxNumber": "0462-608-620",
+                "telephone": "044-331-03-75",
+                "name": "Волеваха Сергій Вікторович",
+                "email": "svolevak@ictech.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36957393",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український науково-дослідний інститут комп'ютерних технологій\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український науково-дослідний інститут комп'ютерних технологій\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03150",
+                "region": "Київська",
+                "streetAddress": "Антоновича, 56",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T10:40:36.005581+03:00"
+        },
+        {
+          "bidder": "b1c454d30a2b490fbf59f39ff911fde4",
+          "amount": 50531.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442200101",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАУКОВО-ВИРОБНИЧА ФІРМА \"VD MAIS\"",
+                "email": "a.kalinin@vdmais.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21558350",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАУКОВО-ВИРОБНИЧА ФІРМА \"VD MAIS\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАУКОВО-ВИРОБНИЧА ФІРМА \"VD MAIS\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "ВУЛ. ЖИЛЯНСЬКА, БУД 29, ГОЛОСІЇВСЬКИЙ Р-Н , М. КИЇВ,  01033",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T13:41:06.302811+03:00"
+        }
+      ],
+      "time": "2015-10-23T10:32:13.349984+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T09:45:08.209869+03:00",
+          "amount": 57713.0,
+          "bidder": "36844974beee498a86c5cfddfc03bbe3"
+        },
+        {
+          "date": "2015-10-21T10:40:36.005581+03:00",
+          "amount": 57712.0,
+          "bidder": "b646d5b7d4474bc387869fd8c32a45db"
+        },
+        {
+          "date": "2015-10-22T13:41:06.302811+03:00",
+          "amount": 50531.16,
+          "bidder": "b1c454d30a2b490fbf59f39ff911fde4"
+        }
+      ],
+      "time": "2015-10-23T10:05:12.003046+00:00"
+    }
+  },
+  "id": "2b1f902e555e4a8087767b1490dc44d3",
+  "tenderId": "UA-2015-10-15-000033"
+}

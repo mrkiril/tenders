@@ -1,0 +1,167 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3795.0,
+        "bid_time": "2015-12-03T13:56:29.366269+02:00",
+        "bidder": "ad30940a23e94dbca0b29166ddc336d8",
+        "time": "2015-12-03T11:58:08.009365+00:00"
+      },
+      "turn_3": {
+        "amount": 3793.24,
+        "bid_time": "2015-12-03T13:59:14.699699+02:00",
+        "bidder": "03f3c47ffe5445f385031e47140885fc",
+        "time": "2015-12-03T12:00:08.008693+00:00"
+      },
+      "turn_1": {
+        "bidder": "052accb02c6b4fde83879b9c6156e30b",
+        "time": "2015-12-03T11:56:08.025852+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3600.0,
+        "bid_time": "2015-12-03T14:04:46.965990+02:00",
+        "bidder": "ad30940a23e94dbca0b29166ddc336d8",
+        "time": "2015-12-03T12:06:08.009637+00:00"
+      },
+      "turn_3": {
+        "bidder": "03f3c47ffe5445f385031e47140885fc",
+        "time": "2015-12-03T12:08:08.008350+00:00"
+      },
+      "turn_1": {
+        "amount": 3690.0,
+        "bid_time": "2015-12-03T14:03:25.744934+02:00",
+        "bidder": "052accb02c6b4fde83879b9c6156e30b",
+        "time": "2015-12-03T12:04:08.010619+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3850.0,
+        "bid_time": "2015-12-03T13:48:48.074713+02:00",
+        "bidder": "ad30940a23e94dbca0b29166ddc336d8",
+        "time": "2015-12-03T11:50:08.010380+00:00"
+      },
+      "turn_3": {
+        "amount": 3843.24,
+        "bid_time": "2015-12-03T13:50:42.691881+02:00",
+        "bidder": "03f3c47ffe5445f385031e47140885fc",
+        "time": "2015-12-03T11:52:08.009761+00:00"
+      },
+      "turn_1": {
+        "bidder": "052accb02c6b4fde83879b9c6156e30b",
+        "time": "2015-12-03T11:48:08.008742+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03f3c47ffe5445f385031e47140885fc",
+          "amount": 3793.24,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675660214",
+                "name": "Людмила Соколова",
+                "email": "vostokf@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Восток-Фарм\"",
+                "id": "35809661",
+                "uri": "http://vostok-farm.com.ua"
+              },
+              "name": "ТОВ \"Восток-Фарм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "пр.Карла Маркса 115/55",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-03T13:59:14.699699+02:00"
+        },
+        {
+          "bidder": "052accb02c6b4fde83879b9c6156e30b",
+          "amount": 3690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442344546",
+                "telephone": "+380442344546",
+                "name": "Нестерова Оксана Степанівна",
+                "email": "o.nesterova@korsi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34966542"
+              },
+              "name": "ПП Корсі",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04050",
+                "region": "Київська область",
+                "streetAddress": "вул.Пугачова, буд. 4, корпус 11, кв. 8",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:03:25.744934+02:00"
+        },
+        {
+          "bidder": "ad30940a23e94dbca0b29166ddc336d8",
+          "amount": 3600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "380981920601",
+                "name": "Михайло Лебединський",
+                "email": "greensport@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2508813730",
+                "legalName": "ФОП \"Лебединскьий М.О.\""
+              },
+              "name": "ФОП \"Лебединскьий М.О.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "Дніпропетровськ, вул.Семафорна36/97",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:04:46.965990+02:00"
+        }
+      ],
+      "time": "2015-12-03T12:08:10.730805+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T12:32:12.476181+02:00",
+          "amount": 4500.0,
+          "bidder": "ad30940a23e94dbca0b29166ddc336d8"
+        },
+        {
+          "date": "2015-12-02T15:27:28.840200+02:00",
+          "amount": 4500.0,
+          "bidder": "052accb02c6b4fde83879b9c6156e30b"
+        },
+        {
+          "date": "2015-12-02T16:43:01.934194+02:00",
+          "amount": 3893.24,
+          "bidder": "03f3c47ffe5445f385031e47140885fc"
+        }
+      ],
+      "time": "2015-12-03T11:41:08.004273+00:00"
+    }
+  },
+  "id": "13aba54f99904b84bc4edc59c5308f1c",
+  "tenderId": "UA-2015-11-25-000032"
+}

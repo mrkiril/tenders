@@ -1,0 +1,152 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bc9889b7638c41e9853c4163f072c8c4",
+        "time": "2015-12-15T09:31:43.008308+00:00"
+      },
+      "turn_3": {
+        "bidder": "c47ff1f0d4c34d468e52e5c12107f2e9",
+        "time": "2015-12-15T09:33:43.008285+00:00"
+      },
+      "turn_1": {
+        "bidder": "1d87b926ded040a7b47c5dd0927a7d0a",
+        "time": "2015-12-15T09:29:43.009770+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bc9889b7638c41e9853c4163f072c8c4",
+        "time": "2015-12-15T09:39:43.012576+00:00"
+      },
+      "turn_3": {
+        "bidder": "c47ff1f0d4c34d468e52e5c12107f2e9",
+        "time": "2015-12-15T09:41:43.010245+00:00"
+      },
+      "turn_1": {
+        "bidder": "1d87b926ded040a7b47c5dd0927a7d0a",
+        "time": "2015-12-15T09:37:43.008607+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bc9889b7638c41e9853c4163f072c8c4",
+        "time": "2015-12-15T09:23:43.013477+00:00"
+      },
+      "turn_3": {
+        "bidder": "c47ff1f0d4c34d468e52e5c12107f2e9",
+        "time": "2015-12-15T09:25:43.012320+00:00"
+      },
+      "turn_1": {
+        "bidder": "1d87b926ded040a7b47c5dd0927a7d0a",
+        "time": "2015-12-15T09:21:43.010210+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1d87b926ded040a7b47c5dd0927a7d0a",
+          "amount": 16190.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ledvsem.com.ua/",
+                "telephone": "380685894709, 380665593083, 0665593083",
+                "name": "Игорь Посаженников ",
+                "email": "dsv-gr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39669322",
+                "legalName": ""
+              },
+              "name": "ООО ЭЛСИЗ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49000, м. Дніпропетровськ, вул. Янгеля, 35 оф.315"
+              }
+            }
+          ],
+          "time": "2015-12-11T16:15:47.496287+02:00"
+        },
+        {
+          "bidder": "bc9889b7638c41e9853c4163f072c8c4",
+          "amount": 16000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380971633313",
+                "name": "Дмитрий",
+                "email": "bravo1@bravo-sp.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38261461",
+                "legalName": "ТОВ \"Браво спецодяг\""
+              },
+              "name": "ТОВ \"Браво спецодяг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04074",
+                "region": "Киевская",
+                "streetAddress": "ул. Луговая, 1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:48:31.212272+02:00"
+        },
+        {
+          "bidder": "c47ff1f0d4c34d468e52e5c12107f2e9",
+          "amount": 15906.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dekkoinvest.com.ua/",
+                "telephone": "0677878999",
+                "name": "В'ячеслав Красов ",
+                "email": "dekkoinvest05@outlook.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39310341",
+                "legalName": "ТОВ \"Декко Інвест\""
+              },
+              "name": "ТОВ \"Декко Інвест\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Харьковская область",
+                "streetAddress": "61064, г. Харьков, ул. Нариманова 1А, офис 319"
+              }
+            }
+          ],
+          "time": "2015-12-14T11:39:15.763434+02:00"
+        }
+      ],
+      "time": "2015-12-15T09:41:47.876999+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T16:15:47.496287+02:00",
+          "amount": 16190.0,
+          "bidder": "1d87b926ded040a7b47c5dd0927a7d0a"
+        },
+        {
+          "date": "2015-12-14T12:48:31.212272+02:00",
+          "amount": 16000.0,
+          "bidder": "bc9889b7638c41e9853c4163f072c8c4"
+        },
+        {
+          "date": "2015-12-14T11:39:15.763434+02:00",
+          "amount": 15906.0,
+          "bidder": "c47ff1f0d4c34d468e52e5c12107f2e9"
+        }
+      ],
+      "time": "2015-12-15T09:14:43.005141+00:00"
+    }
+  },
+  "id": "5bfb69ffb13748aaa31eb4d0beb72484",
+  "tenderId": "UA-2015-12-09-000172"
+}

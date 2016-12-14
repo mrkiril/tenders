@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "65cfb8870fa64f65bf48ce396a4c8325",
+        "time": "2015-10-13T09:15:53.006409+00:00"
+      },
+      "turn_1": {
+        "bidder": "620eadaf66ed459aa831bf5ffab5a498",
+        "time": "2015-10-13T09:13:53.010258+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "65cfb8870fa64f65bf48ce396a4c8325",
+        "time": "2015-10-13T09:21:53.009088+00:00"
+      },
+      "turn_1": {
+        "bidder": "620eadaf66ed459aa831bf5ffab5a498",
+        "time": "2015-10-13T09:19:53.006798+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "65cfb8870fa64f65bf48ce396a4c8325",
+        "time": "2015-10-13T09:09:53.009839+00:00"
+      },
+      "turn_1": {
+        "bidder": "620eadaf66ed459aa831bf5ffab5a498",
+        "time": "2015-10-13T09:07:53.008649+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "620eadaf66ed459aa831bf5ffab5a498",
+          "amount": 6000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "067-964-36-15",
+                "name": "Любенко Тетяна Віталіївна",
+                "email": "lubenkotv@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38546585",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КИЇВСЬКА ТОРГОВА СИСТЕМА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КИЇВСЬКА ТОРГОВА СИСТЕМА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська",
+                "streetAddress": "Звіринецька, 63",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T11:46:23.989209+03:00"
+        },
+        {
+          "bidder": "65cfb8870fa64f65bf48ce396a4c8325",
+          "amount": 5950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.dm-sonata.com.ua/",
+                "faxNumber": "482-58-85",
+                "telephone": "391-39-45",
+                "name": "Фастовець Катерина Сергіївна",
+                "email": "3913945@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"Торгова фірма \"Долина мрій\""
+              },
+              "name": "ТОВ \"Торгова фірма \"Долина мрій\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-08T10:00:59.276579+03:00"
+        }
+      ],
+      "time": "2015-10-13T09:22:01.486096+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-08T11:46:23.989209+03:00",
+          "amount": 6000.0,
+          "bidder": "620eadaf66ed459aa831bf5ffab5a498"
+        },
+        {
+          "date": "2015-10-08T10:00:59.276579+03:00",
+          "amount": 5950.0,
+          "bidder": "65cfb8870fa64f65bf48ce396a4c8325"
+        }
+      ],
+      "time": "2015-10-13T09:00:53.004109+00:00"
+    }
+  },
+  "id": "3cc659740284413a8290ea7279d138e2",
+  "tenderId": "UA-2015-10-06-000304"
+}

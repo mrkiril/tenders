@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e2082c3605b043b8924e6f8f67ebcdc8",
+        "time": "2015-07-08T08:15:00.180639+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b13fd709fcc40ce9f94a0a7d61cc617",
+        "time": "2015-07-08T08:13:00.234971+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e2082c3605b043b8924e6f8f67ebcdc8",
+        "time": "2015-07-08T08:21:00.234339+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b13fd709fcc40ce9f94a0a7d61cc617",
+        "time": "2015-07-08T08:19:00.216303+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e2082c3605b043b8924e6f8f67ebcdc8",
+        "time": "2015-07-08T08:09:00.286992+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b13fd709fcc40ce9f94a0a7d61cc617",
+        "time": "2015-07-08T08:07:00.346071+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0b13fd709fcc40ce9f94a0a7d61cc617",
+          "amount": 13000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380512638594",
+                "telephone": "+380673150973",
+                "name": "Решетняк Євген Вітальович",
+                "email": "torginterstroy@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37991854"
+              },
+              "name": "ПП Торгінтерстрой",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54052",
+                "region": "Миколаївська область",
+                "streetAddress": "вул. Самойловича 32/1 офіс №12",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-07-03T12:50:25.873479+03:00"
+        },
+        {
+          "bidder": "e2082c3605b043b8924e6f8f67ebcdc8",
+          "amount": 12500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512377574",
+                "telephone": "0512373776",
+                "name": "Погорєлова Альбертівна Людмила",
+                "email": "mila.pogorelova@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32282891",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖ-ТЕХНОЛОГИЯ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"МОНТАЖ-ТЕХНОЛОГИЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54048",
+                "region": "Миколаївська",
+                "streetAddress": "Силікатна, 277, кв.116",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T11:37:37.598612+03:00"
+        }
+      ],
+      "time": "2015-07-08T08:21:11.020678+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-03T12:50:25.873479+03:00",
+          "amount": 13000.0,
+          "bidder": "0b13fd709fcc40ce9f94a0a7d61cc617"
+        },
+        {
+          "date": "2015-07-02T11:37:37.598612+03:00",
+          "amount": 12500.0,
+          "bidder": "e2082c3605b043b8924e6f8f67ebcdc8"
+        }
+      ],
+      "time": "2015-07-08T08:00:00.025844+00:00"
+    }
+  },
+  "id": "1fc097dabbed43a7b161bf62b4a5059f",
+  "tenderId": "UA-2015-06-23-000133"
+}

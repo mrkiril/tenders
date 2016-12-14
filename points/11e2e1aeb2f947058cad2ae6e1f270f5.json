@@ -1,0 +1,196 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "2c097d8569ee4f79b0c5ffe4fed3244d",
+        "time": "2015-12-07T09:33:02.008248+00:00"
+      },
+      "turn_2": {
+        "bidder": "f0f8d34a708f4db29c410a245c27adbf",
+        "time": "2015-12-07T09:29:02.008954+00:00"
+      },
+      "turn_3": {
+        "bidder": "3294e1d2ad344d18b3cfd03a8902a2af",
+        "time": "2015-12-07T09:31:02.008916+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6488cff568148caa10c588a0658ede0",
+        "time": "2015-12-07T09:27:02.008525+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "2c097d8569ee4f79b0c5ffe4fed3244d",
+        "time": "2015-12-07T09:43:02.007437+00:00"
+      },
+      "turn_2": {
+        "bidder": "f0f8d34a708f4db29c410a245c27adbf",
+        "time": "2015-12-07T09:39:02.007559+00:00"
+      },
+      "turn_3": {
+        "bidder": "3294e1d2ad344d18b3cfd03a8902a2af",
+        "time": "2015-12-07T09:41:02.009390+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6488cff568148caa10c588a0658ede0",
+        "time": "2015-12-07T09:37:02.007688+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "2c097d8569ee4f79b0c5ffe4fed3244d",
+        "time": "2015-12-07T09:23:02.006608+00:00"
+      },
+      "turn_2": {
+        "bidder": "f0f8d34a708f4db29c410a245c27adbf",
+        "time": "2015-12-07T09:19:02.032498+00:00"
+      },
+      "turn_3": {
+        "bidder": "3294e1d2ad344d18b3cfd03a8902a2af",
+        "time": "2015-12-07T09:21:02.009428+00:00"
+      },
+      "turn_1": {
+        "bidder": "a6488cff568148caa10c588a0658ede0",
+        "time": "2015-12-07T09:17:02.009236+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a6488cff568148caa10c588a0658ede0",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T10:35:14.680955+02:00"
+        },
+        {
+          "bidder": "f0f8d34a708f4db29c410a245c27adbf",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T22:38:15.887250+02:00"
+        },
+        {
+          "bidder": "3294e1d2ad344d18b3cfd03a8902a2af",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675000335",
+                "name": "Парадюк Вікторія Миколаївна",
+                "email": "paraduk.v@expressapteka.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38916982"
+              },
+              "name": "ТОВ АПТЕКА ЕКСПРЕС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03189",
+                "region": "Київська область",
+                "streetAddress": "вул. Академіка Вільямса 13 корп. 2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T13:06:09.983002+02:00"
+        },
+        {
+          "bidder": "2c097d8569ee4f79b0c5ffe4fed3244d",
+          "amount": 2332.36,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": ", 380567470266",
+                "name": "Юлия Французан ",
+                "email": "yufrancuzan@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31816235",
+                "legalName": "ТОВ \"БаДМ\""
+              },
+              "name": "ТОВ \"БаДМ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005, Днепропетровская обл., Жовтневый р-н, ул. Паникахи, д. 2"
+              }
+            }
+          ],
+          "time": "2015-12-04T09:07:00.166307+02:00"
+        }
+      ],
+      "time": "2015-12-07T09:43:04.057231+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T13:06:09.983002+02:00",
+          "amount": 4300.0,
+          "bidder": "3294e1d2ad344d18b3cfd03a8902a2af"
+        },
+        {
+          "date": "2015-12-03T22:38:15.887250+02:00",
+          "amount": 4300.0,
+          "bidder": "f0f8d34a708f4db29c410a245c27adbf"
+        },
+        {
+          "date": "2015-12-04T10:35:14.680955+02:00",
+          "amount": 4300.0,
+          "bidder": "a6488cff568148caa10c588a0658ede0"
+        },
+        {
+          "date": "2015-12-04T09:07:00.166307+02:00",
+          "amount": 2332.36,
+          "bidder": "2c097d8569ee4f79b0c5ffe4fed3244d"
+        }
+      ],
+      "time": "2015-12-07T09:10:02.003847+00:00"
+    }
+  },
+  "id": "11e2e1aeb2f947058cad2ae6e1f270f5",
+  "tenderId": "UA-2015-11-30-000044-a"
+}

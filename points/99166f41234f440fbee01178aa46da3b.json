@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b0a9ebdbee554c51b5b75cb39f2608a3",
+        "time": "2015-11-13T12:29:15.009515+00:00"
+      },
+      "turn_3": {
+        "bidder": "1083898eb6804ed5add5d5940647481e",
+        "time": "2015-11-13T12:31:15.009092+00:00"
+      },
+      "turn_1": {
+        "bidder": "afb86efd82a44386a69a8dbccc82ea7e",
+        "time": "2015-11-13T12:27:15.008646+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b0a9ebdbee554c51b5b75cb39f2608a3",
+        "time": "2015-11-13T12:37:15.009559+00:00"
+      },
+      "turn_3": {
+        "bidder": "1083898eb6804ed5add5d5940647481e",
+        "time": "2015-11-13T12:39:15.009810+00:00"
+      },
+      "turn_1": {
+        "bidder": "afb86efd82a44386a69a8dbccc82ea7e",
+        "time": "2015-11-13T12:35:15.008713+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b0a9ebdbee554c51b5b75cb39f2608a3",
+        "time": "2015-11-13T12:21:15.008662+00:00"
+      },
+      "turn_3": {
+        "bidder": "1083898eb6804ed5add5d5940647481e",
+        "time": "2015-11-13T12:23:15.008706+00:00"
+      },
+      "turn_1": {
+        "amount": 6628.0,
+        "bid_time": "2015-11-13T14:19:12.770168+02:00",
+        "bidder": "afb86efd82a44386a69a8dbccc82ea7e",
+        "time": "2015-11-13T12:19:15.009399+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "afb86efd82a44386a69a8dbccc82ea7e",
+          "amount": 6628.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vct1.com",
+                "faxNumber": "+380522320575",
+                "telephone": "+380990759455",
+                "name": "Жук Олексій Геннадійович",
+                "email": "oleksiizhuk@vct1.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37530176"
+              },
+              "name": "ПП \"ВКТ СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "25030",
+                "region": "Кіровоградська область",
+                "streetAddress": "Київська 3",
+                "locality": "Кіровоград"
+              }
+            }
+          ],
+          "time": "2015-11-13T14:19:12.770168+02:00"
+        },
+        {
+          "bidder": "b0a9ebdbee554c51b5b75cb39f2608a3",
+          "amount": 6515.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://insit.com.ua",
+                "telephone": "+380503840101",
+                "name": "Современные информационные технологии ИНСИТ",
+                "email": "almik@insit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21607462",
+                "legalName": "Современные информационные технологии ИНСИТ"
+              },
+              "name": "Современные информационные технологии ИНСИТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01601 Киев, ул.Красноармейская 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T13:58:21.583083+02:00"
+        },
+        {
+          "bidder": "1083898eb6804ed5add5d5940647481e",
+          "amount": 5780.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-11T09:03:35.576789+02:00"
+        }
+      ],
+      "time": "2015-11-13T12:39:15.926065+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T12:53:35.155204+02:00",
+          "amount": 6730.0,
+          "bidder": "afb86efd82a44386a69a8dbccc82ea7e"
+        },
+        {
+          "date": "2015-11-12T13:58:21.583083+02:00",
+          "amount": 6515.0,
+          "bidder": "b0a9ebdbee554c51b5b75cb39f2608a3"
+        },
+        {
+          "date": "2015-11-11T09:03:35.576789+02:00",
+          "amount": 5780.0,
+          "bidder": "1083898eb6804ed5add5d5940647481e"
+        }
+      ],
+      "time": "2015-11-13T12:12:15.003521+00:00"
+    }
+  },
+  "id": "99166f41234f440fbee01178aa46da3b",
+  "tenderId": "UA-2015-11-05-000406"
+}

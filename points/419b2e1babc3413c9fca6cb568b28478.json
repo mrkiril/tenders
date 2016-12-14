@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "061446793fac434e8fe80a8253c68539",
+        "time": "2015-12-11T13:18:39.010993+00:00"
+      },
+      "turn_1": {
+        "bidder": "95e71c62d5de4aad8073c9acd46ac0c8",
+        "time": "2015-12-11T13:16:39.011287+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "061446793fac434e8fe80a8253c68539",
+        "time": "2015-12-11T13:24:39.011641+00:00"
+      },
+      "turn_1": {
+        "bidder": "95e71c62d5de4aad8073c9acd46ac0c8",
+        "time": "2015-12-11T13:22:39.011964+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 89960.0,
+        "bid_time": "2015-12-11T15:11:26.562714+02:00",
+        "bidder": "061446793fac434e8fe80a8253c68539",
+        "time": "2015-12-11T13:12:39.009866+00:00"
+      },
+      "turn_1": {
+        "amount": 90500.0,
+        "bid_time": "2015-12-11T15:09:36.244500+02:00",
+        "bidder": "95e71c62d5de4aad8073c9acd46ac0c8",
+        "time": "2015-12-11T13:10:39.013138+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "95e71c62d5de4aad8073c9acd46ac0c8",
+          "amount": 90500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kots.kiev.ua",
+                "faxNumber": "+380442385656",
+                "telephone": "+380442385654",
+                "name": "Швець Микола Петрович",
+                "email": "niko@kots.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19031061"
+              },
+              "name": "ПрАТ КОТС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Хрещатик 19А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T15:09:36.244500+02:00"
+        },
+        {
+          "bidder": "061446793fac434e8fe80a8253c68539",
+          "amount": 89960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0443695776",
+                "telephone": "0939052842",
+                "name": "Олексеенко Олег Викторович",
+                "email": "o.olekseenko@ivk-service.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37500822",
+                "legalName": "ООО \"ИВК Сервис\""
+              },
+              "name": "ООО \"ИВК Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська",
+                "streetAddress": "вул. Новаторів, 22-А, кв.202",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T15:11:26.562714+02:00"
+        }
+      ],
+      "time": "2015-12-11T13:24:41.686246+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T10:09:23.594579+02:00",
+          "amount": 91668.0,
+          "bidder": "95e71c62d5de4aad8073c9acd46ac0c8"
+        },
+        {
+          "date": "2015-12-10T13:34:57.600653+02:00",
+          "amount": 90884.0,
+          "bidder": "061446793fac434e8fe80a8253c68539"
+        }
+      ],
+      "time": "2015-12-11T13:03:39.004760+00:00"
+    }
+  },
+  "id": "419b2e1babc3413c9fca6cb568b28478",
+  "tenderId": "UA-2015-12-07-000002-b"
+}

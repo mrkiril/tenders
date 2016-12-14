@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "44e6dac8a9954e9a8d64b1e5dbdd1d07",
+        "time": "2015-12-04T11:47:14.008772+00:00"
+      },
+      "turn_1": {
+        "bidder": "cab1f93410eb4688a31f768a080433f2",
+        "time": "2015-12-04T11:45:14.008091+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "44e6dac8a9954e9a8d64b1e5dbdd1d07",
+        "time": "2015-12-04T11:53:14.007433+00:00"
+      },
+      "turn_1": {
+        "bidder": "cab1f93410eb4688a31f768a080433f2",
+        "time": "2015-12-04T11:51:14.007605+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "cab1f93410eb4688a31f768a080433f2",
+        "time": "2015-12-04T11:41:14.008264+00:00"
+      },
+      "turn_1": {
+        "amount": 60000.0,
+        "bid_time": "2015-12-04T13:37:48.309003+02:00",
+        "bidder": "44e6dac8a9954e9a8d64b1e5dbdd1d07",
+        "time": "2015-12-04T11:39:14.008320+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cab1f93410eb4688a31f768a080433f2",
+          "amount": 62970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380971458300",
+                "name": "Сергій Степанович Василюк",
+                "email": "optimist-sergei@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1901414619",
+                "legalName": "ФОП Василюк"
+              },
+              "name": "ФОП Василюк",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T13:49:48.996043+02:00"
+        },
+        {
+          "bidder": "44e6dac8a9954e9a8d64b1e5dbdd1d07",
+          "amount": 60000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0937561823",
+                "name": "Марчук Віктор Юрійович",
+                "email": "viktor_mar@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37246018",
+                "legalName": "Приватне підприємство \"Західпроменерго\""
+              },
+              "name": "Приватне підприємство \"Західпроменерго\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "33013",
+                "region": "Рівненська",
+                "streetAddress": "Шпанівський, 55",
+                "locality": "Рівне"
+              }
+            }
+          ],
+          "time": "2015-12-04T13:37:48.309003+02:00"
+        }
+      ],
+      "time": "2015-12-04T11:53:15.839687+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T14:57:04.876456+02:00",
+          "amount": 64800.0,
+          "bidder": "44e6dac8a9954e9a8d64b1e5dbdd1d07"
+        },
+        {
+          "date": "2015-12-02T13:49:48.996043+02:00",
+          "amount": 62970.0,
+          "bidder": "cab1f93410eb4688a31f768a080433f2"
+        }
+      ],
+      "time": "2015-12-04T11:32:14.003504+00:00"
+    }
+  },
+  "id": "048aa5d935124ea7ad376b9b17f9ce5a",
+  "tenderId": "UA-2015-11-27-000068"
+}

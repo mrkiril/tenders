@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fa6858fe86e5455c8822c86ae6c40d8c",
+        "time": "2015-10-26T13:47:47.006814+00:00"
+      },
+      "turn_3": {
+        "bidder": "e6c85cdca8604e6e82262ce045b36a3a",
+        "time": "2015-10-26T13:49:47.007325+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee925de57fa34839ad5496041de29a49",
+        "time": "2015-10-26T13:45:47.008239+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fa6858fe86e5455c8822c86ae6c40d8c",
+        "time": "2015-10-26T13:55:47.011233+00:00"
+      },
+      "turn_3": {
+        "bidder": "e6c85cdca8604e6e82262ce045b36a3a",
+        "time": "2015-10-26T13:57:47.011326+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee925de57fa34839ad5496041de29a49",
+        "time": "2015-10-26T13:53:47.007004+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fa6858fe86e5455c8822c86ae6c40d8c",
+        "time": "2015-10-26T13:39:47.007175+00:00"
+      },
+      "turn_3": {
+        "bidder": "e6c85cdca8604e6e82262ce045b36a3a",
+        "time": "2015-10-26T13:41:47.008157+00:00"
+      },
+      "turn_1": {
+        "bidder": "ee925de57fa34839ad5496041de29a49",
+        "time": "2015-10-26T13:37:47.008843+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ee925de57fa34839ad5496041de29a49",
+          "amount": 6462.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://stomatolog-g.com.ua/",
+                "faxNumber": "044-531-98-90",
+                "telephone": "044-287-10-20",
+                "name": "Жайворонок Микола Миколайович",
+                "email": "stom-zh@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19259806",
+                "legalName": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\""
+              },
+              "name": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03187",
+                "region": "Київська",
+                "streetAddress": "вул. Заболотного, 48 А, блок А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T18:20:50.598643+03:00"
+        },
+        {
+          "bidder": "fa6858fe86e5455c8822c86ae6c40d8c",
+          "amount": 6120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444676907",
+                "telephone": "+380935126870",
+                "name": "Галицький Іван Іванович",
+                "email": "tender.galytsky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2558204616"
+              },
+              "name": "ФОП Галицький Іван Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02096",
+                "region": "Київська область",
+                "streetAddress": "м. Київ, вул. Привокзальна, 8/1, кв. 4",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-22T15:24:08.930835+03:00"
+        },
+        {
+          "bidder": "e6c85cdca8604e6e82262ce045b36a3a",
+          "amount": 4374.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503936300",
+                "name": "Малярчук Оксана Вікторівна",
+                "email": "m14.o.malyarchuk@kmm.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38518301"
+              },
+              "name": "ТОВ \"Торгівельно-Медичний Центр \"Медтехніка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01135",
+                "region": "Київська область",
+                "streetAddress": "проспект Перемоги, 9/47",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-23T10:11:52.968740+03:00"
+        }
+      ],
+      "time": "2015-10-26T13:57:49.778471+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T18:20:50.598643+03:00",
+          "amount": 6462.0,
+          "bidder": "ee925de57fa34839ad5496041de29a49"
+        },
+        {
+          "date": "2015-10-22T15:24:08.930835+03:00",
+          "amount": 6120.0,
+          "bidder": "fa6858fe86e5455c8822c86ae6c40d8c"
+        },
+        {
+          "date": "2015-10-23T10:11:52.968740+03:00",
+          "amount": 4374.0,
+          "bidder": "e6c85cdca8604e6e82262ce045b36a3a"
+        }
+      ],
+      "time": "2015-10-26T13:30:47.003952+00:00"
+    }
+  },
+  "id": "354283cf108e451ea9506dd88a305999",
+  "tenderId": "UA-2015-10-16-000184"
+}

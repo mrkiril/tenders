@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 4700.0,
+        "bid_time": "2015-11-18T12:59:47.237740+02:00",
+        "bidder": "d0a6f30e831648aca12efef9afedf9c3",
+        "time": "2015-11-18T11:01:27.012395+00:00"
+      },
+      "turn_3": {
+        "bidder": "839a9adc90fb49c29403e7e3a4de9c7d",
+        "time": "2015-11-18T11:03:27.007734+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bbb2069c31a4aecabb63eb21df77da8",
+        "time": "2015-11-18T10:59:27.006710+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 4600.0,
+        "bid_time": "2015-11-18T13:07:40.909583+02:00",
+        "bidder": "d0a6f30e831648aca12efef9afedf9c3",
+        "time": "2015-11-18T11:09:27.019109+00:00"
+      },
+      "turn_3": {
+        "bidder": "839a9adc90fb49c29403e7e3a4de9c7d",
+        "time": "2015-11-18T11:11:27.007793+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bbb2069c31a4aecabb63eb21df77da8",
+        "time": "2015-11-18T11:07:27.008144+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4800.0,
+        "bid_time": "2015-11-18T12:51:51.150806+02:00",
+        "bidder": "d0a6f30e831648aca12efef9afedf9c3",
+        "time": "2015-11-18T10:53:27.009915+00:00"
+      },
+      "turn_3": {
+        "bidder": "839a9adc90fb49c29403e7e3a4de9c7d",
+        "time": "2015-11-18T10:55:27.008694+00:00"
+      },
+      "turn_1": {
+        "bidder": "6bbb2069c31a4aecabb63eb21df77da8",
+        "time": "2015-11-18T10:51:27.008470+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6bbb2069c31a4aecabb63eb21df77da8",
+          "amount": 5950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380 44 2778747",
+                "name": "Фаина Марковна Иоффе",
+                "email": "vik-xxi-vek@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38516299",
+                "legalName": "ТОВ \"ВІК-ХХІ ВІК\""
+              },
+              "name": "ТОВ \"ВІК-ХХІ ВІК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03191",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Лятошинського композитора, б. 14 А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T09:46:30.698891+02:00"
+        },
+        {
+          "bidder": "d0a6f30e831648aca12efef9afedf9c3",
+          "amount": 4600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444561452",
+                "telephone": "+380673499141",
+                "name": "Рог Юрій Олексійович",
+                "email": "yuriy.rog@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33261645"
+              },
+              "name": "ТОВ Центр Експертних Технологій",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська область",
+                "streetAddress": "вул. Костянтинівська, 64, оф.315",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T13:07:40.909583+02:00"
+        },
+        {
+          "bidder": "839a9adc90fb49c29403e7e3a4de9c7d",
+          "amount": 3700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38050-536-24-39",
+                "name": "Геннадий Ермак",
+                "email": "office@fartunat.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37308833",
+                "legalName": "ТОВ \"Фартунат\""
+              },
+              "name": "ТОВ \"Фартунат\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03039",
+                "region": "Киевская",
+                "streetAddress": "г. Киев, ул. Голосеевская, дом 7, корпус 3",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-17T10:09:46.934275+02:00"
+        }
+      ],
+      "time": "2015-11-18T11:11:36.556336+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T09:46:30.698891+02:00",
+          "amount": 5950.0,
+          "bidder": "6bbb2069c31a4aecabb63eb21df77da8"
+        },
+        {
+          "date": "2015-11-16T14:41:05.283264+02:00",
+          "amount": 4916.0,
+          "bidder": "d0a6f30e831648aca12efef9afedf9c3"
+        },
+        {
+          "date": "2015-11-17T10:09:46.934275+02:00",
+          "amount": 3700.0,
+          "bidder": "839a9adc90fb49c29403e7e3a4de9c7d"
+        }
+      ],
+      "time": "2015-11-18T10:44:27.005860+00:00"
+    }
+  },
+  "id": "3a3769ab034a470f953b02470008f68b",
+  "tenderId": "UA-2015-11-11-000027"
+}

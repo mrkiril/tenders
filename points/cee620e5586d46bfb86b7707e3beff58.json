@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7dfb5bca86d54d898416a4db01d8fc80",
+        "time": "2015-11-18T12:27:10.028828+00:00"
+      },
+      "turn_1": {
+        "bidder": "66d6bbb1eb914c1ea4fb021813fbcea0",
+        "time": "2015-11-18T12:25:10.006981+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7dfb5bca86d54d898416a4db01d8fc80",
+        "time": "2015-11-18T12:33:10.006869+00:00"
+      },
+      "turn_1": {
+        "bidder": "66d6bbb1eb914c1ea4fb021813fbcea0",
+        "time": "2015-11-18T12:31:10.010457+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7dfb5bca86d54d898416a4db01d8fc80",
+        "time": "2015-11-18T12:21:10.007714+00:00"
+      },
+      "turn_1": {
+        "bidder": "66d6bbb1eb914c1ea4fb021813fbcea0",
+        "time": "2015-11-18T12:19:10.007424+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "66d6bbb1eb914c1ea4fb021813fbcea0",
+          "amount": 4560.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-13T07:15:49.502734+02:00"
+        },
+        {
+          "bidder": "7dfb5bca86d54d898416a4db01d8fc80",
+          "amount": 4182.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://alvant.com.ua",
+                "telephone": "0503356917",
+                "name": "Білан Олексій Валерійович",
+                "email": "alvant@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Безпечне місто південь\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54030",
+                "region": "Миколаївська",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-16T22:14:23.798774+02:00"
+        }
+      ],
+      "time": "2015-11-18T12:33:16.094593+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T07:15:49.502734+02:00",
+          "amount": 4560.0,
+          "bidder": "66d6bbb1eb914c1ea4fb021813fbcea0"
+        },
+        {
+          "date": "2015-11-16T22:14:23.798774+02:00",
+          "amount": 4182.2,
+          "bidder": "7dfb5bca86d54d898416a4db01d8fc80"
+        }
+      ],
+      "time": "2015-11-18T12:12:10.003294+00:00"
+    }
+  },
+  "id": "cee620e5586d46bfb86b7707e3beff58",
+  "tenderId": "UA-2015-11-11-000151"
+}

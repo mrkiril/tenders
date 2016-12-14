@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "164956ad94684232b07ba3fce6d9ccf8",
+        "time": "2015-10-06T08:48:30.018950+00:00"
+      },
+      "turn_3": {
+        "bidder": "132a1fe2cb7b4223919f1c3a2c128dfb",
+        "time": "2015-10-06T08:50:30.008061+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c05485821d64016b9bb2698c7814cff",
+        "time": "2015-10-06T08:46:30.007452+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "164956ad94684232b07ba3fce6d9ccf8",
+        "time": "2015-10-06T08:56:30.009457+00:00"
+      },
+      "turn_3": {
+        "bidder": "132a1fe2cb7b4223919f1c3a2c128dfb",
+        "time": "2015-10-06T08:58:30.016793+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c05485821d64016b9bb2698c7814cff",
+        "time": "2015-10-06T08:54:30.016329+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "164956ad94684232b07ba3fce6d9ccf8",
+        "time": "2015-10-06T08:40:30.008791+00:00"
+      },
+      "turn_3": {
+        "bidder": "132a1fe2cb7b4223919f1c3a2c128dfb",
+        "time": "2015-10-06T08:42:30.007549+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c05485821d64016b9bb2698c7814cff",
+        "time": "2015-10-06T08:38:30.008100+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c05485821d64016b9bb2698c7814cff",
+          "amount": 6518.23,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooobadm.dp.ua/",
+                "telephone": "0567470245",
+                "name": "Екатерина Буряк ",
+                "email": "eburyak@badm-b.biz"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39273420",
+                "legalName": ""
+              },
+              "name": "БаДМ-Б",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49005 Днепропетровская обл., ул. Паникахи, 2, кор. 2, к.426"
+              }
+            }
+          ],
+          "time": "2015-10-05T10:05:18.839303+03:00"
+        },
+        {
+          "bidder": "164956ad94684232b07ba3fce6d9ccf8",
+          "amount": 5465.99,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "756-34-51",
+                "telephone": "0662316336",
+                "name": "Петренко Інна Вячеславівна",
+                "email": "petrenkoinna@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38492870",
+                "legalName": "Товариство з обмеженою відповідальністю \" Аптека №5+\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" Аптека №5+\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61050",
+                "region": "Харківська",
+                "streetAddress": "вул. Франківська , 4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T11:56:48.037156+03:00"
+        },
+        {
+          "bidder": "132a1fe2cb7b4223919f1c3a2c128dfb",
+          "amount": 5448.33,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577563604",
+                "telephone": "0577563603",
+                "name": "Лисенко Олександр Олексійович",
+                "email": "apteka095@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38218086",
+                "legalName": "ТОВ \"Аметрін ФК\""
+              },
+              "name": "ТОВ \"Аметрін ФК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська",
+                "streetAddress": "Юріївська, 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T12:46:39.398590+03:00"
+        }
+      ],
+      "time": "2015-10-06T08:58:31.438820+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T10:05:18.839303+03:00",
+          "amount": 6518.23,
+          "bidder": "6c05485821d64016b9bb2698c7814cff"
+        },
+        {
+          "date": "2015-10-05T11:56:48.037156+03:00",
+          "amount": 5465.99,
+          "bidder": "164956ad94684232b07ba3fce6d9ccf8"
+        },
+        {
+          "date": "2015-10-05T12:46:39.398590+03:00",
+          "amount": 5448.33,
+          "bidder": "132a1fe2cb7b4223919f1c3a2c128dfb"
+        }
+      ],
+      "time": "2015-10-06T08:31:30.003630+00:00"
+    }
+  },
+  "id": "102e5a27731344c8be19cd28fe9abed0",
+  "tenderId": "UA-2015-09-24-000170"
+}

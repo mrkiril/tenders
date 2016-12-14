@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4deae77744e14dd681c2a6de3da9d173",
+        "time": "2015-07-10T09:15:00.073240+00:00"
+      },
+      "turn_1": {
+        "bidder": "0167ad2b83524985bed7ac9e9e7c3eae",
+        "time": "2015-07-10T09:13:00.064075+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4deae77744e14dd681c2a6de3da9d173",
+        "time": "2015-07-10T09:21:00.041596+00:00"
+      },
+      "turn_1": {
+        "bidder": "0167ad2b83524985bed7ac9e9e7c3eae",
+        "time": "2015-07-10T09:19:00.036925+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4deae77744e14dd681c2a6de3da9d173",
+        "time": "2015-07-10T09:09:00.080438+00:00"
+      },
+      "turn_1": {
+        "bidder": "0167ad2b83524985bed7ac9e9e7c3eae",
+        "time": "2015-07-10T09:07:00.030745+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0167ad2b83524985bed7ac9e9e7c3eae",
+          "amount": 6999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz",
+                "faxNumber": "048-237-56-25",
+                "telephone": "048-234-65-74",
+                "name": "Мельніченко Надія Анатоліївна",
+                "email": "opttorg.ua@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25426616",
+                "legalName": "Приватне підприємство \"Оптторг\""
+              },
+              "name": "Приватне підприємство \"Оптторг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65009",
+                "region": "Одеська",
+                "streetAddress": "вул.Фонтанська дорога 7,кв.23,м.Одесса,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-08T13:50:58.839702+03:00"
+        },
+        {
+          "bidder": "4deae77744e14dd681c2a6de3da9d173",
+          "amount": 6960.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676124883, +380615334886, +380992589323, +380999224151, +380676124164",
+                "name": "Лариса Литвиненко",
+                "email": "tlp-ltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34517147",
+                "legalName": "ТОВ \"Технолитпром\""
+              },
+              "name": "ТОВ \"Технолитпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "71118",
+                "region": "Запорожская",
+                "streetAddress": "пл. 1-го Бердянского Совета 2, к.12, 4-й этаж",
+                "locality": "Бердянск"
+              }
+            }
+          ],
+          "time": "2015-07-07T15:33:06.371805+03:00"
+        }
+      ],
+      "time": "2015-07-10T09:21:01.453309+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-08T13:50:58.839702+03:00",
+          "amount": 6999.0,
+          "bidder": "0167ad2b83524985bed7ac9e9e7c3eae"
+        },
+        {
+          "date": "2015-07-07T15:33:06.371805+03:00",
+          "amount": 6960.0,
+          "bidder": "4deae77744e14dd681c2a6de3da9d173"
+        }
+      ],
+      "time": "2015-07-10T09:00:00.001919+00:00"
+    }
+  },
+  "id": "71bc386517ae4f1a8f498c1feac40a95",
+  "tenderId": "UA-2015-07-02-000124"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "40a20a6c3ec244dfbb966459ef0da2e9",
+        "time": "2015-10-22T11:55:23.012503+00:00"
+      },
+      "turn_1": {
+        "bidder": "b4036b6df9944ef2adf5ba30ef57f8bb",
+        "time": "2015-10-22T11:53:23.005879+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "40a20a6c3ec244dfbb966459ef0da2e9",
+        "time": "2015-10-22T12:01:23.007460+00:00"
+      },
+      "turn_1": {
+        "bidder": "b4036b6df9944ef2adf5ba30ef57f8bb",
+        "time": "2015-10-22T11:59:23.008570+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "40a20a6c3ec244dfbb966459ef0da2e9",
+        "time": "2015-10-22T11:49:23.007710+00:00"
+      },
+      "turn_1": {
+        "bidder": "b4036b6df9944ef2adf5ba30ef57f8bb",
+        "time": "2015-10-22T11:47:23.009092+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b4036b6df9944ef2adf5ba30ef57f8bb",
+          "amount": 34000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0984431945",
+                "name": "Паламарчук Ірина Вікторівна",
+                "email": "firma_victoriya@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30435265",
+                "legalName": "Товариство з обмеженою відповідальністю \"ФІРМА \"ВІКТОРІЯ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ФІРМА \"ВІКТОРІЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01021",
+                "region": "Київська",
+                "streetAddress": "вулиця Михайла Грушевського буд. 28\\2 нежиле приміщення 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T12:52:16.338625+03:00"
+        },
+        {
+          "bidder": "40a20a6c3ec244dfbb966459ef0da2e9",
+          "amount": 33830.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-20T09:33:08.899612+03:00"
+        }
+      ],
+      "time": "2015-10-22T12:01:40.661220+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T12:52:16.338625+03:00",
+          "amount": 34000.0,
+          "bidder": "b4036b6df9944ef2adf5ba30ef57f8bb"
+        },
+        {
+          "date": "2015-10-20T09:33:08.899612+03:00",
+          "amount": 33830.0,
+          "bidder": "40a20a6c3ec244dfbb966459ef0da2e9"
+        }
+      ],
+      "time": "2015-10-22T11:40:23.002285+00:00"
+    }
+  },
+  "id": "122bad11a8a742fda42a32b27823033c",
+  "tenderId": "UA-2015-10-16-000210"
+}

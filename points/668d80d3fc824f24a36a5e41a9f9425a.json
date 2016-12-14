@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d77bcf1d67ea4f929dd77025be36af24",
+        "time": "2015-11-25T13:52:54.019406+00:00"
+      },
+      "turn_1": {
+        "bidder": "aeea4171b0e941b3a7c58929beb62d7d",
+        "time": "2015-11-25T13:50:54.007931+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d77bcf1d67ea4f929dd77025be36af24",
+        "time": "2015-11-25T13:58:54.008652+00:00"
+      },
+      "turn_1": {
+        "amount": 2890.0,
+        "bid_time": "2015-11-25T15:55:29.115345+02:00",
+        "bidder": "aeea4171b0e941b3a7c58929beb62d7d",
+        "time": "2015-11-25T13:56:54.008573+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d77bcf1d67ea4f929dd77025be36af24",
+        "time": "2015-11-25T13:46:54.008468+00:00"
+      },
+      "turn_1": {
+        "bidder": "aeea4171b0e941b3a7c58929beb62d7d",
+        "time": "2015-11-25T13:44:54.008798+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d77bcf1d67ea4f929dd77025be36af24",
+          "amount": 2941.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-24T16:09:53.386035+02:00"
+        },
+        {
+          "bidder": "aeea4171b0e941b3a7c58929beb62d7d",
+          "amount": 2890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "249-99-82",
+                "name": "Баргілевич Денис Ігорович",
+                "email": "bargilevi4den@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3466806937",
+                "legalName": "ФОП Баргілевич Денис Ігорович"
+              },
+              "name": "ФОП Баргілевич Денис Ігорович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04078",
+                "region": "Київська",
+                "streetAddress": "вул. Полкова, буд. 55, кв. 54",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-25T15:55:29.115345+02:00"
+        }
+      ],
+      "time": "2015-11-25T13:58:55.770594+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T09:59:05.815760+02:00",
+          "amount": 4000.0,
+          "bidder": "aeea4171b0e941b3a7c58929beb62d7d"
+        },
+        {
+          "date": "2015-11-24T16:09:53.386035+02:00",
+          "amount": 2941.0,
+          "bidder": "d77bcf1d67ea4f929dd77025be36af24"
+        }
+      ],
+      "time": "2015-11-25T13:37:54.004084+00:00"
+    }
+  },
+  "id": "668d80d3fc824f24a36a5e41a9f9425a",
+  "tenderId": "UA-2015-11-16-000086-a"
+}

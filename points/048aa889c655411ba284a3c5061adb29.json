@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 13175.0,
+        "bid_time": "2015-11-03T15:51:38.672485+02:00",
+        "bidder": "2fdcce00b46e4183939dc799eb53ed08",
+        "time": "2015-11-03T13:53:05.009293+00:00"
+      },
+      "turn_2": {
+        "bidder": "50a77cf342144476aed811fa22954a50",
+        "time": "2015-11-03T13:49:05.008679+00:00"
+      },
+      "turn_3": {
+        "amount": 13520.0,
+        "bid_time": "2015-11-03T15:49:22.995419+02:00",
+        "bidder": "2be05a098c144be68acf9c0d1e03cbe2",
+        "time": "2015-11-03T13:51:05.008435+00:00"
+      },
+      "turn_1": {
+        "bidder": "afd9d8fd8dfb49838af3f2637c0f7cec",
+        "time": "2015-11-03T13:47:05.007324+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 12329.0,
+        "bid_time": "2015-11-03T16:02:20.817532+02:00",
+        "bidder": "2fdcce00b46e4183939dc799eb53ed08",
+        "time": "2015-11-03T14:03:05.010071+00:00"
+      },
+      "turn_2": {
+        "bidder": "50a77cf342144476aed811fa22954a50",
+        "time": "2015-11-03T13:59:05.010636+00:00"
+      },
+      "turn_3": {
+        "amount": 12330.0,
+        "bid_time": "2015-11-03T15:59:49.818050+02:00",
+        "bidder": "2be05a098c144be68acf9c0d1e03cbe2",
+        "time": "2015-11-03T14:01:05.009814+00:00"
+      },
+      "turn_1": {
+        "bidder": "afd9d8fd8dfb49838af3f2637c0f7cec",
+        "time": "2015-11-03T13:57:05.006692+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 13575.0,
+        "bid_time": "2015-11-03T15:42:00.416579+02:00",
+        "bidder": "2fdcce00b46e4183939dc799eb53ed08",
+        "time": "2015-11-03T13:43:05.008388+00:00"
+      },
+      "turn_2": {
+        "bidder": "afd9d8fd8dfb49838af3f2637c0f7cec",
+        "time": "2015-11-03T13:39:05.006804+00:00"
+      },
+      "turn_3": {
+        "bidder": "50a77cf342144476aed811fa22954a50",
+        "time": "2015-11-03T13:41:05.006521+00:00"
+      },
+      "turn_1": {
+        "amount": 13920.0,
+        "bid_time": "2015-11-03T15:35:22.380423+02:00",
+        "bidder": "2be05a098c144be68acf9c0d1e03cbe2",
+        "time": "2015-11-03T13:37:05.008037+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "afd9d8fd8dfb49838af3f2637c0f7cec",
+          "amount": 15150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380487327669",
+                "telephone": "+380675592748",
+                "name": "Родімін Олександр Миколайович",
+                "email": "odesaprodukt@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39234533"
+              },
+              "name": "ТОВ ОДЕСАПРОДУКТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65028",
+                "region": "Одеська область",
+                "streetAddress": "вул. Болгарська, буд.55",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-10-31T12:32:00.520246+02:00"
+        },
+        {
+          "bidder": "50a77cf342144476aed811fa22954a50",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380663117140",
+                "name": "Найдйонов Iлля Сергiйович",
+                "email": "Sell.well@yahoo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1409812507"
+              },
+              "name": "ФОП Захарова Г.I.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "25006",
+                "region": "Кіровоградська область",
+                "streetAddress": "Вул. Г. Сталiнграда, 15",
+                "locality": "Кiровоград"
+              }
+            }
+          ],
+          "time": "2015-11-01T21:20:05.786143+02:00"
+        },
+        {
+          "bidder": "2be05a098c144be68acf9c0d1e03cbe2",
+          "amount": 12330.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "734-16-98",
+                "telephone": "734-16-98",
+                "name": "Товариство з обмеженою відповідальністю «Продовольча компанія «Авалон»",
+                "email": "pkavalon@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36154597",
+                "legalName": "Товариство з обмеженою відповідальністю «Продовольча компанія «Авалон»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Продовольча компанія «Авалон»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65003",
+                "region": "Одеська",
+                "streetAddress": "отамана чепіги 112 б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T15:59:49.818050+02:00"
+        },
+        {
+          "bidder": "2fdcce00b46e4183939dc799eb53ed08",
+          "amount": 12329.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0552410780",
+                "telephone": "0552410780",
+                "name": "Мале Приватне Підприємство \"Ритм\"",
+                "email": "klimenko.serj@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24756872",
+                "legalName": "Мале Приватне Підприємство \"Ритм\""
+              },
+              "name": "Мале Приватне Підприємство \"Ритм\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "Миколаївське шосе, 5км",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-03T16:02:20.817532+02:00"
+        }
+      ],
+      "time": "2015-11-03T14:03:12.378831+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-02T14:31:42.701817+02:00",
+          "amount": 15990.0,
+          "bidder": "2be05a098c144be68acf9c0d1e03cbe2"
+        },
+        {
+          "date": "2015-10-31T12:32:00.520246+02:00",
+          "amount": 15150.0,
+          "bidder": "afd9d8fd8dfb49838af3f2637c0f7cec"
+        },
+        {
+          "date": "2015-11-01T21:20:05.786143+02:00",
+          "amount": 15000.0,
+          "bidder": "50a77cf342144476aed811fa22954a50"
+        },
+        {
+          "date": "2015-11-02T15:24:44.201667+02:00",
+          "amount": 13975.0,
+          "bidder": "2fdcce00b46e4183939dc799eb53ed08"
+        }
+      ],
+      "time": "2015-11-03T13:30:05.003792+00:00"
+    }
+  },
+  "id": "048aa889c655411ba284a3c5061adb29",
+  "tenderId": "UA-2015-10-23-000274"
+}

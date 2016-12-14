@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3987c27641f640459f57849e20b9b4ec",
+        "time": "2015-12-16T11:30:32.037428+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e53767dbf40450caa9f891ba4545f91",
+        "time": "2015-12-16T11:32:32.008478+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f44a1502c84b7ab1977d9dd3d2b2aa",
+        "time": "2015-12-16T11:28:32.008692+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3987c27641f640459f57849e20b9b4ec",
+        "time": "2015-12-16T11:38:32.008319+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e53767dbf40450caa9f891ba4545f91",
+        "time": "2015-12-16T11:40:32.038405+00:00"
+      },
+      "turn_1": {
+        "bidder": "70f44a1502c84b7ab1977d9dd3d2b2aa",
+        "time": "2015-12-16T11:36:32.009822+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "70f44a1502c84b7ab1977d9dd3d2b2aa",
+        "time": "2015-12-16T11:22:32.009661+00:00"
+      },
+      "turn_3": {
+        "bidder": "7e53767dbf40450caa9f891ba4545f91",
+        "time": "2015-12-16T11:24:32.008517+00:00"
+      },
+      "turn_1": {
+        "amount": 4899.0,
+        "bid_time": "2015-12-16T13:19:12.516673+02:00",
+        "bidder": "3987c27641f640459f57849e20b9b4ec",
+        "time": "2015-12-16T11:20:32.009103+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "70f44a1502c84b7ab1977d9dd3d2b2aa",
+          "amount": 4900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0971514343",
+                "telephone": "0939978045",
+                "name": "Моллазеінал Вікторія анатоліївна",
+                "email": "info.officeq@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39340952",
+                "legalName": "ТОВ \"ТК \"АСА\""
+              },
+              "name": "ТОВ \"ТК \"АСА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02094",
+                "region": "Київська",
+                "streetAddress": "Краківска 18 А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T13:21:29.077352+02:00"
+        },
+        {
+          "bidder": "3987c27641f640459f57849e20b9b4ec",
+          "amount": 4899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503370490",
+                "name": "Анжелика Луценко",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-16T13:19:12.516673+02:00"
+        },
+        {
+          "bidder": "7e53767dbf40450caa9f891ba4545f91",
+          "amount": 4551.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T18:01:26.221128+02:00"
+        }
+      ],
+      "time": "2015-12-16T11:40:39.573414+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T11:12:12.308343+02:00",
+          "amount": 4998.3,
+          "bidder": "3987c27641f640459f57849e20b9b4ec"
+        },
+        {
+          "date": "2015-12-14T13:21:29.077352+02:00",
+          "amount": 4900.0,
+          "bidder": "70f44a1502c84b7ab1977d9dd3d2b2aa"
+        },
+        {
+          "date": "2015-12-14T18:01:26.221128+02:00",
+          "amount": 4551.6,
+          "bidder": "7e53767dbf40450caa9f891ba4545f91"
+        }
+      ],
+      "time": "2015-12-16T11:13:32.004347+00:00"
+    }
+  },
+  "id": "43b0485dbbd14b8e82fa7f8d23290a05",
+  "tenderId": "UA-2015-12-10-000090-a"
+}

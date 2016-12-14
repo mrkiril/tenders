@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 436000.0,
+        "bid_time": "2015-10-26T11:23:20.378258+02:00",
+        "bidder": "d3f21cea36cc4c64804bbf45bca0de7e",
+        "time": "2015-10-26T09:24:23.008463+00:00"
+      },
+      "turn_3": {
+        "amount": 435200.0,
+        "bid_time": "2015-10-26T11:24:50.402423+02:00",
+        "bidder": "faddae4e23a845678022ce11ebfd96f2",
+        "time": "2015-10-26T09:26:23.010136+00:00"
+      },
+      "turn_1": {
+        "bidder": "725d56e7621e46a8aede9915979ebaeb",
+        "time": "2015-10-26T09:22:23.007462+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 430000.0,
+        "bid_time": "2015-10-26T11:30:57.810302+02:00",
+        "bidder": "d3f21cea36cc4c64804bbf45bca0de7e",
+        "time": "2015-10-26T09:32:23.012559+00:00"
+      },
+      "turn_3": {
+        "amount": 429990.0,
+        "bid_time": "2015-10-26T11:33:11.755469+02:00",
+        "bidder": "faddae4e23a845678022ce11ebfd96f2",
+        "time": "2015-10-26T09:34:23.008702+00:00"
+      },
+      "turn_1": {
+        "bidder": "725d56e7621e46a8aede9915979ebaeb",
+        "time": "2015-10-26T09:30:23.008334+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d3f21cea36cc4c64804bbf45bca0de7e",
+        "time": "2015-10-26T09:16:23.008718+00:00"
+      },
+      "turn_3": {
+        "bidder": "faddae4e23a845678022ce11ebfd96f2",
+        "time": "2015-10-26T09:18:23.007534+00:00"
+      },
+      "turn_1": {
+        "bidder": "725d56e7621e46a8aede9915979ebaeb",
+        "time": "2015-10-26T09:14:23.009252+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "725d56e7621e46a8aede9915979ebaeb",
+          "amount": 441000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tdmetalurgprom.com.ua/",
+                "telephone": "+380443645280",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ТД МЕТАЛУРГПРОМ»",
+                "email": "k.taran@tdmetalurgprom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39450721",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ТД МЕТАЛУРГПРОМ»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ТД МЕТАЛУРГПРОМ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна 03194, м. Київ,                           Проспект Леся Курбаса, буд. 15 В",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T09:51:25.576987+03:00"
+        },
+        {
+          "bidder": "d3f21cea36cc4c64804bbf45bca0de7e",
+          "amount": 430000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675728565",
+                "name": "Мария Романюк",
+                "email": "m-romanyuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36044849",
+                "legalName": "ТОВ \"Земсервіс і К\""
+              },
+              "name": "ТОВ \"Земсервіс і К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "ул. Партизанская 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-26T11:30:57.810302+02:00"
+        },
+        {
+          "bidder": "faddae4e23a845678022ce11ebfd96f2",
+          "amount": 429990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501304320",
+                "name": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»",
+                "email": "petrol-petrol@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39297881",
+                "legalName": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Консалт-Холдінг»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73000, м. Херсон, вул.. Карбишева 11, офіс 33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T11:33:11.755469+02:00"
+        }
+      ],
+      "time": "2015-10-26T09:34:25.801214+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T09:51:25.576987+03:00",
+          "amount": 441000.0,
+          "bidder": "725d56e7621e46a8aede9915979ebaeb"
+        },
+        {
+          "date": "2015-10-20T15:04:51.257530+03:00",
+          "amount": 440000.0,
+          "bidder": "d3f21cea36cc4c64804bbf45bca0de7e"
+        },
+        {
+          "date": "2015-10-22T17:41:12.032597+03:00",
+          "amount": 439200.0,
+          "bidder": "faddae4e23a845678022ce11ebfd96f2"
+        }
+      ],
+      "time": "2015-10-26T09:07:23.004604+00:00"
+    }
+  },
+  "id": "1397f28fd616439cab24228408cb1b56",
+  "tenderId": "UA-2015-10-15-000095"
+}

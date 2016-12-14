@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7a53635a8a35445bb9365f8917e9f78a",
+        "time": "2015-12-01T11:26:10.008131+00:00"
+      },
+      "turn_3": {
+        "bidder": "af89134934c14d13b9cc438eb5d2bbef",
+        "time": "2015-12-01T11:28:10.008409+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c1ab28de8844ebaa787854486d2f4ac",
+        "time": "2015-12-01T11:24:10.007922+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7a53635a8a35445bb9365f8917e9f78a",
+        "time": "2015-12-01T11:34:10.008034+00:00"
+      },
+      "turn_3": {
+        "bidder": "af89134934c14d13b9cc438eb5d2bbef",
+        "time": "2015-12-01T11:36:10.007809+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c1ab28de8844ebaa787854486d2f4ac",
+        "time": "2015-12-01T11:32:10.008012+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7a53635a8a35445bb9365f8917e9f78a",
+        "time": "2015-12-01T11:18:10.008956+00:00"
+      },
+      "turn_3": {
+        "bidder": "af89134934c14d13b9cc438eb5d2bbef",
+        "time": "2015-12-01T11:20:10.007977+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c1ab28de8844ebaa787854486d2f4ac",
+        "time": "2015-12-01T11:16:10.009115+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9c1ab28de8844ebaa787854486d2f4ac",
+          "amount": 7990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-29T21:43:08.682530+02:00"
+        },
+        {
+          "bidder": "7a53635a8a35445bb9365f8917e9f78a",
+          "amount": 7900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.roma.ua",
+                "telephone": "+380442053672",
+                "name": "Товариство з обмеженою відповідальністю \"РОМА-К\"",
+                "email": "kavrk@roma.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31904237",
+                "legalName": "Товариство з обмеженою відповідальністю \"РОМА-К\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"РОМА-К\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03062",
+                "region": "",
+                "streetAddress": "проспект Перемоги, 67",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-30T12:51:56.226991+02:00"
+        },
+        {
+          "bidder": "af89134934c14d13b9cc438eb5d2bbef",
+          "amount": 6600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T12:39:14.564265+02:00"
+        }
+      ],
+      "time": "2015-12-01T11:36:11.513815+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-29T21:43:08.682530+02:00",
+          "amount": 7990.0,
+          "bidder": "9c1ab28de8844ebaa787854486d2f4ac"
+        },
+        {
+          "date": "2015-11-30T12:51:56.226991+02:00",
+          "amount": 7900.0,
+          "bidder": "7a53635a8a35445bb9365f8917e9f78a"
+        },
+        {
+          "date": "2015-11-30T12:39:14.564265+02:00",
+          "amount": 6600.0,
+          "bidder": "af89134934c14d13b9cc438eb5d2bbef"
+        }
+      ],
+      "time": "2015-12-01T11:09:10.005092+00:00"
+    }
+  },
+  "id": "a3a85ca1be86453aae20510266cfa9d8",
+  "tenderId": "UA-2015-11-19-000030"
+}

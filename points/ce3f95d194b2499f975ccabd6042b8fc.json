@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2200.0,
+        "bid_time": "2015-06-19T11:44:25.368168+03:00",
+        "bidder": "61ebcfe7a559435bb9a2ff97e9fb3549",
+        "time": "2015-06-19T08:45:00.519007+00:00"
+      },
+      "turn_1": {
+        "bidder": "cfa4a2724aff498a85e6d3538dd39580",
+        "time": "2015-06-19T08:43:00.061172+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2125.0,
+        "bid_time": "2015-06-19T11:50:58.854110+03:00",
+        "bidder": "61ebcfe7a559435bb9a2ff97e9fb3549",
+        "time": "2015-06-19T08:51:00.133731+00:00"
+      },
+      "turn_1": {
+        "bidder": "cfa4a2724aff498a85e6d3538dd39580",
+        "time": "2015-06-19T08:49:00.067490+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2275.0,
+        "bid_time": "2015-06-19T11:38:12.597500+03:00",
+        "bidder": "61ebcfe7a559435bb9a2ff97e9fb3549",
+        "time": "2015-06-19T08:39:00.222506+00:00"
+      },
+      "turn_1": {
+        "amount": 2350.0,
+        "bid_time": "2015-06-19T11:36:39.976652+03:00",
+        "bidder": "cfa4a2724aff498a85e6d3538dd39580",
+        "time": "2015-06-19T08:37:00.319337+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cfa4a2724aff498a85e6d3538dd39580",
+          "amount": 2350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380 (48) 777-17-74",
+                "name": "Игорь Нечипоренко",
+                "email": "nechiporenko@ardo.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24532240",
+                "legalName": "ПП \"АРДО\""
+              },
+              "name": "ПП \"АРДО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "Одесса, ул. Раскидайловская, 1",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-19T11:36:39.976652+03:00"
+        },
+        {
+          "bidder": "61ebcfe7a559435bb9a2ff97e9fb3549",
+          "amount": 2125.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487435342",
+                "name": "Сергій Олександрович Патерко",
+                "email": "ekeyua@ekeyua.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ЕКЕЙЮА - БІОМЕТРИЧНІ СИСТЕМИ\"",
+                "id": "38941925",
+                "uri": "http://ekeyua.com.ua"
+              },
+              "name": "ТОВ \"ЕКЕЙЮА - БІОМЕТРИЧНІ СИСТЕМИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65012",
+                "region": "Одесская",
+                "streetAddress": "вул. Базарна, 44",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-19T11:50:58.854110+03:00"
+        }
+      ],
+      "time": "2015-06-19T08:51:03.074554+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-16T13:44:55.029437+03:00",
+          "amount": 2500.0,
+          "bidder": "cfa4a2724aff498a85e6d3538dd39580"
+        },
+        {
+          "date": "2015-06-17T12:40:03.289682+03:00",
+          "amount": 2425.0,
+          "bidder": "61ebcfe7a559435bb9a2ff97e9fb3549"
+        }
+      ],
+      "time": "2015-06-19T08:30:00.008280+00:00"
+    }
+  },
+  "id": "ce3f95d194b2499f975ccabd6042b8fc",
+  "tenderId": "UA-2015-06-09-000004"
+}

@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "79bf3bb8048c4f72b3645fc2ba62574e",
+        "time": "2015-09-24T11:17:00.021728+00:00"
+      },
+      "turn_3": {
+        "bidder": "1d938f5aef3947299c6b6f344d651e36",
+        "time": "2015-09-24T11:19:00.025457+00:00"
+      },
+      "turn_1": {
+        "bidder": "041e2c056c324af8bfde2a0fd7887d69",
+        "time": "2015-09-24T11:15:00.081408+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "79bf3bb8048c4f72b3645fc2ba62574e",
+        "time": "2015-09-24T11:25:00.026009+00:00"
+      },
+      "turn_3": {
+        "bidder": "1d938f5aef3947299c6b6f344d651e36",
+        "time": "2015-09-24T11:27:00.025199+00:00"
+      },
+      "turn_1": {
+        "bidder": "041e2c056c324af8bfde2a0fd7887d69",
+        "time": "2015-09-24T11:23:00.012106+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "79bf3bb8048c4f72b3645fc2ba62574e",
+        "time": "2015-09-24T11:09:00.018264+00:00"
+      },
+      "turn_3": {
+        "bidder": "1d938f5aef3947299c6b6f344d651e36",
+        "time": "2015-09-24T11:11:00.030877+00:00"
+      },
+      "turn_1": {
+        "bidder": "041e2c056c324af8bfde2a0fd7887d69",
+        "time": "2015-09-24T11:07:00.034663+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "041e2c056c324af8bfde2a0fd7887d69",
+          "amount": 63082.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-23T11:21:19.837120+03:00"
+        },
+        {
+          "bidder": "79bf3bb8048c4f72b3645fc2ba62574e",
+          "amount": 62480.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-23T17:09:49.238900+03:00"
+        },
+        {
+          "bidder": "1d938f5aef3947299c6b6f344d651e36",
+          "amount": 53053.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kunica.com.ua",
+                "faxNumber": "+380567447606",
+                "telephone": "+380676320993",
+                "name": "Свідунов Ігор Юрійович",
+                "email": "igor_sv@kunica.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19143995"
+              },
+              "name": "ТОВ ТВГ \"КУНІЦА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Шевченка, буд. 37",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-09-23T16:02:52.924265+03:00"
+        }
+      ],
+      "time": "2015-09-24T11:27:09.985617+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T11:21:19.837120+03:00",
+          "amount": 63082.0,
+          "bidder": "041e2c056c324af8bfde2a0fd7887d69"
+        },
+        {
+          "date": "2015-09-23T17:09:49.238900+03:00",
+          "amount": 62480.1,
+          "bidder": "79bf3bb8048c4f72b3645fc2ba62574e"
+        },
+        {
+          "date": "2015-09-23T16:02:52.924265+03:00",
+          "amount": 53053.2,
+          "bidder": "1d938f5aef3947299c6b6f344d651e36"
+        }
+      ],
+      "time": "2015-09-24T11:00:00.001793+00:00"
+    }
+  },
+  "id": "21c4ba45adab49e6a0a54e98fe64b5e4",
+  "tenderId": "UA-2015-09-18-000157"
+}

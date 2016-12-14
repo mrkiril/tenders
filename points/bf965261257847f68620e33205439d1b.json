@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "48c02b115d1a471bbc792980f46cc9a9",
+        "time": "2015-08-12T08:15:00.094878+00:00"
+      },
+      "turn_1": {
+        "bidder": "121bc785305742cebb37edac4b24d56d",
+        "time": "2015-08-12T08:13:00.085316+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "48c02b115d1a471bbc792980f46cc9a9",
+        "time": "2015-08-12T08:21:00.251700+00:00"
+      },
+      "turn_1": {
+        "bidder": "121bc785305742cebb37edac4b24d56d",
+        "time": "2015-08-12T08:19:00.073990+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "48c02b115d1a471bbc792980f46cc9a9",
+        "time": "2015-08-12T08:09:00.172062+00:00"
+      },
+      "turn_1": {
+        "bidder": "121bc785305742cebb37edac4b24d56d",
+        "time": "2015-08-12T08:07:00.053799+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "121bc785305742cebb37edac4b24d56d",
+          "amount": 4596.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573737714",
+                "name": "Частное Предприятие «Триком»",
+                "email": "info@tricom.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36034263",
+                "legalName": "Частное Предприятие «Триком»"
+              },
+              "name": "Частное Предприятие «Триком»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61176, г.Харьков, ул. Корчагинцев 23,кв.37",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T11:45:21.742928+03:00"
+        },
+        {
+          "bidder": "48c02b115d1a471bbc792980f46cc9a9",
+          "amount": 3360.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509257623",
+                "name": "ТОВ \"Фірма Екостар\"",
+                "email": "irina.zemleduh@ecostar.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35042374",
+                "legalName": "ТОВ \"Фірма Екостар\""
+              },
+              "name": "ТОВ \"Фірма Екостар\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49000,м.Дніпропетровськ,Бульвар Слави,14,кв.62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-10T13:08:17.606132+03:00"
+        }
+      ],
+      "time": "2015-08-12T08:21:06.879306+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-05T11:45:21.742928+03:00",
+          "amount": 4596.0,
+          "bidder": "121bc785305742cebb37edac4b24d56d"
+        },
+        {
+          "date": "2015-08-10T13:08:17.606132+03:00",
+          "amount": 3360.0,
+          "bidder": "48c02b115d1a471bbc792980f46cc9a9"
+        }
+      ],
+      "time": "2015-08-12T08:00:00.002018+00:00"
+    }
+  },
+  "id": "bf965261257847f68620e33205439d1b",
+  "tenderId": "UA-2015-08-04-000063"
+}

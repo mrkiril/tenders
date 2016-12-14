@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c50b3cc5534649eaace3fd8be205b590",
+        "time": "2015-09-16T08:47:00.064243+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9bea76cb4854cd6a68ca519dde835cb",
+        "time": "2015-09-16T08:49:00.044401+00:00"
+      },
+      "turn_1": {
+        "bidder": "a737ab5bb2b746949904671cdaac9862",
+        "time": "2015-09-16T08:45:00.148156+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c50b3cc5534649eaace3fd8be205b590",
+        "time": "2015-09-16T08:55:00.053219+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9bea76cb4854cd6a68ca519dde835cb",
+        "time": "2015-09-16T08:57:00.083736+00:00"
+      },
+      "turn_1": {
+        "bidder": "a737ab5bb2b746949904671cdaac9862",
+        "time": "2015-09-16T08:53:00.072896+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c50b3cc5534649eaace3fd8be205b590",
+        "time": "2015-09-16T08:39:00.182321+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9bea76cb4854cd6a68ca519dde835cb",
+        "time": "2015-09-16T08:41:00.050414+00:00"
+      },
+      "turn_1": {
+        "amount": 7500.0,
+        "bid_time": "2015-09-16T11:35:23.189131+03:00",
+        "bidder": "a737ab5bb2b746949904671cdaac9862",
+        "time": "2015-09-16T08:37:00.147455+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a737ab5bb2b746949904671cdaac9862",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-16T11:35:23.189131+03:00"
+        },
+        {
+          "bidder": "c50b3cc5534649eaace3fd8be205b590",
+          "amount": 7344.74,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-14T15:45:42.801963+03:00"
+        },
+        {
+          "bidder": "a9bea76cb4854cd6a68ca519dde835cb",
+          "amount": 7085.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503530287",
+                "name": "Наталья Численко",
+                "email": "promk2@epicentrk.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3249024402",
+                "legalName": "ТОВ \"ЭПИЦЕНТР К\""
+              },
+              "name": "ТОВ \"ЭПИЦЕНТР К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. Кольцевая 1б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-15T15:46:29.525901+03:00"
+        }
+      ],
+      "time": "2015-09-16T08:57:10.929928+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-15T17:04:37.628316+03:00",
+          "amount": 7944.96,
+          "bidder": "a737ab5bb2b746949904671cdaac9862"
+        },
+        {
+          "date": "2015-09-14T15:45:42.801963+03:00",
+          "amount": 7344.74,
+          "bidder": "c50b3cc5534649eaace3fd8be205b590"
+        },
+        {
+          "date": "2015-09-15T15:46:29.525901+03:00",
+          "amount": 7085.0,
+          "bidder": "a9bea76cb4854cd6a68ca519dde835cb"
+        }
+      ],
+      "time": "2015-09-16T08:30:00.001525+00:00"
+    }
+  },
+  "id": "1a9950f64457465190951b61eb2f6551",
+  "tenderId": "UA-2015-09-11-000055"
+}

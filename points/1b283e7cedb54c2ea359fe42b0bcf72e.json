@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "53e6741cee12442fa0dce22da46685bf",
+        "time": "2015-10-23T09:27:54.012636+00:00"
+      },
+      "turn_3": {
+        "bidder": "836c638283c54bf79fcf11dcfc04746f",
+        "time": "2015-10-23T09:29:54.007424+00:00"
+      },
+      "turn_1": {
+        "bidder": "6ed0ffbd777844008028ca1fabc0c03c",
+        "time": "2015-10-23T09:25:54.008086+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2000.0,
+        "bid_time": "2015-10-23T12:35:50.430313+03:00",
+        "bidder": "53e6741cee12442fa0dce22da46685bf",
+        "time": "2015-10-23T09:35:54.008549+00:00"
+      },
+      "turn_3": {
+        "bidder": "836c638283c54bf79fcf11dcfc04746f",
+        "time": "2015-10-23T09:37:54.008559+00:00"
+      },
+      "turn_1": {
+        "bidder": "6ed0ffbd777844008028ca1fabc0c03c",
+        "time": "2015-10-23T09:33:54.013735+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2290.0,
+        "bid_time": "2015-10-23T12:19:34.247209+03:00",
+        "bidder": "836c638283c54bf79fcf11dcfc04746f",
+        "time": "2015-10-23T09:19:54.009982+00:00"
+      },
+      "turn_3": {
+        "bidder": "6ed0ffbd777844008028ca1fabc0c03c",
+        "time": "2015-10-23T09:21:54.010874+00:00"
+      },
+      "turn_1": {
+        "amount": 2300.0,
+        "bid_time": "2015-10-23T12:17:11.552377+03:00",
+        "bidder": "53e6741cee12442fa0dce22da46685bf",
+        "time": "2015-10-23T09:17:54.009781+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6ed0ffbd777844008028ca1fabc0c03c",
+          "amount": 2377.28,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.elementa.com.ua",
+                "telephone": "+380442391667",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ГРУПА КОМПАНІЙ \"ЕЛЕМЕНТАРНА МЕХАНІКА\"",
+                "email": "semegen@elementa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37772864",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ГРУПА КОМПАНІЙ \"ЕЛЕМЕНТАРНА МЕХАНІКА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ГРУПА КОМПАНІЙ \"ЕЛЕМЕНТАРНА МЕХАНІКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03150 Україна\r\nм.Київ,\r\nвул.Івана-Федорова, 6-а к.1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T12:27:09.876268+03:00"
+        },
+        {
+          "bidder": "836c638283c54bf79fcf11dcfc04746f",
+          "amount": 2290.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://energoaliance.ibud.ua/",
+                "telephone": "0445018811, 380672339412",
+                "name": "Андрей Курило ",
+                "email": "energoaliance@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38379381",
+                "legalName": ""
+              },
+              "name": "ТОВ ЕТАМ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Вишневое, 08132, Киевскаяобл., Киево-Святошинский р-он, ул. Черновола, 1а"
+              }
+            }
+          ],
+          "time": "2015-10-23T12:19:34.247209+03:00"
+        },
+        {
+          "bidder": "53e6741cee12442fa0dce22da46685bf",
+          "amount": 2000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674883385",
+                "name": "Юлия  Березовская",
+                "email": "stankonormal@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ОДО \" Станконормаль\" ",
+                "id": "00222321",
+                "uri": "http://stanko-normal.com/"
+              },
+              "name": "ОДО \" Станконормаль\" ",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65098",
+                "region": "Одесская",
+                "streetAddress": "г. Одесса, ул. Партизанская, 16",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-10-23T12:35:50.430313+03:00"
+        }
+      ],
+      "time": "2015-10-23T09:37:55.998842+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T13:32:08.680805+03:00",
+          "amount": 3000.0,
+          "bidder": "53e6741cee12442fa0dce22da46685bf"
+        },
+        {
+          "date": "2015-10-22T10:35:59.860195+03:00",
+          "amount": 2999.0,
+          "bidder": "836c638283c54bf79fcf11dcfc04746f"
+        },
+        {
+          "date": "2015-10-21T12:27:09.876268+03:00",
+          "amount": 2377.28,
+          "bidder": "6ed0ffbd777844008028ca1fabc0c03c"
+        }
+      ],
+      "time": "2015-10-23T09:10:54.004169+00:00"
+    }
+  },
+  "id": "1b283e7cedb54c2ea359fe42b0bcf72e",
+  "tenderId": "UA-2015-10-20-000014"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ea262187999c457a9de26e5e8a1a000e",
+        "time": "2015-09-28T10:58:58.011588+00:00"
+      },
+      "turn_1": {
+        "bidder": "3dee2495a8254f2ea193b8e6f192879e",
+        "time": "2015-09-28T10:56:58.007004+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ea262187999c457a9de26e5e8a1a000e",
+        "time": "2015-09-28T11:04:58.006975+00:00"
+      },
+      "turn_1": {
+        "bidder": "3dee2495a8254f2ea193b8e6f192879e",
+        "time": "2015-09-28T11:02:58.009640+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ea262187999c457a9de26e5e8a1a000e",
+        "time": "2015-09-28T10:52:58.011071+00:00"
+      },
+      "turn_1": {
+        "bidder": "3dee2495a8254f2ea193b8e6f192879e",
+        "time": "2015-09-28T10:50:58.008538+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3dee2495a8254f2ea193b8e6f192879e",
+          "amount": 350800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672430154",
+                "name": "Дмитрий Нижник",
+                "email": "dmitry.nizhnik@bts.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35645596",
+                "legalName": "ТОВ \"СТС-СЕРВІС ЛТД\""
+              },
+              "name": "ТОВ \"СТС-СЕРВІС ЛТД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07300",
+                "region": "",
+                "streetAddress": "Киевская обл. г.Вышгород, ул. Набережная, 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T16:58:11.032786+03:00"
+        },
+        {
+          "bidder": "ea262187999c457a9de26e5e8a1a000e",
+          "amount": 348100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Дмитро",
+                "email": "gip@atep.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39968083",
+                "legalName": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\""
+              },
+              "name": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "вул. Михайлівська, буд. 24-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T13:29:16.231686+03:00"
+        }
+      ],
+      "time": "2015-09-28T11:04:58.752308+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T16:58:11.032786+03:00",
+          "amount": 350800.0,
+          "bidder": "3dee2495a8254f2ea193b8e6f192879e"
+        },
+        {
+          "date": "2015-09-25T13:29:16.231686+03:00",
+          "amount": 348100.0,
+          "bidder": "ea262187999c457a9de26e5e8a1a000e"
+        }
+      ],
+      "time": "2015-09-28T10:43:58.003954+00:00"
+    }
+  },
+  "id": "287682a4b52040a38a736b184222402a",
+  "tenderId": "UA-2015-09-24-000270"
+}

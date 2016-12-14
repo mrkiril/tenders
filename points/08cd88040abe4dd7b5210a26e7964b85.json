@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "959c3757e48a45a7ae327657354ea2ed",
+        "time": "2015-12-10T11:56:51.008111+00:00"
+      },
+      "turn_1": {
+        "bidder": "53be7dd4cb624ee2b1bcc7757822da50",
+        "time": "2015-12-10T11:54:51.008121+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "959c3757e48a45a7ae327657354ea2ed",
+        "time": "2015-12-10T12:02:51.007958+00:00"
+      },
+      "turn_1": {
+        "bidder": "53be7dd4cb624ee2b1bcc7757822da50",
+        "time": "2015-12-10T12:00:51.009290+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "53be7dd4cb624ee2b1bcc7757822da50",
+        "time": "2015-12-10T11:50:51.008305+00:00"
+      },
+      "turn_1": {
+        "amount": 3632.0,
+        "bid_time": "2015-12-10T13:47:04.086422+02:00",
+        "bidder": "959c3757e48a45a7ae327657354ea2ed",
+        "time": "2015-12-10T11:48:51.008918+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "53be7dd4cb624ee2b1bcc7757822da50",
+          "amount": 3800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675069976",
+                "name": "ТОВ \"МТК-ГРУПА\"",
+                "email": "mtkgroup.llc@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39518669",
+                "legalName": "ТОВ \"МТК-ГРУПА\""
+              },
+              "name": "ТОВ \"МТК-ГРУПА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133, м. Київ, вул. Щорса, 32-Б, офіс 1017А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T11:36:19.886876+02:00"
+        },
+        {
+          "bidder": "959c3757e48a45a7ae327657354ea2ed",
+          "amount": 3632.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380992530514",
+                "name": "Лампіга Віта Вікторівна",
+                "email": "office_u@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "40017994"
+              },
+              "name": "ПП ДЗИГА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "37600",
+                "region": "Полтавська область",
+                "streetAddress": "вулиця Незалежності, 2 кв.9",
+                "locality": "Миргород"
+              }
+            }
+          ],
+          "time": "2015-12-10T13:47:04.086422+02:00"
+        }
+      ],
+      "time": "2015-12-10T12:02:52.641942+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T17:48:02.059338+02:00",
+          "amount": 3957.0,
+          "bidder": "959c3757e48a45a7ae327657354ea2ed"
+        },
+        {
+          "date": "2015-12-09T11:36:19.886876+02:00",
+          "amount": 3800.0,
+          "bidder": "53be7dd4cb624ee2b1bcc7757822da50"
+        }
+      ],
+      "time": "2015-12-10T11:41:51.003689+00:00"
+    }
+  },
+  "id": "08cd88040abe4dd7b5210a26e7964b85",
+  "tenderId": "UA-2015-12-03-000042-a"
+}

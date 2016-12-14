@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "10694aad8cce4e1a87bed88d1c356994",
+        "time": "2015-11-20T09:51:13.009465+00:00"
+      },
+      "turn_3": {
+        "bidder": "bef2926b88954bbea4b384924e4f6026",
+        "time": "2015-11-20T09:53:13.010637+00:00"
+      },
+      "turn_1": {
+        "bidder": "b7743cdfef4d41939cc1d3cba66ee607",
+        "time": "2015-11-20T09:49:13.012239+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "10694aad8cce4e1a87bed88d1c356994",
+        "time": "2015-11-20T09:59:13.008728+00:00"
+      },
+      "turn_3": {
+        "bidder": "bef2926b88954bbea4b384924e4f6026",
+        "time": "2015-11-20T10:01:13.012498+00:00"
+      },
+      "turn_1": {
+        "bidder": "b7743cdfef4d41939cc1d3cba66ee607",
+        "time": "2015-11-20T09:57:13.010333+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "10694aad8cce4e1a87bed88d1c356994",
+        "time": "2015-11-20T09:43:13.012294+00:00"
+      },
+      "turn_3": {
+        "bidder": "bef2926b88954bbea4b384924e4f6026",
+        "time": "2015-11-20T09:45:13.011098+00:00"
+      },
+      "turn_1": {
+        "amount": 5700.0,
+        "bid_time": "2015-11-20T11:39:39.149873+02:00",
+        "bidder": "b7743cdfef4d41939cc1d3cba66ee607",
+        "time": "2015-11-20T09:41:13.014254+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b7743cdfef4d41939cc1d3cba66ee607",
+          "amount": 5700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.reagent.ua/",
+                "telephone": "0504522085",
+                "name": "Олена Протащук ",
+                "email": "reagent@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13433137",
+                "legalName": ""
+              },
+              "name": "ПрАТ \"Реагент\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49019, Дніпропетровськ, вул.Ударників,27"
+              }
+            }
+          ],
+          "time": "2015-11-20T11:39:39.149873+02:00"
+        },
+        {
+          "bidder": "10694aad8cce4e1a87bed88d1c356994",
+          "amount": 3990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444072432",
+                "name": "Фізична особа-підприємець Борейко Олександр Вікторович",
+                "email": "maruna-1982@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2289813898",
+                "legalName": "Фізична особа-підприємець Борейко Олександр Вікторович"
+              },
+              "name": "Фізична особа-підприємець Борейко Олександр Вікторович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "04060, м. Київ,\r\nвул. Олени Теліги, 25б, кв.19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T13:05:17.147860+02:00"
+        },
+        {
+          "bidder": "bef2926b88954bbea4b384924e4f6026",
+          "amount": 1712.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-409-06-19",
+                "telephone": "044-409-06-19",
+                "name": "Лісова Лариса Степанівна",
+                "email": "info@aksept.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38506076",
+                "legalName": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"АКЦЕПТ ЛД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Підлісна, 6 кв.151",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T16:09:11.857033+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:01:27.997917+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T12:34:31.116534+02:00",
+          "amount": 5900.0,
+          "bidder": "b7743cdfef4d41939cc1d3cba66ee607"
+        },
+        {
+          "date": "2015-11-18T13:05:17.147860+02:00",
+          "amount": 3990.0,
+          "bidder": "10694aad8cce4e1a87bed88d1c356994"
+        },
+        {
+          "date": "2015-11-19T16:09:11.857033+02:00",
+          "amount": 1712.0,
+          "bidder": "bef2926b88954bbea4b384924e4f6026"
+        }
+      ],
+      "time": "2015-11-20T09:34:13.003920+00:00"
+    }
+  },
+  "id": "06b577c26a7144548d4707d37c61df54",
+  "tenderId": "UA-2015-11-17-000030"
+}

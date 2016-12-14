@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9bb758c607e74b8c99b9cfb9161d0f9c",
+        "time": "2015-12-07T12:59:38.008635+00:00"
+      },
+      "turn_1": {
+        "bidder": "d05c5d855993478ca66041140ce31647",
+        "time": "2015-12-07T12:57:38.007810+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9bb758c607e74b8c99b9cfb9161d0f9c",
+        "time": "2015-12-07T13:05:38.025987+00:00"
+      },
+      "turn_1": {
+        "bidder": "d05c5d855993478ca66041140ce31647",
+        "time": "2015-12-07T13:03:38.008936+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9bb758c607e74b8c99b9cfb9161d0f9c",
+        "time": "2015-12-07T12:53:38.010448+00:00"
+      },
+      "turn_1": {
+        "bidder": "d05c5d855993478ca66041140ce31647",
+        "time": "2015-12-07T12:51:38.009218+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d05c5d855993478ca66041140ce31647",
+          "amount": 7194.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-04T10:25:37.698272+02:00"
+        },
+        {
+          "bidder": "9bb758c607e74b8c99b9cfb9161d0f9c",
+          "amount": 7000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://safecity.in.ua",
+                "telephone": "+380503941500",
+                "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+                "email": "aleksey@safecity.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38945856",
+                "legalName": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\""
+              },
+              "name": "ТОВ \"БЕЗПЕЧНЕ МІСТО ПІВДЕНЬ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "НИКОЛАЕВСКАЯ ОБЛ.",
+                "streetAddress": "вул. Адміральська, буд. 1, корп.1, кв. 18, м. Миколаїв, 54030",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-12-02T22:45:13.907422+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:05:39.761993+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T10:25:37.698272+02:00",
+          "amount": 7194.0,
+          "bidder": "d05c5d855993478ca66041140ce31647"
+        },
+        {
+          "date": "2015-12-02T22:45:13.907422+02:00",
+          "amount": 7000.0,
+          "bidder": "9bb758c607e74b8c99b9cfb9161d0f9c"
+        }
+      ],
+      "time": "2015-12-07T12:44:38.004909+00:00"
+    }
+  },
+  "id": "1791bc138f0d4ada8db43e5c148d502d",
+  "tenderId": "UA-2015-11-27-000051"
+}

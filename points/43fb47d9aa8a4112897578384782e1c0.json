@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6af2bc556ed744058d54e05c3b2629d8",
+        "time": "2015-10-16T10:23:43.010585+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd9a67e8acd7428189fe8b30dc866b5e",
+        "time": "2015-10-16T10:21:43.011904+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6af2bc556ed744058d54e05c3b2629d8",
+        "time": "2015-10-16T10:29:43.006650+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd9a67e8acd7428189fe8b30dc866b5e",
+        "time": "2015-10-16T10:27:43.013036+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6af2bc556ed744058d54e05c3b2629d8",
+        "time": "2015-10-16T10:17:43.006559+00:00"
+      },
+      "turn_1": {
+        "bidder": "fd9a67e8acd7428189fe8b30dc866b5e",
+        "time": "2015-10-16T10:15:43.006609+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fd9a67e8acd7428189fe8b30dc866b5e",
+          "amount": 3249900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://mik.co.ua/",
+                "telephone": "+380997870711",
+                "name": "Тоовариство з обмеженною відповідальністю \"МіК\"",
+                "email": "natasha1104@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30105738",
+                "legalName": "Тоовариство з обмеженною відповідальністю \"МіК\""
+              },
+              "name": "Тоовариство з обмеженною відповідальністю \"МіК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69006, Україна, Запоріжжя, Північне шосе, 69-я",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T14:24:38.398373+03:00"
+        },
+        {
+          "bidder": "6af2bc556ed744058d54e05c3b2629d8",
+          "amount": 3240000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412-418-692   , +380674117746",
+                "name": "Лариса Смоленец",
+                "email": "tov_tusmo@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13548679",
+                "legalName": "ТОВ \"ТУСМО\""
+              },
+              "name": "ТОВ \"ТУСМО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10006",
+                "region": "Житомирская",
+                "streetAddress": "ул.Денишовская,4",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-10-15T18:09:44.051614+03:00"
+        }
+      ],
+      "time": "2015-10-16T10:29:44.671770+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-15T14:24:38.398373+03:00",
+          "amount": 3249900.0,
+          "bidder": "fd9a67e8acd7428189fe8b30dc866b5e"
+        },
+        {
+          "date": "2015-10-15T18:09:44.051614+03:00",
+          "amount": 3240000.0,
+          "bidder": "6af2bc556ed744058d54e05c3b2629d8"
+        }
+      ],
+      "time": "2015-10-16T10:08:43.003816+00:00"
+    }
+  },
+  "id": "43fb47d9aa8a4112897578384782e1c0",
+  "tenderId": "UA-2015-10-07-000201"
+}

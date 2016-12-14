@@ -1,0 +1,125 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 39900.0,
+        "bid_time": "2015-09-18T12:14:49.759291+03:00",
+        "bidder": "9d14439ed4cb42b597a5f5533c4eba68",
+        "time": "2015-09-18T09:15:00.075506+00:00"
+      },
+      "turn_1": {
+        "amount": 40000.0,
+        "bid_time": "2015-09-18T12:12:20.987799+03:00",
+        "bidder": "46f13238c337432c8ab5e9538d40688e",
+        "time": "2015-09-18T09:13:00.048222+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 29999.0,
+        "bid_time": "2015-09-18T12:19:30.510080+03:00",
+        "bidder": "9d14439ed4cb42b597a5f5533c4eba68",
+        "time": "2015-09-18T09:21:00.033819+00:00"
+      },
+      "turn_1": {
+        "amount": 30000.0,
+        "bid_time": "2015-09-18T12:17:10.498693+03:00",
+        "bidder": "46f13238c337432c8ab5e9538d40688e",
+        "time": "2015-09-18T09:19:00.030422+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 54700.0,
+        "bid_time": "2015-09-18T12:07:09.807495+03:00",
+        "bidder": "46f13238c337432c8ab5e9538d40688e",
+        "time": "2015-09-18T09:09:00.100347+00:00"
+      },
+      "turn_1": {
+        "amount": 50000.0,
+        "bid_time": "2015-09-18T12:05:38.098974+03:00",
+        "bidder": "9d14439ed4cb42b597a5f5533c4eba68",
+        "time": "2015-09-18T09:07:00.056517+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "46f13238c337432c8ab5e9538d40688e",
+          "amount": 30000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.symmetron.ua",
+                "telephone": "+0380679660923",
+                "name": "ООО Симметрон-Украина",
+                "email": "oyatsenko64@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31089864",
+                "legalName": "ООО Симметрон-Украина"
+              },
+              "name": "ООО Симметрон-Украина",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Киев, марины Расковой 13",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T12:17:10.498693+03:00"
+        },
+        {
+          "bidder": "9d14439ed4cb42b597a5f5533c4eba68",
+          "amount": 29999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://nika.vin.ua/",
+                "faxNumber": "0432554188",
+                "telephone": "0504611387",
+                "name": "Мудраченко Віктор Григорович",
+                "email": "mvic@vinnitsa.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13304598",
+                "legalName": "ТОВ НІКА"
+              },
+              "name": "ТОВ НІКА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21009",
+                "region": "Вінницька",
+                "streetAddress": "Київська 14Б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-18T12:19:30.510080+03:00"
+        }
+      ],
+      "time": "2015-09-18T09:21:06.841609+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-14T14:25:41.855272+03:00",
+          "amount": 59000.0,
+          "bidder": "9d14439ed4cb42b597a5f5533c4eba68"
+        },
+        {
+          "date": "2015-09-16T14:48:53.132767+03:00",
+          "amount": 55000.0,
+          "bidder": "46f13238c337432c8ab5e9538d40688e"
+        }
+      ],
+      "time": "2015-09-18T09:00:00.015655+00:00"
+    }
+  },
+  "id": "96017698fad148a49abef9ef81db93b5",
+  "tenderId": "UA-2015-09-09-000074"
+}

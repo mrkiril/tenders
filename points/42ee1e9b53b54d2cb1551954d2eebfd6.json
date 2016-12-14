@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bdba083c4bbd4ad28890e506cbff84d5",
+        "time": "2015-12-03T12:17:14.007519+00:00"
+      },
+      "turn_3": {
+        "bidder": "60eb29edd2eb42019a93fedd474b2416",
+        "time": "2015-12-03T12:19:14.007239+00:00"
+      },
+      "turn_1": {
+        "amount": 3978.0,
+        "bid_time": "2015-12-03T14:15:02.763776+02:00",
+        "bidder": "c1ed03d8b8214e338df1722d49a77c00",
+        "time": "2015-12-03T12:15:14.008340+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c1ed03d8b8214e338df1722d49a77c00",
+        "time": "2015-12-03T12:25:14.016018+00:00"
+      },
+      "turn_3": {
+        "bidder": "60eb29edd2eb42019a93fedd474b2416",
+        "time": "2015-12-03T12:27:14.006399+00:00"
+      },
+      "turn_1": {
+        "bidder": "bdba083c4bbd4ad28890e506cbff84d5",
+        "time": "2015-12-03T12:23:14.007429+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bdba083c4bbd4ad28890e506cbff84d5",
+        "time": "2015-12-03T12:09:14.007283+00:00"
+      },
+      "turn_3": {
+        "bidder": "60eb29edd2eb42019a93fedd474b2416",
+        "time": "2015-12-03T12:11:14.007582+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1ed03d8b8214e338df1722d49a77c00",
+        "time": "2015-12-03T12:07:14.007446+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bdba083c4bbd4ad28890e506cbff84d5",
+          "amount": 3980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T18:27:04.931989+02:00"
+        },
+        {
+          "bidder": "c1ed03d8b8214e338df1722d49a77c00",
+          "amount": 3978.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:15:02.763776+02:00"
+        },
+        {
+          "bidder": "60eb29edd2eb42019a93fedd474b2416",
+          "amount": 3507.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T17:31:52.126451+02:00"
+        }
+      ],
+      "time": "2015-12-03T12:27:16.202194+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T15:28:00.498749+02:00",
+          "amount": 3997.08,
+          "bidder": "c1ed03d8b8214e338df1722d49a77c00"
+        },
+        {
+          "date": "2015-12-02T18:27:04.931989+02:00",
+          "amount": 3980.0,
+          "bidder": "bdba083c4bbd4ad28890e506cbff84d5"
+        },
+        {
+          "date": "2015-12-02T17:31:52.126451+02:00",
+          "amount": 3507.0,
+          "bidder": "60eb29edd2eb42019a93fedd474b2416"
+        }
+      ],
+      "time": "2015-12-03T12:00:14.003298+00:00"
+    }
+  },
+  "id": "42ee1e9b53b54d2cb1551954d2eebfd6",
+  "tenderId": "UA-2015-11-28-000005-a"
+}

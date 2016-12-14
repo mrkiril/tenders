@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9f9880bdf5e44f6f831544dfb8c47951",
+        "time": "2015-12-10T12:31:51.012972+00:00"
+      },
+      "turn_3": {
+        "bidder": "b90a24bccedc453a940a482ad9042e35",
+        "time": "2015-12-10T12:33:51.008140+00:00"
+      },
+      "turn_1": {
+        "bidder": "ac8efaaae96c45e6944ec8e4bdec254b",
+        "time": "2015-12-10T12:29:51.006350+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9f9880bdf5e44f6f831544dfb8c47951",
+        "time": "2015-12-10T12:39:51.010346+00:00"
+      },
+      "turn_3": {
+        "amount": 1674.0,
+        "bid_time": "2015-12-10T14:41:12.011727+02:00",
+        "bidder": "b90a24bccedc453a940a482ad9042e35",
+        "time": "2015-12-10T12:41:51.009069+00:00"
+      },
+      "turn_1": {
+        "bidder": "ac8efaaae96c45e6944ec8e4bdec254b",
+        "time": "2015-12-10T12:37:51.013067+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1774.0,
+        "bid_time": "2015-12-10T14:23:09.908085+02:00",
+        "bidder": "b90a24bccedc453a940a482ad9042e35",
+        "time": "2015-12-10T12:23:51.008771+00:00"
+      },
+      "turn_3": {
+        "bidder": "ac8efaaae96c45e6944ec8e4bdec254b",
+        "time": "2015-12-10T12:25:51.007804+00:00"
+      },
+      "turn_1": {
+        "amount": 1790.0,
+        "bid_time": "2015-12-10T14:20:02.730096+02:00",
+        "bidder": "9f9880bdf5e44f6f831544dfb8c47951",
+        "time": "2015-12-10T12:21:51.007971+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ac8efaaae96c45e6944ec8e4bdec254b",
+          "amount": 1800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676791162",
+                "name": "Владимир",
+                "email": "gammacentr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2412206990",
+                "legalName": "ФОП Квятковский Владимир Сафронович"
+              },
+              "name": "ФОП Квятковский Владимир Сафронович",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-09T12:59:22.571432+02:00"
+        },
+        {
+          "bidder": "9f9880bdf5e44f6f831544dfb8c47951",
+          "amount": 1790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://flagservice.com.ua/",
+                "telephone": "380505308812",
+                "name": "Станислав Беркутов ",
+                "email": "flagser3@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35634123",
+                "legalName": "ПП \"ПРІМСЕРВІС\" "
+              },
+              "name": "ЧП Примсервис",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-10T14:20:02.730096+02:00"
+        },
+        {
+          "bidder": "b90a24bccedc453a940a482ad9042e35",
+          "amount": 1674.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vashimage.at.ua",
+                "telephone": "+380577561746",
+                "name": "Петров Вадим Володимирович",
+                "email": "vashimage@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37190898"
+              },
+              "name": "ТОВ ВАШІМІДЖ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61001",
+                "region": "Харківська область",
+                "streetAddress": "Якіра, 3, кв.25",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-10T14:41:12.011727+02:00"
+        }
+      ],
+      "time": "2015-12-10T12:41:52.840717+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T11:01:23.736074+02:00",
+          "amount": 1990.0,
+          "bidder": "9f9880bdf5e44f6f831544dfb8c47951"
+        },
+        {
+          "date": "2015-12-08T00:24:45.982840+02:00",
+          "amount": 1874.0,
+          "bidder": "b90a24bccedc453a940a482ad9042e35"
+        },
+        {
+          "date": "2015-12-09T12:59:22.571432+02:00",
+          "amount": 1800.0,
+          "bidder": "ac8efaaae96c45e6944ec8e4bdec254b"
+        }
+      ],
+      "time": "2015-12-10T12:14:51.004482+00:00"
+    }
+  },
+  "id": "133477948fb443f0958e39bea8bb6554",
+  "tenderId": "UA-2015-12-06-000014-a"
+}

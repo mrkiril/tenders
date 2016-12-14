@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bc2712d4d8f741969c562af79fe2c35b",
+        "time": "2015-12-16T09:52:43.010375+00:00"
+      },
+      "turn_3": {
+        "bidder": "19f858e0fea34d1081d9c00d3f767835",
+        "time": "2015-12-16T09:54:43.018158+00:00"
+      },
+      "turn_1": {
+        "bidder": "53c26b5f7e19477f93b712bfb2bd1be5",
+        "time": "2015-12-16T09:50:43.014369+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bc2712d4d8f741969c562af79fe2c35b",
+        "time": "2015-12-16T10:00:43.008264+00:00"
+      },
+      "turn_3": {
+        "amount": 33465.0,
+        "bid_time": "2015-12-16T12:01:52.019140+02:00",
+        "bidder": "19f858e0fea34d1081d9c00d3f767835",
+        "time": "2015-12-16T10:02:43.010377+00:00"
+      },
+      "turn_1": {
+        "bidder": "53c26b5f7e19477f93b712bfb2bd1be5",
+        "time": "2015-12-16T09:58:43.024298+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bc2712d4d8f741969c562af79fe2c35b",
+        "time": "2015-12-16T09:44:43.023687+00:00"
+      },
+      "turn_3": {
+        "bidder": "19f858e0fea34d1081d9c00d3f767835",
+        "time": "2015-12-16T09:46:43.013386+00:00"
+      },
+      "turn_1": {
+        "bidder": "53c26b5f7e19477f93b712bfb2bd1be5",
+        "time": "2015-12-16T09:42:43.011514+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "53c26b5f7e19477f93b712bfb2bd1be5",
+          "amount": 34500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675659652",
+                "name": "Марианна Катаева",
+                "email": "kataeva@mashina-rg.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3045424035",
+                "legalName": "ФОП \"Пироженко О.О.\""
+              },
+              "name": "ФОП \"Пироженко О.О.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49061",
+                "region": "Днепропетровская",
+                "streetAddress": "пр. Кирова, 115 кв 45",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-14T18:41:45.687137+02:00"
+        },
+        {
+          "bidder": "bc2712d4d8f741969c562af79fe2c35b",
+          "amount": 34500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.eclipse.cn.ua",
+                "faxNumber": "652000",
+                "telephone": "0931550055",
+                "name": "Ільзіт Денис Вікторович",
+                "email": "ilzit@ibox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34759835",
+                "legalName": "Приватне підприємство Екліпсе"
+              },
+              "name": "Приватне підприємство Екліпсе",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "14038",
+                "region": "ЧЕРНИГОВСКАЯ ОБЛ.",
+                "streetAddress": "Молодчого 44, офіс 1",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-12-14T17:42:21.973066+02:00"
+        },
+        {
+          "bidder": "19f858e0fea34d1081d9c00d3f767835",
+          "amount": 33465.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380456051449, +380967291620",
+                "name": "Сергій Міцінский",
+                "email": "sm_kray@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39871817",
+                "legalName": "ТОВ \"ЛІТО ДРУК\""
+              },
+              "name": "ТОВ \"ЛІТО ДРУК\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "09800",
+                "region": "Киевская",
+                "streetAddress": "вул. Комсомольська,6",
+                "locality": "Тетіїв"
+              }
+            }
+          ],
+          "time": "2015-12-16T12:01:52.019140+02:00"
+        }
+      ],
+      "time": "2015-12-16T10:02:45.090577+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T10:45:26.151075+02:00",
+          "amount": 34500.0,
+          "bidder": "19f858e0fea34d1081d9c00d3f767835"
+        },
+        {
+          "date": "2015-12-14T17:42:21.973066+02:00",
+          "amount": 34500.0,
+          "bidder": "bc2712d4d8f741969c562af79fe2c35b"
+        },
+        {
+          "date": "2015-12-14T18:41:45.687137+02:00",
+          "amount": 34500.0,
+          "bidder": "53c26b5f7e19477f93b712bfb2bd1be5"
+        }
+      ],
+      "time": "2015-12-16T09:35:43.003587+00:00"
+    }
+  },
+  "id": "dc14ae9614c74ae88d6befe1634d1f8e",
+  "tenderId": "UA-2015-12-10-000169-a"
+}

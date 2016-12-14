@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f8427c0951384b10a535f3355a9431d0",
+        "time": "2015-07-03T08:15:00.615861+00:00"
+      },
+      "turn_1": {
+        "bidder": "53d4d8ddfd364bf8a85e855768d72fa5",
+        "time": "2015-07-03T08:13:00.531932+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f8427c0951384b10a535f3355a9431d0",
+        "time": "2015-07-03T08:21:00.242520+00:00"
+      },
+      "turn_1": {
+        "bidder": "53d4d8ddfd364bf8a85e855768d72fa5",
+        "time": "2015-07-03T08:19:00.370581+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f8427c0951384b10a535f3355a9431d0",
+        "time": "2015-07-03T08:09:00.123715+00:00"
+      },
+      "turn_1": {
+        "bidder": "53d4d8ddfd364bf8a85e855768d72fa5",
+        "time": "2015-07-03T08:07:00.235424+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "53d4d8ddfd364bf8a85e855768d72fa5",
+          "amount": 700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38050-390-62-75",
+                "name": "Ірина Нікітіна",
+                "email": "nikitina@4mail.od.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13906156",
+                "legalName": "ТОВ \"ТРІАДА\""
+              },
+              "name": "ТОВ \"ТРІАДА\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65045",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул.Нечипуренка, буд.15",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-07-01T16:38:47.274180+03:00"
+        },
+        {
+          "bidder": "f8427c0951384b10a535f3355a9431d0",
+          "amount": 698.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380487771601",
+                "telephone": "+380503906275",
+                "name": "Нікітіна Ірина Анатоліївна",
+                "email": "nikitina@4mail.od.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13906156"
+              },
+              "name": "ТОВ ТРІАДА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65014",
+                "region": "Одеська область",
+                "streetAddress": "бул.Лідерсовський,5 оф.№167",
+                "locality": "Одеса"
+              }
+            }
+          ],
+          "time": "2015-07-02T12:03:34.427707+03:00"
+        }
+      ],
+      "time": "2015-07-03T08:21:10.930210+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-01T16:38:47.274180+03:00",
+          "amount": 700.0,
+          "bidder": "53d4d8ddfd364bf8a85e855768d72fa5"
+        },
+        {
+          "date": "2015-07-02T12:03:34.427707+03:00",
+          "amount": 698.0,
+          "bidder": "f8427c0951384b10a535f3355a9431d0"
+        }
+      ],
+      "time": "2015-07-03T08:00:00.083660+00:00"
+    }
+  },
+  "id": "9ced9c094dda41829418f1e957870ed8",
+  "tenderId": "UA-2015-06-25-000149"
+}

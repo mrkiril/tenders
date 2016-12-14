@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d93cad4c71b94388aa9707f4ebf5d976",
+        "time": "2015-04-01T11:15:00.022667+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f1f6a54e7b4a00a87447736eb2ef62",
+        "time": "2015-04-01T11:13:00.093634+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d93cad4c71b94388aa9707f4ebf5d976",
+        "time": "2015-04-01T11:21:00.118641+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f1f6a54e7b4a00a87447736eb2ef62",
+        "time": "2015-04-01T11:19:00.148830+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d93cad4c71b94388aa9707f4ebf5d976",
+        "time": "2015-04-01T11:09:00.192602+00:00"
+      },
+      "turn_1": {
+        "bidder": "a9f1f6a54e7b4a00a87447736eb2ef62",
+        "time": "2015-04-01T11:07:00.064666+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a9f1f6a54e7b4a00a87447736eb2ef62",
+          "amount": 3300000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Нільга Костянтин",
+                "email": "tallegprom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360806",
+                "legalName": "ТОВ \"ВО \"Таллегпром\""
+              },
+              "name": "ТОВ \"ВО \"Таллегпром\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02660",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. М. Раскової, 21, оф. 801-1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-03-31T14:30:06.563647+00:00"
+        },
+        {
+          "bidder": "d93cad4c71b94388aa9707f4ebf5d976",
+          "amount": 2213280.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442233911",
+                "name": "ТОВ «УКРАЇНСЬКА БРОНЯ»",
+                "email": "saleinfo@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39360764",
+                "legalName": "ТОВ «УКРАЇНСЬКА БРОНЯ»"
+              },
+              "name": "ТОВ «УКРАЇНСЬКА БРОНЯ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01054, Україна, м. Київ, вул. Ярославів Вал, 29В",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-03-31T08:59:29.191667+00:00"
+        }
+      ],
+      "time": "2015-04-01T11:21:04.169209+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-03-31T14:30:06.563647+00:00",
+          "amount": 3300000.0,
+          "bidder": "a9f1f6a54e7b4a00a87447736eb2ef62"
+        },
+        {
+          "date": "2015-03-31T08:59:29.191667+00:00",
+          "amount": 2213280.0,
+          "bidder": "d93cad4c71b94388aa9707f4ebf5d976"
+        }
+      ],
+      "time": "2015-04-01T11:00:00.007758+00:00"
+    }
+  },
+  "id": "f5c7423ddee242cf99a50cdd0656c8f8",
+  "tenderId": "UA-2015-03-20-000003"
+}

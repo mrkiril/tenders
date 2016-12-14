@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "991d65eb07984f18a4234962b99bf7f0",
+        "time": "2015-10-21T11:18:00.008760+00:00"
+      },
+      "turn_1": {
+        "bidder": "020c102aeacb4fe0a88ecd32e3ddf8ea",
+        "time": "2015-10-21T11:16:00.012488+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "991d65eb07984f18a4234962b99bf7f0",
+        "time": "2015-10-21T11:24:00.013516+00:00"
+      },
+      "turn_1": {
+        "amount": 394.0,
+        "bid_time": "2015-10-21T14:20:18.707628+03:00",
+        "bidder": "020c102aeacb4fe0a88ecd32e3ddf8ea",
+        "time": "2015-10-21T11:22:00.009892+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "991d65eb07984f18a4234962b99bf7f0",
+        "time": "2015-10-21T11:12:00.015341+00:00"
+      },
+      "turn_1": {
+        "amount": 396.0,
+        "bid_time": "2015-10-21T14:08:12.445437+03:00",
+        "bidder": "020c102aeacb4fe0a88ecd32e3ddf8ea",
+        "time": "2015-10-21T11:10:00.013520+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "020c102aeacb4fe0a88ecd32e3ddf8ea",
+          "amount": 394.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443832625, +380503304534, +380975910928, +380634337667",
+                "name": "Олег Шакура",
+                "email": "oleg8942@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"СПД Шакура\"",
+                "id": "2845203573",
+                "uri": "http://shakura.prom.ua/"
+              },
+              "name": "ФОП \"СПД Шакура\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03056",
+                "region": "Киевская",
+                "streetAddress": "ул. Борщаговская, 148",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-21T14:20:18.707628+03:00"
+        },
+        {
+          "bidder": "991d65eb07984f18a4234962b99bf7f0",
+          "amount": 80.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-20T19:25:14.740226+03:00"
+        }
+      ],
+      "time": "2015-10-21T11:24:02.111720+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-20T00:36:09.789923+03:00",
+          "amount": 398.0,
+          "bidder": "020c102aeacb4fe0a88ecd32e3ddf8ea"
+        },
+        {
+          "date": "2015-10-20T19:25:14.740226+03:00",
+          "amount": 80.0,
+          "bidder": "991d65eb07984f18a4234962b99bf7f0"
+        }
+      ],
+      "time": "2015-10-21T11:03:00.004515+00:00"
+    }
+  },
+  "id": "bf847c3f300540e794ab9c0ac7a4452e",
+  "tenderId": "UA-2015-10-16-000026"
+}

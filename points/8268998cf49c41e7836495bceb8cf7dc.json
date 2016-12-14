@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e3bbaf05851e47568c1f5c04ec10248f",
+        "time": "2015-06-03T08:45:00.046737+00:00"
+      },
+      "turn_1": {
+        "bidder": "66299ab845d54840b5b6df9b8e601657",
+        "time": "2015-06-03T08:43:00.104903+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e3bbaf05851e47568c1f5c04ec10248f",
+        "time": "2015-06-03T08:51:00.260880+00:00"
+      },
+      "turn_1": {
+        "bidder": "66299ab845d54840b5b6df9b8e601657",
+        "time": "2015-06-03T08:49:00.062746+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e3bbaf05851e47568c1f5c04ec10248f",
+        "time": "2015-06-03T08:39:00.029181+00:00"
+      },
+      "turn_1": {
+        "bidder": "66299ab845d54840b5b6df9b8e601657",
+        "time": "2015-06-03T08:37:00.079902+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "66299ab845d54840b5b6df9b8e601657",
+          "amount": 20024.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pragma-ua.com",
+                "telephone": "+3800445010664",
+                "name": "ООО ПРАГМА Т",
+                "email": "pragma_t@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38150547",
+                "legalName": "ООО ПРАГМА Т"
+              },
+              "name": "ООО ПРАГМА Т",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина г.Киев ул. Киквидзе 5 оф.308",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-26T16:42:07.295709+03:00"
+        },
+        {
+          "bidder": "e3bbaf05851e47568c1f5c04ec10248f",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442518265",
+                "name": "СТАЛЕПРОМИСЛОВА КОМПАНІЯ-УКРАЇНА",
+                "email": "spkukr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39113574",
+                "legalName": "СТАЛЕПРОМИСЛОВА КОМПАНІЯ-УКРАЇНА"
+              },
+              "name": "СТАЛЕПРОМИСЛОВА КОМПАНІЯ-УКРАЇНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Борщагівська, 117, м. Київ, 03056",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-02T10:40:31.113060+03:00"
+        }
+      ],
+      "time": "2015-06-03T08:51:03.725428+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-26T16:42:07.295709+03:00",
+          "amount": 20024.0,
+          "bidder": "66299ab845d54840b5b6df9b8e601657"
+        },
+        {
+          "date": "2015-06-02T10:40:31.113060+03:00",
+          "amount": 20000.0,
+          "bidder": "e3bbaf05851e47568c1f5c04ec10248f"
+        }
+      ],
+      "time": "2015-06-03T08:30:00.039116+00:00"
+    }
+  },
+  "id": "8268998cf49c41e7836495bceb8cf7dc",
+  "tenderId": "UA-2015-05-22-000018"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1825db54651942b3af7480edd337ab23",
+        "time": "2015-08-31T08:45:00.085339+00:00"
+      },
+      "turn_1": {
+        "bidder": "68d2c296c1eb4cd08a86fae9979ad667",
+        "time": "2015-08-31T08:43:00.026012+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1825db54651942b3af7480edd337ab23",
+        "time": "2015-08-31T08:51:00.063378+00:00"
+      },
+      "turn_1": {
+        "bidder": "68d2c296c1eb4cd08a86fae9979ad667",
+        "time": "2015-08-31T08:49:00.047181+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1825db54651942b3af7480edd337ab23",
+        "time": "2015-08-31T08:39:00.044130+00:00"
+      },
+      "turn_1": {
+        "bidder": "68d2c296c1eb4cd08a86fae9979ad667",
+        "time": "2015-08-31T08:37:00.051058+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "68d2c296c1eb4cd08a86fae9979ad667",
+          "amount": 10900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0472328348",
+                "telephone": "0472328348",
+                "name": "Сватков Сергій Іванович",
+                "email": "ssvatkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34257839",
+                "legalName": "ПП \"Салон\"Софт\""
+              },
+              "name": "ПП \"Салон\"Софт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "18023",
+                "region": "ЧЕРКАССКАЯ ОБЛ.",
+                "streetAddress": "Котовського, 73",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T14:21:34.784866+03:00"
+        },
+        {
+          "bidder": "1825db54651942b3af7480edd337ab23",
+          "amount": 10800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0472328348",
+                "telephone": "0674706691",
+                "name": "Сватков Сергій Іванович",
+                "email": "fopsvatkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2582801937",
+                "legalName": "ФОП Сватков Сергій Іванович"
+              },
+              "name": "ФОП Сватков Сергій Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "18034",
+                "region": "Черкаська",
+                "streetAddress": "Луначарського, 13, кв.21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-27T16:00:52.963553+03:00"
+        }
+      ],
+      "time": "2015-08-31T08:51:05.350238+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-27T14:21:34.784866+03:00",
+          "amount": 10900.0,
+          "bidder": "68d2c296c1eb4cd08a86fae9979ad667"
+        },
+        {
+          "date": "2015-08-27T16:00:52.963553+03:00",
+          "amount": 10800.0,
+          "bidder": "1825db54651942b3af7480edd337ab23"
+        }
+      ],
+      "time": "2015-08-31T08:30:00.003945+00:00"
+    }
+  },
+  "id": "20ee0cf82a974f309e62906de2cf2b78",
+  "tenderId": "UA-2015-08-25-000018"
+}

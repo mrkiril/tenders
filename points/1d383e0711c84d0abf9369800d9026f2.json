@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "636d486a0bcc45ab8ebe687556498a71",
+        "time": "2015-10-15T10:22:10.013325+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f6fdf5a104346c98ebdb6522014a542",
+        "time": "2015-10-15T10:24:10.007283+00:00"
+      },
+      "turn_1": {
+        "bidder": "3130cfa03df5468e95a4c7aab5de276f",
+        "time": "2015-10-15T10:20:10.008923+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "636d486a0bcc45ab8ebe687556498a71",
+        "time": "2015-10-15T10:30:10.012387+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f6fdf5a104346c98ebdb6522014a542",
+        "time": "2015-10-15T10:32:10.008230+00:00"
+      },
+      "turn_1": {
+        "bidder": "3130cfa03df5468e95a4c7aab5de276f",
+        "time": "2015-10-15T10:28:10.007646+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 954600.0,
+        "bid_time": "2015-10-15T13:13:12.649685+03:00",
+        "bidder": "636d486a0bcc45ab8ebe687556498a71",
+        "time": "2015-10-15T10:14:10.011147+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f6fdf5a104346c98ebdb6522014a542",
+        "time": "2015-10-15T10:16:10.010610+00:00"
+      },
+      "turn_1": {
+        "bidder": "3130cfa03df5468e95a4c7aab5de276f",
+        "time": "2015-10-15T10:12:10.008212+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3130cfa03df5468e95a4c7aab5de276f",
+          "amount": 1092017.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://euroformat.com/",
+                "faxNumber": "044-459-03-86",
+                "telephone": "044-494-35-35",
+                "name": "Лучицький Вячеслав Борисович",
+                "email": "v.luchytskyi@euroformat.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31724919",
+                "legalName": "Товариство з обмеженою відповідальністю \"Завод Євроформат\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Завод Євроформат\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "вул. Куренівська, 21 літ.Г",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T10:06:12.689041+03:00"
+        },
+        {
+          "bidder": "636d486a0bcc45ab8ebe687556498a71",
+          "amount": 954600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://masterlift.com.ua",
+                "faxNumber": "498-43-32",
+                "telephone": "498-43-32",
+                "name": "Бондар Вячєслав Іванович",
+                "email": "v.i.bondar@masterlift.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33308688",
+                "legalName": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «МАЙСТЕРЛІФТ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "провулок Куренівський, 17, літера Ш",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T13:13:12.649685+03:00"
+        },
+        {
+          "bidder": "1f6fdf5a104346c98ebdb6522014a542",
+          "amount": 830030.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.unit-l.com",
+                "faxNumber": "0445661853",
+                "telephone": "0445661826",
+                "name": "Манжола Олександр Миколайович",
+                "email": "info@unit-l.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32423953",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЮНІТ-Л\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЮНІТ-Л\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04071",
+                "region": "Київська",
+                "streetAddress": "Костянтинівська, 2а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T16:42:42.017961+03:00"
+        }
+      ],
+      "time": "2015-10-15T10:32:12.358421+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T10:06:12.689041+03:00",
+          "amount": 1092017.0,
+          "bidder": "3130cfa03df5468e95a4c7aab5de276f"
+        },
+        {
+          "date": "2015-10-09T09:34:54.088134+03:00",
+          "amount": 1045616.0,
+          "bidder": "636d486a0bcc45ab8ebe687556498a71"
+        },
+        {
+          "date": "2015-10-09T16:42:42.017961+03:00",
+          "amount": 830030.0,
+          "bidder": "1f6fdf5a104346c98ebdb6522014a542"
+        }
+      ],
+      "time": "2015-10-15T10:05:10.003426+00:00"
+    }
+  },
+  "id": "1d383e0711c84d0abf9369800d9026f2",
+  "tenderId": "UA-2015-10-07-000413"
+}

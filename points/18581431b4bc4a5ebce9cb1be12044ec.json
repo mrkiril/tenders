@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bb271ea581b84b6f8396145eb0ebe02f",
+        "time": "2015-10-28T09:26:44.009359+00:00"
+      },
+      "turn_1": {
+        "bidder": "537b6ca011da4266996b7b4a1f364904",
+        "time": "2015-10-28T09:24:44.012492+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bb271ea581b84b6f8396145eb0ebe02f",
+        "time": "2015-10-28T09:32:44.008567+00:00"
+      },
+      "turn_1": {
+        "bidder": "537b6ca011da4266996b7b4a1f364904",
+        "time": "2015-10-28T09:30:44.009342+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bb271ea581b84b6f8396145eb0ebe02f",
+        "time": "2015-10-28T09:20:44.013752+00:00"
+      },
+      "turn_1": {
+        "bidder": "537b6ca011da4266996b7b4a1f364904",
+        "time": "2015-10-28T09:18:44.012565+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "537b6ca011da4266996b7b4a1f364904",
+          "amount": 5405.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T16:24:04.163673+02:00"
+        },
+        {
+          "bidder": "bb271ea581b84b6f8396145eb0ebe02f",
+          "amount": 4050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-27T08:51:56.354864+02:00"
+        }
+      ],
+      "time": "2015-10-28T09:32:46.445698+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T16:24:04.163673+02:00",
+          "amount": 5405.0,
+          "bidder": "537b6ca011da4266996b7b4a1f364904"
+        },
+        {
+          "date": "2015-10-27T08:51:56.354864+02:00",
+          "amount": 4050.0,
+          "bidder": "bb271ea581b84b6f8396145eb0ebe02f"
+        }
+      ],
+      "time": "2015-10-28T09:11:44.004942+00:00"
+    }
+  },
+  "id": "18581431b4bc4a5ebce9cb1be12044ec",
+  "tenderId": "UA-2015-10-22-000008"
+}

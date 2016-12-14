@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "97c754ed8bed4f67aa4d21a1b1ced6bd",
+        "time": "2015-09-25T10:45:00.047033+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c6146da71624eef94732119e3f6fab5",
+        "time": "2015-09-25T10:43:00.011078+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "97c754ed8bed4f67aa4d21a1b1ced6bd",
+        "time": "2015-09-25T10:51:00.014744+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c6146da71624eef94732119e3f6fab5",
+        "time": "2015-09-25T10:49:00.022956+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "97c754ed8bed4f67aa4d21a1b1ced6bd",
+        "time": "2015-09-25T10:39:00.017585+00:00"
+      },
+      "turn_1": {
+        "bidder": "5c6146da71624eef94732119e3f6fab5",
+        "time": "2015-09-25T10:37:00.026270+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5c6146da71624eef94732119e3f6fab5",
+          "amount": 1148280.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gmail.com",
+                "faxNumber": "+380974034252",
+                "telephone": "+380974034252",
+                "name": "Тригуб Олена Володимирівна",
+                "email": "trygub1980@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2597907586"
+              },
+              "name": "ФОП Хірська Наталія Володимирівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01054",
+                "region": "Київська область",
+                "streetAddress": "вул. Павлівська, 4-8, кв. 8",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-24T17:39:22.827413+03:00"
+        },
+        {
+          "bidder": "97c754ed8bed4f67aa4d21a1b1ced6bd",
+          "amount": 1106000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679431245",
+                "name": "Юля  Бондарчук",
+                "email": "koviza@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3275118624",
+                "legalName": "ФОП Ковиза А.С."
+              },
+              "name": "ФОП Ковиза А.С.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04209 ",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-24T17:28:25.813324+03:00"
+        }
+      ],
+      "time": "2015-09-25T10:51:01.236339+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-24T17:39:22.827413+03:00",
+          "amount": 1148280.0,
+          "bidder": "5c6146da71624eef94732119e3f6fab5"
+        },
+        {
+          "date": "2015-09-24T17:28:25.813324+03:00",
+          "amount": 1106000.0,
+          "bidder": "97c754ed8bed4f67aa4d21a1b1ced6bd"
+        }
+      ],
+      "time": "2015-09-25T10:30:00.002497+00:00"
+    }
+  },
+  "id": "1f448d4e21744240910993eff49c49b4",
+  "tenderId": "UA-2015-09-18-000192"
+}

@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d092e7f592f1469fbada8a2a8f99b07c",
+        "time": "2015-08-31T08:17:00.086906+00:00"
+      },
+      "turn_3": {
+        "bidder": "c7e0fbc71ff24e56ab71d4dc8ad43fd4",
+        "time": "2015-08-31T08:19:00.086273+00:00"
+      },
+      "turn_1": {
+        "bidder": "987a88cde83f455886857b88578290dc",
+        "time": "2015-08-31T08:15:00.124216+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 8999.0,
+        "bid_time": "2015-08-31T11:24:07.697878+03:00",
+        "bidder": "d092e7f592f1469fbada8a2a8f99b07c",
+        "time": "2015-08-31T08:25:00.070574+00:00"
+      },
+      "turn_3": {
+        "amount": 8900.0,
+        "bid_time": "2015-08-31T11:25:38.320010+03:00",
+        "bidder": "c7e0fbc71ff24e56ab71d4dc8ad43fd4",
+        "time": "2015-08-31T08:27:00.057633+00:00"
+      },
+      "turn_1": {
+        "bidder": "987a88cde83f455886857b88578290dc",
+        "time": "2015-08-31T08:23:00.028998+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 12800.0,
+        "bid_time": "2015-08-31T11:08:12.414286+03:00",
+        "bidder": "987a88cde83f455886857b88578290dc",
+        "time": "2015-08-31T08:09:00.073874+00:00"
+      },
+      "turn_3": {
+        "amount": 9995.0,
+        "bid_time": "2015-08-31T11:09:33.680208+03:00",
+        "bidder": "c7e0fbc71ff24e56ab71d4dc8ad43fd4",
+        "time": "2015-08-31T08:11:00.062890+00:00"
+      },
+      "turn_1": {
+        "amount": 10000.0,
+        "bid_time": "2015-08-31T11:05:09.174719+03:00",
+        "bidder": "d092e7f592f1469fbada8a2a8f99b07c",
+        "time": "2015-08-31T08:07:00.063277+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "987a88cde83f455886857b88578290dc",
+          "amount": 12800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0681161996",
+                "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+                "email": "prompostavkaltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39084219",
+                "legalName": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ПРОМПОСТАВКА ЛТД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54038",
+                "region": "Миколаївська",
+                "streetAddress": "вулиця Морехідна, буд. 1-В/3, кв. 111",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-31T11:08:12.414286+03:00"
+        },
+        {
+          "bidder": "d092e7f592f1469fbada8a2a8f99b07c",
+          "amount": 8999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tbkmarket.com.ua",
+                "telephone": "+380993366872",
+                "name": "ТОВ \"Транс-Буд-Континент\"",
+                "email": "t-b-k@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38234925",
+                "legalName": "ТОВ \"Транс-Буд-Континент\""
+              },
+              "name": "ТОВ \"Транс-Буд-Континент\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080.м. Київ вул.Межигірська буд.82-а офіс.104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-31T11:24:07.697878+03:00"
+        },
+        {
+          "bidder": "c7e0fbc71ff24e56ab71d4dc8ad43fd4",
+          "amount": 8900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-08-31T11:25:38.320010+03:00"
+        }
+      ],
+      "time": "2015-08-31T08:27:08.538220+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-28T11:13:53.026609+03:00",
+          "amount": 16979.88,
+          "bidder": "d092e7f592f1469fbada8a2a8f99b07c"
+        },
+        {
+          "date": "2015-08-26T13:49:36.162293+03:00",
+          "amount": 16800.0,
+          "bidder": "987a88cde83f455886857b88578290dc"
+        },
+        {
+          "date": "2015-08-27T09:33:04.316083+03:00",
+          "amount": 10495.8,
+          "bidder": "c7e0fbc71ff24e56ab71d4dc8ad43fd4"
+        }
+      ],
+      "time": "2015-08-31T08:00:00.001378+00:00"
+    }
+  },
+  "id": "11dd5b7d481d440fb9f740c56d1f91b0",
+  "tenderId": "UA-2015-08-25-000017"
+}

@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1150.0,
+        "bid_time": "2015-11-18T14:52:11.050317+02:00",
+        "bidder": "a0cb81b71af84e61828a24e1647605ef",
+        "time": "2015-11-18T12:53:57.010569+00:00"
+      },
+      "turn_1": {
+        "amount": 1200.0,
+        "bid_time": "2015-11-18T14:50:43.852693+02:00",
+        "bidder": "cd9425f5ec424a91b38cd38c49dacea1",
+        "time": "2015-11-18T12:51:57.013765+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a0cb81b71af84e61828a24e1647605ef",
+        "time": "2015-11-18T12:59:57.009463+00:00"
+      },
+      "turn_1": {
+        "amount": 850.0,
+        "bid_time": "2015-11-18T14:56:19.827215+02:00",
+        "bidder": "cd9425f5ec424a91b38cd38c49dacea1",
+        "time": "2015-11-18T12:57:57.011928+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1450.0,
+        "bid_time": "2015-11-18T14:46:17.008067+02:00",
+        "bidder": "a0cb81b71af84e61828a24e1647605ef",
+        "time": "2015-11-18T12:47:57.010488+00:00"
+      },
+      "turn_1": {
+        "amount": 1500.0,
+        "bid_time": "2015-11-18T14:45:04.249871+02:00",
+        "bidder": "cd9425f5ec424a91b38cd38c49dacea1",
+        "time": "2015-11-18T12:45:57.010980+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a0cb81b71af84e61828a24e1647605ef",
+          "amount": 1150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675379737",
+                "name": "Евгений",
+                "email": "pozduma@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36924944",
+                "legalName": "ПП \"Пождума\""
+              },
+              "name": "ПП \"Пождума\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01015",
+                "region": "Киевская",
+                "streetAddress": "Цитадельная д. 6/8",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:52:11.050317+02:00"
+        },
+        {
+          "bidder": "cd9425f5ec424a91b38cd38c49dacea1",
+          "amount": 850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443619538",
+                "name": "Ромасько Сергій Олександрович",
+                "email": "2940028@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32489197"
+              },
+              "name": "ПП ЕЛЕКТРОПРОМТЕХ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02154",
+                "region": "Київська область",
+                "streetAddress": "вул. Русанівська набережна, 10/1, кв. 105",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:56:19.827215+02:00"
+        }
+      ],
+      "time": "2015-11-18T12:59:58.780391+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T09:12:59.755174+02:00",
+          "amount": 2750.0,
+          "bidder": "cd9425f5ec424a91b38cd38c49dacea1"
+        },
+        {
+          "date": "2015-11-13T15:47:47.689656+02:00",
+          "amount": 2000.0,
+          "bidder": "a0cb81b71af84e61828a24e1647605ef"
+        }
+      ],
+      "time": "2015-11-18T12:38:57.004695+00:00"
+    }
+  },
+  "id": "c2a32516084a4cc49016f577ced9246f",
+  "tenderId": "UA-2015-11-10-000141-a"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a710b65e6c5d42f5992a57790e8408b8",
+        "time": "2015-12-08T12:21:48.008145+00:00"
+      },
+      "turn_1": {
+        "amount": 17900.0,
+        "bid_time": "2015-12-08T14:17:57.662035+02:00",
+        "bidder": "74461eba795a47a5b1da4933a0feee67",
+        "time": "2015-12-08T12:19:48.121579+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a710b65e6c5d42f5992a57790e8408b8",
+        "time": "2015-12-08T12:27:48.010756+00:00"
+      },
+      "turn_1": {
+        "bidder": "74461eba795a47a5b1da4933a0feee67",
+        "time": "2015-12-08T12:25:48.008274+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a710b65e6c5d42f5992a57790e8408b8",
+        "time": "2015-12-08T12:15:48.007791+00:00"
+      },
+      "turn_1": {
+        "bidder": "74461eba795a47a5b1da4933a0feee67",
+        "time": "2015-12-08T12:13:48.007760+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "74461eba795a47a5b1da4933a0feee67",
+          "amount": 17900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.brizanta.com",
+                "faxNumber": "+380563757765",
+                "telephone": "+380563757788",
+                "name": "Остапова Альона Олександрівна",
+                "email": "oa.brizanta@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38676852"
+              },
+              "name": "ТОВ БРІЗАНТА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49005",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Олеся Гончара, 28А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:17:57.662035+02:00"
+        },
+        {
+          "bidder": "a710b65e6c5d42f5992a57790e8408b8",
+          "amount": 17800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.avidan.com.ua",
+                "faxNumber": "+380443903261",
+                "telephone": "+380443903261",
+                "name": "Восходова Ганна Евгенівна",
+                "email": "a.voskhodova@avidan.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38648406"
+              },
+              "name": "ТОВ АВІДАН",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02660",
+                "region": "Київська область",
+                "streetAddress": "Марини Раскової 23",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-05T12:52:39.872816+02:00"
+        }
+      ],
+      "time": "2015-12-08T12:27:49.767475+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T10:07:32.439382+02:00",
+          "amount": 18000.0,
+          "bidder": "74461eba795a47a5b1da4933a0feee67"
+        },
+        {
+          "date": "2015-12-05T12:52:39.872816+02:00",
+          "amount": 17800.0,
+          "bidder": "a710b65e6c5d42f5992a57790e8408b8"
+        }
+      ],
+      "time": "2015-12-08T12:06:48.003368+00:00"
+    }
+  },
+  "id": "38aaa61402a448819dc3b759a67bbd7f",
+  "tenderId": "UA-2015-12-02-000018-b"
+}

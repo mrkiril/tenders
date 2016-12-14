@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "7b7defb06c534c89b38ef09acbef5730",
+        "time": "2015-10-05T11:27:36.008107+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cc1c1c9fc3f41d39e4f5ef2b647016b",
+        "time": "2015-10-05T11:25:36.007407+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7b7defb06c534c89b38ef09acbef5730",
+        "time": "2015-10-05T11:33:36.007564+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cc1c1c9fc3f41d39e4f5ef2b647016b",
+        "time": "2015-10-05T11:31:36.006922+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "7b7defb06c534c89b38ef09acbef5730",
+        "time": "2015-10-05T11:21:36.035426+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cc1c1c9fc3f41d39e4f5ef2b647016b",
+        "time": "2015-10-05T11:19:36.008038+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5cc1c1c9fc3f41d39e4f5ef2b647016b",
+          "amount": 4.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0486322530",
+                "telephone": "0675588151",
+                "name": "Найфлейш Давид Володимирович",
+                "email": "naifleish@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1774709573",
+                "legalName": "ФОП Найфлейш Давид Володимирович"
+              },
+              "name": "ФОП Найфлейш Давид Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська",
+                "streetAddress": "Нелазежності 10а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-29T13:18:05.920800+03:00"
+        },
+        {
+          "bidder": "7b7defb06c534c89b38ef09acbef5730",
+          "amount": 2.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380486321342",
+                "telephone": "+380982941211",
+                "name": "Мигуш Олег Вікторович",
+                "email": "ananiv-hleb@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32037691"
+              },
+              "name": "ПП Ананьїв хліб",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "66400",
+                "region": "Одеська область",
+                "streetAddress": "м. Ананьїв вул. Пушкіна 71",
+                "locality": "Ананьїв"
+              }
+            }
+          ],
+          "time": "2015-09-29T09:08:57.840103+03:00"
+        }
+      ],
+      "time": "2015-10-05T11:33:38.330209+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-29T13:18:05.920800+03:00",
+          "amount": 4.6,
+          "bidder": "5cc1c1c9fc3f41d39e4f5ef2b647016b"
+        },
+        {
+          "date": "2015-09-29T09:08:57.840103+03:00",
+          "amount": 2.8,
+          "bidder": "7b7defb06c534c89b38ef09acbef5730"
+        }
+      ],
+      "time": "2015-10-05T11:12:36.004282+00:00"
+    }
+  },
+  "id": "ad816ba2042249e3894026e14a9ac4e9",
+  "tenderId": "UA-2015-09-28-000211"
+}

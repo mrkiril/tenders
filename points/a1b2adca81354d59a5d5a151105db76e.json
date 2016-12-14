@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "88c76b939a894b34bf19be5100c9dd3a",
+        "time": "2015-12-17T10:58:05.010980+00:00"
+      },
+      "turn_1": {
+        "bidder": "6a9cc28bc63f4c0eb7814a2dc1dd8cba",
+        "time": "2015-12-17T10:56:05.006588+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "88c76b939a894b34bf19be5100c9dd3a",
+        "time": "2015-12-17T11:04:05.010043+00:00"
+      },
+      "turn_1": {
+        "bidder": "6a9cc28bc63f4c0eb7814a2dc1dd8cba",
+        "time": "2015-12-17T11:02:05.012693+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "88c76b939a894b34bf19be5100c9dd3a",
+        "time": "2015-12-17T10:52:05.007223+00:00"
+      },
+      "turn_1": {
+        "amount": 19351.0,
+        "bid_time": "2015-12-17T12:48:47.822692+02:00",
+        "bidder": "6a9cc28bc63f4c0eb7814a2dc1dd8cba",
+        "time": "2015-12-17T10:50:05.008795+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6a9cc28bc63f4c0eb7814a2dc1dd8cba",
+          "amount": 19351.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.karatcarpet.com",
+                "telephone": "+380673800108",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАРАТ\"",
+                "email": "t.zvarich@karatcarpet.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21328928",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАРАТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАРАТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Хмельницький, вул. Проскурівська, 20",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-17T12:48:47.822692+02:00"
+        },
+        {
+          "bidder": "88c76b939a894b34bf19be5100c9dd3a",
+          "amount": 15840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.enita.com.ua",
+                "faxNumber": "+380564104505",
+                "telephone": "+380679119090",
+                "name": "Зубар Олексій Миколайович",
+                "email": "danila_m@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3197921332"
+              },
+              "name": "ФОП Маслов Д.І.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "50004",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Плеханова 93",
+                "locality": "Кривий Ріг"
+              }
+            }
+          ],
+          "time": "2015-12-15T13:59:58.977491+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:04:08.892524+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T08:40:31.534266+02:00",
+          "amount": 19999.0,
+          "bidder": "6a9cc28bc63f4c0eb7814a2dc1dd8cba"
+        },
+        {
+          "date": "2015-12-15T13:59:58.977491+02:00",
+          "amount": 15840.0,
+          "bidder": "88c76b939a894b34bf19be5100c9dd3a"
+        }
+      ],
+      "time": "2015-12-17T10:43:05.001929+00:00"
+    }
+  },
+  "id": "a1b2adca81354d59a5d5a151105db76e",
+  "tenderId": "UA-2015-12-07-000004-b"
+}

@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1080.0,
+        "bid_time": "2015-11-13T12:21:10.399944+02:00",
+        "bidder": "8a57e7dabdbe40ea9d3a91db0c30d3f3",
+        "time": "2015-11-13T10:22:32.008542+00:00"
+      },
+      "turn_3": {
+        "bidder": "f0f8175f86cd41d887daa40f0e22afe5",
+        "time": "2015-11-13T10:24:32.013731+00:00"
+      },
+      "turn_1": {
+        "bidder": "3aa3551ecbdf43a5baa6472a1b031fab",
+        "time": "2015-11-13T10:20:32.032000+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 983.0,
+        "bid_time": "2015-11-13T12:28:54.715455+02:00",
+        "bidder": "f0f8175f86cd41d887daa40f0e22afe5",
+        "time": "2015-11-13T10:30:32.008851+00:00"
+      },
+      "turn_3": {
+        "bidder": "8a57e7dabdbe40ea9d3a91db0c30d3f3",
+        "time": "2015-11-13T10:32:32.007616+00:00"
+      },
+      "turn_1": {
+        "bidder": "3aa3551ecbdf43a5baa6472a1b031fab",
+        "time": "2015-11-13T10:28:32.007546+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1200.0,
+        "bid_time": "2015-11-13T12:13:43.412829+02:00",
+        "bidder": "8a57e7dabdbe40ea9d3a91db0c30d3f3",
+        "time": "2015-11-13T10:14:32.009573+00:00"
+      },
+      "turn_3": {
+        "amount": 1095.0,
+        "bid_time": "2015-11-13T12:15:33.211998+02:00",
+        "bidder": "f0f8175f86cd41d887daa40f0e22afe5",
+        "time": "2015-11-13T10:16:32.008971+00:00"
+      },
+      "turn_1": {
+        "bidder": "3aa3551ecbdf43a5baa6472a1b031fab",
+        "time": "2015-11-13T10:12:32.007655+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3aa3551ecbdf43a5baa6472a1b031fab",
+          "amount": 1744.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-12T12:35:49.735043+02:00"
+        },
+        {
+          "bidder": "8a57e7dabdbe40ea9d3a91db0c30d3f3",
+          "amount": 1080.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503415974",
+                "name": "Товариство з обмеженою відповідальністю \"Біном\"",
+                "email": "binomzap@ukrpost.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19271888",
+                "legalName": "Товариство з обмеженою відповідальністю \"Біном\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Біном\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Руставі. 5, к. 99 м Запоріжжя 69093",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-13T12:21:10.399944+02:00"
+        },
+        {
+          "bidder": "f0f8175f86cd41d887daa40f0e22afe5",
+          "amount": 983.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952793624",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-11-13T12:28:54.715455+02:00"
+        }
+      ],
+      "time": "2015-11-13T10:32:35.063434+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T12:35:49.735043+02:00",
+          "amount": 1744.8,
+          "bidder": "3aa3551ecbdf43a5baa6472a1b031fab"
+        },
+        {
+          "date": "2015-11-12T11:42:30.080325+02:00",
+          "amount": 1511.18,
+          "bidder": "8a57e7dabdbe40ea9d3a91db0c30d3f3"
+        },
+        {
+          "date": "2015-11-11T12:53:39.675712+02:00",
+          "amount": 1207.62,
+          "bidder": "f0f8175f86cd41d887daa40f0e22afe5"
+        }
+      ],
+      "time": "2015-11-13T10:05:32.003026+00:00"
+    }
+  },
+  "id": "2225c2c5fbba45769871f931573c1ad6",
+  "tenderId": "UA-2015-11-05-000254"
+}

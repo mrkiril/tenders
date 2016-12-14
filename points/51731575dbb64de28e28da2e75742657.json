@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5eceb84f373042cd9014f2925972cf99",
+        "time": "2015-10-13T12:01:58.012716+00:00"
+      },
+      "turn_3": {
+        "bidder": "f73fa3986f05488183518f8235268088",
+        "time": "2015-10-13T12:03:58.009607+00:00"
+      },
+      "turn_1": {
+        "bidder": "f16cb0e186b14348bfb170e3eb8c8b82",
+        "time": "2015-10-13T11:59:58.010710+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5eceb84f373042cd9014f2925972cf99",
+        "time": "2015-10-13T12:09:58.008959+00:00"
+      },
+      "turn_3": {
+        "bidder": "f73fa3986f05488183518f8235268088",
+        "time": "2015-10-13T12:11:58.008452+00:00"
+      },
+      "turn_1": {
+        "bidder": "f16cb0e186b14348bfb170e3eb8c8b82",
+        "time": "2015-10-13T12:07:58.007021+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5eceb84f373042cd9014f2925972cf99",
+        "time": "2015-10-13T11:53:58.012413+00:00"
+      },
+      "turn_3": {
+        "bidder": "f73fa3986f05488183518f8235268088",
+        "time": "2015-10-13T11:55:58.017399+00:00"
+      },
+      "turn_1": {
+        "bidder": "f16cb0e186b14348bfb170e3eb8c8b82",
+        "time": "2015-10-13T11:51:58.010103+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f16cb0e186b14348bfb170e3eb8c8b82",
+          "amount": 15260.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.interext.com.ua",
+                "faxNumber": "+380445843959",
+                "telephone": "+380445843959",
+                "name": "Федорович Олег Валерійович",
+                "email": "interext@ya.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23708824"
+              },
+              "name": "ТОВ Інтерекст LTD",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01014",
+                "region": "Київська область",
+                "streetAddress": "Тимірязівська,2",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-12T16:32:37.447605+03:00"
+        },
+        {
+          "bidder": "5eceb84f373042cd9014f2925972cf99",
+          "amount": 11318.88,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-12T14:41:08.534105+03:00"
+        },
+        {
+          "bidder": "f73fa3986f05488183518f8235268088",
+          "amount": 10353.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-12T17:07:50.839969+03:00"
+        }
+      ],
+      "time": "2015-10-13T12:12:00.364292+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-12T16:32:37.447605+03:00",
+          "amount": 15260.0,
+          "bidder": "f16cb0e186b14348bfb170e3eb8c8b82"
+        },
+        {
+          "date": "2015-10-12T14:41:08.534105+03:00",
+          "amount": 11318.88,
+          "bidder": "5eceb84f373042cd9014f2925972cf99"
+        },
+        {
+          "date": "2015-10-12T17:07:50.839969+03:00",
+          "amount": 10353.3,
+          "bidder": "f73fa3986f05488183518f8235268088"
+        }
+      ],
+      "time": "2015-10-13T11:44:58.005752+00:00"
+    }
+  },
+  "id": "51731575dbb64de28e28da2e75742657",
+  "tenderId": "UA-2015-10-08-000158"
+}

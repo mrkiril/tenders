@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "623913dd541e4eefb1d5a0182df4c85f",
+        "time": "2015-08-25T09:17:00.039852+00:00"
+      },
+      "turn_3": {
+        "bidder": "6a3c897fdca94fae83fb34c5d6660165",
+        "time": "2015-08-25T09:19:00.052476+00:00"
+      },
+      "turn_1": {
+        "bidder": "432fbed32bb143168e58cd101615c3a3",
+        "time": "2015-08-25T09:15:00.108308+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "623913dd541e4eefb1d5a0182df4c85f",
+        "time": "2015-08-25T09:25:00.018988+00:00"
+      },
+      "turn_3": {
+        "bidder": "6a3c897fdca94fae83fb34c5d6660165",
+        "time": "2015-08-25T09:27:00.021059+00:00"
+      },
+      "turn_1": {
+        "bidder": "432fbed32bb143168e58cd101615c3a3",
+        "time": "2015-08-25T09:23:00.018714+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "623913dd541e4eefb1d5a0182df4c85f",
+        "time": "2015-08-25T09:09:00.034777+00:00"
+      },
+      "turn_3": {
+        "bidder": "6a3c897fdca94fae83fb34c5d6660165",
+        "time": "2015-08-25T09:11:00.029237+00:00"
+      },
+      "turn_1": {
+        "bidder": "432fbed32bb143168e58cd101615c3a3",
+        "time": "2015-08-25T09:07:00.036197+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "432fbed32bb143168e58cd101615c3a3",
+          "amount": 11500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://virgosnab.com.ua",
+                "telephone": "+380503023100",
+                "name": "ПП \"Вірго Инвест Украина\"",
+                "email": "prom@virgosnab.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35476725",
+                "legalName": "ПП \"Вірго Инвест Украина\""
+              },
+              "name": "ПП \"Вірго Инвест Украина\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61140, Харківська обл., Харків, пр. Гагаріна, буд.№94 кв.136",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T17:30:39.851235+03:00"
+        },
+        {
+          "bidder": "623913dd541e4eefb1d5a0182df4c85f",
+          "amount": 11499.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://robotun.com.ua",
+                "telephone": "+380443611717",
+                "name": "ТОВ \"Роботун ПРО\"",
+                "email": "vadym.st@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39079675",
+                "legalName": "ТОВ \"Роботун ПРО\""
+              },
+              "name": "ТОВ \"Роботун ПРО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "04070, г. Киев, ул. Спасская, 31-Б, оф. 102",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-08-21T15:57:26.774437+03:00"
+        },
+        {
+          "bidder": "6a3c897fdca94fae83fb34c5d6660165",
+          "amount": 8910.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "380990123254, 0567324501",
+                "name": "Антон Сидый ",
+                "email": "dneproinmash@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36960652",
+                "legalName": ""
+              },
+              "name": "ООО \"Днепроинмаш\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "Днепропетровск, 49000, Днепропетровская обл., пр-т газеты Правда, дом 35, офис 808"
+              }
+            }
+          ],
+          "time": "2015-08-20T14:59:44.052683+03:00"
+        }
+      ],
+      "time": "2015-08-25T09:27:01.110884+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T17:30:39.851235+03:00",
+          "amount": 11500.0,
+          "bidder": "432fbed32bb143168e58cd101615c3a3"
+        },
+        {
+          "date": "2015-08-21T15:57:26.774437+03:00",
+          "amount": 11499.0,
+          "bidder": "623913dd541e4eefb1d5a0182df4c85f"
+        },
+        {
+          "date": "2015-08-20T14:59:44.052683+03:00",
+          "amount": 8910.0,
+          "bidder": "6a3c897fdca94fae83fb34c5d6660165"
+        }
+      ],
+      "time": "2015-08-25T09:00:00.006984+00:00"
+    }
+  },
+  "id": "b9bc5634d95c47a69175a9757bae74ac",
+  "tenderId": "UA-2015-08-18-000065"
+}

@@ -1,0 +1,163 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 554495.0,
+        "bid_time": "2015-11-16T13:58:14.997868+02:00",
+        "bidder": "2358ffbe4ec54e6197acf5e565c12c5d",
+        "time": "2015-11-16T12:00:03.027492+00:00"
+      },
+      "turn_3": {
+        "bidder": "b123e8c75aeb49b8a196cfe810011b6c",
+        "time": "2015-11-16T12:02:03.015787+00:00"
+      },
+      "turn_1": {
+        "amount": 558500.0,
+        "bid_time": "2015-11-16T13:56:26.768478+02:00",
+        "bidder": "befa7f32b9ba4ccc951afa999eae2d2c",
+        "time": "2015-11-16T11:58:03.010298+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "befa7f32b9ba4ccc951afa999eae2d2c",
+        "time": "2015-11-16T12:08:03.013605+00:00"
+      },
+      "turn_3": {
+        "bidder": "2358ffbe4ec54e6197acf5e565c12c5d",
+        "time": "2015-11-16T12:10:03.007700+00:00"
+      },
+      "turn_1": {
+        "bidder": "b123e8c75aeb49b8a196cfe810011b6c",
+        "time": "2015-11-16T12:06:03.008706+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 559000.0,
+        "bid_time": "2015-11-16T13:50:50.582349+02:00",
+        "bidder": "b123e8c75aeb49b8a196cfe810011b6c",
+        "time": "2015-11-16T11:52:03.009979+00:00"
+      },
+      "turn_3": {
+        "bidder": "2358ffbe4ec54e6197acf5e565c12c5d",
+        "time": "2015-11-16T11:54:03.008855+00:00"
+      },
+      "turn_1": {
+        "bidder": "befa7f32b9ba4ccc951afa999eae2d2c",
+        "time": "2015-11-16T11:50:03.008580+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b123e8c75aeb49b8a196cfe810011b6c",
+          "amount": 559000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0443907605",
+                "telephone": "",
+                "name": "Прокопенко Катерина Сергіївна",
+                "email": "pks@bitech.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37962954",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІЛІНТЕХ УКРАЇНА\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"БІЛІНТЕХ УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03148",
+                "region": "Київська",
+                "streetAddress": "проспект Леся Курбаса, буд. 2Д",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:50:50.582349+02:00"
+        },
+        {
+          "bidder": "befa7f32b9ba4ccc951afa999eae2d2c",
+          "amount": 558500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "099-07-05-777",
+                "name": "БАБИЧ КАТЕРИНА СЕРГІЇВНА",
+                "email": "babi4es@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2995304028",
+                "legalName": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ БАБИЧ КАТЕРИНА СЕРГІЇВНА"
+              },
+              "name": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ БАБИЧ КАТЕРИНА СЕРГІЇВНА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська",
+                "streetAddress": "Маяковського, буд. 4, кв.37",
+                "locality": "Херсон"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:56:26.768478+02:00"
+        },
+        {
+          "bidder": "2358ffbe4ec54e6197acf5e565c12c5d",
+          "amount": 554495.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://amica.kiev.ua/",
+                "faxNumber": "",
+                "telephone": "",
+                "name": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»",
+                "email": "ob@amica.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38977500",
+                "legalName": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»"
+              },
+              "name": "Товариство з обмеженою відповідальністю  «КОМПАНІЯ «АМІКА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04107",
+                "region": "Київська",
+                "streetAddress": "вул. Отто - Шмідта,  35-37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-16T13:58:14.997868+02:00"
+        }
+      ],
+      "time": "2015-11-16T12:10:08.684271+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-12T16:13:55.568172+02:00",
+          "amount": 569170.0,
+          "bidder": "befa7f32b9ba4ccc951afa999eae2d2c"
+        },
+        {
+          "date": "2015-11-12T14:52:00.850810+02:00",
+          "amount": 565140.0,
+          "bidder": "b123e8c75aeb49b8a196cfe810011b6c"
+        },
+        {
+          "date": "2015-11-12T13:56:39.475061+02:00",
+          "amount": 560195.0,
+          "bidder": "2358ffbe4ec54e6197acf5e565c12c5d"
+        }
+      ],
+      "time": "2015-11-16T11:43:03.003863+00:00"
+    }
+  },
+  "id": "0f4ddd3952b842779b2aee8f382dcc58",
+  "tenderId": "UA-2015-11-05-000046"
+}

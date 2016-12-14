@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3500.0,
+        "bid_time": "2015-10-23T14:46:43.377610+03:00",
+        "bidder": "ca3513afec824827bfb12f2d500e58eb",
+        "time": "2015-10-23T11:48:14.010578+00:00"
+      },
+      "turn_1": {
+        "amount": 3600.0,
+        "bid_time": "2015-10-23T14:44:29.056863+03:00",
+        "bidder": "3aefee1e287c48c6a4e6a4a0df560c0e",
+        "time": "2015-10-23T11:46:14.012044+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3350.0,
+        "bid_time": "2015-10-23T14:53:06.192531+03:00",
+        "bidder": "ca3513afec824827bfb12f2d500e58eb",
+        "time": "2015-10-23T11:54:14.010849+00:00"
+      },
+      "turn_1": {
+        "amount": 3440.0,
+        "bid_time": "2015-10-23T14:50:41.670821+03:00",
+        "bidder": "3aefee1e287c48c6a4e6a4a0df560c0e",
+        "time": "2015-10-23T11:52:14.010188+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3650.0,
+        "bid_time": "2015-10-23T14:41:35.231276+03:00",
+        "bidder": "ca3513afec824827bfb12f2d500e58eb",
+        "time": "2015-10-23T11:42:14.011619+00:00"
+      },
+      "turn_1": {
+        "amount": 3720.0,
+        "bid_time": "2015-10-23T14:38:23.838424+03:00",
+        "bidder": "3aefee1e287c48c6a4e6a4a0df560c0e",
+        "time": "2015-10-23T11:40:14.031726+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3aefee1e287c48c6a4e6a4a0df560c0e",
+          "amount": 3440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0668928837",
+                "name": "Надежда Чашурина ",
+                "email": "olishchuka@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2111115481",
+                "legalName": ""
+              },
+              "name": "ФОП Олищук А.К.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "г.Котовск., ул.Самборского 3в Одесская обл.,"
+              }
+            }
+          ],
+          "time": "2015-10-23T14:50:41.670821+03:00"
+        },
+        {
+          "bidder": "ca3513afec824827bfb12f2d500e58eb",
+          "amount": 3350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380665347753",
+                "name": "Богдан Избаш",
+                "email": "bogdanizbash@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3284517412",
+                "legalName": "ФОП Ізбаш Б.Н."
+              },
+              "name": "ФОП Ізбаш Б.Н.",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "67900",
+                "region": "Одесская",
+                "streetAddress": "переулок Базарный 6",
+                "locality": "Красные Окны"
+              }
+            }
+          ],
+          "time": "2015-10-23T14:53:06.192531+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:54:18.746224+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-19T16:22:22.657840+03:00",
+          "amount": 4000.0,
+          "bidder": "3aefee1e287c48c6a4e6a4a0df560c0e"
+        },
+        {
+          "date": "2015-10-16T10:30:50.560606+03:00",
+          "amount": 3800.0,
+          "bidder": "ca3513afec824827bfb12f2d500e58eb"
+        }
+      ],
+      "time": "2015-10-23T11:33:14.001705+00:00"
+    }
+  },
+  "id": "1e453111ddbb41d5ac163d44daf6f668",
+  "tenderId": "UA-2015-10-15-000048"
+}

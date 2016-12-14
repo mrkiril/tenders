@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "80b5de53f5dd44ea85d8130ba3239971",
+        "time": "2015-12-04T12:04:21.008020+00:00"
+      },
+      "turn_2": {
+        "bidder": "3e6cfa73df864618a5ba34e8a8bab75b",
+        "time": "2015-12-04T12:00:21.020401+00:00"
+      },
+      "turn_3": {
+        "bidder": "10c98e52ed1f4853afd63a79a38d1abe",
+        "time": "2015-12-04T12:02:21.009442+00:00"
+      },
+      "turn_1": {
+        "bidder": "905dfbf1c123462c9f67f4e59e62bc38",
+        "time": "2015-12-04T11:58:21.010011+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "80b5de53f5dd44ea85d8130ba3239971",
+        "time": "2015-12-04T12:14:21.007695+00:00"
+      },
+      "turn_2": {
+        "amount": 19690.0,
+        "bid_time": "2015-12-04T14:09:19.677046+02:00",
+        "bidder": "3e6cfa73df864618a5ba34e8a8bab75b",
+        "time": "2015-12-04T12:10:21.009821+00:00"
+      },
+      "turn_3": {
+        "amount": 19650.0,
+        "bid_time": "2015-12-04T14:10:41.329936+02:00",
+        "bidder": "10c98e52ed1f4853afd63a79a38d1abe",
+        "time": "2015-12-04T12:12:21.009335+00:00"
+      },
+      "turn_1": {
+        "bidder": "905dfbf1c123462c9f67f4e59e62bc38",
+        "time": "2015-12-04T12:08:21.017802+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 20990.0,
+        "bid_time": "2015-12-04T13:54:12.885228+02:00",
+        "bidder": "80b5de53f5dd44ea85d8130ba3239971",
+        "time": "2015-12-04T11:54:21.024157+00:00"
+      },
+      "turn_2": {
+        "bidder": "905dfbf1c123462c9f67f4e59e62bc38",
+        "time": "2015-12-04T11:50:21.010252+00:00"
+      },
+      "turn_3": {
+        "amount": 21522.0,
+        "bid_time": "2015-12-04T13:50:49.241006+02:00",
+        "bidder": "10c98e52ed1f4853afd63a79a38d1abe",
+        "time": "2015-12-04T11:52:21.021210+00:00"
+      },
+      "turn_1": {
+        "amount": 22200.0,
+        "bid_time": "2015-12-04T13:46:46.858240+02:00",
+        "bidder": "3e6cfa73df864618a5ba34e8a8bab75b",
+        "time": "2015-12-04T11:48:21.019412+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "905dfbf1c123462c9f67f4e59e62bc38",
+          "amount": 24970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.realmebel.com.ua",
+                "faxNumber": "+380445030882",
+                "telephone": "+380443836227",
+                "name": "Станкевич Леонід Броніславович",
+                "email": "ppreal@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2874518693"
+              },
+              "name": "ФОП Станкевич Л.Б.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02097",
+                "region": "Київська область",
+                "streetAddress": "Бдищанська 6",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T17:24:53.582087+02:00"
+        },
+        {
+          "bidder": "80b5de53f5dd44ea85d8130ba3239971",
+          "amount": 20990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meblevuk.prom.ua",
+                "faxNumber": "+380445017040",
+                "telephone": "+380672398819",
+                "name": "Неділько Тетяна Михайлівна",
+                "email": "0672398819@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2852907688"
+              },
+              "name": "ФОП Неділько Тетяна Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03194",
+                "region": "Київська область",
+                "streetAddress": "вул. Зодчих 6 а кв. 113",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T13:54:12.885228+02:00"
+        },
+        {
+          "bidder": "3e6cfa73df864618a5ba34e8a8bab75b",
+          "amount": 19690.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sterkh.com.ua",
+                "faxNumber": "+380567701965",
+                "telephone": "+380567701965",
+                "name": "Липська Алла Григорывна",
+                "email": "sterkh_2000@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31154739"
+              },
+              "name": "ПП СТЕРХ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49101",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Червона, буд. 2-а, кв.3",
+                "locality": "Дныпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:09:19.677046+02:00"
+        },
+        {
+          "bidder": "10c98e52ed1f4853afd63a79a38d1abe",
+          "amount": 19650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38050 3588268",
+                "name": "Лотоцкая Елена",
+                "email": "uchmebli@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32705023",
+                "legalName": "ТОВ \"Брік-Меблі\""
+              },
+              "name": "ТОВ \"Брік-Меблі\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T14:10:41.329936+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:14:24.376944+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T11:15:14.990643+02:00",
+          "amount": 24999.0,
+          "bidder": "3e6cfa73df864618a5ba34e8a8bab75b"
+        },
+        {
+          "date": "2015-12-02T17:24:53.582087+02:00",
+          "amount": 24970.0,
+          "bidder": "905dfbf1c123462c9f67f4e59e62bc38"
+        },
+        {
+          "date": "2015-12-02T12:31:50.407526+02:00",
+          "amount": 22816.0,
+          "bidder": "10c98e52ed1f4853afd63a79a38d1abe"
+        },
+        {
+          "date": "2015-12-02T14:04:37.143664+02:00",
+          "amount": 22292.0,
+          "bidder": "80b5de53f5dd44ea85d8130ba3239971"
+        }
+      ],
+      "time": "2015-12-04T11:41:21.004208+00:00"
+    }
+  },
+  "id": "0b122b2d3f24467ca7f58221bed8dda8",
+  "tenderId": "UA-2015-11-26-000005"
+}

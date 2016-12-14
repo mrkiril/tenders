@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4fa218726b964b0cb5d0b90baf9b6f19",
+        "time": "2015-12-03T13:27:08.007990+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c4edf962e974839a4831be5b77388bd",
+        "time": "2015-12-03T13:25:08.009915+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4fa218726b964b0cb5d0b90baf9b6f19",
+        "time": "2015-12-03T13:33:08.024045+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c4edf962e974839a4831be5b77388bd",
+        "time": "2015-12-03T13:31:08.007812+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4fa218726b964b0cb5d0b90baf9b6f19",
+        "time": "2015-12-03T13:21:08.011378+00:00"
+      },
+      "turn_1": {
+        "bidder": "6c4edf962e974839a4831be5b77388bd",
+        "time": "2015-12-03T13:19:08.013951+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6c4edf962e974839a4831be5b77388bd",
+          "amount": 163620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.alexander-corp.com",
+                "telephone": "+380632851510",
+                "name": "ООО \"Торговый дом\"АЛЕКСАНДР",
+                "email": "mi.tdalex@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38920229",
+                "legalName": "ООО \"Торговый дом\"АЛЕКСАНДР"
+              },
+              "name": "ООО \"Торговый дом\"АЛЕКСАНДР",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69063,г. Запорожье, ул. Дзержинского, 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T17:02:30.208158+02:00"
+        },
+        {
+          "bidder": "4fa218726b964b0cb5d0b90baf9b6f19",
+          "amount": 161800.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380623828849",
+                "name": "Абразив групп",
+                "email": "missNatali2008@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33703603",
+                "legalName": "Абразив групп"
+              },
+              "name": "Абразив групп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69084, Запорожская область, г. Запорожье, ул. Магистральная, 100А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T09:45:36.699109+02:00"
+        }
+      ],
+      "time": "2015-12-03T13:33:11.566438+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T17:02:30.208158+02:00",
+          "amount": 163620.0,
+          "bidder": "6c4edf962e974839a4831be5b77388bd"
+        },
+        {
+          "date": "2015-12-02T09:45:36.699109+02:00",
+          "amount": 161800.2,
+          "bidder": "4fa218726b964b0cb5d0b90baf9b6f19"
+        }
+      ],
+      "time": "2015-12-03T13:12:08.002978+00:00"
+    }
+  },
+  "id": "127411681f424b8e8b126dea1209175a",
+  "tenderId": "UA-2015-11-18-000105"
+}

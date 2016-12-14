@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 10900.0,
+        "bid_time": "2015-11-04T14:52:24.861325+02:00",
+        "bidder": "72197c2803834298bdaea1d92f2be891",
+        "time": "2015-11-04T12:54:09.011683+00:00"
+      },
+      "turn_3": {
+        "bidder": "e1df8e37a75b4053a29906c5be6613b8",
+        "time": "2015-11-04T12:56:09.011209+00:00"
+      },
+      "turn_1": {
+        "amount": 16650.0,
+        "bid_time": "2015-11-04T14:51:42.355984+02:00",
+        "bidder": "7aadb21e9d1d4816874f62bc36682d86",
+        "time": "2015-11-04T12:52:09.008870+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e1df8e37a75b4053a29906c5be6613b8",
+        "time": "2015-11-04T13:02:09.009034+00:00"
+      },
+      "turn_3": {
+        "bidder": "72197c2803834298bdaea1d92f2be891",
+        "time": "2015-11-04T13:04:09.008559+00:00"
+      },
+      "turn_1": {
+        "amount": 16500.0,
+        "bid_time": "2015-11-04T14:59:51.584561+02:00",
+        "bidder": "7aadb21e9d1d4816874f62bc36682d86",
+        "time": "2015-11-04T13:00:09.009300+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "72197c2803834298bdaea1d92f2be891",
+        "time": "2015-11-04T12:46:09.007704+00:00"
+      },
+      "turn_3": {
+        "bidder": "e1df8e37a75b4053a29906c5be6613b8",
+        "time": "2015-11-04T12:48:09.008108+00:00"
+      },
+      "turn_1": {
+        "bidder": "7aadb21e9d1d4816874f62bc36682d86",
+        "time": "2015-11-04T12:44:09.008923+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7aadb21e9d1d4816874f62bc36682d86",
+          "amount": 16500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380342778552",
+                "name": "ТОВ «Прогрес-Сервіс ІФ»",
+                "email": "progressofficeif@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37409755",
+                "legalName": "ТОВ «Прогрес-Сервіс ІФ»"
+              },
+              "name": "ТОВ «Прогрес-Сервіс ІФ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Івано-Франківськ,вул.Хоткевича 17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T14:59:51.584561+02:00"
+        },
+        {
+          "bidder": "e1df8e37a75b4053a29906c5be6613b8",
+          "amount": 10901.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.printer.com.ua",
+                "faxNumber": "+380444849000",
+                "telephone": "+380503588033",
+                "name": "Андреєв Сергій Віктрович",
+                "email": "andriyur@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37634298"
+              },
+              "name": "ТОВ Вічний картридж",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Шота Руставелі, б15 б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-02T20:37:37.529067+02:00"
+        },
+        {
+          "bidder": "72197c2803834298bdaea1d92f2be891",
+          "amount": 10900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380935259500",
+                "name": "Андрій Талалаєв",
+                "email": "vava_zhuk@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2556003930",
+                "legalName": "ФОП \"Талалаєв Андрій Валерійович\""
+              },
+              "name": "ФОП \"Талалаєв Андрій Валерійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "Тростянецька 3 кв 298",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-04T14:52:24.861325+02:00"
+        }
+      ],
+      "time": "2015-11-04T13:04:13.366333+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T11:18:09.338820+02:00",
+          "amount": 16800.0,
+          "bidder": "7aadb21e9d1d4816874f62bc36682d86"
+        },
+        {
+          "date": "2015-11-03T03:53:11.558257+02:00",
+          "amount": 16780.0,
+          "bidder": "72197c2803834298bdaea1d92f2be891"
+        },
+        {
+          "date": "2015-11-02T20:37:37.529067+02:00",
+          "amount": 10901.0,
+          "bidder": "e1df8e37a75b4053a29906c5be6613b8"
+        }
+      ],
+      "time": "2015-11-04T12:37:09.003979+00:00"
+    }
+  },
+  "id": "9cb73cfdc6a34bc5920b6ab13cedc43f",
+  "tenderId": "UA-2015-10-30-000305"
+}

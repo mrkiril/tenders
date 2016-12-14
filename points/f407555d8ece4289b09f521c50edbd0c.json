@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8c8c726d84d84bb28551ab9ed226df4f",
+        "time": "2015-10-09T12:25:04.015012+00:00"
+      },
+      "turn_1": {
+        "bidder": "a99c709d5fef45c1a5d25d72db0ddd1f",
+        "time": "2015-10-09T12:23:04.008618+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8c8c726d84d84bb28551ab9ed226df4f",
+        "time": "2015-10-09T12:31:04.010130+00:00"
+      },
+      "turn_1": {
+        "amount": 4400.0,
+        "bid_time": "2015-10-09T15:27:21.909877+03:00",
+        "bidder": "a99c709d5fef45c1a5d25d72db0ddd1f",
+        "time": "2015-10-09T12:29:04.010069+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4790.0,
+        "bid_time": "2015-10-09T15:17:20.996724+03:00",
+        "bidder": "8c8c726d84d84bb28551ab9ed226df4f",
+        "time": "2015-10-09T12:19:04.010334+00:00"
+      },
+      "turn_1": {
+        "amount": 4800.0,
+        "bid_time": "2015-10-09T15:15:47.359629+03:00",
+        "bidder": "a99c709d5fef45c1a5d25d72db0ddd1f",
+        "time": "2015-10-09T12:17:04.012098+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8c8c726d84d84bb28551ab9ed226df4f",
+          "amount": 4790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-09T15:17:20.996724+03:00"
+        },
+        {
+          "bidder": "a99c709d5fef45c1a5d25d72db0ddd1f",
+          "amount": 4400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990712417",
+                "name": "Михайло Іванович Олег Анатолійович Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-09T15:27:21.909877+03:00"
+        }
+      ],
+      "time": "2015-10-09T12:31:15.778533+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T04:33:24.175148+03:00",
+          "amount": 4987.0,
+          "bidder": "a99c709d5fef45c1a5d25d72db0ddd1f"
+        },
+        {
+          "date": "2015-10-05T17:57:56.954621+03:00",
+          "amount": 4890.0,
+          "bidder": "8c8c726d84d84bb28551ab9ed226df4f"
+        }
+      ],
+      "time": "2015-10-09T12:10:04.005874+00:00"
+    }
+  },
+  "id": "f407555d8ece4289b09f521c50edbd0c",
+  "tenderId": "UA-2015-09-29-000028"
+}

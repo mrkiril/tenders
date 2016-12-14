@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "92b58e5d871d432e9103a0b0a2e6da3b",
+        "time": "2015-06-02T09:45:00.168583+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f23e57164734d268fe0ec8ad83eeacb",
+        "time": "2015-06-02T09:43:00.128255+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "92b58e5d871d432e9103a0b0a2e6da3b",
+        "time": "2015-06-02T09:51:00.040327+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f23e57164734d268fe0ec8ad83eeacb",
+        "time": "2015-06-02T09:49:00.040015+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "92b58e5d871d432e9103a0b0a2e6da3b",
+        "time": "2015-06-02T09:39:00.043244+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f23e57164734d268fe0ec8ad83eeacb",
+        "time": "2015-06-02T09:37:00.157698+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4f23e57164734d268fe0ec8ad83eeacb",
+          "amount": 5300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://brevi.com.ua",
+                "telephone": "+380503090660",
+                "name": "Частное Предприятие \"БРЕВИ\"",
+                "email": "brevi_com@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35521636",
+                "legalName": "Частное Предприятие \"БРЕВИ\""
+              },
+              "name": "Частное Предприятие \"БРЕВИ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36009, г.Полтава,ул.Освобождения 22",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-28T15:28:09.692852+03:00"
+        },
+        {
+          "bidder": "92b58e5d871d432e9103a0b0a2e6da3b",
+          "amount": 3900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://oxran.com/",
+                "telephone": "+380633755337",
+                "name": "Товариство з обмеженою відповідальністю \"ТД ВІВА Трейд\"",
+                "email": "sergei_viva@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39582624",
+                "legalName": "Товариство з обмеженою відповідальністю \"ТД ВІВА Трейд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ТД ВІВА Трейд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "18021, м. Черкаси, вул. Гагаріна, буд.75, кв. 94",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-29T13:11:41.819360+03:00"
+        }
+      ],
+      "time": "2015-06-02T09:51:02.305568+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-28T15:28:09.692852+03:00",
+          "amount": 5300.0,
+          "bidder": "4f23e57164734d268fe0ec8ad83eeacb"
+        },
+        {
+          "date": "2015-05-29T13:11:41.819360+03:00",
+          "amount": 3900.0,
+          "bidder": "92b58e5d871d432e9103a0b0a2e6da3b"
+        }
+      ],
+      "time": "2015-06-02T09:30:00.017738+00:00"
+    }
+  },
+  "id": "d5a09ccf44d44265ac3ef5828ae85e8b",
+  "tenderId": "UA-2015-05-27-000037"
+}

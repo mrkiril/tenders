@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f8b83a8188a043c9b1ac69999b256e18",
+        "time": "2015-08-10T09:15:00.043790+00:00"
+      },
+      "turn_1": {
+        "bidder": "06aab5e4e32448969ab1e2566e6eab78",
+        "time": "2015-08-10T09:13:00.073781+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f8b83a8188a043c9b1ac69999b256e18",
+        "time": "2015-08-10T09:21:00.059014+00:00"
+      },
+      "turn_1": {
+        "bidder": "06aab5e4e32448969ab1e2566e6eab78",
+        "time": "2015-08-10T09:19:00.069616+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f8b83a8188a043c9b1ac69999b256e18",
+        "time": "2015-08-10T09:09:00.106814+00:00"
+      },
+      "turn_1": {
+        "bidder": "06aab5e4e32448969ab1e2566e6eab78",
+        "time": "2015-08-10T09:07:00.031607+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "06aab5e4e32448969ab1e2566e6eab78",
+          "amount": 328107.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gdc.com.ua/",
+                "faxNumber": "0577586982",
+                "telephone": "0577175601",
+                "name": "БАТРАК Олександр ЮРІЙОВИЧ",
+                "email": "energoal@uaone.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35351929",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ПРОМ-АЛЬЯНС\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"ПРОМ-АЛЬЯНС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61072",
+                "region": "ХАРЬКОВСКАЯ ОБЛ.",
+                "streetAddress": "ВУЛ.ТОБОЛЬСЬКА, 42, ОФ.406",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-06T15:35:48.463003+03:00"
+        },
+        {
+          "bidder": "f8b83a8188a043c9b1ac69999b256e18",
+          "amount": 323263.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://spezkran.com",
+                "faxNumber": "057-724-45-38",
+                "telephone": "057-724-45-38",
+                "name": "Іванов Олександр Іванович",
+                "email": "agro@spezkran.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31341901",
+                "legalName": "Товариство з обмеженою відповідальністю \"Спецкран\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Спецкран\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61166",
+                "region": "Харківська",
+                "streetAddress": "проспект Леніна, будинок 40, кімната 37А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-05T10:08:28.510582+03:00"
+        }
+      ],
+      "time": "2015-08-10T09:21:01.082897+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-06T15:35:48.463003+03:00",
+          "amount": 328107.0,
+          "bidder": "06aab5e4e32448969ab1e2566e6eab78"
+        },
+        {
+          "date": "2015-08-05T10:08:28.510582+03:00",
+          "amount": 323263.0,
+          "bidder": "f8b83a8188a043c9b1ac69999b256e18"
+        }
+      ],
+      "time": "2015-08-10T09:00:00.008418+00:00"
+    }
+  },
+  "id": "2ebeeab9fbb449dea3e40c5d12ab61e6",
+  "tenderId": "UA-2015-08-04-000027"
+}

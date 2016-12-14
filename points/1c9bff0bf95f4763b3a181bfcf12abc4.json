@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c11eb28db6d6402a966507dfacd774a5",
+        "time": "2015-11-06T11:54:49.007325+00:00"
+      },
+      "turn_3": {
+        "bidder": "2f60e2af103f4d7b9de0d7ac85717ceb",
+        "time": "2015-11-06T11:56:49.007129+00:00"
+      },
+      "turn_1": {
+        "amount": 3860.0,
+        "bid_time": "2015-11-06T13:51:02.211580+02:00",
+        "bidder": "66b0a6b5fa8041738a55775a040c2c16",
+        "time": "2015-11-06T11:52:49.007868+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2f60e2af103f4d7b9de0d7ac85717ceb",
+        "time": "2015-11-06T12:02:49.006937+00:00"
+      },
+      "turn_3": {
+        "bidder": "66b0a6b5fa8041738a55775a040c2c16",
+        "time": "2015-11-06T12:04:49.006950+00:00"
+      },
+      "turn_1": {
+        "bidder": "c11eb28db6d6402a966507dfacd774a5",
+        "time": "2015-11-06T12:00:49.007407+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c11eb28db6d6402a966507dfacd774a5",
+        "time": "2015-11-06T11:46:49.007029+00:00"
+      },
+      "turn_3": {
+        "bidder": "2f60e2af103f4d7b9de0d7ac85717ceb",
+        "time": "2015-11-06T11:48:49.006442+00:00"
+      },
+      "turn_1": {
+        "bidder": "66b0a6b5fa8041738a55775a040c2c16",
+        "time": "2015-11-06T11:44:49.007026+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c11eb28db6d6402a966507dfacd774a5",
+          "amount": 4180.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://autotechnik.com.ua/",
+                "faxNumber": "+380445690000",
+                "telephone": "+380674017251",
+                "name": "Ковова Ірина Сергіївна",
+                "email": "4303771@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32041032"
+              },
+              "name": "ТОВ АВТОТЕХНІК",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03124",
+                "region": "Київська область",
+                "streetAddress": "вул. Миколи Василенка 7а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-04T09:28:23.487131+02:00"
+        },
+        {
+          "bidder": "2f60e2af103f4d7b9de0d7ac85717ceb",
+          "amount": 3900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380500301425",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\"",
+                "email": "sigulda1979@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31610444",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"СВ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ - 02225, вул. Драйзера, 8-А, кв. 40",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T11:43:54.393605+02:00"
+        },
+        {
+          "bidder": "66b0a6b5fa8041738a55775a040c2c16",
+          "amount": 3860.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0442253298",
+                "telephone": "0443838794",
+                "name": "Каськов Андрій Сергійович",
+                "email": "agservis.dir@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39221613",
+                "legalName": "ТОВ \"АГ СЕРВІС\""
+              },
+              "name": "ТОВ \"АГ СЕРВІС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03151",
+                "region": "Київська",
+                "streetAddress": "Повітрофлотський буд72",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-06T13:51:02.211580+02:00"
+        }
+      ],
+      "time": "2015-11-06T12:05:33.365839+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-05T09:55:57.011264+02:00",
+          "amount": 4245.0,
+          "bidder": "66b0a6b5fa8041738a55775a040c2c16"
+        },
+        {
+          "date": "2015-11-04T09:28:23.487131+02:00",
+          "amount": 4180.8,
+          "bidder": "c11eb28db6d6402a966507dfacd774a5"
+        },
+        {
+          "date": "2015-11-05T11:43:54.393605+02:00",
+          "amount": 3900.0,
+          "bidder": "2f60e2af103f4d7b9de0d7ac85717ceb"
+        }
+      ],
+      "time": "2015-11-06T11:37:49.002503+00:00"
+    }
+  },
+  "id": "1c9bff0bf95f4763b3a181bfcf12abc4",
+  "tenderId": "UA-2015-10-29-000233"
+}

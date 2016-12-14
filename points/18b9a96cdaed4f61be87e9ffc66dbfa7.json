@@ -1,0 +1,220 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 683000.0,
+        "bid_time": "2015-09-10T15:21:24.361268+03:00",
+        "bidder": "2016933345dc4aa49ff89da6a39aaa40",
+        "time": "2015-09-10T12:23:00.013380+00:00"
+      },
+      "turn_2": {
+        "amount": 684000.0,
+        "bid_time": "2015-09-10T15:17:23.202766+03:00",
+        "bidder": "d3dc56877d284127bd29442c3727d492",
+        "time": "2015-09-10T12:19:00.019435+00:00"
+      },
+      "turn_3": {
+        "amount": 683050.0,
+        "bid_time": "2015-09-10T15:20:02.180435+03:00",
+        "bidder": "fd3ed984fc604628a1cf2a9a80aaae7a",
+        "time": "2015-09-10T12:21:00.026933+00:00"
+      },
+      "turn_1": {
+        "amount": 1400000.0,
+        "bid_time": "2015-09-10T15:16:16.821979+03:00",
+        "bidder": "b6f7ccbdb34c4ff4ac60d4d40ba03006",
+        "time": "2015-09-10T12:17:00.018503+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 588950.0,
+        "bid_time": "2015-09-10T15:32:10.083086+03:00",
+        "bidder": "2016933345dc4aa49ff89da6a39aaa40",
+        "time": "2015-09-10T12:33:00.011048+00:00"
+      },
+      "turn_2": {
+        "amount": 598500.0,
+        "bid_time": "2015-09-10T15:27:51.829150+03:00",
+        "bidder": "d3dc56877d284127bd29442c3727d492",
+        "time": "2015-09-10T12:29:00.011490+00:00"
+      },
+      "turn_3": {
+        "amount": 589000.0,
+        "bid_time": "2015-09-10T15:29:57.744361+03:00",
+        "bidder": "fd3ed984fc604628a1cf2a9a80aaae7a",
+        "time": "2015-09-10T12:31:00.011861+00:00"
+      },
+      "turn_1": {
+        "amount": 665000.0,
+        "bid_time": "2015-09-10T15:25:48.595049+03:00",
+        "bidder": "b6f7ccbdb34c4ff4ac60d4d40ba03006",
+        "time": "2015-09-10T12:27:00.008637+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 779399.0,
+        "bid_time": "2015-09-10T15:11:33.488751+03:00",
+        "bidder": "2016933345dc4aa49ff89da6a39aaa40",
+        "time": "2015-09-10T12:13:00.020076+00:00"
+      },
+      "turn_2": {
+        "amount": 796000.0,
+        "bid_time": "2015-09-10T15:07:25.355519+03:00",
+        "bidder": "d3dc56877d284127bd29442c3727d492",
+        "time": "2015-09-10T12:09:00.014417+00:00"
+      },
+      "turn_3": {
+        "amount": 795150.0,
+        "bid_time": "2015-09-10T15:09:49.366407+03:00",
+        "bidder": "fd3ed984fc604628a1cf2a9a80aaae7a",
+        "time": "2015-09-10T12:11:00.021131+00:00"
+      },
+      "turn_1": {
+        "bidder": "b6f7ccbdb34c4ff4ac60d4d40ba03006",
+        "time": "2015-09-10T12:07:00.011816+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6f7ccbdb34c4ff4ac60d4d40ba03006",
+          "amount": 665000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380457726047",
+                "telephone": "+380679514894",
+                "name": "Любарська Надія Миколаївна",
+                "email": "nadezda.kononenko@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30349318"
+              },
+              "name": "ТОВ Трикотажний комбінат \"Лісова казка\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07850",
+                "region": "Київська область",
+                "streetAddress": "в. Карла Маркса,19",
+                "locality": "Клавдієво"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:25:48.595049+03:00"
+        },
+        {
+          "bidder": "d3dc56877d284127bd29442c3727d492",
+          "amount": 598500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380630447672",
+                "name": "Сергій Кульбака",
+                "email": "iso_ltd@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35920687",
+                "legalName": "ТОВ \"ІСО\""
+              },
+              "name": "ТОВ \"ІСО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01023",
+                "region": "Киевская",
+                "streetAddress": "Киіїв, Червоноармійська, буд. 139, оф.345",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:27:51.829150+03:00"
+        },
+        {
+          "bidder": "fd3ed984fc604628a1cf2a9a80aaae7a",
+          "amount": 589000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380534826441",
+                "name": "Машера Світлана Миколаївна",
+                "email": "krasaimoda@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13940940"
+              },
+              "name": "МП \"КРАСА І МОДА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "39800",
+                "region": "Полтавська область",
+                "streetAddress": "вул. Гірників, 4",
+                "locality": "Комсомольськ"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:29:57.744361+03:00"
+        },
+        {
+          "bidder": "2016933345dc4aa49ff89da6a39aaa40",
+          "amount": 588950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380937681269",
+                "name": "Лисенко Наталія",
+                "email": "449103@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ІТАЛТЕКС МЕРІНО\"",
+                "id": "39262403",
+                "uri": "http://italtex-merino.com/"
+              },
+              "name": "ТОВ \"ІТАЛТЕКС МЕРІНО\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "14014",
+                "region": "Черниговская",
+                "streetAddress": "вул. Щорса, 66",
+                "locality": "Чернигов"
+              }
+            }
+          ],
+          "time": "2015-09-10T15:32:10.083086+03:00"
+        }
+      ],
+      "time": "2015-09-10T12:33:01.673021+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T17:01:38.108258+03:00",
+          "amount": 1746100.0,
+          "bidder": "b6f7ccbdb34c4ff4ac60d4d40ba03006"
+        },
+        {
+          "date": "2015-09-08T12:01:51.912277+03:00",
+          "amount": 1425000.0,
+          "bidder": "d3dc56877d284127bd29442c3727d492"
+        },
+        {
+          "date": "2015-09-08T16:23:46.847818+03:00",
+          "amount": 1178000.0,
+          "bidder": "fd3ed984fc604628a1cf2a9a80aaae7a"
+        },
+        {
+          "date": "2015-09-08T17:51:50.031046+03:00",
+          "amount": 796860.0,
+          "bidder": "2016933345dc4aa49ff89da6a39aaa40"
+        }
+      ],
+      "time": "2015-09-10T12:00:00.002311+00:00"
+    }
+  },
+  "id": "18b9a96cdaed4f61be87e9ffc66dbfa7",
+  "tenderId": "UA-2015-08-31-000060"
+}

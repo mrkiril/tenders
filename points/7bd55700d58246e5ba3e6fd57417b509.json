@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f73b973410974cf4968cacc4a65b4536",
+        "time": "2015-11-25T13:17:42.007371+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3e74f91dcf54522a76d33be7a21e32e",
+        "time": "2015-11-25T13:15:42.007670+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f73b973410974cf4968cacc4a65b4536",
+        "time": "2015-11-25T13:23:42.010909+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3e74f91dcf54522a76d33be7a21e32e",
+        "time": "2015-11-25T13:21:42.010262+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f73b973410974cf4968cacc4a65b4536",
+        "time": "2015-11-25T13:11:42.006818+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3e74f91dcf54522a76d33be7a21e32e",
+        "time": "2015-11-25T13:09:42.006252+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e3e74f91dcf54522a76d33be7a21e32e",
+          "amount": 9609.5,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.makdim.com.ua/",
+                "telephone": "+3800445782620",
+                "name": "МАКДИМ",
+                "email": "makdim2@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2780521495",
+                "legalName": "МАКДИМ"
+              },
+              "name": "МАКДИМ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гКиев бульвар Лепсе дом 29 кв38",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T17:46:15.816820+02:00"
+        },
+        {
+          "bidder": "f73b973410974cf4968cacc4a65b4536",
+          "amount": 6796.16,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://signal.net.ua",
+                "telephone": "+380677703764",
+                "name": "ФОП Заговора Олена Анатоліївна",
+                "email": "zagelena@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2797700561",
+                "legalName": "ФОП Заговора Олена Анатоліївна"
+              },
+              "name": "ФОП Заговора Олена Анатоліївна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вулиця Тiмiрязєва, буд. 52, смт. ПОКОТИЛІВКА, ХАРКІВСЬКА обл., 6245",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T13:41:21.697888+02:00"
+        }
+      ],
+      "time": "2015-11-25T13:23:43.191409+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T17:46:15.816820+02:00",
+          "amount": 9609.5,
+          "bidder": "e3e74f91dcf54522a76d33be7a21e32e"
+        },
+        {
+          "date": "2015-11-23T13:41:21.697888+02:00",
+          "amount": 6796.16,
+          "bidder": "f73b973410974cf4968cacc4a65b4536"
+        }
+      ],
+      "time": "2015-11-25T13:02:42.002192+00:00"
+    }
+  },
+  "id": "7bd55700d58246e5ba3e6fd57417b509",
+  "tenderId": "UA-2015-11-16-000046-a"
+}

@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "665d0ac1580143d8af84fb68abf8d70c",
+        "time": "2015-12-17T12:23:35.009121+00:00"
+      },
+      "turn_2": {
+        "bidder": "9a4d582015c548759512c51edeac60b6",
+        "time": "2015-12-17T12:19:35.008505+00:00"
+      },
+      "turn_3": {
+        "bidder": "0089250fade84ad3839078e36faaf9b2",
+        "time": "2015-12-17T12:21:35.009931+00:00"
+      },
+      "turn_1": {
+        "bidder": "77e0c3ff3cfc4169bdcac15cc8261d91",
+        "time": "2015-12-17T12:17:35.008735+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "665d0ac1580143d8af84fb68abf8d70c",
+        "time": "2015-12-17T12:33:35.006920+00:00"
+      },
+      "turn_2": {
+        "bidder": "9a4d582015c548759512c51edeac60b6",
+        "time": "2015-12-17T12:29:35.007647+00:00"
+      },
+      "turn_3": {
+        "bidder": "0089250fade84ad3839078e36faaf9b2",
+        "time": "2015-12-17T12:31:35.007588+00:00"
+      },
+      "turn_1": {
+        "bidder": "77e0c3ff3cfc4169bdcac15cc8261d91",
+        "time": "2015-12-17T12:27:35.008986+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "665d0ac1580143d8af84fb68abf8d70c",
+        "time": "2015-12-17T12:13:35.008078+00:00"
+      },
+      "turn_2": {
+        "bidder": "9a4d582015c548759512c51edeac60b6",
+        "time": "2015-12-17T12:09:35.008592+00:00"
+      },
+      "turn_3": {
+        "amount": 840.0,
+        "bid_time": "2015-12-17T14:09:41.401521+02:00",
+        "bidder": "0089250fade84ad3839078e36faaf9b2",
+        "time": "2015-12-17T12:11:35.010680+00:00"
+      },
+      "turn_1": {
+        "bidder": "77e0c3ff3cfc4169bdcac15cc8261d91",
+        "time": "2015-12-17T12:07:35.009128+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "77e0c3ff3cfc4169bdcac15cc8261d91",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.nisa.com.ua",
+                "telephone": "+380442421777",
+                "name": "ТОВ \"Торговий Дім \"НІСА\"",
+                "email": "nisa@nisa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25270048",
+                "legalName": "ТОВ \"Торговий Дім \"НІСА\""
+              },
+              "name": "ТОВ \"Торговий Дім \"НІСА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03151 Україна, м. Київ, вул. Молодогвардійська, 28 А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T11:53:59.633783+02:00"
+        },
+        {
+          "bidder": "9a4d582015c548759512c51edeac60b6",
+          "amount": 899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.instrumentdp.com",
+                "faxNumber": "+380563725249",
+                "telephone": "+380969899392",
+                "name": "Бонгарь Денис Анатолійович",
+                "email": "d.bongar@instrumentdp.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39831051"
+              },
+              "name": "ТОВ ІНСТРУМЕНТ ДІПІ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49000",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вулиця Будівельників 25, офіс 314",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-14T09:30:26.153639+02:00"
+        },
+        {
+          "bidder": "0089250fade84ad3839078e36faaf9b2",
+          "amount": 840.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dekkoinvest.com.ua/",
+                "telephone": "0677878999",
+                "name": "В'ячеслав Красов ",
+                "email": "dekkoinvest05@outlook.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39310341",
+                "legalName": "ТОВ \"Декко Інвест\""
+              },
+              "name": "ТОВ \"Декко Інвест\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Харьковская область",
+                "streetAddress": "61064, г. Харьков, ул. Нариманова 1А, офис 319"
+              }
+            }
+          ],
+          "time": "2015-12-17T14:09:41.401521+02:00"
+        },
+        {
+          "bidder": "665d0ac1580143d8af84fb68abf8d70c",
+          "amount": 660.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://donmet.com.ua/",
+                "telephone": "0951323257",
+                "name": "Александр Гончаров ",
+                "email": "donmet-svarka@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30482268",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Завод автогенного обладнання ДОНМЕТ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Донецкая область",
+                "streetAddress": "84331, Донецька обл., м.Краматорськ, вул.Паркова,115"
+              }
+            }
+          ],
+          "time": "2015-12-16T14:22:54.879536+02:00"
+        }
+      ],
+      "time": "2015-12-17T12:33:36.317303+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T11:53:59.633783+02:00",
+          "amount": 900.0,
+          "bidder": "77e0c3ff3cfc4169bdcac15cc8261d91"
+        },
+        {
+          "date": "2015-12-14T09:30:26.153639+02:00",
+          "amount": 899.0,
+          "bidder": "9a4d582015c548759512c51edeac60b6"
+        },
+        {
+          "date": "2015-12-16T10:43:11.649624+02:00",
+          "amount": 850.0,
+          "bidder": "0089250fade84ad3839078e36faaf9b2"
+        },
+        {
+          "date": "2015-12-16T14:22:54.879536+02:00",
+          "amount": 660.0,
+          "bidder": "665d0ac1580143d8af84fb68abf8d70c"
+        }
+      ],
+      "time": "2015-12-17T12:00:35.004670+00:00"
+    }
+  },
+  "id": "009e6abff1a045fc9a791d98c4fbf3f4",
+  "tenderId": "UA-2015-12-09-000200-b"
+}

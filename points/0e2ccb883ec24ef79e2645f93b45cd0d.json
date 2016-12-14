@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "458c8d26e6984445b1ec88bb5b25d03c",
+        "time": "2015-12-15T10:24:47.008642+00:00"
+      },
+      "turn_3": {
+        "bidder": "998c5255cee24c6f90a9eafcea23094c",
+        "time": "2015-12-15T10:26:47.008320+00:00"
+      },
+      "turn_1": {
+        "bidder": "79e2807afe8749439f75da2af4cad935",
+        "time": "2015-12-15T10:22:47.008552+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "458c8d26e6984445b1ec88bb5b25d03c",
+        "time": "2015-12-15T10:32:47.007241+00:00"
+      },
+      "turn_3": {
+        "bidder": "998c5255cee24c6f90a9eafcea23094c",
+        "time": "2015-12-15T10:34:47.013085+00:00"
+      },
+      "turn_1": {
+        "bidder": "79e2807afe8749439f75da2af4cad935",
+        "time": "2015-12-15T10:30:47.042141+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "79e2807afe8749439f75da2af4cad935",
+        "time": "2015-12-15T10:16:47.009023+00:00"
+      },
+      "turn_3": {
+        "bidder": "998c5255cee24c6f90a9eafcea23094c",
+        "time": "2015-12-15T10:18:47.008171+00:00"
+      },
+      "turn_1": {
+        "amount": 1387.0,
+        "bid_time": "2015-12-15T12:13:45.942772+02:00",
+        "bidder": "458c8d26e6984445b1ec88bb5b25d03c",
+        "time": "2015-12-15T10:14:47.010323+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "79e2807afe8749439f75da2af4cad935",
+          "amount": 1401.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380577601812",
+                "telephone": "+380675712801",
+                "name": "Швінагірь Олена Олександрівна",
+                "email": "dianadryl@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2917401036"
+              },
+              "name": "ФОП Козловський Дмитро Геннадійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61170",
+                "region": "Харківська область",
+                "streetAddress": "вулиця Тимурівців, будинок 25 А, квартира 71",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-14T10:49:15.124259+02:00"
+        },
+        {
+          "bidder": "458c8d26e6984445b1ec88bb5b25d03c",
+          "amount": 1387.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563753724",
+                "telephone": "+380567973196",
+                "name": "Оболь Павло Володимирович",
+                "email": "obol.pavel@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2696412030"
+              },
+              "name": "ФОП Оболь Павло Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "51210",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Волгоградська, 338а",
+                "locality": "Новомосковськ"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:13:45.942772+02:00"
+        },
+        {
+          "bidder": "998c5255cee24c6f90a9eafcea23094c",
+          "amount": 850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380670057600",
+                "name": "Виталий",
+                "email": "vitaliy@vg-medical.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39190161",
+                "legalName": "ТОВ \"ВИДЖИ МЕДИКАЛ\""
+              },
+              "name": "ТОВ \"ВИДЖИ МЕДИКАЛ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49064",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:43:21.704993+02:00"
+        }
+      ],
+      "time": "2015-12-15T10:34:48.109872+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-13T17:58:37.976248+02:00",
+          "amount": 1430.0,
+          "bidder": "458c8d26e6984445b1ec88bb5b25d03c"
+        },
+        {
+          "date": "2015-12-14T10:49:15.124259+02:00",
+          "amount": 1401.0,
+          "bidder": "79e2807afe8749439f75da2af4cad935"
+        },
+        {
+          "date": "2015-12-14T12:43:21.704993+02:00",
+          "amount": 850.0,
+          "bidder": "998c5255cee24c6f90a9eafcea23094c"
+        }
+      ],
+      "time": "2015-12-15T10:07:47.003993+00:00"
+    }
+  },
+  "id": "0e2ccb883ec24ef79e2645f93b45cd0d",
+  "tenderId": "UA-2015-12-04-000079-b"
+}

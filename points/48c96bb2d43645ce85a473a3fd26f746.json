@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9ba4e11368044aa2ac20b99c94019150",
+        "time": "2015-10-12T11:24:15.007388+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f54ccd9b5044691b5a6d83e1bf28820",
+        "time": "2015-10-12T11:22:15.007748+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "9ba4e11368044aa2ac20b99c94019150",
+        "time": "2015-10-12T11:30:15.007477+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f54ccd9b5044691b5a6d83e1bf28820",
+        "time": "2015-10-12T11:28:15.007423+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9ba4e11368044aa2ac20b99c94019150",
+        "time": "2015-10-12T11:18:15.012093+00:00"
+      },
+      "turn_1": {
+        "bidder": "4f54ccd9b5044691b5a6d83e1bf28820",
+        "time": "2015-10-12T11:16:15.007912+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4f54ccd9b5044691b5a6d83e1bf28820",
+          "amount": 5000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380970797112",
+                "name": "Синюченко Михайло Іванович Синюченко Михайло Іванович",
+                "email": "maksgr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2246216917",
+                "legalName": "ФОП \"Синюченко \""
+              },
+              "name": "ФОП \"Синюченко \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "Київ, 3-й Садовий провулок, будинок 20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-09T22:44:56.842412+03:00"
+        },
+        {
+          "bidder": "9ba4e11368044aa2ac20b99c94019150",
+          "amount": 4271.28,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-09T17:58:47.377491+03:00"
+        }
+      ],
+      "time": "2015-10-12T11:30:19.925574+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-09T22:44:56.842412+03:00",
+          "amount": 5000.0,
+          "bidder": "4f54ccd9b5044691b5a6d83e1bf28820"
+        },
+        {
+          "date": "2015-10-09T17:58:47.377491+03:00",
+          "amount": 4271.28,
+          "bidder": "9ba4e11368044aa2ac20b99c94019150"
+        }
+      ],
+      "time": "2015-10-12T11:09:15.004067+00:00"
+    }
+  },
+  "id": "48c96bb2d43645ce85a473a3fd26f746",
+  "tenderId": "UA-2015-10-06-000138"
+}

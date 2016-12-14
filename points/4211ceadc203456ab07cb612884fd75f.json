@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d9f78743e3634a4a9bee8d62dcb8ca68",
+        "time": "2015-09-29T09:45:00.016730+00:00"
+      },
+      "turn_1": {
+        "bidder": "03ca58237e9a4f09bcf335333f6fb86e",
+        "time": "2015-09-29T09:43:00.019648+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d9f78743e3634a4a9bee8d62dcb8ca68",
+        "time": "2015-09-29T09:51:00.020679+00:00"
+      },
+      "turn_1": {
+        "bidder": "03ca58237e9a4f09bcf335333f6fb86e",
+        "time": "2015-09-29T09:49:00.013257+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d9f78743e3634a4a9bee8d62dcb8ca68",
+        "time": "2015-09-29T09:39:00.047163+00:00"
+      },
+      "turn_1": {
+        "bidder": "03ca58237e9a4f09bcf335333f6fb86e",
+        "time": "2015-09-29T09:37:00.022083+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "03ca58237e9a4f09bcf335333f6fb86e",
+          "amount": 2297.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-15T13:36:29.650673+03:00"
+        },
+        {
+          "bidder": "d9f78743e3634a4a9bee8d62dcb8ca68",
+          "amount": 1599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0472328348",
+                "telephone": "0472328348",
+                "name": "Сватков Сергій Іванович",
+                "email": "ssvatkov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34257839",
+                "legalName": "ПП \"Салон\"Софт\""
+              },
+              "name": "ПП \"Салон\"Софт\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "18023",
+                "region": "ЧЕРКАССКАЯ ОБЛ.",
+                "streetAddress": "Котовського, 73",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-11T15:03:40.776230+03:00"
+        }
+      ],
+      "time": "2015-09-29T09:51:04.332874+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-15T13:36:29.650673+03:00",
+          "amount": 2297.0,
+          "bidder": "03ca58237e9a4f09bcf335333f6fb86e"
+        },
+        {
+          "date": "2015-09-11T15:03:40.776230+03:00",
+          "amount": 1599.0,
+          "bidder": "d9f78743e3634a4a9bee8d62dcb8ca68"
+        }
+      ],
+      "time": "2015-09-29T09:30:00.005392+00:00"
+    }
+  },
+  "id": "4211ceadc203456ab07cb612884fd75f",
+  "tenderId": "UA-2015-09-07-000123"
+}

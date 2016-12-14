@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "19cbb4ed5767462f8f888bd7c5bb2c48",
+        "time": "2015-12-11T11:53:44.016983+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f8da8b4dd7440eb9ab34ba2db227c76",
+        "time": "2015-12-11T11:51:44.013634+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "19cbb4ed5767462f8f888bd7c5bb2c48",
+        "time": "2015-12-11T11:59:44.008144+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f8da8b4dd7440eb9ab34ba2db227c76",
+        "time": "2015-12-11T11:57:44.009891+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "19cbb4ed5767462f8f888bd7c5bb2c48",
+        "time": "2015-12-11T11:47:44.008563+00:00"
+      },
+      "turn_1": {
+        "bidder": "2f8da8b4dd7440eb9ab34ba2db227c76",
+        "time": "2015-12-11T11:45:44.009269+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2f8da8b4dd7440eb9ab34ba2db227c76",
+          "amount": 53166.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "archard@yandex.ru",
+                "name": "Коршак Андрій Васильович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36170210",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «МІЖНАРОДНА ТОРГОВА КОМПАНІЯ «ІНТЕРА»."
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ  «МІЖНАРОДНА ТОРГОВА КОМПАНІЯ «ІНТЕРА».",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04215",
+                "region": "Київська",
+                "streetAddress": "ПРОСПЕКТ СВОБОДИ, БУДИНОК 26В",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:16:27.692650+02:00"
+        },
+        {
+          "bidder": "19cbb4ed5767462f8f888bd7c5bb2c48",
+          "amount": 47891.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gamayun.org.ua",
+                "faxNumber": "+380442009415",
+                "telephone": "+380442009415",
+                "name": "Захарчук Тетяна Володимирівна",
+                "email": "volkovgamayun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39537875"
+              },
+              "name": "ТОВ Гамаюн Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04136",
+                "region": "Київська область",
+                "streetAddress": "вул.Північно-Сирецька, буд.3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T10:33:56.945921+02:00"
+        }
+      ],
+      "time": "2015-12-11T11:59:46.566222+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T13:16:27.692650+02:00",
+          "amount": 53166.0,
+          "bidder": "2f8da8b4dd7440eb9ab34ba2db227c76"
+        },
+        {
+          "date": "2015-12-08T10:33:56.945921+02:00",
+          "amount": 47891.0,
+          "bidder": "19cbb4ed5767462f8f888bd7c5bb2c48"
+        }
+      ],
+      "time": "2015-12-11T11:38:44.004866+00:00"
+    }
+  },
+  "id": "17a899504c8843039ebf4ac4e436ffd1",
+  "tenderId": "UA-2015-12-02-000101-a"
+}

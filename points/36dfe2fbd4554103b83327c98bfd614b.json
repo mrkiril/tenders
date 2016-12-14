@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b004c4a85b784b9e93a6d79b07f16fab",
+        "time": "2015-12-07T11:54:18.010151+00:00"
+      },
+      "turn_1": {
+        "bidder": "7424e0bc9dd94ee7a09fa0dc0475627e",
+        "time": "2015-12-07T11:52:18.010902+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b004c4a85b784b9e93a6d79b07f16fab",
+        "time": "2015-12-07T12:00:18.010382+00:00"
+      },
+      "turn_1": {
+        "bidder": "7424e0bc9dd94ee7a09fa0dc0475627e",
+        "time": "2015-12-07T11:58:18.013693+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b004c4a85b784b9e93a6d79b07f16fab",
+        "time": "2015-12-07T11:48:18.010165+00:00"
+      },
+      "turn_1": {
+        "bidder": "7424e0bc9dd94ee7a09fa0dc0475627e",
+        "time": "2015-12-07T11:46:18.012788+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7424e0bc9dd94ee7a09fa0dc0475627e",
+          "amount": 47631.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38050 3588268",
+                "name": "Лотоцкая Елена",
+                "email": "uchmebli@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32705023",
+                "legalName": "ТОВ \"Брік-Меблі\""
+              },
+              "name": "ТОВ \"Брік-Меблі\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T15:54:26.733627+02:00"
+        },
+        {
+          "bidder": "b004c4a85b784b9e93a6d79b07f16fab",
+          "amount": 40200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://smakovka.in.ua",
+                "faxNumber": "+380934609439",
+                "telephone": "+380934609439",
+                "name": "Цимеров Павло Володимирович",
+                "email": "smakovka.pavel@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37382000"
+              },
+              "name": "ТОВ Смаковка",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09100",
+                "region": "Київська область",
+                "streetAddress": "вулиця Водопійна, будинок 25, офіс 170",
+                "locality": "Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-12-03T14:05:38.538879+02:00"
+        }
+      ],
+      "time": "2015-12-07T12:00:31.509913+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T15:54:26.733627+02:00",
+          "amount": 47631.0,
+          "bidder": "7424e0bc9dd94ee7a09fa0dc0475627e"
+        },
+        {
+          "date": "2015-12-03T14:05:38.538879+02:00",
+          "amount": 40200.0,
+          "bidder": "b004c4a85b784b9e93a6d79b07f16fab"
+        }
+      ],
+      "time": "2015-12-07T11:39:18.004667+00:00"
+    }
+  },
+  "id": "36dfe2fbd4554103b83327c98bfd614b",
+  "tenderId": "UA-2015-12-02-000060-b"
+}

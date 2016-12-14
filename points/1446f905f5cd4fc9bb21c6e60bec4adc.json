@@ -1,0 +1,125 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 44950.0,
+        "bid_time": "2015-11-12T11:25:49.341074+02:00",
+        "bidder": "61167bd7f79f459ea64ddc4cd8bde83a",
+        "time": "2015-11-12T09:27:31.008064+00:00"
+      },
+      "turn_1": {
+        "amount": 45000.0,
+        "bid_time": "2015-11-12T11:23:39.540607+02:00",
+        "bidder": "5d2d59efa97e443c9cbe1e83f6bc8a19",
+        "time": "2015-11-12T09:25:31.008077+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 43950.0,
+        "bid_time": "2015-11-12T11:32:17.453363+02:00",
+        "bidder": "61167bd7f79f459ea64ddc4cd8bde83a",
+        "time": "2015-11-12T09:33:31.008454+00:00"
+      },
+      "turn_1": {
+        "amount": 44000.0,
+        "bid_time": "2015-11-12T11:31:12.669198+02:00",
+        "bidder": "5d2d59efa97e443c9cbe1e83f6bc8a19",
+        "time": "2015-11-12T09:31:31.008956+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 46900.0,
+        "bid_time": "2015-11-12T11:19:43.791394+02:00",
+        "bidder": "61167bd7f79f459ea64ddc4cd8bde83a",
+        "time": "2015-11-12T09:21:31.008344+00:00"
+      },
+      "turn_1": {
+        "amount": 47000.0,
+        "bid_time": "2015-11-12T11:17:39.032700+02:00",
+        "bidder": "5d2d59efa97e443c9cbe1e83f6bc8a19",
+        "time": "2015-11-12T09:19:31.008045+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5d2d59efa97e443c9cbe1e83f6bc8a19",
+          "amount": 44000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.olmax.kiev.ua",
+                "telephone": "+380442391533",
+                "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+                "email": "bc@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998",
+                "legalName": "Товариство з обмеженою відповідальністю Олмакс Сістемс"
+              },
+              "name": "Товариство з обмеженою відповідальністю Олмакс Сістемс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01011, г. Киев, ул. Рыбальская 2, оф 106",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T11:31:12.669198+02:00"
+        },
+        {
+          "bidder": "61167bd7f79f459ea64ddc4cd8bde83a",
+          "amount": 43950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://e-tender.biz",
+                "faxNumber": "0442778181",
+                "telephone": "0442778181",
+                "name": "Дяченко Ольга Станіславівна",
+                "email": "April100@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24366773",
+                "legalName": "Приватне підприємство \"Апрєль\""
+              },
+              "name": "Приватне підприємство \"Апрєль\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Генерала Наумова, 23Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-12T11:32:17.453363+02:00"
+        }
+      ],
+      "time": "2015-11-12T09:33:38.338204+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-09T17:43:24.646799+02:00",
+          "amount": 49458.1,
+          "bidder": "5d2d59efa97e443c9cbe1e83f6bc8a19"
+        },
+        {
+          "date": "2015-11-06T17:04:44.150507+02:00",
+          "amount": 48848.54,
+          "bidder": "61167bd7f79f459ea64ddc4cd8bde83a"
+        }
+      ],
+      "time": "2015-11-12T09:12:31.002760+00:00"
+    }
+  },
+  "id": "1446f905f5cd4fc9bb21c6e60bec4adc",
+  "tenderId": "UA-2015-11-03-000046"
+}

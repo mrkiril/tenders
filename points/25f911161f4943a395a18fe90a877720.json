@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "39f8c2acb2cd4124944faae8a5caea09",
+        "time": "2015-11-17T09:19:57.008827+00:00"
+      },
+      "turn_1": {
+        "bidder": "7dfaa118ec7d45bdb6ec1029fecf14ef",
+        "time": "2015-11-17T09:17:57.009463+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "39f8c2acb2cd4124944faae8a5caea09",
+        "time": "2015-11-17T09:25:57.008258+00:00"
+      },
+      "turn_1": {
+        "bidder": "7dfaa118ec7d45bdb6ec1029fecf14ef",
+        "time": "2015-11-17T09:23:57.012388+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "39f8c2acb2cd4124944faae8a5caea09",
+        "time": "2015-11-17T09:13:57.008598+00:00"
+      },
+      "turn_1": {
+        "bidder": "7dfaa118ec7d45bdb6ec1029fecf14ef",
+        "time": "2015-11-17T09:11:57.008018+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7dfaa118ec7d45bdb6ec1029fecf14ef",
+          "amount": 14523.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "",
+                "telephone": "0990061282",
+                "name": "Березін Дмитро Олександрович",
+                "email": "berezin_do@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3193412090",
+                "legalName": "Фізична - особа-підприємець Березін Дмитро Олександрович"
+              },
+              "name": "Фізична - особа-підприємець Березін Дмитро Олександрович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36034",
+                "region": "Полтавська",
+                "streetAddress": "Курчатова",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-13T13:23:18.375883+02:00"
+        },
+        {
+          "bidder": "39f8c2acb2cd4124944faae8a5caea09",
+          "amount": 13874.1,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://negociant.poltava.ua",
+                "faxNumber": "0532508305",
+                "telephone": "0532508305",
+                "name": "Сергієнко Іванович Володимир",
+                "email": "prod.svi@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3019512776",
+                "legalName": "Фізична особа-підприємець Сергієнко Володимир Іванович"
+              },
+              "name": "Фізична особа-підприємець Сергієнко Володимир Іванович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36029",
+                "region": "Полтавська",
+                "streetAddress": "Шведська",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-13T16:25:01.199959+02:00"
+        }
+      ],
+      "time": "2015-11-17T09:25:58.925111+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T13:23:18.375883+02:00",
+          "amount": 14523.0,
+          "bidder": "7dfaa118ec7d45bdb6ec1029fecf14ef"
+        },
+        {
+          "date": "2015-11-13T16:25:01.199959+02:00",
+          "amount": 13874.1,
+          "bidder": "39f8c2acb2cd4124944faae8a5caea09"
+        }
+      ],
+      "time": "2015-11-17T09:04:57.004802+00:00"
+    }
+  },
+  "id": "25f911161f4943a395a18fe90a877720",
+  "tenderId": "UA-2015-11-06-000139"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "80e9bc818ec142cb91671be912ffd6ea",
+        "time": "2015-09-22T12:45:00.027537+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddace9d572854aa19ef9af3eb580f53b",
+        "time": "2015-09-22T12:43:00.015940+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "80e9bc818ec142cb91671be912ffd6ea",
+        "time": "2015-09-22T12:51:00.028968+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddace9d572854aa19ef9af3eb580f53b",
+        "time": "2015-09-22T12:49:00.028663+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "80e9bc818ec142cb91671be912ffd6ea",
+        "time": "2015-09-22T12:39:00.055581+00:00"
+      },
+      "turn_1": {
+        "bidder": "ddace9d572854aa19ef9af3eb580f53b",
+        "time": "2015-09-22T12:37:00.016146+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ddace9d572854aa19ef9af3eb580f53b",
+          "amount": 26969.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0456561080",
+                "telephone": "0676563353",
+                "name": "Власенко Олександр Миколайович",
+                "email": "lavking@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39319103",
+                "legalName": "Товариство з обмеженою відповідальністю\"УКР-БЛАГОУСТРІЙ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю\"УКР-БЛАГОУСТРІЙ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02125",
+                "region": "Київська",
+                "streetAddress": "С.Стальського,16-а,кв.31",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-12T21:20:56.132652+03:00"
+        },
+        {
+          "bidder": "80e9bc818ec142cb91671be912ffd6ea",
+          "amount": 26121.46,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.uml.com.ua",
+                "faxNumber": "0445483432",
+                "telephone": "0674073642",
+                "name": "Дашкевич Сергій Валентинович",
+                "email": "ukrmontagelux@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33147770",
+                "legalName": "Товариство з обмеженою відповідльністю \"Укрмонтажлюкс\""
+              },
+              "name": "Товариство з обмеженою відповідльністю \"Укрмонтажлюкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02099",
+                "region": "Київська",
+                "streetAddress": "вул. Зрошувальна, буд. 2",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-13T15:39:20.230305+03:00"
+        }
+      ],
+      "time": "2015-09-22T12:51:03.972463+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-12T21:20:56.132652+03:00",
+          "amount": 26969.0,
+          "bidder": "ddace9d572854aa19ef9af3eb580f53b"
+        },
+        {
+          "date": "2015-09-13T15:39:20.230305+03:00",
+          "amount": 26121.46,
+          "bidder": "80e9bc818ec142cb91671be912ffd6ea"
+        }
+      ],
+      "time": "2015-09-22T12:30:00.005009+00:00"
+    }
+  },
+  "id": "21f60a9a4a4b46de89fa5b9918f7d699",
+  "tenderId": "UA-2015-09-10-000153"
+}

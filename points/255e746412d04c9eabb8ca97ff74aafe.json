@@ -1,0 +1,160 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2300.0,
+        "bid_time": "2015-12-04T12:57:01.854500+02:00",
+        "bidder": "668cf9230c7749cdb42d920341edd15c",
+        "time": "2015-12-04T10:58:33.010433+00:00"
+      },
+      "turn_3": {
+        "bidder": "7fa36afd2c5744d1b5d059b55a99b726",
+        "time": "2015-12-04T11:00:33.018632+00:00"
+      },
+      "turn_1": {
+        "bidder": "852b4f24b3d64d059dfe938e80e68aa7",
+        "time": "2015-12-04T10:56:33.034252+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7fa36afd2c5744d1b5d059b55a99b726",
+        "time": "2015-12-04T11:06:33.008799+00:00"
+      },
+      "turn_3": {
+        "bidder": "668cf9230c7749cdb42d920341edd15c",
+        "time": "2015-12-04T11:08:33.008051+00:00"
+      },
+      "turn_1": {
+        "bidder": "852b4f24b3d64d059dfe938e80e68aa7",
+        "time": "2015-12-04T11:04:33.009313+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2375.0,
+        "bid_time": "2015-12-04T12:49:48.174206+02:00",
+        "bidder": "668cf9230c7749cdb42d920341edd15c",
+        "time": "2015-12-04T10:50:33.029817+00:00"
+      },
+      "turn_3": {
+        "amount": 2325.0,
+        "bid_time": "2015-12-04T12:51:21.971531+02:00",
+        "bidder": "7fa36afd2c5744d1b5d059b55a99b726",
+        "time": "2015-12-04T10:52:33.010901+00:00"
+      },
+      "turn_1": {
+        "bidder": "852b4f24b3d64d059dfe938e80e68aa7",
+        "time": "2015-12-04T10:48:33.030197+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "852b4f24b3d64d059dfe938e80e68aa7",
+          "amount": 2466.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.mcfr.ua/",
+                "telephone": "0445865606",
+                "name": "Юлія  Бабяк ",
+                "email": "jbabiak@mcfr.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33542497",
+                "legalName": "ТОВ \"МЦФЕР - Україна\""
+              },
+              "name": "ТОВ \"МЦФЕР - Україна\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Київ, вул. М. Раскової, 11-А, а/с 170, 02660"
+              }
+            }
+          ],
+          "time": "2015-12-01T11:11:35.407826+02:00"
+        },
+        {
+          "bidder": "7fa36afd2c5744d1b5d059b55a99b726",
+          "amount": 2325.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445000506, +380443538817, +380443538815, +380503671833",
+                "name": "Александр Демаш",
+                "email": "ideaalex@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34821562",
+                "legalName": "ТОВ \"АС-МЕДIA\""
+              },
+              "name": "ТОВ \"АС-МЕДIA\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04053",
+                "region": "Киевская",
+                "streetAddress": "вул. Воровського 7-Б/65",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:51:21.971531+02:00"
+        },
+        {
+          "bidder": "668cf9230c7749cdb42d920341edd15c",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445361175",
+                "name": "Марія",
+                "email": "podpiska1@prescentr.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ПресЦентр Київ\"",
+                "id": "34809613",
+                "uri": "http://www.prescentr.kiev.ua/"
+              },
+              "name": "ТОВ \"ПресЦентр Київ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03150",
+                "region": "Киевская",
+                "streetAddress": "м. Київ",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:57:01.854500+02:00"
+        }
+      ],
+      "time": "2015-12-04T11:08:34.143997+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T11:11:35.407826+02:00",
+          "amount": 2466.0,
+          "bidder": "852b4f24b3d64d059dfe938e80e68aa7"
+        },
+        {
+          "date": "2015-12-01T15:35:49.514463+02:00",
+          "amount": 2450.0,
+          "bidder": "668cf9230c7749cdb42d920341edd15c"
+        },
+        {
+          "date": "2015-12-02T22:00:56.259956+02:00",
+          "amount": 2400.0,
+          "bidder": "7fa36afd2c5744d1b5d059b55a99b726"
+        }
+      ],
+      "time": "2015-12-04T10:41:33.004824+00:00"
+    }
+  },
+  "id": "255e746412d04c9eabb8ca97ff74aafe",
+  "tenderId": "UA-2015-11-26-000031-a"
+}

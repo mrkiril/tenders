@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "00451fb75f2d4061a7755bf9684b3186",
+        "time": "2015-11-30T11:28:50.007789+00:00"
+      },
+      "turn_3": {
+        "bidder": "f894b109009145839516f4cc787ad627",
+        "time": "2015-11-30T11:30:50.007320+00:00"
+      },
+      "turn_1": {
+        "bidder": "352d07a2d76f458aa02e0f2d8d1d71c6",
+        "time": "2015-11-30T11:26:50.007957+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "00451fb75f2d4061a7755bf9684b3186",
+        "time": "2015-11-30T11:36:50.007719+00:00"
+      },
+      "turn_3": {
+        "bidder": "f894b109009145839516f4cc787ad627",
+        "time": "2015-11-30T11:38:50.007570+00:00"
+      },
+      "turn_1": {
+        "bidder": "352d07a2d76f458aa02e0f2d8d1d71c6",
+        "time": "2015-11-30T11:34:50.040022+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "00451fb75f2d4061a7755bf9684b3186",
+        "time": "2015-11-30T11:20:50.013006+00:00"
+      },
+      "turn_3": {
+        "bidder": "f894b109009145839516f4cc787ad627",
+        "time": "2015-11-30T11:22:50.008871+00:00"
+      },
+      "turn_1": {
+        "bidder": "352d07a2d76f458aa02e0f2d8d1d71c6",
+        "time": "2015-11-30T11:18:50.008217+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "352d07a2d76f458aa02e0f2d8d1d71c6",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-25T15:12:35.020058+02:00"
+        },
+        {
+          "bidder": "00451fb75f2d4061a7755bf9684b3186",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://xn--90a7ac.net/index.php",
+                "telephone": "+380660025838",
+                "name": "Осадчий Денис Петрович",
+                "email": "dosadchiy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36936939"
+              },
+              "name": "ТОВ УТБ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09700",
+                "region": "Київська область",
+                "streetAddress": "Карла Маркса",
+                "locality": "Богуслав"
+              }
+            }
+          ],
+          "time": "2015-11-24T12:53:29.780870+02:00"
+        },
+        {
+          "bidder": "f894b109009145839516f4cc787ad627",
+          "amount": 8900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-25T00:20:32.323170+02:00"
+        }
+      ],
+      "time": "2015-11-30T11:38:53.250502+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T12:53:29.780870+02:00",
+          "amount": 9000.0,
+          "bidder": "00451fb75f2d4061a7755bf9684b3186"
+        },
+        {
+          "date": "2015-11-25T15:12:35.020058+02:00",
+          "amount": 9000.0,
+          "bidder": "352d07a2d76f458aa02e0f2d8d1d71c6"
+        },
+        {
+          "date": "2015-11-25T00:20:32.323170+02:00",
+          "amount": 8900.0,
+          "bidder": "f894b109009145839516f4cc787ad627"
+        }
+      ],
+      "time": "2015-11-30T11:11:50.003997+00:00"
+    }
+  },
+  "id": "195af5676c144d6189b37c040c354ab7",
+  "tenderId": "UA-2015-11-19-000066"
+}

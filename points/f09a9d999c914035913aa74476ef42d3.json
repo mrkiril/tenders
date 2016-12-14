@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "749a80c75c6449dc926f0365b41a5c2a",
+        "time": "2015-11-09T10:47:10.006764+00:00"
+      },
+      "turn_1": {
+        "amount": 2300.0,
+        "bid_time": "2015-11-09T12:44:00.358726+02:00",
+        "bidder": "a0b09a0a82b944a7995656eafcfa00c5",
+        "time": "2015-11-09T10:45:10.008578+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a0b09a0a82b944a7995656eafcfa00c5",
+        "time": "2015-11-09T10:53:10.006211+00:00"
+      },
+      "turn_1": {
+        "bidder": "749a80c75c6449dc926f0365b41a5c2a",
+        "time": "2015-11-09T10:51:10.006632+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2340.0,
+        "bid_time": "2015-11-09T12:39:53.126599+02:00",
+        "bidder": "749a80c75c6449dc926f0365b41a5c2a",
+        "time": "2015-11-09T10:41:10.007716+00:00"
+      },
+      "turn_1": {
+        "amount": 2350.0,
+        "bid_time": "2015-11-09T12:37:39.008396+02:00",
+        "bidder": "a0b09a0a82b944a7995656eafcfa00c5",
+        "time": "2015-11-09T10:39:10.007926+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "749a80c75c6449dc926f0365b41a5c2a",
+          "amount": 2340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.vis-consulting.com.ua",
+                "telephone": "+380672340964",
+                "name": "ТОВ \"ВIС-Консалтинг\"",
+                "email": "s.vishtak@vis-consulting.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38950342",
+                "legalName": "ТОВ \"ВIС-Консалтинг\""
+              },
+              "name": "ТОВ \"ВIС-Консалтинг\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03113, м. Киїі, вул. Миколи Василенка, буд. 1, оф. 308",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T12:39:53.126599+02:00"
+        },
+        {
+          "bidder": "a0b09a0a82b944a7995656eafcfa00c5",
+          "amount": 2300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-09T12:44:00.358726+02:00"
+        }
+      ],
+      "time": "2015-11-09T10:53:11.379243+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T16:15:30.465977+02:00",
+          "amount": 2400.0,
+          "bidder": "749a80c75c6449dc926f0365b41a5c2a"
+        },
+        {
+          "date": "2015-11-06T06:30:40.654610+02:00",
+          "amount": 2400.0,
+          "bidder": "a0b09a0a82b944a7995656eafcfa00c5"
+        }
+      ],
+      "time": "2015-11-09T10:32:10.002555+00:00"
+    }
+  },
+  "id": "f09a9d999c914035913aa74476ef42d3",
+  "tenderId": "UA-2015-10-28-000130"
+}

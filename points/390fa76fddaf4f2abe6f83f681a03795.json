@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1f7fc1bd50d14e7fa5add78dcffdbb25",
+        "time": "2015-06-25T08:15:00.890600+00:00"
+      },
+      "turn_1": {
+        "bidder": "038e651b75d04ed89cd23823c36d689b",
+        "time": "2015-06-25T08:13:00.255720+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 6500.0,
+        "bid_time": "2015-06-25T11:19:55.056806+03:00",
+        "bidder": "1f7fc1bd50d14e7fa5add78dcffdbb25",
+        "time": "2015-06-25T08:21:00.573105+00:00"
+      },
+      "turn_1": {
+        "amount": 6567.0,
+        "bid_time": "2015-06-25T11:17:11.914832+03:00",
+        "bidder": "038e651b75d04ed89cd23823c36d689b",
+        "time": "2015-06-25T08:19:00.656490+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1f7fc1bd50d14e7fa5add78dcffdbb25",
+        "time": "2015-06-25T08:09:00.271796+00:00"
+      },
+      "turn_1": {
+        "bidder": "038e651b75d04ed89cd23823c36d689b",
+        "time": "2015-06-25T08:07:00.202000+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "038e651b75d04ed89cd23823c36d689b",
+          "amount": 6567.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "048-728-33-78",
+                "telephone": "050-416-61-64",
+                "name": "Шпура Олексіївна Наталія",
+                "email": "ms.shpura@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "Товариство з обмеженою відповідальністю \"компанія\"Стімпекс\"",
+                "id": "",
+                "uri": "http://www.stimpex.com.ua"
+              },
+              "name": "Товариство з обмеженою відповідальністю \"компанія\"Стімпекс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "65107",
+                "region": "Одеська",
+                "streetAddress": "вул.Канатна буд.№83,оф. 231П",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T11:17:11.914832+03:00"
+        },
+        {
+          "bidder": "1f7fc1bd50d14e7fa5add78dcffdbb25",
+          "amount": 6500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-25T11:19:55.056806+03:00"
+        }
+      ],
+      "time": "2015-06-25T08:21:09.405535+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-24T17:29:37.013891+03:00",
+          "amount": 7870.0,
+          "bidder": "038e651b75d04ed89cd23823c36d689b"
+        },
+        {
+          "date": "2015-06-24T13:07:47.362238+03:00",
+          "amount": 6797.3,
+          "bidder": "1f7fc1bd50d14e7fa5add78dcffdbb25"
+        }
+      ],
+      "time": "2015-06-25T08:00:00.028115+00:00"
+    }
+  },
+  "id": "390fa76fddaf4f2abe6f83f681a03795",
+  "tenderId": "UA-2015-06-17-000044"
+}

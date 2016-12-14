@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "00e6c117f29d4212a7fedfac8b8f7032",
+        "time": "2015-09-17T08:15:00.090266+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f69ff8c04d4cc3b488b29c4bad5514",
+        "time": "2015-09-17T08:13:00.176975+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "00e6c117f29d4212a7fedfac8b8f7032",
+        "time": "2015-09-17T08:21:00.067640+00:00"
+      },
+      "turn_1": {
+        "bidder": "01f69ff8c04d4cc3b488b29c4bad5514",
+        "time": "2015-09-17T08:19:00.115239+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "01f69ff8c04d4cc3b488b29c4bad5514",
+        "time": "2015-09-17T08:09:00.107054+00:00"
+      },
+      "turn_1": {
+        "amount": 231.0,
+        "bid_time": "2015-09-17T11:05:57.980959+03:00",
+        "bidder": "00e6c117f29d4212a7fedfac8b8f7032",
+        "time": "2015-09-17T08:07:00.132189+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "01f69ff8c04d4cc3b488b29c4bad5514",
+          "amount": 232.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "telephone": "+380443900393",
+                "name": "Дебют ООО",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20341039",
+                "legalName": "Дебют ООО"
+              },
+              "name": "Дебют ООО",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "83059, г. Донецк, ул. Складская, 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-14T08:49:23.393406+03:00"
+        },
+        {
+          "bidder": "00e6c117f29d4212a7fedfac8b8f7032",
+          "amount": 231.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380562335699, +380562335698, +380504501680, +380986475727",
+                "name": "Рамета Владимировна Желтобрюхова",
+                "email": "pack_plast@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Пак Пласт Украина\"",
+                "id": "24236012",
+                "uri": "http://packplast.com.ua"
+              },
+              "name": "ТОВ \"Пак Пласт Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49038",
+                "region": "Днепропетровская",
+                "streetAddress": "г.Днепропетровск, пл. Островского,3",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-09-17T11:05:57.980959+03:00"
+        }
+      ],
+      "time": "2015-09-17T08:21:11.361310+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-11T15:09:01.651524+03:00",
+          "amount": 265.36,
+          "bidder": "00e6c117f29d4212a7fedfac8b8f7032"
+        },
+        {
+          "date": "2015-09-14T08:49:23.393406+03:00",
+          "amount": 232.8,
+          "bidder": "01f69ff8c04d4cc3b488b29c4bad5514"
+        }
+      ],
+      "time": "2015-09-17T08:00:00.010280+00:00"
+    }
+  },
+  "id": "db23c100ae934c0780cfae2773f01c7d",
+  "tenderId": "UA-2015-09-08-000071"
+}

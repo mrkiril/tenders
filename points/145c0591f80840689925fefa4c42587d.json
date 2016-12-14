@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ddc54420cfd64078810c6a351063f19d",
+        "time": "2015-10-23T08:22:23.007020+00:00"
+      },
+      "turn_3": {
+        "bidder": "c8ce94870e4247c3822c0d1a997d2b8b",
+        "time": "2015-10-23T08:24:23.007276+00:00"
+      },
+      "turn_1": {
+        "bidder": "d23fade2ae4647b7bd59fbfd9ee955b0",
+        "time": "2015-10-23T08:20:23.008198+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ddc54420cfd64078810c6a351063f19d",
+        "time": "2015-10-23T08:30:23.006800+00:00"
+      },
+      "turn_3": {
+        "bidder": "c8ce94870e4247c3822c0d1a997d2b8b",
+        "time": "2015-10-23T08:32:23.006780+00:00"
+      },
+      "turn_1": {
+        "bidder": "d23fade2ae4647b7bd59fbfd9ee955b0",
+        "time": "2015-10-23T08:28:23.006777+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ddc54420cfd64078810c6a351063f19d",
+        "time": "2015-10-23T08:14:23.008080+00:00"
+      },
+      "turn_3": {
+        "bidder": "c8ce94870e4247c3822c0d1a997d2b8b",
+        "time": "2015-10-23T08:16:23.010361+00:00"
+      },
+      "turn_1": {
+        "bidder": "d23fade2ae4647b7bd59fbfd9ee955b0",
+        "time": "2015-10-23T08:12:23.010493+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d23fade2ae4647b7bd59fbfd9ee955b0",
+          "amount": 47500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443604379, +380957090767, +380963067525",
+                "name": "Павел Макаренко",
+                "email": "info@idcard.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38389667",
+                "legalName": "ТОВ \"Смарт-карты Украины\""
+              },
+              "name": "ТОВ \"Смарт-карты Украины\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01113",
+                "region": "Киевская",
+                "streetAddress": "Киев, ул. Щорса 26А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-21T13:01:39.774284+03:00"
+        },
+        {
+          "bidder": "ddc54420cfd64078810c6a351063f19d",
+          "amount": 47200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444576322",
+                "name": "Олег Балаба",
+                "email": "o_balaba@svit-it.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"СВІТ ІТ\"",
+                "id": "34540291",
+                "uri": "http://svit-it.com.ua"
+              },
+              "name": "ТОВ \"СВІТ ІТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03067",
+                "region": "Киевская",
+                "streetAddress": "вул.Виборзька, 42А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-21T10:27:05.366675+03:00"
+        },
+        {
+          "bidder": "c8ce94870e4247c3822c0d1a997d2b8b",
+          "amount": 47000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445380089",
+                "name": "Ирина Артишук",
+                "email": "irina.artishuk@author.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3224835601",
+                "legalName": "ТОВ \"АВТОР\""
+              },
+              "name": "ТОВ \"АВТОР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03057",
+                "region": "Киевская",
+                "streetAddress": "ул. Смоленская, 31-33",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-21T15:41:49.437154+03:00"
+        }
+      ],
+      "time": "2015-10-23T08:32:38.645469+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T13:01:39.774284+03:00",
+          "amount": 47500.0,
+          "bidder": "d23fade2ae4647b7bd59fbfd9ee955b0"
+        },
+        {
+          "date": "2015-10-21T10:27:05.366675+03:00",
+          "amount": 47200.0,
+          "bidder": "ddc54420cfd64078810c6a351063f19d"
+        },
+        {
+          "date": "2015-10-21T15:41:49.437154+03:00",
+          "amount": 47000.0,
+          "bidder": "c8ce94870e4247c3822c0d1a997d2b8b"
+        }
+      ],
+      "time": "2015-10-23T08:05:23.003599+00:00"
+    }
+  },
+  "id": "145c0591f80840689925fefa4c42587d",
+  "tenderId": "UA-2015-10-02-000098"
+}

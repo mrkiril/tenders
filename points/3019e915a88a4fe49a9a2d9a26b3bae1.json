@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1067824c77ad490dba5eb02ceefc7de6",
+        "time": "2015-10-08T12:54:40.014089+00:00"
+      },
+      "turn_3": {
+        "bidder": "81d56792095549c0ac9cb28b206887ef",
+        "time": "2015-10-08T12:56:40.009752+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7a0f4478e6a491ea5b5a5e9047627d2",
+        "time": "2015-10-08T12:52:40.018377+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1067824c77ad490dba5eb02ceefc7de6",
+        "time": "2015-10-08T13:02:40.008028+00:00"
+      },
+      "turn_3": {
+        "bidder": "81d56792095549c0ac9cb28b206887ef",
+        "time": "2015-10-08T13:04:40.012140+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7a0f4478e6a491ea5b5a5e9047627d2",
+        "time": "2015-10-08T13:00:40.008609+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1067824c77ad490dba5eb02ceefc7de6",
+        "time": "2015-10-08T12:46:40.009664+00:00"
+      },
+      "turn_3": {
+        "bidder": "81d56792095549c0ac9cb28b206887ef",
+        "time": "2015-10-08T12:48:40.014928+00:00"
+      },
+      "turn_1": {
+        "bidder": "a7a0f4478e6a491ea5b5a5e9047627d2",
+        "time": "2015-10-08T12:44:40.009489+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a7a0f4478e6a491ea5b5a5e9047627d2",
+          "amount": 34.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442356909",
+                "name": "ФО-П Яковенко О.С.",
+                "email": "buro2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2269023177",
+                "legalName": "ФО-П Яковенко О.С."
+              },
+              "name": "ФО-П Яковенко О.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Полтавська обл., с.м.т. Диканька, вул. Сковороди, б.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T16:32:59.581044+03:00"
+        },
+        {
+          "bidder": "1067824c77ad490dba5eb02ceefc7de6",
+          "amount": 30.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Наталья",
+                "email": "shulga@papyrus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37757076",
+                "legalName": "ТОВ \"Папирус Гурт Збут\""
+              },
+              "name": "ТОВ \"Папирус Гурт Збут\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08132",
+                "region": "Киевская",
+                "streetAddress": "Киевская область, г.Вишневое, ул.Киевская, 2а",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-09-21T11:39:43.882346+03:00"
+        },
+        {
+          "bidder": "81d56792095549c0ac9cb28b206887ef",
+          "amount": 29.4,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0512477307",
+                "telephone": "380979205060",
+                "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+                "email": "natali2806@ua.fm"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30126040",
+                "legalName": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"САНТАРЕКС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54003",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Потьомкінська, 131б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-22T09:44:44.709594+03:00"
+        }
+      ],
+      "time": "2015-10-08T13:04:40.972312+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-22T16:32:59.581044+03:00",
+          "amount": 34.3,
+          "bidder": "a7a0f4478e6a491ea5b5a5e9047627d2"
+        },
+        {
+          "date": "2015-09-21T11:39:43.882346+03:00",
+          "amount": 30.8,
+          "bidder": "1067824c77ad490dba5eb02ceefc7de6"
+        },
+        {
+          "date": "2015-09-22T09:44:44.709594+03:00",
+          "amount": 29.4,
+          "bidder": "81d56792095549c0ac9cb28b206887ef"
+        }
+      ],
+      "time": "2015-10-08T12:37:40.004244+00:00"
+    }
+  },
+  "id": "3019e915a88a4fe49a9a2d9a26b3bae1",
+  "tenderId": "UA-2015-09-16-000205"
+}

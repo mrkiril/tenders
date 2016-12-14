@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a244b287940a4bc6b2485f61b8960e91",
+        "time": "2015-10-23T11:28:28.007376+00:00"
+      },
+      "turn_1": {
+        "bidder": "2439de6a55a7448c83b6fe1eb87d0aa3",
+        "time": "2015-10-23T11:26:28.006503+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a244b287940a4bc6b2485f61b8960e91",
+        "time": "2015-10-23T11:34:28.006091+00:00"
+      },
+      "turn_1": {
+        "bidder": "2439de6a55a7448c83b6fe1eb87d0aa3",
+        "time": "2015-10-23T11:32:28.006781+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a244b287940a4bc6b2485f61b8960e91",
+        "time": "2015-10-23T11:22:28.009225+00:00"
+      },
+      "turn_1": {
+        "bidder": "2439de6a55a7448c83b6fe1eb87d0aa3",
+        "time": "2015-10-23T11:20:28.007929+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2439de6a55a7448c83b6fe1eb87d0aa3",
+          "amount": 2256.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.fixline.in.ua/",
+                "faxNumber": "0536773782",
+                "telephone": "0675750788",
+                "name": "Тимченко Олег Володимирович",
+                "email": "gospodar_2007@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38493350",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЛІНІЯ КРІПЛЕННЯ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЛІНІЯ КРІПЛЕННЯ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "39601",
+                "region": "Полтавська",
+                "streetAddress": "1-й Піщаний тупик, буд. 5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T11:25:26.736904+03:00"
+        },
+        {
+          "bidder": "a244b287940a4bc6b2485f61b8960e91",
+          "amount": 2256.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://fixline.in.ua",
+                "telephone": "+380675750771",
+                "name": "ТОВ ЛІНІЯ КРІПЛЕННЯ",
+                "email": "giftalan@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38493350",
+                "legalName": "ТОВ ЛІНІЯ КРІПЛЕННЯ"
+              },
+              "name": "ТОВ ЛІНІЯ КРІПЛЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61001, г.Харьков, \r\nул.Плеханоская, 2/5",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-21T11:24:55.559583+03:00"
+        }
+      ],
+      "time": "2015-10-23T11:34:29.489929+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-21T11:24:55.559583+03:00",
+          "amount": 2256.0,
+          "bidder": "a244b287940a4bc6b2485f61b8960e91"
+        },
+        {
+          "date": "2015-10-21T11:25:26.736904+03:00",
+          "amount": 2256.0,
+          "bidder": "2439de6a55a7448c83b6fe1eb87d0aa3"
+        }
+      ],
+      "time": "2015-10-23T11:13:28.003825+00:00"
+    }
+  },
+  "id": "3be34a78636f4d04a7be76ad06a5f563",
+  "tenderId": "UA-2015-10-19-000246"
+}

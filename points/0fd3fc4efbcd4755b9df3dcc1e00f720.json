@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bd2ae5497af34e3da42edad2bca6864f",
+        "time": "2015-12-07T12:58:19.008530+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ef469d27e245f0a4859600ac955350",
+        "time": "2015-12-07T12:56:19.007987+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bd2ae5497af34e3da42edad2bca6864f",
+        "time": "2015-12-07T13:04:19.026289+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ef469d27e245f0a4859600ac955350",
+        "time": "2015-12-07T13:02:19.008168+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bd2ae5497af34e3da42edad2bca6864f",
+        "time": "2015-12-07T12:52:19.007539+00:00"
+      },
+      "turn_1": {
+        "bidder": "89ef469d27e245f0a4859600ac955350",
+        "time": "2015-12-07T12:50:19.008839+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "89ef469d27e245f0a4859600ac955350",
+          "amount": 8592.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380432554328",
+                "telephone": "+380637283770",
+                "name": "Притула Світлана Володимирівна",
+                "email": "celuka@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2630309288"
+              },
+              "name": "ФОП Притула",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "23310",
+                "region": "Вінницька область",
+                "streetAddress": "вул.Терешкової",
+                "locality": "Гнівань"
+              }
+            }
+          ],
+          "time": "2015-12-04T12:28:15.368832+02:00"
+        },
+        {
+          "bidder": "bd2ae5497af34e3da42edad2bca6864f",
+          "amount": 6580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://stomatolog-g.com.ua/",
+                "faxNumber": "044-531-98-90",
+                "telephone": "044-287-10-20",
+                "name": "Жайворонок Микола Миколайович",
+                "email": "stom-zh@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19259806",
+                "legalName": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\""
+              },
+              "name": "Товариство з обмеженою відповідальністю виробничо-комерційна фірма \"Стоматолог-Ж\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03187",
+                "region": "Київська",
+                "streetAddress": "вул. Заболотного, 48 А, блок А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T17:48:03.190664+02:00"
+        }
+      ],
+      "time": "2015-12-07T13:04:21.807774+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T12:28:15.368832+02:00",
+          "amount": 8592.0,
+          "bidder": "89ef469d27e245f0a4859600ac955350"
+        },
+        {
+          "date": "2015-12-02T17:48:03.190664+02:00",
+          "amount": 6580.0,
+          "bidder": "bd2ae5497af34e3da42edad2bca6864f"
+        }
+      ],
+      "time": "2015-12-07T12:43:19.004322+00:00"
+    }
+  },
+  "id": "0fd3fc4efbcd4755b9df3dcc1e00f720",
+  "tenderId": "UA-2015-11-27-000104-a"
+}

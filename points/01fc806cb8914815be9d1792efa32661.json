@@ -1,0 +1,203 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "c2b104ec9af74b979f7ee3e5e6c52ac8",
+        "time": "2015-11-06T12:35:23.007894+00:00"
+      },
+      "turn_2": {
+        "bidder": "3d5dab6aa6a64924b309baea6a146391",
+        "time": "2015-11-06T12:31:23.007739+00:00"
+      },
+      "turn_3": {
+        "bidder": "2789a4bab9574cc0b60549faa3c4c467",
+        "time": "2015-11-06T12:33:23.007282+00:00"
+      },
+      "turn_1": {
+        "amount": 11250.0,
+        "bid_time": "2015-11-06T14:28:06.501846+02:00",
+        "bidder": "ae628eca35984faaa8faa8272a5ab51f",
+        "time": "2015-11-06T12:29:23.008966+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "ae628eca35984faaa8faa8272a5ab51f",
+        "time": "2015-11-06T12:45:23.007082+00:00"
+      },
+      "turn_2": {
+        "bidder": "2789a4bab9574cc0b60549faa3c4c467",
+        "time": "2015-11-06T12:41:23.006940+00:00"
+      },
+      "turn_3": {
+        "amount": 11100.0,
+        "bid_time": "2015-11-06T14:43:10.358922+02:00",
+        "bidder": "c2b104ec9af74b979f7ee3e5e6c52ac8",
+        "time": "2015-11-06T12:43:23.008615+00:00"
+      },
+      "turn_1": {
+        "bidder": "3d5dab6aa6a64924b309baea6a146391",
+        "time": "2015-11-06T12:39:23.006835+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "c2b104ec9af74b979f7ee3e5e6c52ac8",
+        "time": "2015-11-06T12:25:23.032867+00:00"
+      },
+      "turn_2": {
+        "bidder": "3d5dab6aa6a64924b309baea6a146391",
+        "time": "2015-11-06T12:21:23.013489+00:00"
+      },
+      "turn_3": {
+        "bidder": "2789a4bab9574cc0b60549faa3c4c467",
+        "time": "2015-11-06T12:23:23.008582+00:00"
+      },
+      "turn_1": {
+        "bidder": "ae628eca35984faaa8faa8272a5ab51f",
+        "time": "2015-11-06T12:19:23.008460+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3d5dab6aa6a64924b309baea6a146391",
+          "amount": 14350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380981556028",
+                "name": "Частное предприятие «АЛЬЯНС-ЛМ»",
+                "email": "alyanslm@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36040577",
+                "legalName": "Частное предприятие «АЛЬЯНС-ЛМ»"
+              },
+              "name": "Частное предприятие «АЛЬЯНС-ЛМ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "50085,Днепропетровская обл., г. Кривой Рог, ул. Коротченко, д.20, кв101",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-02T19:31:22.513456+02:00"
+        },
+        {
+          "bidder": "2789a4bab9574cc0b60549faa3c4c467",
+          "amount": 14256.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442282992",
+                "name": "ТОВ \"К.Альтернатива\"",
+                "email": "k_alternativa@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39033177",
+                "legalName": "ТОВ \"К.Альтернатива\""
+              },
+              "name": "ТОВ \"К.Альтернатива\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04073, м. Київ, вул. Сирецька, буд. 31",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T21:53:07.392102+02:00"
+        },
+        {
+          "bidder": "ae628eca35984faaa8faa8272a5ab51f",
+          "amount": 11250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984253685",
+                "name": "Олег Кальченко",
+                "email": "ipdt@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37054093",
+                "legalName": "Інститут прикладних досліджень тендерних закупівель"
+              },
+              "name": "Інститут прикладних досліджень тендерних закупівель",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02156",
+                "region": "Киевская",
+                "streetAddress": "м. Київ вул Матеюка 9 оф. 50",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T14:28:06.501846+02:00"
+        },
+        {
+          "bidder": "c2b104ec9af74b979f7ee3e5e6c52ac8",
+          "amount": 11100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ukr-siz.dp.ua",
+                "telephone": "+380676408010",
+                "name": "ООО \"НПП \"Защита Украины\"",
+                "email": "ukrsiz1987@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35738706",
+                "legalName": "ООО \"НПП \"Защита Украины\""
+              },
+              "name": "ООО \"НПП \"Защита Украины\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, г. Днепропетровск, ул Каверина 1, оф. 244-245",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T14:43:10.358922+02:00"
+        }
+      ],
+      "time": "2015-11-06T12:46:07.162228+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T21:51:38.532559+02:00",
+          "amount": 14398.0,
+          "bidder": "ae628eca35984faaa8faa8272a5ab51f"
+        },
+        {
+          "date": "2015-11-02T19:31:22.513456+02:00",
+          "amount": 14350.0,
+          "bidder": "3d5dab6aa6a64924b309baea6a146391"
+        },
+        {
+          "date": "2015-11-04T21:53:07.392102+02:00",
+          "amount": 14256.0,
+          "bidder": "2789a4bab9574cc0b60549faa3c4c467"
+        },
+        {
+          "date": "2015-10-30T13:08:39.877185+02:00",
+          "amount": 14200.0,
+          "bidder": "c2b104ec9af74b979f7ee3e5e6c52ac8"
+        }
+      ],
+      "time": "2015-11-06T12:12:23.003497+00:00"
+    }
+  },
+  "id": "01fc806cb8914815be9d1792efa32661",
+  "tenderId": "UA-2015-10-27-000210"
+}

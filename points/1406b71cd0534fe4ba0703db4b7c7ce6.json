@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9c99b8f310b94bf48bfdf13856c57fdd",
+        "time": "2015-11-03T09:19:20.008777+00:00"
+      },
+      "turn_3": {
+        "amount": 3730.0,
+        "bid_time": "2015-11-03T11:20:00.105298+02:00",
+        "bidder": "ccef29515d3f4576925d9e4c8c3b780d",
+        "time": "2015-11-03T09:21:20.008413+00:00"
+      },
+      "turn_1": {
+        "amount": 3770.0,
+        "bid_time": "2015-11-03T11:15:48.948831+02:00",
+        "bidder": "9e976de3eaec4538b450985d23eb9be4",
+        "time": "2015-11-03T09:17:20.016223+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 3700.0,
+        "bid_time": "2015-11-03T11:26:23.992964+02:00",
+        "bidder": "9e976de3eaec4538b450985d23eb9be4",
+        "time": "2015-11-03T09:27:20.009143+00:00"
+      },
+      "turn_3": {
+        "amount": 3680.0,
+        "bid_time": "2015-11-03T11:27:45.831565+02:00",
+        "bidder": "ccef29515d3f4576925d9e4c8c3b780d",
+        "time": "2015-11-03T09:29:20.011811+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c99b8f310b94bf48bfdf13856c57fdd",
+        "time": "2015-11-03T09:25:20.007197+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3780.0,
+        "bid_time": "2015-11-03T11:09:32.553318+02:00",
+        "bidder": "ccef29515d3f4576925d9e4c8c3b780d",
+        "time": "2015-11-03T09:11:20.008626+00:00"
+      },
+      "turn_3": {
+        "bidder": "9c99b8f310b94bf48bfdf13856c57fdd",
+        "time": "2015-11-03T09:13:20.008829+00:00"
+      },
+      "turn_1": {
+        "bidder": "9e976de3eaec4538b450985d23eb9be4",
+        "time": "2015-11-03T09:09:20.009416+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9c99b8f310b94bf48bfdf13856c57fdd",
+          "amount": 3790.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442060946",
+                "name": "ТОВ \"КПГ\"",
+                "email": "kpg_kiev@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32919024",
+                "legalName": "ТОВ \"КПГ\""
+              },
+              "name": "ТОВ \"КПГ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Київ ,вул..П.Лумумби 4/6,оф .1205",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-31T11:31:59.464210+02:00"
+        },
+        {
+          "bidder": "9e976de3eaec4538b450985d23eb9be4",
+          "amount": 3700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503206741",
+                "name": "Игорь",
+                "email": "sin-67@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39747337",
+                "legalName": "Интерагрос"
+              },
+              "name": "Интерагрос",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "491230",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-03T11:26:23.992964+02:00"
+        },
+        {
+          "bidder": "ccef29515d3f4576925d9e4c8c3b780d",
+          "amount": 3680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-03T11:27:45.831565+02:00"
+        }
+      ],
+      "time": "2015-11-03T09:29:21.459008+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-30T18:41:15.661417+02:00",
+          "amount": 4500.0,
+          "bidder": "9e976de3eaec4538b450985d23eb9be4"
+        },
+        {
+          "date": "2015-11-02T17:16:15.829917+02:00",
+          "amount": 4132.32,
+          "bidder": "ccef29515d3f4576925d9e4c8c3b780d"
+        },
+        {
+          "date": "2015-10-31T11:31:59.464210+02:00",
+          "amount": 3790.0,
+          "bidder": "9c99b8f310b94bf48bfdf13856c57fdd"
+        }
+      ],
+      "time": "2015-11-03T09:02:20.003629+00:00"
+    }
+  },
+  "id": "1406b71cd0534fe4ba0703db4b7c7ce6",
+  "tenderId": "UA-2015-10-29-000199"
+}

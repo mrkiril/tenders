@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6d754be354cf477aaeaffc8bc255362a",
+        "time": "2015-11-13T13:48:42.008851+00:00"
+      },
+      "turn_1": {
+        "bidder": "8083a63bd685429fbe0f3a6c9e2ae74e",
+        "time": "2015-11-13T13:46:42.009171+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6d754be354cf477aaeaffc8bc255362a",
+        "time": "2015-11-13T13:54:42.008171+00:00"
+      },
+      "turn_1": {
+        "bidder": "8083a63bd685429fbe0f3a6c9e2ae74e",
+        "time": "2015-11-13T13:52:42.008659+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6d754be354cf477aaeaffc8bc255362a",
+        "time": "2015-11-13T13:42:42.025420+00:00"
+      },
+      "turn_1": {
+        "bidder": "8083a63bd685429fbe0f3a6c9e2ae74e",
+        "time": "2015-11-13T13:40:42.008948+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8083a63bd685429fbe0f3a6c9e2ae74e",
+          "amount": 35612.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674094449",
+                "name": "Владислав Герасименко",
+                "email": "vg@tara.net.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Торговый Дом \"ТАРА\"\"",
+                "id": "38483300",
+                "uri": "http://tara.ua"
+              },
+              "name": "ТОВ \"Торговый Дом \"ТАРА\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03126",
+                "region": "Киевская",
+                "streetAddress": "Ул. Михаила Донца",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T15:54:37.308523+02:00"
+        },
+        {
+          "bidder": "6d754be354cf477aaeaffc8bc255362a",
+          "amount": 17250.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380665995176",
+                "name": "Кондауров Олександр",
+                "email": "o.kondaurov@aftgroup.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38855141",
+                "legalName": "ДП « Торговий дім АФТ »"
+              },
+              "name": "ДП « Торговий дім АФТ »",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-12T09:41:06.790110+02:00"
+        }
+      ],
+      "time": "2015-11-13T13:54:44.902101+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-06T15:54:37.308523+02:00",
+          "amount": 35612.0,
+          "bidder": "8083a63bd685429fbe0f3a6c9e2ae74e"
+        },
+        {
+          "date": "2015-11-12T09:41:06.790110+02:00",
+          "amount": 17250.0,
+          "bidder": "6d754be354cf477aaeaffc8bc255362a"
+        }
+      ],
+      "time": "2015-11-13T13:33:42.005072+00:00"
+    }
+  },
+  "id": "05814a06f5e64f04bfd23ac2b151622a",
+  "tenderId": "UA-2015-11-02-000088"
+}

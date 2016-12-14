@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "fbc14b25065745daa217bd10333dd1f5",
+        "time": "2015-12-17T11:51:49.008037+00:00"
+      },
+      "turn_1": {
+        "bidder": "6ef5c220cc3b401384484ed1ae39df50",
+        "time": "2015-12-17T11:49:49.007618+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fbc14b25065745daa217bd10333dd1f5",
+        "time": "2015-12-17T11:57:49.006846+00:00"
+      },
+      "turn_1": {
+        "bidder": "6ef5c220cc3b401384484ed1ae39df50",
+        "time": "2015-12-17T11:55:49.007693+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fbc14b25065745daa217bd10333dd1f5",
+        "time": "2015-12-17T11:45:49.015690+00:00"
+      },
+      "turn_1": {
+        "bidder": "6ef5c220cc3b401384484ed1ae39df50",
+        "time": "2015-12-17T11:43:49.007971+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6ef5c220cc3b401384484ed1ae39df50",
+          "amount": 725180.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380669434551",
+                "name": "Дмитрий",
+                "email": "tdasoft@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3089724432",
+                "legalName": "СПД Тимофеев Дмитрий Александрович"
+              },
+              "name": "СПД Тимофеев Дмитрий Александрович",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-16T15:30:08.603705+02:00"
+        },
+        {
+          "bidder": "fbc14b25065745daa217bd10333dd1f5",
+          "amount": 713965.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380501902322",
+                "name": "Дмитро Петровський",
+                "email": "office@promin.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25420810",
+                "legalName": "ТОВ \"КОМП'ЮТЕРНИЙ ЦЕНТР ПРОМІНЬ\""
+              },
+              "name": "ТОВ \"КОМП'ЮТЕРНИЙ ЦЕНТР ПРОМІНЬ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65045",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул. Катерининська, 41",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-12-16T15:41:34.632111+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:57:49.678775+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T15:30:08.603705+02:00",
+          "amount": 725180.0,
+          "bidder": "6ef5c220cc3b401384484ed1ae39df50"
+        },
+        {
+          "date": "2015-12-16T15:41:34.632111+02:00",
+          "amount": 713965.0,
+          "bidder": "fbc14b25065745daa217bd10333dd1f5"
+        }
+      ],
+      "time": "2015-12-17T11:36:49.003428+00:00"
+    }
+  },
+  "id": "4c463c916b5e4a9998d523ae9f7b6520",
+  "tenderId": "UA-2015-12-11-000044"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ed6902a182ae476eb3d24928d6a01def",
+        "time": "2015-10-29T13:19:22.013782+00:00"
+      },
+      "turn_1": {
+        "bidder": "7ea4822b331f4eb5b1ef683052ad0cc2",
+        "time": "2015-10-29T13:17:22.007756+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ed6902a182ae476eb3d24928d6a01def",
+        "time": "2015-10-29T13:25:22.009580+00:00"
+      },
+      "turn_1": {
+        "bidder": "7ea4822b331f4eb5b1ef683052ad0cc2",
+        "time": "2015-10-29T13:23:22.007152+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ed6902a182ae476eb3d24928d6a01def",
+        "time": "2015-10-29T13:13:22.009099+00:00"
+      },
+      "turn_1": {
+        "amount": 223200.0,
+        "bid_time": "2015-10-29T15:10:01.109786+02:00",
+        "bidder": "7ea4822b331f4eb5b1ef683052ad0cc2",
+        "time": "2015-10-29T13:11:22.010441+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "7ea4822b331f4eb5b1ef683052ad0cc2",
+          "amount": 223200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://datagroup.ua",
+                "faxNumber": "044538-00-07",
+                "telephone": "044538-00-08",
+                "name": "Краснощок Олександр Володимирович",
+                "email": "Aleksandr.Krasnoschek@datagroup.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31720260",
+                "legalName": "Приватне акціонерне товариство «ДАТАГРУП»"
+              },
+              "name": "Приватне акціонерне товариство «ДАТАГРУП»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03057",
+                "region": "Київська",
+                "streetAddress": "Смоленська, 31/33",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-29T15:10:01.109786+02:00"
+        },
+        {
+          "bidder": "ed6902a182ae476eb3d24928d6a01def",
+          "amount": 99000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38044591-11-11, +380504407921",
+                "name": "Андрій Сіренко",
+                "email": "a.sirenko@triasystems.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32667140",
+                "legalName": "ТОВ \"Т.Е.С.Т.\""
+              },
+              "name": "ТОВ \"Т.Е.С.Т.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01033",
+                "region": "Киевская",
+                "streetAddress": "вул. Шота Руставелі, 31-Б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-28T15:47:30.384230+02:00"
+        }
+      ],
+      "time": "2015-10-29T13:25:46.305035+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-28T15:10:55.365259+02:00",
+          "amount": 230400.0,
+          "bidder": "7ea4822b331f4eb5b1ef683052ad0cc2"
+        },
+        {
+          "date": "2015-10-28T15:47:30.384230+02:00",
+          "amount": 99000.0,
+          "bidder": "ed6902a182ae476eb3d24928d6a01def"
+        }
+      ],
+      "time": "2015-10-29T13:04:22.004414+00:00"
+    }
+  },
+  "id": "20424c59299442309938f1e8b6dbc279",
+  "tenderId": "UA-2015-10-19-000266"
+}

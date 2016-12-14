@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6f013384c9ef4c749e474c335be0d214",
+        "time": "2015-09-10T10:15:00.047453+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bf598b57efe414e83c496c0690b31ff",
+        "time": "2015-09-10T10:13:00.020339+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6f013384c9ef4c749e474c335be0d214",
+        "time": "2015-09-10T10:21:00.032444+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bf598b57efe414e83c496c0690b31ff",
+        "time": "2015-09-10T10:19:00.034327+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6f013384c9ef4c749e474c335be0d214",
+        "time": "2015-09-10T10:09:00.046263+00:00"
+      },
+      "turn_1": {
+        "bidder": "0bf598b57efe414e83c496c0690b31ff",
+        "time": "2015-09-10T10:07:00.023613+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0bf598b57efe414e83c496c0690b31ff",
+          "amount": 5738.46,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kot.biz.ua",
+                "telephone": "+380563758907",
+                "name": "Товариство з обмеженою відповідальністю “ІМПАП”",
+                "email": "vyacheslav.fortuna@kot.biz.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30198424",
+                "legalName": "Товариство з обмеженою відповідальністю “ІМПАП”"
+              },
+              "name": "Товариство з обмеженою відповідальністю “ІМПАП”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул. Московська, буд. 12, Бабушкінський р-н, м. Днiпропетровськ, Дніпропетровська обл., 49000",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-03T11:06:16.081618+03:00"
+        },
+        {
+          "bidder": "6f013384c9ef4c749e474c335be0d214",
+          "amount": 5338.46,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380952793624",
+                "name": "Анна Швец-Драганова",
+                "email": "shvec.anna@tu.odessa.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23863399",
+                "legalName": "ООО\" ТехноЮг\""
+              },
+              "name": "ООО\" ТехноЮг\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65020",
+                "region": "Одесская",
+                "streetAddress": "ул. Л. Толстого, б.30",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-03T16:09:15.885585+03:00"
+        }
+      ],
+      "time": "2015-09-10T10:21:09.427350+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T11:06:16.081618+03:00",
+          "amount": 5738.46,
+          "bidder": "0bf598b57efe414e83c496c0690b31ff"
+        },
+        {
+          "date": "2015-09-03T16:09:15.885585+03:00",
+          "amount": 5338.46,
+          "bidder": "6f013384c9ef4c749e474c335be0d214"
+        }
+      ],
+      "time": "2015-09-10T10:00:00.004100+00:00"
+    }
+  },
+  "id": "15a284b35c514ae39946861e570086de",
+  "tenderId": "UA-2015-08-28-000138"
+}

@@ -1,0 +1,109 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e7b27bced56b41f085b8e710ca9ff6fd",
+        "time": "2015-11-23T11:54:44.008154+00:00"
+      },
+      "turn_1": {
+        "bidder": "f26820bb0fc646528e8d8f593916afad",
+        "time": "2015-11-23T11:52:44.008858+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e7b27bced56b41f085b8e710ca9ff6fd",
+        "time": "2015-11-23T12:00:44.008954+00:00"
+      },
+      "turn_1": {
+        "bidder": "f26820bb0fc646528e8d8f593916afad",
+        "time": "2015-11-23T11:58:44.008003+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e7b27bced56b41f085b8e710ca9ff6fd",
+        "time": "2015-11-23T11:48:44.008367+00:00"
+      },
+      "turn_1": {
+        "bidder": "f26820bb0fc646528e8d8f593916afad",
+        "time": "2015-11-23T11:46:44.009787+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f26820bb0fc646528e8d8f593916afad",
+          "amount": 13170.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677921681",
+                "name": "Батрак Роман Миколайович",
+                "email": "rnb.79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2933704543"
+              },
+              "name": "ФОП Батрак Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська область",
+                "streetAddress": "вул.О.Попова, буд.15, кв.35",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:26:12.954768+02:00"
+        },
+        {
+          "bidder": "e7b27bced56b41f085b8e710ca9ff6fd",
+          "amount": 8912.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445228181",
+                "telephone": "+380674070331",
+                "name": "Артимчук Тетяна Миколаївна",
+                "email": "vesta_invest@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32524409"
+              },
+              "name": "ТОВ \"Компанія \"ВЕСТА-ІНВЕСТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08292",
+                "region": "Київська область",
+                "streetAddress": "вул. Лінія 3 СТ Вишневе б.14",
+                "locality": "Буча"
+              }
+            }
+          ],
+          "time": "2015-11-20T16:16:56.863254+02:00"
+        }
+      ],
+      "time": "2015-11-23T12:00:53.169156+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T13:26:12.954768+02:00",
+          "amount": 13170.0,
+          "bidder": "f26820bb0fc646528e8d8f593916afad"
+        },
+        {
+          "date": "2015-11-20T16:16:56.863254+02:00",
+          "amount": 8912.0,
+          "bidder": "e7b27bced56b41f085b8e710ca9ff6fd"
+        }
+      ],
+      "time": "2015-11-23T11:39:44.004452+00:00"
+    }
+  },
+  "id": "0ea35f2259994ea996f21c02df6f15a7",
+  "tenderId": "UA-2015-11-13-000090-b"
+}

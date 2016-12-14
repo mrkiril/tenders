@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5aba255c77994adda7139fc90b004d60",
+        "time": "2015-06-22T08:15:00.363433+00:00"
+      },
+      "turn_1": {
+        "bidder": "24b765a87cda4c60b90d46ad0d758ed9",
+        "time": "2015-06-22T08:13:00.593903+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5aba255c77994adda7139fc90b004d60",
+        "time": "2015-06-22T08:21:00.967585+00:00"
+      },
+      "turn_1": {
+        "bidder": "24b765a87cda4c60b90d46ad0d758ed9",
+        "time": "2015-06-22T08:19:00.334023+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5aba255c77994adda7139fc90b004d60",
+        "time": "2015-06-22T08:09:00.252680+00:00"
+      },
+      "turn_1": {
+        "bidder": "24b765a87cda4c60b90d46ad0d758ed9",
+        "time": "2015-06-22T08:07:00.190581+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "24b765a87cda4c60b90d46ad0d758ed9",
+          "amount": 2599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://eia.com.ua",
+                "faxNumber": "0552420163",
+                "telephone": "0552420163",
+                "name": "Гожуловська Олена Анатоліївна",
+                "email": "kherson@eia.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33447446",
+                "legalName": "Херсонська дирекція приватного акціонерного товариства \"Європейський страховий альянс\""
+              },
+              "name": "Херсонська дирекція приватного акціонерного товариства \"Європейський страховий альянс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73026",
+                "region": "Херсонська",
+                "streetAddress": "Карла Маркса, 98/6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-19T12:20:43.889132+03:00"
+        },
+        {
+          "bidder": "5aba255c77994adda7139fc90b004d60",
+          "amount": 18.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dneprinmed.com.ua",
+                "faxNumber": "056-7370-18-96",
+                "telephone": "067-568-9-568",
+                "name": "Ревенко Євгеній Федорович",
+                "email": "limonova@dneprinmed.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21870998",
+                "legalName": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО СТРАХОВА КОМПАНІЯ ДНІПРОІНМЕД"
+              },
+              "name": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО СТРАХОВА КОМПАНІЯ ДНІПРОІНМЕД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49044",
+                "region": "Дніпропетровська",
+                "streetAddress": "Виконкомівська 24а, оф. 69",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-22T09:57:39.902685+03:00"
+        }
+      ],
+      "time": "2015-06-22T08:21:21.115738+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-19T12:20:43.889132+03:00",
+          "amount": 2599.0,
+          "bidder": "24b765a87cda4c60b90d46ad0d758ed9"
+        },
+        {
+          "date": "2015-06-22T09:57:39.902685+03:00",
+          "amount": 18.9,
+          "bidder": "5aba255c77994adda7139fc90b004d60"
+        }
+      ],
+      "time": "2015-06-22T08:00:00.336804+00:00"
+    }
+  },
+  "id": "15b8d9f4de3a44aa9d164fdcf4429ce1",
+  "tenderId": "UA-2015-06-12-000031"
+}

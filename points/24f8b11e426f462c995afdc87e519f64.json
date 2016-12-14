@@ -1,0 +1,165 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 410.0,
+        "bid_time": "2015-09-07T11:45:13.590564+03:00",
+        "bidder": "abaa6d1285f346b3b83a3f2bc4f6dbdc",
+        "time": "2015-09-07T08:47:00.027838+00:00"
+      },
+      "turn_3": {
+        "amount": 400.0,
+        "bid_time": "2015-09-07T11:47:41.114085+03:00",
+        "bidder": "a9bab1bba9b241f89f16c89ec5388dfd",
+        "time": "2015-09-07T08:49:00.064477+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffa5a82199ee4a1480747661a9088df1",
+        "time": "2015-09-07T08:45:00.116139+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 345.0,
+        "bid_time": "2015-09-07T11:53:48.331809+03:00",
+        "bidder": "abaa6d1285f346b3b83a3f2bc4f6dbdc",
+        "time": "2015-09-07T08:55:00.015032+00:00"
+      },
+      "turn_3": {
+        "amount": 340.0,
+        "bid_time": "2015-09-07T11:56:18.830160+03:00",
+        "bidder": "a9bab1bba9b241f89f16c89ec5388dfd",
+        "time": "2015-09-07T08:57:00.016482+00:00"
+      },
+      "turn_1": {
+        "amount": 350.0,
+        "bid_time": "2015-09-07T11:51:07.554309+03:00",
+        "bidder": "ffa5a82199ee4a1480747661a9088df1",
+        "time": "2015-09-07T08:53:00.035485+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "abaa6d1285f346b3b83a3f2bc4f6dbdc",
+        "time": "2015-09-07T08:39:00.100382+00:00"
+      },
+      "turn_3": {
+        "bidder": "a9bab1bba9b241f89f16c89ec5388dfd",
+        "time": "2015-09-07T08:41:00.068279+00:00"
+      },
+      "turn_1": {
+        "bidder": "ffa5a82199ee4a1480747661a9088df1",
+        "time": "2015-09-07T08:37:00.062590+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ffa5a82199ee4a1480747661a9088df1",
+          "amount": 350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444072086",
+                "name": "Приватне підприємство \"Промбудсервіс\"",
+                "email": "Prombudservis2003@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32739953",
+                "legalName": "Приватне підприємство \"Промбудсервіс\""
+              },
+              "name": "Приватне підприємство \"Промбудсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08150,Київська область,Києво-Святошинський район,м.Боярка,вул.Крилова,буд.4-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T11:51:07.554309+03:00"
+        },
+        {
+          "bidder": "abaa6d1285f346b3b83a3f2bc4f6dbdc",
+          "amount": 345.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380963147404",
+                "name": "ООО \"Майком\"",
+                "email": "yana.d@axiomplus.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37311301",
+                "legalName": "ООО \"Майком\""
+              },
+              "name": "ООО \"Майком\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03142",
+                "region": "КИЕВСКАЯ ОБЛ.",
+                "streetAddress": "ул. Академика Крымского, 27-А",
+                "locality": "КИЕВ"
+              }
+            }
+          ],
+          "time": "2015-09-07T11:53:48.331809+03:00"
+        },
+        {
+          "bidder": "a9bab1bba9b241f89f16c89ec5388dfd",
+          "amount": 340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-07T11:56:18.830160+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:57:10.550216+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-03T13:00:06.243300+03:00",
+          "amount": 500.0,
+          "bidder": "ffa5a82199ee4a1480747661a9088df1"
+        },
+        {
+          "date": "2015-09-03T11:50:45.002089+03:00",
+          "amount": 480.0,
+          "bidder": "abaa6d1285f346b3b83a3f2bc4f6dbdc"
+        },
+        {
+          "date": "2015-09-06T01:51:13.327663+03:00",
+          "amount": 420.0,
+          "bidder": "a9bab1bba9b241f89f16c89ec5388dfd"
+        }
+      ],
+      "time": "2015-09-07T08:30:00.004154+00:00"
+    }
+  },
+  "id": "24f8b11e426f462c995afdc87e519f64",
+  "tenderId": "UA-2015-08-31-000087"
+}

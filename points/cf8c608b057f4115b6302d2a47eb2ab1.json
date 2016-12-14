@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e7e6cb88e1ef459e8d3034db03f0caae",
+        "time": "2015-07-21T08:15:00.076499+00:00"
+      },
+      "turn_1": {
+        "bidder": "294aef250b194a0892fbce4991514e74",
+        "time": "2015-07-21T08:13:00.069072+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e7e6cb88e1ef459e8d3034db03f0caae",
+        "time": "2015-07-21T08:21:00.051678+00:00"
+      },
+      "turn_1": {
+        "bidder": "294aef250b194a0892fbce4991514e74",
+        "time": "2015-07-21T08:19:00.043380+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e7e6cb88e1ef459e8d3034db03f0caae",
+        "time": "2015-07-21T08:09:00.035722+00:00"
+      },
+      "turn_1": {
+        "bidder": "294aef250b194a0892fbce4991514e74",
+        "time": "2015-07-21T08:07:00.054533+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "294aef250b194a0892fbce4991514e74",
+          "amount": 24267.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdvl.com.ua",
+                "telephone": "+380577646148",
+                "name": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»",
+                "email": "td-vladar@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32947554",
+                "legalName": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»"
+              },
+              "name": "Общество с ограниченной ответственностью  «ТД Владар-Харьков»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61022, г. Харьков, ул. Ивановская, д.1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T16:12:14.585063+03:00"
+        },
+        {
+          "bidder": "e7e6cb88e1ef459e8d3034db03f0caae",
+          "amount": 23200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673144142",
+                "name": "ТзОВ “Шольц Утилізатор АГ”",
+                "email": "agmakku@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36992710",
+                "legalName": "ТзОВ “Шольц Утилізатор АГ”"
+              },
+              "name": "ТзОВ “Шольц Утилізатор АГ”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "79069, м. Львів, вул. Шевченка, 317;",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T18:05:43.881498+03:00"
+        }
+      ],
+      "time": "2015-07-21T08:21:03.327925+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-16T16:12:14.585063+03:00",
+          "amount": 24267.0,
+          "bidder": "294aef250b194a0892fbce4991514e74"
+        },
+        {
+          "date": "2015-07-16T18:05:43.881498+03:00",
+          "amount": 23200.0,
+          "bidder": "e7e6cb88e1ef459e8d3034db03f0caae"
+        }
+      ],
+      "time": "2015-07-21T08:00:00.020816+00:00"
+    }
+  },
+  "id": "cf8c608b057f4115b6302d2a47eb2ab1",
+  "tenderId": "UA-2015-07-09-000065"
+}

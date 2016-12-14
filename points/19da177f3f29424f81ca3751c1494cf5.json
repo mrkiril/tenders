@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 5900.0,
+        "bid_time": "2015-09-25T13:14:43.521853+03:00",
+        "bidder": "5433106c04794e0ebb90c9e164f9904c",
+        "time": "2015-09-25T10:16:25.008220+00:00"
+      },
+      "turn_1": {
+        "amount": 5950.0,
+        "bid_time": "2015-09-25T13:13:20.337712+03:00",
+        "bidder": "4ecb4f4219964cf788eb024124d50fd1",
+        "time": "2015-09-25T10:14:25.011244+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5433106c04794e0ebb90c9e164f9904c",
+        "time": "2015-09-25T10:22:25.007136+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ecb4f4219964cf788eb024124d50fd1",
+        "time": "2015-09-25T10:20:25.008903+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5433106c04794e0ebb90c9e164f9904c",
+        "time": "2015-09-25T10:10:25.008103+00:00"
+      },
+      "turn_1": {
+        "bidder": "4ecb4f4219964cf788eb024124d50fd1",
+        "time": "2015-09-25T10:08:25.007392+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4ecb4f4219964cf788eb024124d50fd1",
+          "amount": 5950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-09-25T13:13:20.337712+03:00"
+        },
+        {
+          "bidder": "5433106c04794e0ebb90c9e164f9904c",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.flagman-kiev.com",
+                "telephone": "+380682405185",
+                "name": "Волков Вячеслав Борисович",
+                "email": "office@flagman-kiev.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31810757"
+              },
+              "name": "ТОВ \"Компанія \"Флагман\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04213",
+                "region": "Київська область",
+                "streetAddress": "вул. Прирічна, буд. 37, кв. 124",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-25T13:14:43.521853+03:00"
+        }
+      ],
+      "time": "2015-09-25T10:22:26.495229+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-23T19:42:24.475177+03:00",
+          "amount": 6060.0,
+          "bidder": "4ecb4f4219964cf788eb024124d50fd1"
+        },
+        {
+          "date": "2015-09-24T16:57:21.321910+03:00",
+          "amount": 6000.0,
+          "bidder": "5433106c04794e0ebb90c9e164f9904c"
+        }
+      ],
+      "time": "2015-09-25T10:01:25.003466+00:00"
+    }
+  },
+  "id": "19da177f3f29424f81ca3751c1494cf5",
+  "tenderId": "UA-2015-09-22-000352"
+}

@@ -1,0 +1,125 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 26706.0,
+        "bid_time": "2015-10-15T13:21:20.499751+03:00",
+        "bidder": "fa3f4686b8af41e3ac849dd9b126942c",
+        "time": "2015-10-15T10:22:44.006993+00:00"
+      },
+      "turn_1": {
+        "amount": 26810.0,
+        "bid_time": "2015-10-15T13:19:05.291462+03:00",
+        "bidder": "387235f65bdd4eb5bd99c10b8aa59b71",
+        "time": "2015-10-15T10:20:44.007852+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 26394.0,
+        "bid_time": "2015-10-15T13:27:31.183482+03:00",
+        "bidder": "fa3f4686b8af41e3ac849dd9b126942c",
+        "time": "2015-10-15T10:28:44.007235+00:00"
+      },
+      "turn_1": {
+        "amount": 26400.0,
+        "bid_time": "2015-10-15T13:25:26.817601+03:00",
+        "bidder": "387235f65bdd4eb5bd99c10b8aa59b71",
+        "time": "2015-10-15T10:26:44.008227+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 26848.0,
+        "bid_time": "2015-10-15T13:15:59.268974+03:00",
+        "bidder": "fa3f4686b8af41e3ac849dd9b126942c",
+        "time": "2015-10-15T10:16:44.009383+00:00"
+      },
+      "turn_1": {
+        "amount": 26950.0,
+        "bid_time": "2015-10-15T13:13:42.859889+03:00",
+        "bidder": "387235f65bdd4eb5bd99c10b8aa59b71",
+        "time": "2015-10-15T10:14:44.007894+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "387235f65bdd4eb5bd99c10b8aa59b71",
+          "amount": 26400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.universalgroupe.com.ua",
+                "telephone": "+380675234373",
+                "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+                "email": "0675234373@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37871443",
+                "legalName": "ЧП НВП СПЕЦТЕХКАПИТАЛ"
+              },
+              "name": "ЧП НВП СПЕЦТЕХКАПИТАЛ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "гВольногорск",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T13:25:26.817601+03:00"
+        },
+        {
+          "bidder": "fa3f4686b8af41e3ac849dd9b126942c",
+          "amount": 26394.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://azov-arsenal.com.ua/",
+                "faxNumber": "0629411560",
+                "telephone": "0629410816",
+                "name": "ПП \"Азов-Арсенал\"",
+                "email": "alexey.dyachenko@azov-arsenal.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32320793",
+                "legalName": "ПП \"Азов-Арсенал\""
+              },
+              "name": "ПП \"Азов-Арсенал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "87539",
+                "region": "Донецька",
+                "streetAddress": "пр. Металургів, 97",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-15T13:27:31.183482+03:00"
+        }
+      ],
+      "time": "2015-10-15T10:28:44.987426+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-13T10:58:39.041658+03:00",
+          "amount": 27800.0,
+          "bidder": "387235f65bdd4eb5bd99c10b8aa59b71"
+        },
+        {
+          "date": "2015-10-13T10:43:25.681633+03:00",
+          "amount": 26988.0,
+          "bidder": "fa3f4686b8af41e3ac849dd9b126942c"
+        }
+      ],
+      "time": "2015-10-15T10:07:44.003012+00:00"
+    }
+  },
+  "id": "352f93ae5ef841588443ba766e8f6569",
+  "tenderId": "UA-2015-10-07-000161"
+}

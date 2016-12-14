@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 2490.0,
+        "bid_time": "2015-12-15T11:58:45.482360+02:00",
+        "bidder": "92dbfecd19864a64930e5b7a9a6b2310",
+        "time": "2015-12-15T10:00:11.010140+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f97cf9e6faf428aaf181fa46bb9f388",
+        "time": "2015-12-15T10:02:11.007876+00:00"
+      },
+      "turn_1": {
+        "amount": 2499.0,
+        "bid_time": "2015-12-15T11:56:55.450708+02:00",
+        "bidder": "b4f02b320a334fe5a42c837de54ff123",
+        "time": "2015-12-15T09:58:11.009681+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 2400.0,
+        "bid_time": "2015-12-15T12:07:35.684117+02:00",
+        "bidder": "b4f02b320a334fe5a42c837de54ff123",
+        "time": "2015-12-15T10:08:11.009883+00:00"
+      },
+      "turn_3": {
+        "amount": 2399.0,
+        "bid_time": "2015-12-15T12:08:32.496405+02:00",
+        "bidder": "92dbfecd19864a64930e5b7a9a6b2310",
+        "time": "2015-12-15T10:10:11.010443+00:00"
+      },
+      "turn_1": {
+        "bidder": "1f97cf9e6faf428aaf181fa46bb9f388",
+        "time": "2015-12-15T10:06:11.006585+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 2549.0,
+        "bid_time": "2015-12-15T11:51:01.355686+02:00",
+        "bidder": "92dbfecd19864a64930e5b7a9a6b2310",
+        "time": "2015-12-15T09:52:11.010119+00:00"
+      },
+      "turn_3": {
+        "bidder": "1f97cf9e6faf428aaf181fa46bb9f388",
+        "time": "2015-12-15T09:54:11.008722+00:00"
+      },
+      "turn_1": {
+        "bidder": "b4f02b320a334fe5a42c837de54ff123",
+        "time": "2015-12-15T09:50:11.008955+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1f97cf9e6faf428aaf181fa46bb9f388",
+          "amount": 2500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://201.com.ua/",
+                "telephone": "380966462011",
+                "name": "Олег Яркий ",
+                "email": "che.oleg@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3145221750",
+                "legalName": "НОВЫЙ СТИЛЬ"
+              },
+              "name": "НОВЫЙ СТИЛЬ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49064"
+              }
+            }
+          ],
+          "time": "2015-12-10T10:25:07.327098+02:00"
+        },
+        {
+          "bidder": "b4f02b320a334fe5a42c837de54ff123",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380986305023",
+                "telephone": "+380986305023",
+                "name": "Зітенюк Людмила Володимирівна",
+                "email": "lbotsvinok@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2540118560"
+              },
+              "name": "ФОП Зітенюк Людмила Володимирівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "78700",
+                "region": "Івано-Франківська область",
+                "streetAddress": "вул. Жаб'євська, 146",
+                "locality": "Верховина"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:07:35.684117+02:00"
+        },
+        {
+          "bidder": "92dbfecd19864a64930e5b7a9a6b2310",
+          "amount": 2399.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380343222289",
+                "name": "Шкіндюк Василь Васильович",
+                "email": "kontact_verch@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2517107838"
+              },
+              "name": "ФОП Шкіндюк В В",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "78700",
+                "region": "Івано-Франківська область",
+                "streetAddress": "вул Гуцульського повстання 33",
+                "locality": "Верховина"
+              }
+            }
+          ],
+          "time": "2015-12-15T12:08:32.496405+02:00"
+        }
+      ],
+      "time": "2015-12-15T10:10:25.078903+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-14T12:13:00.968927+02:00",
+          "amount": 2550.0,
+          "bidder": "92dbfecd19864a64930e5b7a9a6b2310"
+        },
+        {
+          "date": "2015-12-14T15:30:03.967227+02:00",
+          "amount": 2550.0,
+          "bidder": "b4f02b320a334fe5a42c837de54ff123"
+        },
+        {
+          "date": "2015-12-10T10:25:07.327098+02:00",
+          "amount": 2500.0,
+          "bidder": "1f97cf9e6faf428aaf181fa46bb9f388"
+        }
+      ],
+      "time": "2015-12-15T09:43:11.004305+00:00"
+    }
+  },
+  "id": "f5ef6f320ffb43ee892fb59ccbfa7714",
+  "tenderId": "UA-2015-12-09-000071-b"
+}

@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "68a77c2df9be4d0d9447524fd36f55d3",
+        "time": "2015-12-11T12:47:57.008635+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d1b1dfe06cb46d09e7fdb7983bf68f8",
+        "time": "2015-12-11T12:45:57.008622+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 144000.0,
+        "bid_time": "2015-12-11T14:52:15.710525+02:00",
+        "bidder": "68a77c2df9be4d0d9447524fd36f55d3",
+        "time": "2015-12-11T12:53:57.009559+00:00"
+      },
+      "turn_1": {
+        "amount": 144732.0,
+        "bid_time": "2015-12-11T14:50:47.858204+02:00",
+        "bidder": "4d1b1dfe06cb46d09e7fdb7983bf68f8",
+        "time": "2015-12-11T12:51:57.008916+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "68a77c2df9be4d0d9447524fd36f55d3",
+        "time": "2015-12-11T12:41:57.008161+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d1b1dfe06cb46d09e7fdb7983bf68f8",
+        "time": "2015-12-11T12:39:57.014613+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d1b1dfe06cb46d09e7fdb7983bf68f8",
+          "amount": 144732.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://gamayun.org.ua",
+                "faxNumber": "+380442009415",
+                "telephone": "+380442009415",
+                "name": "Захарчук Тетяна Володимирівна",
+                "email": "volkovgamayun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39537875"
+              },
+              "name": "ТОВ Гамаюн Груп",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04136",
+                "region": "Київська область",
+                "streetAddress": "вул.Північно-Сирецька, буд.3",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T14:50:47.858204+02:00"
+        },
+        {
+          "bidder": "68a77c2df9be4d0d9447524fd36f55d3",
+          "amount": 144000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380968019838",
+                "name": "Кривіцький В'ячеслав Олександрович",
+                "email": "dimknugi-kanc@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3035918974"
+              },
+              "name": "ФОП Кривицький В.О.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35600",
+                "region": "Рівненська область",
+                "streetAddress": "вул. Космонавтів, 50",
+                "locality": "Дубно"
+              }
+            }
+          ],
+          "time": "2015-12-11T14:52:15.710525+02:00"
+        }
+      ],
+      "time": "2015-12-11T12:54:02.106923+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T15:00:47.885047+02:00",
+          "amount": 189000.0,
+          "bidder": "4d1b1dfe06cb46d09e7fdb7983bf68f8"
+        },
+        {
+          "date": "2015-12-09T09:28:25.796767+02:00",
+          "amount": 169600.0,
+          "bidder": "68a77c2df9be4d0d9447524fd36f55d3"
+        }
+      ],
+      "time": "2015-12-11T12:32:57.002645+00:00"
+    }
+  },
+  "id": "5e15a5b2fe7b4818b76ff3c34aa5c8b9",
+  "tenderId": "UA-2015-11-25-000066"
+}

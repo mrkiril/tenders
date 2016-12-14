@@ -1,0 +1,122 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 16490.0,
+        "bid_time": "2015-11-27T15:17:25.878875+02:00",
+        "bidder": "75d52f3fa12d4a86a3b1aec6f9b083b8",
+        "time": "2015-11-27T13:18:52.029959+00:00"
+      },
+      "turn_1": {
+        "amount": 16500.0,
+        "bid_time": "2015-11-27T15:15:16.487177+02:00",
+        "bidder": "33cf0eb4cce947359e78ac8fb9c8aac6",
+        "time": "2015-11-27T13:16:52.008754+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 14990.0,
+        "bid_time": "2015-11-27T15:23:04.384908+02:00",
+        "bidder": "75d52f3fa12d4a86a3b1aec6f9b083b8",
+        "time": "2015-11-27T13:24:52.012607+00:00"
+      },
+      "turn_1": {
+        "amount": 15000.0,
+        "bid_time": "2015-11-27T15:21:03.862596+02:00",
+        "bidder": "33cf0eb4cce947359e78ac8fb9c8aac6",
+        "time": "2015-11-27T13:22:52.011546+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 17390.0,
+        "bid_time": "2015-11-27T15:11:37.885336+02:00",
+        "bidder": "75d52f3fa12d4a86a3b1aec6f9b083b8",
+        "time": "2015-11-27T13:12:52.008120+00:00"
+      },
+      "turn_1": {
+        "amount": 17400.0,
+        "bid_time": "2015-11-27T15:08:57.842759+02:00",
+        "bidder": "33cf0eb4cce947359e78ac8fb9c8aac6",
+        "time": "2015-11-27T13:10:52.009531+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "33cf0eb4cce947359e78ac8fb9c8aac6",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380509891209",
+                "name": "Шерстобитова Дарья Александровная",
+                "email": "pavel.rob@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30195554"
+              },
+              "name": "ПП Розвиток. Індустрія. Планування.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49018",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Моніторна, 7, кв 79",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:21:03.862596+02:00"
+        },
+        {
+          "bidder": "75d52f3fa12d4a86a3b1aec6f9b083b8",
+          "amount": 14990.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.aton-dnepr.com",
+                "faxNumber": "+380567891294",
+                "telephone": "+380567891264",
+                "name": "Бірюков Дмитро Миколайович",
+                "email": "aton@aton-dnepr.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31705682"
+              },
+              "name": "ТОВ Август",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49061",
+                "region": "Дніпропетровська область",
+                "streetAddress": "пр. Кірова буд.113 к.9",
+                "locality": "Дніпропетровск"
+              }
+            }
+          ],
+          "time": "2015-11-27T15:23:04.384908+02:00"
+        }
+      ],
+      "time": "2015-11-27T13:24:54.923302+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T15:27:47.667729+02:00",
+          "amount": 18990.0,
+          "bidder": "33cf0eb4cce947359e78ac8fb9c8aac6"
+        },
+        {
+          "date": "2015-11-25T08:30:28.626046+02:00",
+          "amount": 17990.0,
+          "bidder": "75d52f3fa12d4a86a3b1aec6f9b083b8"
+        }
+      ],
+      "time": "2015-11-27T13:03:52.003847+00:00"
+    }
+  },
+  "id": "d5bc9fa23a5047438e58c7066f6a01ff",
+  "tenderId": "UA-2015-11-23-000047"
+}

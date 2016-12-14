@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "da3ea67eb45341b3bdf142e6bcffffb1",
+        "time": "2015-10-23T09:58:10.006886+00:00"
+      },
+      "turn_1": {
+        "bidder": "3a29f93ac4ae4eb484da6dd448d55999",
+        "time": "2015-10-23T09:56:10.009458+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "da3ea67eb45341b3bdf142e6bcffffb1",
+        "time": "2015-10-23T10:04:10.006455+00:00"
+      },
+      "turn_1": {
+        "bidder": "3a29f93ac4ae4eb484da6dd448d55999",
+        "time": "2015-10-23T10:02:10.007112+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3a29f93ac4ae4eb484da6dd448d55999",
+        "time": "2015-10-23T09:52:10.008941+00:00"
+      },
+      "turn_1": {
+        "amount": 28000.0,
+        "bid_time": "2015-10-23T12:48:41.159289+03:00",
+        "bidder": "da3ea67eb45341b3bdf142e6bcffffb1",
+        "time": "2015-10-23T09:50:10.009203+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3a29f93ac4ae4eb484da6dd448d55999",
+          "amount": 28152.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380630354841",
+                "name": "Олег",
+                "email": "oleg.t023@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39541745",
+                "legalName": "ПП \"Пластдеталь\""
+              },
+              "name": "ПП \"Пластдеталь\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02002",
+                "region": "Киевская",
+                "streetAddress": "вул. Марини Раскової буд.13 офіс 324",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-21T21:49:23.593997+03:00"
+        },
+        {
+          "bidder": "da3ea67eb45341b3bdf142e6bcffffb1",
+          "amount": 28000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984206220",
+                "name": "Елена Пвтерцева",
+                "email": "lena_19021984@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38032200",
+                "legalName": "ТОВ \"ФАБРИКА ТЕКСТИЛЯ \"МІРАТЕКС\""
+              },
+              "name": "ТОВ \"ФАБРИКА ТЕКСТИЛЯ \"МІРАТЕКС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "50071",
+                "region": "Днепропетровская",
+                "streetAddress": "Дніпропетровська область, м.Кривий Ріг, вул. Мелешкіна. 29/В,офіс 1",
+                "locality": "Кривой Рог"
+              }
+            }
+          ],
+          "time": "2015-10-23T12:48:41.159289+03:00"
+        }
+      ],
+      "time": "2015-10-23T10:04:11.318560+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T10:43:57.834212+03:00",
+          "amount": 28980.0,
+          "bidder": "da3ea67eb45341b3bdf142e6bcffffb1"
+        },
+        {
+          "date": "2015-10-21T21:49:23.593997+03:00",
+          "amount": 28152.0,
+          "bidder": "3a29f93ac4ae4eb484da6dd448d55999"
+        }
+      ],
+      "time": "2015-10-23T09:43:10.003917+00:00"
+    }
+  },
+  "id": "2a891dacea8b45a187962e65df8f4e11",
+  "tenderId": "UA-2015-10-05-000017"
+}

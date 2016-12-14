@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d31caeadab284301ad7ac823c3724b63",
+        "time": "2015-10-29T09:22:03.007574+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4cb4a1802d473db8bf66dadd840c1a",
+        "time": "2015-10-29T09:20:03.011516+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d31caeadab284301ad7ac823c3724b63",
+        "time": "2015-10-29T09:28:03.007424+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4cb4a1802d473db8bf66dadd840c1a",
+        "time": "2015-10-29T09:26:03.005766+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d31caeadab284301ad7ac823c3724b63",
+        "time": "2015-10-29T09:16:03.008638+00:00"
+      },
+      "turn_1": {
+        "bidder": "fa4cb4a1802d473db8bf66dadd840c1a",
+        "time": "2015-10-29T09:14:03.007603+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fa4cb4a1802d473db8bf66dadd840c1a",
+          "amount": 240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-27T18:26:12.072846+02:00"
+        },
+        {
+          "bidder": "d31caeadab284301ad7ac823c3724b63",
+          "amount": 240.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502987253",
+                "name": "ООО \"Промішленные масла-Восток\"",
+                "email": "Parshyn.OY@ioi.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38025126",
+                "legalName": "ООО \"Промішленные масла-Восток\""
+              },
+              "name": "ООО \"Промішленные масла-Восток\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69013 Запорізька обл., м. Запоріжжя, Шевченківський район, \r\nвул. Стартова, буд. 3-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-27T13:50:24.631395+02:00"
+        }
+      ],
+      "time": "2015-10-29T09:28:09.921952+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-27T13:50:24.631395+02:00",
+          "amount": 240.0,
+          "bidder": "d31caeadab284301ad7ac823c3724b63"
+        },
+        {
+          "date": "2015-10-27T18:26:12.072846+02:00",
+          "amount": 240.0,
+          "bidder": "fa4cb4a1802d473db8bf66dadd840c1a"
+        }
+      ],
+      "time": "2015-10-29T09:07:03.002963+00:00"
+    }
+  },
+  "id": "c2dad86e7bdb41ebbd13de861859881a",
+  "tenderId": "UA-2015-10-23-000301"
+}

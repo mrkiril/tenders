@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "71ccf005b8a7495c9cc0df3d1d1ea438",
+        "time": "2015-06-15T08:45:00.146414+00:00"
+      },
+      "turn_1": {
+        "bidder": "947b7e7f2bb54549abf81cb7573ed8c8",
+        "time": "2015-06-15T08:43:00.214164+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "71ccf005b8a7495c9cc0df3d1d1ea438",
+        "time": "2015-06-15T08:51:00.484039+00:00"
+      },
+      "turn_1": {
+        "amount": 32500.0,
+        "bid_time": "2015-06-15T11:47:17.901859+03:00",
+        "bidder": "947b7e7f2bb54549abf81cb7573ed8c8",
+        "time": "2015-06-15T08:49:00.218292+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "71ccf005b8a7495c9cc0df3d1d1ea438",
+        "time": "2015-06-15T08:39:00.064751+00:00"
+      },
+      "turn_1": {
+        "bidder": "947b7e7f2bb54549abf81cb7573ed8c8",
+        "time": "2015-06-15T08:37:00.295807+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "71ccf005b8a7495c9cc0df3d1d1ea438",
+          "amount": 33000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380632988397",
+                "name": "Артур Нагапетян",
+                "email": "energostroytrade@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39041903",
+                "legalName": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»"
+              },
+              "name": "ТОВ «ЕНЕРГОСТРОЙТРЕЙД»",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65104",
+                "region": "Одесская",
+                "streetAddress": "м. Одеса, вул. Академіка Вільямса, будинок 86",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-06-12T15:46:30.564998+03:00"
+        },
+        {
+          "bidder": "947b7e7f2bb54549abf81cb7573ed8c8",
+          "amount": 32500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380983777375, +380629532195, +380629527978",
+                "name": "Леонид Георгиевич Гуров",
+                "email": "butkom@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20355395",
+                "legalName": "ТОВ \"Быткомплекс\""
+              },
+              "name": "ТОВ \"Быткомплекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "87515",
+                "region": "Донецкая",
+                "streetAddress": "г.Мариуполь,Донецкая обл.,пер.Кузнечный, 2, оф.41",
+                "locality": "Мариуполь"
+              }
+            }
+          ],
+          "time": "2015-06-15T11:47:17.901859+03:00"
+        }
+      ],
+      "time": "2015-06-15T08:51:08.155088+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-12T15:46:30.564998+03:00",
+          "amount": 33000.0,
+          "bidder": "71ccf005b8a7495c9cc0df3d1d1ea438"
+        },
+        {
+          "date": "2015-06-12T16:07:43.418999+03:00",
+          "amount": 33000.0,
+          "bidder": "947b7e7f2bb54549abf81cb7573ed8c8"
+        }
+      ],
+      "time": "2015-06-15T08:30:00.160797+00:00"
+    }
+  },
+  "id": "2e7891dbb47043e38c6a442896481512",
+  "tenderId": "UA-2015-06-05-000012"
+}

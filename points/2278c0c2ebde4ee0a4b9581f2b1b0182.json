@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6f44a20a241a411ba59c76d83e7af7ec",
+        "time": "2015-11-17T13:45:03.007890+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b51ae3e047d455dac8afd62f4c43fe2",
+        "time": "2015-11-17T13:43:03.007447+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6f44a20a241a411ba59c76d83e7af7ec",
+        "time": "2015-11-17T13:51:03.006544+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b51ae3e047d455dac8afd62f4c43fe2",
+        "time": "2015-11-17T13:49:03.006762+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6f44a20a241a411ba59c76d83e7af7ec",
+        "time": "2015-11-17T13:39:03.009876+00:00"
+      },
+      "turn_1": {
+        "amount": 57000.0,
+        "bid_time": "2015-11-17T15:35:53.895805+02:00",
+        "bidder": "0b51ae3e047d455dac8afd62f4c43fe2",
+        "time": "2015-11-17T13:37:03.010804+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0b51ae3e047d455dac8afd62f4c43fe2",
+          "amount": 57000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0933238177",
+                "name": "Врублевський Віктор Віталійович",
+                "email": "viktor_vr84@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3090223216",
+                "legalName": "Фізична особа-підприємець  Врублевський Віктор Віталійович"
+              },
+              "name": "Фізична особа-підприємець  Врублевський Віктор Віталійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35800",
+                "region": "Рівненська",
+                "streetAddress": "вул. Гребінки, 3",
+                "locality": "Острог"
+              }
+            }
+          ],
+          "time": "2015-11-17T15:35:53.895805+02:00"
+        },
+        {
+          "bidder": "6f44a20a241a411ba59c76d83e7af7ec",
+          "amount": 38118.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://inter-systems.com.ua/",
+                "telephone": "+380445173587",
+                "name": "ТОВ \"Інтер Системс\"",
+                "email": "evgeniy.sadovnikov@inter-systems.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37653216",
+                "legalName": "ТОВ \"Інтер Системс\""
+              },
+              "name": "ТОВ \"Інтер Системс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02002, Україна, Київ, вул. Марини Раскової,19, офіс 830",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-11T16:08:04.719826+02:00"
+        }
+      ],
+      "time": "2015-11-17T13:51:06.502682+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-13T16:08:50.717816+02:00",
+          "amount": 63600.0,
+          "bidder": "0b51ae3e047d455dac8afd62f4c43fe2"
+        },
+        {
+          "date": "2015-11-11T16:08:04.719826+02:00",
+          "amount": 38118.6,
+          "bidder": "6f44a20a241a411ba59c76d83e7af7ec"
+        }
+      ],
+      "time": "2015-11-17T13:30:03.003085+00:00"
+    }
+  },
+  "id": "2278c0c2ebde4ee0a4b9581f2b1b0182",
+  "tenderId": "UA-2015-11-06-000125"
+}

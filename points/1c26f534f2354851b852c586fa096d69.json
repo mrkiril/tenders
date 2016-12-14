@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f85a9d30565d4a4687a313ca58cdea64",
+        "time": "2015-07-20T09:17:00.045736+00:00"
+      },
+      "turn_3": {
+        "bidder": "c5f4cfa0178043458732b7c8cb8a04c2",
+        "time": "2015-07-20T09:19:00.053401+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f2f5acaf26d4375a26f9ccdaabded9c",
+        "time": "2015-07-20T09:15:00.046876+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f85a9d30565d4a4687a313ca58cdea64",
+        "time": "2015-07-20T09:25:00.021824+00:00"
+      },
+      "turn_3": {
+        "bidder": "c5f4cfa0178043458732b7c8cb8a04c2",
+        "time": "2015-07-20T09:27:00.021353+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f2f5acaf26d4375a26f9ccdaabded9c",
+        "time": "2015-07-20T09:23:00.028511+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f85a9d30565d4a4687a313ca58cdea64",
+        "time": "2015-07-20T09:09:00.048301+00:00"
+      },
+      "turn_3": {
+        "bidder": "c5f4cfa0178043458732b7c8cb8a04c2",
+        "time": "2015-07-20T09:11:00.046888+00:00"
+      },
+      "turn_1": {
+        "bidder": "0f2f5acaf26d4375a26f9ccdaabded9c",
+        "time": "2015-07-20T09:07:00.027244+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0f2f5acaf26d4375a26f9ccdaabded9c",
+          "amount": 2800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444074444",
+                "name": "Марина Миславська",
+                "email": "mislavska@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39294346",
+                "legalName": "Веселка сервис"
+              },
+              "name": "Веселка сервис",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03148",
+                "region": "Киевская",
+                "streetAddress": "вул. Василя Верховинця 10",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-17T11:24:39.773666+03:00"
+        },
+        {
+          "bidder": "f85a9d30565d4a4687a313ca58cdea64",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-07-15T19:26:22.885081+03:00"
+        },
+        {
+          "bidder": "c5f4cfa0178043458732b7c8cb8a04c2",
+          "amount": 2248.8,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "380444685013",
+                "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-17T12:18:43.645889+03:00"
+        }
+      ],
+      "time": "2015-07-20T09:27:02.149363+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-17T11:24:39.773666+03:00",
+          "amount": 2800.0,
+          "bidder": "0f2f5acaf26d4375a26f9ccdaabded9c"
+        },
+        {
+          "date": "2015-07-15T19:26:22.885081+03:00",
+          "amount": 2400.0,
+          "bidder": "f85a9d30565d4a4687a313ca58cdea64"
+        },
+        {
+          "date": "2015-07-17T12:18:43.645889+03:00",
+          "amount": 2248.8,
+          "bidder": "c5f4cfa0178043458732b7c8cb8a04c2"
+        }
+      ],
+      "time": "2015-07-20T09:00:00.005036+00:00"
+    }
+  },
+  "id": "1c26f534f2354851b852c586fa096d69",
+  "tenderId": "UA-2015-07-13-000061"
+}

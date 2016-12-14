@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "2aee8da048c045e89bd34427c3741313",
+        "time": "2015-12-03T10:57:15.010714+00:00"
+      },
+      "turn_1": {
+        "bidder": "dde0f0ba2a344a6fbe13c8401d563d68",
+        "time": "2015-12-03T10:55:15.008262+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "2aee8da048c045e89bd34427c3741313",
+        "time": "2015-12-03T11:03:15.007890+00:00"
+      },
+      "turn_1": {
+        "bidder": "dde0f0ba2a344a6fbe13c8401d563d68",
+        "time": "2015-12-03T11:01:15.007456+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2aee8da048c045e89bd34427c3741313",
+        "time": "2015-12-03T10:51:15.008386+00:00"
+      },
+      "turn_1": {
+        "bidder": "dde0f0ba2a344a6fbe13c8401d563d68",
+        "time": "2015-12-03T10:49:15.009344+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dde0f0ba2a344a6fbe13c8401d563d68",
+          "amount": 1170.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442298912",
+                "name": "ТОВ \"ТФ ДОЛИНА МРІЙ\"",
+                "email": "dm-tender@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38076982",
+                "legalName": "ТОВ \"\"ТФ \"Долина Мрій\"\""
+              },
+              "name": "ТОВ \"\"ТФ \"Долина Мрій\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02160",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-02T16:00:39.557214+02:00"
+        },
+        {
+          "bidder": "2aee8da048c045e89bd34427c3741313",
+          "amount": 1000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "380444685013",
+                "telephone": "0976742082",
+                "name": "Усатюк Оксана Василівна",
+                "email": "annav@ukrpapir.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25394112",
+                "legalName": "Товариство з обмеженою відповідальністю \"Український папір\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Український папір\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "Куренівська, 2-б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:32:20.888919+02:00"
+        }
+      ],
+      "time": "2015-12-03T11:03:16.148469+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T16:00:39.557214+02:00",
+          "amount": 1170.0,
+          "bidder": "dde0f0ba2a344a6fbe13c8401d563d68"
+        },
+        {
+          "date": "2015-12-01T12:32:20.888919+02:00",
+          "amount": 1000.0,
+          "bidder": "2aee8da048c045e89bd34427c3741313"
+        }
+      ],
+      "time": "2015-12-03T10:42:15.003940+00:00"
+    }
+  },
+  "id": "03c0b3e617c0402ca693d6e5206e716d",
+  "tenderId": "UA-2015-11-26-000047-b"
+}

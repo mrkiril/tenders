@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bb075a360c9d4b4d81a45a5fc2ca1a9e",
+        "time": "2015-07-03T08:15:00.467614+00:00"
+      },
+      "turn_1": {
+        "amount": 743.0,
+        "bid_time": "2015-07-03T11:11:20.339094+03:00",
+        "bidder": "83264c509da14c418eab7fae0b86c5a2",
+        "time": "2015-07-03T08:13:00.358268+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "83264c509da14c418eab7fae0b86c5a2",
+        "time": "2015-07-03T08:21:00.123582+00:00"
+      },
+      "turn_1": {
+        "bidder": "bb075a360c9d4b4d81a45a5fc2ca1a9e",
+        "time": "2015-07-03T08:19:00.175608+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bb075a360c9d4b4d81a45a5fc2ca1a9e",
+        "time": "2015-07-03T08:09:00.156825+00:00"
+      },
+      "turn_1": {
+        "bidder": "83264c509da14c418eab7fae0b86c5a2",
+        "time": "2015-07-03T08:07:00.150560+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "bb075a360c9d4b4d81a45a5fc2ca1a9e",
+          "amount": 1328.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444989011",
+                "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+                "email": "omega-office@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39367665",
+                "legalName": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \" ОФІС СТАЙЛ-УКРАЇНА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01133,м.Київ, бульв.Лесі Українки, буд.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-02T15:11:52.224308+03:00"
+        },
+        {
+          "bidder": "83264c509da14c418eab7fae0b86c5a2",
+          "amount": 743.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://my-office.com.ua",
+                "telephone": "+380445029950",
+                "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+                "email": "tender1@my-office.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34539087",
+                "legalName": "Общество с ограниченной ответственностью \"МОЙ ОФИС\""
+              },
+              "name": "Общество с ограниченной ответственностью \"МОЙ ОФИС\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02088, г .Киев, ул. Ленина, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-03T11:11:20.339094+03:00"
+        }
+      ],
+      "time": "2015-07-03T08:21:07.868735+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-02T10:09:57.232638+03:00",
+          "amount": 2800.0,
+          "bidder": "83264c509da14c418eab7fae0b86c5a2"
+        },
+        {
+          "date": "2015-07-02T15:11:52.224308+03:00",
+          "amount": 1328.0,
+          "bidder": "bb075a360c9d4b4d81a45a5fc2ca1a9e"
+        }
+      ],
+      "time": "2015-07-03T08:00:00.304358+00:00"
+    }
+  },
+  "id": "c763e076ef3944bda5768405509d55ad",
+  "tenderId": "UA-2015-06-24-000151"
+}

@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b42182b35ed949fdabfa2c04f3b9fb10",
+        "time": "2015-12-02T13:53:01.029639+00:00"
+      },
+      "turn_3": {
+        "bidder": "1b51602b03ce4d70a1c8c984a946b578",
+        "time": "2015-12-02T13:55:01.008592+00:00"
+      },
+      "turn_1": {
+        "bidder": "585281c07d77456a8b6e19e649ad82f2",
+        "time": "2015-12-02T13:51:01.009021+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b42182b35ed949fdabfa2c04f3b9fb10",
+        "time": "2015-12-02T14:01:01.008254+00:00"
+      },
+      "turn_3": {
+        "bidder": "1b51602b03ce4d70a1c8c984a946b578",
+        "time": "2015-12-02T14:03:01.008303+00:00"
+      },
+      "turn_1": {
+        "bidder": "585281c07d77456a8b6e19e649ad82f2",
+        "time": "2015-12-02T13:59:01.007604+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "585281c07d77456a8b6e19e649ad82f2",
+        "time": "2015-12-02T13:45:01.013094+00:00"
+      },
+      "turn_3": {
+        "bidder": "b42182b35ed949fdabfa2c04f3b9fb10",
+        "time": "2015-12-02T13:47:01.007793+00:00"
+      },
+      "turn_1": {
+        "amount": 10900.0,
+        "bid_time": "2015-12-02T15:41:29.036077+02:00",
+        "bidder": "1b51602b03ce4d70a1c8c984a946b578",
+        "time": "2015-12-02T13:43:01.009965+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "585281c07d77456a8b6e19e649ad82f2",
+          "amount": 10999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "",
+                "telephone": "044-338-42-48",
+                "name": "Ждан Михайло Назарович",
+                "email": "becasn@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31510662",
+                "legalName": "Товариство з обмеженою відповідальністю \"Бекас'\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Бекас'\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02175",
+                "region": "Київська",
+                "streetAddress": "Харківське шосе 121",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T15:35:34.440993+02:00"
+        },
+        {
+          "bidder": "b42182b35ed949fdabfa2c04f3b9fb10",
+          "amount": 10998.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "063-237-78-72",
+                "name": "Телісова Олена Дмитрівна",
+                "email": "telisova1@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "1822008464",
+                "legalName": "ФОП Телісова Олена Дмитрівна"
+              },
+              "name": "ФОП Телісова Олена Дмитрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03037",
+                "region": "Київська",
+                "streetAddress": "вул.Б.Гаріна 23/1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T17:33:44.802089+02:00"
+        },
+        {
+          "bidder": "1b51602b03ce4d70a1c8c984a946b578",
+          "amount": 10900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445606144",
+                "telephone": "+380445637318",
+                "name": "Шахназарян Ольга Мадатівна",
+                "email": "Kprodzbut@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23392445"
+              },
+              "name": "ПП Киівпродзбут",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська область",
+                "streetAddress": "вул.Вербицького 28 Б  34",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T15:41:29.036077+02:00"
+        }
+      ],
+      "time": "2015-12-02T14:03:12.928183+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T11:42:32.822319+02:00",
+          "amount": 11000.0,
+          "bidder": "1b51602b03ce4d70a1c8c984a946b578"
+        },
+        {
+          "date": "2015-12-01T15:35:34.440993+02:00",
+          "amount": 10999.0,
+          "bidder": "585281c07d77456a8b6e19e649ad82f2"
+        },
+        {
+          "date": "2015-12-01T17:33:44.802089+02:00",
+          "amount": 10998.0,
+          "bidder": "b42182b35ed949fdabfa2c04f3b9fb10"
+        }
+      ],
+      "time": "2015-12-02T13:36:01.004669+00:00"
+    }
+  },
+  "id": "ac4daf6eb5834f57b5cd4971279810a7",
+  "tenderId": "UA-2015-11-27-000021-b"
+}

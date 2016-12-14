@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "faa358b4b6fd4b5ea0f4738c5826fdaf",
+        "time": "2015-10-08T10:21:50.007252+00:00"
+      },
+      "turn_3": {
+        "bidder": "fc9c778e04e741fa9a8eeefa48be4bbc",
+        "time": "2015-10-08T10:23:50.007565+00:00"
+      },
+      "turn_1": {
+        "bidder": "d12edb1a5a324aafb35558317ea8dcaa",
+        "time": "2015-10-08T10:19:50.008573+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "faa358b4b6fd4b5ea0f4738c5826fdaf",
+        "time": "2015-10-08T10:29:50.006607+00:00"
+      },
+      "turn_3": {
+        "bidder": "fc9c778e04e741fa9a8eeefa48be4bbc",
+        "time": "2015-10-08T10:31:50.007688+00:00"
+      },
+      "turn_1": {
+        "bidder": "d12edb1a5a324aafb35558317ea8dcaa",
+        "time": "2015-10-08T10:27:50.007575+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "faa358b4b6fd4b5ea0f4738c5826fdaf",
+        "time": "2015-10-08T10:13:50.010603+00:00"
+      },
+      "turn_3": {
+        "bidder": "fc9c778e04e741fa9a8eeefa48be4bbc",
+        "time": "2015-10-08T10:15:50.010486+00:00"
+      },
+      "turn_1": {
+        "bidder": "d12edb1a5a324aafb35558317ea8dcaa",
+        "time": "2015-10-08T10:11:50.007643+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d12edb1a5a324aafb35558317ea8dcaa",
+          "amount": 15340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-351-16-67",
+                "name": "Герасимова Олена Миколаївна",
+                "email": "e.n.gerasimova@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39350578",
+                "legalName": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Машинобудівна, 50А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T11:35:41.430979+03:00"
+        },
+        {
+          "bidder": "faa358b4b6fd4b5ea0f4738c5826fdaf",
+          "amount": 15340.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://smartbud.com.ua",
+                "faxNumber": "0444982220",
+                "telephone": "0674089034",
+                "name": "Іларіонов Олександр Олександрович",
+                "email": "iaa@ss.in.uag"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38807295",
+                "legalName": "Товариство з обмеженою відповідальністю \"Смарт-Буд\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Смарт-Буд\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02002",
+                "region": "Київська",
+                "streetAddress": "вулиця Марини Раскової, будинок 11, офіс 1207",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T17:49:01.758646+03:00"
+        },
+        {
+          "bidder": "fc9c778e04e741fa9a8eeefa48be4bbc",
+          "amount": 14936.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442742114",
+                "name": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»",
+                "email": "svfaktorial@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32048792",
+                "legalName": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «СВ «ФАКТОРІАЛ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03194, м.Київ ,вул. Литвиненко-Вольгемут буд.1 кв.63",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T15:19:19.569122+03:00"
+        }
+      ],
+      "time": "2015-10-08T10:32:01.238768+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-06T17:49:01.758646+03:00",
+          "amount": 15340.0,
+          "bidder": "faa358b4b6fd4b5ea0f4738c5826fdaf"
+        },
+        {
+          "date": "2015-10-07T11:35:41.430979+03:00",
+          "amount": 15340.0,
+          "bidder": "d12edb1a5a324aafb35558317ea8dcaa"
+        },
+        {
+          "date": "2015-10-07T15:19:19.569122+03:00",
+          "amount": 14936.0,
+          "bidder": "fc9c778e04e741fa9a8eeefa48be4bbc"
+        }
+      ],
+      "time": "2015-10-08T10:04:50.004069+00:00"
+    }
+  },
+  "id": "2bc1641b765446bcad62054679f35e10",
+  "tenderId": "UA-2015-09-25-000065"
+}

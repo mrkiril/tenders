@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "bea0a87f9e2c481494e92c61a5efdc0a",
+        "time": "2015-08-26T08:45:00.035732+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c4c143d4da84c618f24f6f1aa1d25b1",
+        "time": "2015-08-26T08:43:00.030904+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "bea0a87f9e2c481494e92c61a5efdc0a",
+        "time": "2015-08-26T08:51:00.017964+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c4c143d4da84c618f24f6f1aa1d25b1",
+        "time": "2015-08-26T08:49:00.018307+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "bea0a87f9e2c481494e92c61a5efdc0a",
+        "time": "2015-08-26T08:39:00.024301+00:00"
+      },
+      "turn_1": {
+        "bidder": "0c4c143d4da84c618f24f6f1aa1d25b1",
+        "time": "2015-08-26T08:37:00.022975+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0c4c143d4da84c618f24f6f1aa1d25b1",
+          "amount": 9000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.linde-gas.com.ua",
+                "telephone": "+380665656290",
+                "name": "Публічне акціонерне товариство \"Лінде Газ Україна\",",
+                "email": "oleg.kuznetsov@ua.linde-gas.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05761850",
+                "legalName": "Публічне акціонерне товариство \"Лінде Газ Україна\","
+              },
+              "name": "Публічне акціонерне товариство \"Лінде Газ Україна\",",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49074, Україна , м. Дніпропетровськ, вул. Киснева,1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-20T15:27:45.095816+03:00"
+        },
+        {
+          "bidder": "bea0a87f9e2c481494e92c61a5efdc0a",
+          "amount": 4798.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ecomplus.com.ua",
+                "faxNumber": "+380612841356",
+                "telephone": "+380504520737",
+                "name": "Ципляков Олександр Михайлович",
+                "email": "ecom-plus@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33378294"
+              },
+              "name": "ТОВ ЕКОМ-ПЛЮС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69065",
+                "region": "Запорізька область",
+                "streetAddress": "вул. Бетховена, 18",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-08-21T10:26:01.941520+03:00"
+        }
+      ],
+      "time": "2015-08-26T08:51:01.486403+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-20T15:27:45.095816+03:00",
+          "amount": 9000.0,
+          "bidder": "0c4c143d4da84c618f24f6f1aa1d25b1"
+        },
+        {
+          "date": "2015-08-21T10:26:01.941520+03:00",
+          "amount": 4798.0,
+          "bidder": "bea0a87f9e2c481494e92c61a5efdc0a"
+        }
+      ],
+      "time": "2015-08-26T08:30:00.006163+00:00"
+    }
+  },
+  "id": "4149de34623e43cda80827ce1d2f097a",
+  "tenderId": "UA-2015-08-19-000098"
+}

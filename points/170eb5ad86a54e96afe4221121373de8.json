@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dd2bb530f63c473980167d6d1e846e6a",
+        "time": "2015-11-26T13:53:36.009628+00:00"
+      },
+      "turn_1": {
+        "bidder": "331fcb7a81854931b9ce7ffb087063d9",
+        "time": "2015-11-26T13:51:36.009893+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dd2bb530f63c473980167d6d1e846e6a",
+        "time": "2015-11-26T13:59:36.011520+00:00"
+      },
+      "turn_1": {
+        "bidder": "331fcb7a81854931b9ce7ffb087063d9",
+        "time": "2015-11-26T13:57:36.010450+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dd2bb530f63c473980167d6d1e846e6a",
+        "time": "2015-11-26T13:47:36.011471+00:00"
+      },
+      "turn_1": {
+        "bidder": "331fcb7a81854931b9ce7ffb087063d9",
+        "time": "2015-11-26T13:45:36.031871+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "331fcb7a81854931b9ce7ffb087063d9",
+          "amount": 8199.97,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503340782, +380412421312, +380412413194",
+                "name": "Тетяна Охрімчук",
+                "email": "irina@4tex.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30672819",
+                "legalName": "ТОВ \"Квадротех\""
+              },
+              "name": "ТОВ \"Квадротех\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10020",
+                "region": "Житомирская",
+                "streetAddress": "м. Житомир, пров. Парковий,4",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-11-24T17:20:46.140987+02:00"
+        },
+        {
+          "bidder": "dd2bb530f63c473980167d6d1e846e6a",
+          "amount": 7490.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380412-418-615",
+                "name": "Сергій",
+                "email": "pitzh@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31318757",
+                "legalName": "ТОВ \"Полісся - Інтерм\""
+              },
+              "name": "ТОВ \"Полісся - Інтерм\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "10014",
+                "region": "Житомирская",
+                "streetAddress": "м.Житомир, вул. Рильського, 9-А",
+                "locality": "Житомир"
+              }
+            }
+          ],
+          "time": "2015-11-24T11:44:37.116575+02:00"
+        }
+      ],
+      "time": "2015-11-26T13:59:37.796239+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-24T17:20:46.140987+02:00",
+          "amount": 8199.97,
+          "bidder": "331fcb7a81854931b9ce7ffb087063d9"
+        },
+        {
+          "date": "2015-11-24T11:44:37.116575+02:00",
+          "amount": 7490.0,
+          "bidder": "dd2bb530f63c473980167d6d1e846e6a"
+        }
+      ],
+      "time": "2015-11-26T13:38:36.004036+00:00"
+    }
+  },
+  "id": "170eb5ad86a54e96afe4221121373de8",
+  "tenderId": "UA-2015-11-19-000037"
+}

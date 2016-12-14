@@ -1,0 +1,169 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 10650.0,
+        "bid_time": "2015-09-03T12:16:45.008806+03:00",
+        "bidder": "4fa8529572ee4f3da0c2b0daddceb4eb",
+        "time": "2015-09-03T09:17:00.021768+00:00"
+      },
+      "turn_3": {
+        "amount": 8490.0,
+        "bid_time": "2015-09-03T12:18:01.393183+03:00",
+        "bidder": "88eff2da73374fb6bc9045c601e21688",
+        "time": "2015-09-03T09:19:00.059264+00:00"
+      },
+      "turn_1": {
+        "amount": 8500.0,
+        "bid_time": "2015-09-03T12:13:59.179953+03:00",
+        "bidder": "3b26aa0881cc409381e1d9ed84d2ed58",
+        "time": "2015-09-03T09:15:00.069732+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7090.0,
+        "bid_time": "2015-09-03T12:24:31.541275+03:00",
+        "bidder": "3b26aa0881cc409381e1d9ed84d2ed58",
+        "time": "2015-09-03T09:25:00.031312+00:00"
+      },
+      "turn_3": {
+        "amount": 8350.0,
+        "bid_time": "2015-09-03T12:26:38.541225+03:00",
+        "bidder": "88eff2da73374fb6bc9045c601e21688",
+        "time": "2015-09-03T09:27:00.037266+00:00"
+      },
+      "turn_1": {
+        "bidder": "4fa8529572ee4f3da0c2b0daddceb4eb",
+        "time": "2015-09-03T09:23:00.049888+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 10800.0,
+        "bid_time": "2015-09-03T12:08:00.151497+03:00",
+        "bidder": "4fa8529572ee4f3da0c2b0daddceb4eb",
+        "time": "2015-09-03T09:09:00.048144+00:00"
+      },
+      "turn_3": {
+        "amount": 10798.0,
+        "bid_time": "2015-09-03T12:09:22.383701+03:00",
+        "bidder": "88eff2da73374fb6bc9045c601e21688",
+        "time": "2015-09-03T09:11:00.056079+00:00"
+      },
+      "turn_1": {
+        "amount": 10890.0,
+        "bid_time": "2015-09-03T12:05:13.204561+03:00",
+        "bidder": "3b26aa0881cc409381e1d9ed84d2ed58",
+        "time": "2015-09-03T09:07:00.051886+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4fa8529572ee4f3da0c2b0daddceb4eb",
+          "amount": 10650.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://energoaliance.ibud.ua/",
+                "telephone": "0445018811, 380672339412",
+                "name": "Андрей Курило ",
+                "email": "energoaliance@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38379381",
+                "legalName": ""
+              },
+              "name": "ТОВ ЕТАМ",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Вишневое, 08132, Киевскаяобл., Киево-Святошинский р-он, ул. Черновола, 1а"
+              }
+            }
+          ],
+          "time": "2015-09-03T12:16:45.008806+03:00"
+        },
+        {
+          "bidder": "88eff2da73374fb6bc9045c601e21688",
+          "amount": 8350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380443831726, +380674166168, +380504622554",
+                "name": "Сергей",
+                "email": "egida.2005@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37721584",
+                "legalName": "ТОВ \"Егідa-V\""
+              },
+              "name": "ТОВ \"Егідa-V\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07400",
+                "region": "Киевская",
+                "streetAddress": "г.Бровары",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-09-03T12:26:38.541225+03:00"
+        },
+        {
+          "bidder": "3b26aa0881cc409381e1d9ed84d2ed58",
+          "amount": 7090.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380673543740",
+                "name": "Василь Тимошенко",
+                "email": "csodn@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2867109714",
+                "legalName": "ФОП \"Тимошенко Василь Григорович\""
+              },
+              "name": "ФОП \"Тимошенко Василь Григорович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "29000",
+                "region": "Хмельницкая",
+                "streetAddress": "",
+                "locality": "Хмельницкий"
+              }
+            }
+          ],
+          "time": "2015-09-03T12:24:31.541275+03:00"
+        }
+      ],
+      "time": "2015-09-03T09:27:05.140445+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-02T16:06:26.925248+03:00",
+          "amount": 13000.0,
+          "bidder": "3b26aa0881cc409381e1d9ed84d2ed58"
+        },
+        {
+          "date": "2015-09-02T15:59:12.051203+03:00",
+          "amount": 12900.0,
+          "bidder": "4fa8529572ee4f3da0c2b0daddceb4eb"
+        },
+        {
+          "date": "2015-08-31T17:21:16.633903+03:00",
+          "amount": 12600.0,
+          "bidder": "88eff2da73374fb6bc9045c601e21688"
+        }
+      ],
+      "time": "2015-09-03T09:00:00.007946+00:00"
+    }
+  },
+  "id": "9f969059154345039e54f1348dd7e368",
+  "tenderId": "UA-2015-08-25-000089"
+}

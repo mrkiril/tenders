@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d27ee0bd100d45b59203a1ad82b88482",
+        "time": "2015-12-03T10:54:29.032803+00:00"
+      },
+      "turn_1": {
+        "bidder": "8984d6312aba45bc849746e6213cb207",
+        "time": "2015-12-03T10:52:29.134215+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d27ee0bd100d45b59203a1ad82b88482",
+        "time": "2015-12-03T11:00:29.008133+00:00"
+      },
+      "turn_1": {
+        "bidder": "8984d6312aba45bc849746e6213cb207",
+        "time": "2015-12-03T10:58:29.007233+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d27ee0bd100d45b59203a1ad82b88482",
+        "time": "2015-12-03T10:48:29.009799+00:00"
+      },
+      "turn_1": {
+        "bidder": "8984d6312aba45bc849746e6213cb207",
+        "time": "2015-12-03T10:46:29.007338+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8984d6312aba45bc849746e6213cb207",
+          "amount": 23000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T09:34:10.843488+02:00"
+        },
+        {
+          "bidder": "d27ee0bd100d45b59203a1ad82b88482",
+          "amount": 22450.24,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671998926",
+                "name": "Приватне підприємство фірма \"Санітас \"",
+                "email": "anna@sanitas.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22065477",
+                "legalName": "Приватне підприємство фірма \"Санітас \""
+              },
+              "name": "Приватне підприємство фірма \"Санітас \"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Житомир, вул.Київська, 7/4.кв 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T10:34:59.952801+02:00"
+        }
+      ],
+      "time": "2015-12-03T11:00:56.198538+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T09:34:10.843488+02:00",
+          "amount": 23000.0,
+          "bidder": "8984d6312aba45bc849746e6213cb207"
+        },
+        {
+          "date": "2015-12-01T10:34:59.952801+02:00",
+          "amount": 22450.24,
+          "bidder": "d27ee0bd100d45b59203a1ad82b88482"
+        }
+      ],
+      "time": "2015-12-03T10:39:29.002472+00:00"
+    }
+  },
+  "id": "1ea5e8d4256f4b03b6367f6b89093675",
+  "tenderId": "UA-2015-11-30-000005-b"
+}

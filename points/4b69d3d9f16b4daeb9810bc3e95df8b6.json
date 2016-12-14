@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e55ddf81b584461fb9607855cc92f9a1",
+        "time": "2015-10-09T12:18:36.008580+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b1ac6d4bfc494e9ddad1b37c5afe4d",
+        "time": "2015-10-09T12:16:36.008541+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e55ddf81b584461fb9607855cc92f9a1",
+        "time": "2015-10-09T12:24:36.007371+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b1ac6d4bfc494e9ddad1b37c5afe4d",
+        "time": "2015-10-09T12:22:36.008536+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e55ddf81b584461fb9607855cc92f9a1",
+        "time": "2015-10-09T12:12:36.009046+00:00"
+      },
+      "turn_1": {
+        "bidder": "34b1ac6d4bfc494e9ddad1b37c5afe4d",
+        "time": "2015-10-09T12:10:36.008054+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "34b1ac6d4bfc494e9ddad1b37c5afe4d",
+          "amount": 630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T19:35:30.132233+03:00"
+        },
+        {
+          "bidder": "e55ddf81b584461fb9607855cc92f9a1",
+          "amount": 513.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-10-05T12:41:29.127569+03:00"
+        }
+      ],
+      "time": "2015-10-09T12:24:41.143008+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T19:35:30.132233+03:00",
+          "amount": 630.0,
+          "bidder": "34b1ac6d4bfc494e9ddad1b37c5afe4d"
+        },
+        {
+          "date": "2015-10-05T12:41:29.127569+03:00",
+          "amount": 513.6,
+          "bidder": "e55ddf81b584461fb9607855cc92f9a1"
+        }
+      ],
+      "time": "2015-10-09T12:03:36.003266+00:00"
+    }
+  },
+  "id": "4b69d3d9f16b4daeb9810bc3e95df8b6",
+  "tenderId": "UA-2015-10-01-000075"
+}

@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c8c2952bb19e4bb9a00cd364e2cee371",
+        "time": "2015-08-17T09:15:00.052969+00:00"
+      },
+      "turn_1": {
+        "bidder": "879fb11c40e64ae4aaceec3cde2d2257",
+        "time": "2015-08-17T09:13:00.033786+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c8c2952bb19e4bb9a00cd364e2cee371",
+        "time": "2015-08-17T09:21:00.023234+00:00"
+      },
+      "turn_1": {
+        "bidder": "879fb11c40e64ae4aaceec3cde2d2257",
+        "time": "2015-08-17T09:19:00.019234+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c8c2952bb19e4bb9a00cd364e2cee371",
+        "time": "2015-08-17T09:09:00.038491+00:00"
+      },
+      "turn_1": {
+        "bidder": "879fb11c40e64ae4aaceec3cde2d2257",
+        "time": "2015-08-17T09:07:00.019910+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "879fb11c40e64ae4aaceec3cde2d2257",
+          "amount": 3252000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677827347",
+                "name": "Леонід Поплавський",
+                "email": "uniformua@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39597536",
+                "legalName": "ТОВ \"УНІФОРМ\""
+              },
+              "name": "ТОВ \"УНІФОРМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03058",
+                "region": "Киевская",
+                "streetAddress": "Борщагівська 173/187 кв. 243",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T16:41:09.292671+03:00"
+        },
+        {
+          "bidder": "c8c2952bb19e4bb9a00cd364e2cee371",
+          "amount": 3201000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503841890",
+                "name": "Анна Огаренко",
+                "email": "info@olteks.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30435050",
+                "legalName": "ООО \"Олтекс\""
+              },
+              "name": "ООО \"Олтекс\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03062",
+                "region": "Киевская",
+                "streetAddress": "Киев, Александровская, 45",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-14T17:06:56.237253+03:00"
+        }
+      ],
+      "time": "2015-08-17T09:21:06.304103+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-14T16:41:09.292671+03:00",
+          "amount": 3252000.0,
+          "bidder": "879fb11c40e64ae4aaceec3cde2d2257"
+        },
+        {
+          "date": "2015-08-14T17:06:56.237253+03:00",
+          "amount": 3201000.0,
+          "bidder": "c8c2952bb19e4bb9a00cd364e2cee371"
+        }
+      ],
+      "time": "2015-08-17T09:00:00.007407+00:00"
+    }
+  },
+  "id": "051032e8e0b5416f9ab7f817d9ee15ab",
+  "tenderId": "UA-2015-08-07-000048"
+}

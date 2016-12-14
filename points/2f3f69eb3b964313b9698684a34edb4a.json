@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "305c12b4d0104802ace4bf9cda639615",
+        "time": "2015-12-17T11:46:41.007030+00:00"
+      },
+      "turn_1": {
+        "bidder": "50b711975217411ea14c126f411af736",
+        "time": "2015-12-17T11:44:41.007992+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "305c12b4d0104802ace4bf9cda639615",
+        "time": "2015-12-17T11:52:41.032190+00:00"
+      },
+      "turn_1": {
+        "bidder": "50b711975217411ea14c126f411af736",
+        "time": "2015-12-17T11:50:41.012265+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "305c12b4d0104802ace4bf9cda639615",
+        "time": "2015-12-17T11:40:41.008113+00:00"
+      },
+      "turn_1": {
+        "bidder": "50b711975217411ea14c126f411af736",
+        "time": "2015-12-17T11:38:41.008664+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "50b711975217411ea14c126f411af736",
+          "amount": 3000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444618912",
+                "telephone": "0674053612",
+                "name": "Корзенюк Олексій Юрійович",
+                "email": "status_luks@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37432323",
+                "legalName": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Торговий Дім Статус Люкс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02093",
+                "region": "Київська",
+                "streetAddress": "вул.Бориспільська,11а",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-15T14:42:00.234733+02:00"
+        },
+        {
+          "bidder": "305c12b4d0104802ace4bf9cda639615",
+          "amount": 2950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380990441108",
+                "name": "Андрей",
+                "email": "pavlovskiy.andrey@paper-trade.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21661349",
+                "legalName": "Глобал Офис"
+              },
+              "name": "Глобал Офис",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-10T23:30:13.890112+02:00"
+        }
+      ],
+      "time": "2015-12-17T11:52:41.696260+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-15T14:42:00.234733+02:00",
+          "amount": 3000.0,
+          "bidder": "50b711975217411ea14c126f411af736"
+        },
+        {
+          "date": "2015-12-10T23:30:13.890112+02:00",
+          "amount": 2950.0,
+          "bidder": "305c12b4d0104802ace4bf9cda639615"
+        }
+      ],
+      "time": "2015-12-17T11:31:41.004717+00:00"
+    }
+  },
+  "id": "2f3f69eb3b964313b9698684a34edb4a",
+  "tenderId": "UA-2015-12-10-000122-b"
+}

@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 18616.0,
+        "bid_time": "2015-12-09T15:25:37.089590+02:00",
+        "bidder": "75c5ff1e65614365aa9849fa9599293f",
+        "time": "2015-12-09T13:27:18.008819+00:00"
+      },
+      "turn_1": {
+        "amount": 19000.0,
+        "bid_time": "2015-12-09T15:24:25.016590+02:00",
+        "bidder": "2a6210e0044e46af84ceb7e2f0fa224b",
+        "time": "2015-12-09T13:25:18.027728+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "75c5ff1e65614365aa9849fa9599293f",
+        "time": "2015-12-09T13:33:18.007753+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a6210e0044e46af84ceb7e2f0fa224b",
+        "time": "2015-12-09T13:31:18.007466+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 19230.0,
+        "bid_time": "2015-12-09T15:20:23.687829+02:00",
+        "bidder": "75c5ff1e65614365aa9849fa9599293f",
+        "time": "2015-12-09T13:21:18.009321+00:00"
+      },
+      "turn_1": {
+        "amount": 19800.0,
+        "bid_time": "2015-12-09T15:17:33.240697+02:00",
+        "bidder": "2a6210e0044e46af84ceb7e2f0fa224b",
+        "time": "2015-12-09T13:19:18.022462+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2a6210e0044e46af84ceb7e2f0fa224b",
+          "amount": 19000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kasoft.kiev.ua/ru/",
+                "faxNumber": "206-09-54",
+                "telephone": "206-09-53",
+                "name": "Гримало В'ячеслав Валерійович",
+                "email": "info@kasoft.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32828640",
+                "legalName": "ТОВ \"Ка-Софт"
+              },
+              "name": "ТОВ \"Ка-Софт",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська",
+                "streetAddress": "пр-т. Правди 12В",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:24:25.016590+02:00"
+        },
+        {
+          "bidder": "75c5ff1e65614365aa9849fa9599293f",
+          "amount": 18616.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-09T15:25:37.089590+02:00"
+        }
+      ],
+      "time": "2015-12-09T13:33:19.716588+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T10:50:33.461985+02:00",
+          "amount": 20480.0,
+          "bidder": "2a6210e0044e46af84ceb7e2f0fa224b"
+        },
+        {
+          "date": "2015-12-07T20:52:52.145705+02:00",
+          "amount": 19844.0,
+          "bidder": "75c5ff1e65614365aa9849fa9599293f"
+        }
+      ],
+      "time": "2015-12-09T13:12:18.003600+00:00"
+    }
+  },
+  "id": "3e8d85e68eee466298a96d772f85eaf3",
+  "tenderId": "UA-2015-12-04-000150-a"
+}

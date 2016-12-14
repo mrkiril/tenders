@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3bd2359b83cd4649b4f8b9488d881ec0",
+        "time": "2015-09-28T12:21:07.009186+00:00"
+      },
+      "turn_3": {
+        "bidder": "868d4d50522441ac9b16dfecfec3f8bf",
+        "time": "2015-09-28T12:23:07.013502+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9172421461147eda588b0a18eaf8f71",
+        "time": "2015-09-28T12:19:07.010245+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3bd2359b83cd4649b4f8b9488d881ec0",
+        "time": "2015-09-28T12:29:07.011746+00:00"
+      },
+      "turn_3": {
+        "bidder": "868d4d50522441ac9b16dfecfec3f8bf",
+        "time": "2015-09-28T12:31:07.008662+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9172421461147eda588b0a18eaf8f71",
+        "time": "2015-09-28T12:27:07.017839+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3bd2359b83cd4649b4f8b9488d881ec0",
+        "time": "2015-09-28T12:13:07.008604+00:00"
+      },
+      "turn_3": {
+        "bidder": "868d4d50522441ac9b16dfecfec3f8bf",
+        "time": "2015-09-28T12:15:07.026901+00:00"
+      },
+      "turn_1": {
+        "bidder": "e9172421461147eda588b0a18eaf8f71",
+        "time": "2015-09-28T12:11:07.013032+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e9172421461147eda588b0a18eaf8f71",
+          "amount": 61000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Дмитро",
+                "email": "gip@atep.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39968083",
+                "legalName": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\""
+              },
+              "name": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01001",
+                "region": "",
+                "streetAddress": "вул. Михайлівська, буд. 24-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T14:00:02.109332+03:00"
+        },
+        {
+          "bidder": "3bd2359b83cd4649b4f8b9488d881ec0",
+          "amount": 61000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Дмитро",
+                "email": "gip@atep.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39968083",
+                "legalName": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\""
+              },
+              "name": "ТОВ \"АКАДЕМТЕПЛОЕНЕРГОПРОЕКТ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01001",
+                "region": "Киевская",
+                "streetAddress": "вул. Михайлівська, буд. 24-А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-25T13:57:39.055924+03:00"
+        },
+        {
+          "bidder": "868d4d50522441ac9b16dfecfec3f8bf",
+          "amount": 59000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672430154",
+                "name": "Дмитрий Нижник",
+                "email": "dmitry.nizhnik@bts.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35645596",
+                "legalName": "ТОВ \"СТС-СЕРВІС ЛТД\""
+              },
+              "name": "ТОВ \"СТС-СЕРВІС ЛТД\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07300",
+                "region": "",
+                "streetAddress": "Киевская обл. г.Вышгород, ул. Набережная, 7",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-25T16:54:33.358918+03:00"
+        }
+      ],
+      "time": "2015-09-28T12:31:17.916835+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-25T13:57:39.055924+03:00",
+          "amount": 61000.0,
+          "bidder": "3bd2359b83cd4649b4f8b9488d881ec0"
+        },
+        {
+          "date": "2015-09-25T14:00:02.109332+03:00",
+          "amount": 61000.0,
+          "bidder": "e9172421461147eda588b0a18eaf8f71"
+        },
+        {
+          "date": "2015-09-25T16:54:33.358918+03:00",
+          "amount": 59000.0,
+          "bidder": "868d4d50522441ac9b16dfecfec3f8bf"
+        }
+      ],
+      "time": "2015-09-28T12:04:07.003469+00:00"
+    }
+  },
+  "id": "160625f7d1a444b1b3624c788b642b08",
+  "tenderId": "UA-2015-09-24-000294"
+}

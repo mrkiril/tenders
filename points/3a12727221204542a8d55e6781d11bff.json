@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "1c0939c013ef4dfbb8d6e9b3a7bee90b",
+        "time": "2015-06-02T08:15:01.038609+00:00"
+      },
+      "turn_1": {
+        "bidder": "3bea37159d1a4304b86dce93481bc452",
+        "time": "2015-06-02T08:13:00.260989+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "1c0939c013ef4dfbb8d6e9b3a7bee90b",
+        "time": "2015-06-02T08:21:00.788914+00:00"
+      },
+      "turn_1": {
+        "bidder": "3bea37159d1a4304b86dce93481bc452",
+        "time": "2015-06-02T08:19:00.447851+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1c0939c013ef4dfbb8d6e9b3a7bee90b",
+        "time": "2015-06-02T08:09:00.542866+00:00"
+      },
+      "turn_1": {
+        "bidder": "3bea37159d1a4304b86dce93481bc452",
+        "time": "2015-06-02T08:07:00.646283+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3bea37159d1a4304b86dce93481bc452",
+          "amount": 11550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38(097) 2420800, +38(048) 772-89-74",
+                "name": "Александр Строчковский",
+                "email": "rollsys@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"«Автоматичні системи»\"",
+                "id": "37680344",
+                "uri": "http://as.org.ua"
+              },
+              "name": "ПП \"«Автоматичні системи»\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65072",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-05-28T13:38:37.946482+03:00"
+        },
+        {
+          "bidder": "1c0939c013ef4dfbb8d6e9b3a7bee90b",
+          "amount": 11550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674843005",
+                "name": "Александр Мельник",
+                "email": "kievskiy@svitcorp.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТОВ \"Світ Комфорт\"\"",
+                "id": "37422378",
+                "uri": "http://svit-komfort.uaprom.net"
+              },
+              "name": "ТОВ \"ТОВ \"Світ Комфорт\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "65063",
+                "region": "Одесская",
+                "streetAddress": "65063, Україна, м. Одеса, вул. Маршала Говорова,2",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-05-27T16:55:14.151703+03:00"
+        }
+      ],
+      "time": "2015-06-02T08:21:10.315639+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-27T16:55:14.151703+03:00",
+          "amount": 11550.0,
+          "bidder": "1c0939c013ef4dfbb8d6e9b3a7bee90b"
+        },
+        {
+          "date": "2015-05-28T13:38:37.946482+03:00",
+          "amount": 11550.0,
+          "bidder": "3bea37159d1a4304b86dce93481bc452"
+        }
+      ],
+      "time": "2015-06-02T08:00:00.358795+00:00"
+    }
+  },
+  "id": "3a12727221204542a8d55e6781d11bff",
+  "tenderId": "UA-2015-05-19-000030"
+}

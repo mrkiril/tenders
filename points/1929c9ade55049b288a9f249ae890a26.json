@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 306900.0,
+        "bid_time": "2015-09-04T11:13:51.978219+03:00",
+        "bidder": "28fa2f43b56245b29cd88c6d2357cc86",
+        "time": "2015-09-04T08:15:00.083334+00:00"
+      },
+      "turn_1": {
+        "amount": 306999.0,
+        "bid_time": "2015-09-04T11:11:09.896639+03:00",
+        "bidder": "f0b4063d6188425f86e6e4de65e03cce",
+        "time": "2015-09-04T08:13:00.048968+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "28fa2f43b56245b29cd88c6d2357cc86",
+        "time": "2015-09-04T08:21:00.119697+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0b4063d6188425f86e6e4de65e03cce",
+        "time": "2015-09-04T08:19:00.135517+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "28fa2f43b56245b29cd88c6d2357cc86",
+        "time": "2015-09-04T08:09:00.084657+00:00"
+      },
+      "turn_1": {
+        "bidder": "f0b4063d6188425f86e6e4de65e03cce",
+        "time": "2015-09-04T08:07:00.060992+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f0b4063d6188425f86e6e4de65e03cce",
+          "amount": 306999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380507087978, +380679008976",
+                "name": "Олег Юрченко",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:11:09.896639+03:00"
+        },
+        {
+          "bidder": "28fa2f43b56245b29cd88c6d2357cc86",
+          "amount": 306900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://olmax.kiev.ua/",
+                "telephone": "0976788899",
+                "name": "Оксана Шевина ",
+                "email": "os@olmax.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37100998",
+                "legalName": "Олмакс Системс"
+              },
+              "name": "Олмакс Системс",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "г. Киев ул. Рыбальская 2 оф 106"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:13:51.978219+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:21:09.971020+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-28T19:10:15.861986+03:00",
+          "amount": 309999.0,
+          "bidder": "f0b4063d6188425f86e6e4de65e03cce"
+        },
+        {
+          "date": "2015-08-28T17:04:02.115664+03:00",
+          "amount": 309990.0,
+          "bidder": "28fa2f43b56245b29cd88c6d2357cc86"
+        }
+      ],
+      "time": "2015-09-04T08:00:00.049493+00:00"
+    }
+  },
+  "id": "1929c9ade55049b288a9f249ae890a26",
+  "tenderId": "UA-2015-08-20-000057"
+}

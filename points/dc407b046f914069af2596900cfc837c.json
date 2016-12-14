@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 1499.9,
+        "bid_time": "2015-10-09T15:56:44.603115+03:00",
+        "bidder": "e830a1d7cedf445faafd3f2548e02a3c",
+        "time": "2015-10-09T12:58:32.009790+00:00"
+      },
+      "turn_3": {
+        "bidder": "094ffda6d1fb45dfb68207cd6a9dfbb6",
+        "time": "2015-10-09T13:00:32.010307+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fa3d52598ba4c3195f96a2411b0f42f",
+        "time": "2015-10-09T12:56:32.006684+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "094ffda6d1fb45dfb68207cd6a9dfbb6",
+        "time": "2015-10-09T13:06:32.017099+00:00"
+      },
+      "turn_3": {
+        "bidder": "e830a1d7cedf445faafd3f2548e02a3c",
+        "time": "2015-10-09T13:08:32.007241+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fa3d52598ba4c3195f96a2411b0f42f",
+        "time": "2015-10-09T13:04:32.009843+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e830a1d7cedf445faafd3f2548e02a3c",
+        "time": "2015-10-09T12:50:32.007080+00:00"
+      },
+      "turn_3": {
+        "bidder": "094ffda6d1fb45dfb68207cd6a9dfbb6",
+        "time": "2015-10-09T12:52:32.009819+00:00"
+      },
+      "turn_1": {
+        "bidder": "6fa3d52598ba4c3195f96a2411b0f42f",
+        "time": "2015-10-09T12:48:32.023349+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "6fa3d52598ba4c3195f96a2411b0f42f",
+          "amount": 1596.36,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503576020",
+                "name": "Иван",
+                "email": "ivanvcr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23702466",
+                "legalName": "ООО \"Бумвест\""
+              },
+              "name": "ООО \"Бумвест\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-10-05T13:22:58.443360+03:00"
+        },
+        {
+          "bidder": "094ffda6d1fb45dfb68207cd6a9dfbb6",
+          "amount": 1500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-02T19:46:51.890027+03:00"
+        },
+        {
+          "bidder": "e830a1d7cedf445faafd3f2548e02a3c",
+          "amount": 1499.9,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-09T15:56:44.603115+03:00"
+        }
+      ],
+      "time": "2015-10-09T13:08:42.291558+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T13:22:58.443360+03:00",
+          "amount": 1596.36,
+          "bidder": "6fa3d52598ba4c3195f96a2411b0f42f"
+        },
+        {
+          "date": "2015-10-02T10:16:09.370105+03:00",
+          "amount": 1550.0,
+          "bidder": "e830a1d7cedf445faafd3f2548e02a3c"
+        },
+        {
+          "date": "2015-10-02T19:46:51.890027+03:00",
+          "amount": 1500.0,
+          "bidder": "094ffda6d1fb45dfb68207cd6a9dfbb6"
+        }
+      ],
+      "time": "2015-10-09T12:41:32.002987+00:00"
+    }
+  },
+  "id": "dc407b046f914069af2596900cfc837c",
+  "tenderId": "UA-2015-10-01-000087"
+}

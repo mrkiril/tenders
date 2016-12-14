@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 124900.0,
+        "bid_time": "2015-09-08T11:13:31.173436+03:00",
+        "bidder": "a419e6f503df4e5e8d10cd0ffa3369dc",
+        "time": "2015-09-08T08:15:00.180480+00:00"
+      },
+      "turn_1": {
+        "amount": 125300.0,
+        "bid_time": "2015-09-08T11:12:16.717541+03:00",
+        "bidder": "00ff592ea15b419eba1f381a843d94a7",
+        "time": "2015-09-08T08:13:00.036764+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 119000.0,
+        "bid_time": "2015-09-08T11:20:30.519147+03:00",
+        "bidder": "a419e6f503df4e5e8d10cd0ffa3369dc",
+        "time": "2015-09-08T08:21:00.040794+00:00"
+      },
+      "turn_1": {
+        "amount": 120000.0,
+        "bid_time": "2015-09-08T11:18:41.603948+03:00",
+        "bidder": "00ff592ea15b419eba1f381a843d94a7",
+        "time": "2015-09-08T08:19:00.034040+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a419e6f503df4e5e8d10cd0ffa3369dc",
+        "time": "2015-09-08T08:09:00.110407+00:00"
+      },
+      "turn_1": {
+        "bidder": "00ff592ea15b419eba1f381a843d94a7",
+        "time": "2015-09-08T08:07:00.120861+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "00ff592ea15b419eba1f381a843d94a7",
+          "amount": 120000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://monolit-fort.com.ua",
+                "telephone": "+3800445990031",
+                "name": "ТОВ \"МОНОЛИТФОРТ\"",
+                "email": "monolit.fort@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38975765",
+                "legalName": "ТОВ \"МОНОЛИТФОРТ\""
+              },
+              "name": "ТОВ \"МОНОЛИТФОРТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "0379, м. Київ, Брест-Литовське шоссе, 8-А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T11:18:41.603948+03:00"
+        },
+        {
+          "bidder": "a419e6f503df4e5e8d10cd0ffa3369dc",
+          "amount": 119000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.enerprof.com.ua",
+                "telephone": "+380442392133",
+                "name": "ТОВ \"Енерпроф\"",
+                "email": "enerprof.com.ua@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36867347",
+                "legalName": "ТОВ \"Енерпроф\""
+              },
+              "name": "ТОВ \"Енерпроф\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Україна, 04070, м. Київ, вул. Щекавицька буд. 40/37,  оф. 52,",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T11:20:30.519147+03:00"
+        }
+      ],
+      "time": "2015-09-08T08:21:06.107156+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T13:22:43.646602+03:00",
+          "amount": 130416.0,
+          "bidder": "00ff592ea15b419eba1f381a843d94a7"
+        },
+        {
+          "date": "2015-09-07T13:58:17.959002+03:00",
+          "amount": 125400.0,
+          "bidder": "a419e6f503df4e5e8d10cd0ffa3369dc"
+        }
+      ],
+      "time": "2015-09-08T08:00:00.004966+00:00"
+    }
+  },
+  "id": "6e831009e7124c5188ac1dc51defa0bb",
+  "tenderId": "UA-2015-08-25-000056"
+}

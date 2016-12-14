@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8936a4684bf9499ea4f9ae274d7837e7",
+        "time": "2015-12-01T11:27:29.007654+00:00"
+      },
+      "turn_3": {
+        "bidder": "503134cce5b8453989c8a229aff22093",
+        "time": "2015-12-01T11:29:29.035472+00:00"
+      },
+      "turn_1": {
+        "bidder": "5abdb7901318468e8a8e8ebe6fe5b5fe",
+        "time": "2015-12-01T11:25:29.008338+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8936a4684bf9499ea4f9ae274d7837e7",
+        "time": "2015-12-01T11:35:29.008130+00:00"
+      },
+      "turn_3": {
+        "bidder": "503134cce5b8453989c8a229aff22093",
+        "time": "2015-12-01T11:37:29.008894+00:00"
+      },
+      "turn_1": {
+        "bidder": "5abdb7901318468e8a8e8ebe6fe5b5fe",
+        "time": "2015-12-01T11:33:29.008170+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8936a4684bf9499ea4f9ae274d7837e7",
+        "time": "2015-12-01T11:19:29.007974+00:00"
+      },
+      "turn_3": {
+        "bidder": "503134cce5b8453989c8a229aff22093",
+        "time": "2015-12-01T11:21:29.008478+00:00"
+      },
+      "turn_1": {
+        "bidder": "5abdb7901318468e8a8e8ebe6fe5b5fe",
+        "time": "2015-12-01T11:17:29.008310+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5abdb7901318468e8a8e8ebe6fe5b5fe",
+          "amount": 825.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://intexgroop.kharkov.ua/",
+                "telephone": "+380577665083",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+                "email": "intexgroop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38631848",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОМПАНІЯ ІНТЕКС ГРУП\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "пр-т Московський, б. 199, корпус Д-5, офіс 233, м. Харків, 61037",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-27T10:38:15.483279+02:00"
+        },
+        {
+          "bidder": "8936a4684bf9499ea4f9ae274d7837e7",
+          "amount": 798.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-11-27T11:45:15.248169+02:00"
+        },
+        {
+          "bidder": "503134cce5b8453989c8a229aff22093",
+          "amount": 567.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.sofit.com.ua",
+                "telephone": "+380445946707",
+                "name": "Товариство з обмеженою відповідальністю СОФІЛАЙТ",
+                "email": "malichenko.yana@sofit.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39364360",
+                "legalName": "Товариство з обмеженою відповідальністю СОФІЛАЙТ"
+              },
+              "name": "Товариство з обмеженою відповідальністю СОФІЛАЙТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04119, м. Київ, вул. Сім'ї Хохлових, буд. 8А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-27T14:52:25.798848+02:00"
+        }
+      ],
+      "time": "2015-12-01T11:37:30.611161+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T10:38:15.483279+02:00",
+          "amount": 825.0,
+          "bidder": "5abdb7901318468e8a8e8ebe6fe5b5fe"
+        },
+        {
+          "date": "2015-11-27T11:45:15.248169+02:00",
+          "amount": 798.0,
+          "bidder": "8936a4684bf9499ea4f9ae274d7837e7"
+        },
+        {
+          "date": "2015-11-27T14:52:25.798848+02:00",
+          "amount": 567.0,
+          "bidder": "503134cce5b8453989c8a229aff22093"
+        }
+      ],
+      "time": "2015-12-01T11:10:29.003897+00:00"
+    }
+  },
+  "id": "15b9df1e8ac74cc0abaf5f8cc8fa7938",
+  "tenderId": "UA-2015-11-25-000151-a"
+}

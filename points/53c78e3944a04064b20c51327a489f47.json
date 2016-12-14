@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d8c17954d3f149d1ae0d1d85f3ded785",
+        "time": "2015-11-12T09:22:37.031168+00:00"
+      },
+      "turn_1": {
+        "bidder": "c30ace2275444952b50172cd6ea725d7",
+        "time": "2015-11-12T09:20:37.018126+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d8c17954d3f149d1ae0d1d85f3ded785",
+        "time": "2015-11-12T09:28:37.006502+00:00"
+      },
+      "turn_1": {
+        "bidder": "c30ace2275444952b50172cd6ea725d7",
+        "time": "2015-11-12T09:26:37.007087+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c30ace2275444952b50172cd6ea725d7",
+        "time": "2015-11-12T09:16:37.024841+00:00"
+      },
+      "turn_1": {
+        "amount": 900.0,
+        "bid_time": "2015-11-12T11:12:50.948498+02:00",
+        "bidder": "d8c17954d3f149d1ae0d1d85f3ded785",
+        "time": "2015-11-12T09:14:37.010275+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c30ace2275444952b50172cd6ea725d7",
+          "amount": 1150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444140803",
+                "name": "Приватне підприємство\"КОР-АЛ\"",
+                "email": "natalonka1960@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34292957",
+                "legalName": "Приватне підприємство\"КОР-АЛ\""
+              },
+              "name": "Приватне підприємство\"КОР-АЛ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04213 м.Київ.вул.Прирічна буд.37 кв.18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-09T19:05:35.843288+02:00"
+        },
+        {
+          "bidder": "d8c17954d3f149d1ae0d1d85f3ded785",
+          "amount": 900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380950878114",
+                "name": "Артем Котырло",
+                "email": "kotyrlo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33404601",
+                "legalName": "ТОВ \"НВФ Синтеко\""
+              },
+              "name": "ТОВ \"НВФ Синтеко\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04119",
+                "region": "Киевская",
+                "streetAddress": "г. Киев ул. Дегтяревская, 25/1",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-12T11:12:50.948498+02:00"
+        }
+      ],
+      "time": "2015-11-12T09:28:48.000900+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T13:20:03.579536+02:00",
+          "amount": 1400.0,
+          "bidder": "d8c17954d3f149d1ae0d1d85f3ded785"
+        },
+        {
+          "date": "2015-11-09T19:05:35.843288+02:00",
+          "amount": 1150.0,
+          "bidder": "c30ace2275444952b50172cd6ea725d7"
+        }
+      ],
+      "time": "2015-11-12T09:07:37.003758+00:00"
+    }
+  },
+  "id": "53c78e3944a04064b20c51327a489f47",
+  "tenderId": "UA-2015-11-03-000181"
+}

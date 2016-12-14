@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "5b0fdd190b984803aad8beb490f9a829",
+        "time": "2015-10-09T10:27:38.007981+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4dcb758fca48ab9f22952b7e4cb72c",
+        "time": "2015-10-09T10:25:38.006890+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "5b0fdd190b984803aad8beb490f9a829",
+        "time": "2015-10-09T10:33:38.006459+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4dcb758fca48ab9f22952b7e4cb72c",
+        "time": "2015-10-09T10:31:38.009588+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "5b0fdd190b984803aad8beb490f9a829",
+        "time": "2015-10-09T10:21:38.006652+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a4dcb758fca48ab9f22952b7e4cb72c",
+        "time": "2015-10-09T10:19:38.007435+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2a4dcb758fca48ab9f22952b7e4cb72c",
+          "amount": 1980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0462560000",
+                "telephone": "0432560000",
+                "name": "Браславская Адольфовна Валентина",
+                "email": "riotrade@ukrpost.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31602365",
+                "legalName": "Виробничо-торговельна компанія \"Ріо-трейд\" в формі товариства з обмеженою відповідальністю"
+              },
+              "name": "Виробничо-торговельна компанія \"Ріо-трейд\" в формі товариства з обмеженою відповідальністю",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "21021",
+                "region": "Вінницька",
+                "streetAddress": "проспект Юності 16",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T09:12:51.016516+03:00"
+        },
+        {
+          "bidder": "5b0fdd190b984803aad8beb490f9a829",
+          "amount": 1791.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380984435494",
+                "name": "Антон Рештаненко",
+                "email": "andriypapirservis@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37302187",
+                "legalName": "ТОВ \"ПАПІР СЕРВІС\""
+              },
+              "name": "ТОВ \"ПАПІР СЕРВІС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "33013",
+                "region": "Ровенская",
+                "streetAddress": "м. Рівне, вул. Бахарєва, 23",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-10-06T17:15:13.729335+03:00"
+        }
+      ],
+      "time": "2015-10-09T10:33:38.874844+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-07T09:12:51.016516+03:00",
+          "amount": 1980.0,
+          "bidder": "2a4dcb758fca48ab9f22952b7e4cb72c"
+        },
+        {
+          "date": "2015-10-06T17:15:13.729335+03:00",
+          "amount": 1791.0,
+          "bidder": "5b0fdd190b984803aad8beb490f9a829"
+        }
+      ],
+      "time": "2015-10-09T10:12:38.002383+00:00"
+    }
+  },
+  "id": "3bcc91d16ff34863be5c912af746b779",
+  "tenderId": "UA-2015-09-25-000110"
+}

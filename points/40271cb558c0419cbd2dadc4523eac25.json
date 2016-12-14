@@ -1,0 +1,158 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "311c9e4c34da45d3bec9e8e8fc877d6d",
+        "time": "2015-12-07T09:20:28.128408+00:00"
+      },
+      "turn_3": {
+        "bidder": "0dc6c16c61554e29a23ea442bfc9bf98",
+        "time": "2015-12-07T09:22:28.008607+00:00"
+      },
+      "turn_1": {
+        "bidder": "d88d5066713040b78e503a30ffdfa844",
+        "time": "2015-12-07T09:18:28.007897+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "311c9e4c34da45d3bec9e8e8fc877d6d",
+        "time": "2015-12-07T09:28:28.008514+00:00"
+      },
+      "turn_3": {
+        "bidder": "0dc6c16c61554e29a23ea442bfc9bf98",
+        "time": "2015-12-07T09:30:28.014257+00:00"
+      },
+      "turn_1": {
+        "bidder": "d88d5066713040b78e503a30ffdfa844",
+        "time": "2015-12-07T09:26:28.007781+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6050.0,
+        "bid_time": "2015-12-07T11:11:51.265433+02:00",
+        "bidder": "0dc6c16c61554e29a23ea442bfc9bf98",
+        "time": "2015-12-07T09:12:28.013217+00:00"
+      },
+      "turn_3": {
+        "bidder": "311c9e4c34da45d3bec9e8e8fc877d6d",
+        "time": "2015-12-07T09:14:28.007704+00:00"
+      },
+      "turn_1": {
+        "bidder": "d88d5066713040b78e503a30ffdfa844",
+        "time": "2015-12-07T09:10:28.012068+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d88d5066713040b78e503a30ffdfa844",
+          "amount": 6499.08,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://evrotreyd.com",
+                "telephone": "+380445011635",
+                "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+                "email": "evrotreyd@voliacable.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31870198",
+                "legalName": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\""
+              },
+              "name": "ЧАСНОЕ ПРЕДПРИЯТИЕ \"ЕВРОТРЕЙД\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "08200, Киевская обл., г. Ирпень, ул.Фрунзе, 62",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-04T12:22:41.435949+02:00"
+        },
+        {
+          "bidder": "311c9e4c34da45d3bec9e8e8fc877d6d",
+          "amount": 6305.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502665422",
+                "name": "ТОВ ГОРСТАЛЬ",
+                "email": "0502665422@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39229958",
+                "legalName": "ТОВ ГОРСТАЛЬ"
+              },
+              "name": "ТОВ ГОРСТАЛЬ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01013\r\nг.Киев \r\nГолосеевский район \r\nул. Стройиндустрии дом 6",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-02T14:46:59.636022+02:00"
+        },
+        {
+          "bidder": "0dc6c16c61554e29a23ea442bfc9bf98",
+          "amount": 6050.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "044-5070286",
+                "telephone": "050-3301301",
+                "name": "Шалаховский Виктор Казимирович",
+                "email": "ka-na-da@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36683009",
+                "legalName": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці"
+              },
+              "name": "Товариство з обмеженою відповідальністю Виробничо-комерційна фірма Зірка Столиці",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02068",
+                "region": "Київська",
+                "streetAddress": "вул Кошиця 9-б офіс 33",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T11:11:51.265433+02:00"
+        }
+      ],
+      "time": "2015-12-07T09:30:40.239997+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T12:22:41.435949+02:00",
+          "amount": 6499.08,
+          "bidder": "d88d5066713040b78e503a30ffdfa844"
+        },
+        {
+          "date": "2015-12-02T15:34:07.139812+02:00",
+          "amount": 6450.0,
+          "bidder": "0dc6c16c61554e29a23ea442bfc9bf98"
+        },
+        {
+          "date": "2015-12-02T14:46:59.636022+02:00",
+          "amount": 6305.0,
+          "bidder": "311c9e4c34da45d3bec9e8e8fc877d6d"
+        }
+      ],
+      "time": "2015-12-07T09:03:28.003831+00:00"
+    }
+  },
+  "id": "40271cb558c0419cbd2dadc4523eac25",
+  "tenderId": "UA-2015-11-30-000191-b"
+}

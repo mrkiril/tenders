@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d6984124881f45b9893461813f042c3e",
+        "time": "2015-09-07T08:15:00.162463+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9a6c9a4a5cb4d8cb133bafbbb9f53e3",
+        "time": "2015-09-07T08:13:00.088698+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d6984124881f45b9893461813f042c3e",
+        "time": "2015-09-07T08:21:00.065124+00:00"
+      },
+      "turn_1": {
+        "bidder": "b9a6c9a4a5cb4d8cb133bafbbb9f53e3",
+        "time": "2015-09-07T08:19:00.046718+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "b9a6c9a4a5cb4d8cb133bafbbb9f53e3",
+        "time": "2015-09-07T08:09:00.042749+00:00"
+      },
+      "turn_1": {
+        "amount": 7500.0,
+        "bid_time": "2015-09-07T11:05:19.740795+03:00",
+        "bidder": "d6984124881f45b9893461813f042c3e",
+        "time": "2015-09-07T08:07:00.077320+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b9a6c9a4a5cb4d8cb133bafbbb9f53e3",
+          "amount": 7700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380961925380",
+                "name": "Гринкевич Станіслав Олександрович",
+                "email": "hrynkevych@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3388406796"
+              },
+              "name": "ФОП Гринкевич",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "Маршала Малиновського 27/23, к.220",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-08-31T17:55:43.318385+03:00"
+        },
+        {
+          "bidder": "d6984124881f45b9893461813f042c3e",
+          "amount": 7500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tn-kherson.com",
+                "faxNumber": "0509080301",
+                "telephone": "0509080301",
+                "name": "Темніков Олександр Олександрович",
+                "email": "tn-kherson@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39754496",
+                "legalName": "ТОВ \"Тотал Дистрибьюшн\""
+              },
+              "name": "ТОВ \"Тотал Дистрибьюшн\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "73000",
+                "region": "Херсонська область",
+                "streetAddress": "К. Цеткін, 18",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-07T11:05:19.740795+03:00"
+        }
+      ],
+      "time": "2015-09-07T08:21:07.604329+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-04T10:26:51.552630+03:00",
+          "amount": 9768.0,
+          "bidder": "d6984124881f45b9893461813f042c3e"
+        },
+        {
+          "date": "2015-08-31T17:55:43.318385+03:00",
+          "amount": 7700.0,
+          "bidder": "b9a6c9a4a5cb4d8cb133bafbbb9f53e3"
+        }
+      ],
+      "time": "2015-09-07T08:00:00.003951+00:00"
+    }
+  },
+  "id": "04f3f816d8cb4043b35d90357d9b5a01",
+  "tenderId": "UA-2015-08-28-000129"
+}

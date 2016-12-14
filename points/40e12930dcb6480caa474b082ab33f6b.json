@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c60b02bcfcef426fa87d70b020e7b32b",
+        "time": "2015-11-12T13:29:34.007769+00:00"
+      },
+      "turn_1": {
+        "bidder": "973f1f4c7cc74470be88713b22978d41",
+        "time": "2015-11-12T13:27:34.008654+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c60b02bcfcef426fa87d70b020e7b32b",
+        "time": "2015-11-12T13:35:34.038850+00:00"
+      },
+      "turn_1": {
+        "bidder": "973f1f4c7cc74470be88713b22978d41",
+        "time": "2015-11-12T13:33:34.009443+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c60b02bcfcef426fa87d70b020e7b32b",
+        "time": "2015-11-12T13:23:34.011093+00:00"
+      },
+      "turn_1": {
+        "bidder": "973f1f4c7cc74470be88713b22978d41",
+        "time": "2015-11-12T13:21:34.011676+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "973f1f4c7cc74470be88713b22978d41",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0577584791",
+                "telephone": "0967596643",
+                "name": "Порохняч Ігор Анатолійович",
+                "email": "intelekt.pravo@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35474969",
+                "legalName": "Приватне підприємство \"Інтелект-Право\""
+              },
+              "name": "Приватне підприємство \"Інтелект-Право\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61176",
+                "region": "Харківська",
+                "streetAddress": "Краснодарська 179-Б-112",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-11T01:24:13.937573+02:00"
+        },
+        {
+          "bidder": "c60b02bcfcef426fa87d70b020e7b32b",
+          "amount": 96.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kvint.com.ua/",
+                "faxNumber": "044-254-66-88",
+                "telephone": "044-254-66-88",
+                "name": "Сапон Олександр Вікторович",
+                "email": "kvint@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23503666",
+                "legalName": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО «ВЕГА»"
+              },
+              "name": "ПРИВАТНЕ АКЦІОНЕРНЕ ТОВАРИСТВО «ВЕГА»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08110",
+                "region": "Київська",
+                "streetAddress": "вул.Шкільна, буд.30, с.Михайлівка-Рубежівка, Києво-Святошинський р-н,",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-11T12:21:08.281817+02:00"
+        }
+      ],
+      "time": "2015-11-12T13:35:36.699843+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-11T01:24:13.937573+02:00",
+          "amount": 5900.0,
+          "bidder": "973f1f4c7cc74470be88713b22978d41"
+        },
+        {
+          "date": "2015-11-11T12:21:08.281817+02:00",
+          "amount": 96.0,
+          "bidder": "c60b02bcfcef426fa87d70b020e7b32b"
+        }
+      ],
+      "time": "2015-11-12T13:14:34.004364+00:00"
+    }
+  },
+  "id": "40e12930dcb6480caa474b082ab33f6b",
+  "tenderId": "UA-2015-10-30-000204"
+}

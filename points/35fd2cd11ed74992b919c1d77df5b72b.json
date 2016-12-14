@@ -1,0 +1,155 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "46a4ec9749204dd7804516ca3c75a4f3",
+        "time": "2015-10-26T10:25:33.007345+00:00"
+      },
+      "turn_3": {
+        "bidder": "42fe9e7c32e9484e9099f7ff0d422af6",
+        "time": "2015-10-26T10:27:33.008413+00:00"
+      },
+      "turn_1": {
+        "bidder": "3ac9f917bfa644efbfb87802a96c3e15",
+        "time": "2015-10-26T10:23:33.007573+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "46a4ec9749204dd7804516ca3c75a4f3",
+        "time": "2015-10-26T10:33:33.007322+00:00"
+      },
+      "turn_3": {
+        "bidder": "42fe9e7c32e9484e9099f7ff0d422af6",
+        "time": "2015-10-26T10:35:33.015928+00:00"
+      },
+      "turn_1": {
+        "bidder": "3ac9f917bfa644efbfb87802a96c3e15",
+        "time": "2015-10-26T10:31:33.007391+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "46a4ec9749204dd7804516ca3c75a4f3",
+        "time": "2015-10-26T10:17:33.008802+00:00"
+      },
+      "turn_3": {
+        "bidder": "42fe9e7c32e9484e9099f7ff0d422af6",
+        "time": "2015-10-26T10:19:33.007156+00:00"
+      },
+      "turn_1": {
+        "bidder": "3ac9f917bfa644efbfb87802a96c3e15",
+        "time": "2015-10-26T10:15:33.011563+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3ac9f917bfa644efbfb87802a96c3e15",
+          "amount": 15702.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0567902347",
+                "name": "Сергей Забудский ",
+                "email": "office@sunline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35933502",
+                "legalName": "Компания\"Санлайн\""
+              },
+              "name": "Компания\"Санлайн\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Днепропетровская область",
+                "streetAddress": "49044 г.Днепропетровск, ул.Шевченко д.10 оф.215"
+              }
+            }
+          ],
+          "time": "2015-10-22T14:26:20.337765+03:00"
+        },
+        {
+          "bidder": "46a4ec9749204dd7804516ca3c75a4f3",
+          "amount": 13401.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://softcom.ua",
+                "telephone": "+380953228504",
+                "name": "Товариство з обмеженою відповідальністю «Центр програмного забезпечення «СОФТКОМ»",
+                "email": "konstantin.semenets@softcom.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38516922",
+                "legalName": "Товариство з обмеженою відповідальністю «Центр програмного забезпечення «СОФТКОМ»"
+              },
+              "name": "Товариство з обмеженою відповідальністю «Центр програмного забезпечення «СОФТКОМ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04116 м. Київ, вул. Маршала Рибалка, 11",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T17:07:27.995854+03:00"
+        },
+        {
+          "bidder": "42fe9e7c32e9484e9099f7ff0d422af6",
+          "amount": 13401.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://www.favorit-s.com.ua",
+                "faxNumber": "239-24-05",
+                "telephone": "239-24-05",
+                "name": "Федоренко Наталія Євгенівна",
+                "email": "sale@favorit-s.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31281963",
+                "legalName": "Дочірнє підприємство \"Фаворит-С\""
+              },
+              "name": "Дочірнє підприємство \"Фаворит-С\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "вул.Копиловська, буд № 65 літ.А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-23T15:57:25.383039+03:00"
+        }
+      ],
+      "time": "2015-10-26T10:35:39.571881+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T14:26:20.337765+03:00",
+          "amount": 15702.0,
+          "bidder": "3ac9f917bfa644efbfb87802a96c3e15"
+        },
+        {
+          "date": "2015-10-23T15:57:25.383039+03:00",
+          "amount": 13401.0,
+          "bidder": "42fe9e7c32e9484e9099f7ff0d422af6"
+        },
+        {
+          "date": "2015-10-23T17:07:27.995854+03:00",
+          "amount": 13401.0,
+          "bidder": "46a4ec9749204dd7804516ca3c75a4f3"
+        }
+      ],
+      "time": "2015-10-26T10:08:33.002395+00:00"
+    }
+  },
+  "id": "35fd2cd11ed74992b919c1d77df5b72b",
+  "tenderId": "UA-2015-10-16-000328"
+}

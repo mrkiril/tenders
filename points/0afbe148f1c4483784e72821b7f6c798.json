@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3e348aa47f174e969c4dd7b39c06266d",
+        "time": "2015-11-20T10:52:57.014243+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2562e271cea4b6f9e43cd2e93b06a31",
+        "time": "2015-11-20T10:50:57.008820+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3e348aa47f174e969c4dd7b39c06266d",
+        "time": "2015-11-20T10:58:57.010253+00:00"
+      },
+      "turn_1": {
+        "bidder": "b2562e271cea4b6f9e43cd2e93b06a31",
+        "time": "2015-11-20T10:56:57.010144+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 1409.0,
+        "bid_time": "2015-11-20T12:45:10.216808+02:00",
+        "bidder": "3e348aa47f174e969c4dd7b39c06266d",
+        "time": "2015-11-20T10:46:57.010626+00:00"
+      },
+      "turn_1": {
+        "amount": 1410.0,
+        "bid_time": "2015-11-20T12:43:28.297457+02:00",
+        "bidder": "b2562e271cea4b6f9e43cd2e93b06a31",
+        "time": "2015-11-20T10:44:57.015790+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b2562e271cea4b6f9e43cd2e93b06a31",
+          "amount": 1410.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677921681",
+                "name": "Батрак Роман Миколайович",
+                "email": "rnb.79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2933704543"
+              },
+              "name": "ФОП Батрак Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська область",
+                "streetAddress": "вул.О.Попова, буд.15, кв.35",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T12:43:28.297457+02:00"
+        },
+        {
+          "bidder": "3e348aa47f174e969c4dd7b39c06266d",
+          "amount": 1409.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T12:45:10.216808+02:00"
+        }
+      ],
+      "time": "2015-11-20T10:58:58.754676+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T16:06:45.174105+02:00",
+          "amount": 2114.0,
+          "bidder": "b2562e271cea4b6f9e43cd2e93b06a31"
+        },
+        {
+          "date": "2015-11-19T09:09:56.328406+02:00",
+          "amount": 1435.0,
+          "bidder": "3e348aa47f174e969c4dd7b39c06266d"
+        }
+      ],
+      "time": "2015-11-20T10:37:57.004641+00:00"
+    }
+  },
+  "id": "0afbe148f1c4483784e72821b7f6c798",
+  "tenderId": "UA-2015-11-17-000069-b"
+}

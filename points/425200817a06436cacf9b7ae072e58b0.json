@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "611e2c27486a49f8befdd7586b288c6a",
+        "time": "2015-11-27T11:59:14.007957+00:00"
+      },
+      "turn_1": {
+        "bidder": "30a6f7aa891b44ea8e996d38f2399c2f",
+        "time": "2015-11-27T11:57:14.011654+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "611e2c27486a49f8befdd7586b288c6a",
+        "time": "2015-11-27T12:05:14.007680+00:00"
+      },
+      "turn_1": {
+        "bidder": "30a6f7aa891b44ea8e996d38f2399c2f",
+        "time": "2015-11-27T12:03:14.011495+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "611e2c27486a49f8befdd7586b288c6a",
+        "time": "2015-11-27T11:53:14.010453+00:00"
+      },
+      "turn_1": {
+        "bidder": "30a6f7aa891b44ea8e996d38f2399c2f",
+        "time": "2015-11-27T11:51:14.016350+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30a6f7aa891b44ea8e996d38f2399c2f",
+          "amount": 14996.73,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503530287",
+                "name": "Наталья Численко",
+                "email": "promk2@epicentrk.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3249024402",
+                "legalName": "ТОВ \"ЭПИЦЕНТР К\""
+              },
+              "name": "ТОВ \"ЭПИЦЕНТР К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03680",
+                "region": "Киевская",
+                "streetAddress": "ул. Кольцевая 1б",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-23T16:21:32.082110+02:00"
+        },
+        {
+          "bidder": "611e2c27486a49f8befdd7586b288c6a",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "",
+                "name": "Владислав Сергійович Назаренко",
+                "email": "project.a.ukraine@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3014612756",
+                "legalName": "ФОП Назаренко Владислав Сергійович"
+              },
+              "name": "ФОП Назаренко Владислав Сергійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61038",
+                "region": "Харківська",
+                "streetAddress": "Салтівське шосе, 63/2, кв. 41",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-11-26T13:57:27.937575+02:00"
+        }
+      ],
+      "time": "2015-11-27T12:05:17.746817+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T16:21:32.082110+02:00",
+          "amount": 14996.73,
+          "bidder": "30a6f7aa891b44ea8e996d38f2399c2f"
+        },
+        {
+          "date": "2015-11-26T13:57:27.937575+02:00",
+          "amount": 12000.0,
+          "bidder": "611e2c27486a49f8befdd7586b288c6a"
+        }
+      ],
+      "time": "2015-11-27T11:44:14.003417+00:00"
+    }
+  },
+  "id": "425200817a06436cacf9b7ae072e58b0",
+  "tenderId": "UA-2015-11-19-000094-b"
+}

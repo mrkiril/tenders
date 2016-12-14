@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ff5c8b795b5c41edb45a9ffca257eabc",
+        "time": "2015-10-09T09:23:15.009828+00:00"
+      },
+      "turn_1": {
+        "bidder": "f062b74b85f541a8a46e1032832f0764",
+        "time": "2015-10-09T09:21:15.074236+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ff5c8b795b5c41edb45a9ffca257eabc",
+        "time": "2015-10-09T09:29:15.007484+00:00"
+      },
+      "turn_1": {
+        "bidder": "f062b74b85f541a8a46e1032832f0764",
+        "time": "2015-10-09T09:27:15.008343+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f062b74b85f541a8a46e1032832f0764",
+        "time": "2015-10-09T09:17:15.008252+00:00"
+      },
+      "turn_1": {
+        "amount": 4392.0,
+        "bid_time": "2015-10-09T12:14:08.293255+03:00",
+        "bidder": "ff5c8b795b5c41edb45a9ffca257eabc",
+        "time": "2015-10-09T09:15:15.009241+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f062b74b85f541a8a46e1032832f0764",
+          "amount": 4488.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380956702008",
+                "name": "Андрей Агарков",
+                "email": "agarkov@bmk.kh.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "22722461",
+                "legalName": "ПрАТ \"Безлюдовский Мясокомбинат\""
+              },
+              "name": "ПрАТ \"Безлюдовский Мясокомбинат\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "334851",
+                "region": "Харьковская",
+                "streetAddress": "ул. Безлюдовская 5",
+                "locality": "харьков"
+              }
+            }
+          ],
+          "time": "2015-10-02T11:27:59.411218+03:00"
+        },
+        {
+          "bidder": "ff5c8b795b5c41edb45a9ffca257eabc",
+          "amount": 4392.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0668928837",
+                "name": "Надія Чашуріна ",
+                "email": "n.chashurina@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3145700085",
+                "legalName": "ФОП Зубицька В.В."
+              },
+              "name": "ФОП Зубицька В.В.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Одесская область",
+                "streetAddress": "м.Котовськ вул.Самборського 3в Одеська обл. 66300"
+              }
+            }
+          ],
+          "time": "2015-10-09T12:14:08.293255+03:00"
+        }
+      ],
+      "time": "2015-10-09T09:29:15.927527+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-02T19:44:42.610958+03:00",
+          "amount": 4500.0,
+          "bidder": "ff5c8b795b5c41edb45a9ffca257eabc"
+        },
+        {
+          "date": "2015-10-02T11:27:59.411218+03:00",
+          "amount": 4488.0,
+          "bidder": "f062b74b85f541a8a46e1032832f0764"
+        }
+      ],
+      "time": "2015-10-09T09:08:15.002966+00:00"
+    }
+  },
+  "id": "e5554821eac7434c9d6492eeb3248702",
+  "tenderId": "UA-2015-09-25-000188"
+}

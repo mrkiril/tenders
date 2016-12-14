@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "0558a9f5c9cb42d18c8ccb9c108e5491",
+        "time": "2015-12-07T12:49:58.008375+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab1cc92508e449cdb02d891cd8595852",
+        "time": "2015-12-07T12:47:58.008348+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0558a9f5c9cb42d18c8ccb9c108e5491",
+        "time": "2015-12-07T12:55:58.007892+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab1cc92508e449cdb02d891cd8595852",
+        "time": "2015-12-07T12:53:58.015422+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "0558a9f5c9cb42d18c8ccb9c108e5491",
+        "time": "2015-12-07T12:43:58.008714+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab1cc92508e449cdb02d891cd8595852",
+        "time": "2015-12-07T12:41:58.008272+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "ab1cc92508e449cdb02d891cd8595852",
+          "amount": 28000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T15:34:56.068762+02:00"
+        },
+        {
+          "bidder": "0558a9f5c9cb42d18c8ccb9c108e5491",
+          "amount": 27350.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445853455, +380504429995",
+                "name": "Руслан Владимирович Клименко",
+                "email": "ruslan@igar.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19243202",
+                "legalName": "ООО \"Игар\""
+              },
+              "name": "ООО \"Игар\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03057",
+                "region": "Киевская",
+                "streetAddress": "ул.Металистоа,20",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-01T10:39:01.894012+02:00"
+        }
+      ],
+      "time": "2015-12-07T12:56:00.123057+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T15:34:56.068762+02:00",
+          "amount": 28000.0,
+          "bidder": "ab1cc92508e449cdb02d891cd8595852"
+        },
+        {
+          "date": "2015-12-01T10:39:01.894012+02:00",
+          "amount": 27350.48,
+          "bidder": "0558a9f5c9cb42d18c8ccb9c108e5491"
+        }
+      ],
+      "time": "2015-12-07T12:34:58.004146+00:00"
+    }
+  },
+  "id": "0bfe915868aa4062af2100debe7156d7",
+  "tenderId": "UA-2015-11-26-000041-b"
+}

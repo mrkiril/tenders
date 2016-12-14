@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 45260.0,
+        "bid_time": "2015-12-10T15:16:58.589744+02:00",
+        "bidder": "b6a5848d6ba64fefb5507e9be0f00212",
+        "time": "2015-12-10T13:18:12.008702+00:00"
+      },
+      "turn_3": {
+        "bidder": "221aa426cbe945dcb331dcb40491ff8c",
+        "time": "2015-12-10T13:20:12.007882+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1e93c4b1b8840fbb8e6e8a9cb0849e1",
+        "time": "2015-12-10T13:16:12.008141+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 41523.0,
+        "bid_time": "2015-12-10T15:25:38.054362+02:00",
+        "bidder": "b6a5848d6ba64fefb5507e9be0f00212",
+        "time": "2015-12-10T13:26:12.007602+00:00"
+      },
+      "turn_3": {
+        "bidder": "221aa426cbe945dcb331dcb40491ff8c",
+        "time": "2015-12-10T13:28:12.009878+00:00"
+      },
+      "turn_1": {
+        "amount": 28600.0,
+        "bid_time": "2015-12-10T15:22:36.280048+02:00",
+        "bidder": "d1e93c4b1b8840fbb8e6e8a9cb0849e1",
+        "time": "2015-12-10T13:24:12.007836+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 45760.0,
+        "bid_time": "2015-12-10T15:09:08.438327+02:00",
+        "bidder": "b6a5848d6ba64fefb5507e9be0f00212",
+        "time": "2015-12-10T13:10:12.014267+00:00"
+      },
+      "turn_3": {
+        "bidder": "221aa426cbe945dcb331dcb40491ff8c",
+        "time": "2015-12-10T13:12:12.008413+00:00"
+      },
+      "turn_1": {
+        "bidder": "d1e93c4b1b8840fbb8e6e8a9cb0849e1",
+        "time": "2015-12-10T13:08:12.008179+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b6a5848d6ba64fefb5507e9be0f00212",
+          "amount": 41523.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380444561452",
+                "telephone": "+380673499141",
+                "name": "Рог Юрій Олексійович",
+                "email": "yuriy.rog@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33261645"
+              },
+              "name": "ТОВ Центр Експертних Технологій",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська область",
+                "streetAddress": "вул. Костянтинівська, 64, оф.315",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T15:25:38.054362+02:00"
+        },
+        {
+          "bidder": "221aa426cbe945dcb331dcb40491ff8c",
+          "amount": 31125.84,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz/",
+                "faxNumber": "0442331676",
+                "telephone": "0442331676",
+                "name": "Дмитрів Ігор Андрійович",
+                "email": "kokki2004@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36257034",
+                "legalName": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "Щорса, 31, офіс 314",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:09:11.069322+02:00"
+        },
+        {
+          "bidder": "d1e93c4b1b8840fbb8e6e8a9cb0849e1",
+          "amount": 28600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38044-587-90-15",
+                "name": "Александра Малюженко",
+                "email": "aldenatov@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37192759",
+                "legalName": "ТОВ \"Альдена\""
+              },
+              "name": "ТОВ \"Альдена\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01011",
+                "region": "Киевская",
+                "streetAddress": "м.Київ.вул.Гусовського,№8/10,кв.21.",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-10T15:22:36.280048+02:00"
+        }
+      ],
+      "time": "2015-12-10T13:28:14.287802+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-09T10:01:33.393896+02:00",
+          "amount": 48493.2,
+          "bidder": "d1e93c4b1b8840fbb8e6e8a9cb0849e1"
+        },
+        {
+          "date": "2015-12-09T11:28:22.555773+02:00",
+          "amount": 46260.0,
+          "bidder": "b6a5848d6ba64fefb5507e9be0f00212"
+        },
+        {
+          "date": "2015-12-08T14:09:11.069322+02:00",
+          "amount": 31125.84,
+          "bidder": "221aa426cbe945dcb331dcb40491ff8c"
+        }
+      ],
+      "time": "2015-12-10T13:01:12.003874+00:00"
+    }
+  },
+  "id": "28afab35c14c4519a9305e77e0541bec",
+  "tenderId": "UA-2015-11-30-000144-a"
+}

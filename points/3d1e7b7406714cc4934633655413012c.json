@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "80627ccdd66c48649af4b898ec29ccc2",
+        "time": "2015-05-28T10:15:00.012018+00:00"
+      },
+      "turn_1": {
+        "bidder": "704d882b4cb9429aad3d2f406c61464f",
+        "time": "2015-05-28T10:13:00.013283+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "80627ccdd66c48649af4b898ec29ccc2",
+        "time": "2015-05-28T10:21:00.023067+00:00"
+      },
+      "turn_1": {
+        "bidder": "704d882b4cb9429aad3d2f406c61464f",
+        "time": "2015-05-28T10:19:00.058896+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "80627ccdd66c48649af4b898ec29ccc2",
+        "time": "2015-05-28T10:09:00.013808+00:00"
+      },
+      "turn_1": {
+        "bidder": "704d882b4cb9429aad3d2f406c61464f",
+        "time": "2015-05-28T10:07:00.017220+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "704d882b4cb9429aad3d2f406c61464f",
+          "amount": 30.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tdazovcable.kiev.ua",
+                "telephone": "+380675079492",
+                "name": "Торговый дом Азовкабель Киев",
+                "email": "0675079492@azovcable.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37387686",
+                "legalName": "Торговый дом Азовкабель Киев"
+              },
+              "name": "Торговый дом Азовкабель Киев",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02081, Киев, ул. Здолбуновская 7-Д",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-26T12:53:21.798113+03:00"
+        },
+        {
+          "bidder": "80627ccdd66c48649af4b898ec29ccc2",
+          "amount": 28.12,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445862095",
+                "name": "ООО Электрокомплект Лтд",
+                "email": "o.tretyak@el-komplekt.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34716409",
+                "legalName": "ООО Электрокомплект Лтд"
+              },
+              "name": "ООО Электрокомплект Лтд",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04080, г. Киев, ул. Хвойки, 21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-05-26T10:27:23.032043+03:00"
+        }
+      ],
+      "time": "2015-05-28T10:21:00.994137+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-05-26T12:53:21.798113+03:00",
+          "amount": 30.0,
+          "bidder": "704d882b4cb9429aad3d2f406c61464f"
+        },
+        {
+          "date": "2015-05-26T10:27:23.032043+03:00",
+          "amount": 28.12,
+          "bidder": "80627ccdd66c48649af4b898ec29ccc2"
+        }
+      ],
+      "time": "2015-05-28T10:00:00.010210+00:00"
+    }
+  },
+  "id": "3d1e7b7406714cc4934633655413012c",
+  "tenderId": "UA-2015-05-21-000017"
+}

@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "36f632a6adec4e1fb357bd9d09044bd8",
+        "time": "2015-11-25T13:54:26.007322+00:00"
+      },
+      "turn_1": {
+        "bidder": "1b3c148261ed41a298eff9fae2c9be24",
+        "time": "2015-11-25T13:52:26.007307+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "36f632a6adec4e1fb357bd9d09044bd8",
+        "time": "2015-11-25T14:00:26.009894+00:00"
+      },
+      "turn_1": {
+        "bidder": "1b3c148261ed41a298eff9fae2c9be24",
+        "time": "2015-11-25T13:58:26.006910+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "1b3c148261ed41a298eff9fae2c9be24",
+        "time": "2015-11-25T13:48:26.007801+00:00"
+      },
+      "turn_1": {
+        "amount": 17620.0,
+        "bid_time": "2015-11-25T15:45:00.855986+02:00",
+        "bidder": "36f632a6adec4e1fb357bd9d09044bd8",
+        "time": "2015-11-25T13:46:26.009607+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "1b3c148261ed41a298eff9fae2c9be24",
+          "amount": 17800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957443635",
+                "name": "Віталій Шевченко",
+                "email": "alt_solar@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3128705053",
+                "legalName": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\""
+              },
+              "name": "ФОП \"ШЕВЧЕНКО ВІТАЛІЙ МИКОЛАЙОВИЧ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36039",
+                "region": "Полтавская",
+                "streetAddress": "вул. Артема, 27, кв. 73",
+                "locality": "місто Полтава"
+              }
+            }
+          ],
+          "time": "2015-11-19T13:42:46.171681+02:00"
+        },
+        {
+          "bidder": "36f632a6adec4e1fb357bd9d09044bd8",
+          "amount": 17620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://fop-gerasyuto-aa.prom.ua",
+                "telephone": "0663378871",
+                "name": "Герасюто Олександр Анатолійович",
+                "email": "fop_alex@mail.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3078814892",
+                "legalName": "Фізична особа-підприємець Герасюто Олександр Анатолійович"
+              },
+              "name": "Фізична особа-підприємець Герасюто Олександр Анатолійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54008",
+                "region": "Миколаївська",
+                "streetAddress": "Комсомольська 43, 27",
+                "locality": "Миколаїв"
+              }
+            }
+          ],
+          "time": "2015-11-25T15:45:00.855986+02:00"
+        }
+      ],
+      "time": "2015-11-25T14:00:56.767437+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-19T13:42:46.171681+02:00",
+          "amount": 17800.0,
+          "bidder": "1b3c148261ed41a298eff9fae2c9be24"
+        },
+        {
+          "date": "2015-11-22T18:18:05.936500+02:00",
+          "amount": 17800.0,
+          "bidder": "36f632a6adec4e1fb357bd9d09044bd8"
+        }
+      ],
+      "time": "2015-11-25T13:39:26.003877+00:00"
+    }
+  },
+  "id": "53c95b814c494804ac4bb37889367552",
+  "tenderId": "UA-2015-11-16-000067-a"
+}

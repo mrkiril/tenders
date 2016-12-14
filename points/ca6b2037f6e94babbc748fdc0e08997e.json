@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "50540f247b004e7eaafd76e92acb5353",
+        "time": "2015-10-22T10:23:30.008482+00:00"
+      },
+      "turn_1": {
+        "bidder": "24556a48403b4609b23b2ad86ca140cf",
+        "time": "2015-10-22T10:21:30.008598+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "50540f247b004e7eaafd76e92acb5353",
+        "time": "2015-10-22T10:29:30.007623+00:00"
+      },
+      "turn_1": {
+        "bidder": "24556a48403b4609b23b2ad86ca140cf",
+        "time": "2015-10-22T10:27:30.010328+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "50540f247b004e7eaafd76e92acb5353",
+        "time": "2015-10-22T10:17:30.009205+00:00"
+      },
+      "turn_1": {
+        "bidder": "24556a48403b4609b23b2ad86ca140cf",
+        "time": "2015-10-22T10:15:30.007520+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "24556a48403b4609b23b2ad86ca140cf",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380957915970, +380444645885",
+                "name": "Оксана Овчаренко",
+                "email": "director@levtam.in.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ПП \"ЛЕВТАМ\"",
+                "id": "33083749",
+                "uri": "http://levtam.in.ua/"
+              },
+              "name": "ПП \"ЛЕВТАМ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07353",
+                "region": "Киевская",
+                "streetAddress": "вул. Дубрівська, 27,   ",
+                "locality": "с. Старі Петрівці"
+              }
+            }
+          ],
+          "time": "2015-10-16T09:18:46.742909+03:00"
+        },
+        {
+          "bidder": "50540f247b004e7eaafd76e92acb5353",
+          "amount": 19400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380679719191",
+                "name": "Середа Віталій Вікторович",
+                "email": "rentsport@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36865748"
+              },
+              "name": "ТОВ Українська торгово-інвестиційна компанія",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04070",
+                "region": "Київська область",
+                "streetAddress": "вул. Почайнинська, 28-А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-21T17:34:09.290626+03:00"
+        }
+      ],
+      "time": "2015-10-22T10:29:31.691346+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-16T09:18:46.742909+03:00",
+          "amount": 20000.0,
+          "bidder": "24556a48403b4609b23b2ad86ca140cf"
+        },
+        {
+          "date": "2015-10-21T17:34:09.290626+03:00",
+          "amount": 19400.0,
+          "bidder": "50540f247b004e7eaafd76e92acb5353"
+        }
+      ],
+      "time": "2015-10-22T10:08:30.003439+00:00"
+    }
+  },
+  "id": "ca6b2037f6e94babbc748fdc0e08997e",
+  "tenderId": "UA-2015-10-12-000226"
+}

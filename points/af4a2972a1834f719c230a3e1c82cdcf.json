@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "f010d7a893af49cca222ca49f8d8d6c2",
+        "time": "2015-06-26T08:15:00.180672+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb026fccb4b84bc481c1a0d9103b8939",
+        "time": "2015-06-26T08:13:00.187908+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "f010d7a893af49cca222ca49f8d8d6c2",
+        "time": "2015-06-26T08:21:00.382198+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb026fccb4b84bc481c1a0d9103b8939",
+        "time": "2015-06-26T08:19:00.584155+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "f010d7a893af49cca222ca49f8d8d6c2",
+        "time": "2015-06-26T08:09:00.341024+00:00"
+      },
+      "turn_1": {
+        "bidder": "cb026fccb4b84bc481c1a0d9103b8939",
+        "time": "2015-06-26T08:07:00.358278+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cb026fccb4b84bc481c1a0d9103b8939",
+          "amount": 4806.3,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962428468",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+                "email": "art-medvedkov@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31166456",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «НАУКОВО-ВИРОБНИЧЕ ПІДПРИЄМСТВО «ВІАН»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Запоріжжя вул.Макаренко. буд.9",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-26T09:26:09.099242+03:00"
+        },
+        {
+          "bidder": "f010d7a893af49cca222ca49f8d8d6c2",
+          "amount": 1620.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.agrospektr.com",
+                "telephone": "+380504536311",
+                "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+                "email": "gridnev@agrospektr.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37150132",
+                "legalName": "ООО \"Торговый Дом \"Агро-Спектр\""
+              },
+              "name": "ООО \"Торговый Дом \"Агро-Спектр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Украина, 49107, Днепропетровск,\r\nЗапорожское шоссе, д.26",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-24T17:35:12.598799+03:00"
+        }
+      ],
+      "time": "2015-06-26T08:21:11.890623+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-26T09:26:09.099242+03:00",
+          "amount": 4806.3,
+          "bidder": "cb026fccb4b84bc481c1a0d9103b8939"
+        },
+        {
+          "date": "2015-06-24T17:35:12.598799+03:00",
+          "amount": 1620.0,
+          "bidder": "f010d7a893af49cca222ca49f8d8d6c2"
+        }
+      ],
+      "time": "2015-06-26T08:00:00.269621+00:00"
+    }
+  },
+  "id": "af4a2972a1834f719c230a3e1c82cdcf",
+  "tenderId": "UA-2015-06-23-000029"
+}

@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "71004aa7d9234ec9943049a047c0f32b",
+        "time": "2015-11-19T09:19:21.012210+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d18fa00ac0e47829b23fd2aa75ef8a6",
+        "time": "2015-11-19T09:17:21.013106+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "71004aa7d9234ec9943049a047c0f32b",
+        "time": "2015-11-19T09:25:21.014212+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d18fa00ac0e47829b23fd2aa75ef8a6",
+        "time": "2015-11-19T09:23:21.011114+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "71004aa7d9234ec9943049a047c0f32b",
+        "time": "2015-11-19T09:13:21.012135+00:00"
+      },
+      "turn_1": {
+        "bidder": "4d18fa00ac0e47829b23fd2aa75ef8a6",
+        "time": "2015-11-19T09:11:21.010819+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4d18fa00ac0e47829b23fd2aa75ef8a6",
+          "amount": 120.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://sint.ua",
+                "telephone": "+380442204747",
+                "name": "Товариство з обмеженою відповідальністю „СІНТ”",
+                "email": "r.kravchuk@sint.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "16285789",
+                "legalName": "Товариство з обмеженою відповідальністю „СІНТ”"
+              },
+              "name": "Товариство з обмеженою відповідальністю „СІНТ”",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Желябова, 8/4",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T12:05:20.449014+02:00"
+        },
+        {
+          "bidder": "71004aa7d9234ec9943049a047c0f32b",
+          "amount": 105.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380365643200",
+                "telephone": "+380365632338",
+                "name": "Грель Володимир Сергійович",
+                "email": "dworld@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33522292"
+              },
+              "name": "ПП Цифровий Світ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "35600",
+                "region": "Рівненська область",
+                "streetAddress": "Замкова 27",
+                "locality": "Дубно"
+              }
+            }
+          ],
+          "time": "2015-11-17T08:33:48.751003+02:00"
+        }
+      ],
+      "time": "2015-11-19T09:25:22.228307+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T12:05:20.449014+02:00",
+          "amount": 120.0,
+          "bidder": "4d18fa00ac0e47829b23fd2aa75ef8a6"
+        },
+        {
+          "date": "2015-11-17T08:33:48.751003+02:00",
+          "amount": 105.0,
+          "bidder": "71004aa7d9234ec9943049a047c0f32b"
+        }
+      ],
+      "time": "2015-11-19T09:04:21.002495+00:00"
+    }
+  },
+  "id": "12693350b71a43949514e2de21e20fda",
+  "tenderId": "UA-2015-11-10-000140"
+}

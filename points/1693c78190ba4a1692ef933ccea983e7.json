@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 174300.0,
+        "bid_time": "2015-11-06T15:18:50.890467+02:00",
+        "bidder": "79f912ee1f144f369b4a503452f20d3c",
+        "time": "2015-11-06T13:19:57.008453+00:00"
+      },
+      "turn_1": {
+        "amount": 179800.0,
+        "bid_time": "2015-11-06T15:16:17.967363+02:00",
+        "bidder": "52a0c055012d48ab846fd74d6c8b843b",
+        "time": "2015-11-06T13:17:57.008589+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "79f912ee1f144f369b4a503452f20d3c",
+        "time": "2015-11-06T13:25:57.008481+00:00"
+      },
+      "turn_1": {
+        "amount": 164890.0,
+        "bid_time": "2015-11-06T15:23:53.233828+02:00",
+        "bidder": "52a0c055012d48ab846fd74d6c8b843b",
+        "time": "2015-11-06T13:23:57.008801+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "52a0c055012d48ab846fd74d6c8b843b",
+        "time": "2015-11-06T13:13:57.009092+00:00"
+      },
+      "turn_1": {
+        "amount": 183130.0,
+        "bid_time": "2015-11-06T15:11:30.007262+02:00",
+        "bidder": "79f912ee1f144f369b4a503452f20d3c",
+        "time": "2015-11-06T13:11:57.009729+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "79f912ee1f144f369b4a503452f20d3c",
+          "amount": 174300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380954394732",
+                "name": "Евгений Куликовский",
+                "email": "kulikovsky@pronet.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21680973",
+                "legalName": "ПП \"ПроНет\""
+              },
+              "name": "ПП \"ПроНет\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04073",
+                "region": "Киевская",
+                "streetAddress": "ул. Марка Вовчка, 18А",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-06T15:18:50.890467+02:00"
+        },
+        {
+          "bidder": "52a0c055012d48ab846fd74d6c8b843b",
+          "amount": 164890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.infosafe.ua",
+                "telephone": "+380445960044",
+                "name": "ООО \"Инфосейф ІТ\"",
+                "email": "an@infosafe.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38391587",
+                "legalName": "ООО \"Инфосейф ІТ\""
+              },
+              "name": "ООО \"Инфосейф ІТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04071, Україна, м. Київ, вул. Щекавицька, 9-а",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-06T15:23:53.233828+02:00"
+        }
+      ],
+      "time": "2015-11-06T13:26:33.220612+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T16:10:58.959070+02:00",
+          "amount": 190130.4,
+          "bidder": "79f912ee1f144f369b4a503452f20d3c"
+        },
+        {
+          "date": "2015-11-04T16:45:30.032283+02:00",
+          "amount": 184980.0,
+          "bidder": "52a0c055012d48ab846fd74d6c8b843b"
+        }
+      ],
+      "time": "2015-11-06T13:04:57.004103+00:00"
+    }
+  },
+  "id": "1693c78190ba4a1692ef933ccea983e7",
+  "tenderId": "UA-2015-10-23-000239"
+}

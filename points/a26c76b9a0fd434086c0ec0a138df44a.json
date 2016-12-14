@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "3b26843b2a924d23982cc8bc6a9cf536",
+        "time": "2015-12-09T09:57:56.008494+00:00"
+      },
+      "turn_1": {
+        "bidder": "eaf9586176864e628e6e1a74a5708163",
+        "time": "2015-12-09T09:55:56.006444+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "3b26843b2a924d23982cc8bc6a9cf536",
+        "time": "2015-12-09T10:03:56.015190+00:00"
+      },
+      "turn_1": {
+        "bidder": "eaf9586176864e628e6e1a74a5708163",
+        "time": "2015-12-09T10:01:56.024683+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3b26843b2a924d23982cc8bc6a9cf536",
+        "time": "2015-12-09T09:51:56.008924+00:00"
+      },
+      "turn_1": {
+        "bidder": "eaf9586176864e628e6e1a74a5708163",
+        "time": "2015-12-09T09:49:56.009442+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eaf9586176864e628e6e1a74a5708163",
+          "amount": 14877.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.tornado.sumy.ua",
+                "telephone": "+380675404342",
+                "name": "Товариство з обмеженою відповідальністю  \"Торнадо\"",
+                "email": "sergey@tornado.sumy.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30561234",
+                "legalName": "Товариство з обмеженою відповідальністю  \"Торнадо\""
+              },
+              "name": "Товариство з обмеженою відповідальністю  \"Торнадо\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.Горького буд.26, м.Суми, 40011",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-08T16:45:18.493914+02:00"
+        },
+        {
+          "bidder": "3b26843b2a924d23982cc8bc6a9cf536",
+          "amount": 14379.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.b2bexpress.com.ua",
+                "telephone": "+380973151074",
+                "name": "Би Ту Би Экспресс",
+                "email": "melnichuk@b2bexpress.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37590041",
+                "legalName": "Би Ту Би Экспресс"
+              },
+              "name": "Би Ту Би Экспресс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "Київська обл.",
+                "streetAddress": "Україна, 02660, м. Київ, \r\nвул. Червоноткацька, 71\r\nтел. (044) 597-04-47\r\nтел./факс (044) 597-04-40",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-07T17:58:17.988362+02:00"
+        }
+      ],
+      "time": "2015-12-09T10:03:59.798104+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T16:45:18.493914+02:00",
+          "amount": 14877.6,
+          "bidder": "eaf9586176864e628e6e1a74a5708163"
+        },
+        {
+          "date": "2015-12-07T17:58:17.988362+02:00",
+          "amount": 14379.6,
+          "bidder": "3b26843b2a924d23982cc8bc6a9cf536"
+        }
+      ],
+      "time": "2015-12-09T09:42:56.005057+00:00"
+    }
+  },
+  "id": "a26c76b9a0fd434086c0ec0a138df44a",
+  "tenderId": "UA-2015-11-25-000141"
+}

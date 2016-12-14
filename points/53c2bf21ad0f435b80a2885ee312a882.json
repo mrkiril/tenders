@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 8440.0,
+        "bid_time": "2015-10-07T11:28:29.571073+03:00",
+        "bidder": "04eaa96247d24577aa4af9fb92ad28b2",
+        "time": "2015-10-07T08:28:49.016469+00:00"
+      },
+      "turn_1": {
+        "amount": 8930.0,
+        "bid_time": "2015-10-07T11:25:15.057170+03:00",
+        "bidder": "f22a355306a9447dbb6d8b384718f39c",
+        "time": "2015-10-07T08:26:49.012090+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "04eaa96247d24577aa4af9fb92ad28b2",
+        "time": "2015-10-07T08:34:49.011773+00:00"
+      },
+      "turn_1": {
+        "bidder": "f22a355306a9447dbb6d8b384718f39c",
+        "time": "2015-10-07T08:32:49.009471+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "04eaa96247d24577aa4af9fb92ad28b2",
+        "time": "2015-10-07T08:22:49.009825+00:00"
+      },
+      "turn_1": {
+        "bidder": "f22a355306a9447dbb6d8b384718f39c",
+        "time": "2015-10-07T08:20:49.010310+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f22a355306a9447dbb6d8b384718f39c",
+          "amount": 8930.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-07T11:25:15.057170+03:00"
+        },
+        {
+          "bidder": "04eaa96247d24577aa4af9fb92ad28b2",
+          "amount": 8440.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0442227217",
+                "name": "Скоромна Алла Михайлівна",
+                "email": "gromikvvfop@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3168209595",
+                "legalName": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ ГРОМІК ВІТАЛІЙ ВАСИЛЬОВИЧ"
+              },
+              "name": "ФІЗИЧНА ОСОБА-ПІДПРИЄМЕЦЬ ГРОМІК ВІТАЛІЙ ВАСИЛЬОВИЧ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "07400",
+                "region": "Київська",
+                "streetAddress": "Короленка, буд.70-Б,кв.68",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T11:28:29.571073+03:00"
+        }
+      ],
+      "time": "2015-10-07T08:34:53.948639+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-06T13:33:32.573527+03:00",
+          "amount": 10161.0,
+          "bidder": "f22a355306a9447dbb6d8b384718f39c"
+        },
+        {
+          "date": "2015-10-06T17:45:27.338033+03:00",
+          "amount": 8940.0,
+          "bidder": "04eaa96247d24577aa4af9fb92ad28b2"
+        }
+      ],
+      "time": "2015-10-07T08:13:49.002718+00:00"
+    }
+  },
+  "id": "53c2bf21ad0f435b80a2885ee312a882",
+  "tenderId": "UA-2015-10-05-000173"
+}

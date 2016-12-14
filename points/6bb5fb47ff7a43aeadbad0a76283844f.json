@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d1b3fa0e5e874d88bfc6893eeab36d76",
+        "time": "2015-12-09T11:20:03.008862+00:00"
+      },
+      "turn_1": {
+        "bidder": "653b34f9f3b44955a4b9725a7cd65ccd",
+        "time": "2015-12-09T11:18:03.012150+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "d1b3fa0e5e874d88bfc6893eeab36d76",
+        "time": "2015-12-09T11:26:03.007303+00:00"
+      },
+      "turn_1": {
+        "bidder": "653b34f9f3b44955a4b9725a7cd65ccd",
+        "time": "2015-12-09T11:24:03.008035+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "653b34f9f3b44955a4b9725a7cd65ccd",
+        "time": "2015-12-09T11:14:03.009003+00:00"
+      },
+      "turn_1": {
+        "amount": 334.0,
+        "bid_time": "2015-12-09T13:10:11.338686+02:00",
+        "bidder": "d1b3fa0e5e874d88bfc6893eeab36d76",
+        "time": "2015-12-09T11:12:03.009817+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "653b34f9f3b44955a4b9725a7cd65ccd",
+          "amount": 335.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0677712870",
+                "name": "Марія Свинарчук ",
+                "email": "35800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2973412627",
+                "legalName": "ФОП Свинарчук М.А."
+              },
+              "name": "ФОП Свинарчук М.А.",
+              "address": {
+                "countryName": "Украина",
+                "region": "Ровенская область",
+                "streetAddress": "35800 Рівненська обл., м. Острог"
+              }
+            }
+          ],
+          "time": "2015-12-07T22:19:56.173156+02:00"
+        },
+        {
+          "bidder": "d1b3fa0e5e874d88bfc6893eeab36d76",
+          "amount": 334.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677003533",
+                "name": "Андрей Кухта",
+                "email": "andriypapirservis@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37302187",
+                "legalName": "ТОВ \"ПАПІР СЕРВІС\""
+              },
+              "name": "ТОВ \"ПАПІР СЕРВІС\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "33013",
+                "region": "Ровенская",
+                "streetAddress": "м. Рівне, вул. Бахарєва, 23",
+                "locality": "Ровно"
+              }
+            }
+          ],
+          "time": "2015-12-09T13:10:11.338686+02:00"
+        }
+      ],
+      "time": "2015-12-09T11:26:03.766284+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-04T15:41:07.697189+02:00",
+          "amount": 375.0,
+          "bidder": "d1b3fa0e5e874d88bfc6893eeab36d76"
+        },
+        {
+          "date": "2015-12-07T22:19:56.173156+02:00",
+          "amount": 335.0,
+          "bidder": "653b34f9f3b44955a4b9725a7cd65ccd"
+        }
+      ],
+      "time": "2015-12-09T11:05:03.003681+00:00"
+    }
+  },
+  "id": "6bb5fb47ff7a43aeadbad0a76283844f",
+  "tenderId": "UA-2015-11-26-000011"
+}

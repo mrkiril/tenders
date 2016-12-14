@@ -1,0 +1,119 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 4299.0,
+        "bid_time": "2015-10-06T15:25:26.137353+03:00",
+        "bidder": "202ba88c1cb544b89149364bc6b175e7",
+        "time": "2015-10-06T12:26:32.007881+00:00"
+      },
+      "turn_1": {
+        "amount": 4300.0,
+        "bid_time": "2015-10-06T15:23:14.692641+03:00",
+        "bidder": "2cac463ed1cc464983edcabc4abe8c78",
+        "time": "2015-10-06T12:24:32.007739+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "202ba88c1cb544b89149364bc6b175e7",
+        "time": "2015-10-06T12:32:32.006992+00:00"
+      },
+      "turn_1": {
+        "bidder": "2cac463ed1cc464983edcabc4abe8c78",
+        "time": "2015-10-06T12:30:32.006461+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 4351.0,
+        "bid_time": "2015-10-06T15:19:40.132193+03:00",
+        "bidder": "202ba88c1cb544b89149364bc6b175e7",
+        "time": "2015-10-06T12:20:32.008053+00:00"
+      },
+      "turn_1": {
+        "amount": 4370.0,
+        "bid_time": "2015-10-06T15:16:58.673148+03:00",
+        "bidder": "2cac463ed1cc464983edcabc4abe8c78",
+        "time": "2015-10-06T12:18:32.007782+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2cac463ed1cc464983edcabc4abe8c78",
+          "amount": 4300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T15:23:14.692641+03:00"
+        },
+        {
+          "bidder": "202ba88c1cb544b89149364bc6b175e7",
+          "amount": 4299.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380504729095",
+                "name": "ТОВ ДОНСАНТЕХБУД",
+                "email": "santexbood@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38587380",
+                "legalName": "ТОВ ДОНСАНТЕХБУД"
+              },
+              "name": "ТОВ ДОНСАНТЕХБУД",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "84551 Донецька обл. м.Часів яр м.Артемівськ вул. Циалковського 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-06T15:25:26.137353+03:00"
+        }
+      ],
+      "time": "2015-10-06T12:32:34.274514+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T15:19:47.597897+03:00",
+          "amount": 4799.0,
+          "bidder": "2cac463ed1cc464983edcabc4abe8c78"
+        },
+        {
+          "date": "2015-10-05T16:24:44.268621+03:00",
+          "amount": 4371.89,
+          "bidder": "202ba88c1cb544b89149364bc6b175e7"
+        }
+      ],
+      "time": "2015-10-06T12:11:32.002960+00:00"
+    }
+  },
+  "id": "88a6799e060b4bb98662bf269bdaf38e",
+  "tenderId": "UA-2015-09-30-000268"
+}

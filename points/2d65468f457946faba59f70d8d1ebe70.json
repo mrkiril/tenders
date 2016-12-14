@@ -1,0 +1,200 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "110a68f0d8f64d299ffe6aaa4321c513",
+        "time": "2015-12-04T12:02:44.007431+00:00"
+      },
+      "turn_2": {
+        "bidder": "90c88615003d4633b37a66076d36fc11",
+        "time": "2015-12-04T11:58:44.008342+00:00"
+      },
+      "turn_3": {
+        "bidder": "2ab8bc0a45324bf28e34f419acea9c18",
+        "time": "2015-12-04T12:00:44.007540+00:00"
+      },
+      "turn_1": {
+        "bidder": "30e8d4fdacc0489380e3264b34c673ff",
+        "time": "2015-12-04T11:56:44.008759+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "110a68f0d8f64d299ffe6aaa4321c513",
+        "time": "2015-12-04T12:12:44.007728+00:00"
+      },
+      "turn_2": {
+        "bidder": "90c88615003d4633b37a66076d36fc11",
+        "time": "2015-12-04T12:08:44.010324+00:00"
+      },
+      "turn_3": {
+        "bidder": "2ab8bc0a45324bf28e34f419acea9c18",
+        "time": "2015-12-04T12:10:44.007708+00:00"
+      },
+      "turn_1": {
+        "bidder": "30e8d4fdacc0489380e3264b34c673ff",
+        "time": "2015-12-04T12:06:44.019063+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "110a68f0d8f64d299ffe6aaa4321c513",
+        "time": "2015-12-04T11:52:44.008412+00:00"
+      },
+      "turn_2": {
+        "bidder": "90c88615003d4633b37a66076d36fc11",
+        "time": "2015-12-04T11:48:44.008888+00:00"
+      },
+      "turn_3": {
+        "bidder": "2ab8bc0a45324bf28e34f419acea9c18",
+        "time": "2015-12-04T11:50:44.029062+00:00"
+      },
+      "turn_1": {
+        "bidder": "30e8d4fdacc0489380e3264b34c673ff",
+        "time": "2015-12-04T11:46:44.008989+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30e8d4fdacc0489380e3264b34c673ff",
+          "amount": 15644.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-03T11:52:48.151435+02:00"
+        },
+        {
+          "bidder": "90c88615003d4633b37a66076d36fc11",
+          "amount": 15000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kots.kiev.ua",
+                "faxNumber": "+380442385656",
+                "telephone": "+380442385654",
+                "name": "Швець Микола Петрович",
+                "email": "niko@kots.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19031061"
+              },
+              "name": "ПрАТ КОТС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Хрещатик 19А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T12:09:18.747238+02:00"
+        },
+        {
+          "bidder": "2ab8bc0a45324bf28e34f419acea9c18",
+          "amount": 14000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380503645511",
+                "telephone": "+380503645599",
+                "name": "Голенков Володимир Миколайович",
+                "email": "contratos.vt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39536506"
+              },
+              "name": "ТОВ Контратос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69095",
+                "region": "Запорізька область",
+                "streetAddress": "Леніна, 160 оф. 200",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-12-02T22:00:17.801942+02:00"
+        },
+        {
+          "bidder": "110a68f0d8f64d299ffe6aaa4321c513",
+          "amount": 12864.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.spohn.com.ua",
+                "telephone": "+380577563696",
+                "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+                "email": "tecnomrya@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38385636",
+                "legalName": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\""
+              },
+              "name": "Общество с ограниченной ответственностью \"Электротехническая компания \"Техномрия\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61128 г. Харьков проспект Пятидесятилетия СССР д. 149 оф. 319",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T09:13:34.572693+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:12:47.087216+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T11:52:48.151435+02:00",
+          "amount": 15644.0,
+          "bidder": "30e8d4fdacc0489380e3264b34c673ff"
+        },
+        {
+          "date": "2015-12-03T12:09:18.747238+02:00",
+          "amount": 15000.0,
+          "bidder": "90c88615003d4633b37a66076d36fc11"
+        },
+        {
+          "date": "2015-12-02T22:00:17.801942+02:00",
+          "amount": 14000.0,
+          "bidder": "2ab8bc0a45324bf28e34f419acea9c18"
+        },
+        {
+          "date": "2015-12-03T09:13:34.572693+02:00",
+          "amount": 12864.0,
+          "bidder": "110a68f0d8f64d299ffe6aaa4321c513"
+        }
+      ],
+      "time": "2015-12-04T11:39:44.003196+00:00"
+    }
+  },
+  "id": "2d65468f457946faba59f70d8d1ebe70",
+  "tenderId": "UA-2015-11-30-000030-b"
+}

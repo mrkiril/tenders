@@ -1,0 +1,159 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "336dd64d0a7c4796a73ab82c3adc354b",
+        "time": "2015-10-26T13:24:32.014995+00:00"
+      },
+      "turn_3": {
+        "bidder": "77172885ff6f4fff867a0a36d10e205f",
+        "time": "2015-10-26T13:26:32.008993+00:00"
+      },
+      "turn_1": {
+        "amount": 800.0,
+        "bid_time": "2015-10-26T15:20:47.218492+02:00",
+        "bidder": "c6ce1a1c45674928bcba7d88b643ef80",
+        "time": "2015-10-26T13:22:32.011097+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "77172885ff6f4fff867a0a36d10e205f",
+        "time": "2015-10-26T13:32:32.008628+00:00"
+      },
+      "turn_3": {
+        "bidder": "c6ce1a1c45674928bcba7d88b643ef80",
+        "time": "2015-10-26T13:34:32.009175+00:00"
+      },
+      "turn_1": {
+        "bidder": "336dd64d0a7c4796a73ab82c3adc354b",
+        "time": "2015-10-26T13:30:32.009611+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "336dd64d0a7c4796a73ab82c3adc354b",
+        "time": "2015-10-26T13:16:32.011027+00:00"
+      },
+      "turn_3": {
+        "bidder": "77172885ff6f4fff867a0a36d10e205f",
+        "time": "2015-10-26T13:18:32.008708+00:00"
+      },
+      "turn_1": {
+        "bidder": "c6ce1a1c45674928bcba7d88b643ef80",
+        "time": "2015-10-26T13:14:32.011028+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "336dd64d0a7c4796a73ab82c3adc354b",
+          "amount": 950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://kadr.lviv.ua",
+                "telephone": "+380322611545",
+                "name": "Приватне підприємство \"Кадр\"",
+                "email": "ppkadr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23271204",
+                "legalName": "Приватне підприємство \"Кадр\""
+              },
+              "name": "Приватне підприємство \"Кадр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "вул.С.Бандери,67\\6, м.Львів, 79013",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T17:51:54.364742+03:00"
+        },
+        {
+          "bidder": "77172885ff6f4fff867a0a36d10e205f",
+          "amount": 921.82,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.metro.ua",
+                "telephone": "+380504149145",
+                "name": "ТОВ Метро Кеш енд Кері Україна",
+                "email": "artem.belousov@metro.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32049199",
+                "legalName": "ТОВ Метро Кеш енд Кері Україна"
+              },
+              "name": "ТОВ Метро Кеш енд Кері Україна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02140",
+                "region": "",
+                "streetAddress": "проспект Григоренка 43",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-22T18:48:18.168616+03:00"
+        },
+        {
+          "bidder": "c6ce1a1c45674928bcba7d88b643ef80",
+          "amount": 800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.romus.com.ua",
+                "telephone": "+380322553677",
+                "name": "ТОВ \"Ромус-Поліграф\"",
+                "email": "romus.manager30@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25551379",
+                "legalName": "ТОВ \"Ромус-Поліграф\""
+              },
+              "name": "ТОВ \"Ромус-Поліграф\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "79052",
+                "region": "",
+                "streetAddress": "вул. Широка, 81",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-26T15:20:47.218492+02:00"
+        }
+      ],
+      "time": "2015-10-26T13:34:37.620492+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-22T18:21:08.793048+03:00",
+          "amount": 1000.0,
+          "bidder": "c6ce1a1c45674928bcba7d88b643ef80"
+        },
+        {
+          "date": "2015-10-22T17:51:54.364742+03:00",
+          "amount": 950.0,
+          "bidder": "336dd64d0a7c4796a73ab82c3adc354b"
+        },
+        {
+          "date": "2015-10-22T18:48:18.168616+03:00",
+          "amount": 921.82,
+          "bidder": "77172885ff6f4fff867a0a36d10e205f"
+        }
+      ],
+      "time": "2015-10-26T13:07:32.001970+00:00"
+    }
+  },
+  "id": "1943edca1ab34db1ac0f10514b6268b3",
+  "tenderId": "UA-2015-10-20-000078"
+}

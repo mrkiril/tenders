@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "d6b35559040141c799be8a2d7b5b2cdc",
+        "time": "2015-11-05T13:31:52.008491+00:00"
+      },
+      "turn_3": {
+        "bidder": "b0dad9f57a674c0e99957afb559e93b9",
+        "time": "2015-11-05T13:33:52.008092+00:00"
+      },
+      "turn_1": {
+        "amount": 874.0,
+        "bid_time": "2015-11-05T15:28:57.329247+02:00",
+        "bidder": "5cce8afe004840bc977e2dffb76e579a",
+        "time": "2015-11-05T13:29:52.009375+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "b0dad9f57a674c0e99957afb559e93b9",
+        "time": "2015-11-05T13:39:52.008032+00:00"
+      },
+      "turn_3": {
+        "bidder": "5cce8afe004840bc977e2dffb76e579a",
+        "time": "2015-11-05T13:41:52.030475+00:00"
+      },
+      "turn_1": {
+        "bidder": "d6b35559040141c799be8a2d7b5b2cdc",
+        "time": "2015-11-05T13:37:52.007563+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "d6b35559040141c799be8a2d7b5b2cdc",
+        "time": "2015-11-05T13:23:52.008546+00:00"
+      },
+      "turn_3": {
+        "bidder": "b0dad9f57a674c0e99957afb559e93b9",
+        "time": "2015-11-05T13:25:52.008744+00:00"
+      },
+      "turn_1": {
+        "bidder": "5cce8afe004840bc977e2dffb76e579a",
+        "time": "2015-11-05T13:21:52.009633+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "d6b35559040141c799be8a2d7b5b2cdc",
+          "amount": 898.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563716989",
+                "telephone": "+380666995321",
+                "name": "Білоус Юрій Васильович",
+                "email": "sportmir2011@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20201189"
+              },
+              "name": "ТОВ Фірма \"Дніпроспортсервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49051",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Косіора 36-А",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-11-02T23:49:36.490503+02:00"
+        },
+        {
+          "bidder": "b0dad9f57a674c0e99957afb559e93b9",
+          "amount": 875.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503425486, +380637983110",
+                "name": "Антон",
+                "email": "info@dneprtrophy.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2031201978",
+                "legalName": "ФОП \"Овчаренко В.А.\""
+              },
+              "name": "ФОП \"Овчаренко В.А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "52041",
+                "region": "Днепропетровская",
+                "streetAddress": "ул. Новая 1/5, с Александровка, Днепропетровский район, Днепропетровская область",
+                "locality": "с. Александровка"
+              }
+            }
+          ],
+          "time": "2015-11-02T15:23:54.496134+02:00"
+        },
+        {
+          "bidder": "5cce8afe004840bc977e2dffb76e579a",
+          "amount": 874.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0443624240",
+                "name": "Сумароков Сергій Васильович",
+                "email": "3624240@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2633316473",
+                "legalName": "ФОП Сумароков Сергій Васильович"
+              },
+              "name": "ФОП Сумароков Сергій Васильович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "06166",
+                "region": "Київська",
+                "streetAddress": "Мілютенка 42/120",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-05T15:28:57.329247+02:00"
+        }
+      ],
+      "time": "2015-11-05T13:41:59.032188+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-04T15:52:21.574700+02:00",
+          "amount": 960.0,
+          "bidder": "5cce8afe004840bc977e2dffb76e579a"
+        },
+        {
+          "date": "2015-11-02T23:49:36.490503+02:00",
+          "amount": 898.0,
+          "bidder": "d6b35559040141c799be8a2d7b5b2cdc"
+        },
+        {
+          "date": "2015-11-02T15:23:54.496134+02:00",
+          "amount": 875.0,
+          "bidder": "b0dad9f57a674c0e99957afb559e93b9"
+        }
+      ],
+      "time": "2015-11-05T13:14:52.004193+00:00"
+    }
+  },
+  "id": "36e0341e41c84a88b5c995031c9ea5c2",
+  "tenderId": "UA-2015-10-30-000107"
+}

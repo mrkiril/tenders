@@ -1,0 +1,164 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "328f737f566c4c7baca23e8c27beab29",
+        "time": "2015-12-14T10:27:12.009245+00:00"
+      },
+      "turn_3": {
+        "amount": 20870.0,
+        "bid_time": "2015-12-14T12:27:26.765639+02:00",
+        "bidder": "6dfc17c203134a6881c1a3648eac3b29",
+        "time": "2015-12-14T10:29:12.010261+00:00"
+      },
+      "turn_1": {
+        "amount": 21600.0,
+        "bid_time": "2015-12-14T12:23:43.729258+02:00",
+        "bidder": "ab55d616fcf34aff97cb2100a6909909",
+        "time": "2015-12-14T10:25:12.010326+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ab55d616fcf34aff97cb2100a6909909",
+        "time": "2015-12-14T10:35:12.019745+00:00"
+      },
+      "turn_3": {
+        "bidder": "6dfc17c203134a6881c1a3648eac3b29",
+        "time": "2015-12-14T10:37:12.007406+00:00"
+      },
+      "turn_1": {
+        "bidder": "328f737f566c4c7baca23e8c27beab29",
+        "time": "2015-12-14T10:33:12.008267+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 22300.0,
+        "bid_time": "2015-12-14T12:18:35.688101+02:00",
+        "bidder": "328f737f566c4c7baca23e8c27beab29",
+        "time": "2015-12-14T10:19:12.011646+00:00"
+      },
+      "turn_3": {
+        "amount": 22070.0,
+        "bid_time": "2015-12-14T12:20:11.382078+02:00",
+        "bidder": "6dfc17c203134a6881c1a3648eac3b29",
+        "time": "2015-12-14T10:21:12.011196+00:00"
+      },
+      "turn_1": {
+        "bidder": "ab55d616fcf34aff97cb2100a6909909",
+        "time": "2015-12-14T10:17:12.007951+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "328f737f566c4c7baca23e8c27beab29",
+          "amount": 22300.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://smakovka.in.ua",
+                "faxNumber": "+380934609439",
+                "telephone": "+380934609439",
+                "name": "Цимеров Павло Володимирович",
+                "email": "smakovka.pavel@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37382000"
+              },
+              "name": "ТОВ Смаковка",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09100",
+                "region": "Київська область",
+                "streetAddress": "вулиця Водопійна, будинок 25, офіс 170",
+                "locality": "Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:18:35.688101+02:00"
+        },
+        {
+          "bidder": "ab55d616fcf34aff97cb2100a6909909",
+          "amount": 21600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.meblevuk.prom.ua",
+                "faxNumber": "+380445017040",
+                "telephone": "+380672398819",
+                "name": "Неділько Тетяна Михайлівна",
+                "email": "0672398819@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2852907688"
+              },
+              "name": "ФОП Неділько Тетяна Михайлівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03194",
+                "region": "Київська область",
+                "streetAddress": "вул. Зодчих 6 а кв. 113",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-14T12:23:43.729258+02:00"
+        },
+        {
+          "bidder": "6dfc17c203134a6881c1a3648eac3b29",
+          "amount": 20870.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+38050 3588268",
+                "name": "Лотоцкая Елена",
+                "email": "uchmebli@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32705023",
+                "legalName": "ТОВ \"Брік-Меблі\""
+              },
+              "name": "ТОВ \"Брік-Меблі\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T12:27:26.765639+02:00"
+        }
+      ],
+      "time": "2015-12-14T10:37:13.871749+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T12:43:40.443552+02:00",
+          "amount": 24000.0,
+          "bidder": "ab55d616fcf34aff97cb2100a6909909"
+        },
+        {
+          "date": "2015-12-07T18:23:39.211636+02:00",
+          "amount": 23500.0,
+          "bidder": "328f737f566c4c7baca23e8c27beab29"
+        },
+        {
+          "date": "2015-12-04T14:26:59.406648+02:00",
+          "amount": 23270.0,
+          "bidder": "6dfc17c203134a6881c1a3648eac3b29"
+        }
+      ],
+      "time": "2015-12-14T10:10:12.003768+00:00"
+    }
+  },
+  "id": "04517287453a461a965528da15963a30",
+  "tenderId": "UA-2015-11-30-000076"
+}

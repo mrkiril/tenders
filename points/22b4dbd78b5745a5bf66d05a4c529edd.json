@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 112680.0,
+        "bid_time": "2015-12-15T15:22:00.938809+02:00",
+        "bidder": "fb21271351f6447da7bb945f969b0b51",
+        "time": "2015-12-15T13:22:17.009588+00:00"
+      },
+      "turn_1": {
+        "amount": 114600.0,
+        "bid_time": "2015-12-15T15:18:47.385466+02:00",
+        "bidder": "a7d38bda791c432180aa0a6e9253c83a",
+        "time": "2015-12-15T13:20:17.009977+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fb21271351f6447da7bb945f969b0b51",
+        "time": "2015-12-15T13:28:17.008948+00:00"
+      },
+      "turn_1": {
+        "amount": 108000.0,
+        "bid_time": "2015-12-15T15:24:30.078711+02:00",
+        "bidder": "a7d38bda791c432180aa0a6e9253c83a",
+        "time": "2015-12-15T13:26:17.007442+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 121680.0,
+        "bid_time": "2015-12-15T15:14:53.756814+02:00",
+        "bidder": "a7d38bda791c432180aa0a6e9253c83a",
+        "time": "2015-12-15T13:16:17.010406+00:00"
+      },
+      "turn_1": {
+        "amount": 119520.0,
+        "bid_time": "2015-12-15T15:12:58.315126+02:00",
+        "bidder": "fb21271351f6447da7bb945f969b0b51",
+        "time": "2015-12-15T13:14:17.011019+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "fb21271351f6447da7bb945f969b0b51",
+          "amount": 112680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675762431",
+                "name": "Ольга",
+                "email": "odessa@come-for.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33337750",
+                "legalName": "ТОВ \"КОМ-ФОР\""
+              },
+              "name": "ТОВ \"КОМ-ФОР\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-15T15:22:00.938809+02:00"
+        },
+        {
+          "bidder": "a7d38bda791c432180aa0a6e9253c83a",
+          "amount": 108000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380566551672",
+                "telephone": "+380676375051",
+                "name": "Аніщенко Ірина Миколаївна",
+                "email": "info@latonaprime.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37857366"
+              },
+              "name": "ТОВ Латона Прайм",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "53400",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Українська,20",
+                "locality": "Марганець"
+              }
+            }
+          ],
+          "time": "2015-12-15T15:24:30.078711+02:00"
+        }
+      ],
+      "time": "2015-12-15T13:28:19.652634+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T15:45:46.090357+02:00",
+          "amount": 129360.0,
+          "bidder": "fb21271351f6447da7bb945f969b0b51"
+        },
+        {
+          "date": "2015-12-14T15:50:44.856733+02:00",
+          "amount": 124560.0,
+          "bidder": "a7d38bda791c432180aa0a6e9253c83a"
+        }
+      ],
+      "time": "2015-12-15T13:07:17.004973+00:00"
+    }
+  },
+  "id": "22b4dbd78b5745a5bf66d05a4c529edd",
+  "tenderId": "UA-2015-12-07-000007-b"
+}

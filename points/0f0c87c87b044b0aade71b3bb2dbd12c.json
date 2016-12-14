@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4153ba0491b7465091cbaf3b53dbb08e",
+        "time": "2015-11-24T12:26:28.017177+00:00"
+      },
+      "turn_1": {
+        "bidder": "e17e66b3f4344ffeb323c9e7c3298a5d",
+        "time": "2015-11-24T12:24:28.007918+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4153ba0491b7465091cbaf3b53dbb08e",
+        "time": "2015-11-24T12:32:28.015460+00:00"
+      },
+      "turn_1": {
+        "bidder": "e17e66b3f4344ffeb323c9e7c3298a5d",
+        "time": "2015-11-24T12:30:28.007943+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4153ba0491b7465091cbaf3b53dbb08e",
+        "time": "2015-11-24T12:20:28.009043+00:00"
+      },
+      "turn_1": {
+        "bidder": "e17e66b3f4344ffeb323c9e7c3298a5d",
+        "time": "2015-11-24T12:18:28.008277+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e17e66b3f4344ffeb323c9e7c3298a5d",
+          "amount": 2448.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380532667662",
+                "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+                "email": "svitlo-energo@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "35360095",
+                "legalName": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\""
+              },
+              "name": "ЧАСТНОЕ ПРЕДПРИЯТИЕ \"СВЕТ-ЭНЕРГО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "36034, г.Полтава, ул. Великотырновская,39д,кв.140",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T15:53:38.768188+02:00"
+        },
+        {
+          "bidder": "4153ba0491b7465091cbaf3b53dbb08e",
+          "amount": 2400.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442700741",
+                "name": "МАЛЕ ПРИВАТНЕ ПІДПРИЄМСТВО \"ЛЮБИСТОК\"",
+                "email": "lubistok@bk.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21587452",
+                "legalName": "МАЛЕ ПРИВАТНЕ ПІДПРИЄМСТВО \"ЛЮБИСТОК\""
+              },
+              "name": "МАЛЕ ПРИВАТНЕ ПІДПРИЄМСТВО \"ЛЮБИСТОК\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "УКРАЇНА, 03134, М,КИЇВ, СВЯТОШИНСЬКИЙ Р-Н, ВУЛ. СИМИРЕНКА, БУД. 2/19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-23T15:07:53.947019+02:00"
+        }
+      ],
+      "time": "2015-11-24T12:32:30.748269+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-23T15:53:38.768188+02:00",
+          "amount": 2448.0,
+          "bidder": "e17e66b3f4344ffeb323c9e7c3298a5d"
+        },
+        {
+          "date": "2015-11-23T15:07:53.947019+02:00",
+          "amount": 2400.0,
+          "bidder": "4153ba0491b7465091cbaf3b53dbb08e"
+        }
+      ],
+      "time": "2015-11-24T12:11:28.003515+00:00"
+    }
+  },
+  "id": "0f0c87c87b044b0aade71b3bb2dbd12c",
+  "tenderId": "UA-2015-11-20-000109-b"
+}

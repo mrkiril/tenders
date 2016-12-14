@@ -1,0 +1,113 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "c55a5f08c8e14ac18b68e0d9d4f3e9a0",
+        "time": "2015-11-30T10:20:07.008676+00:00"
+      },
+      "turn_1": {
+        "bidder": "509d33a4d9f4485c9ffd21aac8f2215c",
+        "time": "2015-11-30T10:18:07.008098+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c55a5f08c8e14ac18b68e0d9d4f3e9a0",
+        "time": "2015-11-30T10:26:07.006798+00:00"
+      },
+      "turn_1": {
+        "amount": 27600.0,
+        "bid_time": "2015-11-30T12:22:34.291629+02:00",
+        "bidder": "509d33a4d9f4485c9ffd21aac8f2215c",
+        "time": "2015-11-30T10:24:07.008776+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c55a5f08c8e14ac18b68e0d9d4f3e9a0",
+        "time": "2015-11-30T10:14:07.008716+00:00"
+      },
+      "turn_1": {
+        "bidder": "509d33a4d9f4485c9ffd21aac8f2215c",
+        "time": "2015-11-30T10:12:07.007933+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c55a5f08c8e14ac18b68e0d9d4f3e9a0",
+          "amount": 28000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380672426549, +380443920399",
+                "name": "Дмитрий Пономаренко",
+                "email": "pds@vodavdom.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ТД Жива Вода\"",
+                "id": "35912388",
+                "uri": "http://vodavdom.ua"
+              },
+              "name": "ТОВ \"ТД Жива Вода\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02100",
+                "region": "Киевская",
+                "streetAddress": "Строителей, 12",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T17:29:28.471518+02:00"
+        },
+        {
+          "bidder": "509d33a4d9f4485c9ffd21aac8f2215c",
+          "amount": 27600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-351-16-67",
+                "name": "Герасимова Олена Миколаївна",
+                "email": "e.n.gerasimova@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39350578",
+                "legalName": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Машинобудівна, 50А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T12:22:34.291629+02:00"
+        }
+      ],
+      "time": "2015-11-30T10:26:08.269676+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-27T11:39:31.846251+02:00",
+          "amount": 31200.0,
+          "bidder": "509d33a4d9f4485c9ffd21aac8f2215c"
+        },
+        {
+          "date": "2015-11-26T17:29:28.471518+02:00",
+          "amount": 28000.0,
+          "bidder": "c55a5f08c8e14ac18b68e0d9d4f3e9a0"
+        }
+      ],
+      "time": "2015-11-30T10:05:07.004095+00:00"
+    }
+  },
+  "id": "10ae9cf37f50482d9563bdeed8e75026",
+  "tenderId": "UA-2015-11-25-000179-a"
+}

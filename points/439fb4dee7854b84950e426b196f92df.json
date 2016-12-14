@@ -1,0 +1,162 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 12600.0,
+        "bid_time": "2015-08-31T11:16:42.848102+03:00",
+        "bidder": "3d142c8cb5314184b5f59916dbb39be0",
+        "time": "2015-08-31T08:17:00.045073+00:00"
+      },
+      "turn_3": {
+        "bidder": "c0cbcc1eb00940ea8bda6e5064861410",
+        "time": "2015-08-31T08:19:00.031115+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ebe1510e38840fd9f0e0ec3644a3ebd",
+        "time": "2015-08-31T08:15:00.031160+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "c0cbcc1eb00940ea8bda6e5064861410",
+        "time": "2015-08-31T08:25:00.073255+00:00"
+      },
+      "turn_3": {
+        "bidder": "3d142c8cb5314184b5f59916dbb39be0",
+        "time": "2015-08-31T08:27:00.084746+00:00"
+      },
+      "turn_1": {
+        "bidder": "2ebe1510e38840fd9f0e0ec3644a3ebd",
+        "time": "2015-08-31T08:23:00.120179+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "2ebe1510e38840fd9f0e0ec3644a3ebd",
+        "time": "2015-08-31T08:09:00.089800+00:00"
+      },
+      "turn_3": {
+        "amount": 12702.0,
+        "bid_time": "2015-08-31T11:10:56.466990+03:00",
+        "bidder": "c0cbcc1eb00940ea8bda6e5064861410",
+        "time": "2015-08-31T08:11:00.056031+00:00"
+      },
+      "turn_1": {
+        "amount": 13052.0,
+        "bid_time": "2015-08-31T11:05:24.583518+03:00",
+        "bidder": "3d142c8cb5314184b5f59916dbb39be0",
+        "time": "2015-08-31T08:07:00.089229+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2ebe1510e38840fd9f0e0ec3644a3ebd",
+          "amount": 13680.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380472555320, +380963332274, +380674705834",
+                "name": "Алексей Хотянович",
+                "email": "signal2009@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2640202176",
+                "legalName": "ФОП \"Назаренко А. Л.\""
+              },
+              "name": "ФОП \"Назаренко А. Л.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "18010",
+                "region": "Черкасская",
+                "streetAddress": "ул. Гайдара, 5, кв. 21",
+                "locality": "Черкассы"
+              }
+            }
+          ],
+          "time": "2015-08-26T09:19:20.453144+03:00"
+        },
+        {
+          "bidder": "c0cbcc1eb00940ea8bda6e5064861410",
+          "amount": 12702.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380954070302, +380444941908",
+                "name": "Серей Зинченко",
+                "email": "sergei_z@inbox.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Агентство защиты информации-центр\"",
+                "id": "33750192",
+                "uri": "http://asi.com.ua"
+              },
+              "name": "ТОВ \"Агентство защиты информации-центр\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "01054",
+                "region": "Киевская",
+                "streetAddress": "ул.О.Гончара, 37-А, оф.10",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-08-31T11:10:56.466990+03:00"
+        },
+        {
+          "bidder": "3d142c8cb5314184b5f59916dbb39be0",
+          "amount": 12600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.firma-orion.com",
+                "telephone": "+380674070131",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ГК ОРІОН»",
+                "email": "rsk@firma-orion.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "23718326",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ГК ОРІОН»"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ «ГК ОРІОН»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Новомостицька, буд. 2-А, кв. 39",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-08-31T11:16:42.848102+03:00"
+        }
+      ],
+      "time": "2015-08-31T08:27:06.511632+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-27T15:20:59.854208+03:00",
+          "amount": 13902.0,
+          "bidder": "3d142c8cb5314184b5f59916dbb39be0"
+        },
+        {
+          "date": "2015-08-26T09:19:20.453144+03:00",
+          "amount": 13680.0,
+          "bidder": "2ebe1510e38840fd9f0e0ec3644a3ebd"
+        },
+        {
+          "date": "2015-08-28T14:28:54.276280+03:00",
+          "amount": 13320.0,
+          "bidder": "c0cbcc1eb00940ea8bda6e5064861410"
+        }
+      ],
+      "time": "2015-08-31T08:00:00.050158+00:00"
+    }
+  },
+  "id": "439fb4dee7854b84950e426b196f92df",
+  "tenderId": "UA-2015-08-19-000035"
+}

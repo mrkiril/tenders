@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "715ac3cc454240e88ecdfaf4c08cc042",
+        "time": "2015-10-08T11:19:05.008128+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1172ffc724f49f99864d110e595c9cb",
+        "time": "2015-10-08T11:17:05.009019+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "715ac3cc454240e88ecdfaf4c08cc042",
+        "time": "2015-10-08T11:25:05.012314+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1172ffc724f49f99864d110e595c9cb",
+        "time": "2015-10-08T11:23:05.007025+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "715ac3cc454240e88ecdfaf4c08cc042",
+        "time": "2015-10-08T11:13:05.012900+00:00"
+      },
+      "turn_1": {
+        "bidder": "f1172ffc724f49f99864d110e595c9cb",
+        "time": "2015-10-08T11:11:05.010783+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f1172ffc724f49f99864d110e595c9cb",
+          "amount": 570.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.stockparts.in.ua",
+                "telephone": "+380503206741",
+                "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+                "email": "Sin-67@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39747337",
+                "legalName": "Товариство з обмеженою відповідальністю Інтерагрос"
+              },
+              "name": "Товариство з обмеженою відповідальністю Інтерагрос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м.Дніпропетровск пров.Фестивальній 3/156",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-05T20:55:40.629313+03:00"
+        },
+        {
+          "bidder": "715ac3cc454240e88ecdfaf4c08cc042",
+          "amount": 550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://avtoline.dp.ua/",
+                "faxNumber": "+380567929096",
+                "telephone": "+380677142798",
+                "name": "Плєшаков Богдан Олександрович",
+                "email": "avtomarket@avtoline.dp.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36641388"
+              },
+              "name": "ТОВ ДНІПРОАВТОЗАПЧАСТИНИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49094",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Набережна Перемоги, 98/195",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-10-06T14:48:42.265949+03:00"
+        }
+      ],
+      "time": "2015-10-08T11:25:07.940927+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-05T20:55:40.629313+03:00",
+          "amount": 570.0,
+          "bidder": "f1172ffc724f49f99864d110e595c9cb"
+        },
+        {
+          "date": "2015-10-06T14:48:42.265949+03:00",
+          "amount": 550.0,
+          "bidder": "715ac3cc454240e88ecdfaf4c08cc042"
+        }
+      ],
+      "time": "2015-10-08T11:04:05.003229+00:00"
+    }
+  },
+  "id": "94731a225ecc4de789435162414d20cc",
+  "tenderId": "UA-2015-09-25-000214"
+}

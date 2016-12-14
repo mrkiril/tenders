@@ -1,0 +1,120 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 15091.0,
+        "bid_time": "2015-09-04T11:13:52.402348+03:00",
+        "bidder": "85b4a30bfb1f42ed8462d3421ce2cc2f",
+        "time": "2015-09-04T08:15:00.045265+00:00"
+      },
+      "turn_1": {
+        "amount": 15367.0,
+        "bid_time": "2015-09-04T11:11:57.394476+03:00",
+        "bidder": "2c00f1be8dfa4943beeeec0ec73f3cac",
+        "time": "2015-09-04T08:13:00.059352+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 14580.0,
+        "bid_time": "2015-09-04T11:19:52.836704+03:00",
+        "bidder": "85b4a30bfb1f42ed8462d3421ce2cc2f",
+        "time": "2015-09-04T08:21:00.090134+00:00"
+      },
+      "turn_1": {
+        "amount": 14867.0,
+        "bid_time": "2015-09-04T11:17:14.576110+03:00",
+        "bidder": "2c00f1be8dfa4943beeeec0ec73f3cac",
+        "time": "2015-09-04T08:19:00.027977+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "85b4a30bfb1f42ed8462d3421ce2cc2f",
+        "time": "2015-09-04T08:09:00.065372+00:00"
+      },
+      "turn_1": {
+        "bidder": "2c00f1be8dfa4943beeeec0ec73f3cac",
+        "time": "2015-09-04T08:07:00.042267+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2c00f1be8dfa4943beeeec0ec73f3cac",
+          "amount": 14867.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445007988, +380673002626, +380445007988",
+                "name": "Юрий Штонда",
+                "email": "detex@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"ООО \"ДЕТЕКС\"\"",
+                "id": "36272728",
+                "uri": "http://detex.kiev.ua"
+              },
+              "name": "ТОВ \"ООО \"ДЕТЕКС\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "02088",
+                "region": "Киевская",
+                "streetAddress": "02088, г. Киев, ул. Промышленная, 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-09-04T11:17:14.576110+03:00"
+        },
+        {
+          "bidder": "85b4a30bfb1f42ed8462d3421ce2cc2f",
+          "amount": 14580.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.altsest.com",
+                "telephone": "+380322445190",
+                "name": "Товариство з обмеженою відповідальністю \"Альцест-Львів\"",
+                "email": "volodymyr_sydor@lviv.altsest.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30583656",
+                "legalName": "Товариство з обмеженою відповідальністю \"Альцест-Львів\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Альцест-Львів\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "79020,Львівська обл.,м.Львів,проспект В.Чорновола,95",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-04T11:19:52.836704+03:00"
+        }
+      ],
+      "time": "2015-09-04T08:21:10.009514+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-26T14:57:41.743237+03:00",
+          "amount": 16524.0,
+          "bidder": "2c00f1be8dfa4943beeeec0ec73f3cac"
+        },
+        {
+          "date": "2015-09-03T12:18:32.503432+03:00",
+          "amount": 15591.0,
+          "bidder": "85b4a30bfb1f42ed8462d3421ce2cc2f"
+        }
+      ],
+      "time": "2015-09-04T08:00:00.056735+00:00"
+    }
+  },
+  "id": "45102ea9ef1842f7a7b695a8cbad4996",
+  "tenderId": "UA-2015-08-20-000016"
+}

@@ -1,0 +1,305 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_6": {
+        "amount": 10599.0,
+        "bid_time": "2015-09-24T14:59:45.667091+03:00",
+        "bidder": "e0deb7ca80ce4a888068e0c2fa7d76e2",
+        "time": "2015-09-24T12:01:00.015440+00:00"
+      },
+      "turn_4": {
+        "bidder": "cacdfa43ae0f4b479a0286f46dd504c5",
+        "time": "2015-09-24T11:57:00.014342+00:00"
+      },
+      "turn_5": {
+        "amount": 10600.0,
+        "bid_time": "2015-09-24T14:58:49.522611+03:00",
+        "bidder": "0dbf849dbd9e409a8883e818329d4dc4",
+        "time": "2015-09-24T11:59:00.014832+00:00"
+      },
+      "turn_2": {
+        "bidder": "291661172efb4df1941e4eb48eae065e",
+        "time": "2015-09-24T11:53:00.010248+00:00"
+      },
+      "turn_3": {
+        "bidder": "dc6a007f4645495798a192d363dd653c",
+        "time": "2015-09-24T11:55:00.014252+00:00"
+      },
+      "turn_1": {
+        "bidder": "b301c002af9a48fe897d85d386f5b0b7",
+        "time": "2015-09-24T11:51:00.012164+00:00"
+      }
+    },
+    "round_3": {
+      "turn_6": {
+        "bidder": "e0deb7ca80ce4a888068e0c2fa7d76e2",
+        "time": "2015-09-24T12:15:00.033972+00:00"
+      },
+      "turn_4": {
+        "bidder": "cacdfa43ae0f4b479a0286f46dd504c5",
+        "time": "2015-09-24T12:11:00.033942+00:00"
+      },
+      "turn_5": {
+        "amount": 10150.0,
+        "bid_time": "2015-09-24T15:12:09.951954+03:00",
+        "bidder": "0dbf849dbd9e409a8883e818329d4dc4",
+        "time": "2015-09-24T12:13:00.017908+00:00"
+      },
+      "turn_2": {
+        "bidder": "291661172efb4df1941e4eb48eae065e",
+        "time": "2015-09-24T12:07:00.017692+00:00"
+      },
+      "turn_3": {
+        "amount": 10332.0,
+        "bid_time": "2015-09-24T15:07:17.873888+03:00",
+        "bidder": "dc6a007f4645495798a192d363dd653c",
+        "time": "2015-09-24T12:09:00.021197+00:00"
+      },
+      "turn_1": {
+        "bidder": "b301c002af9a48fe897d85d386f5b0b7",
+        "time": "2015-09-24T12:05:00.018458+00:00"
+      }
+    },
+    "round_1": {
+      "turn_6": {
+        "amount": 10695.0,
+        "bid_time": "2015-09-24T14:45:23.219150+03:00",
+        "bidder": "e0deb7ca80ce4a888068e0c2fa7d76e2",
+        "time": "2015-09-24T11:47:00.032975+00:00"
+      },
+      "turn_4": {
+        "amount": 10700.0,
+        "bid_time": "2015-09-24T14:41:14.132982+03:00",
+        "bidder": "0dbf849dbd9e409a8883e818329d4dc4",
+        "time": "2015-09-24T11:43:00.020239+00:00"
+      },
+      "turn_5": {
+        "bidder": "cacdfa43ae0f4b479a0286f46dd504c5",
+        "time": "2015-09-24T11:45:00.064691+00:00"
+      },
+      "turn_2": {
+        "amount": 10950.0,
+        "bid_time": "2015-09-24T14:37:16.456039+03:00",
+        "bidder": "dc6a007f4645495798a192d363dd653c",
+        "time": "2015-09-24T11:39:00.050746+00:00"
+      },
+      "turn_3": {
+        "bidder": "291661172efb4df1941e4eb48eae065e",
+        "time": "2015-09-24T11:41:00.056486+00:00"
+      },
+      "turn_1": {
+        "bidder": "b301c002af9a48fe897d85d386f5b0b7",
+        "time": "2015-09-24T11:37:00.021308+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b301c002af9a48fe897d85d386f5b0b7",
+          "amount": 11700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442062606",
+                "name": "Гіпермаркет Епіцентр №6",
+                "email": "anika.sun@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "324902444",
+                "legalName": "Гіпермаркет Епіцентр №6"
+              },
+              "name": "Гіпермаркет Епіцентр №6",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "Берковецька 6в",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-21T10:04:40.380912+03:00"
+        },
+        {
+          "bidder": "291661172efb4df1941e4eb48eae065e",
+          "amount": 11000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445864793",
+                "name": "ТОВ \"Епіцентр К\"",
+                "email": "beznal1@bv.epicentrk.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32490244",
+                "legalName": "ТОВ \"Епіцентр К\""
+              },
+              "name": "ТОВ \"Епіцентр К\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "м. Київ, вул. Братиславська 11",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-21T12:47:04.342683+03:00"
+        },
+        {
+          "bidder": "cacdfa43ae0f4b479a0286f46dd504c5",
+          "amount": 10795.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://buddvir.com/",
+                "faxNumber": "+380459446965",
+                "telephone": "+380667107327",
+                "name": "Бичков Александр Олександрович",
+                "email": "Sansanych@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32773973"
+              },
+              "name": "ТОВ Будівельний двір",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03148",
+                "region": "Київська область",
+                "streetAddress": "вул. Якуба Коласа 2 кв.24",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-09-17T15:16:15.513139+03:00"
+        },
+        {
+          "bidder": "e0deb7ca80ce4a888068e0c2fa7d76e2",
+          "amount": 10599.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-09-24T14:59:45.667091+03:00"
+        },
+        {
+          "bidder": "dc6a007f4645495798a192d363dd653c",
+          "amount": 10332.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dekor-bud.com",
+                "faxNumber": "044-495-50-54",
+                "telephone": "044-495-50-53",
+                "name": "Хмєловський Денис Валерійович",
+                "email": "khmelovsky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33146392",
+                "legalName": "ТОВ \"Декор-Буд ПБ\""
+              },
+              "name": "ТОВ \"Декор-Буд ПБ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01013",
+                "region": "Київська",
+                "streetAddress": "вул. Промислова,1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-24T15:07:17.873888+03:00"
+        },
+        {
+          "bidder": "0dbf849dbd9e409a8883e818329d4dc4",
+          "amount": 10150.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33872747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-09-24T15:12:09.951954+03:00"
+        }
+      ],
+      "time": "2015-09-24T12:15:03.119001+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-21T10:04:40.380912+03:00",
+          "amount": 11700.0,
+          "bidder": "b301c002af9a48fe897d85d386f5b0b7"
+        },
+        {
+          "date": "2015-09-17T09:29:36.032572+03:00",
+          "amount": 11250.0,
+          "bidder": "dc6a007f4645495798a192d363dd653c"
+        },
+        {
+          "date": "2015-09-21T12:47:04.342683+03:00",
+          "amount": 11000.0,
+          "bidder": "291661172efb4df1941e4eb48eae065e"
+        },
+        {
+          "date": "2015-09-21T12:40:44.053584+03:00",
+          "amount": 10884.0,
+          "bidder": "0dbf849dbd9e409a8883e818329d4dc4"
+        },
+        {
+          "date": "2015-09-17T15:16:15.513139+03:00",
+          "amount": 10795.0,
+          "bidder": "cacdfa43ae0f4b479a0286f46dd504c5"
+        },
+        {
+          "date": "2015-09-19T12:30:47.284386+03:00",
+          "amount": 10788.0,
+          "bidder": "e0deb7ca80ce4a888068e0c2fa7d76e2"
+        }
+      ],
+      "time": "2015-09-24T11:30:00.004940+00:00"
+    }
+  },
+  "id": "15845b394739422fb5c94696bdfbc584",
+  "tenderId": "UA-2015-09-15-000069"
+}

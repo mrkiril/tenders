@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 37100.0,
+        "bid_time": "2015-12-03T15:16:19.285273+02:00",
+        "bidder": "7659c49d22ed404d9fbca60b5cf515a8",
+        "time": "2015-12-03T13:17:17.011941+00:00"
+      },
+      "turn_1": {
+        "amount": 37200.0,
+        "bid_time": "2015-12-03T15:13:47.360134+02:00",
+        "bidder": "c1ad3440dbbe4a9791e69ab4d99f8d09",
+        "time": "2015-12-03T13:15:17.010921+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "7659c49d22ed404d9fbca60b5cf515a8",
+        "time": "2015-12-03T13:23:17.028183+00:00"
+      },
+      "turn_1": {
+        "bidder": "c1ad3440dbbe4a9791e69ab4d99f8d09",
+        "time": "2015-12-03T13:21:17.008734+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "c1ad3440dbbe4a9791e69ab4d99f8d09",
+        "time": "2015-12-03T13:11:17.010287+00:00"
+      },
+      "turn_1": {
+        "amount": 38100.0,
+        "bid_time": "2015-12-03T15:07:25.934498+02:00",
+        "bidder": "7659c49d22ed404d9fbca60b5cf515a8",
+        "time": "2015-12-03T13:09:17.010966+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c1ad3440dbbe4a9791e69ab4d99f8d09",
+          "amount": 37200.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380563711313",
+                "telephone": "+380563711313",
+                "name": "Лєбєдєва Вікторія Петрівна",
+                "email": "amarket13@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39933024"
+              },
+              "name": "ТОВ Альфамаркет",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49006",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Свердлова, 89",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:13:47.360134+02:00"
+        },
+        {
+          "bidder": "7659c49d22ed404d9fbca60b5cf515a8",
+          "amount": 37100.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://psf.ua/",
+                "telephone": "+380612207528",
+                "name": "ООО Торговый Дом ММК",
+                "email": "vernidub.evgeniy@psf.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36842720",
+                "legalName": "ООО Торговый Дом ММК"
+              },
+              "name": "ООО Торговый Дом ММК",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ЗАПОРОЖСКАЯ ОБЛ.",
+                "streetAddress": "69039 г. Запорожье ул. Украинская 143 А",
+                "locality": "ЗАПОРОЖЬЕ"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:16:19.285273+02:00"
+        }
+      ],
+      "time": "2015-12-03T13:23:18.263615+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T15:27:42.884471+02:00",
+          "amount": 42745.0,
+          "bidder": "7659c49d22ed404d9fbca60b5cf515a8"
+        },
+        {
+          "date": "2015-11-27T12:36:43.135401+02:00",
+          "amount": 38200.0,
+          "bidder": "c1ad3440dbbe4a9791e69ab4d99f8d09"
+        }
+      ],
+      "time": "2015-12-03T13:02:17.004356+00:00"
+    }
+  },
+  "id": "950c52b6e7d74509b567410da8f1588f",
+  "tenderId": "UA-2015-11-19-000138-a"
+}

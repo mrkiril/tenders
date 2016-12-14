@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "4dc20f192b994a0baaa5316d963af110",
+        "time": "2015-09-14T08:45:00.123877+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0cead71af414ee3ba28fddc2089588f",
+        "time": "2015-09-14T08:43:00.138100+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "4dc20f192b994a0baaa5316d963af110",
+        "time": "2015-09-14T08:51:00.154936+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0cead71af414ee3ba28fddc2089588f",
+        "time": "2015-09-14T08:49:00.111749+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "4dc20f192b994a0baaa5316d963af110",
+        "time": "2015-09-14T08:39:00.073952+00:00"
+      },
+      "turn_1": {
+        "bidder": "c0cead71af414ee3ba28fddc2089588f",
+        "time": "2015-09-14T08:37:00.148334+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "c0cead71af414ee3ba28fddc2089588f",
+          "amount": 20356.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.teplota.com.ua",
+                "telephone": "+380630300600",
+                "name": "Шеремет Евгений Степанович",
+                "email": "esheremet@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2820103775"
+              },
+              "name": "ФОП Шеремет Е.С.",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61080",
+                "region": "Харківська область",
+                "streetAddress": "провулок Диспетчерський, 8",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-09T09:59:07.727878+03:00"
+        },
+        {
+          "bidder": "4dc20f192b994a0baaa5316d963af110",
+          "amount": 20094.48,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380487773478",
+                "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+                "email": "greenenergy@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38226186",
+                "legalName": "Товариство з обмеженою відповідальністю \"Грін Пауер\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Грін Пауер\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "ОДЕССКАЯ ОБЛ.",
+                "streetAddress": "65039, м. Одеса, вул. Артилерійська, буд. №11",
+                "locality": "Одесса"
+              }
+            }
+          ],
+          "time": "2015-09-11T13:05:06.566802+03:00"
+        }
+      ],
+      "time": "2015-09-14T08:51:11.665933+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-09T09:59:07.727878+03:00",
+          "amount": 20356.0,
+          "bidder": "c0cead71af414ee3ba28fddc2089588f"
+        },
+        {
+          "date": "2015-09-11T13:05:06.566802+03:00",
+          "amount": 20094.48,
+          "bidder": "4dc20f192b994a0baaa5316d963af110"
+        }
+      ],
+      "time": "2015-09-14T08:30:00.017941+00:00"
+    }
+  },
+  "id": "8d93047c41eb4204a03871df956c7bc5",
+  "tenderId": "UA-2015-09-04-000084"
+}

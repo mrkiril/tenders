@@ -1,0 +1,157 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "30768e885ff14241b300b25de1c7fc60",
+        "time": "2015-12-10T09:30:28.008970+00:00"
+      },
+      "turn_3": {
+        "bidder": "650f0ae797b84f0e999b8f32fbe3a309",
+        "time": "2015-12-10T09:32:28.007411+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b22c8d68b5843fa9560fb598cba0bf6",
+        "time": "2015-12-10T09:28:28.007943+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "30768e885ff14241b300b25de1c7fc60",
+        "time": "2015-12-10T09:38:28.007114+00:00"
+      },
+      "turn_3": {
+        "bidder": "650f0ae797b84f0e999b8f32fbe3a309",
+        "time": "2015-12-10T09:40:28.010119+00:00"
+      },
+      "turn_1": {
+        "amount": 13500.0,
+        "bid_time": "2015-12-10T11:35:35.139408+02:00",
+        "bidder": "0b22c8d68b5843fa9560fb598cba0bf6",
+        "time": "2015-12-10T09:36:28.042779+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "30768e885ff14241b300b25de1c7fc60",
+        "time": "2015-12-10T09:22:28.008122+00:00"
+      },
+      "turn_3": {
+        "bidder": "650f0ae797b84f0e999b8f32fbe3a309",
+        "time": "2015-12-10T09:24:28.008045+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b22c8d68b5843fa9560fb598cba0bf6",
+        "time": "2015-12-10T09:20:28.009541+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "30768e885ff14241b300b25de1c7fc60",
+          "amount": 14488.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656, +380968543380",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-09T10:03:37.065632+02:00"
+        },
+        {
+          "bidder": "0b22c8d68b5843fa9560fb598cba0bf6",
+          "amount": 13500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380975643556, +380506438267",
+                "name": "Максим Міщенко",
+                "email": "max@kompa.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ФОП \"Міщенко О. А.\"",
+                "id": "2978900762",
+                "uri": "http://kompa.com.ua"
+              },
+              "name": "ФОП \"Міщенко О. А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49000",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-10T11:35:35.139408+02:00"
+        },
+        {
+          "bidder": "650f0ae797b84f0e999b8f32fbe3a309",
+          "amount": 11404.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380502289344",
+                "name": "Алла Дубова",
+                "email": "dubovaalla@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2646712104",
+                "legalName": "ФОП \"Дубова Алла Володимирівна\""
+              },
+              "name": "ФОП \"Дубова Алла Володимирівна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "84200",
+                "region": "Донецкая",
+                "streetAddress": "вул. Енгельса, 98/49",
+                "locality": "Дружківка"
+              }
+            }
+          ],
+          "time": "2015-12-07T16:27:28.586147+02:00"
+        }
+      ],
+      "time": "2015-12-10T09:40:30.632124+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T09:26:58.707679+02:00",
+          "amount": 14999.0,
+          "bidder": "0b22c8d68b5843fa9560fb598cba0bf6"
+        },
+        {
+          "date": "2015-12-09T10:03:37.065632+02:00",
+          "amount": 14488.0,
+          "bidder": "30768e885ff14241b300b25de1c7fc60"
+        },
+        {
+          "date": "2015-12-07T16:27:28.586147+02:00",
+          "amount": 11404.0,
+          "bidder": "650f0ae797b84f0e999b8f32fbe3a309"
+        }
+      ],
+      "time": "2015-12-10T09:13:28.003792+00:00"
+    }
+  },
+  "id": "6c3fdcabe2144446aa237490aed00cda",
+  "tenderId": "UA-2015-12-01-000037"
+}

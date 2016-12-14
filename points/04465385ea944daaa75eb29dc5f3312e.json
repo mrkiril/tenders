@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 11999.0,
+        "bid_time": "2015-06-17T11:15:14.021374+03:00",
+        "bidder": "00f348d3f65145e8a19733acd2f29a9a",
+        "time": "2015-06-17T08:17:00.185366+00:00"
+      },
+      "turn_3": {
+        "amount": 11980.0,
+        "bid_time": "2015-06-17T11:18:50.377928+03:00",
+        "bidder": "d66df4ca7dec493ca10db3d9d6638e9b",
+        "time": "2015-06-17T08:19:00.147955+00:00"
+      },
+      "turn_1": {
+        "bidder": "af46fa7d4fd045bfa3848775f241a8e2",
+        "time": "2015-06-17T08:15:00.363992+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 7890.0,
+        "bid_time": "2015-06-17T11:23:45.574023+03:00",
+        "bidder": "00f348d3f65145e8a19733acd2f29a9a",
+        "time": "2015-06-17T08:25:00.062531+00:00"
+      },
+      "turn_3": {
+        "bidder": "d66df4ca7dec493ca10db3d9d6638e9b",
+        "time": "2015-06-17T08:27:00.071586+00:00"
+      },
+      "turn_1": {
+        "bidder": "af46fa7d4fd045bfa3848775f241a8e2",
+        "time": "2015-06-17T08:23:00.099409+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 13560.0,
+        "bid_time": "2015-06-17T11:07:46.221456+03:00",
+        "bidder": "d66df4ca7dec493ca10db3d9d6638e9b",
+        "time": "2015-06-17T08:09:00.255301+00:00"
+      },
+      "turn_3": {
+        "bidder": "00f348d3f65145e8a19733acd2f29a9a",
+        "time": "2015-06-17T08:11:00.073217+00:00"
+      },
+      "turn_1": {
+        "bidder": "af46fa7d4fd045bfa3848775f241a8e2",
+        "time": "2015-06-17T08:07:00.291175+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "af46fa7d4fd045bfa3848775f241a8e2",
+          "amount": 16630.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://debut.ua/",
+                "faxNumber": "3900393",
+                "telephone": "0990725005",
+                "name": "ТОВ\"Дебют-Центр\"",
+                "email": "zhukovskayadebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842",
+                "legalName": "ТОВ\"Дебют-Центр\""
+              },
+              "name": "ТОВ\"Дебют-Центр\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська",
+                "streetAddress": "Чапаєва",
+                "locality": "Ірпінь"
+              }
+            }
+          ],
+          "time": "2015-06-12T14:04:56.900434+03:00"
+        },
+        {
+          "bidder": "d66df4ca7dec493ca10db3d9d6638e9b",
+          "amount": 11980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380474446353",
+                "name": "Світлана Вікторівна Біла",
+                "email": "standartbaza@m-tel.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Стандарт Будівельний\"",
+                "id": "33 872 747",
+                "uri": "http://www.standartbud.com/"
+              },
+              "name": "ТОВ \"Стандарт Будівельний\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "20300",
+                "region": "Черкасская",
+                "streetAddress": "Черкаська обл., м. Умань,  вул. Дерев’янка, 7А",
+                "locality": "Умань"
+              }
+            }
+          ],
+          "time": "2015-06-17T11:18:50.377928+03:00"
+        },
+        {
+          "bidder": "00f348d3f65145e8a19733acd2f29a9a",
+          "amount": 7890.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://lyvyni.com.ua",
+                "telephone": "+380442014924",
+                "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+                "email": "viktorlyt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37208632",
+                "legalName": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"ЛІВІНІ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "02232, м. Київ, проспект Маяковського, буд. 62а, кв. 195",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-06-17T11:23:45.574023+03:00"
+        }
+      ],
+      "time": "2015-06-17T08:27:03.860160+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-06-12T14:04:56.900434+03:00",
+          "amount": 16630.0,
+          "bidder": "af46fa7d4fd045bfa3848775f241a8e2"
+        },
+        {
+          "date": "2015-06-11T16:08:41.194010+03:00",
+          "amount": 14857.5,
+          "bidder": "d66df4ca7dec493ca10db3d9d6638e9b"
+        },
+        {
+          "date": "2015-06-16T11:58:00.242087+03:00",
+          "amount": 13612.0,
+          "bidder": "00f348d3f65145e8a19733acd2f29a9a"
+        }
+      ],
+      "time": "2015-06-17T08:00:00.026350+00:00"
+    }
+  },
+  "id": "04465385ea944daaa75eb29dc5f3312e",
+  "tenderId": "UA-2015-06-05-000051"
+}

@@ -1,0 +1,166 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 11200.0,
+        "bid_time": "2015-12-02T13:46:56.307227+02:00",
+        "bidder": "dcd5c97207344a8094a779801c621090",
+        "time": "2015-12-02T11:48:28.009628+00:00"
+      },
+      "turn_3": {
+        "amount": 11000.0,
+        "bid_time": "2015-12-02T13:48:48.946103+02:00",
+        "bidder": "cc869f7fe20c43fc84aea02c474e92b6",
+        "time": "2015-12-02T11:50:28.011171+00:00"
+      },
+      "turn_1": {
+        "bidder": "55b420befa5e4295a7b047982f42a92d",
+        "time": "2015-12-02T11:46:28.008194+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 10550.0,
+        "bid_time": "2015-12-02T13:54:39.970989+02:00",
+        "bidder": "dcd5c97207344a8094a779801c621090",
+        "time": "2015-12-02T11:56:28.009140+00:00"
+      },
+      "turn_3": {
+        "amount": 10500.0,
+        "bid_time": "2015-12-02T13:56:50.671575+02:00",
+        "bidder": "cc869f7fe20c43fc84aea02c474e92b6",
+        "time": "2015-12-02T11:58:28.022849+00:00"
+      },
+      "turn_1": {
+        "bidder": "55b420befa5e4295a7b047982f42a92d",
+        "time": "2015-12-02T11:54:28.008726+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "55b420befa5e4295a7b047982f42a92d",
+        "time": "2015-12-02T11:40:28.019852+00:00"
+      },
+      "turn_3": {
+        "amount": 11900.0,
+        "bid_time": "2015-12-02T13:41:38.260875+02:00",
+        "bidder": "cc869f7fe20c43fc84aea02c474e92b6",
+        "time": "2015-12-02T11:42:28.011279+00:00"
+      },
+      "turn_1": {
+        "amount": 12000.0,
+        "bid_time": "2015-12-02T13:36:33.788364+02:00",
+        "bidder": "dcd5c97207344a8094a779801c621090",
+        "time": "2015-12-02T11:38:28.010199+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "55b420befa5e4295a7b047982f42a92d",
+          "amount": 14000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380995018094",
+                "name": "Марианна",
+                "email": "piroreklama@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3045424035",
+                "legalName": "ФОП \"Пироженко О.О.\""
+              },
+              "name": "ФОП \"Пироженко О.О.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "49061",
+                "region": "Днепропетровская",
+                "streetAddress": "",
+                "locality": "Днепропетровск"
+              }
+            }
+          ],
+          "time": "2015-12-01T13:24:14.576936+02:00"
+        },
+        {
+          "bidder": "dcd5c97207344a8094a779801c621090",
+          "amount": 10550.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380442576939",
+                "telephone": "+380978971184",
+                "name": "Костенко Андрій Іванович",
+                "email": "dimgeraldyky@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39774313"
+              },
+              "name": "ТОВ ДІМ ГЕРАЛЬДИКИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03039",
+                "region": "Київська область",
+                "streetAddress": "пров. Червоноармійський, 14, корпус 5, оф.5",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T13:54:39.970989+02:00"
+        },
+        {
+          "bidder": "cc869f7fe20c43fc84aea02c474e92b6",
+          "amount": 10500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "0674046892",
+                "name": "Боров'як Леонід Георгійович",
+                "email": "leonidis4e@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39938310",
+                "legalName": "ТОВ \"ТОП-ПРИНТ\""
+              },
+              "name": "ТОВ \"ТОП-ПРИНТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04073",
+                "region": "Київська",
+                "streetAddress": "вул. Вербова, 4А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-02T13:56:50.671575+02:00"
+        }
+      ],
+      "time": "2015-12-02T11:58:29.258478+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T13:35:42.031109+02:00",
+          "amount": 14300.0,
+          "bidder": "dcd5c97207344a8094a779801c621090"
+        },
+        {
+          "date": "2015-12-01T13:24:14.576936+02:00",
+          "amount": 14000.0,
+          "bidder": "55b420befa5e4295a7b047982f42a92d"
+        },
+        {
+          "date": "2015-12-01T13:57:07.300951+02:00",
+          "amount": 12620.0,
+          "bidder": "cc869f7fe20c43fc84aea02c474e92b6"
+        }
+      ],
+      "time": "2015-12-02T11:31:28.004318+00:00"
+    }
+  },
+  "id": "22e27ca432084be6b0c9fc6ae5ee13e7",
+  "tenderId": "UA-2015-11-30-000008-b"
+}

@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 197800.0,
+        "bid_time": "2015-11-18T15:52:40.752230+02:00",
+        "bidder": "6a1b6ade7efe49389264ee0383134329",
+        "time": "2015-11-18T13:53:18.010416+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0f7426329b44e5f809f0bda6a20178f",
+        "time": "2015-11-18T13:51:18.009690+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6a1b6ade7efe49389264ee0383134329",
+        "time": "2015-11-18T13:59:18.024461+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0f7426329b44e5f809f0bda6a20178f",
+        "time": "2015-11-18T13:57:18.008599+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6a1b6ade7efe49389264ee0383134329",
+        "time": "2015-11-18T13:47:18.028209+00:00"
+      },
+      "turn_1": {
+        "bidder": "e0f7426329b44e5f809f0bda6a20178f",
+        "time": "2015-11-18T13:45:18.008934+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e0f7426329b44e5f809f0bda6a20178f",
+          "amount": 199980.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503304118",
+                "name": "Юрий",
+                "email": "godlis@i.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25383893",
+                "legalName": "ООО \"Вега-сервис 2000\""
+              },
+              "name": "ООО \"Вега-сервис 2000\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-17T13:32:59.719814+02:00"
+        },
+        {
+          "bidder": "6a1b6ade7efe49389264ee0383134329",
+          "amount": 197800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444635960",
+                "name": "Владимир Музыкант",
+                "email": "technika@gloria.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30675914",
+                "legalName": "ТОВ \"Компания Глория лтд\""
+              },
+              "name": "ТОВ \"Компания Глория лтд\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04080",
+                "region": "Киевская",
+                "streetAddress": "01133, м. Київ, вул. Щорса, 26",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-18T15:52:40.752230+02:00"
+        }
+      ],
+      "time": "2015-11-18T13:59:22.153132+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-17T13:32:59.719814+02:00",
+          "amount": 199980.0,
+          "bidder": "e0f7426329b44e5f809f0bda6a20178f"
+        },
+        {
+          "date": "2015-11-17T14:21:44.949845+02:00",
+          "amount": 199800.0,
+          "bidder": "6a1b6ade7efe49389264ee0383134329"
+        }
+      ],
+      "time": "2015-11-18T13:38:18.005511+00:00"
+    }
+  },
+  "id": "3fad4931f8b84a1a825af33e0725f72a",
+  "tenderId": "UA-2015-11-10-000124-a"
+}

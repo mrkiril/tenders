@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 7350.0,
+        "bid_time": "2015-12-01T12:44:36.835753+02:00",
+        "bidder": "fac15124564547309e3deb4ed45fe62b",
+        "time": "2015-12-01T10:45:24.008996+00:00"
+      },
+      "turn_1": {
+        "amount": 7595.0,
+        "bid_time": "2015-12-01T12:41:37.883528+02:00",
+        "bidder": "5ca8ca71ad534ae69df2e88a23a10c72",
+        "time": "2015-12-01T10:43:24.008426+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "fac15124564547309e3deb4ed45fe62b",
+        "time": "2015-12-01T10:51:24.006895+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ca8ca71ad534ae69df2e88a23a10c72",
+        "time": "2015-12-01T10:49:24.007053+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "fac15124564547309e3deb4ed45fe62b",
+        "time": "2015-12-01T10:39:24.016930+00:00"
+      },
+      "turn_1": {
+        "bidder": "5ca8ca71ad534ae69df2e88a23a10c72",
+        "time": "2015-12-01T10:37:24.010753+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "5ca8ca71ad534ae69df2e88a23a10c72",
+          "amount": 7595.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "044-351-16-67",
+                "name": "Герасимова Олена Миколаївна",
+                "email": "e.n.gerasimova@hotmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39350578",
+                "legalName": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Німекс Сервіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03067",
+                "region": "Київська",
+                "streetAddress": "вул. Машинобудівна, 50А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:41:37.883528+02:00"
+        },
+        {
+          "bidder": "fac15124564547309e3deb4ed45fe62b",
+          "amount": 7350.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380503511316",
+                "name": "Виталий Косинько",
+                "email": "korsak2005@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38104595",
+                "legalName": "ТОВ \"Мастерская воды\""
+              },
+              "name": "ТОВ \"Мастерская воды\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03113",
+                "region": "Киевская",
+                "streetAddress": "ул. Н. Василенка 2",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-01T12:44:36.835753+02:00"
+        }
+      ],
+      "time": "2015-12-01T10:51:25.101545+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T15:15:08.679386+02:00",
+          "amount": 8200.0,
+          "bidder": "5ca8ca71ad534ae69df2e88a23a10c72"
+        },
+        {
+          "date": "2015-11-26T09:02:58.958532+02:00",
+          "amount": 7600.0,
+          "bidder": "fac15124564547309e3deb4ed45fe62b"
+        }
+      ],
+      "time": "2015-12-01T10:30:24.003993+00:00"
+    }
+  },
+  "id": "0b464c8d13174d0b829a390b89841aa7",
+  "tenderId": "UA-2015-11-20-000112-b"
+}

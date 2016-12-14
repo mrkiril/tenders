@@ -1,0 +1,156 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dd387f2176984f10b42fbba8369479d8",
+        "time": "2015-09-10T08:17:00.102741+00:00"
+      },
+      "turn_3": {
+        "bidder": "4cda9f7963e641d595b0551ffe2439ee",
+        "time": "2015-09-10T08:19:00.160054+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a2876f967b74cfd9f8610c8bb3e48c6",
+        "time": "2015-09-10T08:15:00.137101+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dd387f2176984f10b42fbba8369479d8",
+        "time": "2015-09-10T08:25:00.068019+00:00"
+      },
+      "turn_3": {
+        "bidder": "4cda9f7963e641d595b0551ffe2439ee",
+        "time": "2015-09-10T08:27:00.072121+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a2876f967b74cfd9f8610c8bb3e48c6",
+        "time": "2015-09-10T08:23:00.047574+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dd387f2176984f10b42fbba8369479d8",
+        "time": "2015-09-10T08:09:00.096240+00:00"
+      },
+      "turn_3": {
+        "bidder": "4cda9f7963e641d595b0551ffe2439ee",
+        "time": "2015-09-10T08:11:00.090012+00:00"
+      },
+      "turn_1": {
+        "bidder": "2a2876f967b74cfd9f8610c8bb3e48c6",
+        "time": "2015-09-10T08:07:00.045105+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2a2876f967b74cfd9f8610c8bb3e48c6",
+          "amount": 20000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380445016410",
+                "name": "Предприятие \"Атена\" КГОИ",
+                "email": "0956510838@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32303610",
+                "legalName": "Предприятие \"Атена\" КГОИ"
+              },
+              "name": "Предприятие \"Атена\" КГОИ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03127 м.Київ пр-т 40-річчя Жовтня120 корп. 1",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T16:40:13.279739+03:00"
+        },
+        {
+          "bidder": "dd387f2176984f10b42fbba8369479d8",
+          "amount": 19800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ooorit.com",
+                "telephone": "+380679378294",
+                "name": "ТОВ РІТ",
+                "email": "rit22@meta.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "32242883",
+                "legalName": "ТОВ РІТ"
+              },
+              "name": "ТОВ РІТ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "69035 м. Запоріжжя вул. Лермонтова буд. 14 кв. 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-08T17:04:07.843571+03:00"
+        },
+        {
+          "bidder": "4cda9f7963e641d595b0551ffe2439ee",
+          "amount": 18500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://plasma.com.ua/",
+                "faxNumber": "+380672319603",
+                "telephone": "+380577813635",
+                "name": "Коляда Вікторія Олександрівна",
+                "email": "plasma_tender@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36226451"
+              },
+              "name": "ТОВ Компані Плазма",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61108",
+                "region": "Харківська область",
+                "streetAddress": "проспект Академіка Курчатова, б.12, кв.132",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-09-09T13:27:56.352998+03:00"
+        }
+      ],
+      "time": "2015-09-10T08:27:08.919640+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-08T16:40:13.279739+03:00",
+          "amount": 20000.0,
+          "bidder": "2a2876f967b74cfd9f8610c8bb3e48c6"
+        },
+        {
+          "date": "2015-09-08T17:04:07.843571+03:00",
+          "amount": 19800.0,
+          "bidder": "dd387f2176984f10b42fbba8369479d8"
+        },
+        {
+          "date": "2015-09-09T13:27:56.352998+03:00",
+          "amount": 18500.0,
+          "bidder": "4cda9f7963e641d595b0551ffe2439ee"
+        }
+      ],
+      "time": "2015-09-10T08:00:00.047563+00:00"
+    }
+  },
+  "id": "94862c2264fd4623a171a4d927ef29f8",
+  "tenderId": "UA-2015-09-04-000170"
+}

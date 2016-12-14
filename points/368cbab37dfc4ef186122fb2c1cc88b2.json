@@ -1,0 +1,112 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "ca771393976043d184a33f9d1280718b",
+        "time": "2015-12-10T09:17:55.010033+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b51309914db47e6b4fdabe8dcde8ea1",
+        "time": "2015-12-10T09:15:55.010121+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "ca771393976043d184a33f9d1280718b",
+        "time": "2015-12-10T09:23:55.010375+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b51309914db47e6b4fdabe8dcde8ea1",
+        "time": "2015-12-10T09:21:55.009712+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "ca771393976043d184a33f9d1280718b",
+        "time": "2015-12-10T09:11:55.010866+00:00"
+      },
+      "turn_1": {
+        "bidder": "0b51309914db47e6b4fdabe8dcde8ea1",
+        "time": "2015-12-10T09:09:55.010683+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0b51309914db47e6b4fdabe8dcde8ea1",
+          "amount": 7738.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.e-tender.biz/",
+                "faxNumber": "0442331676",
+                "telephone": "0442331676",
+                "name": "Дмитрів Ігор Андрійович",
+                "email": "kokki2004@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36257034",
+                "legalName": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\""
+              },
+              "name": "Товариство з обмеженою відповідальністю \"Лізоформ Медікал\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01133",
+                "region": "Київська",
+                "streetAddress": "Щорса, 31, офіс 314",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-08T11:15:45.355692+02:00"
+        },
+        {
+          "bidder": "ca771393976043d184a33f9d1280718b",
+          "amount": 5462.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380508691679",
+                "name": "Євген Анатолійович Меркулов",
+                "email": "fop.merkulov@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2841817516",
+                "legalName": "ФОП \"Меркулов Є.А.\""
+              },
+              "name": "ФОП \"Меркулов Є.А.\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "04201",
+                "region": "Киевская",
+                "streetAddress": "м. Київ, вул. Майорова, буд. 7, кв. 470",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-09T09:51:57.997859+02:00"
+        }
+      ],
+      "time": "2015-12-10T09:23:56.135746+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-08T11:15:45.355692+02:00",
+          "amount": 7738.0,
+          "bidder": "0b51309914db47e6b4fdabe8dcde8ea1"
+        },
+        {
+          "date": "2015-12-09T09:51:57.997859+02:00",
+          "amount": 5462.0,
+          "bidder": "ca771393976043d184a33f9d1280718b"
+        }
+      ],
+      "time": "2015-12-10T09:02:55.002129+00:00"
+    }
+  },
+  "id": "368cbab37dfc4ef186122fb2c1cc88b2",
+  "tenderId": "UA-2015-12-04-000097"
+}

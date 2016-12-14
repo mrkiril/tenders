@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "a73516c8c14d4989ba208f8ccd8a7797",
+        "time": "2015-09-09T08:15:00.206330+00:00"
+      },
+      "turn_1": {
+        "bidder": "dfad016d67e84226a698f2d9c8154567",
+        "time": "2015-09-09T08:13:00.030239+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "a73516c8c14d4989ba208f8ccd8a7797",
+        "time": "2015-09-09T08:21:00.087350+00:00"
+      },
+      "turn_1": {
+        "bidder": "dfad016d67e84226a698f2d9c8154567",
+        "time": "2015-09-09T08:19:00.167027+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "a73516c8c14d4989ba208f8ccd8a7797",
+        "time": "2015-09-09T08:09:00.125271+00:00"
+      },
+      "turn_1": {
+        "bidder": "dfad016d67e84226a698f2d9c8154567",
+        "time": "2015-09-09T08:07:00.133924+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "dfad016d67e84226a698f2d9c8154567",
+          "amount": 999000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://tehelektroprom.kiev.ua/",
+                "telephone": "380444950088, 380503520735",
+                "name": "Николай Егорцов ",
+                "email": "info@tehelektroprom.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37469717",
+                "legalName": ""
+              },
+              "name": "ТОВ\"ТЕХЕЛЕКТРОПРОМ\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Кировоградская область",
+                "streetAddress": "Украина, 02081 г.Киев, ул. Здолбуновская, 7-Д"
+              }
+            }
+          ],
+          "time": "2015-09-07T09:08:01.073177+03:00"
+        },
+        {
+          "bidder": "a73516c8c14d4989ba208f8ccd8a7797",
+          "amount": 726000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.evocom.ua",
+                "telephone": "+380445201913",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА",
+                "email": "info@evocom.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38606994",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА"
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЕВОКОМ.ЮА",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03110, м. Київ, вул. СОЛОМ'ЯНСЬКА, буд. 3-Б оф. 104",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-09-04T16:07:43.278688+03:00"
+        }
+      ],
+      "time": "2015-09-09T08:21:07.852931+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-09-07T09:08:01.073177+03:00",
+          "amount": 999000.0,
+          "bidder": "dfad016d67e84226a698f2d9c8154567"
+        },
+        {
+          "date": "2015-09-04T16:07:43.278688+03:00",
+          "amount": 726000.0,
+          "bidder": "a73516c8c14d4989ba208f8ccd8a7797"
+        }
+      ],
+      "time": "2015-09-09T08:00:00.045862+00:00"
+    }
+  },
+  "id": "29e865de83334bc5930a5dadc5908dae",
+  "tenderId": "UA-2015-09-02-000132"
+}

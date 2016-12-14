@@ -1,0 +1,117 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "9d5e147699bd4992909afb4db5d70aad",
+        "time": "2015-12-04T12:53:48.008057+00:00"
+      },
+      "turn_1": {
+        "bidder": "f3c61523b2934651845fe14ac4769930",
+        "time": "2015-12-04T12:51:48.007909+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 873.6,
+        "bid_time": "2015-12-04T14:58:43.552694+02:00",
+        "bidder": "9d5e147699bd4992909afb4db5d70aad",
+        "time": "2015-12-04T12:59:48.008897+00:00"
+      },
+      "turn_1": {
+        "amount": 898.0,
+        "bid_time": "2015-12-04T14:55:56.106155+02:00",
+        "bidder": "f3c61523b2934651845fe14ac4769930",
+        "time": "2015-12-04T12:57:48.007912+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "9d5e147699bd4992909afb4db5d70aad",
+        "time": "2015-12-04T12:47:48.008369+00:00"
+      },
+      "turn_1": {
+        "bidder": "f3c61523b2934651845fe14ac4769930",
+        "time": "2015-12-04T12:45:48.008436+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "f3c61523b2934651845fe14ac4769930",
+          "amount": 898.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.imidgbud.com/",
+                "faxNumber": "0444677845",
+                "telephone": "0674084869",
+                "name": "Паламарчук Надія Леонідівна",
+                "email": "imidg.oficce@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "33153538",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІМІДЖ КОМПЛЕКТ\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04080",
+                "region": "Київська",
+                "streetAddress": "вул. Кирилівська, буд. 40/42",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:55:56.106155+02:00"
+        },
+        {
+          "bidder": "9d5e147699bd4992909afb4db5d70aad",
+          "amount": 873.6,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-04T14:58:43.552694+02:00"
+        }
+      ],
+      "time": "2015-12-04T12:59:50.100500+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-01T16:39:01.550405+02:00",
+          "amount": 925.0,
+          "bidder": "f3c61523b2934651845fe14ac4769930"
+        },
+        {
+          "date": "2015-12-03T17:30:28.394321+02:00",
+          "amount": 900.6,
+          "bidder": "9d5e147699bd4992909afb4db5d70aad"
+        }
+      ],
+      "time": "2015-12-04T12:38:48.004089+00:00"
+    }
+  },
+  "id": "21110cee2d924291bc90263c0b3dcd1a",
+  "tenderId": "UA-2015-11-30-000013-b"
+}

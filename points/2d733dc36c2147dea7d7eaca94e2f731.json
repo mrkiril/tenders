@@ -1,0 +1,222 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 55849.0,
+        "bid_time": "2015-12-11T11:58:38.698254+02:00",
+        "bidder": "e2f9d3f158164b4da29e79bead7183e9",
+        "time": "2015-12-11T09:59:20.039561+00:00"
+      },
+      "turn_2": {
+        "amount": 54000.0,
+        "bid_time": "2015-12-11T11:53:31.661390+02:00",
+        "bidder": "9aa514e0692543ab80a69ab60a6bf735",
+        "time": "2015-12-11T09:55:20.011175+00:00"
+      },
+      "turn_3": {
+        "bidder": "35a08b0ea0464eea9db17fb41ceef868",
+        "time": "2015-12-11T09:57:20.008102+00:00"
+      },
+      "turn_1": {
+        "amount": 56000.0,
+        "bid_time": "2015-12-11T11:51:31.552484+02:00",
+        "bidder": "cfa7560cd6bb4163929ba1b768453805",
+        "time": "2015-12-11T09:53:20.010026+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "bidder": "9aa514e0692543ab80a69ab60a6bf735",
+        "time": "2015-12-11T10:09:20.009918+00:00"
+      },
+      "turn_2": {
+        "amount": 54900.0,
+        "bid_time": "2015-12-11T12:04:24.810966+02:00",
+        "bidder": "cfa7560cd6bb4163929ba1b768453805",
+        "time": "2015-12-11T10:05:20.010377+00:00"
+      },
+      "turn_3": {
+        "amount": 54899.0,
+        "bid_time": "2015-12-11T12:06:39.508795+02:00",
+        "bidder": "e2f9d3f158164b4da29e79bead7183e9",
+        "time": "2015-12-11T10:07:20.009649+00:00"
+      },
+      "turn_1": {
+        "amount": 55000.0,
+        "bid_time": "2015-12-11T12:02:35.384634+02:00",
+        "bidder": "35a08b0ea0464eea9db17fb41ceef868",
+        "time": "2015-12-11T10:03:20.012566+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 56499.0,
+        "bid_time": "2015-12-11T11:47:36.066174+02:00",
+        "bidder": "e2f9d3f158164b4da29e79bead7183e9",
+        "time": "2015-12-11T09:49:20.010068+00:00"
+      },
+      "turn_2": {
+        "amount": 57000.0,
+        "bid_time": "2015-12-11T11:43:45.595339+02:00",
+        "bidder": "9aa514e0692543ab80a69ab60a6bf735",
+        "time": "2015-12-11T09:45:20.010469+00:00"
+      },
+      "turn_3": {
+        "amount": 56500.0,
+        "bid_time": "2015-12-11T11:45:43.993952+02:00",
+        "bidder": "35a08b0ea0464eea9db17fb41ceef868",
+        "time": "2015-12-11T09:47:20.012571+00:00"
+      },
+      "turn_1": {
+        "amount": 59000.0,
+        "bid_time": "2015-12-11T11:41:32.789353+02:00",
+        "bidder": "cfa7560cd6bb4163929ba1b768453805",
+        "time": "2015-12-11T09:43:20.014519+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "35a08b0ea0464eea9db17fb41ceef868",
+          "amount": 55000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0443695776",
+                "telephone": "0939052842",
+                "name": "Олексеенко Олег Викторович",
+                "email": "o.olekseenko@ivk-service.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37500822",
+                "legalName": "ООО \"ИВК Сервис\""
+              },
+              "name": "ООО \"ИВК Сервис\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02090",
+                "region": "Київська",
+                "streetAddress": "вул. Новаторів, 22-А, кв.202",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:02:35.384634+02:00"
+        },
+        {
+          "bidder": "cfa7560cd6bb4163929ba1b768453805",
+          "amount": 54900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "https://e-tender.biz",
+                "faxNumber": "0442778181",
+                "telephone": "0442778181",
+                "name": "Дяченко Ольга Станіславівна",
+                "email": "April100@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "24366773",
+                "legalName": "Приватне підприємство \"Апрєль\""
+              },
+              "name": "Приватне підприємство \"Апрєль\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03164",
+                "region": "Київська",
+                "streetAddress": "Генерала Наумова, 23Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:04:24.810966+02:00"
+        },
+        {
+          "bidder": "e2f9d3f158164b4da29e79bead7183e9",
+          "amount": 54899.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.kots.kiev.ua",
+                "faxNumber": "+380442385656",
+                "telephone": "+380442385654",
+                "name": "Швець Микола Петрович",
+                "email": "niko@kots.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19031061"
+              },
+              "name": "ПрАТ КОТС",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01001",
+                "region": "Київська область",
+                "streetAddress": "Хрещатик 19А",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-11T12:06:39.508795+02:00"
+        },
+        {
+          "bidder": "9aa514e0692543ab80a69ab60a6bf735",
+          "amount": 54000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380958204656, +380968543380",
+                "name": "Алексей Климнюк",
+                "email": "aleksey.klimnyuk@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3348311575",
+                "legalName": "ФОП \"Климнюк Олексій Сергійович\""
+              },
+              "name": "ФОП \"Климнюк Олексій Сергійович\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "36009",
+                "region": "Полтавская",
+                "streetAddress": "",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-11T11:53:31.661390+02:00"
+        }
+      ],
+      "time": "2015-12-11T10:09:23.968838+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T14:06:34.480890+02:00",
+          "amount": 63859.0,
+          "bidder": "cfa7560cd6bb4163929ba1b768453805"
+        },
+        {
+          "date": "2015-12-10T16:05:44.306164+02:00",
+          "amount": 61888.0,
+          "bidder": "9aa514e0692543ab80a69ab60a6bf735"
+        },
+        {
+          "date": "2015-12-10T13:37:56.358925+02:00",
+          "amount": 59848.0,
+          "bidder": "35a08b0ea0464eea9db17fb41ceef868"
+        },
+        {
+          "date": "2015-12-10T13:42:07.990816+02:00",
+          "amount": 58800.0,
+          "bidder": "e2f9d3f158164b4da29e79bead7183e9"
+        }
+      ],
+      "time": "2015-12-11T09:36:20.004414+00:00"
+    }
+  },
+  "id": "2d733dc36c2147dea7d7eaca94e2f731",
+  "tenderId": "UA-2015-12-09-000001-a"
+}

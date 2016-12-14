@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "6b310f08e3dc43debbbb5f4c5ceeab82",
+        "time": "2015-11-27T11:53:01.010680+00:00"
+      },
+      "turn_1": {
+        "bidder": "57d228fae4954a848ab22dd2c5cb0cd1",
+        "time": "2015-11-27T11:51:01.008403+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "6b310f08e3dc43debbbb5f4c5ceeab82",
+        "time": "2015-11-27T11:59:01.008166+00:00"
+      },
+      "turn_1": {
+        "bidder": "57d228fae4954a848ab22dd2c5cb0cd1",
+        "time": "2015-11-27T11:57:01.031268+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "6b310f08e3dc43debbbb5f4c5ceeab82",
+        "time": "2015-11-27T11:47:01.010689+00:00"
+      },
+      "turn_1": {
+        "bidder": "57d228fae4954a848ab22dd2c5cb0cd1",
+        "time": "2015-11-27T11:45:01.013041+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "57d228fae4954a848ab22dd2c5cb0cd1",
+          "amount": 5940.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380631006654",
+                "name": "Ирина Цыганок",
+                "email": "zuganok-irina@yandex.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2137914402",
+                "legalName": "ФОП \"Циганок Ірина Миколаївна\""
+              },
+              "name": "ФОП \"Циганок Ірина Миколаївна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03141",
+                "region": "Киевская",
+                "streetAddress": "ул. Соломенская 37",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-11-26T07:51:53.766928+02:00"
+        },
+        {
+          "bidder": "6b310f08e3dc43debbbb5f4c5ceeab82",
+          "amount": 3968.2,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.voles.com.ua",
+                "telephone": "+380445811148",
+                "name": "Матвєєнко Наталія Анатоліївна",
+                "email": "melnichuk.fedor@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39017032"
+              },
+              "name": "ТОВ Волес",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04210",
+                "region": "Київська область",
+                "streetAddress": "пр-т. Героїв Сталінграда 2Г, корп. 1",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-26T09:55:45.678594+02:00"
+        }
+      ],
+      "time": "2015-11-27T11:59:02.415330+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-26T07:51:53.766928+02:00",
+          "amount": 5940.0,
+          "bidder": "57d228fae4954a848ab22dd2c5cb0cd1"
+        },
+        {
+          "date": "2015-11-26T09:55:45.678594+02:00",
+          "amount": 3968.2,
+          "bidder": "6b310f08e3dc43debbbb5f4c5ceeab82"
+        }
+      ],
+      "time": "2015-11-27T11:38:01.003454+00:00"
+    }
+  },
+  "id": "1f06eec097b343c4b65f9e713796cde0",
+  "tenderId": "UA-2015-11-19-000158-a"
+}

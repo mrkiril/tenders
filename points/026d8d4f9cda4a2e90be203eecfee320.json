@@ -1,0 +1,108 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "86aff5e15d2347f9919c0a90632e74da",
+        "time": "2015-08-28T08:15:00.092188+00:00"
+      },
+      "turn_1": {
+        "bidder": "aacae364edc74b39875abddc43806108",
+        "time": "2015-08-28T08:13:00.052849+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "86aff5e15d2347f9919c0a90632e74da",
+        "time": "2015-08-28T08:21:00.131162+00:00"
+      },
+      "turn_1": {
+        "bidder": "aacae364edc74b39875abddc43806108",
+        "time": "2015-08-28T08:19:00.062842+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "86aff5e15d2347f9919c0a90632e74da",
+        "time": "2015-08-28T08:09:00.042805+00:00"
+      },
+      "turn_1": {
+        "bidder": "aacae364edc74b39875abddc43806108",
+        "time": "2015-08-28T08:07:00.094627+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "aacae364edc74b39875abddc43806108",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380505364559",
+                "name": "Голенков Володимир Миколайович",
+                "email": "contratos.vt@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39536506"
+              },
+              "name": "ТОВ Контратос",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "69095",
+                "region": "Запорізька область",
+                "streetAddress": "Леніна, 160 оф. 200",
+                "locality": "Запоріжжя"
+              }
+            }
+          ],
+          "time": "2015-08-26T09:55:41.406370+03:00"
+        },
+        {
+          "bidder": "86aff5e15d2347f9919c0a90632e74da",
+          "amount": 11970.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380332789500",
+                "name": "Тараненко Володимир Петрович",
+                "email": "volodymyr.taranenko@modern-expo.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "21751578"
+              },
+              "name": "ТОВ Модерн-Експо",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "45603",
+                "region": "Волинська область",
+                "streetAddress": "вул.Рівненська, 4",
+                "locality": "Струмівка"
+              }
+            }
+          ],
+          "time": "2015-08-25T10:48:17.629613+03:00"
+        }
+      ],
+      "time": "2015-08-28T08:21:06.362868+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-26T09:55:41.406370+03:00",
+          "amount": 12000.0,
+          "bidder": "aacae364edc74b39875abddc43806108"
+        },
+        {
+          "date": "2015-08-25T10:48:17.629613+03:00",
+          "amount": 11970.0,
+          "bidder": "86aff5e15d2347f9919c0a90632e74da"
+        }
+      ],
+      "time": "2015-08-28T08:00:00.073663+00:00"
+    }
+  },
+  "id": "026d8d4f9cda4a2e90be203eecfee320",
+  "tenderId": "UA-2015-08-14-000003"
+}

@@ -1,0 +1,220 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 74900.0,
+        "bid_time": "2015-11-04T12:23:44.297645+02:00",
+        "bidder": "bfcee671abfd48438f678b823542554c",
+        "time": "2015-11-04T10:25:22.009531+00:00"
+      },
+      "turn_2": {
+        "amount": 80000.0,
+        "bid_time": "2015-11-04T12:19:51.855166+02:00",
+        "bidder": "4df5f99c6eac47bbb7b3b142f4e082d3",
+        "time": "2015-11-04T10:21:22.014214+00:00"
+      },
+      "turn_3": {
+        "amount": 75000.0,
+        "bid_time": "2015-11-04T12:23:01.955043+02:00",
+        "bidder": "ba421858e40c41faa166b99ade58f43f",
+        "time": "2015-11-04T10:23:22.009572+00:00"
+      },
+      "turn_1": {
+        "amount": 82850.0,
+        "bid_time": "2015-11-04T12:18:42.337599+02:00",
+        "bidder": "21dd8acfe2ff4725a8ee9ecd89cfc729",
+        "time": "2015-11-04T10:19:22.009534+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 67600.0,
+        "bid_time": "2015-11-04T12:33:40.159446+02:00",
+        "bidder": "bfcee671abfd48438f678b823542554c",
+        "time": "2015-11-04T10:35:22.010855+00:00"
+      },
+      "turn_2": {
+        "bidder": "4df5f99c6eac47bbb7b3b142f4e082d3",
+        "time": "2015-11-04T10:31:22.008058+00:00"
+      },
+      "turn_3": {
+        "amount": 67700.0,
+        "bid_time": "2015-11-04T12:32:59.234042+02:00",
+        "bidder": "ba421858e40c41faa166b99ade58f43f",
+        "time": "2015-11-04T10:33:22.010067+00:00"
+      },
+      "turn_1": {
+        "amount": 68500.0,
+        "bid_time": "2015-11-04T12:28:16.509374+02:00",
+        "bidder": "21dd8acfe2ff4725a8ee9ecd89cfc729",
+        "time": "2015-11-04T10:29:22.009951+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 82865.0,
+        "bid_time": "2015-11-04T12:14:08.294551+02:00",
+        "bidder": "bfcee671abfd48438f678b823542554c",
+        "time": "2015-11-04T10:15:22.011505+00:00"
+      },
+      "turn_2": {
+        "bidder": "21dd8acfe2ff4725a8ee9ecd89cfc729",
+        "time": "2015-11-04T10:11:22.009028+00:00"
+      },
+      "turn_3": {
+        "amount": 83900.0,
+        "bid_time": "2015-11-04T12:12:44.108522+02:00",
+        "bidder": "ba421858e40c41faa166b99ade58f43f",
+        "time": "2015-11-04T10:13:22.012297+00:00"
+      },
+      "turn_1": {
+        "amount": 84000.0,
+        "bid_time": "2015-11-04T12:07:30.435957+02:00",
+        "bidder": "4df5f99c6eac47bbb7b3b142f4e082d3",
+        "time": "2015-11-04T10:09:22.011012+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "4df5f99c6eac47bbb7b3b142f4e082d3",
+          "amount": 80000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://e-tender.biz",
+                "faxNumber": "0512-67-05-81",
+                "telephone": "0512-670581",
+                "name": "Приватне підприємство Маіс",
+                "email": "mais670581@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "13856636",
+                "legalName": "Приватне підприємство \"Маіс\""
+              },
+              "name": "Приватне підприємство \"Маіс\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "54001",
+                "region": "Миколаївська",
+                "streetAddress": "вул.Адмиральска. 2-А,к.10",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-11-04T12:19:51.855166+02:00"
+        },
+        {
+          "bidder": "21dd8acfe2ff4725a8ee9ecd89cfc729",
+          "amount": 68500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674851598",
+                "name": "Галина Дорошенко",
+                "email": "il_galina2010@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2785816866",
+                "legalName": "ФОП \"Дорошенко Галина Петрівна\""
+              },
+              "name": "ФОП \"Дорошенко Галина Петрівна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "68001",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "Ильичевск"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:28:16.509374+02:00"
+        },
+        {
+          "bidder": "ba421858e40c41faa166b99ade58f43f",
+          "amount": 67700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "380674826620",
+                "name": "Андрей",
+                "email": "il_alumservis@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2971700441",
+                "legalName": "ФОП \"Провидошина Екатерина Петровна\""
+              },
+              "name": "ФОП \"Провидошина Екатерина Петровна\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "68002",
+                "region": "Одесская",
+                "streetAddress": "",
+                "locality": "ильичёвск"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:32:59.234042+02:00"
+        },
+        {
+          "bidder": "bfcee671abfd48438f678b823542554c",
+          "amount": 67600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://vindek.net",
+                "telephone": "+380442214710",
+                "name": "Соколов Віталій Юрійович",
+                "email": "vindekua@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2806805811"
+              },
+              "name": "ФОП Соколов Віталій Юрійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "09100",
+                "region": "Київська область",
+                "streetAddress": "вул. Гайок, буд. 237, кв. 42",
+                "locality": "місто Біла Церква"
+              }
+            }
+          ],
+          "time": "2015-11-04T12:33:40.159446+02:00"
+        }
+      ],
+      "time": "2015-11-04T10:35:39.778169+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-03T21:25:49.373962+02:00",
+          "amount": 127000.0,
+          "bidder": "4df5f99c6eac47bbb7b3b142f4e082d3"
+        },
+        {
+          "date": "2015-11-03T17:57:40.420357+02:00",
+          "amount": 103215.0,
+          "bidder": "21dd8acfe2ff4725a8ee9ecd89cfc729"
+        },
+        {
+          "date": "2015-11-03T17:55:31.178002+02:00",
+          "amount": 102010.0,
+          "bidder": "ba421858e40c41faa166b99ade58f43f"
+        },
+        {
+          "date": "2015-11-03T10:46:05.982670+02:00",
+          "amount": 85365.0,
+          "bidder": "bfcee671abfd48438f678b823542554c"
+        }
+      ],
+      "time": "2015-11-04T10:02:22.004421+00:00"
+    }
+  },
+  "id": "37370df5fd064c6bbbc3b851ac74aaf9",
+  "tenderId": "UA-2015-10-30-000220"
+}

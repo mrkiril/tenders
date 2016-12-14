@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 3210.0,
+        "bid_time": "2015-12-14T14:16:36.000640+02:00",
+        "bidder": "0bbf256ac5b44701b96edc8d8fb99e26",
+        "time": "2015-12-14T12:18:26.009723+00:00"
+      },
+      "turn_1": {
+        "bidder": "b233b8670db44999a09ddb4fe649311e",
+        "time": "2015-12-14T12:16:26.013710+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "0bbf256ac5b44701b96edc8d8fb99e26",
+        "time": "2015-12-14T12:24:26.008459+00:00"
+      },
+      "turn_1": {
+        "bidder": "b233b8670db44999a09ddb4fe649311e",
+        "time": "2015-12-14T12:22:26.008280+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 3230.0,
+        "bid_time": "2015-12-14T14:10:42.156164+02:00",
+        "bidder": "0bbf256ac5b44701b96edc8d8fb99e26",
+        "time": "2015-12-14T12:12:26.010457+00:00"
+      },
+      "turn_1": {
+        "bidder": "b233b8670db44999a09ddb4fe649311e",
+        "time": "2015-12-14T12:10:26.041800+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b233b8670db44999a09ddb4fe649311e",
+          "amount": 3525.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://ivelsy-led.com.ua",
+                "telephone": "+380503599440",
+                "name": "ТОВ \"Івелсі\"",
+                "email": "sales@ivelsy-led.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39460897",
+                "legalName": "ТОВ \"Івелсі\""
+              },
+              "name": "ТОВ \"Івелсі\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070 г. Киев, ул. Волошская, 42",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-11T16:18:28.957405+02:00"
+        },
+        {
+          "bidder": "0bbf256ac5b44701b96edc8d8fb99e26",
+          "amount": 3210.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.220tm.com",
+                "telephone": "+380674622699",
+                "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"220\"",
+                "email": "e.pavlichenko@220tm.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37916431",
+                "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"220\""
+              },
+              "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"220\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "52580, Дніпропетровська обл., Синельниківський район, селище міського типу Славгород, ВУЛИЦЯ ШОРСА, будинок 3",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T14:16:36.000640+02:00"
+        }
+      ],
+      "time": "2015-12-14T12:24:27.068634+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-11T16:18:28.957405+02:00",
+          "amount": 3525.0,
+          "bidder": "b233b8670db44999a09ddb4fe649311e"
+        },
+        {
+          "date": "2015-12-11T10:01:54.394291+02:00",
+          "amount": 3250.0,
+          "bidder": "0bbf256ac5b44701b96edc8d8fb99e26"
+        }
+      ],
+      "time": "2015-12-14T12:03:26.003951+00:00"
+    }
+  },
+  "id": "14086ae0ca5545e0bfa170c701070ac5",
+  "tenderId": "UA-2015-12-02-000170"
+}

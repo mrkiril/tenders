@@ -1,0 +1,110 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e635d816a59b456ab63e09f6ede4cf24",
+        "time": "2015-12-14T09:20:27.041414+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf11c75644214ef3993a3155006cfbfc",
+        "time": "2015-12-14T09:18:27.005840+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e635d816a59b456ab63e09f6ede4cf24",
+        "time": "2015-12-14T09:26:27.033760+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf11c75644214ef3993a3155006cfbfc",
+        "time": "2015-12-14T09:24:27.006412+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e635d816a59b456ab63e09f6ede4cf24",
+        "time": "2015-12-14T09:14:27.007046+00:00"
+      },
+      "turn_1": {
+        "bidder": "cf11c75644214ef3993a3155006cfbfc",
+        "time": "2015-12-14T09:12:27.006913+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "cf11c75644214ef3993a3155006cfbfc",
+          "amount": 500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380677921681",
+                "name": "Батрак Роман Миколайович",
+                "email": "rnb.79@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2933704543"
+              },
+              "name": "ФОП Батрак Світлана Вікторівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04074",
+                "region": "Київська область",
+                "streetAddress": "вул.О.Попова, буд.15, кв.35",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-10T10:23:11.856230+02:00"
+        },
+        {
+          "bidder": "e635d816a59b456ab63e09f6ede4cf24",
+          "amount": 498.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.debut.ua",
+                "faxNumber": "+380443900393",
+                "telephone": "+380443900393",
+                "name": "Недільченко Ольга Геннадіївна",
+                "email": "nedelchenkodebut@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39421842"
+              },
+              "name": "ТОВ Дебют-центр",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08290",
+                "region": "Київська область",
+                "streetAddress": "пгт Гостомель, вул. Чапаєва, 1-О",
+                "locality": "Ірпiнь"
+              }
+            }
+          ],
+          "time": "2015-12-10T12:06:58.149928+02:00"
+        }
+      ],
+      "time": "2015-12-14T09:26:28.025451+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-10T10:23:11.856230+02:00",
+          "amount": 500.0,
+          "bidder": "cf11c75644214ef3993a3155006cfbfc"
+        },
+        {
+          "date": "2015-12-10T12:06:58.149928+02:00",
+          "amount": 498.0,
+          "bidder": "e635d816a59b456ab63e09f6ede4cf24"
+        }
+      ],
+      "time": "2015-12-14T09:05:27.002426+00:00"
+    }
+  },
+  "id": "39125ee8f9414098b90f09d6e9a3eb22",
+  "tenderId": "UA-2015-12-03-000064"
+}

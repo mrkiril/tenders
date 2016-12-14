@@ -1,0 +1,116 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "b50a4902446e41c8825cd765b3d45514",
+        "time": "2015-12-08T12:18:32.035448+00:00"
+      },
+      "turn_1": {
+        "bidder": "eb88c2411e644aa696fad1b9cf51627d",
+        "time": "2015-12-08T12:16:32.010059+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 725.0,
+        "bid_time": "2015-12-08T14:24:20.701714+02:00",
+        "bidder": "b50a4902446e41c8825cd765b3d45514",
+        "time": "2015-12-08T12:24:32.009136+00:00"
+      },
+      "turn_1": {
+        "amount": 753.0,
+        "bid_time": "2015-12-08T14:20:55.736135+02:00",
+        "bidder": "eb88c2411e644aa696fad1b9cf51627d",
+        "time": "2015-12-08T12:22:32.011659+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "eb88c2411e644aa696fad1b9cf51627d",
+        "time": "2015-12-08T12:12:32.008810+00:00"
+      },
+      "turn_1": {
+        "amount": 755.0,
+        "bid_time": "2015-12-08T14:08:45.840033+02:00",
+        "bidder": "b50a4902446e41c8825cd765b3d45514",
+        "time": "2015-12-08T12:10:32.063729+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "eb88c2411e644aa696fad1b9cf51627d",
+          "amount": 753.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://dostupno.com.ua/",
+                "telephone": "+380990065871",
+                "name": "Зуб Андрій Олексійович",
+                "email": "calif_346@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3169712593"
+              },
+              "name": "ФОП Зуб Андрій Олексійович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "36014",
+                "region": "Полтавська область",
+                "streetAddress": "Вул. Жовтнева 73",
+                "locality": "Полтава"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:20:55.736135+02:00"
+        },
+        {
+          "bidder": "b50a4902446e41c8825cd765b3d45514",
+          "amount": 725.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380993244234, +380967979099",
+                "name": "Роман Кужель",
+                "email": "info@b24.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38948878 ",
+                "legalName": "ТОВ \"МАРО ПЛЮС \""
+              },
+              "name": "ТОВ \"МАРО ПЛЮС \"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "03115",
+                "region": "Киевская",
+                "streetAddress": "м.Київ, вул. Феодори Пушиної 8а, оф. 102",
+                "locality": "Киев"
+              }
+            }
+          ],
+          "time": "2015-12-08T14:24:20.701714+02:00"
+        }
+      ],
+      "time": "2015-12-08T12:24:32.916847+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-07T15:33:47.420895+02:00",
+          "amount": 924.0,
+          "bidder": "b50a4902446e41c8825cd765b3d45514"
+        },
+        {
+          "date": "2015-12-06T17:15:21.382306+02:00",
+          "amount": 783.0,
+          "bidder": "eb88c2411e644aa696fad1b9cf51627d"
+        }
+      ],
+      "time": "2015-12-08T12:03:32.004837+00:00"
+    }
+  },
+  "id": "0966127b4a7c48c5ba1d58bea5fad88f",
+  "tenderId": "UA-2015-12-02-000157-b"
+}

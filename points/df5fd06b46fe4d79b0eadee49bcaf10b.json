@@ -1,0 +1,220 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 34000.0,
+        "bid_time": "2015-08-10T11:21:15.573926+03:00",
+        "bidder": "3630b94ad0154b1494b2810b8aadcee7",
+        "time": "2015-08-10T08:23:00.126017+00:00"
+      },
+      "turn_2": {
+        "amount": 34000.0,
+        "bid_time": "2015-08-10T11:17:06.769370+03:00",
+        "bidder": "cc72cffcff974dacbfdb03df9885f8d7",
+        "time": "2015-08-10T08:19:00.152474+00:00"
+      },
+      "turn_3": {
+        "amount": 33900.0,
+        "bid_time": "2015-08-10T11:19:23.193721+03:00",
+        "bidder": "47822b5ace5a4bdb9565425615abc61d",
+        "time": "2015-08-10T08:21:00.151234+00:00"
+      },
+      "turn_1": {
+        "amount": 35000.0,
+        "bid_time": "2015-08-10T11:15:14.537722+03:00",
+        "bidder": "0084cba167dc4b0bb0b172803d0a3057",
+        "time": "2015-08-10T08:17:00.295224+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 31900.0,
+        "bid_time": "2015-08-10T11:31:25.184811+03:00",
+        "bidder": "47822b5ace5a4bdb9565425615abc61d",
+        "time": "2015-08-10T08:33:00.049094+00:00"
+      },
+      "turn_2": {
+        "bidder": "3630b94ad0154b1494b2810b8aadcee7",
+        "time": "2015-08-10T08:29:00.037484+00:00"
+      },
+      "turn_3": {
+        "amount": 32000.0,
+        "bid_time": "2015-08-10T11:30:41.102604+03:00",
+        "bidder": "cc72cffcff974dacbfdb03df9885f8d7",
+        "time": "2015-08-10T08:31:00.031106+00:00"
+      },
+      "turn_1": {
+        "amount": 34700.0,
+        "bid_time": "2015-08-10T11:25:21.095769+03:00",
+        "bidder": "0084cba167dc4b0bb0b172803d0a3057",
+        "time": "2015-08-10T08:27:00.091152+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 35500.0,
+        "bid_time": "2015-08-10T11:11:27.121113+03:00",
+        "bidder": "47822b5ace5a4bdb9565425615abc61d",
+        "time": "2015-08-10T08:13:00.179009+00:00"
+      },
+      "turn_2": {
+        "amount": 35600.0,
+        "bid_time": "2015-08-10T11:07:16.040613+03:00",
+        "bidder": "cc72cffcff974dacbfdb03df9885f8d7",
+        "time": "2015-08-10T08:09:00.147355+00:00"
+      },
+      "turn_3": {
+        "amount": 35100.0,
+        "bid_time": "2015-08-10T11:10:11.519376+03:00",
+        "bidder": "3630b94ad0154b1494b2810b8aadcee7",
+        "time": "2015-08-10T08:11:00.133525+00:00"
+      },
+      "turn_1": {
+        "amount": 37000.0,
+        "bid_time": "2015-08-10T11:05:11.024590+03:00",
+        "bidder": "0084cba167dc4b0bb0b172803d0a3057",
+        "time": "2015-08-10T08:07:00.046877+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "0084cba167dc4b0bb0b172803d0a3057",
+          "amount": 34700.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380661618736",
+                "name": "Ольга",
+                "email": "solo@usz.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "36712228",
+                "legalName": "ТОВ \"Укрспецзапчасть\""
+              },
+              "name": "ТОВ \"Укрспецзапчасть\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08141",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-08-10T11:25:21.095769+03:00"
+        },
+        {
+          "bidder": "3630b94ad0154b1494b2810b8aadcee7",
+          "amount": 34000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380962084491, +380504403603",
+                "name": "Юрій Танцюра",
+                "email": "ukrautotrans@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37284708",
+                "legalName": "ТОВ \"АСМ-АВТО БРОВАРИ\""
+              },
+              "name": "ТОВ \"АСМ-АВТО БРОВАРИ\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07400",
+                "region": "Киевская",
+                "streetAddress": "г. Бровары ул. Киевская 219",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-08-10T11:21:15.573926+03:00"
+        },
+        {
+          "bidder": "cc72cffcff974dacbfdb03df9885f8d7",
+          "amount": 32000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380639856641",
+                "name": "Станислав",
+                "email": "uszauto@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39611817",
+                "legalName": "ТОВ \"УСЗ Авто\""
+              },
+              "name": "ТОВ \"УСЗ Авто\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "08132",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Вишневое"
+              }
+            }
+          ],
+          "time": "2015-08-10T11:30:41.102604+03:00"
+        },
+        {
+          "bidder": "47822b5ace5a4bdb9565425615abc61d",
+          "amount": 31900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380982264775",
+                "name": "Олексій Петрович Корж",
+                "email": "asmbrovary@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38336479",
+                "legalName": "ТОВ \"ТОВ \"УКРАВТОТРАНС-БРОВАРИ\"\""
+              },
+              "name": "ТОВ \"ТОВ \"УКРАВТОТРАНС-БРОВАРИ\"\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "07400",
+                "region": "Киевская",
+                "streetAddress": "",
+                "locality": "Бровари"
+              }
+            }
+          ],
+          "time": "2015-08-10T11:31:25.184811+03:00"
+        }
+      ],
+      "time": "2015-08-10T08:33:02.490355+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-08-07T10:36:40.613630+03:00",
+          "amount": 39990.0,
+          "bidder": "0084cba167dc4b0bb0b172803d0a3057"
+        },
+        {
+          "date": "2015-08-07T10:38:48.566366+03:00",
+          "amount": 39900.0,
+          "bidder": "cc72cffcff974dacbfdb03df9885f8d7"
+        },
+        {
+          "date": "2015-08-03T12:01:23.726146+03:00",
+          "amount": 39000.0,
+          "bidder": "3630b94ad0154b1494b2810b8aadcee7"
+        },
+        {
+          "date": "2015-08-03T17:38:51.867638+03:00",
+          "amount": 38000.0,
+          "bidder": "47822b5ace5a4bdb9565425615abc61d"
+        }
+      ],
+      "time": "2015-08-10T08:00:00.006907+00:00"
+    }
+  },
+  "id": "df5fd06b46fe4d79b0eadee49bcaf10b",
+  "tenderId": "UA-2015-07-23-000062"
+}

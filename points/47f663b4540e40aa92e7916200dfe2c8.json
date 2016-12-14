@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8920503a6a5a45dcbadf6aecb400aae7",
+        "time": "2015-07-17T08:45:00.046839+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f8e542b9a5b4287835df622e9a6733f",
+        "time": "2015-07-17T08:43:00.053233+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8920503a6a5a45dcbadf6aecb400aae7",
+        "time": "2015-07-17T08:51:00.025521+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f8e542b9a5b4287835df622e9a6733f",
+        "time": "2015-07-17T08:49:00.052994+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "8920503a6a5a45dcbadf6aecb400aae7",
+        "time": "2015-07-17T08:39:00.100141+00:00"
+      },
+      "turn_1": {
+        "bidder": "8f8e542b9a5b4287835df622e9a6733f",
+        "time": "2015-07-17T08:37:00.031621+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "8f8e542b9a5b4287835df622e9a6733f",
+          "amount": 1307.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://amk.in.ua",
+                "telephone": "+380444981269",
+                "name": "ООО \"Альфа Металл Компани",
+                "email": "alfa_metall_kr@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "34202711",
+                "legalName": "ООО \"Альфа Металл Компани"
+              },
+              "name": "ООО \"Альфа Металл Компани",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "91055, г. Луганск, ул. Интернациональная, дом. 17, помещение 71",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-16T17:06:36.593770+03:00"
+        },
+        {
+          "bidder": "8920503a6a5a45dcbadf6aecb400aae7",
+          "amount": 1305.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380442251690",
+                "name": "ООО Постачгарант",
+                "email": "ab3105@bigmir.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39217874",
+                "legalName": "ООО Постачгарант"
+              },
+              "name": "ООО Постачгарант",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "01042, м. Київ, пров.Червонормiйський, 14",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-07-17T08:50:54.619017+03:00"
+        }
+      ],
+      "time": "2015-07-17T08:51:02.806305+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-07-16T17:06:36.593770+03:00",
+          "amount": 1307.0,
+          "bidder": "8f8e542b9a5b4287835df622e9a6733f"
+        },
+        {
+          "date": "2015-07-17T08:50:54.619017+03:00",
+          "amount": 1305.0,
+          "bidder": "8920503a6a5a45dcbadf6aecb400aae7"
+        }
+      ],
+      "time": "2015-07-17T08:30:00.021430+00:00"
+    }
+  },
+  "id": "47f663b4540e40aa92e7916200dfe2c8",
+  "tenderId": "UA-2015-07-08-000020"
+}

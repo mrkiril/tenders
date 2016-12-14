@@ -1,0 +1,114 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "8dff954c683b467db85f04b94c7f327c",
+        "time": "2015-12-01T09:46:04.005897+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c5c5e823f5d43809a918eb5c1f7ea12",
+        "time": "2015-12-01T09:44:04.007126+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "8dff954c683b467db85f04b94c7f327c",
+        "time": "2015-12-01T09:52:04.007220+00:00"
+      },
+      "turn_1": {
+        "bidder": "3c5c5e823f5d43809a918eb5c1f7ea12",
+        "time": "2015-12-01T09:50:04.006146+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "3c5c5e823f5d43809a918eb5c1f7ea12",
+        "time": "2015-12-01T09:40:04.018632+00:00"
+      },
+      "turn_1": {
+        "amount": 11000.0,
+        "bid_time": "2015-12-01T11:36:45.877525+02:00",
+        "bidder": "8dff954c683b467db85f04b94c7f327c",
+        "time": "2015-12-01T09:38:04.008378+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "3c5c5e823f5d43809a918eb5c1f7ea12",
+          "amount": 12000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://MuzKiosk.com.ua",
+                "telephone": "0506348894",
+                "name": "Дубіна Ігор Васильович",
+                "email": "mkstud@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2304204214",
+                "legalName": "Фізична особа- підприємець Дубіна Ігор Васильович"
+              },
+              "name": "Фізична особа- підприємець Дубіна Ігор Васильович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02121",
+                "region": "Київська",
+                "streetAddress": "вул. Декабристів 6б, кв.25",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-30T10:19:19.765422+02:00"
+        },
+        {
+          "bidder": "8dff954c683b467db85f04b94c7f327c",
+          "amount": 11000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.show-ranch.com/",
+                "telephone": "+380965361647",
+                "name": "Фізична особа-підприємець Бобер Ганна Анатоліївна",
+                "email": "ann-gelina@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2777408548",
+                "legalName": "Фізична особа-підприємець Бобер Ганна Анатоліївна"
+              },
+              "name": "Фізична особа-підприємець Бобер Ганна Анатоліївна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03189, м. Київ, вул. Академіка Вільямса, буд. 3-А, кв.17",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-01T11:36:45.877525+02:00"
+        }
+      ],
+      "time": "2015-12-01T09:52:04.797247+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-30T18:16:51.403138+02:00",
+          "amount": 12500.0,
+          "bidder": "8dff954c683b467db85f04b94c7f327c"
+        },
+        {
+          "date": "2015-11-30T10:19:19.765422+02:00",
+          "amount": 12000.0,
+          "bidder": "3c5c5e823f5d43809a918eb5c1f7ea12"
+        }
+      ],
+      "time": "2015-12-01T09:31:04.002697+00:00"
+    }
+  },
+  "id": "c83a66abccf5411eb75b45dcb739eb16",
+  "tenderId": "UA-2015-11-27-000042-b"
+}

@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "amount": 13900.0,
+        "bid_time": "2015-12-17T12:25:57.700379+02:00",
+        "bidder": "1a1faae0c2474462948cc85d48e7bc38",
+        "time": "2015-12-17T10:27:47.008655+00:00"
+      },
+      "turn_2": {
+        "bidder": "4e25a9f31f244871b4171f568f02b7cb",
+        "time": "2015-12-17T10:23:47.006966+00:00"
+      },
+      "turn_3": {
+        "amount": 14000.0,
+        "bid_time": "2015-12-17T12:23:57.743324+02:00",
+        "bidder": "81201b0548764f839b706d61294508da",
+        "time": "2015-12-17T10:25:47.008832+00:00"
+      },
+      "turn_1": {
+        "bidder": "77ca37ceabc245a2b7244bee5e1359eb",
+        "time": "2015-12-17T10:21:47.006545+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 13800.0,
+        "bid_time": "2015-12-17T12:36:03.101647+02:00",
+        "bidder": "1a1faae0c2474462948cc85d48e7bc38",
+        "time": "2015-12-17T10:37:47.007292+00:00"
+      },
+      "turn_2": {
+        "bidder": "4e25a9f31f244871b4171f568f02b7cb",
+        "time": "2015-12-17T10:33:47.007085+00:00"
+      },
+      "turn_3": {
+        "amount": 13850.0,
+        "bid_time": "2015-12-17T12:34:03.092984+02:00",
+        "bidder": "81201b0548764f839b706d61294508da",
+        "time": "2015-12-17T10:35:47.008714+00:00"
+      },
+      "turn_1": {
+        "bidder": "77ca37ceabc245a2b7244bee5e1359eb",
+        "time": "2015-12-17T10:31:47.007429+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "bidder": "4e25a9f31f244871b4171f568f02b7cb",
+        "time": "2015-12-17T10:17:47.007632+00:00"
+      },
+      "turn_2": {
+        "amount": 14300.0,
+        "bid_time": "2015-12-17T12:12:08.602058+02:00",
+        "bidder": "81201b0548764f839b706d61294508da",
+        "time": "2015-12-17T10:13:47.008925+00:00"
+      },
+      "turn_3": {
+        "bidder": "77ca37ceabc245a2b7244bee5e1359eb",
+        "time": "2015-12-17T10:15:47.007041+00:00"
+      },
+      "turn_1": {
+        "amount": 14000.0,
+        "bid_time": "2015-12-17T12:09:58.443405+02:00",
+        "bidder": "1a1faae0c2474462948cc85d48e7bc38",
+        "time": "2015-12-17T10:11:47.008463+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "77ca37ceabc245a2b7244bee5e1359eb",
+          "amount": 14800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380676791162",
+                "name": "Владимир",
+                "email": "gammacentr@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2412206990",
+                "legalName": "ФОП Квятковский Владимир Сафронович"
+              },
+              "name": "ФОП Квятковский Владимир Сафронович",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T17:55:29.358057+02:00"
+        },
+        {
+          "bidder": "4e25a9f31f244871b4171f568f02b7cb",
+          "amount": 14500.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380977355511",
+                "name": "Ирина",
+                "email": "office@focus-media.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "39640654",
+                "legalName": "ТОВ \"Фокус-Медіа\""
+              },
+              "name": "ТОВ \"Фокус-Медіа\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-14T16:16:51.362181+02:00"
+        },
+        {
+          "bidder": "81201b0548764f839b706d61294508da",
+          "amount": 13850.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380999290487",
+                "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАДДНІПРЯНОЧКА\"",
+                "email": "elena.pavlovska12@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "31652730",
+                "legalName": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАДДНІПРЯНОЧКА\""
+              },
+              "name": "ПРИВАТНЕ ПІДПРИЄМСТВО \"НАДДНІПРЯНОЧКА\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "73000, Херсонська обл., місто Херсон, ПРОСПЕКТ УШАКОВА, будинок 16 А",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-17T12:34:03.092984+02:00"
+        },
+        {
+          "bidder": "1a1faae0c2474462948cc85d48e7bc38",
+          "amount": 13800.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://factor-druk.com.ua",
+                "faxNumber": "+380577155355",
+                "telephone": "+380503012528",
+                "name": "Махно Олег Юрійович",
+                "email": "o.mahno@druk.factor.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "20030635"
+              },
+              "name": "ТОВ Фактор-Друк",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "61030",
+                "region": "Харківська область",
+                "streetAddress": "вул. Саратовська, 51",
+                "locality": "Харків"
+              }
+            }
+          ],
+          "time": "2015-12-17T12:36:03.101647+02:00"
+        }
+      ],
+      "time": "2015-12-17T10:37:48.280707+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-16T11:42:03.451967+02:00",
+          "amount": 15000.0,
+          "bidder": "1a1faae0c2474462948cc85d48e7bc38"
+        },
+        {
+          "date": "2015-12-15T11:21:50.183161+02:00",
+          "amount": 14925.0,
+          "bidder": "81201b0548764f839b706d61294508da"
+        },
+        {
+          "date": "2015-12-14T17:55:29.358057+02:00",
+          "amount": 14800.0,
+          "bidder": "77ca37ceabc245a2b7244bee5e1359eb"
+        },
+        {
+          "date": "2015-12-14T16:16:51.362181+02:00",
+          "amount": 14500.0,
+          "bidder": "4e25a9f31f244871b4171f568f02b7cb"
+        }
+      ],
+      "time": "2015-12-17T10:04:47.003058+00:00"
+    }
+  },
+  "id": "df763a18671d4a1fa0f22d1aac9f5a0c",
+  "tenderId": "UA-2015-12-14-000025-a"
+}

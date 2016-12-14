@@ -1,0 +1,154 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "e6908d4812cd4502b91d2aef93ef07c2",
+        "time": "2015-10-15T08:23:56.007338+00:00"
+      },
+      "turn_3": {
+        "bidder": "b582ebf0215a4deb8b5c2c3c5a8cd007",
+        "time": "2015-10-15T08:25:56.007828+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5a7f77981334735be4c5380f9640f11",
+        "time": "2015-10-15T08:21:56.005807+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "e6908d4812cd4502b91d2aef93ef07c2",
+        "time": "2015-10-15T08:31:56.009019+00:00"
+      },
+      "turn_3": {
+        "bidder": "b582ebf0215a4deb8b5c2c3c5a8cd007",
+        "time": "2015-10-15T08:33:56.011526+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5a7f77981334735be4c5380f9640f11",
+        "time": "2015-10-15T08:29:56.006743+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "e6908d4812cd4502b91d2aef93ef07c2",
+        "time": "2015-10-15T08:15:56.008931+00:00"
+      },
+      "turn_3": {
+        "bidder": "b582ebf0215a4deb8b5c2c3c5a8cd007",
+        "time": "2015-10-15T08:17:56.009242+00:00"
+      },
+      "turn_1": {
+        "bidder": "b5a7f77981334735be4c5380f9640f11",
+        "time": "2015-10-15T08:13:56.007911+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "b5a7f77981334735be4c5380f9640f11",
+          "amount": 5140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "380674076598",
+                "name": "ANDREI Апичук ",
+                "email": "an_y2008@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37716459",
+                "legalName": ""
+              },
+              "name": "ТОВ \"Кротстоп\"",
+              "address": {
+                "countryName": "Украина",
+                "region": "Киевская область",
+                "streetAddress": "Київ, пр-к Червоноармійський будинок 14 корпус 1, офис 3-Б"
+              }
+            }
+          ],
+          "time": "2015-10-14T13:02:55.977499+03:00"
+        },
+        {
+          "bidder": "e6908d4812cd4502b91d2aef93ef07c2",
+          "amount": 5140.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380573450888, +380573450898, +380996173022, +380507087978, +380679008976",
+                "name": "Максим Сребнюк",
+                "email": "kot@enclave.com.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "legalName": "ТОВ \"Анклав и К\"",
+                "id": "35244904",
+                "uri": "http://anklav.ua/"
+              },
+              "name": "ТОВ \"Анклав и К\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "61072",
+                "region": "Харьковская",
+                "streetAddress": "ул.23 Августа дом №62, магазин \"Анклав\"",
+                "locality": "Харьков"
+              }
+            }
+          ],
+          "time": "2015-10-12T12:29:40.991667+03:00"
+        },
+        {
+          "bidder": "b582ebf0215a4deb8b5c2c3c5a8cd007",
+          "amount": 4600.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "0444973925",
+                "telephone": "0444974580",
+                "name": "ТОВ * Каскад-Техно*",
+                "email": "igor@cascad.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "25405152",
+                "legalName": "ТОВ * Каскад-Техно*"
+              },
+              "name": "ТОВ * Каскад-Техно*",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "03126",
+                "region": "Київська",
+                "streetAddress": "Донця,19",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-14T12:59:35.971632+03:00"
+        }
+      ],
+      "time": "2015-10-15T08:33:56.755478+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-12T12:29:40.991667+03:00",
+          "amount": 5140.0,
+          "bidder": "e6908d4812cd4502b91d2aef93ef07c2"
+        },
+        {
+          "date": "2015-10-14T13:02:55.977499+03:00",
+          "amount": 5140.0,
+          "bidder": "b5a7f77981334735be4c5380f9640f11"
+        },
+        {
+          "date": "2015-10-14T12:59:35.971632+03:00",
+          "amount": 4600.0,
+          "bidder": "b582ebf0215a4deb8b5c2c3c5a8cd007"
+        }
+      ],
+      "time": "2015-10-15T08:06:56.003586+00:00"
+    }
+  },
+  "id": "2b931d82f1fa4a769d8c81be13289a5d",
+  "tenderId": "UA-2015-10-07-000236"
+}

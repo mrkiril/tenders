@@ -1,0 +1,111 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "dcfec644f48a4c9a899b90ea318707d3",
+        "time": "2015-12-07T12:23:12.009314+00:00"
+      },
+      "turn_1": {
+        "bidder": "a092b39c172c446fa093dcdc796eb4f5",
+        "time": "2015-12-07T12:21:12.011724+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "bidder": "dcfec644f48a4c9a899b90ea318707d3",
+        "time": "2015-12-07T12:29:12.010276+00:00"
+      },
+      "turn_1": {
+        "bidder": "a092b39c172c446fa093dcdc796eb4f5",
+        "time": "2015-12-07T12:27:12.012111+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "dcfec644f48a4c9a899b90ea318707d3",
+        "time": "2015-12-07T12:17:12.010681+00:00"
+      },
+      "turn_1": {
+        "bidder": "a092b39c172c446fa093dcdc796eb4f5",
+        "time": "2015-12-07T12:15:12.010005+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "a092b39c172c446fa093dcdc796eb4f5",
+          "amount": 9346.68,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380955943846",
+                "name": "ТОВ «ЄВРОКАНЦ»",
+                "email": "evrokanc@yandex.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38421569",
+                "legalName": "ТОВ «ЄВРОКАНЦ»"
+              },
+              "name": "ТОВ «ЄВРОКАНЦ»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "49107, місто Дніпропетровськ, шосе Запорізьке, 28Н",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-12-03T14:21:56.096478+02:00"
+        },
+        {
+          "bidder": "dcfec644f48a4c9a899b90ea318707d3",
+          "amount": 7839.7,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.ak.ua",
+                "faxNumber": "+380567905050",
+                "telephone": "+380567905050",
+                "name": "Бабенко Тетяна Юріївна",
+                "email": "bty@ak.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37071386"
+              },
+              "name": "ТОВ «ТПГ АЛВІС»",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "49089",
+                "region": "Дніпропетровська область",
+                "streetAddress": "вул. Суворова, 35",
+                "locality": "Дніпропетровськ"
+              }
+            }
+          ],
+          "time": "2015-12-04T11:59:31.401989+02:00"
+        }
+      ],
+      "time": "2015-12-07T12:29:14.541915+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-03T14:21:56.096478+02:00",
+          "amount": 9346.68,
+          "bidder": "a092b39c172c446fa093dcdc796eb4f5"
+        },
+        {
+          "date": "2015-12-04T11:59:31.401989+02:00",
+          "amount": 7839.7,
+          "bidder": "dcfec644f48a4c9a899b90ea318707d3"
+        }
+      ],
+      "time": "2015-12-07T12:08:12.004517+00:00"
+    }
+  },
+  "id": "3f4308570499433284121e6f31170065",
+  "tenderId": "UA-2015-11-28-000011"
+}

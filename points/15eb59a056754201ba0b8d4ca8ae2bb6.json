@@ -1,0 +1,257 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_4": {
+        "bidder": "0773a504c3f64acf8d1358b15ba7ede2",
+        "time": "2015-10-07T11:36:20.007312+00:00"
+      },
+      "turn_5": {
+        "amount": 10850.0,
+        "bid_time": "2015-10-07T14:36:36.805352+03:00",
+        "bidder": "70ea98f79b0e4dc5ae26ff7c997ed871",
+        "time": "2015-10-07T11:38:20.008471+00:00"
+      },
+      "turn_2": {
+        "bidder": "4232b7c63c544f60b1c8beed36afbc31",
+        "time": "2015-10-07T11:32:20.006433+00:00"
+      },
+      "turn_3": {
+        "amount": 11000.0,
+        "bid_time": "2015-10-07T14:33:20.263400+03:00",
+        "bidder": "b780e47a607143eaa2ce3aa2ee7fa877",
+        "time": "2015-10-07T11:34:20.008224+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b95bc267f1c4242af354410eb99bcd0",
+        "time": "2015-10-07T11:30:20.008583+00:00"
+      }
+    },
+    "round_3": {
+      "turn_4": {
+        "amount": 10000.0,
+        "bid_time": "2015-10-07T14:46:31.397605+03:00",
+        "bidder": "b780e47a607143eaa2ce3aa2ee7fa877",
+        "time": "2015-10-07T11:48:20.008356+00:00"
+      },
+      "turn_5": {
+        "amount": 9999.0,
+        "bid_time": "2015-10-07T14:49:14.888862+03:00",
+        "bidder": "70ea98f79b0e4dc5ae26ff7c997ed871",
+        "time": "2015-10-07T11:50:20.008438+00:00"
+      },
+      "turn_2": {
+        "bidder": "4232b7c63c544f60b1c8beed36afbc31",
+        "time": "2015-10-07T11:44:20.005980+00:00"
+      },
+      "turn_3": {
+        "bidder": "0773a504c3f64acf8d1358b15ba7ede2",
+        "time": "2015-10-07T11:46:20.007206+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b95bc267f1c4242af354410eb99bcd0",
+        "time": "2015-10-07T11:42:20.007900+00:00"
+      }
+    },
+    "round_1": {
+      "turn_4": {
+        "amount": 11560.0,
+        "bid_time": "2015-10-07T14:22:41.361857+03:00",
+        "bidder": "70ea98f79b0e4dc5ae26ff7c997ed871",
+        "time": "2015-10-07T11:24:20.015289+00:00"
+      },
+      "turn_5": {
+        "bidder": "b780e47a607143eaa2ce3aa2ee7fa877",
+        "time": "2015-10-07T11:26:20.011929+00:00"
+      },
+      "turn_2": {
+        "amount": 13648.0,
+        "bid_time": "2015-10-07T14:20:18.469404+03:00",
+        "bidder": "4232b7c63c544f60b1c8beed36afbc31",
+        "time": "2015-10-07T11:20:20.012505+00:00"
+      },
+      "turn_3": {
+        "amount": 12270.0,
+        "bid_time": "2015-10-07T14:20:53.719221+03:00",
+        "bidder": "0773a504c3f64acf8d1358b15ba7ede2",
+        "time": "2015-10-07T11:22:20.013843+00:00"
+      },
+      "turn_1": {
+        "bidder": "2b95bc267f1c4242af354410eb99bcd0",
+        "time": "2015-10-07T11:18:20.015360+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "2b95bc267f1c4242af354410eb99bcd0",
+          "amount": 19852.45,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://pharmacy.kiev.ua",
+                "faxNumber": "+380442735529",
+                "telephone": "+380444072141",
+                "name": "Клименчук Тетяна Павлівна",
+                "email": "klymenchuk@pharmacy.kiev.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "05415852"
+              },
+              "name": "Комунальне підприємство \"Фармація\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01030",
+                "region": "Київська область",
+                "streetAddress": "вул. І. Франка, 38-Б",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-06T12:31:15.457926+03:00"
+        },
+        {
+          "bidder": "4232b7c63c544f60b1c8beed36afbc31",
+          "amount": 13648.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380674104592",
+                "name": "Євтушенко Олексій Володимирович",
+                "email": "iakunkin@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3029623372"
+              },
+              "name": "ФОП Евтушенко Олексій Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "02091",
+                "region": "Київська область",
+                "streetAddress": "м.Київ,вулиця Тростянецька,будинок 6,квартира 384",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-10-07T14:20:18.469404+03:00"
+        },
+        {
+          "bidder": "0773a504c3f64acf8d1358b15ba7ede2",
+          "amount": 12270.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380671013164",
+                "name": "Фізична особа-підприємець Моісеєнко Сергій Володимирович",
+                "email": "annas_25@mail.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2172000033",
+                "legalName": "Фізична особа-підприємець Моісеєнко Сергій Володимирович"
+              },
+              "name": "Фізична особа-підприємець Моісеєнко Сергій Володимирович",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "61141, Харківська обл., м.Харків, вул. Заліська, 59",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T14:20:53.719221+03:00"
+        },
+        {
+          "bidder": "b780e47a607143eaa2ce3aa2ee7fa877",
+          "amount": 10000.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.oniko.ua",
+                "telephone": "+380445022446",
+                "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+                "email": "oleksandr.tkalych@oniko.ua"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "19242964",
+                "legalName": "Малое частное торгово-промышленное предприятие \"ОНИКО\""
+              },
+              "name": "Малое частное торгово-промышленное предприятие \"ОНИКО\"",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "04070, г. Киев, ул. Волошская, 55/57",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T14:46:31.397605+03:00"
+        },
+        {
+          "bidder": "70ea98f79b0e4dc5ae26ff7c997ed871",
+          "amount": 9999.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380444033972",
+                "name": "ФОП Васильченко Людмила Петрівна",
+                "email": "vasylchenko.dez@list.ru"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "2232318926",
+                "legalName": "ФОП Васильченко Людмила Петрівна"
+              },
+              "name": "ФОП Васильченко Людмила Петрівна",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "",
+                "region": "",
+                "streetAddress": "03057, м. Київ, вул. Металістів, 12в, кв.21",
+                "locality": ""
+              }
+            }
+          ],
+          "time": "2015-10-07T14:49:14.888862+03:00"
+        }
+      ],
+      "time": "2015-10-07T11:50:27.111161+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-10-06T12:31:15.457926+03:00",
+          "amount": 19852.45,
+          "bidder": "2b95bc267f1c4242af354410eb99bcd0"
+        },
+        {
+          "date": "2015-10-05T18:53:20.333842+03:00",
+          "amount": 18939.0,
+          "bidder": "4232b7c63c544f60b1c8beed36afbc31"
+        },
+        {
+          "date": "2015-10-06T12:18:55.569498+03:00",
+          "amount": 13649.0,
+          "bidder": "0773a504c3f64acf8d1358b15ba7ede2"
+        },
+        {
+          "date": "2015-10-06T13:25:36.282968+03:00",
+          "amount": 12756.0,
+          "bidder": "70ea98f79b0e4dc5ae26ff7c997ed871"
+        },
+        {
+          "date": "2015-10-05T17:32:54.358828+03:00",
+          "amount": 12272.0,
+          "bidder": "b780e47a607143eaa2ce3aa2ee7fa877"
+        }
+      ],
+      "time": "2015-10-07T11:11:20.003360+00:00"
+    }
+  },
+  "id": "15eb59a056754201ba0b8d4ca8ae2bb6",
+  "tenderId": "UA-2015-10-02-000172"
+}

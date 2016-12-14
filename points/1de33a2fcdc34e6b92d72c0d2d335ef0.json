@@ -1,0 +1,115 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "bidder": "39d590cde3ac4003b6cf752826a3eb1b",
+        "time": "2015-12-03T13:25:07.008777+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3b4a6cf928848438d390302ab5ea9f1",
+        "time": "2015-12-03T13:23:07.008334+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 34717.0,
+        "bid_time": "2015-12-03T15:29:54.797386+02:00",
+        "bidder": "39d590cde3ac4003b6cf752826a3eb1b",
+        "time": "2015-12-03T13:31:07.008736+00:00"
+      },
+      "turn_1": {
+        "amount": 34950.0,
+        "bid_time": "2015-12-03T15:27:16.409138+02:00",
+        "bidder": "e3b4a6cf928848438d390302ab5ea9f1",
+        "time": "2015-12-03T13:29:07.008236+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "bidder": "39d590cde3ac4003b6cf752826a3eb1b",
+        "time": "2015-12-03T13:19:07.026991+00:00"
+      },
+      "turn_1": {
+        "bidder": "e3b4a6cf928848438d390302ab5ea9f1",
+        "time": "2015-12-03T13:17:07.009453+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "e3b4a6cf928848438d390302ab5ea9f1",
+          "amount": 34950.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "faxNumber": "+380445002086",
+                "telephone": "+380442292408",
+                "name": "Олійник Олександр Петрович",
+                "email": "0672348985@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "38390363"
+              },
+              "name": "ТОВ Стартрейдінг",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "01015",
+                "region": "Київська область",
+                "streetAddress": "вул. Лаврська 9 корпус 19",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:27:16.409138+02:00"
+        },
+        {
+          "bidder": "39d590cde3ac4003b6cf752826a3eb1b",
+          "amount": 34717.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://www.torgprodservice.com",
+                "faxNumber": "+380444982803",
+                "telephone": "+380444982800",
+                "name": "Мовчун Тетяна Михайлівна",
+                "email": "4982800@ukr.net"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30757072"
+              },
+              "name": "ПП Торгпродсервіс",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "04108",
+                "region": "Київська область",
+                "streetAddress": "провулок Квітневий, буд. 1Б, кв. 37",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-12-03T15:29:54.797386+02:00"
+        }
+      ],
+      "time": "2015-12-03T13:31:07.958333+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-12-02T19:00:49.461556+02:00",
+          "amount": 48000.0,
+          "bidder": "e3b4a6cf928848438d390302ab5ea9f1"
+        },
+        {
+          "date": "2015-12-02T15:22:25.009838+02:00",
+          "amount": 34960.0,
+          "bidder": "39d590cde3ac4003b6cf752826a3eb1b"
+        }
+      ],
+      "time": "2015-12-03T13:10:07.005247+00:00"
+    }
+  },
+  "id": "1de33a2fcdc34e6b92d72c0d2d335ef0",
+  "tenderId": "UA-2015-11-30-000213-a"
+}

@@ -1,0 +1,161 @@
+{
+  "timeline": {
+    "round_2": {
+      "turn_2": {
+        "amount": 6200.0,
+        "bid_time": "2015-11-20T13:16:06.806788+02:00",
+        "bidder": "0dc708799e294f10ad5af7ba0f9f5de5",
+        "time": "2015-11-20T11:17:57.009800+00:00"
+      },
+      "turn_3": {
+        "amount": 6195.0,
+        "bid_time": "2015-11-20T13:18:15.819045+02:00",
+        "bidder": "96bfefd682fd49e2957ce6550de5c138",
+        "time": "2015-11-20T11:19:57.008845+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c4ecc20ed894ac0b14f12030954d38a",
+        "time": "2015-11-20T11:15:57.009613+00:00"
+      }
+    },
+    "round_3": {
+      "turn_2": {
+        "amount": 5900.0,
+        "bid_time": "2015-11-20T13:24:10.228985+02:00",
+        "bidder": "0dc708799e294f10ad5af7ba0f9f5de5",
+        "time": "2015-11-20T11:25:57.009123+00:00"
+      },
+      "turn_3": {
+        "amount": 5895.0,
+        "bid_time": "2015-11-20T13:27:07.596681+02:00",
+        "bidder": "96bfefd682fd49e2957ce6550de5c138",
+        "time": "2015-11-20T11:27:57.015925+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c4ecc20ed894ac0b14f12030954d38a",
+        "time": "2015-11-20T11:23:57.008426+00:00"
+      }
+    },
+    "round_1": {
+      "turn_2": {
+        "amount": 6490.0,
+        "bid_time": "2015-11-20T13:09:07.966513+02:00",
+        "bidder": "96bfefd682fd49e2957ce6550de5c138",
+        "time": "2015-11-20T11:09:57.010799+00:00"
+      },
+      "turn_3": {
+        "bidder": "0dc708799e294f10ad5af7ba0f9f5de5",
+        "time": "2015-11-20T11:11:57.007918+00:00"
+      },
+      "turn_1": {
+        "bidder": "9c4ecc20ed894ac0b14f12030954d38a",
+        "time": "2015-11-20T11:07:57.008455+00:00"
+      }
+    },
+    "results": {
+      "bids": [
+        {
+          "bidder": "9c4ecc20ed894ac0b14f12030954d38a",
+          "amount": 7900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "telephone": "+380675177705",
+                "name": "Виталий Терещенко",
+                "email": "amazon.ca.ukr@gmail.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "37758457",
+                "legalName": "ТОВ \"Форса-Украина\""
+              },
+              "name": "ТОВ \"Форса-Украина\"",
+              "address": {
+                "countryName": "Украина",
+                "postalCode": "54025",
+                "region": "Николаевская",
+                "streetAddress": "вул. Лучева, 19",
+                "locality": "Николаев"
+              }
+            }
+          ],
+          "time": "2015-11-18T14:24:28.968829+02:00"
+        },
+        {
+          "bidder": "0dc708799e294f10ad5af7ba0f9f5de5",
+          "amount": 5900.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "email": "akmdovzhenko@gmail.com",
+                "name": "Подлесовський Констянтин Миколайович"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "3159317891",
+                "legalName": "СПД \"Подлесовський Констянтин Миколайович\""
+              },
+              "name": "СПД \"Подлесовський Констянтин Миколайович\"",
+              "address": {
+                "countryName": "УКРАЇНА",
+                "postalCode": "67600",
+                "locality": "БІЛЯЇВКА"
+              }
+            }
+          ],
+          "time": "2015-11-20T13:24:10.228985+02:00"
+        },
+        {
+          "bidder": "96bfefd682fd49e2957ce6550de5c138",
+          "amount": 5895.0,
+          "identification": [
+            {
+              "contactPoint": {
+                "url": "http://diawest.com/",
+                "telephone": "+380442511111",
+                "name": "Мельничук Олег Петрович",
+                "email": "sales@diawest.com"
+              },
+              "identifier": {
+                "scheme": "UA-EDR",
+                "id": "30256061"
+              },
+              "name": "ТОВ ДІАВЕСТЕНД КОМПЛЕКСНІ РІШЕННЯ",
+              "address": {
+                "countryName": "Україна",
+                "postalCode": "08130",
+                "region": "Київська область",
+                "streetAddress": "Україна, Київська область, село Петропавлівська Борщагівка, будинок 62",
+                "locality": "Київ"
+              }
+            }
+          ],
+          "time": "2015-11-20T13:27:07.596681+02:00"
+        }
+      ],
+      "time": "2015-11-20T11:27:58.256116+00:00"
+    },
+    "auction_start": {
+      "initial_bids": [
+        {
+          "date": "2015-11-18T14:24:28.968829+02:00",
+          "amount": 7900.0,
+          "bidder": "9c4ecc20ed894ac0b14f12030954d38a"
+        },
+        {
+          "date": "2015-11-18T15:24:35.997137+02:00",
+          "amount": 6880.0,
+          "bidder": "96bfefd682fd49e2957ce6550de5c138"
+        },
+        {
+          "date": "2015-11-19T09:55:35.896165+02:00",
+          "amount": 6500.0,
+          "bidder": "0dc708799e294f10ad5af7ba0f9f5de5"
+        }
+      ],
+      "time": "2015-11-20T11:00:57.005598+00:00"
+    }
+  },
+  "id": "48498a5fae0f4bffacadf62620713107",
+  "tenderId": "UA-2015-11-13-000112"
+}
